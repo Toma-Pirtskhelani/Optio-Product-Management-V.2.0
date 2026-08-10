@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **61 of 237**. Regenerated 2026-08-11.
+Enriched so far: **59 of 237**. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -50,14 +50,14 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Upland | — | — | legacy | — | — | — | 3 | G | D | 2 |
 | Wigzo | — | — | — | — | — | — | 3 | G | U | 0 |
 | Xtremepush | IE | 2015 | — | — | — | — | 3 | G | D | 3 |
-| Zeta | — | — | — | — | — | — | 3 | G | D | 2 |
+| Zeta | — | — | — | — | — | — | 3 | G | U | 0 |
 | Acquia | US | 2007 | — | api-platform | — | — | 2 | G | D | 4 |
 | Act-On | — | — | — | — | 1 | 12 | 2 | G | D | 4 |
 | Airship | — | 2019 | — | — | 4 | 12 | 2 | G | D | 4 |
 | Bird | — | — | — | — | 6 | — | 2 | G | D | 4 |
 | Bloomreach | — | — | — | — | 5 | 12 | 2 | B | D | 4 |
 | Bluecore | — | — | — | — | 3 | — | 2 | G | D | 4 |
-| Capillary Technologies | — | — | — | — | — | — | 2 | G | D | 2 |
+| Capillary Technologies | — | — | — | — | — | — | 2 | G | U | 0 |
 | Cisco Systems | — | — | — | — | — | — | 2 | G | U | 0 |
 | Clear C2 | — | — | — | — | — | — | 2 | G | N | 0 |
 | ContactPigeon | — | — | — | — | — | — | 2 | G | D | 2 |
@@ -66,7 +66,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Diennea | — | — | — | — | — | — | 2 | G | D | 2 |
 | EVAM | — | — | — | — | 4 | 12 | 2 | B | D | 3 |
 | HighLevel | — | — | — | — | 2 | — | 2 | 2 | D | 3 |
-| inConcert | — | — | — | — | — | — | 2 | G | D | 2 |
+| inConcert | — | — | — | — | — | — | 2 | G | U | 0 |
 | indigitall | — | — | — | — | 7 | 12 | 2 | G | D | 3 |
 | iPresso | — | — | — | — | 5 | 12 | 2 | G | D | 4 |
 | Listrak | — | — | — | — | 4 | — | 2 | G | D | 3 |
@@ -81,7 +81,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | OneSignal | — | — | — | — | 6 | 12 | 2 | G | D | 4 |
 | OptiKPI | — | — | — | — | — | — | 2 | G | N | 0 |
 | Optimove | — | — | — | — | 6 | 12 | 2 | G | D | 3 |
-| Pegasystems | — | — | — | — | — | — | 2 | G | U | 0 |
+| Pegasystems | — | — | — | — | — | — | 2 | G | D | 4 |
 | Pipedrive | — | 2010 | — | on-premise | 2 | — | 2 | B | D | 4 |
 | Rapidops | — | — | — | managed-service | 1 | 12 | 2 | G | D | 3 |
 | Salesmsg | — | — | — | — | 1 | — | 2 | B | D | 2 |

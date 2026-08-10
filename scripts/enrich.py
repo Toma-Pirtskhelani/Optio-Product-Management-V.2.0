@@ -61,20 +61,49 @@ def candidates(company):
         return [base.replace(" ","")]
     joined = base.replace(" ","")
     hyph   = re.sub(r"\s+","-",base)
+    first = base.split()[0] if base.split() else joined
+    hosts = [joined, hyph]
+    if len(first) >= 4 and first != joined:
+        hosts.append(first)          # "Cisco Systems" -> cisco.com
     out=[]
-    for host in dict.fromkeys([joined, hyph]):
+    for host in dict.fromkeys(hosts):
         for tld in (".com",".io",".ai",".co"):
             out.append(host+tld)
-    return out[:6]
+    return out[:9]
 
-def confirm(company, s, domain):
-    """Accept a domain only if the served page identifies the company."""
-    hay = norm(" ".join(filter(None,[s.get("title"), s.get("og_site_name"),
-          " ".join(o.get("name","") for o in s.get("org",[]) if isinstance(o.get("name"),str))])))
-    n = norm(company)
-    if len(n) >= 4 and n in hay: return "name in title/og:site_name/JSON-LD"
+def confirm(company, s, domain, body_text=None):
+    """Accept a domain only if the served page identifies the company.
+
+    Bidirectional: a vendor may title its site with a shortened brand ("Pega" for
+    Pegasystems). Requiring the full name rejected real companies. A >=4-char substring
+    in either direction accepts Pega/Pegasystems while still rejecting Shiprocket/Wigzo
+    and parked domains, which is the case that matters."""
+    ttl = (s.get("title") or "").strip()
+    # Domain-parking and for-sale pages often carry the company name in the title and would
+    # otherwise pass identity. zeta.io titled itself "Zeta.io - Premium Domain For Sale".
+    marketplace = " ".join(filter(None,[ttl, s.get("og_description"), s.get("og_site_name")]))
+    if re.search(r"\bfor sale\b|premium domain|buy this domain|\bparked\b|domain broker|secure checkout and", marketplace, re.I):
+        return None
+    if norm(ttl) and norm(ttl) == norm(domain):     # title is just the domain -> placeholder
+        return None
+    ids = [x for x in [s.get("title"), s.get("og_site_name")] if x]
+    ids += [o.get("name") for o in s.get("org",[]) if isinstance(o.get("name"), str)]
+    hay = norm(" ".join(ids)); n = norm(company)
+    if len(n) >= 4 and n in hay: return "full name in title/og:site_name/JSON-LD"
+    # Shortened brand ("Pega" for Pegasystems). A prefix match alone is NOT enough:
+    # "Constant" is a prefix of "Constant Contact" and constant.com is an unrelated cloud
+    # provider. The full company name must also appear somewhere in the page body.
+    for tok in re.findall(r"[A-Za-z0-9]{4,}", " ".join(ids)):
+        tk = norm(tok)
+        if tk and n.startswith(tk) and tk in norm(domain) and n in norm(body_text or ""):
+            i = norm(body_text).find(n)
+            return (f"shortened brand '{tok}' in identity and domain; full company name present in page body"
+                    f" [proof: ...{(body_text or '')[max(0,i-60):i+80].strip()[:140]}...]")
+    # Same guard: a first-token match is only acceptable if the full company name is on the page.
     first = norm(company.split()[0])
-    if len(first) >= 5 and first in hay and first in norm(domain): return "first token in page identity and domain"
+    if (len(first) >= 5 and first in hay and first in norm(domain)
+            and n in norm(body_text or "")):
+        return "first token in identity and domain, full company name present in page body"
     return None
 
 def resolve(company, http_requests):
@@ -86,7 +115,7 @@ def resolve(company, http_requests):
             http_requests.append(dict(kind="resolve", url="https://www."+dom, http=code, bytes=len(body or "")))
         if code == 200 and len(body or "") > 400:
             s = sig(body)
-            why = confirm(company, s, dom)
+            why = confirm(company, s, dom, totext(body))
             if why: return dom, final, body, s, why
     return None, None, None, None, None
 
@@ -142,7 +171,7 @@ def extract(company, dom, pages, texts):
             if o.get("foundingDate") and not founded:
                 m=re.search(r"\d{4}",str(o["foundingDate"]))
                 if m: founded=int(m.group(0)); fsrc=p["url"]
-    e["hq_country"] = cell(country, csrc, basis="JSON-LD PostalAddress as published on the site. This is the address in the markup, not a verified headquarters.") if country else unk("No addressCountry in JSON-LD on the pages fetched.")
+    e["published_address_country"] = cell(country, csrc, basis="JSON-LD PostalAddress as published on the site. This is the address in the markup, not a verified headquarters - the field was renamed from hq_country because that name asserted more than the evidence supports.") if country else unk("No addressCountry in JSON-LD on the pages fetched.")
     e["founded_year"] = cell(founded, fsrc) if founded else unk("No foundingDate in JSON-LD on the pages fetched.")
     # positioning, verbatim from defined elements
     md = home["sig"]["meta_description"] or home["sig"]["og_description"] if home else None
@@ -206,12 +235,10 @@ def extract(company, dom, pages, texts):
         e["pricing_url"] = cell(pay["url"], pay["url"])
         e["pricing_published"] = cell("yes" if pt else "no", pay["url"],
             basis="'yes' means numeric prices appear on the page; 'no' means the page exists and shows none.")
-        e["pricing_detail"] = cell(list(dict.fromkeys(pt))[:12], pay["url"],
-            basis="numeric price tokens as they appear on the pricing page") if pt else unk("Pricing page fetched; no numeric prices served.")
         e["has_free_tier"] = cell(free, pay["url"])
         e["has_contact_sales_tier"] = cell(cs, pay["url"])
     else:
-        for k in ("pricing_url","pricing_published","pricing_detail","has_free_tier","has_contact_sales_tier"):
+        for k in ("pricing_url","pricing_published","has_free_tier","has_contact_sales_tier"):
             e[k]=unk("No pricing page reached within the 4-fetch budget.")
     e["business_model"] = unk("Replaced by has_free_tier / has_contact_sales_tier; recorded only where a vendor states terms explicitly.")
     return e

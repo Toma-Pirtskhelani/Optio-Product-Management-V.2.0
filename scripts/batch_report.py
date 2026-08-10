@@ -3,9 +3,9 @@ lo,hi=int(sys.argv[1]),int(sys.argv[2])
 recs=[json.loads(l) for l in open('outputs/companies.jsonl')]
 sl=[r for r in recs[lo:hi] if r['enrichment']['enrichment_status'] in ('done','unreachable')]
 cum=[r for r in recs if r['enrichment']['enrichment_status'] in ('done','unreachable')]
-F=["website","hq_country","founded_year","description_own","value_proposition","functionality",
+F=["website","published_address_country","founded_year","description_own","value_proposition","functionality",
    "channels","solution_type","industries_served","vertical_focus","pricing_url","pricing_published",
-   "pricing_detail","has_free_tier","has_contact_sales_tier"]
+   "has_free_tier","has_contact_sales_tier"]
 def filled(v):
     # False is a real answer for the boolean fields (no free tier), not an empty cell.
     return v is not None and v != "" and v != []

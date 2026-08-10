@@ -10,7 +10,7 @@ for r in recs:
     e=r["enrichment"]
     rows.append(dict(
         company=r["company"], cid=r["company_id"],
-        hq=v(r,"hq_country") or "—", founded=v(r,"founded_year") or "—",
+        hq=v(r,"published_address_country") or "—", founded=v(r,"founded_year") or "—",
         status=v(r,"status") or "—",
         deploy=", ".join(v(r,"solution_type") or []) or "—",
         ch=len(v(r,"channels") or []), ind=len(v(r,"industries_served") or []),
