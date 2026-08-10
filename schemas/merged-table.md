@@ -74,8 +74,8 @@ value nobody looked for.
 ### Grading
 | # | Field | Values / notes |
 |---|---|---|
-| 27 | `<field>_grade` | **Every cell carrying a number carries its own grade.** No exceptions |
-| 28 | `row_grade` | The weakest grade among the row's populated cells (§4) |
+| 27 | `<field>_grade` | **Every cell carrying a number carries its own grade.** No exceptions. **These govern** — every substantive claim is read from the cell's grade |
+| 28 | `row_grade` | Weakest grade among the row's populated cells (§4). **Advisory flag only** — "this row contains something weak," not the row's verdict |
 | 29 | `corroborated` | `yes` / `no`. `yes` requires **two different source classes** (§5) |
 | 30 | `corroborating_sources` | URLs + classes of the agreeing sources, or `—` |
 | 31 | `conflict_ids` | `C-NNNN` list, or `—` |
@@ -140,12 +140,21 @@ a company with one secondary sighting cannot land in the same table looking equa
 because the merged row mechanically reports the weaker of what went into it. You cannot
 average your way out and you cannot round up.
 
+**`row_grade` is advisory. Per-cell grades govern.**
+
+One `UNKNOWN` cell drags `row_grade` to `UNKNOWN`, and early rows will have several — so
+`row_grade` would read `UNKNOWN` almost everywhere. A signal that never varies is not a
+signal, and a grade everyone learns to ignore is worse than no grade because it occupies the
+column where the real one should be.
+
+So `row_grade` is **a flag meaning "this row contains something weak,"** used for triage. It
+is **never** used to conclude, and **never** used to suppress a well-graded cell: a `PRIMARY`
+product count inside an `UNKNOWN`-graded row is still `PRIMARY`, and is cited as `PRIMARY`.
+Claims cite the cell.
+
 **Consequences, all intended:**
-- One `UNKNOWN` cell drags `row_grade` to `UNKNOWN`. If that feels wrong, the fix is to go
-  get the missing value — not to drop the column, and not to exclude the cell from the
-  calculation.
-- A merged row is **never stronger than its weakest input**, no matter how many strong inputs
-  it has. Volume of weak evidence does not become strong evidence.
+- A merged **cell** is never stronger than its weakest input. Volume of weak evidence does not
+  become strong evidence.
 - The rule applies **across files.** A number restated in a summary carries the same grade and
   a pointer to its origin row; a derived file may hold a grade only equal to or weaker than
   its source. **No grade laundering** (`CLAUDE.md` §5).

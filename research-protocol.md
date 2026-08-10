@@ -140,6 +140,29 @@ grade. No exceptions.** Non-numeric claims carry one too wherever they are conte
 coverage. It is never quietly dropped so a table looks complete, and it is never replaced by
 an inference dressed as a range.
 
+### Grades are read per cell. `row_grade` is advisory only.
+
+**Every substantive claim is governed by the grade of the cell it comes from, not by the
+grade of the row it sits in.**
+
+`row_grade` remains the weakest grade among the row's populated cells (`merged-table.md` §4),
+but it is **a flag meaning "this row contains something weak" — not the row's verdict.**
+
+The reason is mechanical: with weakest-wins as the verdict, a single `UNKNOWN` cell — and
+early rows will have several — drags every row to `UNKNOWN`. A signal that never varies stops
+being a signal, and a grade everyone learns to ignore is worse than no grade, because it still
+occupies the column where the real one should be.
+
+So:
+- **Cite the cell's grade** when making a claim from a cell. `product_count: 122 (PRIMARY)` is
+  the claim, regardless of the row's `UNKNOWN` funding column.
+- **Use `row_grade` to triage**, not to conclude — it tells you which rows have a hole in
+  them, which is what it is good for.
+- **Never use `row_grade` to suppress a well-graded cell.** A `PRIMARY` count inside an
+  `UNKNOWN`-graded row is still `PRIMARY`.
+- Reject condition 3 in `merged-table.md` §7 still stands: `row_grade` may never be *stronger*
+  than the weakest contributing cell.
+
 **No grade laundering.** A grade is never upgraded by restating the claim in a second file.
 Every restatement carries the same grade plus a pointer to its origin row, and a derived
 file may hold a grade only **equal to or weaker than** its source.
