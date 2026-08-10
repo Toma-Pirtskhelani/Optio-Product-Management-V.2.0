@@ -327,6 +327,7 @@ evidence does not.
 ## 10. Repository map
 
 ```
+RESEARCH-LOG.md            chronological record of every step — read this first
 CLAUDE.md                  operating rules (this file)
 research-protocol.md       the standing method: ladder, grades, failure sampling, paste discipline
 industry-registry.md       the merge key — starts empty, built only by evidence
@@ -348,10 +349,30 @@ prompts/                   standing instructions, verbatim and dated
 
 ---
 
+## 10.1 RESEARCH-LOG.md — update it every time
+
+`RESEARCH-LOG.md` is the living, chronological record of the study: what was done at each step,
+what it changed, what it cost. It is the first thing a new reader — or a new session — reads.
+
+- **Every commit that changes the state of the research adds an entry.** Not housekeeping
+  commits; steps.
+- **Chronological, newest at the bottom, never rewritten.** A superseded step stays, and the
+  step that superseded it is appended after. The record of a wrong turn is audit trail.
+- **Super concise.** Two to five short lines per entry. What was done, what it changed, the
+  numbers that matter. No narration, no restating the protocol.
+- **Carry the numbers**, because they are what a reader checks: counts, block rates, grades,
+  costs.
+- **Update the closing "Where it stands" section** so the current position is never inferred
+  from reading the whole log.
+- **Incidents and reversals are entries like any other.** A log that omits its own damage is
+  not a log.
+
 ## 11. Session start checklist
 
-1. Read this file, `research-protocol.md`, and `industry-registry.md`.
-2. Confirm the blinding still holds — no client fact has entered any file.
-3. Check `logs/fetch-log.md` for open Rung-3 requests awaiting a paste.
-4. Do the work. Log every fetch and every paste as it happens, not retroactively.
-5. Commit at each logical checkpoint, push, and leave nothing uncommitted.
+1. Read `RESEARCH-LOG.md` first — it says where the study actually is.
+2. Read this file, `research-protocol.md`, and `industry-registry.md`.
+3. Confirm the blinding still holds — no client fact has entered any file.
+4. Check `logs/fetch-log.md` for open Rung-3 requests awaiting a paste.
+5. Do the work. Log every fetch and every paste as it happens, not retroactively.
+6. Commit at each logical checkpoint, push, and leave nothing uncommitted.
+7. Append to `RESEARCH-LOG.md` and refresh its "Where it stands" section before finishing.
