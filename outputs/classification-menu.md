@@ -6,6 +6,13 @@ rather than on my summary. Tick the rows you want; §7 says what happens next.
 
 **Coverage.** 10 Gartner Peer Insights markets and categories; 9 G2 leaf categories. Only what
 was supplied — nothing beyond it is enumerated or guessed.
+Branch pages: [Gartner Marketing (82 categories)](https://www.gartner.com/reviews/markets/marketing) ·
+[G2 Marketing](https://www.g2.com/marketing).
+
+**Every category name in the tables below is a link to that source's own page**, and each entry
+in §3 and §4 also cites the dated local capture the quotes were taken from. Gartner links open
+normally in a browser; **G2 category pages return 403 to automated fetching but open fine for a
+human** — which is why they are here as human transport.
 
 **At a glance:** **8 of 19 rows are IN** — 6 on Gartner (**352 products**, 6 pastes) and
 4 on G2 (**1,810 listings**, ~75 pastes). One row is BOUNDARY and one OUT verdict could flip.
@@ -66,33 +73,36 @@ months"* — a current-activity signal, not a size one.
 
 | ☐ | # | Category | Type | Verdict | Bar | Products | (Legacy) | Popular | Cost |
 |---|---|---|---|---|---|---|---|---|---|
-| ☐ | 1 | Multichannel Marketing Hubs | Market | **IN** | 6 | **122** | **5** | ● | 1 paste |
-| ☐ | 2 | Email Marketing *(Transitioning)* | Market | **IN** | 4 | **100** | 1 | ● | 1 paste |
-| ☐ | 3 | B2B Marketing Automation Platforms | Market | **IN** | 5 | **59** | 3 | ● | 1 paste |
-| ☐ | 4 | Mobile Marketing Platforms | Market | **IN** | 3 | **45** | 0 | | 1 paste |
-| ☐ | 5 | Location Based Marketing Software | *Category* | **IN** *weak basis* | none | **15** | 0 | | 1 paste |
-| ☐ | 6 | Direct Mail Automation Software | *Category* | **IN** *weak basis* | none | **11** | 0 | | 1 paste |
-| ☐ | 7 | Conversational Marketing Solutions | *Category* | **BOUNDARY** | none | **22** | 1 | | 1 paste |
-| ☐ | 8 | Customer Data Platforms | Market | OUT | 4 | 71 | 1 | ● | 1 paste |
-| ☐ | 9 | Personalization Engines | Market | OUT | 8 | 64 | 5 | ● | 1 paste |
-| ☐ | 10 | Voice of the Customer Platforms | Market | OUT | 3 (+10 sub) | 59 | 2 | ● | 1 paste |
+| ☐ | 1 | [Multichannel Marketing Hubs](https://www.gartner.com/reviews/market/multichannel-marketing-hubs) | Market | **IN** | 6 | **122** | **5** | ● | 1 paste |
+| ☐ | 2 | [Email Marketing *(Transitioning)*](https://www.gartner.com/reviews/market/email-marketing) | Market | **IN** | 4 | **100** | 1 | ● | 1 paste |
+| ☐ | 3 | [B2B Marketing Automation Platforms](https://www.gartner.com/reviews/market/b2b-marketing-automation-platforms) | Market | **IN** | 5 | **59** | 3 | ● | 1 paste |
+| ☐ | 4 | [Mobile Marketing Platforms](https://www.gartner.com/reviews/market/mobile-marketing-platforms) | Market | **IN** | 3 | **45** | 0 | | 1 paste |
+| ☐ | 5 | [Location Based Marketing Software](https://www.gartner.com/reviews/market/location-based-marketing-software) | *Category* | **IN** *weak basis* | none | **15** | 0 | | 1 paste |
+| ☐ | 6 | [Direct Mail Automation Software](https://www.gartner.com/reviews/market/direct-mail-automation-software) | *Category* | **IN** *weak basis* | none | **11** | 0 | | 1 paste |
+| ☐ | 7 | [Conversational Marketing Solutions](https://www.gartner.com/reviews/market/conversational-marketing-solutions) | *Category* | **BOUNDARY** | none | **22** | 1 | | 1 paste |
+| ☐ | 8 | [Customer Data Platforms](https://www.gartner.com/reviews/market/customer-data-platforms) | Market | OUT | 4 | 71 | 1 | ● | 1 paste |
+| ☐ | 9 | [Personalization Engines](https://www.gartner.com/reviews/market/personalization-engines) | Market | OUT | 8 | 64 | 5 | ● | 1 paste |
+| ☐ | 10 | [Voice of the Customer Platforms](https://www.gartner.com/reviews/market/voice-of-the-customer-platforms) | Market | OUT | 3 (+10 sub) | 59 | 2 | ● | 1 paste |
 
 ### G2
 
 | ☐ | # | Category | Verdict | Bar | Listings | Definition age | Cost |
 |---|---|---|---|---|---|---|---|
-| ☐ | 1 | Marketing Automation | **IN** | **10** | **511** | Jul 2025 | ~21 pastes |
-| ☐ | 2 | SMS Marketing | **IN** *Q1 implied* | 4 | **531** | Jul 2026 | ~22 pastes |
-| ☐ | 3 | Email Marketing | **IN** | 7 | **527** | Apr 2026 | ~22 pastes |
-| ☐ | 4 | Personalization | **IN** | 3 | **241** | Jul 2026 | ~10 pastes |
-| ☐ | 5 | Customer Data Platform (CDP) | OUT | 5 | 296 | Oct 2024 | ~12 pastes |
-| ☐ | 6 | Marketing Analytics | OUT | 5 | 556 | Apr 2026 | ~23 pastes |
-| ☐ | 7 | Digital Analytics | OUT | 4 | 287 | Oct 2024 | ~12 pastes |
-| ☐ | 8 | Marketing Account Intelligence | OUT | 3 | 123 | Oct 2024 | ~5 pastes |
-| ☐ | 9 | Account Data Management | **OUT — could flip** | 4 | 77 | Oct 2024 | ~4 pastes |
+| ☐ | 1 | [Marketing Automation](https://www.g2.com/categories/marketing-automation) | **IN** | **10** | **511** | Jul 2025 | ~21 pastes |
+| ☐ | 2 | [SMS Marketing](https://www.g2.com/categories/sms-marketing) | **IN** *Q1 implied* | 4 | **531** | Jul 2026 | ~22 pastes |
+| ☐ | 3 | [Email Marketing](https://www.g2.com/categories/email-marketing) | **IN** | 7 | **527** | Apr 2026 | ~22 pastes |
+| ☐ | 4 | [Personalization](https://www.g2.com/categories/personalization) | **IN** | 3 | **241** | Jul 2026 | ~10 pastes |
+| ☐ | 5 | [Customer Data Platform (CDP)](https://www.g2.com/categories/customer-data-platform-cdp) | OUT | 5 | 296 | Oct 2024 | ~12 pastes |
+| ☐ | 6 | [Marketing Analytics](https://www.g2.com/categories/marketing-analytics) | OUT | 5 | 556 | Apr 2026 | ~23 pastes |
+| ☐ | 7 | [Digital Analytics](https://www.g2.com/categories/digital-analytics) | OUT | 4 | 287 | Oct 2024 | ~12 pastes |
+| ☐ | 8 | [Marketing Account Intelligence](https://www.g2.com/categories/marketing-account-intelligence) | OUT | 3 | 123 | Oct 2024 | ~5 pastes |
+| ☐ | 9 | [Account Data Management](https://www.g2.com/categories/account-data-management) | **OUT — could flip** | 4 | 77 | Oct 2024 | ~4 pastes |
 
-**Three G2 entries are not classifications at all.** Account-Based Marketing, Lead Generation
-and Conversion Rate Optimization Tools each show **no listing count and no inclusion criteria**,
+**Three G2 entries are not classifications at all.**
+[Account-Based Marketing](https://www.g2.com/categories/account-based-marketing),
+[Lead Generation](https://www.g2.com/categories/lead-generation) and
+[Conversion Rate Optimization Tools](https://www.g2.com/categories/conversion-rate-optimization-tools)
+each show **no listing count and no inclusion criteria**,
 matching G2's published rule that *"Parent categories… do not actually contain any G2 product
 profiles."* They are navigation. Confirmed on all three.
 
@@ -103,6 +113,8 @@ profiles."* They are navigation. Confirmed on all three.
 ### 1. Multichannel Marketing Hubs
 
 *Gartner **Market** · Magic Quadrant + Critical Capabilities · **Popular** · bar **6** · **122 products** · **5 (Legacy)***
+
+**Source:** [https://www.gartner.com/reviews/market/multichannel-marketing-hubs](https://www.gartner.com/reviews/market/multichannel-marketing-hubs) · local capture `sources/raw/gartner/2026-08-10__gartner__market-multichannel-marketing-hubs__r3.md`
 
 **What the source says it is** — requirements updated October 2025
 
@@ -120,6 +132,8 @@ Its 5 legacy products — BlueVenn, Portrait Dialogue, SAP Marketing Cloud, SAS 
 
 *Gartner **Market** · Market Guide · **Popular** · bar **4** · **100 products** · **1 (Legacy)***
 
+**Source:** [https://www.gartner.com/reviews/market/email-marketing](https://www.gartner.com/reviews/market/email-marketing) · local capture `sources/raw/gartner/2026-08-10__gartner__market-email-marketing__r3.md`
+
 **What the source says it is** — requirements updated December 2025
 
 > Gartner defines email marketing as the use of the email channel to deliver and optimize marketing messages — such as brand newsletters or contextually relevant, real-time and personalized communications — in support of engagement across the customer journey. Email service providers often bolster their technology platforms with supplementary managed services to improve the value and scalability of the email channel.
@@ -133,6 +147,8 @@ Its 5 legacy products — BlueVenn, Portrait Dialogue, SAP Marketing Cloud, SAS 
 ### 3. B2B Marketing Automation Platforms
 
 *Gartner **Market** · Magic Quadrant + Critical Capabilities · **Popular** · bar **5** · **59 products** · **3 (Legacy)***
+
+**Source:** [https://www.gartner.com/reviews/market/b2b-marketing-automation-platforms](https://www.gartner.com/reviews/market/b2b-marketing-automation-platforms) · local capture `sources/raw/gartner/2026-08-10__gartner__market-b2b-marketing-automation-platforms__r3.md`
 
 **What the source says it is** — requirements updated September 2025
 
@@ -148,6 +164,8 @@ The only row scoped explicitly to **B2B**. Gartner splits B2B from the rest of m
 
 *Gartner **Market** · Market Guide only · bar **3** · **45 products** · **0 (Legacy)***
 
+**Source:** [https://www.gartner.com/reviews/market/mobile-marketing-platforms](https://www.gartner.com/reviews/market/mobile-marketing-platforms) · local capture `sources/raw/gartner/2026-08-10__gartner__market-mobile-marketing-platforms__r3.md`
+
 **What the source says it is** — requirements updated February 2026
 
 > Gartner defines mobile marketing platforms (MMPs) as software solutions that help organizations create, activate, execute, analyze and optimize mobile marketing campaigns and experiences. The platforms target audiences on their mobile device through multiple channels or message types such as SMS/text, push notifications, messaging apps, in-app messages and mobile apps.
@@ -160,7 +178,9 @@ The only row scoped explicitly to **B2B**. Gartner splits B2B from the rest of m
 
 ### 5. Location Based Marketing Software
 
-*Gartner **Peer Insights Category** — *not* an analyst market · **no published requirements** · **15 products** · **0 (Legacy)***
+*Gartner **Peer Insights Category** — not an analyst market · **no published requirements** · **15 products** · **0 (Legacy)***
+
+**Source:** [https://www.gartner.com/reviews/market/location-based-marketing-software](https://www.gartner.com/reviews/market/location-based-marketing-software) · local capture `sources/raw/gartner/2026-08-10__gartner__market-location-based-marketing-software__r3.md`
 
 **What the source says it is** — no dated requirement list exists
 
@@ -174,7 +194,9 @@ The only row scoped explicitly to **B2B**. Gartner splits B2B from the rest of m
 
 ### 6. Direct Mail Automation Software
 
-*Gartner **Peer Insights Category** — *not* an analyst market · **no published requirements** · **11 products** · **0 (Legacy)***
+*Gartner **Peer Insights Category** — not an analyst market · **no published requirements** · **11 products** · **0 (Legacy)***
+
+**Source:** [https://www.gartner.com/reviews/market/direct-mail-automation-software](https://www.gartner.com/reviews/market/direct-mail-automation-software) · local capture `sources/raw/gartner/2026-08-10__gartner__market-direct-mail-automation-software__r3.md`
 
 **What the source says it is** — no dated requirement list exists
 
@@ -188,13 +210,15 @@ The only row scoped explicitly to **B2B**. Gartner splits B2B from the rest of m
 
 ### 7. Conversational Marketing Solutions
 
-*Gartner **Peer Insights Category** — *not* an analyst market · **no published requirements** · **22 products** · **1 (Legacy)***
+*Gartner **Peer Insights Category** — not an analyst market · **no published requirements** · **22 products** · **1 (Legacy)***
+
+**Source:** [https://www.gartner.com/reviews/market/conversational-marketing-solutions](https://www.gartner.com/reviews/market/conversational-marketing-solutions) · local capture `sources/raw/gartner/2026-08-10__gartner__market-conversational-marketing-solutions__r3.md`
 
 **What the source says it is** — no dated requirement list exists
 
 > Conversational marketing is a customer-centric approach that leverages real-time, personalized interactions between companies and customers and mimics human dialogue for the vendor at scale. These technologies employ AI chatbots and automation to design session-based, cross-channel exchanges in the form of natural language dialogue, using a blend of text and audio.
 
-**Q1** — · **Q2** — · **Q3** — · **Q4 **undecidable**** → **BOUNDARY**
+**Q1** — · **Q2** — · **Q3** — · **Q4 undecidable** → **BOUNDARY**
 
 **Why Q4 lands there:** **The definition never says who starts the conversation.** *"Session-based, cross-channel exchanges in the form of natural language dialogue"* describes a two-way session, which could be customer-initiated (out of scope) or company-initiated (in scope). With no requirement list, there is nothing to settle it.
 
@@ -203,6 +227,8 @@ The only row scoped explicitly to **B2B**. Gartner splits B2B from the rest of m
 ### 8. Customer Data Platforms
 
 *Gartner **Market** · Magic Quadrant + Critical Capabilities · **Popular** · bar **4** · **71 products** · **1 (Legacy)***
+
+**Source:** [https://www.gartner.com/reviews/market/customer-data-platforms](https://www.gartner.com/reviews/market/customer-data-platforms) · local capture `sources/raw/gartner/2026-08-10__gartner__market-customer-data-platforms__r3.md`
 
 **What the source says it is** — requirements updated January 2026
 
@@ -217,6 +243,8 @@ A named boundary case from the original brief, now **settled on the source’s o
 ### 9. Personalization Engines
 
 *Gartner **Market** · Magic Quadrant + Critical Capabilities · **Popular** · bar **8** · **64 products** · **5 (Legacy)***
+
+**Source:** [https://www.gartner.com/reviews/market/personalization-engines](https://www.gartner.com/reviews/market/personalization-engines) · local capture `sources/raw/gartner/2026-08-10__gartner__market-personalization-engines__r3.md`
 
 **What the source says it is** — requirements updated February 2026
 
@@ -234,6 +262,8 @@ A named boundary case from the original brief, now **settled on the source’s o
 
 *Gartner **Market** · Magic Quadrant + Critical Capabilities · **Popular** · bar **3 top-level requirements, 10 sub-requirements** · **59 products** · **2 (Legacy)***
 
+**Source:** [https://www.gartner.com/reviews/market/voice-of-the-customer-platforms](https://www.gartner.com/reviews/market/voice-of-the-customer-platforms) · local capture `sources/raw/gartner/2026-08-10__gartner__market-voice-of-the-customer-platforms__r3.md`
+
 **What the source says it is** — requirements updated July 2026 — the freshest in the set
 
 > Gartner defines a voice of the customer (VoC) platform as one that integrates feedback collection, analysis and action into a single interconnected platform that helps understand and improve the customer experience. Sources of feedback extend beyond direct surveying to include other, more indirect and inferred sources. VoC platforms enable leaders responsible for functions such as customer service, marketing, or sales to better manage the customer experience (CX) through a deep understanding of customer needs, motivations, goals and behaviors.
@@ -245,6 +275,7 @@ A named boundary case from the original brief, now **settled on the source’s o
 This is a **feedback-in** system, the mirror image of what we are scoping. Its three requirements are collection, analysis, and internal action.
 
 Bar height is reported honestly as **3 requirements with 10 sub-points** — counting the sub-points would make it look like the hardest category here, which would be wrong.
+
 ---
 
 ## 4. G2 — what each classification is, in G2's words
@@ -252,6 +283,8 @@ Bar height is reported honestly as **3 requirements with 10 sub-points** — cou
 ### 1. Marketing Automation
 
 *G2 **leaf** · bar **10** · **511 listings** · ~21 pastes*
+
+**Source:** [https://www.g2.com/categories/marketing-automation](https://www.g2.com/categories/marketing-automation) · local capture `sources/raw/g2/2026-08-10__g2__category-marketing-automation__r3.md`
 
 **What the source says it is** — definition updated 10 July 2025
 
@@ -269,6 +302,8 @@ Explicitly **excludes** anything categorised in Email Marketing — see row 3.
 
 *G2 **leaf** · bar **4** · **531 listings** · ~22 pastes*
 
+**Source:** [https://www.g2.com/categories/sms-marketing](https://www.g2.com/categories/sms-marketing) · local capture `sources/raw/g2/2026-08-10__g2__category-sms-marketing__r3.md`
+
 **What the source says it is** — definition updated 14 July 2026
 
 > SMS marketing software, also known as text message marketing, helps companies plan and execute mobile-focused marketing campaigns by sending targeted, permission-based SMS and MMS messages to customers and prospects. These tools support personalized outreach, bulk messaging, and two-way messaging to drive customer engagement and loyalty.
@@ -282,6 +317,8 @@ Explicitly **excludes** anything categorised in Email Marketing — see row 3.
 ### 3. Email Marketing
 
 *G2 **leaf** · bar **7** · **527 listings** · ~22 pastes*
+
+**Source:** [https://www.g2.com/categories/email-marketing](https://www.g2.com/categories/email-marketing) · local capture `sources/raw/g2/2026-08-10__g2__category-email-marketing__r3.md`
 
 **What the source says it is** — definition updated 9 April 2026
 
@@ -297,6 +334,8 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 
 *G2 **leaf** · bar **3** · **241 listings** · ~10 pastes*
 
+**Source:** [https://www.g2.com/categories/personalization](https://www.g2.com/categories/personalization) · local capture `sources/raw/g2/2026-08-10__g2__category-personalization__r3.md`
+
 **What the source says it is** — definition updated 14 July 2026
 
 > Personalization software uses customer data to create tailored web experiences, messages, content, promotions, and product recommendations. The personalized experiences are created based on user activity and preferences that drive engagement across websites, emails, mobile applications, and other digital channels. These platforms leverage customer behavior, engagement history, and user profiling to adapt digital experiences to each customer or audience segment. Organizations often use personalization software to deliver more relevant content that captures their customers' attention and ultimately drives conversion rates.
@@ -310,6 +349,8 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 ### 5. Customer Data Platform (CDP)
 
 *G2 **leaf** · bar **5** · **296 listings** · ~12 pastes*
+
+**Source:** [https://www.g2.com/categories/customer-data-platform-cdp](https://www.g2.com/categories/customer-data-platform-cdp) · local capture `sources/raw/g2/2026-08-10__g2__category-customer-data-platform-cdp__r3.md`
 
 **What the source says it is** — definition updated 3 October 2024 — **the stalest in the set**
 
@@ -325,6 +366,8 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 
 *G2 **leaf** · bar **5** · **556 listings** · ~23 pastes*
 
+**Source:** [https://www.g2.com/categories/marketing-analytics](https://www.g2.com/categories/marketing-analytics) · local capture `sources/raw/g2/2026-08-10__g2__category-marketing-analytics__r3.md`
+
 **What the source says it is** — definition updated 23 April 2026
 
 > Marketing analytics software encompasses tools and processes that enable an organization to manage, evaluate, and control its marketing efforts by measuring marketing performance. These solutions simplify and optimize a business’s marketing strategies and activities. With the use of marketing analytics software, businesses can improve their return-on-investment (ROI) by identifying effective marketing methods and adjusting campaigns to maximize conversions and sales.
@@ -339,6 +382,8 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 
 *G2 **leaf** · bar **4** · **287 listings** · ~12 pastes*
 
+**Source:** [https://www.g2.com/categories/digital-analytics](https://www.g2.com/categories/digital-analytics) · local capture `sources/raw/g2/2026-08-10__g2__category-digital-analytics__r3.md`
+
 **What the source says it is** — definition updated 3 October 2024
 
 > Digital analytics software, also referred to as web analytics software, measures website engagement by tracking web traffic and visitors. Marketers, web developers, and analysts use digital analytics tools to report on the effectiveness of web experiences and to determine how visitors are interacting with their sites. By monitoring events such as page views, clicks, and conversions, businesses can distill web traffic data into meaningful insights. Digital analytics software gives organizations insights into customer behavior when encountering their brand’s website and allows reporting on online conversion, demographic, and content-interaction metrics.
@@ -350,6 +395,8 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 ### 8. Marketing Account Intelligence
 
 *G2 **leaf** · bar **3** · **123 listings** · ~5 pastes*
+
+**Source:** [https://www.g2.com/categories/marketing-account-intelligence](https://www.g2.com/categories/marketing-account-intelligence) · local capture `sources/raw/g2/2026-08-10__g2__category-marketing-account-intelligence__r3.md`
 
 **What the source says it is** — definition updated 3 October 2024
 
@@ -363,6 +410,8 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 
 *G2 **leaf** · bar **4** · **77 listings** · ~4 pastes*
 
+**Source:** [https://www.g2.com/categories/account-data-management](https://www.g2.com/categories/account-data-management) · local capture `sources/raw/g2/2026-08-10__g2__category-account-data-management__r3.md`
+
 **What the source says it is** — definition updated 3 October 2024
 
 > Account Data Management software manages prospect data throughout the account-based marketing (ABM) process so that both sales and marketing teams have continuous awareness of target accounts. In order to maximize an ABM strategy, salespeople need to know where in the pipeline a prospect is and the probability that a prospect will become a customer. Account Data Management systems serve to document and communicate all relevant account information between the sales and marketing teams. This software is deployed in marketing and sales departments to maximize the efficiency of marketing efforts and facilitate communication between the two organizations.
@@ -372,6 +421,7 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 **Why Q4 lands there:** "**Facilitate** sales and marketing communication relating to accounts within the system." I read *facilitate* as enabling communication between the sales and marketing teams, not sending to a customer — the definition supports that, describing software that "document[s] and communicate[s] all relevant account information **between the sales and marketing teams**."
 
 **The one verdict in this document that could reasonably flip.** Read *facilitate communication* as outbound and this becomes IN, bringing 77 listings with it. I am flagging it rather than deciding quietly.
+
 ---
 
 ## 5. Five things the test caught that reading names would not
@@ -421,7 +471,7 @@ comparison. One page closes it. Everything else you asked for is here.
 1. **Vendor list per ticked row.** Gartner rows come back complete in one paste each; G2 rows
    arrive ~25 at a time, so a G2 pick is a standing commitment rather than a single action.
 2. **Each vendor row carries** product, vendor, rating, review count, the **`(Legacy)`
-   marker**, and provenance back to the raw capture.
+   marker**, and provenance back to the raw capture and the live source URL.
 3. **Cross-source dedup applies the per-pair overlap rules in §5** — Gartner's three markets
    overlap, G2's two are mutually exclusive.
 4. **Ticking a BOUNDARY row is also a decision:** for Conversational Marketing Solutions the
