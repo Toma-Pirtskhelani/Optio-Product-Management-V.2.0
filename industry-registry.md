@@ -251,3 +251,26 @@ integration bucket. Appending them now is exactly the forced match §2 forbids.
 | R-0076 | Citizen Engagement Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/citizen-engagement |
 | R-0077 | Real Estate CRM Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/real-estate-crm |
 | R-0078 | Real Estate Marketing Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/real-estate-marketing |
+
+### Pass 02 — 7 Gartner entries, the first backed by definitions
+
+**These are the first registry entries in this study that rest on a source's own definition and
+mandatory-feature list rather than on a category name.** They are `ACTIVE`, not `PROVISIONAL`.
+
+`Email Marketing (Transitioning to Email Marketing Platforms)` carries **both** names as
+aliases of one entry, per §6 — the source name and the target name. A count captured before the
+transition is not comparable to one captured after.
+
+`Multichannel Marketing Hubs` is registered as its **own entry with no G2 alias**, because no
+equivalent name exists in G2's 2,235 categories (`C-0006`). Per §2, append rather than
+force-match: inventing a G2 counterpart for it would manufacture corroboration.
+
+| registry_id | normalized_name | status | alias_count | scope_verdict | first_seen |
+|---|---|---|---|---|---|
+| R-0079 | B2B Marketing Automation Platforms | ACTIVE | 1 | IN | 2026-08-10 via gartner peer-insights MARKET, bar 5, 59 products (P-0016) |
+| R-0080 | Customer Data Platforms | ACTIVE | 1 | OUT | 2026-08-10 via gartner peer-insights MARKET, bar 4, 71 products (P-0017) |
+| R-0081 | Email Marketing (Transitioning to Email Marketing Platforms) | TRANSITIONING | 1 | IN | 2026-08-10 via gartner peer-insights MARKET, bar 4, 100 products (P-0018) |
+| R-0082 | Location Based Marketing Software | ACTIVE | 1 | IN | 2026-08-10 via gartner peer-insights CATEGORY, bar none, 15 products (P-0019) |
+| R-0083 | Mobile Marketing Platforms | ACTIVE | 1 | IN | 2026-08-10 via gartner peer-insights MARKET, bar 3, 45 products (P-0020) |
+| R-0084 | Multichannel Marketing Hubs | ACTIVE | 1 | IN | 2026-08-10 via gartner peer-insights MARKET, bar 6, 122 products (P-0021) |
+| R-0085 | Personalization Engines | ACTIVE | 1 | OUT | 2026-08-10 via gartner peer-insights MARKET, bar 8, 64 products (P-0022) |

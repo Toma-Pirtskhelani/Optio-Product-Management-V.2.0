@@ -116,3 +116,28 @@ Four of the six required languages have zero attempts. The number is reported an
 fell entirely on English-language enterprise sources — Gartner at 100%, G2's category pages at
 100% — while every non-English attempt succeeded. The expected direction of the bias is not
 the observed direction *yet*. Do not generalize from `n=2`.
+
+
+### Pass 02 — Gartner Peer Insights via human transport, 2026-08-10
+
+| date | url | source | rung | outcome | obtained | raw_file | escalated_to | source_language |
+|---|---|---|---|---|---|---|---|---|
+| 2026-08-10 | https://www.gartner.com/reviews/faq | gartner | **3** | paste-received | Peer Insights governance: language eligibility, write-in vendors, incentives, non-expiry, review-vs-rating denominators, category-expansion policy | `sources/raw/web pages/gartner/…/reviews/faq#rq20` | — | en |
+| 2026-08-10 | https://www.gartner.com/reviews/market/multichannel-marketing-hubs | gartner | **3** | paste-received | definition, 6 mandatory features (Oct 2025), 122 of 122 products, 5 (Legacy) | `…/market/multichannel-marketing-hubs` | — | en |
+| 2026-08-10 | https://www.gartner.com/reviews/market/email-marketing | gartner | **3** | paste-received | definition, 4 mandatory features (Dec 2025), 100 of 100, 1 (Legacy), category marked (Transitioning to Email Marketing Platforms) | `…/market/email-marketing` | — | en |
+| 2026-08-10 | https://www.gartner.com/reviews/market/customer-data-platforms | gartner | **3** | paste-received | definition, 4 mandatory features (Jan 2026), 71 of 71, 1 (Legacy) | `…/market/customer-data-platforms` | — | en |
+| 2026-08-10 | https://www.gartner.com/reviews/market/personalization-engines | gartner | **3** | paste-received | definition, 8 mandatory features (Feb 2026), 64 of 64, 5 (Legacy) | `…/market/personalization-engines` | — | en |
+| 2026-08-10 | https://www.gartner.com/reviews/market/b2b-marketing-automation-platforms | gartner | **3** | paste-received | definition, 5 mandatory features (Sep 2025), 59 of 59, 3 (Legacy) | `…/market/b2b-marketing-automation-platforms` | — | en |
+| 2026-08-10 | https://www.gartner.com/reviews/market/mobile-marketing-platforms | gartner | **3** | paste-received | definition, 3 mandatory features (Feb 2026), 45 of 45, 0 (Legacy) | `…/market/mobile-marketing-platforms` | — | en |
+| 2026-08-10 | https://www.gartner.com/reviews/market/location-based-marketing-software | gartner | **3** | paste-received | definition, **no mandatory features**, **no analyst documents**, 15 of 15 | `…/market/location-based-marketing-software` | — | en |
+| 2026-08-10 | Gartner **Marketing branch** category list | gartner | **3** | **outstanding** | nothing — every supplied page carries the *Application Development* nav list, truncated at "View More" | — | **re-requested (Request A)** | en |
+
+**Sample type: PURPOSIVE.** The seven market pages were selected by the user, non-randomly,
+using information this study does not have. No count here generalises to the branch.
+
+**Block rate by language, pass 01 + 02 cumulative:** `en` 38 attempts / 13 blocked (34%) ·
+`tr` 1 / 0 · `es` 1 / 0 · `ru`, `zh`, `pt`, `ka` **zero attempts**. Human transport reduced the
+English block rate by supplying content no automated rung could reach; it changed nothing for
+the four untested languages. **And per `outputs/gartner-marketing-extraction.md` §6.1, three of
+those four are excluded from Gartner by published policy — so for `ru`, `tr` and `ka` the
+constraint is not our access, it is that the content does not exist.**

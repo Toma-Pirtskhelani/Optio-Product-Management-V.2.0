@@ -118,3 +118,68 @@ way", which is exactly true — and not as IN or OUT. They are re-decided when t
 | B-0047 | 2026-08-10 | Fundraising Software | category | BOUNDARY | IN-clause, recipient disputed | Same function; recipient is an alumnus or donor. | https://www.g2.com/categories/fundraising (category name only — page 403, definition NOT read) | SINGLE-SOURCE | UNKNOWN — G2's own boundary is on the blocked category page | — |
 | B-0048 | 2026-08-10 | Nonprofit CRM Software | category | BOUNDARY | BOUNDARY case 1 — CRM suite carrying a campaign module | Pipeline CRM is explicitly OUT; the same product may carry campaign orchestration. Undecidable from the category name — needs the source's inclusion criteria. | https://www.g2.com/categories/nonprofit-crm (category name only — page 403, definition NOT read) | SINGLE-SOURCE | UNKNOWN — G2's own boundary is on the blocked category page | — |
 | B-0049 | 2026-08-10 | Real Estate CRM Software | category | BOUNDARY | BOUNDARY case 1 — CRM suite carrying a campaign module | Pipeline CRM is explicitly OUT; the same product may carry campaign orchestration. Undecidable from the category name — needs the source's inclusion criteria. | https://www.g2.com/categories/real-estate-crm (category name only — page 403, definition NOT read) | SINGLE-SOURCE | UNKNOWN — G2's own boundary is on the blocked category page | — |
+
+## Pass 02 — re-resolution under the revised scope definition (2026-08-10)
+
+The 49 provisional BOUNDARY rulings from pass 01, re-decided against the recipient/channel
+definition in `CLAUDE.md` §1 and, where Gartner supplied one, against a source's own
+mandatory-feature list.
+
+**27 of 49 resolved — 9 to IN, 18 to OUT. 22 remain BOUNDARY.**
+
+Two were resolved by *evidence* rather than by the definition change, and those are the
+valuable ones: **Customer Data Platforms** and **Personalization Engines** were decided by
+reading Gartner's own mandatory-feature lists — exactly the content that was blocked when
+these were first ruled. That is what the STOP-AT-RUNG-3 rule is for.
+
+| ruling_id | subject | pass-01 verdict | pass-02 verdict | deciding reason |
+|---|---|---|---|---|
+| B-0001 | Conversational Interface Agents Software | BOUNDARY | **OUT** | Inbound response to a recipient who initiated contact. The test is who initiated delivery. |
+| B-0002 | Bot Platforms | BOUNDARY | **OUT** | Inbound response to a recipient who initiated contact. The test is who initiated delivery. |
+| B-0003 | Chatbots Software | BOUNDARY | **OUT** | Inbound response to a recipient who initiated contact. The test is who initiated delivery. |
+| B-0004 | Enterprise AI Chatbots Software | BOUNDARY | **OUT** | Inbound response to a recipient who initiated contact. The test is who initiated delivery. |
+| B-0005 | AI Chatbots Software | BOUNDARY | **OUT** | Inbound response to a recipient who initiated contact. The test is who initiated delivery. |
+| B-0006 | CRM Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0007 | Account-Based Advertising Software | BOUNDARY | **OUT** | Ad-channel placement targets a segment via an exchange; the organisation does not initiate delivery to an identified recipient. |
+| B-0008 | Book Marketing Tools | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0009 | Customer Data Platforms (CDP) | BOUNDARY | **OUT** | Gartner's CDP mandatory feature defines activation as sending segments to engagement tools — the CDP hands off, it does not initiate delivery to a recipient. |
+| B-0010 | Loyalty Management Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0011 | Event Marketing Software | BOUNDARY | **IN** | Attendee communications go to registered individuals — identified recipients. |
+| B-0012 | Local Marketing Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0013 | Multi-Location Marketing Platforms | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0014 | Other Marketing Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0015 | Personalization Software | BOUNDARY | **OUT** | In-app/on-site personalisation alters what a surface shows a visitor who came to it. None of Gartner's 8 mandatory features requires a received channel. |
+| B-0016 | Personalization Engines | BOUNDARY | **OUT** | In-app/on-site personalisation alters what a surface shows a visitor who came to it. None of Gartner's 8 mandatory features requires a received channel. |
+| B-0017 | RCS Business Messaging Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0018 | Social Media Marketing Software | BOUNDARY | **OUT** | Publishing to an audience, not delivery to an identified recipient. |
+| B-0019 | Transactional Email Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0020 | Merchant Marketing Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0021 | E-Commerce Personalization Software | BOUNDARY | **OUT** | In-app/on-site personalisation alters what a surface shows a visitor who came to it. None of Gartner's 8 mandatory features requires a received channel. |
+| B-0022 | Live Chat Software | BOUNDARY | **OUT** | Inbound response to a recipient who initiated contact. The test is who initiated delivery. |
+| B-0023 | Contact Center Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0024 | Conversational Support Software | BOUNDARY | **OUT** | Inbound response to a recipient who initiated contact. The test is who initiated delivery. |
+| B-0025 | Customer Service Automation Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0026 | Data Breach Notification Software | BOUNDARY | **IN** | Triggered delivery to identified recipients from stored records; compliance purpose does not change the function. |
+| B-0027 | Communication Platform as a Service (cPaaS) Platforms | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0028 | Geofencing Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0029 | Notification Infrastructure Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0030 | Cross-Channel Advertising Software | BOUNDARY | **OUT** | Ad-channel placement targets a segment via an exchange; the organisation does not initiate delivery to an identified recipient. |
+| B-0031 | Display Advertising Software | BOUNDARY | **OUT** | Ad-channel placement targets a segment via an exchange; the organisation does not initiate delivery to an identified recipient. |
+| B-0032 | Mobile Advertising Software | BOUNDARY | **OUT** | Ad-channel placement targets a segment via an exchange; the organisation does not initiate delivery to an identified recipient. |
+| B-0033 | Retail Media Advertising Platforms | BOUNDARY | **OUT** | Ad-channel placement targets a segment via an exchange; the organisation does not initiate delivery to an identified recipient. |
+| B-0034 | Social Media Advertising Software | BOUNDARY | **OUT** | Ad-channel placement targets a segment via an exchange; the organisation does not initiate delivery to an identified recipient. |
+| B-0035 | Recruitment Marketing Platforms | BOUNDARY | **IN** | Recipient widened: a candidate is an identified external recipient. |
+| B-0036 | Employee Referral Software | BOUNDARY | **OUT** | Recipient is the organisation's own employee — explicitly excluded. |
+| B-0037 | Programmatic Job Advertising Software | BOUNDARY | **IN** | Recipient widened: a candidate is an identified external recipient. |
+| B-0038 | Recruiting Automation Software | BOUNDARY | **IN** | Recipient widened: a candidate is an identified external recipient. |
+| B-0039 | Alumni Management Software | BOUNDARY | **IN** | Recipient widened: alumnus and donor are named recipient types. |
+| B-0040 | Construction CRM Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0041 | Financial Services CRM Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0042 | Mortgage CRM Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0043 | HIPAA Compliant Messaging Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0044 | Insurance CRM Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0045 | Legal CRM Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0046 | Donor Management Software | BOUNDARY | **IN** | Recipient widened: alumnus and donor are named recipient types. |
+| B-0047 | Fundraising Software | BOUNDARY | **IN** | Recipient widened: alumnus and donor are named recipient types. |
+| B-0048 | Nonprofit CRM Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
+| B-0049 | Real Estate CRM Software | BOUNDARY | **BOUNDARY (unchanged)** | Revised definition does not reach it — needs the source's inclusion criteria, still blocked at G2. |
