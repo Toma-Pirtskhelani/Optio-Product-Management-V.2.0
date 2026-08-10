@@ -223,7 +223,12 @@ def run_one(rec):
     if not dom:
         return dict(enrichment_status="unreachable", unreachable=True, fetches_used=0,
                     http_requests=len(http_requests), resolve_attempts=http_requests,
-                    unreachable_reason="No candidate domain served a page identifying this company.",
+                    unreachable_reason=(
+                        "Blocked: best candidate returned HTTP %d to a non-browser user agent. The domain exists; the site refused. No user-agent spoofing - escalated to the blocked-domain list for a later human-transport pass."
+                        % max((a["http"] for a in http_requests), default=0)
+                        if any(a["http"] in (401,403,405,429) for a in http_requests)
+                        else "No candidate domain served a page identifying this company (candidates tried: %s)."
+                             % ", ".join(dict.fromkeys(a["url"] for a in http_requests))[:300]),
                     fetch_log=[], raw_capture=None, retrieved_date=D)
     used=0
     def take(label,url,code=None,fin=None,b=None,sg=None):

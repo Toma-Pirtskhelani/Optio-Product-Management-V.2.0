@@ -1,0 +1,854 @@
+===== homepage :: https://www.intuit.com/
+--- SIGNALS ---
+title: Intuit®: Outdo your financial goals—all in one place
+meta_description: The Intuit platform puts a team of AI agents and trusted experts by your side.
+og_description: The Intuit platform puts a team of AI agents and trusted experts by your side.
+og_site_name: 
+h1: Outdo your financial goals—all in one place.
+h2: Expertise that helps you file smarter | Personalized guidance for your next money moves | Everything you need to power your business | Turn your emails and SMS into revenue | How Intuit drives success for | Innovation, action, and impact | Driving success together
+jsonld_org: [{"@type": "Organization", "@id": "https://www.intuit.com/#organization", "name": "Intuit Inc.", "legalName": "Intuit Inc.", "alternateName": "Intuit", "url": "https://www.intuit.com/", "logo": {"@type": "ImageObject", "@id": "https://www.intuit.com/#logo", "url": "https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/intuit-rebrand-logo-dark.svg", "caption": "Intuit"}, "image": {"@id": "https://www.intuit.com/#logo"}, "description": "Intuit is the global financial technology platform that powers prosperity for consumers, small businesses, and the self-employed with TurboTax, Credit Karma, QuickBooks, and Mailchimp.", "foundingDate": "1983", "founders": [{"@type": "Person", "name": "Scott Cook"}, {"@type": "Person", "name": "Tom Proulx"}], "employee": {"@id": "https://www.intuit.com/#sasan-goodarzi"}, "member": {"@id": "https://www.intuit.com/#sasan-goodarzi"}, "subOrganization": {"@id": "https://www.intuit.com/#enterprise-suite"}, "address": {"@type": "PostalAddress", "streetAddress": "2700 Coast Avenue", "addressLocality": "Mountain View", "addressRegion": "CA", "postalCode": "94043", "addressCountry": "US"}, "contactPoint": [{"@type": "ContactPoint", "contactType": "customer support", "url": "https://www.intuit.com/company/contact/"}, {"@type": "ContactPoint", "contactType": "investor relations", "url": "https://investors.intuit.com/"}], "sameAs": ["https://www.facebook.com/intuit", "https://www.linkedin.com/company/intuit", "https://twitter.com/Intuit", "ht
+--- TEXT ---
+Intuit®: Outdo your financial goals—all in one place
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Solutions
+ 
+Support and Blogs
+ 
+Company
+ 
+ 
+EN-US
+ 
+United States (EN)
+Canada (EN)
+Canada (FR)
+India (EN)
+Sign in
+Overview
+TurboTax
+Credit Karma
+QuickBooks
+Mailchimp
+Intuit Enterprise Suite
+Intuit Business Credit Card
+New
+For Educators
+For Enterprise
+For Accountants
+Product Support
+Overview
+TurboTax Support
+ 
+Opens in a new tab
+QuickBooks Support
+ 
+Opens in a new tab
+Accountants Community
+ 
+Opens in a new tab
+Blogs
+Intuit Blog
+TurboTax Blog
+ 
+Opens in a new tab
+Credit Karma Insights
+ 
+Opens in a new tab
+QuickBooks Blog
+ 
+Opens in a new tab
+Mailchimp Resources
+ 
+Opens in a new tab
+Tax Pro Center for Accountants
+ 
+Opens in a new tab
+About Intuit
+Company Profile
+Technology at Intuit
+Corporate Responsibility
+Diversity and Inclusion
+Worldwide Locations
+Investor Relations
+ 
+Opens in a new tab
+Accessibility
+Executive Leadership
+Press Room
+Partner Programs
+Supplier Partner Programs
+Intuit Dome
+Intuit Careers
+Intuit Careers
+Apply to Intuit
+ 
+Opens in a new tab
+Life at Intuit
+Software Engineering
+QuickBooks Live Experts
+TurboTax Live Experts
+Intuit Connect
+Intuit Connect Vegas 2026
+Intuit Connect ON
+ 
+Opens in a new tab
+ 
+ 
+ 
+Power your business with the Intuit Business Credit Card. 
+ 
+Learn more
+ 
+ 
+Outdo your financial goals—all in one place.
+The Intuit platform puts a team of AI agents and trusted experts by your side.
+ 
+See it in action
+ 
+ 
+See it in action
+ 
+ 
+ 
+TURBOTAX
+Expertise that helps you file smarter
+Personalized, AI-powered answers in real-time as you file. Dedicated tax experts at the ready to file on your behalf. All the support you need, when you need it.
+Go to TurboTax
+ 
+ 
+ 
+CREDIT KARMA
+Personalized guidance for your next money moves
+Transform data into financial improvement—with custom insights, timely recommendations, and curated offers for your credit, debt, savings, and more.
+Go to Credit Karma
+ 
+ 
+ 
+QUICKBOOKS
+Everything you need to power your business
+From books to payments to 
+payroll
+, you’re backed by a team of AI agents and live experts, all in one place. Our platform takes tasks off your plate, helps you make decisions, and powers growth.
+Go to QuickBooks
+ 
+ 
+ 
+MAILCHIMP
+Turn your emails and SMS into revenue
+With AI-backed, personalized marketing, you can create omnichannel campaigns at scale. Drive it all with AI-generated automation flows.
+Go to Mailchimp
+ 
+ 
+ 
+Your taxes done right
+ 
+ 
+ 
+Make financial progress
+ 
+ 
+ 
+Run your business
+ 
+ 
+ 
+Grow your business
+ 
+ 
+ 
+How Intuit drives success for
+Small Businesses
+Individuals
+Mid-Market Businesses
+ 
+ 
+Small Businesses
+ 
+1:34
+ 
+ 
+ 
+Meet Kris.
+ He and his team handcraft each sauna with care. Having a financial tool that saves them time means they can focus on their craft.
+Read his story
+ 
+ 
+ 
+ 
+Meet Anna.
+ She compares the quality of her cacao to the grapes of a fine wine.
+Read her story
+ 
+ 
+ 
+Meet Howard.
+ He values community-building, and SMS helps him get timely deals in the hands of his customers—just in time for dinner.
+Read his story
+Individuals
+ 
+ 
+ 
+Meet Cedric and Ria. 
+They’re flipping mobile homes and empowering communities.
+Read their story
+ 
+ 
+ 
+ 
+Meet Kim.
+ She’s building wealth over looking rich online.
+Read her story
+Mid-Market Businesses
+ 
+4:13
+ 
+ 
+ 
+Meet Brady and Marlie.
+ When selecting an ERP solution, they chose Intuit Enterprise Suite over NetSuite. Their reasons? Implementation efficiency, financial visibility, and brand trust.
+Watch their story
+ 
+3:57
+ 
+ 
+ 
+Meet Jason. 
+He’s planning fivefold growth for his outdoor service multi-entity business.
+Read his story
+ 
+4:30
+ 
+ 
+ 
+Meet Marsha. 
+She scaled her business from a community staple to a food manufacturing powerhouse.
+Watch her story
+ 
+ 
+Innovation, action, and impact
+ 
+ 
+Partnership
+Intuit Financial Intelligence Comes to Claude via Anthropic
+Learn more
+ 
+ 
+Partnership
+Intuit and OpenAI partner to revolutionize Financial Intelligence
+Learn more
+ 
+ 
+Press
+Fast Company: Intuit bets big on AI
+QuickBooks redefines financial management
+Read the story
+ 
+ 
+Innovation
+Meet your virtual team—AI agents and human experts
+See it in action
+Investors
+Intuit hosts Investor Day, reaffirms first-quarter and fiscal 2026 guidance
+Read investor news
+ 
+ 
+Innovation
+Delivering done-for-you agentic AI experiences for millions of business owners
+Read the story
+See all stories
+ 
+1 of 1
+ 
+ 
+Driving success together
+ 
+ 
+Work with us
+ 
+ 
+ 
+Learn about us
+ 
+ 
+ 
+Build with us
+ 
+Company
+ 
+About Intuit
+Investor Relations
+Corporate Responsibility
+Partner with Intuit
+Contact Us
+For Individuals
+ 
+TurboTax
+TurboTax Live
+Credit Karma
+Credit Cards
+Personal Loans
+Auto Loans
+Home Loans
+QuickBooks Solopreneur
+For Small Business
+ 
+QuickBooks
+Accounting Software
+Payroll
+Online Payments
+Invoicing Software
+Time Tracking
+Term Loans
+Line of Credit
+Bookkeeper Services
+Mailchimp
+TurboTax Live for Business
+Business Credit Card
+For Accountants
+ 
+Intuit Accountant Suite
+Lacerte Tax
+ProConnect Tax
+ProSeries Tax
+ProAdvisor Program
+Select Country
+United States
+Canada (English)
+Canada (French)
+India
+Sitemap
+Select Country
+United States
+Canada (English)
+Canada (French)
+India
+About Intuit
+Join Our Team
+Press Room
+Accessibility
+Terms and Conditions
+© 2026 Intuit Inc. All rights reserved.
+Intuit, QuickBooks, QB, TurboTax, Credit Karma, and Mailchimp are registered trademarks of Intuit Inc. Terms and conditions, features, support, pricing, and service options subject to change without notice.
+Money movement services are provided by Intuit Payments Inc., licensed as a Money Transmitter by the New York State Department of Financial Services. For details about our money transmission licenses, or for Texas customers with complaints about our service, please 
+click here.
+About cookies
+Manage cookies
+ 
+ 
+Legal
+Privacy
+Security
+Compliance
+
+===== product :: https://www.intuit.com/products/
+--- SIGNALS ---
+title: Products for Consumers, Small Businesses, and Accountants | Intuit
+meta_description: Powering prosperity around the world with Intuit products of TurboTax, Credit Karma, QuickBooks, and Mailchimp.
+og_description: Powering prosperity around the world with Intuit products of TurboTax, Credit Karma, QuickBooks, and Mailchimp.
+og_site_name: 
+h1: Intuit Ecosystem of Financial Products
+h2: Products for | POWERING PROSPERITY TOGETHER
+jsonld_org: []
+--- TEXT ---
+Products for Consumers, Small Businesses, and Accountants | Intuit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Solutions
+ 
+Support and Blogs
+ 
+Company
+ 
+ 
+EN-US
+ 
+United States (EN)
+Canada (EN)
+Canada (FR)
+India (EN)
+Sign in
+Overview
+TurboTax
+Credit Karma
+QuickBooks
+Mailchimp
+Intuit Enterprise Suite
+Intuit Business Credit Card
+New
+For Educators
+For Enterprise
+For Accountants
+Product Support
+Overview
+TurboTax Support
+ 
+Opens in a new tab
+QuickBooks Support
+ 
+Opens in a new tab
+Accountants Community
+ 
+Opens in a new tab
+Blogs
+Intuit Blog
+TurboTax Blog
+ 
+Opens in a new tab
+Credit Karma Insights
+ 
+Opens in a new tab
+QuickBooks Blog
+ 
+Opens in a new tab
+Mailchimp Resources
+ 
+Opens in a new tab
+Tax Pro Center for Accountants
+ 
+Opens in a new tab
+About Intuit
+Company Profile
+Technology at Intuit
+Corporate Responsibility
+Diversity and Inclusion
+Worldwide Locations
+Investor Relations
+ 
+Opens in a new tab
+Accessibility
+Executive Leadership
+Press Room
+Partner Programs
+Supplier Partner Programs
+Intuit Dome
+Intuit Careers
+Intuit Careers
+Apply to Intuit
+ 
+Opens in a new tab
+Life at Intuit
+Software Engineering
+QuickBooks Live Experts
+TurboTax Live Experts
+Intuit Connect
+Intuit Connect Vegas 2026
+Intuit Connect ON
+ 
+Opens in a new tab
+ 
+ 
+ 
+ 
+ 
+PRODUCTS
+Intuit Ecosystem of Financial Products
+Products for consumers, small businesses, and accountants.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products for
+ 
+TurboTax
+Credit Karma
+QuickBooks
+Mailchimp
+Pro Tax
+ 
+ 
+Get your taxes done right
+File with complete trust, whether you do it yourself or with help from tax experts.
+Go to TurboTax
+ 
+ 
+ 
+Reach your money goals
+Simplify your finances, and make the most of your money.
+Go to Credit Karma
+ 
+ 
+ 
+Seamlessly connect your business and tools
+Manage everything in one place, and make financial decisions with confidence.
+Go to QuickBooks
+ 
+ 
+ 
+Turn emails into revenue
+Use automated technology to increase customer engagement and sales.
+Go to Mailchimp
+ 
+ 
+ 
+Fuel financial prosperity for your clients
+Deliver more value with professional tax and accounting solutions centered on you.
+Go to Intuit Accountants
+ 
+HOW INTUIT POWERS PROSPERITY FOR
+Small Business
+Consumers
+Self-Employed
+ 
+ 
+Small Business
+ 
+ 
+ 
+Meet Christian.
+ A Latino entrepreneur inspires others, one dish at a time.
+Read his story
+ 
+ 
+ 
+Meet Be'Anka and Jeronica.
+ Bringing people together through the power of coffee and tea.
+Read their story
+ 
+ 
+ 
+ 
+Meet Eric.
+ An Entrepreneur with a desire to share his heritage opens doors.
+Read his story
+Consumers
+ 
+ 
+ 
+Meet Cedric and Ria. 
+Flipping mobile home that leads to shared prosperity.
+Read their story
+ 
+ 
+ 
+ 
+Meet Kim.
+ Building wealth over looking rich online.
+Read her story
+Self-Employed
+ 
+ 
+ 
+Meet Fale.
+ A basketball coach broke the mold to build a career and uplift his community.
+Read his story
+ 
+ 
+ 
+Meet Michael. 
+Carving out a niche: from frustrated cook to happy knife sharpener.
+Read his story
+POWERING PROSPERITY TOGETHER
+ 
+ 
+Work with us
+ 
+ 
+ 
+Learn about us
+ 
+ 
+ 
+Build with us
+ 
+Company
+ 
+About Intuit
+Investor Relations
+Corporate Responsibility
+Partner with Intuit
+Contact Us
+For Individuals
+ 
+TurboTax
+TurboTax Live
+Credit Karma
+Credit Cards
+Personal Loans
+Auto Loans
+Home Loans
+QuickBooks Solopreneur
+For Small Business
+ 
+QuickBooks
+Accounting Software
+Payroll
+Online Payments
+Invoicing Software
+Time Tracking
+Term Loans
+Line of Credit
+Bookkeeper Services
+Mailchimp
+TurboTax Live for Business
+Business Credit Card
+For Accountants
+ 
+Intuit Accountant Suite
+Lacerte Tax
+ProConnect Tax
+ProSeries Tax
+ProAdvisor Program
+Select Country
+United States
+Canada (English)
+Canada (French)
+India
+Sitemap
+Select Country
+United States
+Canada (English)
+Canada (French)
+India
+About Intuit
+Join Our Team
+Press Room
+Accessibility
+Terms and Conditions
+© 2026 Intuit Inc. All rights reserved.
+Intuit, QuickBooks, QB, TurboTax, Credit Karma, and Mailchimp are registered trademarks of Intuit Inc. Terms and conditions, features, support, pricing, and service options subject to change without notice.
+Money movement services are provided by Intuit Payments Inc., licensed as a Money Transmitter by the New York State Department of Financial Services. For details about our money transmission licenses, or for Texas customers with complaints about our service, please 
+click here.
+About cookies
+Manage cookies
+ 
+ 
+Legal
+Privacy
+Security
+Compliance
+
+===== pricing_or_trust :: https://www.intuit.com/compliance/
+--- SIGNALS ---
+title: Intuit: Security Certifications, Standards & Compliance
+meta_description: Learn about Intuit's commitment to security through PCI DSS, SOC 2, ISO 27001, and VPAT compliance. Download our certifications and attestations.
+og_description: Learn about Intuit's commitment to security through PCI DSS, SOC 2, ISO 27001, and VPAT compliance. Download our certifications and attestations.
+og_site_name: 
+h1: Intuit compliance
+h2: Certifications, Standards, and Regulations
+jsonld_org: []
+--- TEXT ---
+Intuit: Security Certifications, Standards & Compliance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Solutions
+ 
+Support and Blogs
+ 
+Company
+ 
+ 
+EN-US
+ 
+United States (EN)
+Canada (EN)
+Canada (FR)
+India (EN)
+Sign in
+Overview
+TurboTax
+Credit Karma
+QuickBooks
+Mailchimp
+Intuit Enterprise Suite
+Intuit Business Credit Card
+New
+For Educators
+For Enterprise
+For Accountants
+Product Support
+Overview
+TurboTax Support
+ 
+Opens in a new tab
+QuickBooks Support
+ 
+Opens in a new tab
+Accountants Community
+ 
+Opens in a new tab
+Blogs
+Intuit Blog
+TurboTax Blog
+ 
+Opens in a new tab
+Credit Karma Insights
+ 
+Opens in a new tab
+QuickBooks Blog
+ 
+Opens in a new tab
+Mailchimp Resources
+ 
+Opens in a new tab
+Tax Pro Center for Accountants
+ 
+Opens in a new tab
+About Intuit
+Company Profile
+Technology at Intuit
+Corporate Responsibility
+Diversity and Inclusion
+Worldwide Locations
+Investor Relations
+ 
+Opens in a new tab
+Accessibility
+Executive Leadership
+Press Room
+Partner Programs
+Supplier Partner Programs
+Intuit Dome
+Intuit Careers
+Intuit Careers
+Apply to Intuit
+ 
+Opens in a new tab
+Life at Intuit
+Software Engineering
+QuickBooks Live Experts
+TurboTax Live Experts
+Intuit Connect
+Intuit Connect Vegas 2026
+Intuit Connect ON
+ 
+Opens in a new tab
+ 
+ 
+ 
+ 
+Intuit compliance
+Certifications, Standards, and Regulations
+PCI
+Payment Card Industry
+The Payment Card Industry Data Security Standards (PCI DSS) is a proprietary information security standard designed to ensure that companies processing, storing or transmitting payment card information maintain a secure environment. The PCI Software Security Framework (SSF) is a collection of standards and programs for the secure design and development of payment software. PCI applies to credit cards from the major card brands, including Visa, MasterCard, American Express, Discover, and JCB.
+SOC
+Service Organization Control
+The American Institute of Certified Public Accountants (AICPA) Service Organization Controls (SOC) reports provide assurance over a service organization’s internal  controls.These reports cover controls relevant to the services provided to user entities (customers), which may include the processing, storage, and transfer of data, as well as the financial transactions and compliance aspects related to those services.
+ISO 27001
+International Standard for Information Security
+The International Organization for Standardization 27001 Standard (ISO 27001) is an information security standard that ensures office sites, development centers, support centers, and data centers are securely managed. These certifications run for 3 years (renewal audits) and have annual touchpoint audits (surveillance audits).
+VPAT
+Voluntary Product Accessibility Template
+A Voluntary Product Accessibility Template (VPAT®) is a document that explains how information and communication technology (ICT) products such as software, hardware, electronic content, and support documentation meet (conform to) the Revised 508 Standards for IT accessibility
+ 
+Company
+ 
+About Intuit
+Investor Relations
+Corporate Responsibility
+Partner with Intuit
+Contact Us
+For Individuals
+ 
+TurboTax
+TurboTax Live
+Credit Karma
+Credit Cards
+Personal Loans
+Auto Loans
+Home Loans
+QuickBooks Solopreneur
+For Small Business
+ 
+QuickBooks
+Accounting Software
+Payroll
+Online Payments
+Invoicing Software
+Time Tracking
+Term Loans
+Line of Credit
+Bookkeeper Services
+Mailchimp
+TurboTax Live for Business
+Business Credit Card
+For Accountants
+ 
+Intuit Accountant Suite
+Lacerte Tax
+ProConnect Tax
+ProSeries Tax
+ProAdvisor Program
+Select Country
+United States
+Canada (English)
+Canada (French)
+India
+Sitemap
+Select Country
+United States
+Canada (English)
+Canada (French)
+India
+About Intuit
+Join Our Team
+Press Room
+Accessibility
+Terms and Conditions
+© 2026 Intuit Inc. All rights reserved.
+Intuit, QuickBooks, QB, TurboTax, Credit Karma, and Mailchimp are registered trademarks of Intuit Inc. Terms and conditions, features, support, pricing, and service options subject to change without notice.
+Money movement services are provided by Intuit Payments Inc., licensed as a Money Transmitter by the New York State Department of Financial Services. For details about our money transmission licenses, or for Texas customers with complaints about our service, please 
+click here.
+About cookies
+Manage cookies
+ 
+ 
+Legal
+Privacy
+Security
+Compliance

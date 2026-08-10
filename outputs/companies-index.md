@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **9 of 237**. Regenerated 2026-08-11.
+Enriched so far: **27 of 237**. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -27,30 +27,30 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Klaviyo | US | 2012 | — | — | 6 | — | 5 | B | D | 4 |
 | MoEngage | — | — | — | — | 7 | — | 5 | B | D | 3 |
 | Netmera | — | — | — | — | 6 | 12 | 5 | B | D | 3 |
-| Acoustic | — | — | — | — | — | — | 4 | G | N | 0 |
-| ActiveCampaign | — | — | — | — | — | — | 4 | B | N | 0 |
-| Attentive | — | — | — | — | — | — | 4 | B | N | 0 |
-| CleverTap | — | — | — | — | — | — | 4 | G | N | 0 |
-| Insider One | — | — | — | — | — | — | 4 | B | N | 0 |
-| Intuit | — | — | — | — | — | — | 4 | B | N | 0 |
-| Oracle | — | — | legacy | — | — | — | 4 | G | N | 0 |
-| SAP | — | — | legacy | — | — | — | 4 | G | N | 0 |
-| WebEngage | — | — | — | — | — | — | 4 | B | N | 0 |
-| Zoho | — | — | — | — | — | — | 4 | B | N | 0 |
-| Constant Contact | — | — | — | — | — | — | 3 | B | N | 0 |
+| Acoustic | US | 2019 | — | — | 3 | 12 | 4 | G | D | 4 |
+| ActiveCampaign | — | — | — | — | 3 | — | 4 | B | D | 4 |
+| Attentive | US | 2016 | — | — | 4 | — | 4 | B | D | 4 |
+| CleverTap | IN | — | — | — | 6 | — | 4 | G | D | 4 |
+| Insider One | — | — | — | — | 6 | 8 | 4 | B | D | 4 |
+| Intuit | US | 1983 | — | — | 1 | — | 4 | B | D | 4 |
+| Oracle | — | — | legacy | — | 2 | — | 4 | G | D | 3 |
+| SAP | — | — | legacy | — | — | — | 4 | G | U | 0 |
+| WebEngage | — | — | — | — | 7 | — | 4 | B | D | 4 |
+| Zoho | — | — | — | — | 1 | — | 4 | B | D | 3 |
+| Constant Contact | — | — | — | — | — | — | 3 | B | U | 0 |
 | Conversion | — | — | — | — | — | — | 3 | G | N | 0 |
-| Cordial | — | — | — | — | — | — | 3 | G | N | 0 |
-| Epsilon | — | — | — | — | — | — | 3 | B | N | 0 |
-| HubSpot | — | — | — | — | — | — | 3 | B | N | 0 |
-| Netcore | — | — | — | — | — | — | 3 | G | N | 0 |
-| Omnisend | — | — | — | — | — | — | 3 | B | N | 0 |
+| Cordial | US | 2014 | — | — | 4 | — | 3 | G | D | 4 |
+| Epsilon | — | 1968 | — | — | 1 | 12 | 3 | B | D | 3 |
+| HubSpot | US | 2006 | — | — | — | — | 3 | B | D | 4 |
+| Netcore | — | — | — | — | 8 | — | 3 | G | D | 4 |
+| Omnisend | — | — | — | — | 4 | — | 3 | B | D | 4 |
 | Pushwoosh | — | — | — | — | — | — | 3 | G | N | 0 |
 | Smart Communications | — | — | — | — | — | — | 3 | G | N | 0 |
-| Tech Mahindra | — | — | — | — | — | — | 3 | G | N | 0 |
-| Upland | — | — | legacy | — | — | — | 3 | G | N | 0 |
+| Tech Mahindra | IN | — | — | — | 1 | 12 | 3 | G | D | 3 |
+| Upland | — | — | legacy | — | — | — | 3 | G | D | 2 |
 | Wigzo | — | — | — | — | — | — | 3 | G | N | 0 |
-| Xtremepush | — | — | — | — | — | — | 3 | G | N | 0 |
-| Zeta | — | — | — | — | — | — | 3 | G | N | 0 |
+| Xtremepush | IE | 2015 | — | — | — | — | 3 | G | D | 3 |
+| Zeta | — | — | — | — | — | — | 3 | G | D | 2 |
 | Acquia | — | — | — | — | — | — | 2 | G | N | 0 |
 | Act-On | — | — | — | — | — | — | 2 | G | N | 0 |
 | Airship | — | — | — | — | — | — | 2 | G | N | 0 |

@@ -1,0 +1,627 @@
+===== llms.txt :: https://www.epsilon.com/.well-known/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Epsilon CMS Content
+This file contains structured content from our CMS for AI tools.
+Generated on: 2026-08-04T18:19:43.449Z
+Total documents: 3220
+## Creative Capabilities
+Type: eps_page
+URL: /creative-capabilities
+Last Modified: 2026-06-04T16:46:53Z
+What intelligent creative can do for your marketing
+Personalization at scale requires more than just intelligent creative
+McDonalds: Star-studded creative with tasty results
+McDonald’s wanted to cultivate a new generation of brand fans. Tapping into culturally-relevant creative, they developed their “Famous Orders” campaign, a multi-channel, engaging and eye-catching program designed to make every customer feel unique.
+FAQs
+Other resources
+---
+## Products And Services/Epsilon Peoplecloud
+Type: eps_page
+URL: /products-and-services/epsilon-peoplecloud
+Last Modified: 2026-06-02T19:34:09Z
+Epsilon PeopleCloud is the only marketing platform with AI-powered identity resolution that personalises every marketing message at scale.
+Epsilon PeopleCloud offers greater flexibility
+See what impact your marketing is driving
+Our PeopleCloud platform provides a complete, reliable picture of every action your marketing drives - and it improves your performance along the way.
+Other resources
+---
+## Ai Capabilities
+Type: eps_page
+URL: /ai-capabilities
+Last Modified: 2026-06-02T20:43:53Z
+What AI can do for your marketing
+Personalization at scale requires more than AI.
+How are other marketers using AI?
+This Epsilon research report examines how marketers are using AI now, and how they hope to evolve in the near future.
+Learn how our products use AI
+FAQs
+Other resources
+---
+## Lp/The State Of Ai
+Type: eps_page
+URL: /lp/the-state-of-ai
+Last Modified: 2026-06-10T15:33:40Z
+AI is on every marketer’s mind. But how are they really using it?
+In partnership with Phronesis Partners Inc., Epsilon conducted an online survey of 259 U.S. marketers who are key decision-makers or influencers for digital advertising and AI in their organizations across the retail, financial services, CPG, restaurant and travel industries.
+Each industry is prioritizing a different facet of AI.
+---
+## Products And Services/Identity Essentials
+Type: eps_page
+URL: /products-and-services/identity-essentials
+Last Modified: 2026-03-26T18:44:26Z
+Identity Essentials
+Epsilon Identity Essentials, powered by COREid, helps you learn about your customers’ actions and understand their changing needs and intentions. It connects your customers’ online and offline worlds—including their devices, channels, and transactions—and enriches your customer profiles with industry-specific attributes. You’ll be better equipped to speak to your customers on owned and paid channels, and deliver on the promise of personalization.
+Our connected identity solution
+Want to learn more?
+---
+## Products And Services/Accelerate
+Type: eps_page
+URL: /products-and-services/accelerate
+Last Modified: 2026-06-03T14:44:18Z
+Personalised website experiences that move shoppers forward.
+Dynamic, personalised websites shouldn’t distract visitors, they should improve the shopping experience. As web visitors engage, Epsilon Accelerate transforms real-time signals into responsive design.
+Relevant products surface, paths to purchase adjust, friction fades. 
+With the power to test, refine and launch instantly, with no dev support required, brands can turn traffic into growth easily.
+Views to fuel your growth
+---
+## Products And Services/Direct Mail
+Type: eps_page
+URL: /products-and-services/direct-mail
+Last Modified: 2026-01-26T14:20:13Z
+Direct mail that delivers results
+No brand can afford to overlook channels that genuinely move the needle. Direct Mail offers a precise and tangible way to connect with consumers, build trust and strengthen loyalty. Unlike fleeting digital touchpoints, catalogue marketing stands apart delivering a personal experience that resonates with shoppers and inspires action.
+Trusted by leading brands
+Piglet in Bed: Awakens rapid LTV growth with Direct Mail
+British lifestyle brand Piglet in Bed, famed for its bedding and sleepwear, wanted to explore direct mail to acquire new customers, elevate revenue streams and deepen engagement with their existing customers.
+Thanks to Epsilon, Piglet In Bed's acquisition campaigns achieved:
+25% higher Average Order Value
+35% increase in Lifetime Value
+CV Villas: Charts a new route to customer acquisition 
+Discover how CV Villas, a leading villa holiday specialist with over 50 years of experience, embarked on a transformative journey to diversify its customer acquisition strategy.
+Using direct mail as an acquisition channel resulted in:
+20:1 ROAS over the key January period 
+x3 increase in mailable prospects
+10% uplift in booking value vs returning customers
+School up with Epsilon resources
+---
+## Products And Services/Epsilon Digital/Online Video
+Type: eps_page
+URL: /products-and-services/epsilon-digital/online-video
+Last Modified: 2026-06-24T16:03:05Z
+Online Video focused on your top buyers.
+Epsilon Online Video connects your brand with high-value audiences through video ads served across publisher sites and apps on desktop, tablet and mobile. 
+Person-based identity replaces cookies and device IDs, giving you precise reach and optimal frequency control across every channel on the platform.
+What is online video advertising?
+How does Epsilon Online Video work?
+Your first-party data is matched against Epsilon's CORE Identity graph, which resolves individuals across browsers and devices into a single profile, without relying on third-party cookies.
+From there, each person is ranked by their likelihood to take your desired action, and campaigns activate across thousands of publisher partners with frequency managed at the person level across all channels on the platform.
+How your video creative can work harder
+---
+## Epsilon Podcasts
+Type: eps_page
+URL: /epsilon-podcasts
+Last Modified: 2026-07-15T18:29:20Z
+Podcasts 
+Catch-up on the latest conversations in digital advertising, retail media and loyalty.
+---
+## Products And Services/Epsilon Peoplecloud/Clean Room
+Type: eps_page
+URL: /products-and-services/epsilon-peoplecloud/clean-room
+Last Modified: 2026-05-07T17:23:03Z
+Open your brand to a world of fresh new faces.
+Epsilon’s data clean room gives brands access to a universe of potential customers. Our clean room comes with data and identity built-in from day one, giving you insights on 255M+ unique US individuals to create audiences of those most likely to buy.
+---
+## Use Cases
+Type: eps_page
+URL: /use-cases
+Last Modified: 2026-07-30T14:41:23Z
+Discover how we’ve helped the world’s leading brands grow
+---
+## Identity Capabilities
+Type: eps_page
+URL: /identity-capabilities
+Last Modified: 2026-06-02T20:45:09Z
+What identity resolution can do for your marketing
+Personalization at scale requires more than just identity resolution.
+Ulta: Going more than skin deep thanks to identity
+Creating emotional connections with customers is especially important in the beauty industry. Working with Epsilon, Ulta Beauty used identity resolution to get a comprehensive view of their customer and tap into rich insights for more personalized connections with consumers—and help the brands it serves to do the same.
+Learn how our products use identity resolution
+FAQs
+Other resources
+---
+## Trends/Identity In Action
+Type: eps_page
+URL: /trends/identity-in-action
+Last Modified: 2026-04-16T21:18:38Z
+One Identity. One Experience. Endless Possibilities.
+A unified identity ties together every touchpoint—both online and offline—letting you connect with customers more effectively. With Epsilon’s identity resolution technology, you can break down data silos and run cross-channel campaigns that drive engagement and boost ROI.
+Identity-Driven Success Starts with Epsilon
+---
+## Products And Services/Identity Core Id
+Type: eps_page
+URL: /products-and-services/identity-core-id
+Last Modified: 2026-04-20T10:51:37Z
+Fill the gaps in your customer data
+For over a decade, Epsilon has strengthened COREid through trusted publisher partnerships and continuous validation. This creates a live, ever-expanding network that can identify and reach real people at scale.
+COREid underpins all Epsilon products, enabling brands to recognise, reach and measure individuals with precision and prove outcomes, not just intent.
+FAQs
+An industry-verified complete solution
+---
+## Cross Channel Messaging
+Type: eps_page
+URL: /cross-channel-messaging
+Last Modified: 2026-05-27T23:07:01Z
+Harmonize messages across your paid, owned and earned channels.
+For your marketing to be effective, you need to engage each consumer with a message they’ll care about—in every interaction, regardless of channel. Using 1 Voice, harmonized across paid, owned and earned channels, enables you to have a conversation that builds a relationship with each consumer.
+1 Voice in action
+See how 1 Voice will help you have conversations that build relationships.
+Epsilon PeopleCloud
+Our PeopleCloud platform is the bridge between advertising and marketing technology, allowing marketers to create:
+What makes Epsilon different
+---
+## Know Each Customer
+Type: eps_page
+URL: /know-each-customer
+Last Modified: 2026-06-02T18:08:12Z
+It all starts with understanding each consumer.
+When you work with a trusted partner like Epsilon, you’ll activate industry-leading identity to get 1 View of all your customers: what they buy, where to find them and how to engage them. And we’ll help you use that data to identify your entire universe of potential buyers, driving acquisition, retention and growth.
+1 View in action
+Read more about how to get 1 View of your universe of consumers.
+Epsilon PeopleCloud
+Our PeopleCloud platform is the bridge between advertising and marketing technology, allowing marketers to create:
+What makes Epsilon different
+---
+## Products And Services/Creative Services
+Type: eps_page
+URL: /products-and-services/creative-services
+Last Modified: 2026-06-04T21:20:28Z
+We craft stunning experiences powered by data.
+The Epsilon Creative team builds long-lasting connections with real people through strategic design. We combine rich and unique insights with innovation to reach your consumers at scale.
+Creative services
+Omnichannel expertise and support
+Powerful creative. 
+Real results.
+Across display, connected TV, audio, email and retail media, we deliver high-performing, personalized creative that drives results.
+Case studies
+Our results speak for themselves.
+Solutions we support
+---
+## Lp/Data Strategy Wp
+Type: eps_page
+URL: /lp/data-strategy-wp
+Last Modified: 2026-06-17T18:47:01Z
+A customer’s journey never stays in one channel.
+So why would your data strategy? When you connect paid and owned data, you can unlock connected, identity-driven data strategies that improve personalization, reduce media waste and power full-funnel results.
+See how leading brands are making it happen.
+Your data isn’t the problem.
+How to build a stronger data foundation
+Learn how different data types work together for deeper customer understanding.
+Why connected data strategies matter
+---
+## About Us/Recognition
+Type: eps_page
+URL: /about-us/recognition
+Last Modified: 2026-05-27T22:39:30Z
+Industry recognition
+---
+## Trends/Identity In Action
+Type: eps_page
+URL: /trends/identity-in-action
+Last Modified: 2026-05-07T17:24:08Z
+One Identity. One Experience. Endless Possibilities.
+A unified identity ties together every touchpoint—both online and offline—letting you connect with customers more effectively. With Epsilon’s identity resolution technology, you can break down data silos and run cross-channel campaigns that drive engagement and boost ROI.
+Identity-Driven Success Starts with Epsilon
+---
+## Lp/Loyalty Research
+Type: eps_page
+URL: /lp/loyalty-research
+Last Modified: 2026-06-10T15:42:12Z
+Loyalty isn’t just built. It’s earned.
+Loyalty programs are everywhere, but what actually drives consumers to join, engage and stay loyal? Our latest research reveals the answer.
+Joining is easy. Staying is harder.
+Loyalty is a two-way exchange​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍‌‌‌﻿​​‌﻿​﻿‌‍‍‌‌‍﻿​‌‍﻿﻿‌‍﻿‍​‍﻿‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍﻿﻿‌‍‌‌‌﻿​​‌﻿​﻿‌‍‍‌‌‍﻿​‌‍﻿﻿‌‍﻿‍​‍﻿‌‌﻿‌‌‌﻿​﻿​‍﻿‌‌‍‌‌‌﻿​​‌﻿​﻿​‍﻿‌‌﻿​​‌﻿​‍‌‍﻿﻿‌‍‌​​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿​‍​﻿‍​‌‍​﻿​﻿‌‌‌‍‌‌‌‍‌‍‌‍​‍​‍﻿‌​﻿​‍​﻿​‌​﻿‌‍​﻿‌‍​‍﻿‌​﻿‌​​﻿‌﻿‌‍‌‌​﻿‍​​‍﻿‌​﻿‍‌‌‍​‌​﻿‌‌‌‍​‌​‍﻿‌‌‍​‍​﻿‍‌​﻿​​‌‍‌‌​﻿​‌‌‍‌‌‌‍‌‌‌‍‌‍​﻿​﻿‌‍​﻿​﻿​‌​﻿​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍‌‌‌﻿​​‌﻿​﻿‌‌﻿﻿‌﻿​​‌‍​‌‌‍‌﻿‌‍‌‌​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍​﻿‌‍﻿﻿‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍‌‌​﻿‌‌‌​​‍‌‌﻿﻿‌‍‍﻿‌‍‌‌‌﻿‍‌​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​‍​﻿​‍​﻿​‌​﻿‌﻿​﻿‌‌‌‍​‌​﻿‍‌​﻿‌﻿‌‍​‌​﻿‍​​﻿‌‌​﻿‍​​﻿‍​​﻿‍​​‍‌‌​﻿​‍​﻿​‍​‍‌‌​﻿‌‌‌​‌​​‍﻿‍‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍‌‌‌﻿​​‌﻿​﻿‌‍‍‌‌‍﻿​‌‍﻿﻿‌‍﻿‍​‍﻿‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿​‍​﻿‍​‌‍​﻿​﻿‌‌‌‍‌‌‌‍‌‍‌‍​‍​‍﻿‌​﻿​‍​﻿​‌​﻿‌‍​﻿‌‍​‍﻿‌​﻿‌​​﻿‌﻿‌‍‌‌​﻿‍​​‍﻿‌​﻿‍‌‌‍​‌​﻿‌‌‌‍​‌​‍﻿‌‌‍​‍​﻿‍‌​﻿​​‌‍‌‌​﻿​‌‌‍‌‌‌‍‌‌‌‍‌‍​﻿​﻿‌‍​﻿​﻿​‌​﻿​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍‌‌‌﻿​​‌﻿​﻿‌‌﻿﻿‌﻿​​‌‍​‌‌‍‌﻿‌‍‌‌​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍​﻿‌‍﻿﻿‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍‌‌​﻿‌‌‌​​‍‌‌﻿﻿‌‍‍﻿‌‍‌‌‌﻿‍‌​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​‍​﻿​‍​﻿​‌​﻿‌﻿​﻿‌‌‌‍​‌​﻿‍‌​﻿‌﻿‌‍​‌​﻿‍​​﻿‌‌​﻿‍​​﻿‍​​﻿‍​​‍‌‌​﻿​‍​﻿​‍​‍‌‌​﻿‌‌‌​‌​​‍﻿‍‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿‌﻿‌‍﻿﻿‌﻿​‍‌‍‍﻿‌﻿​﻿‌﻿​​‌‍​‌‌‍​﻿‌‍‌‌​﻿﻿‌‌‍‌‌‌﻿​​‌﻿​﻿‌‍‍‌‌‍﻿​‌‍﻿﻿‌‍﻿‍​‍﻿‌‌﻿‌‌‌﻿​﻿​‍﻿‌‌‍‌‌‌﻿​​‌﻿​﻿​‍﻿‌‌﻿​​‌﻿​‍‌‍﻿﻿‌‍‌​​‍​‍‌﻿﻿‌
+---
+## Lp/Mammothbrands/Ankur
+Type: eps_page
+URL: /lp/mammothbrands/ankur
+Last Modified: 2026-02-18T22:21:26Z
+Ankur, scale 15X growth across every channel.
+Connected identity. Smarter personalization. Measurable performance.
+---
+## Cross Channel Messaging
+Type: eps_page
+URL: /cross-channel-messaging
+Last Modified: 2026-06-02T19:34:07Z
+Harmonize messages across your paid, owned and
+
+===== homepage :: https://www.epsilon.com/us
+--- SIGNALS ---
+title: Unlock marketing's full potential | Epsilon US
+meta_description: Powering personalized marketing at scale, Epsilon helps brands connect with consumers across paid, owned, and earned channels—delivering measurable results.
+og_description: Powering personalized marketing at scale, Epsilon helps brands connect with consumers across paid, owned, and earned channels—delivering measurable results.
+og_site_name: 
+h1: Unlock marketing’s full potential
+h2: Platform | Products | Capabilities | Industries | Channels | Resources | Use cases | About | Functions | Learn | Trusted by the world’s leading brands | The power of connected marketing | Connect every marketing moment | Reach real people, drive real results | What Epsilon can do for you
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://www.epsilon.com/us#organization", "name": "Epsilon", "alternateName": "Epsilon", "legalName": "Epsilon Data Management, LLC", "url": "https://www.epsilon.com/us", "logo": {"@type": "ImageObject", "@id": "https://www.epsilon.com/images/logos/Epsilon_Company_Logo_registered.svg#logo", "url": "https://www.epsilon.com/images/logos/Epsilon_Company_Logo_registered.svg", "contentUrl": "https://www.epsilon.com/images/logos/Epsilon_Company_Logo_registered.svg", "width": 256, "height": 67, "caption": "Epsilon Company Logo", "copyrightNotice": "© 2026 Epsilon Data Management, LLC. All rights reserved.", "license": "https://www.epsilon.com/legal/terms-of-use", "acquireLicensePage": "https://www.epsilon.com/contact", "creditText": "Epsilon Data Management, LLC", "encodingFormat": "image/svg+xml", "representativeOfPage": false, "creator": {"@type": "Organization", "name": "Epsilon"}}, "image": "https://www.epsilon.com/images/logos/Epsilon_Company_Logo_registered.svg", "description": "Epsilon is the leader in outcome-based marketing, helping brands drive measurable performance through data-driven customer experiences.", "foundingDate": "1968", "keywords": ["outcome-based marketing", "customer data platform", "email marketing", "loyalty programs", "data management", "marketing technology", "digital marketing"], "knowsAbout": ["Digital Marketing", "Customer Data Management", "Email Marketing", "Loyalty Programs", "Ma
+--- TEXT ---
+Unlock marketing's full potential | Epsilon US
+ 
+ 
+Platform
+ 
+Platform
+PeopleCloud
+Capabilities
+Identity resolution
+Artificial intelligence
+Intelligent creative
+Connected marketing
+Products
+Digital media
+Data clean room
+Customer data platform
+Loyalty platform
+Consumer marketing data
+Strategic services
+Retail media
+Website personalization
+Automotive marketing
+All products >
+Solutions
+ 
+By use case
+Unify & cleanse your first-party data
+Identify high value customers
+Connect messages across paid & owned
+Increase customer loyalty & retention
+Personalize media across channels
+Acquire new customers
+All use cases >
+By channel
+Display
+Connected TV
+Email
+Audio
+Online video
+By function
+Partners
+Publishers
+Resources
+ 
+All resources
+Research & insights
+Case studies
+Blog
+News
+About
+ 
+About us
+Culture
+Pressroom
+Careers
+AdChoices
+Contact us
+ 
+Contact us
+ 
+ 
+ 
+Select a region
+US
+EMEA
+APAC
+Latin America
+France
+中国
+Deutschland
+日本
+Platform
+PeopleCloud
+Products
+Digital media
+Data clean room
+Customer data platform
+Loyalty platform
+Consumer marketing data
+Strategic services
+Retail media
+Website personalization
+Automotive marketing
+All products
+Capabilities
+Identity resolution
+Artificial intelligence
+Intelligent creative
+Connected marketing
+Industries
+Consumer packaged goods
+Financial services
+Health
+Restaurants
+Retail
+Travel
+Tourism
+Nonprofits
+Telecom, media & entertainment
+All industries
+Channels
+Display
+Connected TV
+Email
+Audio
+Online video
+Resources
+All resources
+Research & insights
+Case studies
+Blog
+News
+Use cases
+Unify & cleanse your first-party data
+Connect messages across paid & owned
+Identify high value customers
+Acquire new customers
+Increase customer loyalty & retention
+Personalize media across channels
+All use cases
+About
+About us
+Culture
+Pressroom
+Locations
+Careers
+Awards & recognition
+Functions
+Partners
+Publishers
+Learn
+Customer loyalty strategy
+Connected TV
+Programmatic advertising
+Data clean room
+Consumer Info
+ 
+Privacy Policy
+ 
+Terms & Conditions
+ 
+AdChoices
+ 
+Your Privacy Choices
+ 
+Privacy Settings
+ 
+©2026 Epsilon Data Management, LLC. All rights reserved. All names and
+ logos are trademarks or registered trademarks of their respective owners.
+ 
+ 
+ 
+Slide
+ 
+1
+ 
+of
+ 
+ / 
+2
+ 
+Epsilon named a Leader in The Forrester Wave: Loyalty Platforms.
+Read more 
+Epsilon Recognized as a Leader in CTV Advertising 
+Read more 
+Close these announcements
+ 
+ 
+Unlock marketing’s full potential
+ 
+Epsilon helps brands deliver personalized experiences across a connected marketing ecosystem by unlocking the full potential of data and identity. 
+ 
+ 
+Trusted by the world’s leading brands
+ 
+The power of connected marketing
+ 
+Today’s marketing runs on fragmented data, siloed channels and short‑term signals. Epsilon provides the data and identity essential to uniting people, channels and outcomes—so marketing finally works together.
+ 
+Connect every marketing moment 
+With connected identity in place, every interaction becomes part of a unified, measurable system. Epsilon unlocks the full potential of data and identity to power real‑time decisions across channels—so brands can deliver marketing that performs.
+Learn more 
+ 
+Reach real people, drive real results
+Igniting appetites & engagement with a star-studded campaign
+Valvoline tunes up guest communications
+Creating customer joy with personalized experiences
+Harnessing the power of loyalty program data
+Transforming connections to inspire more cheers
+ 
+ 
+See all 
+ 
+What Epsilon can do for you
+Identify high-value customers​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍‌‌‌﻿​​‌﻿​﻿‌‍‍‌‌‍﻿​‌‍﻿﻿‌‍﻿‍​‍﻿‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍﻿﻿‌‍‌‌‌﻿​​‌﻿​﻿‌‍‍‌‌‍﻿​‌‍﻿﻿‌‍﻿‍​‍﻿‌‌﻿‌‌‌﻿​﻿​‍﻿‌‌‍‌‌‌﻿​​‌﻿​﻿​‍﻿‌‌﻿​​‌﻿​‍‌‍﻿﻿‌‍‌​​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌​​﻿‌​‌‍​‌‌‍‌​​‍﻿‌‌‍‌‌​﻿​﻿​﻿‍​​﻿​‌​‍﻿‌​﻿‌​​﻿​‍‌‍‌‌‌‍​‍​‍﻿‌‌‍​‍​﻿‌‌‌‍​‍​﻿‌﻿​‍﻿‌​﻿​‍​﻿​‌‌‍​﻿‌‍‌‍​﻿‌‌‌‍​‍​﻿​‍​﻿‍‌​﻿​‌​﻿​‍‌‍​‍​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍‌‌‌﻿​​‌﻿​﻿‌‌﻿﻿‌﻿‌‌‌﻿​﻿‌‍‌‌‌​​﻿‌‍​‌‌﻿​﻿‌‍‌‌‌﻿​﻿​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍‍​‌‍‌‌‌‍​‌‌‍‌​‌‍‍‌‌‍﻿‍‌‍‌﻿​‍‌‌​﻿‌‌‌​​‍‌‌﻿﻿‌‍‍﻿‌‍‌‌‌﻿‍‌​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​‍​﻿​‍​﻿​‌​﻿‍‌​﻿‌‍​﻿‌﻿‌‍​‍​﻿‍‌​﻿‌‍​﻿​﻿​﻿‌‌​﻿‌​​﻿​‌​﻿‌​​‍‌‌​﻿​‍​﻿​‍​‍‌‌​﻿‌‌‌​‌​​‍﻿‍‌‍​﻿‌‍‍​‌‍‍‌‌‍﻿​‌‍‌​‌﻿​‍‌‍‌‌‌‍﻿‍​‍‌‌​﻿‌‌‌​​‍‌‌﻿﻿‌‍‍﻿‌‍‌‌‌﻿‍‌​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​‍​﻿​‍​﻿‍‌‌‍‌​​﻿‌‍​﻿​‍‌‍​‌‌‍​‍​﻿‌‍​﻿‌​​﻿​​​﻿​‍​﻿​​​﻿‍​​‍‌‌​﻿​‍​﻿​‍​‍‌‌​﻿‌‌‌​‌​​‍﻿‍‌﻿‌​‌‍‌‌‌﻿‍​‌﻿‌​​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍‌‌‌﻿​​‌﻿​﻿‌‍‍‌‌‍﻿​‌‍﻿﻿‌‍﻿‍​‍﻿‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌​​﻿‌​‌‍​‌‌‍‌​​‍﻿‌‌‍‌‌​﻿​﻿​﻿‍​​﻿​‌​‍﻿‌​﻿‌​​﻿​‍‌‍‌‌‌‍​‍​‍﻿‌‌‍​‍​﻿‌‌‌‍​‍​﻿‌﻿​‍﻿‌​﻿​‍​﻿​‌‌‍​﻿‌‍‌‍​﻿‌‌‌‍​‍​﻿​‍​﻿‍‌​﻿​‌​﻿​‍‌‍​‍​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍‌‌‌﻿​​‌﻿​﻿‌‌﻿﻿‌﻿‌‌‌﻿​﻿‌‍‌‌‌​​﻿‌‍​‌‌﻿​﻿‌‍‌‌‌﻿​﻿​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍‍​‌‍‌‌‌‍​‌‌‍‌​‌‍‍‌‌‍﻿‍‌‍‌﻿​‍‌‌​﻿‌‌‌​​‍‌‌﻿﻿‌‍‍﻿‌‍‌‌‌﻿‍‌​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​‍​﻿​‍​﻿​‌​﻿‍‌​﻿‌‍​﻿‌﻿‌‍​‍​﻿‍‌​﻿‌‍​﻿​﻿​﻿‌‌​﻿‌​​﻿​‌​﻿‌​​‍‌‌​﻿​‍​﻿​‍​‍‌‌​﻿‌‌‌​‌​​‍﻿‍‌‍​﻿‌‍‍​‌‍‍‌‌‍﻿​‌‍‌​‌﻿​‍‌‍‌‌‌‍﻿‍​‍‌‌​﻿‌‌‌​​‍‌‌﻿﻿‌‍‍﻿‌‍‌‌‌﻿‍‌​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​‍​﻿​‍​﻿‍‌‌‍‌​​﻿‌‍​﻿​‍‌‍​‌‌‍​‍​﻿‌‍​﻿‌​​﻿​​​﻿​‍​﻿​​​﻿‍​​‍‌‌​﻿​‍​﻿​‍​‍‌‌​﻿‌‌‌​‌​​‍﻿‍‌﻿‌​‌‍‌‌‌﻿‍​‌﻿‌​​‍‌‍‌﻿‌﻿‌‍﻿﻿‌﻿​‍‌‍‍﻿‌﻿​﻿‌﻿​​‌‍​‌‌‍​﻿‌‍‌‌​﻿﻿‌‌‍‌‌‌﻿​​‌﻿​﻿‌‍‍‌‌‍﻿​‌‍﻿﻿‌‍﻿‍​‍﻿‌‌﻿‌‌‌﻿​﻿​‍﻿‌‌‍‌‌‌﻿​​‌﻿​﻿​‍﻿‌‌﻿​​‌﻿​‍‌‍﻿﻿‌‍‌​​‍​‍‌﻿﻿‌
+Powering your strategy with marketing technology built to unify customer data and fuel better experiences will help you identify your best customers—and stay with them once you have.
+ 
+Learn more 
+Unify and cleanse your first-party data
+Learn more 
+Connect messages across paid and owned channels
+Learn more
+
+===== product :: https://www.epsilon.com/us/products-and-services
+--- SIGNALS ---
+title: Products & Services | Epsilon
+meta_description: Learn about the products & services at Epsilon. Talk to an expert today!
+og_description: Learn about the products & services at Epsilon. Talk to an expert today!
+og_site_name: 
+h1: Designed to help you achieve every marketing goal
+h2: Platform | Products | Capabilities | Industries | Channels | Resources | Use cases | About | Functions | Learn
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://www.epsilon.com/us#organization", "name": "Epsilon", "alternateName": "Epsilon", "legalName": "Epsilon Data Management, LLC", "url": "https://www.epsilon.com/us", "logo": {"@type": "ImageObject", "@id": "https://www.epsilon.com/images/logos/Epsilon_Company_Logo_registered.svg#logo", "url": "https://www.epsilon.com/images/logos/Epsilon_Company_Logo_registered.svg", "contentUrl": "https://www.epsilon.com/images/logos/Epsilon_Company_Logo_registered.svg", "width": 256, "height": 67, "caption": "Epsilon Company Logo", "copyrightNotice": "© 2026 Epsilon Data Management, LLC. All rights reserved.", "license": "https://www.epsilon.com/legal/terms-of-use", "acquireLicensePage": "https://www.epsilon.com/contact", "creditText": "Epsilon Data Management, LLC", "encodingFormat": "image/svg+xml", "representativeOfPage": false, "creator": {"@type": "Organization", "name": "Epsilon"}}, "image": "https://www.epsilon.com/images/logos/Epsilon_Company_Logo_registered.svg", "description": "Epsilon is the leader in outcome-based marketing, helping brands drive measurable performance through data-driven customer experiences.", "foundingDate": "1968", "keywords": ["outcome-based marketing", "customer data platform", "email marketing", "loyalty programs", "data management", "marketing technology", "digital marketing"], "knowsAbout": ["Digital Marketing", "Customer Data Management", "Email Marketing", "Loyalty Programs", "Ma
+--- TEXT ---
+Products & Services | Epsilon
+ 
+ 
+Platform
+ 
+Platform
+PeopleCloud
+Capabilities
+Identity resolution
+Artificial intelligence
+Intelligent creative
+Connected marketing
+Products
+Digital media
+Data clean room
+Customer data platform
+Loyalty platform
+Consumer marketing data
+Strategic services
+Retail media
+Website personalization
+Automotive marketing
+All products >
+Solutions
+ 
+By use case
+Unify & cleanse your first-party data
+Identify high value customers
+Connect messages across paid & owned
+Increase customer loyalty & retention
+Personalize media across channels
+Acquire new customers
+All use cases >
+By channel
+Display
+Connected TV
+Email
+Audio
+Online video
+By function
+Partners
+Publishers
+Resources
+ 
+All resources
+Research & insights
+Case studies
+Blog
+News
+About
+ 
+About us
+Culture
+Pressroom
+Careers
+AdChoices
+Contact us
+ 
+Contact us
+ 
+ 
+ 
+Select a region
+US
+EMEA
+APAC
+Latin America
+France
+中国
+Deutschland
+日本
+Platform
+PeopleCloud
+Products
+Digital media
+Data clean room
+Customer data platform
+Loyalty platform
+Consumer marketing data
+Strategic services
+Retail media
+Website personalization
+Automotive marketing
+All products
+Capabilities
+Identity resolution
+Artificial intelligence
+Intelligent creative
+Connected marketing
+Industries
+Consumer packaged goods
+Financial services
+Health
+Restaurants
+Retail
+Travel
+Tourism
+Nonprofits
+Telecom, media & entertainment
+All industries
+Channels
+Display
+Connected TV
+Email
+Audio
+Online video
+Resources
+All resources
+Research & insights
+Case studies
+Blog
+News
+Use cases
+Unify & cleanse your first-party data
+Connect messages across paid & owned
+Identify high value customers
+Acquire new customers
+Increase customer loyalty & retention
+Personalize media across channels
+All use cases
+About
+About us
+Culture
+Pressroom
+Locations
+Careers
+Awards & recognition
+Functions
+Partners
+Publishers
+Learn
+Customer loyalty strategy
+Connected TV
+Programmatic advertising
+Data clean room
+Consumer Info
+ 
+Privacy Policy
+ 
+Terms & Conditions
+ 
+AdChoices
+ 
+Your Privacy Choices
+ 
+Privacy Settings
+ 
+©2026 Epsilon Data Management, LLC. All rights reserved. All names and
+ logos are trademarks or registered trademarks of their respective owners.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products & Services
+Designed to help you achieve every marketing goal
+ 
+Looking for the right partner to help your brand take the next step? Epsilon's industry-leading technology and services are ready to get your brand where you want it to go.

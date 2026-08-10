@@ -1,0 +1,6352 @@
+===== homepage :: https://clevertap.com/
+--- SIGNALS ---
+title: Supercharge Your Customer Lifetime Value with CleverTap: The Ultimate All-in-One Customer Engagement Platform
+meta_description: Engage your customers like never before with CleverTap’s all-in-one customer engagement platform. From personalized messaging to automated campaigns, CleverTap platform offers a suite of powerful tools to help you connect with your audience at every stage of the customer journey. Get started with CleverTap today.
+og_description: Engage your customers like never before with CleverTap’s all-in-one customer engagement platform. From personalized messaging to automated campaigns, CleverTap platform offers a suite of powerful tools to help you connect with your audience at every stage of the customer journey. Get started with CleverTap today.
+og_site_name: CleverTap - All-in-One Customer Engagement Platform
+h1: Unlock Limitless Customer Lifetime Value
+h2: What’s New? | 2000+ Brands Trust CleverTap | And Customers Love Us | Understand Customers for Life | Personalize Every Experience | All-In-One Platform that Unifies | Truly CleverAI™ | Purpose-built for your business! | The Clever All-In-One Customer Engagement Platform | Your Industry. Our Solutions. | Hear it from our Customers. It’s all love. | Latest Trends in Customer Engagement | You're visiting from
+jsonld_org: [{"@type": "Organization", "url": "https://clevertap.com/", "sameAs": ["https://www.facebook.com/clevertap", "https://x.com/clevertap", "https://www.linkedin.com/company/clevertap", "https://www.youtube.com/channel/UCuorsmbIO00MTKoA1GLNyjQ", "https://www.instagram.com/clevertapofficial/"], "logo": "https://clevertap.com/wp-content/themes/clevertap2023/assets/images/ct-logo-2.svg", "name": "CleverTap", "description": "Engage your customers like never before with CleverTap’s all-in-one customer engagement platform. From personalized messaging to automated campaigns, CleverTap platform offers a suite of powerful tools to help you connect with your audience at every stage of the customer journey. Get started with CleverTap today", "address": [{"@type": "PostalAddress", "streetAddress": "19th floor, DLH Park, S.V. Road,Goregaon (W)", "addressLocality": "Mumbai", "addressCountry": "IN", "postalCode": "400064"}, {"streetAddress": "Premises No.311, Floor 03,Building No. 1", "addressLocality": "Dubai Internet City", "addressCountry": "AE"}, {"streetAddress": "CleverTap Pte Limited, 81 UBI Avenue 4, #08-17 UB. One", "addressLocality": "Singapore", "addressCountry": "SG", "postalCode": "408830"}, {"streetAddress": "2 Knyaginya Mariya Luiza Blvd, Floor 2,", "addressLocality": "Sofia", "addressCountry": "BG"}, {"streetAddress": "Av. das Nações Unidas, 14261 – Torre A – 25 andar – Vila Gertrudes", "addressLocality": "São Paulo (SP)", "addressCountry": "BR", "postalCode": "04730-090"}, {"st
+--- TEXT ---
+Supercharge Your Customer Lifetime Value with CleverTap: The Ultimate All-in-One Customer Engagement Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x
+ 
+ 
+CleverTap
+ 
+Unlock Limitless
+Customer Lifetime Value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by 2000+ leading brands worldwide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a Personalized Demo
+ 
+ 
+Get a Personalized Demo
+ 
+Get to know CleverTap from the scratch. To book your personal product demo, fill out the form and start at your preferred date. Afterwards we will get in touch with you.
+ 
+ 
+ 
+ 
+Full Name
+ 
+ 
+ 
+ 
+ 
+ 
+Work Email
+ 
+ 
+Please enter a valid work email
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+Country
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yes, I'd like to receive the latest news and other communications from CleverTap. You can unsubscribe anytime. For more details, go to the 
+Privacy Policy
+.
+ 
+By submitting this form, you agree to CleverTap's 
+Privacy Policy
+Site is protected by reCAPTCHA (
+Privacy
+ | 
+Terms
+)
+ 
+ 
+ 
+Submit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thank you for your interest in CleverTap
+ 
+We’ll get back to you soon!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverTap
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+CleverAI™
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+Customers
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+Brazilian Portuguese
+ 
+ 
+ 
+ 
+ 
+ 
+Spanish
+ 
+ 
+ 
+ 
+ 
+ 
+Turkish
+ 
+ 
+ 
+ 
+ 
+Log In
+ 
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Overview
+ 
+Uncover the building blocks of CleverTap's All‒In‒One Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Demo Center
+ 
+Explore CleverTap's All-In-One Engagement Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CT Pulse
+ 
+Explore CleverTap Product Innovations in H2 2025
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CAPABILITIES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Data & Analytics
+ 
+Ingest, analyze and segment customer data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experimentation & Optimization
+ 
+Unleash the winning strategy in real-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+Contextualize customer experiences in real-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaign Orchestration
+ 
+Build omnichannel customer experiences effortlessly
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI™
+ 
+Insightful. Empathetic. Actionable
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CHANNELS 
+ 
+ 
+ 
+ 
+ 
+ 
+ Push Notifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email Automation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mobile Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In-App Messages 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Web Messaging 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RCS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS 
+ 
+ 
+ 
+ 
+ 
+ 
+HIGHLIGHTS
+ 
+ 
+ 
+ 
+Gartner CMO Guide: Master Personalization for Loyalty & ROI
+ 
+ 
+ 
+ 
+ 
+ 
+The Industry-First Complete Rewards Management Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-Commerce
+ 
+Fuel purchases and maximize order value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subscriptions
+ 
+Build a loyal subscriber base
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Services
+ 
+Win trust with the most secure platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaming
+ 
+Maximize player lifetime value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR IMPACT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Libas Drives 15% Conversion with Personalized Multi-Channel Engagement on CleverTap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI™ Overview
+ 
+Next-gen engagement powered by Predictive, Generative & Agentic AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI™ Agents
+ 
+Built to help you decide, create and act towards your goals
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Watch the CleverAI™ Agents Unveil
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customers
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CMO Pulse:
+Fintech Edition 2026
+ 
+Where CMOs Shape What's Next
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+Latest trends in customer engagement
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case Studies
+ 
+Find out how customers unlock value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Webinar
+ 
+Interactive sessions, seminars and more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Videos
+ 
+Watch Our Latest Videos and Tutorials
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Podcasts
+ 
+Listen to Engaging and Insightful Podcasts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guides
+ 
+Learn & Succeed with our In-Depth Guides
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Whitepapers
+ 
+Thought leadership to maximize outcome
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark Reports
+ 
+Measure up against the best
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Glossary
+ 
+Stay current with new terms and concepts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-books
+ 
+Explore Our Collection of E-Books
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Events
+ 
+Meet us at our next live event
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User Documentation
+ 
+User and Developer Docs for learning CleverTap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Awards and Recognitions
+ 
+CleverTap Wins Big Alongside Its Customers.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Us
+ 
+Building lifelong customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+Discover the CleverTap advantage
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Media
+ 
+CleverTap in the news
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Careers
+ 
+Let's work together
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Submit RFP
+ 
+Get a proposal built for you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Us
+ 
+We’d love to hear from you!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+Brazilian Portuguese
+ 
+ 
+ 
+ 
+ 
+ 
+Spanish
+ 
+ 
+ 
+ 
+ 
+ 
+Turkish
+ 
+ 
+ 
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unlock Limitless
+ 
+Customer Lifetime Value
+ 
+ Create personalized experiences to retain your most valuable customers, forever, with CleverTap’s All-In-One engagement platform. 
+ 
+ 
+Get a Demo
+ 
+ Explore our product 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What’s New?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn More
+ 
+ 
+ 
+ 
+ 
+2000+ Brands Trust CleverTap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+And Customers Love Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users give CleverTap
+ 
+ 
+for Forecasting on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+Understand Customers 
+for Life
+ 
+Engage customers for life with the industry’s only platform that limitlessly analyzes data from every source, all at once.
+ 
+ Know more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalize Every Experience
+ 
+Inspire confident decisions with memorable, personal experiences for brand love, loyalty and advocacy.
+ 
+ Know more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All-In-One Platform 
+that Unifies
+ 
+Bring together people, processes, and technology to deliver unified customer experiences.
+ 
+ Know more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Truly CleverAI™
+ 
+Insightful, empathetic and prescriptive intelligence that empowers businesses to make smarter, faster decisions.
+ 
+ Know more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Purpose-built for your business!
+ 
+Solutions for your business model which deliver value that matter to you.
+ 
+ Know more
+ 
+ 
+ 
+ 
+The Clever All-In-One Customer 
+Engagement Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understand
+ 
+ Acquire in-depth Customer Insights 
+ 
+ 
+ 
+Optimize
+ 
+ Experiment for Superior Customer Engagement
+ 
+ 
+ 
+ 
+Engage
+ 
+ Tailor Personalized Customer Experiences
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Data & Analytics
+ 
+ 
+ 
+ 
+ 
+ 
+Experimentation & Optimization
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+ 
+ 
+ 
+ 
+ 
+Campaign Orchestration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Know more
+ 
+ 
+ 
+ 
+ 
+ 
+Your Industry. Our Solutions.
+ 
+ 
+ 
+ 
+ 
+ E-Commerce 
+ 
+ Subscriptions 
+ 
+ Financial Services 
+ 
+ Gaming 
+ 
+ 
+ 
+ 
+ 
+E-Commerce
+ 
+ 
+Know more
+ 
+ 
+ 
+ 
+ 
+5x
+ 
+ Boost in Retention with Advanced User Insights 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+Subscriptions
+ 
+ 
+Know more
+ 
+ 
+ 
+ 
+ 
+60%
+ 
+ Increase in CTRs using ‘Best time’ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Services
+ 
+ 
+Know more
+ 
+ 
+ 
+ 
+ 
+45%
+ 
+ Reduction in support tickets 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+Gaming
+ 
+ 
+Know more
+ 
+ 
+ 
+ 
+ 
+40%
+ 
+ Uplift in CTRs of push notifications 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hear it from our Customers. It’s all love.
+ 
+ More customer stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We’ve been using CleverTap for over 6 years now, for our customer and enterprise apps. We also use them for AI-driven segmentation.
+ 
+ 
+Anish Shah, President & COO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverTap helped us understand our customers better by analysing their behaviour. We are now doing data-driven changes and enhancements to provide a better experience to our app users.
+ 
+ 
+Raffi Tokmakjian, Director – Digital Channels
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Would rate it a 10 for its ease of use and numerous possible use-cases.
+ 
+ 
+Péter Takács, Digital Product Manager
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We partnered with CleverTap to make sense of our user data. Now we can target our users with the right messages at the right time.
+ 
+ 
+Abhishek Joshi, Head of Marketing – Subscriptions & Content Licensing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverTap now serves as a single source of truth for customer insights and engagement, enabling our CLM and product teams to be seamlessly integrated into one workflow. The result is faster time to value, leading to a direct ROI impact.
+ 
+ 
+Mikayel Vardanyan, COO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We use CleverTap to increase customer lifetime value. With its comprehensive capabilities, easy-to-use interface, and granular, accessible metrics, it helps us streamline our efforts and achieve our goals. 
+ 
+ 
+Surakan Kittiperakorn, Regional Marketing Lead
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Latest Trends in Customer Engagement
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Benchmark Report 
+ 
+ 
+ 
+Fintech App Engagement Benchmark Report
+ 
+ 
+View all Benchmark Reports
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Benchmark Report 
+ 
+ 
+ 
+Foodtech App Engagement Benchmark Report
+ 
+ 
+View all Benchmark Reports
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Ecommerce App Engagement Benchmark Report
+ 
+ 
+View all Blogs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case Study 
+ 
+ 
+ 
+World’s largest streaming platform for South Asian content used ‘Best Time’ for 60% uplift in their campaign CTR
+ 
+ 
+View all Case Studies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case Study 
+ 
+ 
+ 
+How Simpl Boosts Operational Efficiency and Reduces Errors by Automating Engagement
+ 
+ 
+View all Case Studies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+Customer Data & Analytics
+ 
+Experimentation & Optimization
+ 
+Personalization
+ 
+Campaign Orchestration
+ 
+Product Releases
+ 
+Developer Documentation
+ 
+Product Documentation
+ 
+CleverTap Tech
+ 
+ 
+ 
+ 
+Feature Highlights
+ 
+ 
+Push Notifications
+ 
+ 
+ 
+Email Automation
+ 
+ 
+Toggle Email Automation links
+ 
+ 
+ 
+ 
+Email Personalisation
+ 
+Email Analytics
+ 
+Bulk Email Marketing
+ 
+ 
+ 
+ 
+ 
+WhatsApp
+ 
+ 
+Toggle WhatsApp links
+ 
+ 
+ 
+ 
+Bulk WhatsApp Marketing
+ 
+WhatsApp Business Analytics
+ 
+ 
+ 
+In-App Messages
+ 
+Web Messaging
+ 
+SMS
+ 
+Scribe
+ 
+IntelliNODE
+ 
+RenderMax
+ 
+Product Experiences
+ 
+RCS
+ 
+Reminders
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+E-Commerce
+ 
+Subscriptions
+ 
+Financial Services
+ 
+Gaming
+ 
+ 
+ 
+CleverAI
+TM
+ 
+ 
+CleverAI™ Overview
+ 
+CleverAI™ Agents
+ 
+CleverAI™ Predictions Agent
+ 
+ 
+ 
+ 
+Customers
+ 
+ 
+Customer Success 
+ 
+Case Studies
+ 
+Partners
+ 
+Blog
+ 
+Guides
+ 
+Security and Compliance
+ 
+2026 Gartner® Magic Quadrant™ for Personalization Engines
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+About Us
+ 
+Partners
+ 
+Media
+ 
+Careers
+ 
+CSR
+ 
+CleverTap4Good
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverTap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lets collaborate for success
+ 
+ 
+Submit RFP
+ 
+Contact Us 
+ 
+ 
+ 
+ 
+ 
+Find us in:
+ San Francisco, New York, Bogotá, São Paulo, London, Amsterdam, Dubai, Mumbai, Bengaluru, Vietnam, Jakarta, and Singapore.
+ 
+ 
+ 
+Terms of Service
+ 
+Terms of Service for C4S
+ 
+Privacy Policy
+ 
+EU-U.S. Data Privacy Framework Policy
+ 
+Fraud Notice
+ 
+© 2013 onwards. All Rights Reserved. CleverTap is brought to you by WizRocket, Inc.
+ 
+Legal name - CleverTap Private Limited | DBA Name - CleverTap
+ 
+ 
+ 
+ 
+Mid-Year Sale 2026
+ 
+Unlock 90% off CleverTap Essentials for 6 months. 
+Claim Today!
+ 
+ 
+ 
+ 
+Mid-Year Sale 2026
+ 
+Unlock 90% off CleverTap Essentials for 6 months. 
+Claim Today!
+ 
+ 
+ 
+ 
+Mid-Year Sale 2026
+ 
+Unlock 90% off CleverTap Essentials for 6 months. 
+Claim Today!
+ 
+ 
+ 
+ 
+Mid-Year Sale 2026
+ 
+Unlock 90% off CleverTap Essentials for 6 months. 
+Claim Today!
+ 
+ 
+ 
+ 
+Benchmark Report
+ 
+What 7B+ Messages Reveal About E-Commerce in Middle East, Türkiye & Africa 
+Read the Report
+ 
+ 
+ 
+ 
+Mid-Year Sale 2026
+ 
+Unlock 90% off CleverTap Essentials for 6 months. 
+Claim Today!
+ 
+ 
+ 
+ 
+×
+ 
+ 
+ 
+ 
+ 
+ You're visiting from 
+ 
+ We have a localised version of our site. Would you like to switch for a better experience? 
+ 
+ 
+ 
+Visitor location
+ 
+ 
+ 
+ Switch site 
+ 
+ Stay on current site 
+ 
+ 
+Your preference will be remembered for future visits.
+
+===== product :: https://clevertap.com/product-overview/
+--- SIGNALS ---
+title: Product Overview: Powering Growth through Personalized Engagement
+meta_description: CleverTap is a powerful customer engagement and retention platform that helps businesses drive growth. With CleverTap, you can analyze user behavior, create targeted campaigns, and personalize the customer experience to increase conversions and drive user growth.
+og_description: CleverTap is a powerful customer engagement and retention platform that helps businesses drive growth. With CleverTap, you can analyze user behavior, create targeted campaigns, and personalize the customer experience to increase conversions and drive user growth.
+og_site_name: CleverTap - All-in-One Customer Engagement Platform
+h1: 
+h2: All-in-One Customer Engagement Platform | You're visiting from
+jsonld_org: []
+--- TEXT ---
+Product Overview: Powering Growth through Personalized Engagement
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x
+ 
+ 
+CleverTap
+ 
+Unlock Limitless
+Customer Lifetime Value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by 2000+ leading brands worldwide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a Personalized Demo
+ 
+ 
+Get a Personalized Demo
+ 
+Get to know CleverTap from the scratch. To book your personal product demo, fill out the form and start at your preferred date. Afterwards we will get in touch with you.
+ 
+ 
+ 
+ 
+Full Name
+ 
+ 
+ 
+ 
+ 
+ 
+Work Email
+ 
+ 
+Please enter a valid work email
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+Country
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yes, I'd like to receive the latest news and other communications from CleverTap. You can unsubscribe anytime. For more details, go to the 
+Privacy Policy
+.
+ 
+By submitting this form, you agree to CleverTap's 
+Privacy Policy
+Site is protected by reCAPTCHA (
+Privacy
+ | 
+Terms
+)
+ 
+ 
+ 
+Submit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thank you for your interest in CleverTap
+ 
+We’ll get back to you soon!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverTap
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+CleverAI™
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+Customers
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+Brazilian Portuguese
+ 
+ 
+ 
+ 
+ 
+ 
+Spanish
+ 
+ 
+ 
+ 
+ 
+ 
+Turkish
+ 
+ 
+ 
+ 
+ 
+Log In
+ 
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Overview
+ 
+Uncover the building blocks of CleverTap's All‒In‒One Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Demo Center
+ 
+Explore CleverTap's All-In-One Engagement Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CT Pulse
+ 
+Explore CleverTap Product Innovations in H2 2025
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CAPABILITIES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Data & Analytics
+ 
+Ingest, analyze and segment customer data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experimentation & Optimization
+ 
+Unleash the winning strategy in real-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+Contextualize customer experiences in real-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaign Orchestration
+ 
+Build omnichannel customer experiences effortlessly
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI™
+ 
+Insightful. Empathetic. Actionable
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CHANNELS 
+ 
+ 
+ 
+ 
+ 
+ 
+ Push Notifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email Automation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mobile Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In-App Messages 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Web Messaging 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RCS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS 
+ 
+ 
+ 
+ 
+ 
+ 
+HIGHLIGHTS
+ 
+ 
+ 
+ 
+Gartner CMO Guide: Master Personalization for Loyalty & ROI
+ 
+ 
+ 
+ 
+ 
+ 
+The Industry-First Complete Rewards Management Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-Commerce
+ 
+Fuel purchases and maximize order value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subscriptions
+ 
+Build a loyal subscriber base
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Services
+ 
+Win trust with the most secure platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaming
+ 
+Maximize player lifetime value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR IMPACT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Libas Drives 15% Conversion with Personalized Multi-Channel Engagement on CleverTap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI™ Overview
+ 
+Next-gen engagement powered by Predictive, Generative & Agentic AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI™ Agents
+ 
+Built to help you decide, create and act towards your goals
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Watch the CleverAI™ Agents Unveil
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customers
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CMO Pulse:
+Fintech Edition 2026
+ 
+Where CMOs Shape What's Next
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+Latest trends in customer engagement
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case Studies
+ 
+Find out how customers unlock value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Webinar
+ 
+Interactive sessions, seminars and more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Videos
+ 
+Watch Our Latest Videos and Tutorials
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Podcasts
+ 
+Listen to Engaging and Insightful Podcasts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guides
+ 
+Learn & Succeed with our In-Depth Guides
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Whitepapers
+ 
+Thought leadership to maximize outcome
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark Reports
+ 
+Measure up against the best
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Glossary
+ 
+Stay current with new terms and concepts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-books
+ 
+Explore Our Collection of E-Books
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Events
+ 
+Meet us at our next live event
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User Documentation
+ 
+User and Developer Docs for learning CleverTap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Awards and Recognitions
+ 
+CleverTap Wins Big Alongside Its Customers.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Us
+ 
+Building lifelong customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+Discover the CleverTap advantage
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Media
+ 
+CleverTap in the news
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Careers
+ 
+Let's work together
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Submit RFP
+ 
+Get a proposal built for you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Us
+ 
+We’d love to hear from you!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+Brazilian Portuguese
+ 
+ 
+ 
+ 
+ 
+ 
+Spanish
+ 
+ 
+ 
+ 
+ 
+ 
+Turkish
+ 
+ 
+ 
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Crafting Customer 
+Lifetime Experiences
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understand
+ 
+ Acquire in-depth Customer Insights 
+ 
+ 
+ 
+Optimize
+ 
+ Experiment for Superior Customer Engagement
+ 
+ 
+ 
+ 
+Engage
+ 
+ Tailor Personalized Customer Experiences
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Data & Analytics
+ 
+ 
+ 
+ 
+ 
+ 
+Experimentation & Optimization
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+ 
+ 
+ 
+ 
+ 
+Campaign Orchestration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer Data
+and Analytics 
+ 
+ Harness big-data to drive targeted customer engagement through automated segments, advanced analytics and actionable intelligence. 
+ 
+ Know more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Experimentation & Optimization 
+ 
+ Unlock the winning customer engagement strategy with real-time experimentation, continuous testing and customer lifecycle optimization. 
+ 
+ Know more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Personalization 
+ 
+ Tailor customer interactions based on demographics, prior behavioral patterns, real-time actions and recommend next best experiences. 
+ 
+ Know more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Campaign
+Orchestration 
+ 
+ Automate customer engagement leveraging multiple channels tailored and optimized for individual customer preferences and interests. 
+ 
+ Know more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hello to 
+Clever.AI 
+ 
+ Empower businesses to make smarter, faster decisions with insightful, empathetic and prescriptive intelligence. 
+ 
+ Know more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximize Customer Lifetime Value with Our
+ 
+All-in-One Customer Engagement Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Data
+ & Analytics
+ 
+Harness big-data to drive targeted customer engagement through automated segments, advanced analytics and actionable intelligence.
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experimentation 
+& Optimization
+ 
+Unlock the winning customer engagement strategy with real-time experimentation, continuous testing and customer lifecycle optimization.
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+Tailor customer interactions based on demographics, prior behavioral patterns, real-time actions and recommend next best experiences.
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaign
+Orchestration
+ 
+Automate customer engagement leveraging multiple channels tailored and optimized for individual customer preferences and interests.
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clever.AI
+ 
+Empower businesses to make smarter, faster decisions with insightful, empathetic and prescriptive intelligence.
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+Customer Data & Analytics
+ 
+Experimentation & Optimization
+ 
+Personalization
+ 
+Campaign Orchestration
+ 
+Product Releases
+ 
+Developer Documentation
+ 
+Product Documentation
+ 
+CleverTap Tech
+ 
+ 
+ 
+ 
+Feature Highlights
+ 
+ 
+Push Notifications
+ 
+ 
+ 
+Email Automation
+ 
+ 
+Toggle Email Automation links
+ 
+ 
+ 
+ 
+Email Personalisation
+ 
+Email Analytics
+ 
+Bulk Email Marketing
+ 
+ 
+ 
+ 
+ 
+WhatsApp
+ 
+ 
+Toggle WhatsApp links
+ 
+ 
+ 
+ 
+Bulk WhatsApp Marketing
+ 
+WhatsApp Business Analytics
+ 
+ 
+ 
+In-App Messages
+ 
+Web Messaging
+ 
+SMS
+ 
+Scribe
+ 
+IntelliNODE
+ 
+RenderMax
+ 
+Product Experiences
+ 
+RCS
+ 
+Reminders
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+E-Commerce
+ 
+Subscriptions
+ 
+Financial Services
+ 
+Gaming
+ 
+ 
+ 
+CleverAI
+TM
+ 
+ 
+CleverAI™ Overview
+ 
+CleverAI™ Agents
+ 
+CleverAI™ Predictions Agent
+ 
+ 
+ 
+ 
+Customers
+ 
+ 
+Customer Success 
+ 
+Case Studies
+ 
+Partners
+ 
+Blog
+ 
+Guides
+ 
+Security and Compliance
+ 
+2026 Gartner® Magic Quadrant™ for Personalization Engines
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+About Us
+ 
+Partners
+ 
+Media
+ 
+Careers
+ 
+CSR
+ 
+CleverTap4Good
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverTap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lets collaborate for success
+ 
+ 
+Submit RFP
+ 
+Contact Us 
+ 
+ 
+ 
+ 
+ 
+Find us in:
+ San Francisco, New York, Bogotá, São Paulo, London, Amsterdam, Dubai, Mumbai, Bengaluru, Vietnam, Jakarta, and Singapore.
+ 
+ 
+ 
+Terms of Service
+ 
+Terms of Service for C4S
+ 
+Privacy Policy
+ 
+EU-U.S. Data Privacy Framework Policy
+ 
+Fraud Notice
+ 
+© 2013 onwards. All Rights Reserved. CleverTap is brought to you by WizRocket, Inc.
+ 
+Legal name - CleverTap Private Limited | DBA Name - CleverTap
+ 
+ 
+ 
+ 
+Mid-Year Sale 2026
+ 
+Unlock 90% off CleverTap Essentials for 6 months. 
+Claim Today!
+ 
+ 
+ 
+ 
+Mid-Year Sale 2026
+ 
+Unlock 90% off CleverTap Essentials for 6 months. 
+Claim Today!
+ 
+ 
+ 
+ 
+Mid-Year Sale 2026
+ 
+Unlock 90% off CleverTap Essentials for 6 months. 
+Claim Today!
+ 
+ 
+ 
+ 
+Mid-Year Sale 2026
+ 
+Unlock 90% off CleverTap Essentials for 6 months. 
+Claim Today!
+ 
+ 
+ 
+ 
+Benchmark Report
+ 
+What 7B+ Messages Reveal About E-Commerce in Middle East, Türkiye & Africa 
+Read the Report
+ 
+ 
+ 
+ 
+Mid-Year Sale 2026
+ 
+Unlock 90% off CleverTap Essentials for 6 months. 
+Claim Today!
+ 
+ 
+ 
+ 
+×
+ 
+ 
+ 
+ 
+ 
+ You're visiting from 
+ 
+ We have a localised version of our site. Would you like to switch for a better experience? 
+ 
+ 
+ 
+Visitor location
+ 
+ 
+ 
+ Switch site 
+ 
+ Stay on current site 
+ 
+ 
+Your preference will be remembered for future visits.
+
+===== pricing_or_trust :: https://clevertap.com/pricing/
+--- SIGNALS ---
+title: Customer Engagement & Retention Platform Pricing Plans for CleverTap
+meta_description: Schedule a demo & our growth experts will walk you through carefully curated CleverTap capabilities for your business. Explore customer engagement & retention platform pricing plans
+og_description: Schedule a demo & our growth experts will walk you through carefully curated CleverTap capabilities for your business. Explore customer engagement & retention platform pricing plans
+og_site_name: CleverTap - All-in-One Customer Engagement Platform
+h1: Plans and Pricing
+h2: Carefully Curated Growth, Retention & Engagement Capabilities for Your Business | Essentials | Advanced | Cutting Edge | The Engagement Platform Trusted by Industry Leaders | Customize Your Plan With Our Add-Ons | Compare all Features | Customer Success That Speaks for Itself | You're visiting from
+jsonld_org: []
+--- TEXT ---
+Customer Engagement & Retention Platform Pricing Plans for CleverTap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverTap
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+CleverAI™
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+Customers
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+Brazilian Portuguese
+ 
+ 
+ 
+ 
+ 
+ 
+Spanish
+ 
+ 
+ 
+ 
+ 
+ 
+Turkish
+ 
+ 
+ 
+ 
+ 
+Log In
+ 
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Overview
+ 
+Uncover the building blocks of CleverTap's All‒In‒One Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Demo Center
+ 
+Explore CleverTap's All-In-One Engagement Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CT Pulse
+ 
+Explore CleverTap Product Innovations in H2 2025
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CAPABILITIES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Data & Analytics
+ 
+Ingest, analyze and segment customer data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experimentation & Optimization
+ 
+Unleash the winning strategy in real-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+Contextualize customer experiences in real-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaign Orchestration
+ 
+Build omnichannel customer experiences effortlessly
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI™
+ 
+Insightful. Empathetic. Actionable
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CHANNELS 
+ 
+ 
+ 
+ 
+ 
+ 
+ Push Notifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email Automation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mobile Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In-App Messages 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Web Messaging 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RCS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS 
+ 
+ 
+ 
+ 
+ 
+ 
+HIGHLIGHTS
+ 
+ 
+ 
+ 
+Gartner CMO Guide: Master Personalization for Loyalty & ROI
+ 
+ 
+ 
+ 
+ 
+ 
+The Industry-First Complete Rewards Management Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-Commerce
+ 
+Fuel purchases and maximize order value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subscriptions
+ 
+Build a loyal subscriber base
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Services
+ 
+Win trust with the most secure platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaming
+ 
+Maximize player lifetime value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR IMPACT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Libas Drives 15% Conversion with Personalized Multi-Channel Engagement on CleverTap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI™ Overview
+ 
+Next-gen engagement powered by Predictive, Generative & Agentic AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverAI™ Agents
+ 
+Built to help you decide, create and act towards your goals
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Watch the CleverAI™ Agents Unveil
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customers
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CMO Pulse:
+Fintech Edition 2026
+ 
+Where CMOs Shape What's Next
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+Latest trends in customer engagement
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case Studies
+ 
+Find out how customers unlock value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Webinar
+ 
+Interactive sessions, seminars and more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Videos
+ 
+Watch Our Latest Videos and Tutorials
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Podcasts
+ 
+Listen to Engaging and Insightful Podcasts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guides
+ 
+Learn & Succeed with our In-Depth Guides
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Whitepapers
+ 
+Thought leadership to maximize outcome
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark Reports
+ 
+Measure up against the best
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Glossary
+ 
+Stay current with new terms and concepts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-books
+ 
+Explore Our Collection of E-Books
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Events
+ 
+Meet us at our next live event
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User Documentation
+ 
+User and Developer Docs for learning CleverTap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Awards and Recognitions
+ 
+CleverTap Wins Big Alongside Its Customers.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Us
+ 
+Building lifelong customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+Discover the CleverTap advantage
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Media
+ 
+CleverTap in the news
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Careers
+ 
+Let's work together
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Submit RFP
+ 
+Get a proposal built for you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Us
+ 
+We’d love to hear from you!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+Brazilian Portuguese
+ 
+ 
+ 
+ 
+ 
+ 
+Spanish
+ 
+ 
+ 
+ 
+ 
+ 
+Turkish
+ 
+ 
+ 
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CleverTap
+ 
+Unlock Limitless
+Customer Lifetime Value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by 2000+ leading brands worldwide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a Personalized Demo
+ 
+ 
+Get a Personalized Demo
+ 
+Get to know CleverTap from the scratch. To book your personal product demo, fill out the form and start at your preferred date. Afterwards we will get in touch with you.
+ 
+ 
+ 
+ 
+Full Name
+ 
+ 
+ 
+ 
+ 
+ 
+Work Email
+ 
+ 
+Please enter a valid work email
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+Country
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yes, I’d like to receive the latest news and other communications from CleverTap. You can unsubscribe anytime. For more details, go to the 
+Privacy Policy
+.
+ 
+By submitting this form, you agree to CleverTap’s 
+Privacy Policy
+Site is protected by reCAPTCHA (
+Privacy
+ | 
+Terms
+)
+ 
+ 
+ 
+Submit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thank you for your interest in CleverTap
+ 
+We’ll get back to you soon!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Plans and Pricing
+ 
+Carefully Curated Growth, Retention & Engagement Capabilities for Your Business
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Curated Pricing Plans
+ 
+Choose a Model Best-suited for your Business
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Swift Onboarding
+ 
+Well-defined Deliverables from Discovery to Go-live
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+World-class Support
+ 
+Ensuring your Success with CleverTap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ease of Use
+ 
+Faster Decision making and Execution
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Essentials
+ 
+ 
+ 
+Advanced
+ 
+ 
+ 
+Cutting Edge
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MID YEAR SALE | 90% OFF 
+ 
+Essentials
+ 
+ Start with the basics of engagement to foster meaningful customer interactions 
+ 
+ 
+ 
+₹6000
+ 
+₹600
+ 
+/month
+ 
+ 
+ 
+ 
+ 
+Up to 5,000 MAU
+ 
+Up to 20,000 MAU
+ 
+Up to 40,000 MAU
+ 
+Up to 60,000 MAU
+ 
+Up to 80,000 MAU
+ 
+Up to 100,000 MAU
+ 
+100,000+ MAU
+ 
+ 
+ 
+ 
+Start Free Trial
+ 
+Let’s Talk
+ 
+Contact Sales
+ 
+Offer Ends in 
+[ Timer ]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Craft Omni-Channel Experiences
+ 
+Orchestrate campaigns and engage with customers across all essential touchpoints such as email, in-app experiences and more.
+ 
+ 
+ 
+Curate your Audience
+ 
+Target the right audience by segmenting customers based on behaviors, interest, geography and demographics.
+ 
+ 
+ 
+Experiment, Measure and Optimize
+ 
+Create experiments and iterate at lightning speeds to achieve best outcomes.
+ 
+ 
+ 
+Learn more about Essentials
+ 
+ 
+ 
+*Taxes Apply, excludes add-ons, Billing will start 
+post 30-day trial.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MOST POPULAR
+ 
+Advanced
+ 
+Deliver rich contextualization at every step of your customer’s journey with dynamic inputs and triggers 
+ 
+ 
+ Let’s Talk
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+Everything in Essentials +
+ 
+ 
+ 
+Win with Hyper-Personalization
+ 
+Leverage event triggers, dynamic inputs, geofencing, and other automation tools to create a deeply personalized journey for your customers.
+ 
+ 
+ 
+Automate Segmentation
+ 
+Identify customer personas and assess the health of your user base analyzing recency, frequency and monetary indicators. 
+ 
+ 
+ 
+Run Advanced Analytics
+ 
+Identify actionable trends and behaviors with pivots and flows.
+ 
+ 
+ 
+Use Premium Engagement Channels
+ 
+Maximize reach with Facebook audience, display campaigns, Google ads and more…
+ 
+ 
+ 
+Grow With a Scalable. Interoperable Platform
+ 
+Enable a frictionless data flow between systems by seamlessly integrating our platform through an easy plug-and-play experience. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cutting Edge
+ 
+Automate intelligent customer interactions by using Next-Gen tools of driving engagement, powered by Clever. AI 
+ 
+ 
+ Let’s Talk
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+Everything in Advanced +
+ 
+ 
+ 
+Add Intelligence to your Campaigns
+ 
+ Test multiple journey variations and automatically orchestrate the most optimal one with IntelliNODE, powered by Clever. AI.
+ 
+ 
+ 
+Predictive Segmentation
+ 
+Leverage Clever. AI-driven predictions to identify intent-based segments and generate real-time product recommendations for every customer.
+ 
+ 
+ 
+Deliver real time product recommendations:
+ 
+Drive next best action for each customer by offering personalized purchase recommendations.
+ 
+ 
+ 
+Simplify Execution
+ 
+Design campaigns with a content library and leverage collaboration tools to boost productivity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+View all features
+ 
+ 
+ 
+ 
+Trusted by 2000+ leading brands worldwide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Engagement Platform Trusted 
+by Industry Leaders 
+ 
+See why industry leaders rely on CleverTap to personalize experiences, increase retention, and drive long-term customer value at scale.
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customize Your Plan With Our Add-Ons
+ 
+Boost your engagement capabilities with a variety of modules tailored to your needs
+ 
+ 
+ 
+ 
+Advanced E-mail
+ 
+Set up, personalize, test, and deliver high-quality emails to your users, and monitor IP reputation
+ 
+ 
+ 
+ 
+WhatsApp
+ 
+Maximize reach on the world’s most widely used messaging app
+ 
+ 
+ 
+ 
+Message Archiving
+ 
+Archive outgoing message copies across push, email, SMS, and WhatsApp to your S3, Azure, or GCP buckets in real time for enhanced compliance evidence.
+ 
+ 
+ 
+ 
+Product Experiences
+ 
+Remotely configure and experiment with app and web UI, workflows, and functionality with minimal technical dependency
+ 
+ 
+ 
+ 
+Reminders
+ 
+Deliver well-timed, personalized nudges across channels-driving action at the perfect moment.
+ 
+ 
+ 
+ 
+Visual Editor
+ 
+Unlock the power of real-time, personalized web experiences that resonate with each visitor – no developers required.
+ 
+ 
+ 
+ 
+Promos
+ 
+The industry’s first complete loyalty and rewards platform – build, personalize, and automate offers that drive real customer value.
+ 
+ 
+ 
+ 
+RCS
+ 
+Deliver immersive, app-like experiences with RCS Business Messaging – create, manage, and send interactive messages without third-party setup.
+ 
+ 
+ 
+Get a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compare all Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Behavioral Analytics
+ 
+ 
+ 
+ 
+ 
+Messaging Channels
+ 
+ 
+ 
+ 
+ 
+Orchestration
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ 
+ 
+ 
+ 
+Lifecycle Optimization
+ 
+ 
+ 
+ 
+ 
+Campaign Optimization
+ 
+ 
+ 
+ 
+ 
+Segmentation
+ 
+ 
+ 
+ 
+ 
+Individualization
+ 
+ 
+ 
+ 
+ 
+Data Management
+ 
+ 
+ 
+ 
+ 
+Access & Workflows
+ 
+ 
+ 
+ 
+ 
+Customer Success
+ 
+ 
+ 
+ 
+ 
+Category Rewards Management
+ 
+ 
+ 
+ 
+ 
+Data Retention Policy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Behavioral Analytics 
+ 
+ Essentials 
+ 
+ Advanced 
+ 
+ Cutting Edge 
+ 
+ 
+ 
+ 
+ 
+ 
+Behavioral Analytics
+ 
+ 
+ 
+ 
+ 
+ Funnels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cohorts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Events 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Trends 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Session Analytics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Uninstall Tracking 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unified User Profile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pivots 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flows 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shared Boards 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advanced cohorts with retention modes 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Aggregated Event Properties 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Composite Events 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Segment Comparison 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Functions and Formulas 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Event Comparison 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Messaging Channels
+ 
+ 
+ 
+ 
+ 
+ Push Notifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In-App Messages 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ App Inbox 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Web Push 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Web Pop-up 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Web Native Display 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Visual Editor 
+ 
+ 
+ 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS Connect 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS Direct 
+ 
+ 
+ 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ Webhooks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ App Native Display 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Google Ads 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facebook Audiences 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TikTok 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp Connect 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ WhatsApp Direct 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ RCS Connect 
+ 
+ 
+ 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ RCS Direct 
+ 
+ 
+ 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Orchestration
+ 
+ 
+ 
+ 
+ 
+ Journeys 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IntelliNODE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Content Manager 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ 
+ 
+ 
+ 
+ Basic Templates (Email Only) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Scribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lifecycle Optimization
+ 
+ 
+ 
+ 
+ 
+ Lifecycle Optimizer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaign Optimization
+ 
+ 
+ 
+ 
+ 
+ Message A/B Tests 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Best Time to Deliver 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Send to All Devices 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email Editor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enhanced Push Delivery 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Experiences 
+ 
+ 
+ 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segmentation
+ 
+ 
+ 
+ 
+ 
+ Psychographic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Behavioral 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Live User 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recency Frequency Monetary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Predictions Agent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Custom List 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email subscription groups 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Individualization
+ 
+ 
+ 
+ 
+ 
+ Reminders 
+ 
+ 
+ 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ Product Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bulletins 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Linked Content 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Liquid Tags 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Geofencing 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Catalog Send-Time Personalization 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Constant Property Campaign 
+ 
+ 
+ 
+Add-on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Management
+ 
+ 
+ 
+ 
+ 
+ Schema Design 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ API access (Import and export via API) 
+ 
+ 
+ 
+ 
+ 
+ 

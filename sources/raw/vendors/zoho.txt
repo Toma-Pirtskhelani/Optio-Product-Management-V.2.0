@@ -1,0 +1,203 @@
+===== homepage :: https://www.zoho.com/
+--- SIGNALS ---
+title: Zoho | Cloud Software Suite for Businesses
+meta_description: A unique and powerful software suite trusted by millions of businesses worldwide. Zoho covers your end-to-end business needs, from sales and marketing to finance, HR, and beyond.
+og_description: A unique and powerful software suite trusted by millions of businesses worldwide. Zoho covers your end-to-end business needs, from sales and marketing to finance, HR, and beyond.
+og_site_name: Zoho
+h1: Your life's work, powered by our life's work
+h2: IntroducingZia Agent Studio | Featured apps | Zoho One | BRANDS THAT TRUST US | Built with patience. Guided by purpose. | Zoho keeps your business moving forward. | Zoho for Enterprise | The core values and principles that drive us | Made in India.Made for the World. | Business Software.Our Craft. Our Passion. | Strengthening our commitment to the UAE | Ready to do your best work?
+jsonld_org: [{"@type": "Organization", "name": "Zoho Corporation", "description": "Zoho Corporation offers web-based business apps, network and IT infrastructure management applications", "url": "https://www.zohocorp.com", "founder": {"@type": "Person", "name": "Sridhar Vembu"}, "sameAs": ["https://www.linkedin.com/company/zohocorp/", "https://en.wikipedia.org/wiki/Zoho_Corporation"]}]
+--- TEXT ---
+Zoho | Cloud Software Suite for Businesses
+ 
+ 
+ 
+Your life's work,
+ powered by our life's work
+A unique and powerful software suite to transform the way you work. 
+Designed for businesses of all sizes, built by a company that 
+ values your privacy
+.
+Get Started For Free
+Introducing
+Zia Agent Studio
+Build autonomous agents that can qualify leads, resolve tickets, draft emails, and more.
+Explore Zia Agents
+Featured apps
+Explore all products
+ 
+CRM
+Manage your sales, marketing, and support in one CRM platform
+ 
+Mail
+Simple, secure, and ad-free business email for your organization
+ 
+Creator
+Build custom apps for your unique business needs
+ 
+Books
+Simple accounting software to manage your finances
+ 
+Desk
+Customer service software for your support team
+ 
+Bigin
+Pipeline-centric CRM for small businesses
+Explore all products
+All-in-one suite
+Zoho One
+The operating system for business
+ Run your entire business on Zoho—our unified platform with 50+ applications for all your operational needs.
+The operating system for business
+ Run your entire business on Zoho—our unified platform for all your operational needs. Get access to 50+ applications, starting at 
+/user/month.
+TRY ZOHO ONE
+ "You can be a startup, mid-sized company, or an enterprise—Zoho One is a boon for all."
+Prakarsh Gagdani
+CEO, 5paisa.com (an IIFL subsidiary)
+BRANDS THAT TRUST US
+CUSTOMER STORIES
+Built with patience. Guided by purpose.
+We've spent years building business software with focus and intent.
+READ THE STORY
+Zoho keeps your business moving forward.
+EXPLORE VIDEO STORIES
+Zoho for Enterprise
+Discover the ecosystem we’ve built for large-scale transformation. Explore Zoho’s platform capabilities, professional services, and infrastructure.
+Learn more
+ “We are proud that Zoho developed a world-class, highly secured and local ‘no code-no source’ platform like SKYLine for the Indian customers, underlining the unmatched prowess of Indian technological innovation, having international adaptability.”
+Santosh Iyer,
+Managing Director & CEO,
+ Mercedes-Benz India
+READ THE STORY
+The core values and principles that drive us
+Long-term commitment
+30
++ years of running a profitable organization gives us a good sense of challenges that a growing business faces. We take pride in running a sustainable business that’s powered by you, our customer.
+Customer-first philosophy
+In all these years, it’s our customers’ trust and goodwill that has helped us establish a strong position in the market. No matter the size of your business, we’re here to help you grow.
+Privacy and security as a priority
+We do not own or sell your data, and we most certainly do not bank on advertising-based business models. The only way we make money is from the software license fees you pay us.
+Focus on research and development
+Software is our craft and we back it up with our relentless investments in R&D. So much so that we prefer to own the entire technology stack, including running our data centers globally.
+Read our story
+Made in India.
+Made for the World.
+Business Software.
+Our Craft. Our Passion.
+130
+M+
+Users Globally
+ 
+150
++
+Countries Served
+ 
+55
++
+Products
+ 
+29
++
+Years in Business
+ 
+18
+K+
+Employees Worldwide
+More about zoho
+Strengthening our commitment to the UAE
+"Our growth in the UAE reflects the growing confidence of local businesses in Zoho's solutions. These new data centres will further strengthen our ability to support customers with secure, high-performance cloud services and contribute meaningfully to the UAE's digital economy."
+Read More
+Hyther Nizam
+President, Zoho Middle East & Africa
+Ready to do your best work?
+Let's get you started.
+Sign Up Now
+
+===== product :: https://www.zoho.com/all-products.html?src=zindex
+--- SIGNALS ---
+title: Explore All Products | Zoho
+meta_description: Whether it's an individual application, integrated bundles, or the unified software suite with 45+ apps—here’s everything you and your team need to put your best work forward.
+og_description: Whether it's an individual application, integrated bundles, or the unified software suite with 45+ apps—here’s everything you and your team need to put your best work forward.
+og_site_name: Zoho
+h1: All the software you need to run your business
+h2: Zoho One | Mobile Apps | Desktop Apps | Browser Extensions | Looking to replace your current software?
+jsonld_org: []
+--- TEXT ---
+Explore All Products | Zoho
+ 
+ 
+ 
+All the software you need to run your business
+Take your pick—we've got you covered.
+Recently viewed Products
+No results found.
+Looking for something in particular? 
+Connect with us
+—we'd love to help!
+ Or, choose from over 
+55
++ different business applications
+Sales
+ Featured Apps
+Apps
+ Suites
+ Marketplace
+ Mobile Apps
+ Desktop Apps
+ Browser Extensions
+ Compare Alternatives
+Featured Apps
+Sales
+ Help your sales team be more productive with tools they’d love.
+Marketing
+ Engage with prospects using multi-channel marketing tools that help you personalize experiences at scale.
+Commerce and POS
+ Build an online store, strengthen your retail and ecommerce operations, and sell better.
+Service
+ Empower your customer and field service teams to deliver happiness and win trust.
+Finance
+ Keep a tab on your expenses and manage your back office operations smoothly.
+Education
+ Education solutions for teaching, learning, and administration.
+ERP
+ Modern ERP for managing financials, supply chain, and more, with contextual intelligence.
+Email, Storage, and Collaboration
+ Create, collaborate, and communicate with your teams and customers.
+Human Resources
+ Hire new employees, run training sessions, and manage all HR operations with ease.
+Legal
+ Streamline contract processes, mitigate risks, and improve your legal operations' efficiency.
+Security and IT Management
+ Manage IT assets using ready tools or create a custom application to suit your needs.
+ BI and Analytics
+ Bring data to life with appealing visuals and insightful dashboards.
+Project Management
+ Choose a project management style that suits your business the best.
+Developer Platforms
+ Automate business processes, manage custom workflows, and build apps with a choice of no, low, and pro-code tools.
+IoT
+ Bridge data, devices, and decisions with seamless IoT integrations and automations.
+Suites
+ The perfect combination of apps to help you with every aspect of your business.
+All-in-one suite
+Zoho One
+The operating system for business
+ Run your entire business on Zoho with our unified cloud software, designed to help you break down silos between departments and increase organizational efficiency.
+Try zoho one
+ With over 2000 ready-to-use extensions across 40+ categories, connect your favorite business tools with the Zoho products you already use.
+EXPLORE MARKETPLACE
+Mobile Apps
+ Stepping away from your computer? No problem. Stay focused on your customers, manage your business, and connect on the go. Whenever, wherever.
+Explore All
+Desktop Apps
+ With faster access and enhanced security, transform your day-to-day business operations efficiently, right from your desktop.
+Explore All
+Browser Extensions
+ Work smarter and faster—right from your browser; with ready-to-use browser extensions for your favorite Zoho apps.
+Explore All
+ Looking to replace your current software?
+ Discover Zoho alternatives to your apps. Explore the most popular comparisons and learn what sets us apart.
+Explore All Alternatives
+Looking to try more Zoho apps?
+Explore using wallet credits

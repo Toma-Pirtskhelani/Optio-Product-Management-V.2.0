@@ -1,0 +1,1711 @@
+===== llms.txt :: https://cordial.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Cordial
+> Cordial is a cross-channel marketing and AI platform that helps consumer brands win the Battle for Attention by predicting customer intent, engaging in real time, and delivering hyper-relevant experiences across email, SMS, mobile app, RCS, and more. Powered by a native CDP, bespoke AI models, and real-time orchestration, Cordial transforms customer signals into timely, relevant messages that drive scalable revenue and lasting connections—all from one platform.
+Cordial is headquartered in San Diego, California. Notable customers include Levi Strauss & Co., Realtor.com, L.L.Bean, Virgin Voyages, Pacsun, Boot Barn, Adore Me, Forbes and hundreds of other leading brands.
+## Messaging Channels
+Cordial supports the following messaging channels natively within a single, unified platform:
+- [Email](https://cordial.com/platform/messaging-channels/): Enterprise-scale email marketing with drag-and-drop content blocks, templates, dynamic personalization, and real-time data activation at send time. Supports batch, triggered, and transactional email.
+- [SMS / MMS](https://cordial.com/platform/messaging-channels/sms-marketing/): Native SMS and MMS messaging with international support in 23+ countries. Includes compliance tools for TCPA, CTIA, HIPAA, and GDPR. Supports batch, automated, and transactional text messages with AI-generated content optimized for character limits.
+- [Mobile App (Push, In-App, Mobile Inbox)](https://cordial.com/platform/messaging-channels/mobile-app/): Push notifications, in-app messages, and mobile inbox powered by SDKs for iOS, Android, React Native, and Expo. Trigger personalized messages based on real-time events and user behavior.
+- [RCS (Rich Communication Services)](https://cordial.com/press/cordial-expands-innovation-mcp-rcs-messaging/): Verified, branded, and interactive messages delivered natively to mobile devices. App-like messaging experiences with 3–7x higher click-through rates than SMS. Cordial is among the first U.S. platforms to offer RCS to marketers.
+- [Website Personalization](https://cordial.com/cross-channel-messaging/): Web-based messaging including greeting modals, landing pages, promotions, lightboxes, and custom checkout options. Leverages contact data for tailored on-site experiences.
+- [Open Channel / REST API](https://cordial.com/cross-channel-messaging/): Connect in real time to trigger messages with third-party channels including direct mail, mobile wallet, browser notifications, call center, CRM, social media, and more. Orchestrate any external channel from within Cordial's journey builder.
+## Platform & Products
+- [Platform Overview](https://cordial.com/platform/): Cordial's unified marketing platform combining CDP, AI, cross-channel messaging, journey orchestration, personalization, and identity resolution.
+- [Cross-Channel Messaging](https://cordial.com/cross-channel-messaging/): Orchestrate targeted marketing across all supported channels from a single platform without the need for standalone ESPs or point solutions.
+- [Customer Data Platform (CDP)](https://cordial.com/customer-data-platform/): Native CDP that collects, unifies, and activates customer data in real time from POS systems, mobile apps, websites, CRMs, and more. Query millions of customers and attributes in milliseconds.
+- [Journey Orchestration](https://cordial.com/customer-journey-orchestration/): Visual orchestration builder for designing relevant customer journeys connecting personalized content, channels, data, and insights.
+- [Personalization](https://cordial.com/personalization/): Dynamic 1:1 personalization and triggered messaging based on real-time user behaviors, replacing the need for dedicated trigger tech.
+- [Identity Resolution](https://cordial.com/identity-resolution/): Connect and match user identifiers across channels and devices to create unified customer profiles.
+- [Integrations](https://cordial.com/platform-integrations/): Extensive integration ecosystem connecting Cordial with existing tech stacks.
+## Cordial Edge™ AI
+- [Cordial Edge AI Overview](https://cordial.com/ai/): Multimodal AI suite that generates bespoke, brand-specific models from each customer's data. Uses Mixture of Experts (MoE) architecture to dynamically assign tasks to specialized submodels. Models generate in hours and update scores daily, evolving as customers change and products launch or discontinue.
+### AI Model Releases (Timeline)
+- **January 2025 — Cordial Edge Launch** ([announcement](https://cordial.com/press/cordial-launches-cordial-edge/)): First-of-its-kind multimodal AI for retail marketing. Brand-specific, purchase-driven models that consume both structured and unstructured data with no predefined schema. Capabilities include expansive product recommendations, experiential clienteling, revenue-based scheduling, data-driven creative analysis, and location-based promotion. Early customers saw 35%+ increase in marketing-driven purchases.
+- **March 2025 — Message Insights & Message Assistant** ([announcement](https://cordial.com/press/cordial-expands-cordial-edge/)): Message Insights analyzes every aspect of a message (subject lines, imagery, tone, CTAs, structure) to identify what drives conversions and revenue. Message Assistant provides real-time, prescriptive recommendations within Cordial's message editor. Also launched international SMS in 23+ markets.
+- **Spring 2025 — Cordial Edge Dynamic Attributes**: Suite of AI-powered dynamic attributes including Lifetime Value (LTV) prediction, Average Order Value (AOV) prediction, RFM (Recency, Frequency, Monetary) classification, Engagement Momentum scoring, and Frequency Optimization (per-contact email caps).
+- **June 2025 — Price Sensitivity** ([announcement](https://www.prnewswire.com/news-releases/cordials-ai-platform-helps-brands-protect-margins-by-predicting-customer-price-sensitivity-302487914.html)): AI-driven segmentation of customers by price responsiveness for precision discounting, better engagement, and margin protection.
+- **August 2025 — MCP Interface & RCS** ([announcement](https://cordial.com/press/cordial-expands-innovation-mcp-rcs-messaging/)): Model Context Protocol (MCP) interface built on Anthropic's open standard. Agent-ready with structured access to data, assets, and campaign context. Launched alongside RCS messaging and Cordial Foundry innovation lab.
+- **September 2025 — SAM & Figma Integration** ([announcement](https://www.prnewswire.com/news-releases/cordial-foundry-moves-agents-from-draft-mode-to-delivery-with-sam-and-figma-integration-302557081.html)): Cordial SAM (Smart Asset Manager) — AI-powered asset management with automatic tagging and metadata. Figma integration for design-to-send workflows. Agents can select assets, apply brand rules, and ship campaigns end-to-end.
+## Unstructured Data & Flexible Data Architecture
+Cordial's data platform is built on MongoDB, a document-based database that supports both structured and unstructured data without predefined schemas. This architecture is foundational to Cordial Edge AI's ability to consume unrestricted amounts of data for model optimization.
+- [About Cordial's Data Architecture](https://support.cordial.com/hc/en-us/articles/204570187-About-our-API-documentation): Cordial stores data in collections that elegantly represent, index, store, retrieve, and operate over contact profile data, contact activity data, purchase data, product catalog data, IoT data, and publishing data—both structured and unstructured.
+- [Contacts API](https://support.cordial.com/hc/en-us/articles/203885958-Contacts-API): Create, update, and manage contacts with flexible attribute schemas. Supports unlimited custom attributes, channel data, list associations, and cart data. No rigid schema required.
+- [Contact Activities (Events) API](https://support.cordial.com/hc/en-us/articles/203885968-Contact-activities-events-API): Track behavioral data including reserved message events, custom-named events (browse, cart, order), and external IoT events. Properties are passed as flexible JSON with automatic data type recognition. Supports unstructured property payloads.
+- [Contact Activity Export API](https://support.cordial.com/hc/en-us/articles/115002878411-Contact-activity-export-API): Export contact activities to external locations via FTP, SFTP, or HTTP. Supports CSV and JSON formats with dot-notation access to nested properties.
+- [Supplements API](https://support.cordial.com/hc/en-us/articles/204570687-Supplements-API): Extend Cordial's data model with supplemental data sets for any business data (products, stores, content, etc.). Indexed fields enforce type validation; non-indexed fields accept any structured or unstructured data without validation. Sparse indexes available.
+- [Orders API](https://support.cordial.com/hc/en-us/articles/203886028-Orders-API): Import and manage order data for use in message personalization, audience building, replenishment campaigns, and analytics.
+- [Products API](https://support.cordial.com/hc/en-us/articles/203886018-Products-API): Manage product catalog data for recommendations, dynamic content, and inventory-aware messaging.
+- [Scriptable API](https://support.cordial.com/hc/en-us/articles/360001897772-Get-started-for-developers): Set custom authentication, responses, and payload schemas using Smarty scripts for integrating Cordial with external applications.
+- [Webhooks](https://support.cordial.com/hc/en-us/articles/360001897772-Get-started-for-developers): Automatically stream real-time event data from Cordial to external APIs. Configure multiple webhooks, each streaming specified system and/or custom events.
+### Unstructured Data in Cordial Edge AI
+Cordial Edge AI models have data scalability to include nearly unlimited amounts of both structured and unstructured data, optimizing message performance from a complete data set. This includes:
+- CRM, e-commerce, and loyalty metrics (structured)
+- Conversational logs, customer reviews, and freeform notes from clienteling apps (unstructured)
+- Store associate notes and web chat transcripts (unstructured)
+- Real-time location data for aisle-by-aisle in-store positioning (unstructured)
+- Multimodal message data including imagery, text, tone, and structure (unstructured)
+## AI & Innovation
+- [Cordial Foundry](https://cordial.com/press/cordial-expands-innovation-mcp-rcs-messaging/): Public R&D lab shipping agent-first tools in weeks. Operates as an open innovation lab releasing early experiments including design-to-send workflows, smart DAM integration, and AI-powered tools.
+- [MCP Interface](https://cordial.com/press/cordial-expands-innovation-mcp-rcs-messaging/): Model Context Protocol interface built on Anthropic's open standard. Agent-ready with structured access to data, assets, and campaign context so AI assistants can scale marketing teams.
+- [Cordial SAM (Smart Asset Manager)](https://www.prnewswire.com/news-releases/cordial-foundry-moves-agents-from-draft-mode-to-delivery-with-sam-and-figma-integration-302557081.html): AI-powered asset management with automatic tagging and metadata, making assets immediately usable for campaign building by both humans and AI agents.
+- [Shopper Context Protocol](https://cordial.com/press/cordial-joins-the-shopper-context-protocol-to-help-brands-bridge-the-intent-divide/): Open standard for AI-powered commerce, part of the Retail AI Council.
+## Services
+- [Professional Services](https://cordial.com/platform/services/): Dedicated Client Success Managers, strategy consultants, and digital experts providing onboarding, implementation, marketing strategy optimization, and technical business use cases.
+## Customer Stories
+- [Case Studies](https://cordial.com/clients/): Customer success stories and results.
+- [Adore Me](https://cordial.com/clients/adore_me/): Shaping the future of personalized shopping.
+- [Boot Barn](https://cordial.com/clients/boot-barn/): Intelligent segmentation sending billions of 1:1 emails.
+- [Orveon Global](https://cordial.com/clients/orveon-bareminerals-buxom-laura-mercier/): Driving conversion with product quizzes and personalized recommendations.
+## Resources
+- [Resource Library](https://cordial.com/resource-library/): Blog posts, guides, ebooks, and industry insights.
+- [Videos](https://cordial.com/type/video/): Product demos and educational content.
+- [Guides and Ebooks](https://cordial.com/type/ebook/): In-depth marketing strategy and platform guides.
+- [Strategy Webinars](https://cordial.com/strategy-webinars/): Expert-led webinars on marketing strategy and best practices.
+- [TEI Study (Forrester)](https://cordial.com/tei/): Total Economic Impact study showing brands switching to Cordial net $8.79 million in total benefits over 3 years with payback in less than 6 months.
+## Developer Resources
+- [Developer Resources Overview](https://support.cordial.com/hc/en-us/categories/12092749097741-Developer-resources): Comprehensive developer documentation including RESTful APIs and SDKs.
+- [API Reference (Swagger/Stoplight)](https://docs.cordialapis.com/): Interactive API reference and testing.
+- [RESTful API Summary](https://support.cordial.com/hc/en-us/articles/203885498-RESTful-API-summary-and-usage): API standards, HTTP Basic Authentication, JSON request/response patterns, and rate limiting.
+- [Functional API Groups](https://support.cordial.com/hc/en-us/articles/203885828-API-Glossary-and-Functional-Overview): API endpoints organized by function—contacts, events, orders, products, supplements, messages, orchestrations, and more.
+- [JavaScript Listener](https://support.cordial.com/hc/en-us/sections/204163538-Embedded-JavaScript-Listener): Client-side JavaScript for real-time data collection, visitor identification, and personalization.
+- [Mobile SDK Documentation](https://support.cordial.com/hc/en-us/articles/26983758909581-Mobile-documentation): iOS, Android, React Native, and Expo SDK documentation for mobile app integration.
+- [Integration Documentation](https://support.co
+
+===== homepage :: https://cordial.com/
+--- SIGNALS ---
+title: Cordial
+meta_description: Cordial is a cross-channel marketing platform built for enterprise brands to personalize email, SMS, and push campaigns that drive growth.
+og_description: Cordial is a cross-channel marketing platform built for enterprise brands to personalize email, SMS, and push campaigns that drive growth.
+og_site_name: Cordial: Cross-channel marketing & customer engagement platform
+h1: Marketing that moves with your customers-not behind them.
+h2: Consumer attention is scarce and it’s constantly shifting. Start winning the Battle for Attention with Cordial. | Go beyond behavior to predict intent | Engage customers on their terms | Match the message to the moment | Stay ahead with AI + expertise | 2x to 8x higher revenue per message in less than 8 weeks. | The best brands don’t chase attention. They earn it. | Channels, AI, data, and intent signals all in one platform. | Cordial named a Leader in Forrester Wave™: EMSPs, Q1 2026 | Ready to win the Battle for Attention?
+jsonld_org: [{"@type": "Organization", "@id": "https://cordial.com/#organization", "name": "Cordial", "url": "https://cordial.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://cordial.com/#/schema/logo/image/", "url": "https://cordial.com/wp-content/uploads/2020/06/Cordial_Logo_Black_Full_Color.png", "contentUrl": "https://cordial.com/wp-content/uploads/2020/06/Cordial_Logo_Black_Full_Color.png", "width": 4383, "height": 1100, "caption": "Cordial"}, "image": {"@id": "https://cordial.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/cordialinc/", "https://x.com/cordialinc", "https://www.instagram.com/be_cordial/?hl=en", "https://www.linkedin.com/company/cordialinc/"]}, {"@context": "https://schema.org", "@type": "Organization", "@id": "https://cordial.com/#organization", "name": "Cordial", "legalName": "Cordial Experience, Inc.", "url": "https://cordial.com", "logo": {"@type": "ImageObject", "url": "https://cordial.com/wp-content/uploads/2026/07/Cordial-Logo-scaled.png", "width": 200, "height": 60}, "description": "Cordial is an enterprise cross-channel marketing platform that unifies customer data, AI personalization, and messaging (email, SMS, mobile app) in one system. Named a Leader in the Forrester Wave: EMSPs, Q1 2026.", "foundingDate": "2014", "founders": [{"@type": "Person", "name": "Jeremy Swift", "jobTitle": "CEO and Co-Founder"}, {"@type": "Person", "name": "Adam Gillespie", "jobTitle": "CTO and Co-Founder"}, {"@type": "Person", "name
+--- TEXT ---
+Cordial
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cordial | Cross-Channel Marketing Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cordial launches headless agentic platform for enterprise.  
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cordial home
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cordial Edge
+TM
+ AI 
+ 
+ Cross-channel messaging 
+ 
+ Customer data platform 
+ 
+ Journey orchestration 
+ 
+ 
+ 
+ Personalization 
+ 
+ Identity resolution 
+ 
+ Integrations 
+ 
+ 
+ 
+Services
+ 
+Customers
+ 
+Partners
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more about Cordial
+ 
+ 
+Case studies 
+ 
+ 
+Webinars 
+ 
+Guides and ebooks 
+ 
+Blog 
+ 
+ 
+New product releases 
+ -->
+ 
+ 
+ 
+ 
+Customer support & learning
+ 
+Submit a support ticket 
+ 
+Strategy webinars 
+ 
+JS Listener documentation 
+ 
+API documentation 
+ 
+Mobile documentation 
+ 
+Integration documentation 
+ 
+ 
+ 
+ 
+ 
+ 
+Log In
+ 
+Get
+ a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing that moves with your customers-not behind them.
+ 
+ Consumers tune out when marketing feels like noise. Cordial helps you predict intent, engage in real time, and deliver hyper-relevant experiences-so you win the Battle for Attention.
+ 
+ 
+ 
+ Get Started 
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consumer attention is scarce and it’s constantly shifting. 
+Start winning the Battle for Attention with Cordial.
+ 
+ 
+ 
+ 
+ 
+ 
+ Predict Intent 
+ 
+ Listen Continuously 
+ 
+ Unify Data 
+ 
+ Accelerate Results 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Go beyond behavior to predict intent
+ 
+ Know why customers act, not just what they do. Go beyond clicks—detect evolving interests, and trends to deliver messages that matter, exactly when they matter.
+ 
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engage customers on their terms
+ 
+ Be where they are, not where they were. Cordial listens across channels and turns signals into revenue-generating messages in real time.
+ 
+ 
+ 
+ Explore Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Match the message to the moment
+ 
+ Dynamic, 1:1 personalization. No lag, outdated segments, or canned messages. Unify and enhance data across your tech stack, turning insights into action.
+ 
+ 
+ 
+ See How 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stay ahead with AI + expertise
+ 
+ Why choose between software and service? Cordial gives you AI + Automation + Experts to provide trusted guidance so you can navigate change with confidence.
+ 
+ 
+ 
+ View our Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2x to 8x higher revenue per message in less than 8 weeks.
+ 
+ With 
+Cordial’s AI
+ personalization. According to 
+Forrester
+.
+ 
+ 
+ 
+ Get a Demo 
+ 
+ 
+ How it Works 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The best brands don’t chase attention. They earn it.
+ 
+ See how Cordial clients stay relevant, meet customers where they are, and anticipate their needs.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adore Me is shaping the future of personalized shopping 
+ 
+Read case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Beauty brand collective drives conversion with product quizzes & personalized recommendations 
+ 
+Read case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Boot Barn intelligently segments customers to send billions of 1:1 emails 
+ 
+Read case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Channels, AI, data, and intent signals all in one platform.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Data Activation
+ 
+ 
+ 
+ 
+ 
+ Unify and activate customer data in real-time, eliminating the need for a separate customer data platform (CDP).
+ 
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI Models Unique to your Brand
+ 
+ 
+ 
+ 
+ 
+ Reach your customers in ways unique to your brand, with custom AI models generated from your data.
+ 
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cross-Channel Messaging
+ 
+ 
+ 
+ 
+ 
+ Orchestrate targeted email, SMS, and mobile app marketing without the need for standalone email service providers (ESPs) or point solutions.
+ 
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Triggered Messaging
+ 
+ 
+ 
+ 
+ 
+ Automate personalized triggered messages based on user behaviors, replacing the need for dedicated trigger tech.
+ 
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Message Insights & Assistant
+ 
+ 
+ 
+ 
+ 
+ See how visual, text, tone, and structure features of each message drive revenue performance, and put those insights to work with create-time suggestions and feedback.
+ 
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Identity Resolution
+ 
+ 
+ 
+ 
+ 
+ Connect and match user identifiers across channels and devices to create unified customer profiles and eliminate the need for an identity resolution provider.
+ 
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cordial named a Leader in Forrester Wave™: EMSPs, Q1 2026
+ 
+ 
+ 
+Cordial helps you predict intent, engage in real time, and deliver hyper-relevant experiences. But don’t take our word for it. In Forrester Wave™, Cordial received the highest possible scores in 10 criteria, including identity resolution, queries and segmentation, and dynamic messaging.
+ 
+ 
+ 
+ Download the report 
+ 
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+Ready to win the Battle for Attention?
+ 
+ 
+ 
+ Get a Demo 
+ 
+ 
+ 
+ How it Works 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Products overview
+Cordial Edge™ AI
+Cross-channel messaging
+Customer data platform
+Journey orchestration
+Personalization
+Identity resolution
+Integrations
+Services
+ 
+ 
+ 
+Solutions
+ 
+For Marketing Teams
+For Technology Teams
+ 
+Resources
+ 
+Resource Library
+Strategy Webinars
+Knowledge Base
+Technical Guide
+Press
+ 
+ 
+ 
+Company
+ 
+About
+Careers
+Cordial Cares
+Clients
+Partners
+Partner Program
+Contact Us
+ 
+ 
+ 
+ 
+ 
+Privacy Policy
+ 
+Terms of Use
+ 
+Security
+ 
+Cookie Settings
+ 
+ 
+© 2026 Cordial
+
+===== product :: https://cordial.com/platform/
+--- SIGNALS ---
+title: Cordial
+meta_description: Learn how Cordial activates customer and business data to send personalized email, SMS, and mobile app messages in real-time, at scale.
+og_description: Learn how Cordial activates customer and business data to send personalized email, SMS, and mobile app messages in real-time, at scale.
+og_site_name: Cordial: Cross-channel marketing & customer engagement platform
+h1: The best platform for smart marketers
+h2: 232% | 50% | <60
+jsonld_org: [{"@type": "Organization", "@id": "https://cordial.com/#organization", "name": "Cordial", "url": "https://cordial.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://cordial.com/#/schema/logo/image/", "url": "https://cordial.com/wp-content/uploads/2020/06/Cordial_Logo_Black_Full_Color.png", "contentUrl": "https://cordial.com/wp-content/uploads/2020/06/Cordial_Logo_Black_Full_Color.png", "width": 4383, "height": 1100, "caption": "Cordial"}, "image": {"@id": "https://cordial.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/cordialinc/", "https://x.com/cordialinc", "https://www.instagram.com/be_cordial/?hl=en", "https://www.linkedin.com/company/cordialinc/"]}]
+--- TEXT ---
+Cordial
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform Overview | Cordial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cordial home
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cordial Edge
+TM
+ AI 
+ 
+ Cross-channel messaging 
+ 
+ Customer data platform 
+ 
+ Journey orchestration 
+ 
+ 
+ 
+ Personalization 
+ 
+ Identity resolution 
+ 
+ Integrations 
+ 
+ 
+ 
+Services
+ 
+Customers
+ 
+Partners
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more about Cordial
+ 
+ 
+Case studies 
+ 
+ 
+Webinars 
+ 
+Guides and ebooks 
+ 
+Blog 
+ 
+ 
+New product releases 
+ -->
+ 
+ 
+ 
+ 
+Customer support & learning
+ 
+Submit a support ticket 
+ 
+Strategy webinars 
+ 
+JS Listener documentation 
+ 
+API documentation 
+ 
+Mobile documentation 
+ 
+Integration documentation 
+ 
+ 
+ 
+ 
+ 
+ 
+Log In
+ 
+Get
+ a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The best platform for smart marketers
+ 
+Consolidate your data and unify your customer profiles so you always send the right message, to the right audience, at the right time. Activate customers with multi-channel orchestrations, trigger high-value automations, and optimize everything with AI. Cordial is the platform you need to send a better message.
+ 
+Get a demo 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+Engineered for results
+ 
+Cordial’s CDP architecture was built to give marketers the power and flexibility they need. Ingest data from any source with our 
+integrations
+ tools, segment massive data sets in milliseconds, and make all of your customer information available at the moment of send - our technology makes it easier for you to do your job.
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+232%
+ 
+better 
+conversion
+ 
+Using data-driven personalized messaging with Cordial vs. non-personalized messaging
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50%
+ 
+increase 
+in RPM
+ 
+Clients have seen up to 50% lift in revenue per email by moving their programs to Cordial
+ 
+ 
+ 
+ 
+ 
+ 
+days to 
+implement
+ 
+Average enterprise implementation with Cordial is 58 days, with first send in fewer than 30 days
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI that matters
+ 
+Cordial AI delivers understanding, at scale. Built on the power and flexibility of Cordial’s data platform, Cordial AI understands your messages, understands your audience, and empowers you, the marketer. Create, automate, and optimize everything from individual messages to entire strategies - Cordial AI makes it simple to deliver the results that matter to your business.
+ 
+ 
+Understand better
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Every tool you need to send a better message
+ 
+Cordial puts the power of 
+advanced personalization
+ at your fingertips with easy-to-use messaging and audience segmentation tools. Orchestrate complex 
+multi-channel
+ strategies with a few clicks. Utilize our 
+web forms
+ for acquisition, identify more of your traffic with 
+Identity+
+, and build 
+behavioral triggers and automations
+ for high-value messaging. All along the way, 
+Cordial AI
+ will help you understand more about your customers and messages, so you can drive more value from your list.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cross-channel messaging
+ 
+Send a better message
+ 
+Create personalized, impactful campaigns across email, SMS, mobile app, and more with Cordial.
+ 
+ 
+ 
+Email
+ 
+SMS
+ 
+Mobile app
+ 
+Website
+ 
+Open channel
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Workflow
+ 
+Create and orchestrate
+ 
+Learn more about how Cordial makes tasks easy with simple segmentation, intuitive journey-building, and personalized message creation.
+ 
+ 
+ 
+Personalization
+ 
+Identity resolution
+ 
+Journey orchestration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Latest
+ 
+Still want more?
+ 
+Hear client stories, check out our latest product releases, and learn about our vision for AI.
+ 
+ 
+ 
+Case studies
+ 
+New releases
+ 
+Cordial AI: Understanding at scale
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"Cordial is a great fit for cross-channel retailers that are reasonably comfortable with marketing technology and want to activate large, disparate data sets into highly customized communications."
+ 
+Download report
+ 
+The Forrester Wave™:
+Email Marketing Service Providers, Q1 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Discover how future-thinking brands send a better message
+ 
+ 
+ 
+Get a demo
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Products overview
+Cordial Edge™ AI
+Cross-channel messaging
+Customer data platform
+Journey orchestration
+Personalization
+Identity resolution
+Integrations
+Services
+ 
+ 
+ 
+Solutions
+ 
+For Marketing Teams
+For Technology Teams
+ 
+Resources
+ 
+Resource Library
+Strategy Webinars
+Knowledge Base
+Technical Guide
+Press
+ 
+ 
+ 
+Company
+ 
+About
+Careers
+Cordial Cares
+Clients
+Partners
+Partner Program
+Contact Us
+ 
+ 
+ 
+ 
+ 
+Privacy Policy
+ 
+Terms of Use
+ 
+Security
+ 
+Cookie Settings
+ 
+ 
+© 2026 Cordial
+
+===== pricing_or_trust :: https://cordial.com/security/
+--- SIGNALS ---
+title: Cordial
+meta_description: We’re dedicated to staying ahead of fluid regulatory and consumer requirements.
+og_description: We’re dedicated to staying ahead of fluid regulatory and consumer requirements.
+og_site_name: Cordial: Cross-channel marketing & customer engagement platform
+h1: Security & Compliance
+h2: 
+jsonld_org: [{"@type": "Organization", "@id": "https://cordial.com/#organization", "name": "Cordial", "url": "https://cordial.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://cordial.com/#/schema/logo/image/", "url": "https://cordial.com/wp-content/uploads/2020/06/Cordial_Logo_Black_Full_Color.png", "contentUrl": "https://cordial.com/wp-content/uploads/2020/06/Cordial_Logo_Black_Full_Color.png", "width": 4383, "height": 1100, "caption": "Cordial"}, "image": {"@id": "https://cordial.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/cordialinc/", "https://x.com/cordialinc", "https://www.instagram.com/be_cordial/?hl=en", "https://www.linkedin.com/company/cordialinc/"]}]
+--- TEXT ---
+Cordial
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Security & Compliance | Cordial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cordial home
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cordial Edge
+TM
+ AI 
+ 
+ Cross-channel messaging 
+ 
+ Customer data platform 
+ 
+ Journey orchestration 
+ 
+ 
+ 
+ Personalization 
+ 
+ Identity resolution 
+ 
+ Integrations 
+ 
+ 
+ 
+Services
+ 
+Customers
+ 
+Partners
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more about Cordial
+ 
+ 
+Case studies 
+ 
+ 
+Webinars 
+ 
+Guides and ebooks 
+ 
+Blog 
+ 
+ 
+New product releases 
+ -->
+ 
+ 
+ 
+ 
+Customer support & learning
+ 
+Submit a support ticket 
+ 
+Strategy webinars 
+ 
+JS Listener documentation 
+ 
+API documentation 
+ 
+Mobile documentation 
+ 
+Integration documentation 
+ 
+ 
+ 
+ 
+ 
+ 
+Log In
+ 
+Get
+ a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Security & Compliance
+ 
+We’re dedicated to staying ahead of fluid regulatory and consumer requirements.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GDPR & CCPA
+ 
+The General Data Protection Regulation and the California Consumer Privacy Act empower consumers to maintain all rights and privileges to their data, and require companies to adhere to all related protocols for data management. Cordial is GDPR and CCPA compliant.
+ 
+ 
+ 
+ 
+ 
+SOC 2 TYPE II
+ 
+Demands rigorous security policy creation, adherence and auditing. Cordial is SOC 2 Type II compliant.
+ 
+ 
+ 
+ 
+ 
+PRIVACY SHIELD
+ 
+Cordial complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Cordial has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join the world's leading brands who partner with us to communicate cordially
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more about our enterprise security practices
+ 
+ 
+ 
+Request a demo
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Products overview
+Cordial Edge™ AI
+Cross-channel messaging
+Customer data platform
+Journey orchestration
+Personalization
+Identity resolution
+Integrations
+Services
+ 
+ 
+ 
+Solutions
+ 
+For Marketing Teams
+For Technology Teams
+ 
+Resources
+ 
+Resource Library
+Strategy Webinars
+Knowledge Base
+Technical Guide
+Press
+ 
+ 
+ 
+Company
+ 
+About
+Careers
+Cordial Cares
+Clients
+Partners
+Partner Program
+Contact Us
+ 
+ 
+ 
+ 
+ 
+Privacy Policy
+ 
+Terms of Use
+ 
+Security
+ 
+Cookie Settings
+ 
+ 
+© 2026 Cordial

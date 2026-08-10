@@ -1,0 +1,1119 @@
+===== homepage :: https://www.attentive.com/
+--- SIGNALS ---
+title: Attentive | AI-Powered SMS and Email Marketing Platform
+meta_description: Learn more about Attentive—the SMS and email platform that brings your customer interactions to life with advanced AI.
+og_description: 
+og_site_name: 
+h1: Marketing made personal
+h2: Why Attentive? | Personalize every message, at scale | Turn customer signals into more relevant marketing | Create top-performing campaigns in less time | Bring your data and tools together | Real results from leading brands | BFCM Ideas & Insights | Ready to make every message more personal?
+jsonld_org: [{"@type": "Organization", "@id": "https://www.attentive.com/#organization", "name": "Attentive", "url": "https://www.attentive.com/", "logo": {"@type": "ImageObject", "url": "https://assets-global.website-files.com/5f8dd331b45e61acc8ac985c/5f8dd331b45e615199ac9946_Attentive_Logotype_Black_RGB.svg"}, "description": "Deliver 1:1 experiences across SMS, RCS, and email for every customer with advanced AI that captures, stores, and activates your data", "address": {"@type": "PostalAddress", "streetAddress": "221 River Street, Suite 9047", "addressLocality": "Hoboken", "addressRegion": "NJ", "postalCode": "07030", "addressCountry": "US"}, "email": "info@attentive.com", "foundingDate": "2016", "sameAs": ["https://www.linkedin.com/company/attentivemobile/", "https://twitter.com/attentivehq"]}]
+--- TEXT ---
+Attentive | AI-Powered SMS and Email Marketing Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Attentive
+ 
+Why Attentive
+Why Choose Attentive?
+Elevate your marketing with real-time, AI-powered data activation
+Superior Compliance
+Run your program with tools designed to protect you from potential risk
+Customer Support
+Build and scale with unparalleled guidance and support
+Reliable Deliverability
+Send messages knowing they’ll be delivered, even during peak periods
+Attentive Signal
+Identify, understand, and engage more website visitors
+100+ Integrations
+Connect seamlessly with flexible integrations that drive growth
+Products
+ 
+Channels
+SMS
+Engage customers with text messages that drive loyalty and revenue        
+Email
+Boost revenue and save time with personalized emails that convert        
+RCS for Business
+Turn every text into a branded, media-rich conversation
+Push
+Keep customers coming back with timely push notifications
+AI Agents
+Attentive AI™
+Create and send top-performing campaigns in a fraction of the time
+AI Pro
+Automatically analyze every customer interaction, behavior, and data point
+AI Grow
+Increase high-quality subscribers and revenue with AI-powered sign-up experiences
+AI Journeys
+Send personalized triggered messages that turn customer behavior into revenue
+Core Platform
+List Growth
+Collect SMS and email subscribers quickly with easy sign-up units
+Integrations
+Connect seamlessly with flexible integrations that drive growth
+Attentive Signal
+Identify, understand, and engage more website visitors
+Deliverability
+Send messages knowing they’ll be delivered, even during peak periods
+Why Attentive
+Analytics
+Make data-driven decisions with detailed, customizable reports
+Compliance
+Run your program with tools designed to protect you from potential risk
+Audience Manager
+Reach the right audiences with precise targeting and dynamic segmentation
+Product webinar
+Join Attentive's product team for a first look at what's new, what’s next, and what it means for your marketing
+Save your spot
+ 
+Customers
+ 
+Real Results
+FRYE
+576% email campaign revenue growth
+Steve Madden
+20x total program ROI
+Cozy Earth
+192% boost in email revenue
+The Vitamin Shoppe
+28x program ROI
+Why Attentive
+Olly
+40% revenue increase from emails
+Kendra Scott
+48X ROI on gifting recommendations
+AllSaints
+45x total program ROI
+Studio Movie Grill
+88X welcome journey ROI
+Discover More
+Texts We Love
+Real SMS examples to inspire your next campaign 
+Case Studies
+Proven strategies and results from leading brands
+Seasonal Strategies
+Seasonal marketing strategies to help keep your campaigns fresh and engaging
+BFCM Success Stories
+What 6 Brands Did Before BFCM That Drove Results
+Read success stories
+ 
+Solutions
+ 
+Industry
+Retail & Ecommerce
+Engage customers with messages that drive loyalty 
+Food & Beverage
+Deliver tailored, cross-channel messages that keep diners coming back
+Entertainment & Media
+Boost revenue by connecting with your audience in real time
+Why Attentive
+Travel & Hospitality
+Reach more customers, drive loyalty, and boost revenue 
+Fitness & Wellness
+Engage more customers and boost bookings with personalized messages
+Attentive for
+Partners
+Exceed growth goals with guidance from our agency partners
+Developers
+Unlock features, personalization, and data with flexible APIs
+International
+Deliver the right messages to the right customers across 20+ countries
+The Attentive Marketer Pulse
+68% of brands improved their messaging performance—here's what they did differently
+See what worked
+ 
+Resources
+ 
+Learn & Grow
+Resource Hub
+Guides, reports, videos, and more to help you build and grow your program
+Blog
+Strategies, trends, and insights to help you become an industry expert
+Video Library
+Quick tips, tutorials, and insights to maximize your program's potential
+Why Attentive
+Guides
+Strategic guides for SMS, email, RCS, and push 
+Trends & Insights
+Research and insights from industry leaders
+Events & Webinars
+Live and on-demand recordings to keep learning
+Tools & Inspiration
+Case Studies
+Explore proven strategies and results from innovative brands
+Texts We Love
+Real SMS examples to inspire your next campaign
+Marketing Calendar
+Top marketing tips and strategies for key dates in 2026
+Support & Documentation
+Help Center
+Check out our how-to guides, webinars, and more
+Partner Directory
+Enlist the expert guidance of an Attentive agency partner
+API Documentation
+APIs for subscription, messaging, and custom integration needs
+Product & Updates
+RCS Hub
+Elevate customer engagement with rich RCS messaging features
+Releases & Updates
+Get the latest on new products, features, and enhancements
+Platform Tour
+Take an interactive tour of our platform
+The Edit
+The inside scoop on BFCM
+Explore The Edit
+ 
+Pricing
+ 
+Sign in
+Get a demo
+ 
+NEW
+Get the inside scoop on BFCM
+ 
+ 
+Marketing made 
+personal
+ 
+Understand every customer, personalize every message, and drive revenue and loyalty across SMS, email, RCS, and push
+Get a demo
+Take a tour
+Take a tour
+Choose from flexible pricing based on:
+The number of messages you send
+ The size of your subscriber list
+ 
+Why Attentive?
+ 
+Agentic AI
+Turn customer signals into smarter decisions and more relevant marketing
+ 
+Omnichannel
+Plan, send, and measure across channels in one place—with less complexity and more control
+ 
+Single Customer ID
+Recognize the same customer across channels so every message feels more connected and relevant
+ 
+Expertise
+Work with a team that helps you launch, optimize, and grow with confidence
+Personalize every message, at scale
+SMS
+Drive loyalty and revenue with relevant SMS messages
+Explore SMS
+ 
+Email
+Grow your list and send emails that feel relevant and personal
+Explore Email
+ 
+RCS
+Create branded, interactive messages that drive action
+Explore RCS
+ 
+Push
+Send timely push notifications that bring customers back
+Explore Push
+ 
+Turn customer signals into more 
+relevant marketing
+Explore Attentive AI™
+ 
+Listen
+Capture customer, brand, and behavioral signals in one place
+Understand
+Turn real-time signals into insights you can actually use
+Respond
+Deliver more personal experiences across every channel
+2x
+higher list growth
+2x
+higher ROI
+20%
+higher CVR
+Create top-performing campaigns in less time
+Achieve true personalization
+Tailor every aspect of every message in real time, so no two are the same
+117% more purchases
+Drive more conversions
+Capture the attention of high-quality site visitors to grow your list and increase revenue
+ 20-30% subscriber growth
+Reach high-intent subscribers
+Automatically adjust for the ideal campaign audiences using historical and real-time data
+50% revenue increased
+Send on-brand messages
+Get copy in your own tone and style from AI models trained on your top-performing messages
+Advanced settings
+Create content effortlessly
+Simplify the process of crafting personalized, targeted, media-rich messages for every subscriber
+50% time saved
+Capture subscribers attention
+Increase engagement with unique experiences based on individual preferences and history
+75% of time, higher CVR
+ 
+ 
+ 
+ 
+4.7 rating based on reviews
+Built-in compliance
+Run your program with tools designed to help protect against risk
+Reliable deliverability
+Send messages knowing they’ll be delivered, even during peak periods
+Hands-on support
+Build and scale your program with specialized guidance from our in-house experts
+Clear reporting
+Spot trends over time with visual dashboards and advanced reporting
+Global reach
+Engage customers any time, anywhere in 20+ countries
+Confident compliance
+Run your program with tools designed to protect you from potential risk
+Bring your data and tools together
+Connect and orchestrate across platforms to optimize sending data, enhance targeting, increase efficiency, and more
+Ecommerce
+Customer Service
+Loyalty
+Data
+100+ Integrations
+100+ Integrations
+Real results from leading brands
+Read the case study
+Read the case study
+ 
+ 
+ 
+ 
+ 
+97x
+ROI from SMS journeys
+48%
+increase in welcome UI revenue across SMS + Email with AI Grow
+"Attentive beat the Klaviyo journey counterparts across the board in all of the journeys we tested. We made the switch and never looked back.”
+Nick Sanetra
+Director of Marketing, Clove
+Read the case study
+Read the case study
+ 
+ 
+ 
+ 
+ 
+Read Case Study
+576%
+campaign revenue growth from email
+124%
+increase in email journey conversion rate
+“What I think sets Attentive apart is that new products never get in the way of overall goals. They are focused on building and retaining customers."
+Cailyn Nikolis
+Director of E-Commerce
+Read the case study
+Read the case study
+ 
+ 
+ 
+ 
+ 
+Read the case study
+92%
+engagement within 30 days of launch
+74%
+ CVR seen on high-intent triggered emails
+“We finally have the identity resolution, deliverability, and lifecycle orchestration we were missing—and the confidence that our messages are reaching customers exactly when and how they want to be reached. Once we rebuilt our journeys in Attentive, everything clicked, and email became a true extension of how our customers shop, learn, and engage.” 
+Carah Campbell
+CRM + Data Intelligence Director at amika®
+Explore more case studies
+ 
+ 
+ 
+BFCM Ideas & Insights
+Explore all
+ 
+The Attentive Consumer Pulse: Meet the 2026 BFCM Shopper
+Learn more about Attentive—the SMS and email platform that brings your customer interactions to life with advanced AI.
+The Attentive Marketer Pulse: BFCM Lessons for 2026
+Learn more about Attentive—the SMS and email platform that brings your customer interactions to life with advanced AI.
+7 Ways to Grow a Higher-Value List Before BFCM
+9 Behavioral Flows to Turn On Before BFCM
+Your Pre-BFCM Messaging Tune-Up
+Ready to make every message 
+more personal?
+Get a demo
+Take a tour
+Company
+About
+Press
+Careers
+Pricing
+Attentive Commerce Council
+Customer Advisory Board
+Attentive Luminaries
+Why Attentive
+Why Choose Attentive
+Attentive vs. Postscript
+Attentive vs. Klaviyo
+Attentive vs. Wunderkind
+Solutions
+Industry
+Retail & Ecommerce
+Food & Beverage
+Entertainment & Media
+Travel & Hospitality
+Fitness & Wellness
+Attentive for
+Partners
+Developers
+International
+Products
+Channels
+SMS
+Email
+RCS for Business
+Push
+Powered by AI
+Attentive AI™
+AI Pro
+AI Grow
+AI Journeys
+Core Platform
+List Growth
+Integrations
+Attentive Signal
+Deliverability
+Analytics
+Compliance
+Audience Manager
+Resources
+Learn & Grow
+Resource Hub
+Blog
+Video Library
+Events & Webinars
+Guides
+Tools & Inspiration
+Case Studies
+Texts We Love
+Marketing Campaign Calendar
+Support & Documentation
+Customer Success
+Help Center
+Partner Directory
+API Documentation
+Products & Updates
+RCS Hub
+Releases and Updates
+Platform Tour
+Get our monthly newsletter and marketing tips, straight to your inbox
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 Attentive Mobile Inc.
+Sitemap
+Security
+Privacy Policy
+Cookie Notice
+Privacy Rights and Choices
+Terms of Use
+Content Policy
+
+===== product :: https://www.attentive.com/platform-tour
+--- SIGNALS ---
+title: Attentive Platform Tour | See How It Works in Minutes
+meta_description: Take a quick interactive tour of the Attentive platform and see how AI-powered sign-up, audience insights, and personalized campaigns work together to drive better customer experiences.
+og_description: 
+og_site_name: 
+h1: One platform that turns more shoppers into customers | Talk with our team to build the right plan for your brand
+h2: See how it works together
+jsonld_org: [{"@type": "Organization", "name": "Attentive Mobile Inc."}]
+--- TEXT ---
+Attentive Platform Tour | See How It Works in Minutes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Attentive
+ 
+Why Attentive
+Why Choose Attentive?
+Elevate your marketing with real-time, AI-powered data activation
+Superior Compliance
+Run your program with tools designed to protect you from potential risk
+Customer Support
+Build and scale with unparalleled guidance and support
+Reliable Deliverability
+Send messages knowing they’ll be delivered, even during peak periods
+Attentive Signal
+Identify, understand, and engage more website visitors
+100+ Integrations
+Connect seamlessly with flexible integrations that drive growth
+Products
+ 
+Channels
+SMS
+Engage customers with text messages that drive loyalty and revenue        
+Email
+Boost revenue and save time with personalized emails that convert        
+RCS for Business
+Turn every text into a branded, media-rich conversation
+Push
+Keep customers coming back with timely push notifications
+AI Agents
+Attentive AI™
+Create and send top-performing campaigns in a fraction of the time
+AI Pro
+Automatically analyze every customer interaction, behavior, and data point
+AI Grow
+Increase high-quality subscribers and revenue with AI-powered sign-up experiences
+AI Journeys
+Send personalized triggered messages that turn customer behavior into revenue
+Core Platform
+List Growth
+Collect SMS and email subscribers quickly with easy sign-up units
+Integrations
+Connect seamlessly with flexible integrations that drive growth
+Attentive Signal
+Identify, understand, and engage more website visitors
+Deliverability
+Send messages knowing they’ll be delivered, even during peak periods
+Why Attentive
+Analytics
+Make data-driven decisions with detailed, customizable reports
+Compliance
+Run your program with tools designed to protect you from potential risk
+Audience Manager
+Reach the right audiences with precise targeting and dynamic segmentation
+Interactive Product Tour
+See how personalized marketing works
+Take a tour
+ 
+Customers
+ 
+Real Results
+FRYE
+576% email campaign revenue growth
+Steve Madden
+20x total program ROI
+Cozy Earth
+192% boost in email revenue
+The Vitamin Shoppe
+28x program ROI
+Why Attentive
+Olly
+40% revenue increase from emails
+Kendra Scott
+48X ROI on gifting recommendations
+AllSaints
+45x total program ROI
+Studio Movie Grill
+88X welcome journey ROI
+Discover More
+Texts We Love
+Real SMS examples to inspire your next campaign 
+Case Studies
+Proven strategies and results from leading brands
+Seasonal Strategies
+Seasonal marketing strategies to help keep your campaigns fresh and engaging
+BFCM Success Stories
+What 6 Brands Did Before BFCM That Drove Results
+Read success stories
+ 
+Solutions
+ 
+Industry
+Retail & Ecommerce
+Engage customers with messages that drive loyalty 
+Food & Beverage
+Deliver tailored, cross-channel messages that keep diners coming back
+Entertainment & Media
+Boost revenue by connecting with your audience in real time
+Why Attentive
+Travel & Hospitality
+Reach more customers, drive loyalty, and boost revenue 
+Fitness & Wellness
+Engage more customers and boost bookings with personalized messages
+Attentive for
+Partners
+Exceed growth goals with guidance from our agency partners
+Developers
+Unlock features, personalization, and data with flexible APIs
+International
+Deliver the right messages to the right customers across 20+ countries
+The Attentive Marketer Pulse
+68% of brands improved their messaging performance—here's what they did differently
+See what worked
+ 
+Resources
+ 
+Learn & Grow
+Resource Hub
+Guides, reports, videos, and more to help you build and grow your program
+Blog
+Strategies, trends, and insights to help you become an industry expert
+Video Library
+Quick tips, tutorials, and insights to maximize your program's potential
+Why Attentive
+Guides
+Strategic guides for SMS, email, RCS, and push 
+Trends & Insights
+Research and insights from industry leaders
+Events & Webinars
+Live and on-demand recordings to keep learning
+Tools & Inspiration
+Case Studies
+Explore proven strategies and results from innovative brands
+Texts We Love
+Real SMS examples to inspire your next campaign
+Marketing Calendar
+Top marketing tips and strategies for key dates in 2026
+Support & Documentation
+Help Center
+Check out our how-to guides, webinars, and more
+Partner Directory
+Enlist the expert guidance of an Attentive agency partner
+API Documentation
+APIs for subscription, messaging, and custom integration needs
+Product & Updates
+RCS Hub
+Elevate customer engagement with rich RCS messaging features
+Releases & Updates
+Get the latest on new products, features, and enhancements
+Platform Tour
+Take an interactive tour of our platform
+The Edit
+The inside scoop on BFCM
+Explore The Edit
+ 
+Pricing
+ 
+Sign in
+Get a demo
+ 
+Platform Tour
+One platform that turns more shoppers into customers
+Take a quick tour to see how connected messaging across SMS, email, and push helps you identify users, personalize every interaction, and drive better performance
+Choose from flexible pricing based on:
+The number of messages you send
+ The size of your subscriber list
+See how it works together
+Know who your customers are
+Connect email, phone number, device, and behavior into a single profile so every interaction starts with recognition
+Turn behavior into real-time decisions
+AI learns from every click and purchase to decide who to message, what to say, and when to send
+Turn behavior into real-time decisions
+SMS, email, RCS, and push work together so each message improves the next
+Coordinate every channel as one system
+Measure performance across channels and continuously optimize what works to drive more revenu
+Get smarter with every interaction
+Run your program with tools designed to protect you from potential risk
+Confident compliance
+Run your program with tools designed to protect you from potential risk
+ 
+Talk with our team to build the right plan for 
+your brand
+Get a live demo
+Company
+About
+Press
+Careers
+Pricing
+Attentive Commerce Council
+Customer Advisory Board
+Attentive Luminaries
+Why Attentive
+Why Choose Attentive
+Attentive vs. Postscript
+Attentive vs. Klaviyo
+Attentive vs. Wunderkind
+Solutions
+Industry
+Retail & Ecommerce
+Food & Beverage
+Entertainment & Media
+Travel & Hospitality
+Fitness & Wellness
+Attentive for
+Partners
+Developers
+International
+Products
+Channels
+SMS
+Email
+RCS for Business
+Push
+Powered by AI
+Attentive AI™
+AI Pro
+AI Grow
+AI Journeys
+Core Platform
+List Growth
+Integrations
+Attentive Signal
+Deliverability
+Analytics
+Compliance
+Audience Manager
+Resources
+Learn & Grow
+Resource Hub
+Blog
+Video Library
+Events & Webinars
+Guides
+Tools & Inspiration
+Case Studies
+Texts We Love
+Marketing Campaign Calendar
+Support & Documentation
+Customer Success
+Help Center
+Partner Directory
+API Documentation
+Products & Updates
+RCS Hub
+Releases and Updates
+Platform Tour
+Get our monthly newsletter and marketing tips, straight to your inbox
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 Attentive Mobile Inc.
+Sitemap
+Security
+Privacy Policy
+Cookie Notice
+Privacy Rights and Choices
+Terms of Use
+Content Policy
+
+===== pricing_or_trust :: https://www.attentive.com/pricing
+--- SIGNALS ---
+title: Attentive Pricing
+meta_description: Attentive Pricing: We’ll help you build a modular plan suited to your specific needs and goals.
+og_description: 
+og_site_name: 
+h1: Build the right messaging plan for your goals | Find the package for your team
+h2: The Attentive platform | Choose the right channels for your goals | Choose your AI tools | Everything you need to grow with Attentive | Everything you need to grow with Attentive | Frequently asked questions
+jsonld_org: [{"@type": "Organization", "@id": "https://www.attentive.com/#organization", "name": "Attentive Mobile Inc.", "url": "https://www.attentive.com/", "logo": {"@type": "ImageObject", "url": "https://cdn.prod.website-files.com/684306b795a2c402456e92ba/69c14c5dd338e377000c8b94_logo%20(14).svg"}, "sameAs": ["https://www.linkedin.com/company/attentivehq", "https://www.instagram.com/attentivehq", "https://twitter.com/attentivehq", "https://www.facebook.com/attentivehq", "https://www.youtube.com/attentivehq"]}]
+--- TEXT ---
+Attentive Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Attentive
+ 
+Why Attentive
+Why Choose Attentive?
+Elevate your marketing with real-time, AI-powered data activation
+Superior Compliance
+Run your program with tools designed to protect you from potential risk
+Customer Support
+Build and scale with unparalleled guidance and support
+Reliable Deliverability
+Send messages knowing they’ll be delivered, even during peak periods
+Attentive Signal
+Identify, understand, and engage more website visitors
+100+ Integrations
+Connect seamlessly with flexible integrations that drive growth
+Products
+ 
+Channels
+SMS
+Engage customers with text messages that drive loyalty and revenue        
+Email
+Boost revenue and save time with personalized emails that convert        
+RCS for Business
+Turn every text into a branded, media-rich conversation
+Push
+Keep customers coming back with timely push notifications
+AI Agents
+Attentive AI™
+Create and send top-performing campaigns in a fraction of the time
+AI Pro
+Automatically analyze every customer interaction, behavior, and data point
+AI Grow
+Increase high-quality subscribers and revenue with AI-powered sign-up experiences
+AI Journeys
+Send personalized triggered messages that turn customer behavior into revenue
+Core Platform
+List Growth
+Collect SMS and email subscribers quickly with easy sign-up units
+Integrations
+Connect seamlessly with flexible integrations that drive growth
+Attentive Signal
+Identify, understand, and engage more website visitors
+Deliverability
+Send messages knowing they’ll be delivered, even during peak periods
+Why Attentive
+Analytics
+Make data-driven decisions with detailed, customizable reports
+Compliance
+Run your program with tools designed to protect you from potential risk
+Audience Manager
+Reach the right audiences with precise targeting and dynamic segmentation
+Interactive Product Tour
+See how personalized marketing works
+Take a tour
+ 
+Customers
+ 
+Real Results
+FRYE
+576% email campaign revenue growth
+Steve Madden
+20x total program ROI
+Cozy Earth
+192% boost in email revenue
+The Vitamin Shoppe
+28x program ROI
+Why Attentive
+Olly
+40% revenue increase from emails
+Kendra Scott
+48X ROI on gifting recommendations
+AllSaints
+45x total program ROI
+Studio Movie Grill
+88X welcome journey ROI
+Discover More
+Texts We Love
+Real SMS examples to inspire your next campaign 
+Case Studies
+Proven strategies and results from leading brands
+Seasonal Strategies
+Seasonal marketing strategies to help keep your campaigns fresh and engaging
+BFCM Success Stories
+What 6 Brands Did Before BFCM That Drove Results
+Read success stories
+ 
+Solutions
+ 
+Industry
+Retail & Ecommerce
+Engage customers with messages that drive loyalty 
+Food & Beverage
+Deliver tailored, cross-channel messages that keep diners coming back
+Entertainment & Media
+Boost revenue by connecting with your audience in real time
+Why Attentive
+Travel & Hospitality
+Reach more customers, drive loyalty, and boost revenue 
+Fitness & Wellness
+Engage more customers and boost bookings with personalized messages
+Attentive for
+Partners
+Exceed growth goals with guidance from our agency partners
+Developers
+Unlock features, personalization, and data with flexible APIs
+International
+Deliver the right messages to the right customers across 20+ countries
+The Attentive Marketer Pulse
+68% of brands improved their messaging performance—here's what they did differently
+See what worked
+ 
+Resources
+ 
+Learn & Grow
+Resource Hub
+Guides, reports, videos, and more to help you build and grow your program
+Blog
+Strategies, trends, and insights to help you become an industry expert
+Video Library
+Quick tips, tutorials, and insights to maximize your program's potential
+Why Attentive
+Guides
+Strategic guides for SMS, email, RCS, and push 
+Trends & Insights
+Research and insights from industry leaders
+Events & Webinars
+Live and on-demand recordings to keep learning
+Tools & Inspiration
+Case Studies
+Explore proven strategies and results from innovative brands
+Texts We Love
+Real SMS examples to inspire your next campaign
+Marketing Calendar
+Top marketing tips and strategies for key dates in 2026
+Support & Documentation
+Help Center
+Check out our how-to guides, webinars, and more
+Partner Directory
+Enlist the expert guidance of an Attentive agency partner
+API Documentation
+APIs for subscription, messaging, and custom integration needs
+Product & Updates
+RCS Hub
+Elevate customer engagement with rich RCS messaging features
+Releases & Updates
+Get the latest on new products, features, and enhancements
+Platform Tour
+Take an interactive tour of our platform
+The Edit
+The inside scoop on BFCM
+Explore The Edit
+ 
+Pricing
+ 
+Sign in
+Get a demo
+ 
+Product
+  /
+SMS & MMS Messaging
+Build the right messaging plan for your goals
+We’ll help you build a modular plan around your goals, so you get the channels, tools, and support that make the most sense for your business
+Get a demo
+Take a tour
+Take a tour
+Choose from pricing based on:
+The number of messages you send
+The size of your subscriber list
+The number of channels you use
+The premium AI tools you need
+ 
+The Attentive platform
+Included with all plans
+Strategic Support
+Strategic planning
+Onboarding and deliverability
+Dedicated support team
+24/5 service
+Data Platform
+150+ pre-built integrations 
+Attentive Signal identity tag
+Reliable identity tied to phone number
+Comprehensive multi-channel reach
+Marketing Suite
+Patented two-tap™ sign-up
+Pre-built cross-channel journeys
+Easy-to-use campaign builders
+A/B testing frameworks
+Campaign and segment reporting and analytics
+Creative brand kit
+Enterprise-Grade Foundation
+Industry-leading deliverability
+Multi-availability zones
+Flexible scaling
+Built-in TCPA and compliance tools
+Robust security features
+Choose the right channels for 
+your goals
+Recommended
+SMS, email, RCS, & push
+Get the most from every channel working together
+Built-in savings with a premium package
+Target more effectively with unified profiles
+Build cross-channel journeys with ease
+Save time with shared workflows
+Improve cross-channel performance with AI
+Get started
+Pricing based on list size and messages sent
+Recommended
+Text & email
+Drive more revenue with SMS and email 
+Send both triggered emails and full ESP campaigns
+Unified SMS email drives 6X spend
+Mobile ID boosts subscriber recognition 20%
+Reach the right inbox with deliverability expertise
+Get started
+Pricing based on list size and messages sent
+Recommended
+Text
+Build stronger customer relationships with SMS, MMS, and RCS
+Pay per message and subscriber count
+97% open rates outperform industry standards
+Drive growth with effortless two-tap™ sign-up
+Create branded, media-rich RCS experiences
+Get started
+Pricing based on list size and messages sent
+Choose your AI tools
+Flat monthly fee
+AI PRO
+Use predictive AI to drive stronger campaign performance
+20%
+growth in segmented
+campaign revenue
+Optimize send time and audience segmentation
+Identify more subscribers
+Flat monthly fee
+AI GROW
+Grow your list with more personalized sign-up experiences
+25%
+increase in email 
+and SMS signups
+Automate sign-up units
+Create personalized landing pages
+Pay per click
+AI JOURNEYS
+Turn customer signals into personalized journeys
+200%
+lift in journey
+revenue
+Trigger personalized messages for welcome and abandonment flows
+Coordinate cross-channel journeys automatically
+Included with all plans
+AI ESSENTIALS
+Move faster with AI tools built for marketing
+50%
+faster copy 
+creation
+Generate messages and subject lines faster
+Automate retargeting with less manual work
+Custom pricing
+Everything you need 
+ to grow with Attentive
+Everything you need
+ to grow with Attentive
+Get the full power of Attentive in one package
+All messaging channels
+ SMS, MMS, RCS, email, push
+Complete AI suite
+ All copywriting, optimization, list growth and 1:1 messaging tools included
+More value 
+across every channel with smarter AI and unified workflows
+Priority support 
+from a dedicated customer success manager
+Onboarding support 
+with full-service setup and optimization
+Get started
+Pricing based on volume and needs
+Frequently asked questions
+How does Attentive determine pricing?
+Attentive's pricing is tailored to your business needs based on your message volume, subscriber list size, number of channels, and AI products selected.
+Is it a credit-based model or pay-as-you-go? 
+Attentive offers usage-based pricing, so you only pay for what you actually use—no credit system required.
+Does Attentive offer any discounts or special pricing?
+Yes, we offer discounts when you bundle multiple channels or premium AI products together to maximize value.
+Does Attentive offer a free trial? 
+Yes, we offer free trials. Fill out the form at the top of the page to get started today.
+Find the package for 
+your team
+Get started
+Company
+About
+Press
+Careers
+Pricing
+Attentive Commerce Council
+Customer Advisory Board
+Attentive Luminaries
+Why Attentive
+Why Choose Attentive
+Attentive vs. Postscript
+Attentive vs. Klaviyo
+Attentive vs. Wunderkind
+Solutions
+Industry
+Retail & Ecommerce
+Food & Beverage
+Entertainment & Media
+Travel & Hospitality
+Fitness & Wellness
+Attentive for
+Partners
+Developers
+International
+Products
+Channels
+SMS
+Email
+RCS for Business
+Push
+Powered by AI
+Attentive AI™
+AI Pro
+AI Grow
+AI Journeys
+Core Platform
+List Growth
+Integrations
+Attentive Signal
+Deliverability
+Analytics
+Compliance
+Audience Manager
+Resources
+Learn & Grow
+Resource Hub
+Blog
+Video Library
+Events & Webinars
+Guides
+Tools & Inspiration
+Case Studies
+Texts We Love
+Marketing Campaign Calendar
+Support & Documentation
+Customer Success
+Help Center
+Partner Directory
+API Documentation
+Products & Updates
+RCS Hub
+Releases and Updates
+Platform Tour
+Get our monthly newsletter and marketing tips, straight to your inbox
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 Attentive Mobile Inc.
+Sitemap
+Security
+Privacy Policy
+Cookie Notice
+Privacy Rights and Choices
+Terms of Use
+Content Policy

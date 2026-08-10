@@ -1,0 +1,6596 @@
+===== llms.txt :: https://www.omnisend.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# llms.txt for Omnisend.com
+# Last updated: 2025-12-04
+# Purpose: Help LLMs understand and represent Omnisend accurately.
+# Official information about Omnisend for AI systems such as ChatGPT, Gemini, Claude, Perplexity, and other large language models (LLMs) to reference accurately: https://www.omnisend.com/ai-info-page/
+## Website overview
+Project name: Omnisend 
+Website: https://www.omnisend.com 
+Description: Omnisend is an ecommerce-focused email and SMS marketing platform built to help merchants grow their business with powerful automation, intuitive segmentation, and omnichannel messaging.
+---
+## Key concepts 
+- Email & SMS automation for ecommerce
+- Pre-built automation workflows (welcome, abandoned cart, post-purchase, etc.)
+- Deep integrations with Shopify, WooCommerce, and BigCommerce
+- Advanced segmentation based on customer behavior & lifecycle
+- Drag-and-drop email builder with ecommerce elements
+- A/B testing, campaign boosters, and conversion tracking
+- Forms and popups for list building
+- Omnichannel campaigns (Email, SMS, Push)
+- AI features
+- High email and SMS deliverability rate
+---
+Primary audience: Ecommerce businesses using Shopify, WooCommerce, BigCommerce, and other platforms.
+---
+## Core content sections
+# Homepage
+https://www.omnisend.com/
+# Product overview
+https://www.omnisend.com/features/
+# Pricing
+https://www.omnisend.com/pricing/
+# Customers / Success stories
+https://www.omnisend.com/resources/customers/
+# Blog
+https://www.omnisend.com/blog/
+# Help Center / Documentation
+https://support.omnisend.com/
+# API docs
+https://api-docs.omnisend.com/
+---
+## Features
+- [Campaigns](https://www.omnisend.com/features/campaigns/) 
+Create stunning email campaigns with Omnisend's intuitive editor. Access A/B testing, segmentation, and real-time performance tracking to maximize engagement and ROI.
+- [SMS Marketing Automation](https://www.omnisend.com/features/automation/sms-marketing/) 
+Leverage automated SMS to boost conversions. Reach customers instantly with targeted, behavior-based messages, perfectly timed for maximum impact.
+- [Push Notifications](https://www.omnisend.com/features/automation/push-notifications/) 
+Engage your audience with web push notifications. Deliver time-sensitive messages that drive traffic and recover abandoned carts in real-time.
+- [Forms](https://www.omnisend.com/features/forms/) 
+Grow your email & SMS list with customizable signup forms. Use popups, embedded forms, and landing pages to capture high-intent leads.
+- [Marketing Automation](https://www.omnisend.com/features/automation/) 
+Automate your customer journeys with personalized workflows. Combine email, SMS, and push to build sequences that convert.
+- [Multichannel Campaigns](https://www.omnisend.com/multichannel-campaigns/) 
+Launch campaigns that span email, SMS, and push notifications. Create a consistent, high-impact experience across all customer touchpoints.
+- [AI Tools](https://www.omnisend.com/ai/) 
+Boost productivity with AI-powered tools. Generate subject lines, email content, and optimize send times using artificial intelligence.
+- [All Features](https://www.omnisend.com/features/) 
+Explore everything Omnisend offers — from automation and segmentation to analytics and forms, all built for ecommerce growth.
+- [Segmentation](https://www.omnisend.com/features/segmentation/) 
+Send smarter messages with powerful segmentation. Target based on shopping behavior, campaign activity, and custom data.
+- [Reports](https://www.omnisend.com/features/reports/) 
+Track performance with detailed reporting. Measure campaign success, identify trends, and optimize strategy across all channels.
+- [Channels](https://www.omnisend.com/channels/) 
+Discover the full power of multichannel marketing. Combine email, SMS, and push notifications to engage customers everywhere.
+---
+## Support & Migration
+- [Customer Support](https://www.omnisend.com/customer-support/) 
+Get 24/7 expert support via chat or email. Access a rich knowledge base, onboarding resources, and dedicated migration help.
+- [Migration](https://www.omnisend.com/migration/) 
+Migrate your contacts, automations, and templates with ease — Omnisend helps every step of the way, with 24/7 support if you need it.
+- [Migrate from Klaviyo](https://www.omnisend.com/migrate-from-klaviyo/) 
+Looking for a Klaviyo alternative? Omnisend offers smoother workflows, better support, built-in multichannel capabilities and global SMS.
+- [Migrate from Mailchimp](https://www.omnisend.com/migrate-from-mailchimp/) 
+Move from Mailchimp to Omnisend effortlessly. Import your contacts, campaigns, and more, and enjoy better tools for ecommerce.
+## Ecommerce platform integrations
+- [Shopify](https://www.omnisend.com/shopify-email-marketing/) 
+One-click integration with Shopify. Launch automated campaigns, recover carts, and grow sales with data-rich customer insights.
+- [WooCommerce](https://www.omnisend.com/woocommerce-plugin/) 
+Drive conversions in WooCommerce with automation, segmentation, and personalized email & SMS campaigns.
+- [BigCommerce](https://www.omnisend.com/bigcommerce-app/) 
+Boost sales with Omnisend for BigCommerce. Sync store data, trigger automations, and scale your brand with ease.
+- [Wix](https://www.omnisend.com/wix-ecommerce/) 
+Add powerful marketing automation to your Wix store. Effortlessly create emails, SMS, and forms that convert.
+- [Ecwid](https://www.omnisend.com/ecwid/) 
+Enhance your Ecwid store with Omnisend. Automate emails and SMS, segment contacts, and increase repeat purchases.
+- [WordPress](https://www.omnisend.com/wordpress-plugin/) 
+Combine WordPress with Omnisend’s ecommerce tools. Capture leads, send branded emails, and grow your store’s revenue.
+- [Shoplazza](https://www.omnisend.com/shoplazza/) 
+Connect Shoplazza to Omnisend for seamless ecommerce marketing. Launch multichannel campaigns and drive store performance.
+- [Integrations](https://www.omnisend.com/integration/) 
+Connect with your favorite tools. Omnisend integrates with ecommerce platforms, CRMs, help desks, and more.
+- [App Marketplace](https://app.omnisend.com/apps/home) 
+Discover apps that expand your Omnisend experience. Integrate seamlessly with tools for payments, shipping, reviews, and analytics.
+---
+## Templates, education & tools
+- [Newsletter Templates](https://www.omnisend.com/newsletter-templates/) 
+Create beautiful, ready-to-send newsletters. Choose from ecommerce-focused designs optimized for clicks and conversions.
+- [Webinars](https://www.omnisend.com/webinars/) 
+Watch live and on-demand webinars from ecommerce experts. Learn best practices, strategies, and actionable tactics.
+- [Academy](https://www.omnisend.com/academy/) 
+Access free courses and certifications. Learn how to master email, SMS, automation, and ecommerce marketing.
+- [Tools Hub](https://www.omnisend.com/tools-hub/) 
+Use free marketing tools like subject line testers, ROI calculators, and holiday planners to improve your campaigns.
+- [Reports & Benchmarks](https://www.omnisend.com/resources/reports/) 
+Get ecommerce marketing data and insights. Analyze industry benchmarks, trends, and Omnisend platform performance.
+---
+## Blog
+- [Email Automation](https://www.omnisend.com/blog/email-automation/) 
+Discover how to build effective email automation workflows that engage and convert across the customer journey.
+- [Email Deliverability](https://www.omnisend.com/blog/email-deliverability/) 
+Understand how to improve your inbox placement. Learn best practices to keep your emails out of spam.
+- [Email Segmentation](https://www.omnisend.com/blog/email-segmentation/) 
+Explore segmentation strategies that increase engagement and drive revenue through personalized messaging.
+- [How to Build an Email List](https://www.omnisend.com/blog/how-to-build-an-email-list-from-scratch/) 
+Learn proven tactics for growing a high-quality email list from scratch using popups, lead magnets, gamification, and more.
+- [Klaviyo Alternatives](https://www.omnisend.com/blog/klaviyo-alternatives/) 
+Looking for Klaviyo alternatives? Explore why Omnisend is a top choice for ecommerce brands seeking results.
+- [Omnisend vs. Klaviyo](https://www.omnisend.com/blog/omnisend-vs-klaviyo/) 
+Compare Omnisend and Klaviyo side-by-side to find the best fit for your ecommerce marketing needs.
+- [Order Confirmation Emails](https://www.omnisend.com/blog/order-confirmation-email-automation-conversions/) 
+See how to optimize order confirmation emails to increase conversions and repeat purchases.
+- [Post-Purchase Emails](https://www.omnisend.com/blog/post-purchase-emails/) 
+Increase customer loyalty with post-purchase email strategies that turn one-time buyers into repeat customers.
+- [SMS Marketing](https://www.omnisend.com/blog/sms-marketing/) 
+Master SMS marketing for ecommerce. Get tips on timing, content, compliance, and automation.
+- [Cart Abandonment](https://www.omnisend.com/blog/shopping-cart-abandonment/) 
+Recover lost revenue with cart abandonment workflows that convert.
+- [Mailchimp Alternatives](https://www.omnisend.com/blog/mailchimp-alternatives/) 
+Explore why ecommerce brands are switching from Mailchimp to Omnisend for better automation and support.
+- [Bulk Text Messaging](https://www.omnisend.com/blog/bulk-text-message/) 
+Learn how to run successful bulk SMS campaigns that engage and make sales.
+- [Email Marketing for Shopify](https://www.omnisend.com/blog/best-email-marketing-for-shopify/) 
+See why Omnisend is a top-rated email solution for Shopify stores — built to drive sales, not just sends.
+- [Best Welcome Emails](https://www.omnisend.com/blog/best-welcome-emails/) 
+Explore high-converting welcome email examples and strategies to make a strong first impression.
+---
+## Technical resources
+# API reference
+https://api-docs.omnisend.com/
+# SDKs & developer docs
+[No public SDKs yet, but API is REST-based]
+# Change log
+https://support.omnisend.com/en/articles/7654236-omnisend-updates-changelog
+---
+## Permissions & usage guidelines
+# Allowed:
+- Use public pages (listed above) for summarization and Q&A.
+- Attribute content to Omnisend.com when cited or summarized.
+- Include hyperlinks to the original source where applicable.
+# Not allowed:
+- Use gated content or customer-specific help guides.
+- Scrape or vectorize pricing pages for real-time data use.
+---
+# End of llms.txt
+
+===== homepage :: https://www.omnisend.com/
+--- SIGNALS ---
+title: Email Marketing Software - SMS & Email for Ecommerce
+meta_description: Omnisend helps ecommerce brands grow with Email & SMS marketing for Shopify, WooCommerce, and more—returning $79 for every $1 spent.
+og_description: Omnisend helps ecommerce brands grow with Email & SMS marketing for Shopify, WooCommerce, and more—returning $79 for every $1 spent.
+og_site_name: Omnisend
+h1: Email & SMS marketing
+h2: Enterprise power, built for growing brands. | Same power. Smaller bill. | There’s a reason brands stick with us | Better pricing that stays better | Migration? On us. | Trusted, tested, talked about | The award-winning support you deserve | Integrates with your stack. And your standards.
+jsonld_org: [{"@context": "https://schema.org/", "@type": "Organization", "@id": "https://www.omnisend.com#Organization", "name": "Omnisend", "url": "https://www.omnisend.com", "sameAs": []}, {"@context": "https://schema.org", "@type": "Organization", "name": "Omnisend", "description": "Omnisend is an ecommerce-tailored email & SMS marketing automation platform built to help nimble teams drive more revenue without increasing their workload. One-click ecommerce stack integrations, pre-built workflows, and intuitive drag & drop editing make it easy to get up & running without diving into the smallest details, unless you want to.", "logo": "https://www.omnisend.com/wp-content/themes/omnisend-v2/assets/img/omnisend_logo_dark.svg", "url": "https://www.omnisend.com/", "member": [{"@type": "Corporation"}], "sameAs": ["https://x.com/omnisend", "https://www.linkedin.com/company/omnisend/", "https://www.facebook.com/omnisend/", "https://www.youtube.com/channel/UCy0iaBjHUoF0DIbg8Ygj31A", "https://www.instagram.com/omnisend/", "https://www.g2.com/products/omnisend/reviews", "https://www.crunchbase.com/organization/omnisend", "https://www.capterra.com/p/153508/Omnisend/"]}, {"@type": "Corporation"}]
+--- TEXT ---
+Email Marketing Software - SMS & Email for Ecommerce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Features
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ Migration
+ 
+ 
+ 
+ 
+ 
+ Integrations
+ 
+ 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Help center
+ 
+Agency partners
+ 
+Support
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHANNELS
+ 
+ 
+ 
+ 
+All features
+ 
+Omnisend’s full toolkit to convert and grow
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+Build better relationships with customers
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+Text your customers around the world
+ 
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+Instantly retarget your customers
+ 
+ 
+ 
+ 
+OMNISEND AI
+ 
+ 
+1
+ Build forms with AI
+ 
+2
+ Spot audience trends
+ 
+3
+ Get AI insights
+ 
+ 
+shortcuts
+ 
+ 
+ 
+ 
+ Omnisend AI
+ 
+ 
+ 
+Automation
+ 
+Reporting
+ 
+Channels
+ 
+Support
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIGRATE EASILY
+ 
+ 
+ 
+ 
+Migration
+ 
+See just how easy it is to switch to Omnisend
+ 
+ 
+ 
+ 
+ 
+Migrate from Klaviyo
+ 
+Save money and get better deliverability
+ 
+ 
+ 
+ 
+ 
+Migrate from Mailchimp
+ 
+Upgrade your email & SMS marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore integrations
+ 
+With over 250+ pre-built integrations and flexible APIs, you can easily centralize data from across your tech stack
+ 
+ 
+ 
+ 
+ 
+App market
+ 
+Make the most out of your data and unlock powerful growth marketing possibilities with these other top marketing tools.
+ 
+ 
+ 
+ 
+ 
+API docs
+ 
+Build any custom integration with our open, flexible APIs that are simple to use and implement. 
+ 
+ 
+ 
+ 
+OMNISEND BUILT FOR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OFFER
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPS FOR
+ 
+Check out apps that have been stealing all the spotlight. 
+ 
+ 
+ 
+Email capture
+ 
+Loyalty & rewards
+ 
+Advertising
+ 
+Email builder
+ 
+Subscriptions
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LEARN & GROW YOUR BUSINESS
+ 
+ 
+ 
+ 
+Blog
+ 
+Email and SMS marketing insights, ecommerce resources, and the latest Omnisend news
+ 
+ 
+ 
+ 
+ 
+Webinars
+ 
+Expert-led sessions covering email, SMS, and ecommerce marketing strategies.
+ 
+ 
+ 
+ 
+ 
+Omnisend academy
+ 
+Educational video and live training to help you make the most out of Omnisend.
+ 
+ 
+ 
+ 
+ 
+DOWNLOADS AND GOODIES
+ 
+ 
+ 
+ 
+Ebooks
+ 
+ 
+ -->
+ 
+ 
+ 
+Reports
+ 
+ 
+ 
+ 
+ 
+Tools hub
+ 
+ 
+ 
+ 
+ 
+Template gallery
+ 
+ 
+ 
+ 
+ 
+Success stories
+ 
+ 
+ 
+ 
+ 
+NEED HELP?
+ 
+ 
+ 
+Help center
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+Product updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Help center
+ 
+Support
+ 
+Agency partners
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All features
+ 
+Omnisend’s full toolkit to convert and grow
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+Build better relationships with customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+Text your customers around the world
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+Instantly retarget your customers
+ 
+ 
+ 
+ 
+ 
+OMNISEND AI
+ 
+ 
+ 
+ 
+ 
+ 
+ Build forms with AI
+ 
+ 
+ 
+You describe it, Forms AI assistant builds it. The form is fully customizable afterward.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spot audience trends 
+ 
+ 
+ 
+Omnisend AI analyzes your audience and builds segments, so you can act while it still matters.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get AI insights
+ 
+ 
+ 
+Get instant answers from your Omnisend data. Understand what’s working and what to do next
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEATURES
+ 
+ 
+ 
+ 
+ 
+ Omnisend AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reporting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ Migration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIGRATE EASILY
+ 
+ 
+ 
+Migration
+ 
+See just how easy it is to switch to Omnisend
+ 
+ 
+ 
+ 
+Migrate from Klaviyo
+ 
+Save money and get better deliverability
+ 
+ 
+ 
+ 
+Migrate from Mailchimp
+ 
+Upgrade your email & SMS marketing
+ 
+ 
+ 
+ 
+Migration kickstart 
+DEAL
+ 
+Migrate your workflows, segments, and other crucial contact data
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ Integrations
+ 
+ 
+ 
+OFFER
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore integrations
+ 
+With over 250+ pre-built integrations and flexible APIs, you can easily centralize data from across your tech stack
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+App market
+ 
+Make the most out of your data and unlock powerful growth marketing possibilities with these other top marketing tools.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+API docs
+ 
+Build any custom integration with our open, flexible APIs that are simple to use and implement. 
+ 
+ 
+ 
+ 
+ 
+OMNISEND BUILT FOR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OFFER
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPS FOR
+ 
+Check out apps that have been stealing all the spotlight.
+ 
+ 
+ 
+ 
+Email capture
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loyalty & rewards 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advertising
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email builder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subscriptions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LEARN & GROW YOUR BUSINESS
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+Email and SMS marketing insights, ecommerce resources, and the latest Omnisend news.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Webinars
+ 
+Expert-led sessions covering email, SMS, and ecommerce marketing strategies.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Omnisend academy
+ 
+Educational video and live training to help you make the most out of Omnisend.
+ 
+ 
+ 
+ 
+ 
+DOWNLOADS AND GOODIES
+ 
+ 
+ 
+ 
+ 
+Template gallery
+ 
+From email templates to form galleries, all designed to make your work easier
+ 
+ 
+ 
+ 
+ 
+ Tools hub
+ 
+ AI
+ 
+ 
+ 
+ 
+Free interactive and AI tools to save more time and money
+ 
+ 
+ 
+ 
+ 
+ 
+Success stories
+ 
+Get real stories of how Omnisend's email & SMS marketing platform is helping brands grow.
+ 
+ 
+ 
+ 
+Reports
+ 
+Latest trends & stats about omnichannel marketing
+ 
+ 
+ 
+ 
+ 
+ 
+FEATURED POST
+ 
+ 
+ 
+ 
+ 
+ECOM STRATEGIES
+ -->
+ 
+ 
+ 
+ 
+Ecommerce Marketing Assistant
+ 
+AI-powered guide to smarter email and SMS campaigns!
+ 
+Get AI-driven marketing insights! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NEED HELP?
+ 
+ 
+ 
+ 
+ 
+Help center
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+ -->
+ 
+ 
+Request demo
+ 
+ 
+Start free
+ 
+Log in
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email & SMS marketing
+ 
+so good, it’s boring.
+ 
+Big-platform features, smaller bill, migration's on us. Because the boring stuff should run itself.
+ 
+ 
+Start free
+ 
+Explore features
+ 
+ 
+Cancel anytime | No credit card required
+ 
+Full access. Trusted by 150K+ ecommerce brands.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect Omnisend to your platform
+ 
+ -->
+ 
+ 
+ 
+ Your browser does not support the video tag.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NEW
+ 
+Your favorite AI now talks to Omnisend
+ 
+Connect Omnisend to ChatGPT
+ 
+Learn more
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+Professionals don't compromise. Neither do we.
+ 
+Enterprise power, built for growing brands.
+ 
+Stupidly effective.
+ 
+ 
+ 
+ 
+ 
+5,000+ glowing reviews
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In 5 days
+ 
+ 
+ 
+ you could be saving up to
+ 
+ 
+35% 
+*
+ 
+And we’ll migrate you for free. You won’t have to lift a finger.
+ 
+ 
+See pricing
+ 
+Migrate to Omnisend
+ 
+ 
+ 
+ 
+ 
+ 
+ save up to
+ 
+ 
+35% 
+*
+ 
+ Migrate in 5 days
+ 
+ 
+Powerful features. Up to 35%* smaller invoice than Klaviyo. Free 5-day migration.
+ 
+ 
+See pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Same power. Smaller bill.
+ 
+You get everything you need — and then some — yet the
+ prices don’t creep up on you as they do with other platforms.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Omnisend AI
+ 
+ 
+ 
+Let AI write copy, pick send times, and segment your audience. You just hit approve.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Campaigns
+ 
+ 
+ 
+Send email and SMS campaigns — together or separately. Upload your brand assets once, and create on-brand campaigns every time.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Automation
+ 
+ 
+ 
+Build workflows for welcome, abandoned cart, post-purchase, and more. Let them bring in revenue on autopilot.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Segmentation
+ 
+ 
+ 
+Segment by behavior, purchase history, engagement — or all three — so every send feels intentional.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Forms and popups
+ 
+ 
+ 
+Collect emails and phone numbers with branded, high-converting forms. No coding required.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reports
+ 
+ 
+ 
+See sales, performance, and engagement with clear reports that help you decide what to do next.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channels
+ 
+ 
+ 
+Email, SMS, and push — all in one platform. One message, multiple touchpoints, so you can reach customers wherever they are.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2,000+
+ new leads from a single competition campaign
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+70%
+ of revenue comes from automations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+75-80%
+ open rates with audience segmentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.8%
+ signup rate from a single Omnisend popup
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+$37,000
+ revenue in sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+117%
+ conversion rate increase for abandoned cart workflows using SMS & push
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OMNISEND IN NUMBERS
+ 
+There’s a reason brands stick with us
+ 
+ 
+ 
+ 
+ 
+150k
+ 
+Brands trust Omnisend
+ 
+ 
+ 
+$79* ROI
+ 
+For every $1 spent
+ 
+ 
+ 
+4.8
+/5
+ 
+ Star rating on 
+ 
+ 
+ 
+ 
+ 
+ 
+Pay up to
+ 
+35%* 
+less
+ 
+ 
+For features comparable to Klaviyo's
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+Better pricing that stays better 
+ 
+“We'll always be better priced than Klaviyo. That's the promise.”
+ 
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+Every pro feature you need.
+ None of the ones that just look good in demos.
+ 
+See how we compare
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Migration
+ 
+Migration?
+ On us.
+ 
+Switching platforms shouldn't feel like defusing a
+ bomb. Our team moves your lists, flows and
+ templates. You give access. Wait 5 days. Done. No
+ extra charge
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What others say
+ 
+Trusted, tested, talked about
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"It's intuitive, integrates well with Shopify, doesn't have a steep learning curve, and has great reporting which helps us to understand the results. It's evolving quickly to meet our needs and that helps us keep growing."
+ 
+ 
+ 
+Maria Nakazono
+ 
+ CRM/Digital Marketing Specialist at Salomon Japan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ezra Firestone
+ 
+ 
+ @ezrafirestone
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chase Dimond
+ 
+ 
+ @ChaseDimond
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gretta Van Riel
+ 
+ 
+ @gretta
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Omnisend is an excellent tool that allows me to effortlessly deliver value to my audience while simultaneously boosting sales.”
+ 
+ 
+ 
+Ferdy Korpershoek
+ 
+ 
+ @ferdycom
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Silicon Valley Girl
+ 
+ 
+ @SiliconValleyGir
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foundr
+ 
+@foundr
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Omnisend makes my campaigns easy and delivers real result - it's my go-to for email marketing and engagement”
+ 
+ 
+ 
+Ecom King
+ 
+ 
+ @THEECOMKING
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AC Hampton
+ 
+ 
+ @achampton
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+John Santos
+ 
+ 
+ @johnxsantos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.8/5
+ on Shopify
+ 
+ 
+ 
+ 
+4.8/5
+ on Wordpress
+ 
+ 
+ 
+ 
+4.6/5
+ on G2
+ 
+ 
+ 
+ 
+4.5/5
+ on BigCommerce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why pay more for the same emails? 
+ 
+Save up to 35%* compared to Klaviyo. Free migration included.
+ 
+ 
+Start free
+ 
+See pricing
+ 
+ 
+Quick sign up | No credit card required
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The award-winning support you deserve
+ 
+ 
+ 
+ 
+ 
+ 
+We’ll be there for you. Seriously, 24/7. 
+ 
+ 
+ 
+ 
+ 
+We’ll respond in about 4 minutes, because we’re excited to help you succeed.
+ 
+ 
+ 
+ 
+ 
+We’re so boringly reliable, we’ve won multiple Stevie Awards for it.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+200+ integrations
+ 
+Integrates with your stack.
+ And your standards.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See all 200+ integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ Start free
+ today
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Built on feedback from 150,000+ brands. Try Omnisend and see why they stay.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get plan recommendation
+ 
+ 
+ 
+ 
+ 
+Not sure which plan fits you best?
+ 
+In 15 minutes, you’ll get expert help and a plan tailored to your business. No pressure — just helpful advice.
+ 
+ 
+ 
+Talk to a Specialist
+ 
+ 
+ Maybe later
+ 
+ 
+ 
+ 
+ 
+ 
+Worried about switching platforms?
+ 
+We get it, migration can be messy. Our experts handle it for you, from Klaviyo or any platform. Book a quick call to see how easy it can be.
+ 
+ 
+ 
+Talk to a Specialist
+ 
+ 
+ Maybe later
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The top-rated marketing automation platform for ecommerce.
+ 
+ 
+ 
+ 
+ Ask AI
+ 
+ about Omnisend
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign up to get marketing insights from people who live and breathe email. Twice a month. Never more.
+ 
+ 
+ 
+ 
+For more details, check our 
+Privacy Policy
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+Features
+ 
+Pricing
+ 
+Multi-store accounts
+ 
+Reviews
+ 
+Help Center
+ 
+Developer center
+ 
+App market
+ 
+ 
+ 
+ 
+Platforms
+ 
+ 
+Shopify
+ 
+Shopify Plus
+ 
+BigCommerce
+ 
+WordPress
+ 
+WooCommerce
+ 
+Wix
+ 
+Shoplazza
+ 
+Ecwid
+ 
+ 
+ 
+ 
+Comparisons
+ 
+ 
+Omnisend vs. Attentive
+ 
+Omnisend vs. Klaviyo
+ 
+Omnisend vs. Mailchimp
+ 
+Klaviyo alternatives
+ 
+Brevo alternatives
+ 
+MailerLite alternatives
+ 
+Best email marketing software
+ 
+ 
+ 
+ 
+Partners
+ 
+ 
+Affiliate partners
+ 
+Agency partners
+ 
+ 
+Partner portal
+ 
+LOG IN
+ 
+ 
+Agency directory
+ 
+Hire an Omnisend Partner
+ 
+ 
+ 
+ 
+Omnisend
+ 
+ 
+About us
+ 
+Contact us
+ 
+Careers 
+hiring
+ 
+Blog
+ 
+Webinars
+ 
+Success stories
+ 
+ 
+Customer Support
+ 
+Bug Bounty
+ 
+Newsroom
+ 
+AI info
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*Disclaimers
+ 
+ 
+The average return of $79 for every dollar spent is based on our internal analysis. This figure represents an estimated average of ecommerce revenue attributed to email, SMS, push campaigns & automations sent by Omnisend merchants on paid plans in 2025. Actual results may vary depending on individual circumstances, market conditions, region, and other factors. Past performance is not indicative of future results. 
+ 
+Pricing comparisons with leading ESPs are based on publicly available standard rates. While we often offer lowe
+
+===== product :: https://www.omnisend.com/features/
+--- SIGNALS ---
+title: Features | Ecommerce Marketing Automation | Omnisend
+meta_description: Discover how Omnisend empowers ecommerce marketers to turn visitors into customers with segmentation, automation and omnichannel features.
+og_description: Discover how Omnisend empowers ecommerce marketers to turn visitors into customers with segmentation, automation and omnichannel features.
+og_site_name: Omnisend
+h1: email marketing features for ecommerce
+h2: From idea to inbox | Automations running on every channel | Text your way to more sales | Know who you’re talking to | Plug and play connection with your store | On their screen in seconds | Grow your list the way you want | Proof your marketing works | Target your audience with purpose | We’ll help you get started | FAQ
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Omnisend", "description": "Omnisend is an ecommerce-tailored email & SMS marketing automation platform built to help nimble teams drive more revenue without increasing their workload. One-click ecommerce stack integrations, pre-built workflows, and intuitive drag & drop editing make it easy to get up & running without diving into the smallest details, unless you want to.", "logo": "https://www.omnisend.com/wp-content/themes/omnisend-v2/assets/img/omnisend_logo_dark.svg", "url": "https://www.omnisend.com/", "member": [{"@type": "Corporation"}], "sameAs": ["https://x.com/omnisend", "https://www.linkedin.com/company/omnisend/", "https://www.facebook.com/omnisend/", "https://www.youtube.com/channel/UCy0iaBjHUoF0DIbg8Ygj31A", "https://www.instagram.com/omnisend/", "https://www.g2.com/products/omnisend/reviews", "https://www.crunchbase.com/organization/omnisend", "https://www.capterra.com/p/153508/Omnisend/"]}, {"@type": "Corporation"}]
+--- TEXT ---
+Features | Ecommerce Marketing Automation | Omnisend
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Features
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ Migration
+ 
+ 
+ 
+ 
+ 
+ Integrations
+ 
+ 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Help center
+ 
+Agency partners
+ 
+Support
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHANNELS
+ 
+ 
+ 
+ 
+All features
+ 
+Omnisend’s full toolkit to convert and grow
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+Build better relationships with customers
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+Text your customers around the world
+ 
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+Instantly retarget your customers
+ 
+ 
+ 
+ 
+OMNISEND AI
+ 
+ 
+1
+ Build forms with AI
+ 
+2
+ Spot audience trends
+ 
+3
+ Get AI insights
+ 
+ 
+shortcuts
+ 
+ 
+ 
+ 
+ Omnisend AI
+ 
+ 
+ 
+Automation
+ 
+Reporting
+ 
+Channels
+ 
+Support
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIGRATE EASILY
+ 
+ 
+ 
+ 
+Migration
+ 
+See just how easy it is to switch to Omnisend
+ 
+ 
+ 
+ 
+ 
+Migrate from Klaviyo
+ 
+Save money and get better deliverability
+ 
+ 
+ 
+ 
+ 
+Migrate from Mailchimp
+ 
+Upgrade your email & SMS marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore integrations
+ 
+With over 250+ pre-built integrations and flexible APIs, you can easily centralize data from across your tech stack
+ 
+ 
+ 
+ 
+ 
+App market
+ 
+Make the most out of your data and unlock powerful growth marketing possibilities with these other top marketing tools.
+ 
+ 
+ 
+ 
+ 
+API docs
+ 
+Build any custom integration with our open, flexible APIs that are simple to use and implement. 
+ 
+ 
+ 
+ 
+OMNISEND BUILT FOR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OFFER
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPS FOR
+ 
+Check out apps that have been stealing all the spotlight. 
+ 
+ 
+ 
+Email capture
+ 
+Loyalty & rewards
+ 
+Advertising
+ 
+Email builder
+ 
+Subscriptions
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LEARN & GROW YOUR BUSINESS
+ 
+ 
+ 
+ 
+Blog
+ 
+Email and SMS marketing insights, ecommerce resources, and the latest Omnisend news
+ 
+ 
+ 
+ 
+ 
+Webinars
+ 
+Expert-led sessions covering email, SMS, and ecommerce marketing strategies.
+ 
+ 
+ 
+ 
+ 
+Omnisend academy
+ 
+Educational video and live training to help you make the most out of Omnisend.
+ 
+ 
+ 
+ 
+ 
+DOWNLOADS AND GOODIES
+ 
+ 
+ 
+ 
+Ebooks
+ 
+ 
+ -->
+ 
+ 
+ 
+Reports
+ 
+ 
+ 
+ 
+ 
+Tools hub
+ 
+ 
+ 
+ 
+ 
+Template gallery
+ 
+ 
+ 
+ 
+ 
+Success stories
+ 
+ 
+ 
+ 
+ 
+NEED HELP?
+ 
+ 
+ 
+Help center
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+Product updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Help center
+ 
+Support
+ 
+Agency partners
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All features
+ 
+Omnisend’s full toolkit to convert and grow
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+Build better relationships with customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+Text your customers around the world
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+Instantly retarget your customers
+ 
+ 
+ 
+ 
+ 
+OMNISEND AI
+ 
+ 
+ 
+ 
+ 
+ 
+ Build forms with AI
+ 
+ 
+ 
+You describe it, Forms AI assistant builds it. The form is fully customizable afterward.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spot audience trends 
+ 
+ 
+ 
+Omnisend AI analyzes your audience and builds segments, so you can act while it still matters.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get AI insights
+ 
+ 
+ 
+Get instant answers from your Omnisend data. Understand what’s working and what to do next
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEATURES
+ 
+ 
+ 
+ 
+ 
+ Omnisend AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reporting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ Migration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIGRATE EASILY
+ 
+ 
+ 
+Migration
+ 
+See just how easy it is to switch to Omnisend
+ 
+ 
+ 
+ 
+Migrate from Klaviyo
+ 
+Save money and get better deliverability
+ 
+ 
+ 
+ 
+Migrate from Mailchimp
+ 
+Upgrade your email & SMS marketing
+ 
+ 
+ 
+ 
+Migration kickstart 
+DEAL
+ 
+Migrate your workflows, segments, and other crucial contact data
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ Integrations
+ 
+ 
+ 
+OFFER
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore integrations
+ 
+With over 250+ pre-built integrations and flexible APIs, you can easily centralize data from across your tech stack
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+App market
+ 
+Make the most out of your data and unlock powerful growth marketing possibilities with these other top marketing tools.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+API docs
+ 
+Build any custom integration with our open, flexible APIs that are simple to use and implement. 
+ 
+ 
+ 
+ 
+ 
+OMNISEND BUILT FOR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OFFER
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPS FOR
+ 
+Check out apps that have been stealing all the spotlight.
+ 
+ 
+ 
+ 
+Email capture
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loyalty & rewards 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advertising
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email builder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subscriptions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LEARN & GROW YOUR BUSINESS
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+Email and SMS marketing insights, ecommerce resources, and the latest Omnisend news.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Webinars
+ 
+Expert-led sessions covering email, SMS, and ecommerce marketing strategies.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Omnisend academy
+ 
+Educational video and live training to help you make the most out of Omnisend.
+ 
+ 
+ 
+ 
+ 
+DOWNLOADS AND GOODIES
+ 
+ 
+ 
+ 
+ 
+Template gallery
+ 
+From email templates to form galleries, all designed to make your work easier
+ 
+ 
+ 
+ 
+ 
+ Tools hub
+ 
+ AI
+ 
+ 
+ 
+ 
+Free interactive and AI tools to save more time and money
+ 
+ 
+ 
+ 
+ 
+ 
+Success stories
+ 
+Get real stories of how Omnisend's email & SMS marketing platform is helping brands grow.
+ 
+ 
+ 
+ 
+Reports
+ 
+Latest trends & stats about omnichannel marketing
+ 
+ 
+ 
+ 
+ 
+ 
+FEATURED POST
+ 
+ 
+ 
+ 
+ 
+ECOM STRATEGIES
+ -->
+ 
+ 
+ 
+ 
+Ecommerce Marketing Assistant
+ 
+AI-powered guide to smarter email and SMS campaigns!
+ 
+Get AI-driven marketing insights! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NEED HELP?
+ 
+ 
+ 
+ 
+ 
+Help center
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+ -->
+ 
+ 
+Request demo
+ 
+ 
+Start free
+ 
+Log in
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+email marketing features for ecommerce
+ 
+Omnisend helps you reach, convert, and re-engage
+ customers with powerful email, automation, and
+ omnichannel tools — all in one place.
+ 
+ 
+Start free
+ 
+See pricing
+ 
+ 
+Full access. Trusted by 150K+ brands.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segmentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Push notifications
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Forms and popups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reports
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email builder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Powering brands loved by millions
+ 
+ 
+ 
+ 
+ Success story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Success story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Success story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Success story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Success story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50%
+ 
+ 
+email campaigns
+ open rates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1:300
+ 
+ 
+ROI using omnichannel
+ marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5%+
+ 
+ 
+click-through
+ rate
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++$100K
+ 
+ 
+growth in monthly
+ revenue
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Smarter with Omnisend AI
+ 
+Let Omnisend AI help you work faster and smarter. Generate email content, personalize product recommendations, and even build segments with just a description.
+ 
+ 
+Explore all AI features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email campaigns
+ 
+Automations
+ 
+SMS
+ 
+Segmentation
+ 
+Push notifications
+ 
+Forms and popups
+ 
+Reports
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EMAIL CAMPAIGNS
+ 
+From idea to inbox 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Create campaigns faster with built-in AI tools
+ 
+ 
+ 
+Start from a template, drag in your content, or let Omnisend AI help write the copy. Either way, you’ll have a ready-to-send campaign in minutes.
+ 
+ 
+ 
+ 
+ 
+ Increase engagement with smart personalization
+ 
+ 
+ 
+Personalization tools are among the key features of a good email marketing platform for ecommerce. Use dynamic tags and conditional blocks to automatically adjust content for each customer, so every email feels personal without extra work.
+ 
+ 
+ 
+ 
+ 
+ Drag-and-drop email builder
+ 
+ 
+ 
+Design polished, mobile-ready emails with an intuitive editor. Add text, images, buttons, or products exactly where you want them — no coding required.
+ 
+ 
+ 
+ 
+ 
+ 
+Salomon Japan’s email campaigns average 45% open rate, 1.4% click‑through, and ~¥1.9M JPY in revenue per send
+ 
+ 
+Explore email campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUTOMATIONS
+ 
+Automations running on every channel
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All your channels, one automation
+ 
+ 
+ 
+Build automations that combine email, SMS, and push notifications in a single view. Your messaging stays consistent, and you don’t have to juggle multiple tools.
+ 
+ 
+ 
+ 
+ 
+ Recover revenue with proven workflows
+ 
+ 
+ 
+Use prebuilt flows for abandoned carts, browse recovery, post-purchase follow-ups, and win-backs. They’re ready to launch fast and built to keep customers coming back.
+ 
+ 
+ 
+ 
+ 
+ 
+70% of Bowy Made’s total revenue comes from automations with an average automation open rate of 52%
+ 
+ 
+Explore automations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Make an average $79* for every $1 you spend.
+ 
+ 
+Start free
+ 
+See pricing
+ 
+ 
+Full access. Trusted by 150K+ brands.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+Text your way to more sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ High-converting SMS campaigns
+ 
+ 
+ 
+Deliver timely, personalized texts your customers pay attention to. Great for promos, reminders, and quick updates that drive action.
+ 
+ 
+ 
+ 
+ 
+ Transparent pricing, global reach
+ 
+ 
+ 
+Pay only for what you use. No hidden fees, no overages. You get straightforward pricing and worldwide delivery.
+ 
+ 
+ 
+ 
+ 
+ Track results in real time
+ 
+ 
+ 
+See opens, clicks, sales, and customer actions as they happen. Every message is tied to measurable ROI in your dashboard.
+ 
+ 
+ 
+ 
+ 
+ 
+Vagari Bags’ SMS campaigns regularly delivers 6–7% CTR and an eye‑popping 1:121 ROI
+ 
+ 
+Explore SMS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEGMENTATION
+ 
+Know who you’re
+ talking to
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Behavior-based segmentation
+ 
+ 
+ 
+Build dynamic segments based on what people actually do — like purchases, opens, clicks, or location. Lists update automatically, so your targeting never goes stale.
+ 
+ 
+ 
+ 
+ 
+ Customer lifecycle map
+ 
+ 
+ 
+See your audience laid out by lifecycle stage — from brand-new subscribers to your most loyal VIPs. Use it to shape campaigns for every step of the journey.
+ 
+ 
+ 
+ 
+ 
+ AI-powered segmentation
+ 
+ 
+ 
+Tell Omnisend AI assistant who you want to reach, and it’ll create your segment. It uses real-time behavior and purchase data to build audiences that make sense instantly.
+ 
+ 
+ 
+ 
+ 
+ 
+AcreValue’s win‑back strategy reactivated nearly 10% of inactive subscribers
+ 
+ 
+Explore segmentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+Plug and play connection with your store
+ 
+Omnisend works with all major ecommerce platforms out of the box — no third-party connectors, no extra setup.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PUSH NOTIFICATIONS
+ 
+On their screen in seconds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reach subscribers instantly
+ 
+ 
+ 
+Send push messages for abandoned carts, flash sales, restocks, or new arrivals — no phone number or inbox needed.
+ 
+ 
+ 
+ 
+ 
+ Works seamlessly across channels
+ 
+ 
+ 
+Drop push into any workflow alongside email and SMS. One automation, all your channels working together.
+ 
+ 
+ 
+ 
+ 
+ Permission-based and privacy-friendly
+ 
+ 
+ 
+One-click opt-in makes subscribing simple and keeps you GDPR-compliant. Build your push list without shortcuts.
+ 
+ 
+ 
+ 
+ 
+ 
+Ovoko’s push channel contributes >20% of overall revenue, and is wired into core workflows.
+ 
+ 
+Explore push notifications
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORMS AND POPUPS
+ 
+Grow your list the way you want
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Built-in tools
+ 
+ 
+ 
+Create popups, embedded forms, flyouts, and landing pages right inside Omnisend.
+ 
+ 
+ 
+ 
+ 
+ List-building
+ 
+ 
+ 
+Collect emails, phone numbers, and more with targeting, triggers, and flexible fields. Build an audience that actually fits your business.
+ 
+ 
+ 
+ 
+ 
+ Pre-made templates
+ 
+ 
+ 
+Pick a mobile-ready template, tweak the text, add your offer, and publish. Done in minutes.
+ 
+ 
+ 
+ 
+ 
+ 
+Vyber Media grew their client’s audience by 100,000 email subscribers and 40,000 SMS subscribers.
+ 
+ 
+Explore forms
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+525%
+ 
+revenue increase
+ 
+ 
+In just three years, revenue attributed to Omnisend increased by 525%. While Omnisend definitely helped us scale revenue, it also allowed us to do it responsibly — keeping customers engaged, not saturated.
+ 
+Patricia Jimenez
+ 
+Ecommerce Manager at Dukier
+ 
+ 
+ Read their full story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORTS
+ 
+Proof your marketing works
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See where revenue comes from
+ 
+ 
+ 
+Break down sales by email, SMS, and push. Know exactly which channels are driving your results.
+ 
+ 
+ 
+ 
+ 
+ Know which campaigns perform
+ 
+ 
+ 
+Compare opens, clicks, conversions, and sales across campaigns and automations. Spot what’s working, fix what isn’t.
+ 
+ 
+ 
+ 
+ 
+ Keep deliverability in check
+ 
+ 
+ 
+Track bounces, unsubscribes, and failures so your messages land where they should — in the inbox.
+ 
+ 
+ 
+ 
+ 
+ 
+AcreValue’s domain‑reputation rescue pushed opens to 60–70%, 5× click growth, and +10% site traffic from email.
+ 
+ 
+Explore reports
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Built for serious senders. Priced for sane finance teams.
+ 
+Big-platform features, up to 35% less. Free 5-day migration if you switch — every flow, list, and template handled by our team.
+ 
+ 
+Compare to Klaviyo
+ 
+See pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEATURES
+ 
+Target your audience with purpose
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Drag-and-drop editor
+ 
+ 
+ 
+ 
+ 
+ Dynamic segmentation
+ 
+ 
+ 
+ 
+ 
+ AI product recommendations
+ 
+ 
+ 
+ 
+ 
+ Automation workflows
+ 
+ 
+ 
+ 
+ 
+ Product listing blocks
+ 
+ 
+ 
+ 
+ 
+ Performance reports
+ 
+ 
+ 
+ 
+ 
+ Discount code blocks
+ 
+ 
+ 
+ 
+ 
+ Conversion tracking
+ 
+ 
+ 
+ 
+ 
+ Real-time store sync
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Email + SMS + Push
+
+
+===== pricing_or_trust :: https://www.omnisend.com/pricing/
+--- SIGNALS ---
+title: Omnisend Email & SMS Pricing Plans Comparison - Omnisend
+meta_description: Omnisend pricing scales as your ecommerce business grows. Start Free and use all Omnisend features. Paid plans start from $16/month
+og_description: Omnisend pricing scales as your ecommerce business grows. Start Free and use all Omnisend features. Paid plans start from $16/month
+og_site_name: Omnisend
+h1: Start strong & grow without limits
+h2: All our features in detail | FAQ
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Omnisend", "description": "Omnisend is an ecommerce-tailored email & SMS marketing automation platform built to help nimble teams drive more revenue without increasing their workload. One-click ecommerce stack integrations, pre-built workflows, and intuitive drag & drop editing make it easy to get up & running without diving into the smallest details, unless you want to.", "logo": "https://www.omnisend.com/wp-content/themes/omnisend-v2/assets/img/omnisend_logo_dark.svg", "url": "https://www.omnisend.com/", "member": [{"@type": "Corporation"}], "sameAs": ["https://x.com/omnisend", "https://www.linkedin.com/company/omnisend/", "https://www.facebook.com/omnisend/", "https://www.youtube.com/channel/UCy0iaBjHUoF0DIbg8Ygj31A", "https://www.instagram.com/omnisend/", "https://www.g2.com/products/omnisend/reviews", "https://www.crunchbase.com/organization/omnisend", "https://www.capterra.com/p/153508/Omnisend/"]}, {"@type": "Corporation"}]
+--- TEXT ---
+Omnisend Email & SMS Pricing Plans Comparison - Omnisend
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Features
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ Migration
+ 
+ 
+ 
+ 
+ 
+ Integrations
+ 
+ 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Help center
+ 
+Agency partners
+ 
+Support
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHANNELS
+ 
+ 
+ 
+ 
+All features
+ 
+Omnisend’s full toolkit to convert and grow
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+Build better relationships with customers
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+Text your customers around the world
+ 
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+Instantly retarget your customers
+ 
+ 
+ 
+ 
+OMNISEND AI
+ 
+ 
+1
+ Build forms with AI
+ 
+2
+ Spot audience trends
+ 
+3
+ Get AI insights
+ 
+ 
+shortcuts
+ 
+ 
+ 
+ 
+ Omnisend AI
+ 
+ 
+ 
+Automation
+ 
+Reporting
+ 
+Channels
+ 
+Support
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIGRATE EASILY
+ 
+ 
+ 
+ 
+Migration
+ 
+See just how easy it is to switch to Omnisend
+ 
+ 
+ 
+ 
+ 
+Migrate from Klaviyo
+ 
+Save money and get better deliverability
+ 
+ 
+ 
+ 
+ 
+Migrate from Mailchimp
+ 
+Upgrade your email & SMS marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore integrations
+ 
+With over 250+ pre-built integrations and flexible APIs, you can easily centralize data from across your tech stack
+ 
+ 
+ 
+ 
+ 
+App market
+ 
+Make the most out of your data and unlock powerful growth marketing possibilities with these other top marketing tools.
+ 
+ 
+ 
+ 
+ 
+API docs
+ 
+Build any custom integration with our open, flexible APIs that are simple to use and implement. 
+ 
+ 
+ 
+ 
+OMNISEND BUILT FOR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OFFER
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPS FOR
+ 
+Check out apps that have been stealing all the spotlight. 
+ 
+ 
+ 
+Email capture
+ 
+Loyalty & rewards
+ 
+Advertising
+ 
+Email builder
+ 
+Subscriptions
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main meniu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LEARN & GROW YOUR BUSINESS
+ 
+ 
+ 
+ 
+Blog
+ 
+Email and SMS marketing insights, ecommerce resources, and the latest Omnisend news
+ 
+ 
+ 
+ 
+ 
+Webinars
+ 
+Expert-led sessions covering email, SMS, and ecommerce marketing strategies.
+ 
+ 
+ 
+ 
+ 
+Omnisend academy
+ 
+Educational video and live training to help you make the most out of Omnisend.
+ 
+ 
+ 
+ 
+ 
+DOWNLOADS AND GOODIES
+ 
+ 
+ 
+ 
+Ebooks
+ 
+ 
+ -->
+ 
+ 
+ 
+Reports
+ 
+ 
+ 
+ 
+ 
+Tools hub
+ 
+ 
+ 
+ 
+ 
+Template gallery
+ 
+ 
+ 
+ 
+ 
+Success stories
+ 
+ 
+ 
+ 
+ 
+NEED HELP?
+ 
+ 
+ 
+Help center
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+Product updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start free
+ 
+Request demo
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Help center
+ 
+Support
+ 
+Agency partners
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All features
+ 
+Omnisend’s full toolkit to convert and grow
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+Build better relationships with customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+Text your customers around the world
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+Instantly retarget your customers
+ 
+ 
+ 
+ 
+ 
+OMNISEND AI
+ 
+ 
+ 
+ 
+ 
+ 
+ Build forms with AI
+ 
+ 
+ 
+You describe it, Forms AI assistant builds it. The form is fully customizable afterward.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spot audience trends 
+ 
+ 
+ 
+Omnisend AI analyzes your audience and builds segments, so you can act while it still matters.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get AI insights
+ 
+ 
+ 
+Get instant answers from your Omnisend data. Understand what’s working and what to do next
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEATURES
+ 
+ 
+ 
+ 
+ 
+ Omnisend AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reporting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ Migration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIGRATE EASILY
+ 
+ 
+ 
+Migration
+ 
+See just how easy it is to switch to Omnisend
+ 
+ 
+ 
+ 
+Migrate from Klaviyo
+ 
+Save money and get better deliverability
+ 
+ 
+ 
+ 
+Migrate from Mailchimp
+ 
+Upgrade your email & SMS marketing
+ 
+ 
+ 
+ 
+Migration kickstart 
+DEAL
+ 
+Migrate your workflows, segments, and other crucial contact data
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ Integrations
+ 
+ 
+ 
+OFFER
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore integrations
+ 
+With over 250+ pre-built integrations and flexible APIs, you can easily centralize data from across your tech stack
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+App market
+ 
+Make the most out of your data and unlock powerful growth marketing possibilities with these other top marketing tools.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+API docs
+ 
+Build any custom integration with our open, flexible APIs that are simple to use and implement. 
+ 
+ 
+ 
+ 
+ 
+OMNISEND BUILT FOR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OFFER
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPS FOR
+ 
+Check out apps that have been stealing all the spotlight.
+ 
+ 
+ 
+ 
+Email capture
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loyalty & rewards 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advertising
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email builder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subscriptions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LEARN & GROW YOUR BUSINESS
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+Email and SMS marketing insights, ecommerce resources, and the latest Omnisend news.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Webinars
+ 
+Expert-led sessions covering email, SMS, and ecommerce marketing strategies.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Omnisend academy
+ 
+Educational video and live training to help you make the most out of Omnisend.
+ 
+ 
+ 
+ 
+ 
+DOWNLOADS AND GOODIES
+ 
+ 
+ 
+ 
+ 
+Template gallery
+ 
+From email templates to form galleries, all designed to make your work easier
+ 
+ 
+ 
+ 
+ 
+ Tools hub
+ 
+ AI
+ 
+ 
+ 
+ 
+Free interactive and AI tools to save more time and money
+ 
+ 
+ 
+ 
+ 
+ 
+Success stories
+ 
+Get real stories of how Omnisend's email & SMS marketing platform is helping brands grow.
+ 
+ 
+ 
+ 
+Reports
+ 
+Latest trends & stats about omnichannel marketing
+ 
+ 
+ 
+ 
+ 
+ 
+FEATURED POST
+ 
+ 
+ 
+ 
+ 
+ECOM STRATEGIES
+ -->
+ 
+ 
+ 
+ 
+Ecommerce Marketing Assistant
+ 
+AI-powered guide to smarter email and SMS campaigns!
+ 
+Get AI-driven marketing insights! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NEED HELP?
+ 
+ 
+ 
+ 
+ 
+Help center
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+ -->
+ 
+ 
+Request demo
+ 
+ 
+Start free
+ 
+Log in
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+New SMS pricing
+ 
+Now starting at 
+$0.007
+/SMS
+ 
+ 
+ 
+Start strong & grow
+ without limits
+ 
+ 
+ 
+ 
+ 
+Save up to 35% vs. Klaviyo
+ 
+ 
+ 
+ 
+5-day free migration
+ 
+ 
+ 
+ 
+Award-winning 24/7 support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+251 - 500
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 - 250
+ 
+ 
+ 
+251 - 500
+ 
+ 
+ 
+501 - 1,000
+ 
+ 
+ 
+1,001 - 1,500
+ 
+ 
+ 
+1,501 - 2,000
+ 
+ 
+ 
+2,001 - 2,500
+ 
+ 
+ 
+2,501 - 3,000
+ 
+ 
+ 
+3,001 - 3,500
+ 
+ 
+ 
+3,501 - 4,000
+ 
+ 
+ 
+4,001 - 4,500
+ 
+ 
+ 
+4,501 - 5,000
+ 
+ 
+ 
+5,001 - 5,500
+ 
+ 
+ 
+5,501 - 6,000
+ 
+ 
+ 
+6,001 - 6,500
+ 
+ 
+ 
+6,501 - 7,000
+ 
+ 
+ 
+7,001 - 9,000
+ 
+ 
+ 
+9,001 - 10,000
+ 
+ 
+ 
+10,001 - 10,500
+ 
+ 
+ 
+10,501 - 11,000
+ 
+ 
+ 
+11,001 - 11,500
+ 
+ 
+ 
+11,501 - 12,000
+ 
+ 
+ 
+12,001 - 12,500
+ 
+ 
+ 
+12,501 - 13,000
+ 
+ 
+ 
+13,001 - 13,500
+ 
+ 
+ 
+13,501 - 15,000
+ 
+ 
+ 
+15,001 - 16,000
+ 
+ 
+ 
+16,001 - 17,000
+ 
+ 
+ 
+17,001 - 18,500
+ 
+ 
+ 
+18,501 - 20,000
+ 
+ 
+ 
+20,001 - 21,500
+ 
+ 
+ 
+21,501 - 23,500
+ 
+ 
+ 
+23,501 - 25,000
+ 
+ 
+ 
+25,001 - 26,000
+ 
+ 
+ 
+26,001 - 27,000
+ 
+ 
+ 
+27,001 - 28,000
+ 
+ 
+ 
+28,001 - 29,000
+ 
+ 
+ 
+29,001 - 30,000
+ 
+ 
+ 
+30,001 - 31,000
+ 
+ 
+ 
+31,001 - 32,000
+ 
+ 
+ 
+32,001 - 35,000
+ 
+ 
+ 
+35,001 - 37,500
+ 
+ 
+ 
+37,501 - 40,000
+ 
+ 
+ 
+40,001 - 45,000
+ 
+ 
+ 
+45,001 - 50,000
+ 
+ 
+ 
+50,001 - 55,000
+ 
+ 
+ 
+55,001 - 60,000
+ 
+ 
+ 
+60,001 - 65,000
+ 
+ 
+ 
+65,001 - 70,000
+ 
+ 
+ 
+70,001 - 75,000
+ 
+ 
+ 
+75,001 - 80,000
+ 
+ 
+ 
+80,001 - 85,000
+ 
+ 
+ 
+85,001 - 90,000
+ 
+ 
+ 
+90,001 - 95,000
+ 
+ 
+ 
+95,001 - 100,000
+ 
+ 
+ 
+100,001 - 105,000
+ 
+ 
+ 
+105,001 - 110,000
+ 
+ 
+ 
+110,001 - 115,000
+ 
+ 
+ 
+115,001 - 120,000
+ 
+ 
+ 
+120,001 - 125,000
+ 
+ 
+ 
+125,001 - 130,000
+ 
+ 
+ 
+130,001 - 135,000
+ 
+ 
+ 
+135,001 - 140,000
+ 
+ 
+ 
+140,001 - 145,000
+ 
+ 
+ 
+145,001 - 150,000
+ 
+ 
+ 
+150,001+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+USD
+ 
+ 
+ 
+ 
+ USD
+ 
+ CAD
+ 
+ AUD
+ 
+ GBP
+ 
+ EUR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing in local currency are estimates. Billing is in USD.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pay 3 months upfront (save 30%)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ List size
+ 
+ 
+ 
+ 
+You're billed for 
+subscribers and non-subscribers
+ who received automated messages. Unsubscribed contacts aren't billed.
+ 
+ 
+ 
+ 
+How many people are you sending to?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+251 - 500
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 - 250
+ 
+ 
+ 
+251 - 500
+ 
+ 
+ 
+501 - 1,000
+ 
+ 
+ 
+1,001 - 1,500
+ 
+ 
+ 
+1,501 - 2,000
+ 
+ 
+ 
+2,001 - 2,500
+ 
+ 
+ 
+2,501 - 3,000
+ 
+ 
+ 
+3,001 - 3,500
+ 
+ 
+ 
+3,501 - 4,000
+ 
+ 
+ 
+4,001 - 4,500
+ 
+ 
+ 
+4,501 - 5,000
+ 
+ 
+ 
+5,001 - 5,500
+ 
+ 
+ 
+5,501 - 6,000
+ 
+ 
+ 
+6,001 - 6,500
+ 
+ 
+ 
+6,501 - 7,000
+ 
+ 
+ 
+7,001 - 9,000
+ 
+ 
+ 
+9,001 - 10,000
+ 
+ 
+ 
+10,001 - 10,500
+ 
+ 
+ 
+10,501 - 11,000
+ 
+ 
+ 
+11,001 - 11,500
+ 
+ 
+ 
+11,501 - 12,000
+ 
+ 
+ 
+12,001 - 12,500
+ 
+ 
+ 
+12,501 - 13,000
+ 
+ 
+ 
+13,001 - 13,500
+ 
+ 
+ 
+13,501 - 15,000
+ 
+ 
+ 
+15,001 - 16,000
+ 
+ 
+ 
+16,001 - 17,000
+ 
+ 
+ 
+17,001 - 18,500
+ 
+ 
+ 
+18,501 - 20,000
+ 
+ 
+ 
+20,001 - 21,500
+ 
+ 
+ 
+21,501 - 23,500
+ 
+ 
+ 
+23,501 - 25,000
+ 
+ 
+ 
+25,001 - 26,000
+ 
+ 
+ 
+26,001 - 27,000
+ 
+ 
+ 
+27,001 - 28,000
+ 
+ 
+ 
+28,001 - 29,000
+ 
+ 
+ 
+29,001 - 30,000
+ 
+ 
+ 
+30,001 - 31,000
+ 
+ 
+ 
+31,001 - 32,000
+ 
+ 
+ 
+32,001 - 35,000
+ 
+ 
+ 
+35,001 - 37,500
+ 
+ 
+ 
+37,501 - 40,000
+ 
+ 
+ 
+40,001 - 45,000
+ 
+ 
+ 
+45,001 - 50,000
+ 
+ 
+ 
+50,001 - 55,000
+ 
+ 
+ 
+55,001 - 60,000
+ 
+ 
+ 
+60,001 - 65,000
+ 
+ 
+ 
+65,001 - 70,000
+ 
+ 
+ 
+70,001 - 75,000
+ 
+ 
+ 
+75,001 - 80,000
+ 
+ 
+ 
+80,001 - 85,000
+ 
+ 
+ 
+85,001 - 90,000
+ 
+ 
+ 
+90,001 - 95,000
+ 
+ 
+ 
+95,001 - 100,000
+ 
+ 
+ 
+100,001 - 105,000
+ 
+ 
+ 
+105,001 - 110,000
+ 
+ 
+ 
+110,001 - 115,000
+ 
+ 
+ 
+115,001 - 120,000
+ 
+ 
+ 
+120,001 - 125,000
+ 
+ 
+ 
+125,001 - 130,000
+ 
+ 
+ 
+130,001 - 135,000
+ 
+ 
+ 
+135,001 - 140,000
+ 
+ 
+ 
+140,001 - 145,000
+ 
+ 
+ 
+145,001 - 150,000
+ 
+ 
+ 
+150,001+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custom
+ 
+Best for businesses with custom needs, large amount of contacts or email volume
+ 
+ 
+Let’s talk
+ 
+ 
+ 
+ 
+Request more info
+ 
+ 
+ 
+ 
+ Unlimited monthly emails
+ 
+ 
+ 
+ 
+Send 
+unlimited amount of emails per month
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Custom contact amount
+ 
+ 
+ 
+ 
+Agree on a custom number of contacts for your account.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unlimited web push notifications
+ 
+ 
+ 
+ 
+Collect web push notification signups and immediately engage with your audience.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI powered personalizations
+ 
+ 
+ 
+ 
+Personalize campaigns and automations with product recommendations based on past purchases, browsing history, and custom rules.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS at leading rates
+ 
+ 
+ 
+ 
+Price per SMS varies by country and volume. Starting rate applies to high-volume US sends.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Plan tailored just for you
+ 
+ 
+ 
+ 
+After evaluating how Omnisend can match your needs, you'll receive a custom pricing offer.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Free migration 
+ 
+ 
+ 
+We migrate your contacts, data, and segments for you. No manual setup needed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 24/7 support 
+ 
+ 
+ 
+We’d love to mention how we have brand-new 24/7 live chat and email support for all — but we’ve had it the entire time, for all customers, on any plan (including free).
+ 
+ 
+ 
+ 
+ 
+ 
+ Omnisend MCP 
+ 
+ 
+ 
+Talk to your Omnisend account. Check performance, create campaigns, and manage segments — without leaving your AI tool.
+ 
+ 
+ 
+ 
+ 
+ 
+ Account expert (from 
+$400
+) 
+ 
+ 
+ 
+Account experts are 
+provided for free to anyone paying at least $400 per month
+. Account experts meet regularly with merchants to review their performance and help them improve.
+ 
+ 
+ 
+ 
+ 
+ 
+ Forms AI 
+ 
+ 
+ 
+ 
+ 
+ 
+Build high-converting forms fast. Forms AI creates the full design, copy, and visuals from your prompt.
+ 
+ 
+ 
+ 
+ 
+ 
+ Reports AI 
+ 
+ 
+ 
+ 
+ 
+ 
+Al-powered insights from your data
+ 
+ 
+ 
+ 
+ 
+ 
+ No Omnisend branding 
+ 
+ 
+ 
+Remove the "Powered by Omnisend" badge from your emails and forms.
+ 
+ 
+ 
+ 
+ 
+ 
+ Advanced reporting 
+ 
+ 
+ 
+Track aggregate performance data, compare email & SMS results and identify your best performing campaigns & workflows in a single view.
+ 
+ 
+ 
+ 
+ 
+ 
+ Dynamic content 
+ 
+ 
+ 
+Show or hide blocks automatically based on audience filters. Display the most relevant products with no manual updates.
+ 
+ 
+ 
+ 
+ 
+ 
+ Personalized product recommender AI 
+ 
+ 
+ 
+ 
+ 
+ 
+AI analyzes your audience’s browsing and purchase behavior to insert the right products into each email, automatically.
+ 
+ 
+ 
+ 
+ 
+ 
+ Personalized sending time 
+ 
+ 
+ 
+ 
+ 
+ 
+Send at the right time for every contact
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Show more features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free
+ 
+Perfect for getting started and testing out email marketing
+ 
+ 
+$0
+/mo
+ 
+No cost. No credit card required.
+ 
+No cost. No credit card required.
+ 
+ 
+Sign up
+ 
+ 
+ 
+ 
+ 500 monthly emails
+ 
+ 
+ 
+ 
+Send up to 
+500 emails per month
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 250 contacts
+ 
+ 
+ 
+ 
+Reach up to 250 contacts each month. Based on your billable contacts count.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 500 Web Push notifications 
+ 
+ 
+ 
+ 
+Send up to 500 browser push notifications per month to reach customers instantly.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Free migration 
+ 
+ 
+ 
+We migrate your contacts, data, and segments for you. No manual setup needed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 24/7 support 
+ 
+ 
+ 
+We’d love to mention how we have brand-new 24/7 live chat and email support for all — but we’ve had it the entire time, for all customers, on any plan (including free).
+ 
+ 
+ 
+ 
+ 
+ 
+ Omnisend MCP 
+ 
+ 
+ 
+Talk to your Omnisend account. Check performance, create campaigns, and manage segments — without leaving your AI tool.
+ 
+ 
+ 
+ 
+ 
+ 
+ Account expert (from 
+$400
+) 
+ 
+ 
+ 
+Account experts are 
+provided for free to anyone paying at least $400 per month
+. Account experts meet regularly with merchants to review their performance and help them improve.
+ 
+ 
+ 
+ 
+ 
+ 
+ Forms AI 
+ 
+ 
+ 
+ 
+ 
+ 
+Build high-converting forms fast. Forms AI creates the full design, copy, and visuals from your prompt.
+ 
+ 
+ 
+ 
+ 
+ 
+ Reports AI 
+ 
+ 
+ 
+ 
+ 
+ 
+Al-powered insights from your data
+ 
+ 
+ 
+ 
+ 
+ 
+ No Omnisend branding 
+ 
+ 
+ 
+Remove the "Powered by Omnisend" badge from your emails and forms.
+ 
+ 
+ 
+ 
+ 
+ 
+ Advanced reporting 
+ 
+ 
+ 
+Track aggregate performance data, compare email & SMS results and identify your best performing campaigns & work

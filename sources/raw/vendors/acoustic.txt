@@ -1,0 +1,1150 @@
+===== llms.txt :: https://www.acoustic.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Acoustic — Intent-Driven Marketing Platform
+> Acoustic is a marketing technology company that empowers brands to transform consumer intent into personalized, omnichannel engagement. Founded on 20+ years of MarTech expertise, Acoustic serves 1,800+ customers worldwide with its flagship platform, Acoustic Connect.
+Website: https://www.acoustic.com
+Headquarters: 1125 Oak Street Suite 204 Conway, AR 72033, United States
+Employees: 380+
+Global Offices: 4
+CEO: Jon Ziglar
+Ownership:
+---
+## Company Mission
+Acoustic brings clarity to marketing by revealing consumer intent and empowering teams to engage in the moments that matter most. The company champions a shift from traditional campaign-driven marketing to Intent-Driven Marketing — a model powered by first-party behavioral data, AI, and native analytics that turns marketing from a cost center into a growth engine.
+---
+## Core Products & Services
+### Acoustic Connect
+Acoustic Connect is the company's flagship customer engagement platform, purpose-built for modern lifecycle marketing. It unifies audience data, analytics, channel execution, and AI in a single platform running on enterprise-grade cloud infrastructure.
+Key capabilities:
+- Omnichannel messaging orchestration across email, SMS, WhatsApp, mobile push, and web
+- Drag-and-drop campaign builder with zero-code UI
+- Real-time behavioral analytics and audience segmentation
+- Automated identity resolution across multiple data sources
+- Product catalog tracking and product-level performance analytics
+- Executive dashboards with real-time KPI monitoring
+- 360-degree customer profiles with behavioral attributes (fatigue index, life stage, preferred device, purchase patterns)
+### Email Marketing
+- Drag-and-drop email editor with pre-designed templates
+- HTML editor for custom code and precise control
+- AI composing assistant for subject lines, preheader text, body copy, and CTA text
+- Personalization tags adapting content to individual attributes
+- A/B testing for subject lines and CTAs
+- Automated campaign journeys triggered by behavioral events
+- Channel prioritization based on customer preferences
+- 360° customer profiles and identity resolution
+- Audience health analytics and deliverability monitoring
+- Full SPF, DKIM, and DMARC email authentication
+### SMS & WhatsApp Marketing
+- SMS and MMS messaging with support for rich media (images, GIFs, video)
+- Two-way conversational messaging on SMS and WhatsApp
+- Behavior-triggered automated messages via campaign journey automations
+- Advanced segmentation and channel prioritization
+- Real-time SMS and WhatsApp channel dashboards
+- Integrated within the same orchestration workflows as email and mobile app
+### Mobile App Messaging
+- Push notifications for iOS and Android
+- In-app messages displayed while users are actively in the app
+- Behavioral triggers including cart abandonment, browse abandonment, back in stock alerts, and price drops
+- Personalization tags and advanced segmentation
+- Mobile channel dashboard tracking delivery, actions, and app trends
+### Omnichannel Messaging & Orchestration
+- Drag-and-drop campaign and journey canvas across email, SMS, WhatsApp, and mobile app
+- Section variants for dynamic content tailoring within a single message
+- Reusable templates and saved content blocks for consistency at scale
+- Triggered campaigns based on real-time consumer actions and behavioral signals
+- Multi-step campaigns that adapt based on behavior, consent, timing, or external triggers
+- Automated campaign scheduling and channel prioritization
+- Send time optimization that delivers each message at each contact's personal optimal time
+- Product recommendations in campaigns dynamically tailored to each contact's browsing, cart, and purchase behavior
+### Behavior Analytics & Reporting
+- Executive summary dashboard with real-time KPI monitoring
+- Campaign performance dashboard across scheduled, recurring, and triggered campaigns
+- Audience health dashboard for engagement, fatigue, and reactivation monitoring
+- Audience engagement dashboard connecting website and app behavior to performance
+- Product performance dashboard for product-level demand and revenue trends
+- Channel-specific dashboards for email, SMS, WhatsApp, and mobile app
+- Session replay for consumer interaction playback and friction identification
+### Audience Segmentation
+- No-code, drag-and-drop segmentation builder without SQL
+- Real-time, 360° consumer profiles combining engagement, behavioral, and product data
+- Dynamic segments that refresh automatically as consumer behavior changes
+- Built-in behavior and intent attributes including fatigue index, in-market signals, life stage, preferred device, and churn-risk indicators
+- Automated identity resolution across channels and identifiers
+- Anonymous visitor behavior captured early and applied to known profiles once identity is revealed
+- Data privacy and consent management with structured consent groups
+### Product Catalog
+- Direct sync with Shopify, BigCommerce, and WooCommerce — or managed directly in Acoustic Connect
+- Category-level product management and performance insights
+- Real-time product performance tracking including views, revenue, purchases, and cart abandonment
+- Built-in product attributes for behavioral and channel-level filtering
+- Product intelligence panel for acting on interest spikes and dips
+- One-click audience creation and campaign launch from the product catalog dashboard
+### Acoustic AI
+- Trained on unique, first-party behavioral data — not generic models
+- Predictive analytics for lifecycle shifts, frustration points, and evolving interests
+- Real-time intent recognition for both known and anonymous visitors
+- Automated audience refinement through behavioral pattern recognition
+- Optimized message timing, channel, and frequency based on customer behavior
+- AI composing assistant for email subject lines, preheader text, body copy, and CTA text
+---
+## Industry Solutions
+### Retail & Ecommerce
+Real-time shopper intelligence, product-level performance intelligence, cart abandonment recovery, browse abandonment campaigns, post-purchase journeys, loyalty program re-engagement, and ecommerce platform integrations.
+### Financial Services
+Lifecycle communication for customer onboarding, abandoned application recovery, automated application status follow-ups, omnichannel messaging based on consent preferences, and built-in data privacy and compliance.
+### Travel & Hospitality
+Journey-based engagement from booking through post-trip, real-time travel notifications and updates, booking abandonment recovery, two-way conversational messaging, and loyalty program engagement.
+### Media & Entertainment
+Fan engagement and retention, behavior-triggered campaigns from subscription sign-ups and ticket bookings, and content and offer recommendations based on real-time intent.
+### Gaming
+Player lifecycle marketing; behavior-triggered campaigns based on game entry, bet abandonment, and spend milestones; VIP event and loyalty program outreach; and advanced segmentation by gaming behavior and spending patterns.
+---
+## Target Audiences
+- Direct-to-consumer (DTC) brands across industries
+- Mid-size to enterprise marketing teams
+- Lifecycle marketers seeking to move beyond batch-and-blast campaigns
+- Marketing leaders looking to consolidate their MarTech stack
+- Marketing leaders prioritizing deliverability, ease of use, and reduced IT dependency
+- Teams outgrowing basic ESPs like Mailchimp or Constant Contact
+---
+## Competitive Positioning
+Acoustic Connect differentiates through:
+- Intent-Driven Marketing model replacing calendar-based campaign approaches
+- Native platform consolidating 5-8 separate tools into one
+- Built on Snowflake for unified data architecture
+- Marketer-led autonomy with zero-code UI
+- Focus on lifecycle revenue metrics (LTV, retention) over vanity channel KPIs
+- 20+ years of MarTech expertise with modern platform architecture
+Reported performance outcomes:
+- 5-10x launch velocity
+- 20% reduction in customer acquisition cost (CAC)
+- 15% increase in customer lifetime value (CLV)
+- 50% time savings on marketing strategy
+### Competitors
+Acoustic competes with Salesforce Marketing Cloud, Klaviyo, Mailchimp, Braze, and Constant Contact, among others.
+---
+## Professional Services
+Acoustic offers in-house expert services including:
+- Audience structure design and data foundation setup
+- Multi-journey fast-track implementation (welcome, re-engagement campaigns)
+- Creative template development (mobile-friendly, modular email designs)
+- Analytics enablement with custom dashboard creation
+- Strategic roadmap planning (6-12 month implementation workshops)
+- Form implementation for web-based data collection
+- Email deliverability audits and inbox placement optimization
+- IP address warm-up guidance
+---
+## Customer Success
+Acoustic provides dedicated customer success management with hands-on onboarding, platform training, and ongoing optimization support to ensure measurable marketing outcomes.
+---
+## Partner Ecosystem
+### Solutions Partners
+Agencies, consultants, systems integrators, managed service providers, and value-added resellers who co-sell or resell Acoustic Connect.
+### Technology Partners
+SaaS platforms, data providers, and independent software vendors building complementary integrations.
+Partners receive platform education, go-to-market support, marketing resources, and access to the latest product innovations.
+---
+## Security & Compliance
+- SOC 2 certified
+- ISO 27001, ISO 27017, ISO 27018 compliant
+- GDPR, CCPA, and CAN-SPAM compliant
+- Encryption and access controls with 24/7 monitoring
+- Preference centers, consent logging, and cookie opt-in management
+- One-click opt-out mechanisms
+- Full SPF, DKIM, and DMARC email authentication
+---
+## Key Resources & URLs
+### Main Pages
+- Homepage: https://www.acoustic.com
+- About: https://www.acoustic.com/about-acoustic
+- Contact: https://www.acoustic.com/contact
+- Request a Demo: https://www.acoustic.com/demo
+- Careers: https://www.acoustic.com/careers
+- Partners: https://www.acoustic.com/partners
+- Newsroom: https://www.acoustic.com/newsroom
+### Product
+- Acoustic Connect: https://www.acoustic.com/product/acoustic-connect
+### Product Capabilities
+- Email marketing: https://www.acoustic.com/product/email-marketing
+- SMS & WhatsApp marketing: https://www.acoustic.com/product/sms-whatsapp-marketing
+- Mobile app messaging: https://www.acoustic.com/product/mobile-app-messaging
+- Omnichannel orchestration: https://www.acoustic.com/product/omnichannel-messaging-orchestration
+- Audience segmentation: https://www.acoustic.com/product/audience-segmentation
+- Behavior analytics & reporting: https://www.acoustic.com/product/reporting-analytics
+- Product catalog & performance: https://www.acoustic.com/product/product-catalog
+### Solutions
+- Retail & ecommerce: https://www.acoustic.com/solutions/retail-and-ecommerce
+- Financial services: https://www.acoustic.com/solutions/financial-services
+- Travel & hospitality: https://www.acoustic.com/solutions/travel-and-hospitality
+- Media & entertainment: https://www.acoustic.com/solutions/media-and-entertainment
+- Gaming: https://www.acoustic.com/solutions/gaming
+### Resources
+- Blog: https://www.acoustic.com/resources/blog
+- Books & reports: https://www.acoustic.com/resources/reports
+- Case studies: https://www.acoustic.com/resources/case-studies
+- Events & webinars: https://www.acoustic.com/resources/events
+- One pagers: https://www.acoustic.com/resources/one-pagers
+- Use case library: https://www.acoustic.com/use-case-library
+- FAQ: https://www.acoustic.com/faq
+### Services
+- Professional services: https://www.acoustic.com/professional-services
+- Customer success: https://www.acoustic.com/customer-success
+### Legal
+- Privacy Notice: https://www.acoustic.com/privacy-notice
+- Cookie Policy: https://www.acoustic.com/cookie-policy
+- Terms & Conditions: https://www.acoustic.com/terms-conditions
+- Accessibility Statement: https://www.acoustic.com/accessibility-statement
+---
+## Use Case Library
+Acoustic provides documented use cases and best practices for common marketing scenarios:
+- Cart abandonment recovery
+- Browse abandonment campaigns
+- Welcome series automation
+- Loyalty program re-engagement
+- High-intent customer segmentation
+- Contact engagement tracking
+- WhatsApp-based customer guidance
+- Retail conversion optimization
+Visit: https://www.acoustic.com/use-case-library
+---
+## Case Studies
+Notable customer success stories include:
+- Vacation Innovations
+- Cape Fear Valley Health
+- The Australian Ballet
+- Society of London Theatre
+- Australian Grand Prix
+Visit: https://www.acoustic.com/resources/case-studies
+---
+## Brand Voice & Messaging
+Acoustic's brand voice is empowering, insightful, and future-focused — helping marketers feel in control, cutting through complexity to surface what's useful, and keeping momentum toward measurable impact. The messaging is clear and direct, grounded in real outcomes over jargon. Key themes include marketer autonomy, behavioral intelligence, real-time responsiveness, and lifecycle revenue growth. The brand consistently contrasts outdated, calendar-driven campaign execution with its modern Intent-Driven Marketing approach.
+---
+## SEO & Discovery Keywords
+Acoustic, Acoustic Connect, Intent-Driven Marketing, omnichannel marketing platform, customer engagement platform, lifecycle marketing, email marketing platform, SMS marketing, WhatsApp marketing, mobile push notifications, marketing automation, audience segmentation, customer data platform, marketing analytics, cross-channel orchestration, ecommerce marketing, retail marketing platform, personalization engine, behavioral marketing, first-party data marketing, MarTech platform, campaign management, customer journey orchestration, marketing cloud alternative
+---
+## Technical Specifications
+- Platform infrastructure: Built on Snowflake
+- Channels: Email, SMS, WhatsApp, mobile push, web
+- Ecommer
+
+===== homepage :: https://www.acoustic.com/
+--- SIGNALS ---
+title: Real-time behavioral marketing platform for B2C | Acoustic
+meta_description: Acoustic is the real-time behavioral marketing platform that helps B2C marketers turn customer behavior into timely, relevant engagement at every moment.
+og_description: Acoustic is the real-time behavioral marketing platform that helps B2C marketers turn customer behavior into timely, relevant engagement at every moment.
+og_site_name: Acoustic
+h1: Your customers are telling you what they want. Other marketing tools react too late.
+h2: The moment your customer moves, Acoustic moves with them | Get back the performance you wanted and the time you needed | 5-10X | 5-8 | 50% | Real results from marketers who made the switch | 10.4% | 2x | 70% | 75% | Built for B2C, proven in your world | Don’t just send more relevant messages, be more effective
+jsonld_org: [{"@type": "Corporation", "@id": "https://acoustic.com/#organization", "brand": "Acoustic", "name": "Acoustic", "alternateName": "Acoustic LP", "legalName": "Acoustic LP", "url": "https://acoustic.com", "logo": {"@type": "ImageObject", "url": "https://www.acoustic.com/images/logos/favicon-32x32.png", "width": 32, "height": 32, "caption": "Acoustic Logo", "encodingFormat": "image/png"}, "description": "Acoustic helps marketers deliver more personalized experiences based on consumer needs and preferences. For more than ten years, we've been a technological leader, providing integrated digital marketing, marketing analytics, content management, personalization, mobile marketing and marketing automation solutions to an international client base of 3,500+ brands, including Fortune 500 companies.", "foundingDate": "2019", "foundingLocation": {"@type": "Place", "name": "United States"}, "industry": ["Marketing Technology", "SaaS", "Customer Experience Platform"], "naics": "541511", "numberOfEmployees": {"@type": "QuantitativeValue", "value": "1000-5000"}, "employee": [{"@type": "Person", "name": "Mark Cattini", "jobTitle": "CEO"}, {"@type": "Person", "name": "Elmer Lai", "jobTitle": "CFO"}, {"@type": "Person", "name": "Scott Opiela", "jobTitle": "CMO"}, {"@type": "Person", "name": "John Riewerts", "jobTitle": "Chief Technology and Product Officer"}, {"@type": "Person", "name": "Adam Stewart", "jobTitle": "CTO"}, {"@type": "Person", "name": "Jack Tirella", "jobTitle": "Executive VP &
+--- TEXT ---
+Real-time behavioral marketing platform for B2C | Acoustic
+ 
+Acoustic
+ 
+Log in
+Get a demo
+Product 
+Acoustic Connect
+Customer engagement platform
+Deliver omnichannel messages at every stage of the consumer lifecycle, powered by real-time behavior and intent.
+Learn more
+Capabilities
+Omnichannel messaging & orchestration
+Behavior analytics & reporting
+Audience & segmentation
+Product catalog & performance
+Channels
+Email
+SMS & WhatsApp 
+Mobile app
+Browse our product tours
+ 
+Solutions 
+ 
+Use case library
+Browse marketing use cases that show you how to optimize every touchpoint.
+Learn more
+By industry
+Retail and ecommerce
+Media and entertainment
+Travel and hospitality
+Financial services
+Resources 
+ 
+Resources
+Grow your skills with the latest trends and best practices in marketing.
+Learn more
+LEARN
+Blog
+Books and reports
+Webinars and events
+One pagers
+Case studies
+FOR CUSTOMERS
+Customer success
+Professional services
+Help center
+Community
+Company 
+About Acoustic
+Careers
+Contact us
+Newsroom
+Pricing
+Log in
+Get a demo
+ 
+Your customers are telling you what they want.
+ 
+Other marketing tools react too late.
+Acoustic helps marketers stay in sync with their customers by turning real-time behavior into marketing that feels timely, relevant, and genuinely connected.
+Tour the product
+Talk to sales
+ 
+Timing isn’t a nice-to-have anymore.
+It’s the whole game.
+That's why we built our foundation around real-time behavior instead of campaigns. A campaign tool starts with the message and hunts for an audience. Acoustic starts with the customer and finds the moment they're actually open to hearing from you.
+The moment your customer moves,
+ Acoustic moves with them
+Acoustic works as one continuous behavioral engine, turning customer signals into coordinated action in real time. By the time your customer is ready, you're already there.
+ 
+ 
+See behavior
+Understand the customer
+Detect intent
+Build responsive audiences
+Orchestrate action
+behavioral intelligence
+See what your customers are doing
+Every click, hesitation, and return visit is captured the moment it happens, with SKU-level visibility into what they’re after. Most platforms infer intent from old purchases and demographics — guesswork that customers can feel. Acoustic reads what they’re actually showing you. It's not a feature; it’s our foundation.
+Explore behavioral intelligence
+ 
+customer profile
+Get one up-to-date view of every customer
+Behavior, purchases, channel preferences, and consent are unified in a single real-time profile that updates as your customer changes. Instead of stitching context together across three dashboards before every send, you're working from one source of truth that reflects who your customer is right now.
+Explore customer profiles
+ 
+Intent signals
+Know the moment they’re ready
+Acoustic scores intent in real time across 27 behavioral attributes per contact and per product — pulled from actual session behavior, not modeled predictions. The moment someone tips from browsing into buying, the platform surfaces the right product and triggers the right message, while it still lands.
+Explore intent signals
+ 
+segmentation
+Build the exact audience you need
+Drag, drop, and launch — without SQL or that nagging feeling your list aged out before the send. Acoustic keeps every audience current as behavior changes and gives you behavioral attributes like fatigue score, lifecycle stage, and optimal send time as building blocks, ready to combine however you need them.
+Explore segmentation
+ 
+omnichannel orchestration
+Deliver on the right channel at the right time
+Email, SMS, WhatsApp, and mobile push, orchestrated from one place and timed to how each customer engages. Build journeys with a drag-and-drop editor, set behavioral triggers, and let Acoustic handle the sequencing, so the experience lands as one continuous conversation across every channel.
+Explore orchestration
+ 
+ 
+ 
+Get back the performance you wanted and the time you needed
+ 
+The wins show up fast, and they keep getting bigger the longer you're on the platform.
+5-10X
+faster campaign launches
+5-8
+tools you can finally retire
+50%
+of your week back for strategy
+Real results from marketers who made the switch
+They're not sending more — they're connecting better.
+Get a demo
+10.4%
+increase in open rate
+See The Australian Ballet’s story
+ 
+2x
+increase in campaign volume within the first year
+70%
+reduction in data requests to IT
+75% 
+reduction in customer engagement platform TCO 
+Campaign turnaround times cut from weeks to hours
+Built for 
+B2C
+, proven in your world
+Retail and ecommerce
+Catch the customer on the third visit to a product page. Acoustic spots the interest and helps you respond before your abandonment email goes out too late.
+See how
+ 
+Financial services 
+Earn trust in the small moments with a timely message or relevant offer that feels considered, not automated. Acoustic helps you show up that way, compliantly.
+See how
+ 
+Travel and hospitality
+Reach travelers between dreaming and deciding. Acoustic captures the shift from browsing to booking, so you land the right offer before someone else does.
+See how
+ 
+Media and entertainment
+Notice when a regular stops being regular. Acoustic reads the early signs of drift, like skipped seasons and visit gaps, so you can re-engage them before they’re gone.
+See how
+ 
+ 
+ 
+ 
+ 
+Don’t just send more relevant messages, be more effective
+Acoustic helps marketers respond in the moment, so your brand becomes the one your customers notice is paying attention.
+Get a demo
+Tour the product
+ 
+Marketing that's felt not just
+delivered
+Get a demo
+Product
+Acoustic Connect
+Omnichannel messaging & orchestration
+Audience & segmentation
+Behavior analytics & reporting
+Product catalog & performance
+Customers
+Customer success
+Professional services
+Help Center
+Community
+Developers
+Company
+About us
+Contact us
+Careers
+Newsroom
+Partners
+Resources
+© Copyright 
+2026
+ Acoustic, L.P. All Rights Reserved.
+Privacy
+Terms & Conditions
+Accessibility
+
+===== product :: https://www.acoustic.com/product-tour-library
+--- SIGNALS ---
+title: Interactive product tours | Acoustic
+meta_description: Browse interactive product tours of Acoustic and see exactly how every feature works, from CDP and segments to campaigns and reporting.
+og_description: Browse interactive product tours of Acoustic and see exactly how every feature works, from CDP and segments to campaigns and reporting.
+og_site_name: Acoustic
+h1: Explore Acoustic through interactive product tours
+h2: Ready to go deeper?
+jsonld_org: [{"@type": "Organization", "@id": "https://www.acoustic.com/#organization", "url": "https://www.acoustic.com", "alternateName": "Acoustic", "name": "Acoustic", "description": "Acoustic helps marketers deliver more personalized experiences based on consumer needs and preferences. For more than ten years, we’ve been a technological leader, providing integrated digital marketing, marketing analytics, content management, personalization, mobile marketing and marketing automation solutions to an international client base of 3,500+ brands, including Fortune 500 companies.", "image": {"@type": "ImageObject", "url": "https://content-us-1.content-cms.com/105338e5-04e0-4801-8a1e-856ba29f2e54/dxresources/074f/074f7adb-0ec9-4022-9b17-dc832075e645.jpg?resize=1200px%3A630px&crop=1200%3A630%3B0%2C0", "height": 630, "width": 1200}, "logo": {"@type": "ImageObject", "url": "https://www.acoustic.com/images/logos/favicon-45x45.png", "height": 45, "width": 45}, "sameAs": ["https://www.linkedin.com/company/goacoustic/", "https://twitter.com/goacoustic", "https://www.facebook.com/GoAcoustic/", "https://www.instagram.com/goacoustic/", "https://www.youtube.com/c/GoAcoustic"]}]
+--- TEXT ---
+Interactive product tours | Acoustic
+ 
+Acoustic
+ 
+Log in
+Get a demo
+Product 
+Acoustic Connect
+Customer engagement platform
+Deliver omnichannel messages at every stage of the consumer lifecycle, powered by real-time behavior and intent.
+Learn more
+Capabilities
+Omnichannel messaging & orchestration
+Behavior analytics & reporting
+Audience & segmentation
+Product catalog & performance
+Channels
+Email
+SMS & WhatsApp 
+Mobile app
+Browse our product tours
+ 
+Solutions 
+ 
+Use case library
+Browse marketing use cases that show you how to optimize every touchpoint.
+Learn more
+By industry
+Retail and ecommerce
+Media and entertainment
+Travel and hospitality
+Financial services
+Resources 
+ 
+Resources
+Grow your skills with the latest trends and best practices in marketing.
+Learn more
+LEARN
+Blog
+Books and reports
+Webinars and events
+One pagers
+Case studies
+FOR CUSTOMERS
+Customer success
+Professional services
+Help center
+Community
+Company 
+About Acoustic
+Careers
+Contact us
+Newsroom
+Pricing
+Log in
+Get a demo
+ 
+Explore Acoustic through interactive 
+product tours
+See how easily you can turn customer behavior into real-time engagement without leaving the platform.
+Get a demo
+Ready to go deeper?
+ 
+Book a demo and we'll walk you through the platform using your data, products, segments, and use cases.
+ 
+Get a demo
+ 
+Marketing that's felt not just
+delivered
+Get a demo
+Product
+Acoustic Connect
+Omnichannel messaging & orchestration
+Audience & segmentation
+Behavior analytics & reporting
+Product catalog & performance
+Customers
+Customer success
+Professional services
+Help Center
+Community
+Developers
+Company
+About us
+Contact us
+Careers
+Newsroom
+Partners
+Resources
+© Copyright 
+2026
+ Acoustic, L.P. All Rights Reserved.
+Privacy
+Terms & Conditions
+Accessibility
+
+===== pricing_or_trust :: https://www.acoustic.com/pricing
+--- SIGNALS ---
+title: Pricing built for B2C marketing growth | Acoustic
+meta_description: Acoustic Connect pricing scales with your marketing strategy, not your audience size. Explore our tiers and find the right fit for your team.
+og_description: Acoustic Connect pricing scales with your marketing strategy, not your audience size. Explore our tiers and find the right fit for your team.
+og_site_name: Acoustic
+h1: Choose the pricing plan that grows with you
+h2: Professional | Premium | Ultimate |  | Professional | Premium | Ultimate | Omnichannel orchestration (marketing automation) | Analytics & reporting | Insight-driven product catalog | Omnichannel messaging (personalized content creation) | Audience & segmentation (built-in CDP) | Digital experience & optimization | Acoustic AI | Customer support | Professional | Premium | Ultimate | Omnichannel orchestration (marketing automation) | Analytics & reporting | Insight-driven product catalog | Omnichannel messaging (personalized content creation) | Audience & segmentation (built-in CDP) | Digital experience & optimization | Acoustic AI | Customer support | 75% | 20+ | 98% | The cost [of Salesforce Marketing Cloud] was getting more and more extravagant to the point where we questioned if we were making back what we had invested in the system.”
+jsonld_org: [{"@type": "Organization", "@id": "https://www.acoustic.com/#organization", "url": "https://www.acoustic.com", "alternateName": "Acoustic", "name": "Acoustic", "description": "Acoustic helps marketers deliver more personalized experiences based on consumer needs and preferences. For more than ten years, we’ve been a technological leader, providing integrated digital marketing, marketing analytics, content management, personalization, mobile marketing and marketing automation solutions to an international client base of 3,500+ brands, including Fortune 500 companies.", "image": {"@type": "ImageObject", "url": "https://content-us-1.content-cms.com/105338e5-04e0-4801-8a1e-856ba29f2e54/dxresources/074f/074f7adb-0ec9-4022-9b17-dc832075e645.jpg?resize=1200px%3A630px&crop=1200%3A630%3B0%2C0", "height": 630, "width": 1200}, "logo": {"@type": "ImageObject", "url": "https://www.acoustic.com/images/logos/favicon-45x45.png", "height": 45, "width": 45}, "sameAs": ["https://www.linkedin.com/company/goacoustic/", "https://twitter.com/goacoustic", "https://www.facebook.com/GoAcoustic/", "https://www.instagram.com/goacoustic/", "https://www.youtube.com/c/GoAcoustic"]}]
+--- TEXT ---
+Pricing built for B2C marketing growth | Acoustic
+ 
+Acoustic
+ 
+Log in
+Get a demo
+Product 
+Acoustic Connect
+Customer engagement platform
+Deliver omnichannel messages at every stage of the consumer lifecycle, powered by real-time behavior and intent.
+Learn more
+Capabilities
+Omnichannel messaging & orchestration
+Behavior analytics & reporting
+Audience & segmentation
+Product catalog & performance
+Channels
+Email
+SMS & WhatsApp 
+Mobile app
+Browse our product tours
+ 
+Solutions 
+ 
+Use case library
+Browse marketing use cases that show you how to optimize every touchpoint.
+Learn more
+By industry
+Retail and ecommerce
+Media and entertainment
+Travel and hospitality
+Financial services
+Resources 
+ 
+Resources
+Grow your skills with the latest trends and best practices in marketing.
+Learn more
+LEARN
+Blog
+Books and reports
+Webinars and events
+One pagers
+Case studies
+FOR CUSTOMERS
+Customer success
+Professional services
+Help center
+Community
+Company 
+About Acoustic
+Careers
+Contact us
+Newsroom
+Pricing
+Log in
+Get a demo
+ 
+Choose the pricing plan that grows with you
+Most platforms charge more as your audience grows. We don't. 
+Get flexible packaging and predictable costs based on how you use the platform, like your messaging volume, your data depth, and your personalization ambition — not the size of the audience you've worked so hard to build.
+Professional
+Best for smaller teams building their lifecycle marketing foundation.
+Get a demo
+Premium
+Designed for teams scaling personalization with deeper behavioral intelligence.
+Get a demo
+Ultimate
+Perfect for brands running complex, high-volume customer journeys at scale.
+Get a demo
+Professional 
+Premium
+Ultimate
+ 
+Any combination of channels: Email, SMS, mobile, WhatsApp
+Omnichannel orchestration
+ 
+(
+marketing automation
+)
+Flexible campaign types (scheduled, multi-step, triggered)
+ 
+ 
+ 
+Triggers (event, location, device, behavior attributes, signal, product, segment)
+Limited signals
+Unlimited signals and behavior attributes
+Unlimited
+Trigger based on custom signals and behavior attributes 
+ 
+ 
+ 
+ 
+Predictive timing
+ 
+ 
+ 
+ 
+AI-powered campaign builder
+ 
+ 
+ 
+Analytics & reporting
+Executive summary dashboard
+Limited behavioral insights
+ 
+ 
+Audience engagement dashboard
+ 
+ 
+ 
+Audience health dashboard 
+ 
+ 
+ 
+Campaign performance dashboard 
+ 
+ 
+ 
+Channel reporting (email, SMS, WhatsApp, push)
+ 
+ 
+ 
+Email heatmap
+ 
+ 
+ 
+Custom reporting and analysis
+ 
+ 
+ 
+ 
+Session bot detection
+ 
+ 
+ 
+ 
+Email bot detection
+ 
+ 
+ 
+Insight-driven product catalog
+Built-in product and multi-level catalog
+ 
+ 
+ 
+Embedded product intelligence
+Limited insights
+ 
+ 
+One-click engagement & investigation
+Segment by cart abandonment only
+ 
+ 
+ 
+Predict product and category interest
+Very limited insights
+ 
+ 
+Omnichannel messaging
+ 
+(
+personalized content creation
+)
+Audience attribute-based message personalization
+Unlimited
+Unlimited
+Unlimited
+Behavior attribute-based message personalization
+Limited
+Unlimited signals and behavior attributes
+Unlimited intent-driven attributes
+Signals-based message personalization
+Limited
+Unlimited
+Unlimited
+Product & catalog-based message personalization
+ 
+ 
+ 
+Dynamic content personalization
+Limited signals and behavior attributes
+Unlimited
+Unlimited
+Conditional content message personalization
+ 
+ 
+ 
+Reference set data-based message personalization
+ 
+ 
+ 
+Variant message personalization
+ 
+ 
+ 
+ 
+AI-powered content generation
+Add-on
+Add-on
+Add-on
+Audience & segmentation
+ 
+(
+built-in CDP
+)
+Audience content profile with real-time activity feed
+ 
+ 
+ 
+Dynamic segmentation
+Limited behavioral attributes
+Unlimited signals and behavior attributes
+Unlimited intent-driven attributes
+Pre-built lifecycle segmentation
+ 
+Unlimited
+Unlimited
+Identity resolution
+ 
+ 
+ 
+ 
+AI-suggested next-best action
+ 
+ 
+ 
+ 
+AI-suggested segmentation
+ 
+ 
+ 
+Digital experience & optimization
+Signal composer
+ 
+ 
+ 
+Session replay
+ 
+ 
+1M screen views/month
+Application analytics (link, form, comparison, attention, etc.)
+ 
+ 
+ 
+Heatmap
+ 
+ 
+ 
+Acoustic AI
+ 
+Predictive timing and send
+ 
+ 
+ 
+ 
+AI-powered campaign and journey builder
+ 
+ 
+ 
+ 
+Session bot detection
+ 
+ 
+ 
+ 
+Email bot detection
+ 
+ 
+ 
+ 
+Predict product and category interest
+Limited signals and behavior attributes
+ 
+ 
+ 
+AI-powered content generation
+ 
+ 
+ 
+ 
+AI-suggested next-best action
+ 
+ 
+ 
+ 
+AI-suggested segmentation
+ 
+ 
+ 
+ 
+MCP (via Claude)
+ 
+ 
+ 
+Customer support
+Dedicated account team
+ 
+ 
+ 
+24/7 priority support
+ 
+ 
+ 
+Email deliverability audit
+One-time or recurring
+One-time or recurring
+One-time or recurring
+Onboarding and migration support
+Standard or upgrade
+Standard or upgrade
+Standard or upgrade
+Professional 
+ 
+Any combination of channels: Email, SMS, mobile, WhatsApp
+Premium
+ 
+Any combination of channels: Email, SMS, mobile, WhatsApp
+Ultimate
+ 
+Any combination of channels: Email, SMS, mobile, WhatsApp
+Omnichannel orchestration
+ 
+(
+marketing automation
+)
+Flexible campaign types (scheduled, multi-step, triggered)
+ 
+ 
+ 
+Triggers (event, location, device, behavior attributes, signal, product, segment)
+Limited signals
+Unlimited signals and behavior attributes
+Unlimited
+Trigger based on custom signals and behavior attributes 
+ 
+ 
+ 
+ 
+Predictive timing
+ 
+ 
+ 
+ 
+AI-powered campaign builder
+ 
+ 
+ 
+Analytics & reporting
+Executive summary dashboard
+Limited behavioral insights
+ 
+ 
+Audience engagement dashboard
+ 
+ 
+ 
+Audience health dashboard 
+ 
+ 
+ 
+Campaign performance dashboard 
+ 
+ 
+ 
+Channel reporting (email, SMS, WhatsApp, push)
+ 
+ 
+ 
+Email heatmap
+ 
+ 
+ 
+Custom reporting and analysis
+ 
+ 
+ 
+ 
+Session bot detection
+ 
+ 
+ 
+ 
+Email bot detection
+ 
+ 
+ 
+Insight-driven product catalog
+Built-in product and multi-level catalog
+ 
+ 
+ 
+Embedded product intelligence
+Limited insights
+ 
+ 
+One-click engagement & investigation
+Segment by cart abandonment only
+ 
+ 
+ 
+Predict product and category interest
+Very limited insights
+ 
+ 
+Omnichannel messaging
+ 
+(
+personalized content creation
+)
+Audience attribute-based message personalization
+Unlimited
+Unlimited
+Unlimited
+Behavior attribute-based message personalization
+Limited
+Unlimited signals and behavior attributes
+Unlimited intent-driven attributes
+Signals-based message personalization
+Limited
+Unlimited
+Unlimited
+Product & catalog-based message personalization
+ 
+ 
+ 
+Dynamic content personalization
+Limited signals and behavior attributes
+Unlimited
+Unlimited
+Conditional content message personalization
+ 
+ 
+ 
+Reference set data-based message personalization
+ 
+ 
+ 
+Variant message personalization
+ 
+ 
+ 
+ 
+AI-powered content generation
+Add-on
+Add-on
+Add-on
+Audience & segmentation
+ 
+(
+built-in CDP
+)
+Audience content profile with real-time activity feed
+ 
+ 
+ 
+Dynamic segmentation
+Limited behavioral attributes
+Unlimited signals and behavior attributes
+Unlimited intent-driven attributes
+Pre-built lifecycle segmentation
+ 
+Unlimited
+Unlimited
+Identity resolution
+ 
+ 
+ 
+ 
+AI-suggested next-best action
+ 
+ 
+ 
+ 
+AI-suggested segmentation
+ 
+ 
+ 
+Digital experience & optimization
+Signal composer
+ 
+ 
+ 
+Session replay
+ 
+ 
+1M screen views/month
+Application analytics (link, form, comparison, attention, etc.)
+ 
+ 
+ 
+Heatmap
+ 
+ 
+ 
+Acoustic AI
+ 
+Predictive timing and send
+ 
+ 
+ 
+ 
+AI-powered campaign and journey builder
+ 
+ 
+ 
+ 
+Session bot detection
+ 
+ 
+ 
+ 
+Email bot detection
+ 
+ 
+ 
+ 
+Predict product and category interest
+Limited signals and behavior attributes
+ 
+ 
+ 
+AI-powered content generation
+ 
+ 
+ 
+ 
+AI-suggested next-best action
+ 
+ 
+ 
+ 
+AI-suggested segmentation
+ 
+ 
+ 
+ 
+MCP (via Claude)
+ 
+ 
+ 
+Customer support
+Dedicated account team
+ 
+ 
+ 
+24/7 priority support
+ 
+ 
+ 
+Email deliverability audit
+One-time or recurring
+One-time or recurring
+One-time or recurring
+Onboarding and migration support
+Standard or upgrade
+Standard or upgrade
+Standard or upgrade
+Trusted by global brands sending billions of messages
+Read their story
+ 
+75%
+reduction in platform TCO
+20+
+customer journeys launched
+98%
+reduction in time to create and update contact lists
+The cost [of Salesforce Marketing Cloud] was getting more and more extravagant to the point where we questioned if we were making back what we had invested in the system.”
+Abigail Whitaker
+CMO, Vacation Innovations
+ 
+ 
+No pricing games, just the right fit
+Tell us about your marketing programs. We'll put together a package that matches your scale and grows with you as your strategy evolves.
+Get a demo
+ 
+Marketing that's felt not just
+delivered
+Get a demo
+Product
+Acoustic Connect
+Omnichannel messaging & orchestration
+Audience & segmentation
+Behavior analytics & reporting
+Product catalog & performance
+Customers
+Customer success
+Professional services
+Help Center
+Community
+Developers
+Company
+About us
+Contact us
+Careers
+Newsroom
+Partners
+Resources
+© Copyright 
+2026
+ Acoustic, L.P. All Rights Reserved.
+Privacy
+Terms & Conditions
+Accessibility
