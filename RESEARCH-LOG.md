@@ -119,6 +119,20 @@ Upland–Localytics, Mastercard–Dynamic Yield, Capillary–SessionM, Tech Mahi
 Soprano–Whispir, HCLTech–HCLSoftware) versus mere **abbreviations** (AWS, HPE, ITG).
 Output: `outputs/companies-IN.json` + `outputs/companies-IN.md`.
 
+**14 · 2026-08-10 · Proofread caught a coverage error in my own favour**
+G2's published figure was **102 of 1,810 (5.6%)** — but that counted *rendered blocks*, not
+products. A G2 category page lists each product **twice**: a main listing with `By <vendor>`
+lines, then a summary rendering without vendors. True coverage is **65 of 1,810 (3.6%)**, about
+16 distinct products per page. The error overstated G2 coverage by 57% and risked splitting a
+product from its parent company wherever only the vendor-less rendering was captured.
+Blocks now collapse to distinct products, preferring the one that names the vendor. Paste-cost
+estimates in the menu corrected upward (~75 → ~111 for the four G2 IN rows). Gartner unaffected
+and still exact at 352 of 352.
+Also fixed: legacy stated as 8 products where it is **9 listings across 8 distinct products**
+(`SAP Marketing Cloud (Legacy)` sits in two categories), and 4 product names truncated by the
+source page itself are now flagged `name_truncated_in_source` rather than silently carrying an
+ellipsis. 18-check audit now passes clean.
+
 ---
 
 ## Where it stands
@@ -126,9 +140,9 @@ Output: `outputs/companies-IN.json` + `outputs/companies-IN.md`.
 All 10 IN classifications accepted and exported. `outputs/companies-IN.json` holds **237 unique
 companies**; `outputs/companies-IN.md` is the readable companion.
 
-**The binding constraint is G2 coverage: 102 of 1,810 listings (5.6%).** The Gartner half is
-complete. Closing the G2 half needs ~71 more paginated pastes; nothing else in the pipeline is
-blocked.
+**The binding constraint is G2 coverage: 65 of 1,810 listings (3.6%).** The Gartner half is
+complete at 352 of 352. Closing the G2 half needs ~111 paginated pastes; nothing else in the
+pipeline is blocked.
 
 **Also open:** G2 Mobile Marketing Software (the only G2 counterpart to Gartner's Mobile
 Marketing Platforms), Conversational Marketing Solutions still BOUNDARY, and Account Data

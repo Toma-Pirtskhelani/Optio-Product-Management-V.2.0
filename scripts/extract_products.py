@@ -74,29 +74,60 @@ def parse_g2(slug):
                 for u in blk[n+1:n+4]:
                     if len(u) > 60: desc = re.sub(r"\s*Show More$","",u); break
         tags = [t for t in ("All-in-One","Best-of-Breed","AI Verified") if t in blk]
+        has_vendor_line = len(blk) > 1 and blk[1].startswith("By ")
         out.append(dict(product=product, vendor=vendor, rating=rating, reviews=nrat,
-                        description=desc, legacy=False, sponsored=sponsored, tags=tags))
-    return out
+                        description=desc, legacy=False, sponsored=sponsored, tags=tags,
+                        _has_vendor=has_vendor_line,
+                        name_truncated_in_source=product.endswith("...")))
+    # A G2 category page renders its products TWICE: the main listing (each block carrying a
+    # "By <vendor>" line) and a second summary rendering without vendors. Collapse to distinct
+    # products, always preferring the block that names the vendor.
+    best = {}
+    for p in out:
+        k = p["product"]
+        if k not in best or (p["_has_vendor"] and not best[k]["_has_vendor"]):
+            merged = dict(p)
+            if k in best:
+                prev = best[k]
+                merged["rating"] = p["rating"] or prev["rating"]
+                merged["reviews"] = p["reviews"] or prev["reviews"]
+                merged["description"] = p["description"] or prev["description"]
+                merged["sponsored"] = p["sponsored"] or prev["sponsored"]
+                merged["tags"] = sorted(set(p["tags"]) | set(prev["tags"]))
+            best[k] = merged
+        else:
+            prev = best[k]
+            prev["rating"] = prev["rating"] or p["rating"]
+            prev["reviews"] = prev["reviews"] or p["reviews"]
+            prev["description"] = prev["description"] or p["description"]
+            prev["sponsored"] = prev["sponsored"] or p["sponsored"]
+            prev["tags"] = sorted(set(prev["tags"]) | set(p["tags"]))
+    ded = list(best.values())
+    for p in ded: p.pop("_has_vendor", None)
+    return ded, len(out)
 
 rows, report = [], []
 for label, slug, dec in GART_IN:
     ps = parse_gartner(slug); ok = len(ps) == dec
     report.append((f"gartner/{slug}", len(ps), dec, ok))
     for p in ps:
+        p.setdefault("name_truncated_in_source", p["product"].endswith("..."))
         rows.append(dict(p, source="gartner", category=label, category_slug=slug,
                          category_url=f"https://www.gartner.com/reviews/market/{slug}",
                          declared_total=dec, visible_count=len(ps),
                          coverage="ABSENT-ENUMERATED" if ok else "PARTIAL"))
 for label, slug, dec in G2_IN:
-    ps = parse_g2(slug)
-    report.append((f"g2/{slug}", len(ps), dec, None))
+    ps, blocks = parse_g2(slug)
+    report.append((f"g2/{slug}", len(ps), dec, None, blocks))
     for p in ps:
         rows.append(dict(p, source="g2", category=label, category_slug=slug,
                          category_url=f"https://www.g2.com/categories/{slug}",
-                         declared_total=dec, visible_count=len(ps),
+                         declared_total=dec, visible_count=len(ps), blocks_rendered=blocks,
                          coverage="ABSENT-IN-VISIBLE-PAGE"))
-for name, got, dec, ok in report:
+for rec in report:
+    name, got, dec, ok = rec[:4]
     flag = "OK" if ok else ("VISIBLE-PAGE ONLY" if ok is None else "MISMATCH")
-    print(f"{name:52s} parsed {got:4d} / declared {dec:4d}  {flag}")
+    extra = f"  ({rec[4]} blocks rendered, {rec[4]-got} repeats)" if len(rec) > 4 else ""
+    print(f"{name:52s} distinct {got:4d} / declared {dec:4d}  {flag}{extra}")
 json.dump(rows, open("sources/derived/product-rows-IN.json","w"), indent=1, ensure_ascii=False)
 print("TOTAL product rows:", len(rows))

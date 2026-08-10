@@ -73,6 +73,7 @@ for p in prepared:
     c["products"].append(dict(product=p["product"], source=p["source"], category=p["category"],
                               rating=p["rating"], reviews=p["reviews"], legacy=p["legacy"],
                               sponsored=p["sponsored"], tags=p.get("tags", []),
+                              name_truncated_in_source=p.get("name_truncated_in_source", False),
                               description=p["description"], source_url=p["category_url"]))
 
 out = []
@@ -96,6 +97,7 @@ for k, c in comp.items():
         legacy_products=sorted({pr["product"] for pr in prods if pr["legacy"]}),
         sponsored_placement=any(pr["sponsored"] for pr in prods),
         max_reviews=max(revs) if revs else None,
+        name_truncated_in_source=any(pr.get("name_truncated_in_source") for pr in prods),
         description=descs[0] if descs else None,
         description_source=next((pr["source"] for pr in prods if pr["description"]), None),
         has_description=bool(descs),
@@ -115,14 +117,17 @@ meta = dict(
                      declared_total=352,
                      note="All six Gartner categories enumerate fully ('Products 1-N of N'). Parsed counts reconcile exactly with declared totals, so absence from this list is ABSENT-ENUMERATED."),
         g2=dict(status="VISIBLE PAGE ONLY — NOT COMPLETE",
-                product_rows=sum(1 for r in rows if r["source"]=="g2"),
+                distinct_products=sum(1 for r in rows if r["source"]=="g2"),
                 declared_total=1810,
-                note="G2 renders ~25 of each category's declared listings per page. This file holds 102 of 1,810 (5.6%). Absence of a company from the G2 portion is ABSENT-IN-VISIBLE-PAGE and is NOT evidence of absence from the category.")),
+                pct_of_declared=round(sum(1 for r in rows if r["source"]=="g2")/1810*100, 1),
+                blocks_rendered=sum({(r["category_slug"], r.get("blocks_rendered")) for r in rows if r["source"]=="g2"} and [b for _, b in {(r["category_slug"], r.get("blocks_rendered")) for r in rows if r["source"]=="g2"}] or [0]),
+                note="A G2 category page renders its products TWICE - a main listing carrying 'By <vendor>' lines, then a second summary rendering without vendors. Counting rendered blocks overstates visibility. After collapsing to distinct products, this file holds 65 of 1,810 declared listings (3.6%), roughly 16 per category. Absence of a company from the G2 portion is ABSENT-IN-VISIBLE-PAGE and is NOT evidence of absence from the category.")),
     merge_rules=[
         "A vendor string 'Owner Product' collapses onto 'Owner' when the remainder is itself a product name in this data (e.g. 'Intuit Mailchimp' -> 'Intuit', because 'Mailchimp' is a Gartner product).",
         "Gartner writes lineage as 'Owner (OtherBrand)'. Owner becomes the company. The parenthetical is kept verbatim in parenthetical_brands; likely_acquired_brands excludes those that are merely abbreviations of the owner name (AWS, HPE, ITG), which is tested rather than assumed.",
         "A vendor string of the form 'Owner Product' collapses onto 'Owner' only when 'Owner' already exists as a vendor in the data AND the longer string is also a product name. Nothing else is merged.",
-        "No fuzzy matching. Two companies with similar names stay separate unless a rule above applies."],
+        "No fuzzy matching. Two companies with similar names stay separate unless a rule above applies.",
+        "G2 repeats each product in a second, vendor-less rendering. Blocks are collapsed to distinct products, always preferring the block that names the vendor - otherwise a product would be split from its parent company."],
     known_limits=[
         "Ratings and review counts measure review-solicitation effort as much as customer volume (Gartner FAQ: vendors solicit reviews; nominal gifts permitted).",
         "Gartner review counts never decay - reviews do not expire.",

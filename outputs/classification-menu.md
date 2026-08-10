@@ -15,7 +15,7 @@ normally in a browser; **G2 category pages return 403 to automated fetching but 
 human** — which is why they are here as human transport.
 
 **At a glance:** **8 of 19 rows are IN** — 6 on Gartner (**352 products**, 6 pastes) and
-4 on G2 (**1,810 listings**, ~75 pastes). One row is BOUNDARY and one OUT verdict could flip.
+4 on G2 (**1,810 listings**, ~111 pastes). One row is BOUNDARY and one OUT verdict could flip.
 
 ---
 
@@ -59,8 +59,9 @@ say so, or are left unscored.
 ## 2. THE MENU
 
 **`Cost` should drive your picks.** Gartner enumerates completely in one page — *"Products
-1–122 of 122"* — so a full vendor list is **one paste**. G2 renders only about 25 of its
-declared listings per page, so a G2 vendor list costs roughly **one paste per 25**.
+1–122 of 122"* — so a full vendor list is **one paste**. A G2 category page renders about **16
+distinct products** (in ~25 blocks, because each product is listed twice), so a G2 vendor list
+costs roughly **one paste per 16**.
 
 **`(Legacy)`** counts products Gartner has marked as being in managed decline while their
 ratings stay live. G2 publishes no equivalent: it **deletes** discontinued products and their
@@ -88,15 +89,15 @@ months"* — a current-activity signal, not a size one.
 
 | ☐ | # | Category | Verdict | Bar | Listings | Definition age | Cost |
 |---|---|---|---|---|---|---|---|
-| ☐ | 1 | [Marketing Automation](https://www.g2.com/categories/marketing-automation) | **IN** | **10** | **511** | Jul 2025 | ~21 pastes |
-| ☐ | 2 | [SMS Marketing](https://www.g2.com/categories/sms-marketing) | **IN** *Q1 implied* | 4 | **531** | Jul 2026 | ~22 pastes |
-| ☐ | 3 | [Email Marketing](https://www.g2.com/categories/email-marketing) | **IN** | 7 | **527** | Apr 2026 | ~22 pastes |
-| ☐ | 4 | [Personalization](https://www.g2.com/categories/personalization) | **IN** | 3 | **241** | Jul 2026 | ~10 pastes |
-| ☐ | 5 | [Customer Data Platform (CDP)](https://www.g2.com/categories/customer-data-platform-cdp) | OUT | 5 | 296 | Oct 2024 | ~12 pastes |
-| ☐ | 6 | [Marketing Analytics](https://www.g2.com/categories/marketing-analytics) | OUT | 5 | 556 | Apr 2026 | ~23 pastes |
-| ☐ | 7 | [Digital Analytics](https://www.g2.com/categories/digital-analytics) | OUT | 4 | 287 | Oct 2024 | ~12 pastes |
-| ☐ | 8 | [Marketing Account Intelligence](https://www.g2.com/categories/marketing-account-intelligence) | OUT | 3 | 123 | Oct 2024 | ~5 pastes |
-| ☐ | 9 | [Account Data Management](https://www.g2.com/categories/account-data-management) | **OUT — could flip** | 4 | 77 | Oct 2024 | ~4 pastes |
+| ☐ | 1 | [Marketing Automation](https://www.g2.com/categories/marketing-automation) | **IN** | **10** | **511** | Jul 2025 | ~32 pastes |
+| ☐ | 2 | [SMS Marketing](https://www.g2.com/categories/sms-marketing) | **IN** *Q1 implied* | 4 | **531** | Jul 2026 | ~33 pastes |
+| ☐ | 3 | [Email Marketing](https://www.g2.com/categories/email-marketing) | **IN** | 7 | **527** | Apr 2026 | ~31 pastes |
+| ☐ | 4 | [Personalization](https://www.g2.com/categories/personalization) | **IN** | 3 | **241** | Jul 2026 | ~15 pastes |
+| ☐ | 5 | [Customer Data Platform (CDP)](https://www.g2.com/categories/customer-data-platform-cdp) | OUT | 5 | 296 | Oct 2024 | ~19 pastes |
+| ☐ | 6 | [Marketing Analytics](https://www.g2.com/categories/marketing-analytics) | OUT | 5 | 556 | Apr 2026 | ~35 pastes |
+| ☐ | 7 | [Digital Analytics](https://www.g2.com/categories/digital-analytics) | OUT | 4 | 287 | Oct 2024 | ~18 pastes |
+| ☐ | 8 | [Marketing Account Intelligence](https://www.g2.com/categories/marketing-account-intelligence) | OUT | 3 | 123 | Oct 2024 | ~8 pastes |
+| ☐ | 9 | [Account Data Management](https://www.g2.com/categories/account-data-management) | **OUT — could flip** | 4 | 77 | Oct 2024 | ~5 pastes |
 
 **Three G2 entries are not classifications at all.**
 [Account-Based Marketing](https://www.g2.com/categories/account-based-marketing),
@@ -282,7 +283,7 @@ Bar height is reported honestly as **3 requirements with 10 sub-points** — cou
 
 ### 1. Marketing Automation
 
-*G2 **leaf** · bar **10** · **511 listings** · ~21 pastes*
+*G2 **leaf** · bar **10** · **511 listings** · ~32 pastes*
 
 **Source:** [https://www.g2.com/categories/marketing-automation](https://www.g2.com/categories/marketing-automation) · local capture `sources/raw/g2/2026-08-10__g2__category-marketing-automation__r3.md`
 
@@ -300,7 +301,7 @@ Explicitly **excludes** anything categorised in Email Marketing — see row 3.
 
 ### 2. SMS Marketing
 
-*G2 **leaf** · bar **4** · **531 listings** · ~22 pastes*
+*G2 **leaf** · bar **4** · **531 listings** · ~33 pastes*
 
 **Source:** [https://www.g2.com/categories/sms-marketing](https://www.g2.com/categories/sms-marketing) · local capture `sources/raw/g2/2026-08-10__g2__category-sms-marketing__r3.md`
 
@@ -316,7 +317,7 @@ Explicitly **excludes** anything categorised in Email Marketing — see row 3.
 
 ### 3. Email Marketing
 
-*G2 **leaf** · bar **7** · **527 listings** · ~22 pastes*
+*G2 **leaf** · bar **7** · **527 listings** · ~31 pastes*
 
 **Source:** [https://www.g2.com/categories/email-marketing](https://www.g2.com/categories/email-marketing) · local capture `sources/raw/g2/2026-08-10__g2__category-email-marketing__r3.md`
 
@@ -332,7 +333,7 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 
 ### 4. Personalization
 
-*G2 **leaf** · bar **3** · **241 listings** · ~10 pastes*
+*G2 **leaf** · bar **3** · **241 listings** · ~15 pastes*
 
 **Source:** [https://www.g2.com/categories/personalization](https://www.g2.com/categories/personalization) · local capture `sources/raw/g2/2026-08-10__g2__category-personalization__r3.md`
 
@@ -348,7 +349,7 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 
 ### 5. Customer Data Platform (CDP)
 
-*G2 **leaf** · bar **5** · **296 listings** · ~12 pastes*
+*G2 **leaf** · bar **5** · **296 listings** · ~19 pastes*
 
 **Source:** [https://www.g2.com/categories/customer-data-platform-cdp](https://www.g2.com/categories/customer-data-platform-cdp) · local capture `sources/raw/g2/2026-08-10__g2__category-customer-data-platform-cdp__r3.md`
 
@@ -364,7 +365,7 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 
 ### 6. Marketing Analytics
 
-*G2 **leaf** · bar **5** · **556 listings** · ~23 pastes*
+*G2 **leaf** · bar **5** · **556 listings** · ~35 pastes*
 
 **Source:** [https://www.g2.com/categories/marketing-analytics](https://www.g2.com/categories/marketing-analytics) · local capture `sources/raw/g2/2026-08-10__g2__category-marketing-analytics__r3.md`
 
@@ -380,7 +381,7 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 
 ### 7. Digital Analytics
 
-*G2 **leaf** · bar **4** · **287 listings** · ~12 pastes*
+*G2 **leaf** · bar **4** · **287 listings** · ~18 pastes*
 
 **Source:** [https://www.g2.com/categories/digital-analytics](https://www.g2.com/categories/digital-analytics) · local capture `sources/raw/g2/2026-08-10__g2__category-digital-analytics__r3.md`
 
@@ -394,7 +395,7 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 
 ### 8. Marketing Account Intelligence
 
-*G2 **leaf** · bar **3** · **123 listings** · ~5 pastes*
+*G2 **leaf** · bar **3** · **123 listings** · ~8 pastes*
 
 **Source:** [https://www.g2.com/categories/marketing-account-intelligence](https://www.g2.com/categories/marketing-account-intelligence) · local capture `sources/raw/g2/2026-08-10__g2__category-marketing-account-intelligence__r3.md`
 
@@ -408,7 +409,7 @@ Explicitly **excludes** anything categorised in Marketing Automation, so **527 +
 
 ### 9. Account Data Management
 
-*G2 **leaf** · bar **4** · **77 listings** · ~4 pastes*
+*G2 **leaf** · bar **4** · **77 listings** · ~5 pastes*
 
 **Source:** [https://www.g2.com/categories/account-data-management](https://www.g2.com/categories/account-data-management) · local capture `sources/raw/g2/2026-08-10__g2__category-account-data-management__r3.md`
 
@@ -469,7 +470,8 @@ comparison. One page closes it. Everything else you asked for is here.
 ## 7. What happens once you tick
 
 1. **Vendor list per ticked row.** Gartner rows come back complete in one paste each; G2 rows
-   arrive ~25 at a time, so a G2 pick is a standing commitment rather than a single action.
+   arrive ~16 distinct products at a time, so a G2 pick is a standing commitment rather than a
+   single action.
 2. **Each vendor row carries** product, vendor, rating, review count, the **`(Legacy)`
    marker**, and provenance back to the raw capture and the live source URL.
 3. **Cross-source dedup applies the per-pair overlap rules in §5** — Gartner's three markets
@@ -478,6 +480,7 @@ comparison. One page closes it. Everything else you asked for is here.
    product list is what resolves the verdict.
 
 **For calibration, not as a recommendation.** The six Gartner **IN** rows cost **6 pastes** and
-return **352 fully-enumerated products** with decline markers attached. The four G2 **IN** rows
-cost roughly **75 pastes** for **1,810 listings**. Which of these actually matter depends on
+return **352 fully-enumerated products** with decline markers attached — this has now been done;
+see `outputs/companies-IN.json`. The four G2 **IN** rows
+cost roughly **111 pastes** for **1,810 listings**. Which of these actually matter depends on
 deal size and cost to serve — withheld by design, and therefore your judgement, not mine.
