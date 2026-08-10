@@ -94,7 +94,6 @@ One row per product **per market**.
 | `entity_name_canonical` | This study's key |
 | `product_url` | Exact URL |
 | `entity_type` | `product` |
-| `competitor_class` | Usually `1`; a Gartner market may also name integrators or bundled modules — classify honestly, do not default |
 | `rating` + `_grade` | As printed |
 | `review_count` + `_grade` | As printed |
 | `willingness_to_recommend` + `_grade` | As printed, incl. the % sign |

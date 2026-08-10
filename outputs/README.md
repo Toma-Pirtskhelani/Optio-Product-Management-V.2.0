@@ -24,7 +24,7 @@ repeated. It does not get to happen here.
 | Self-declared share | What share of rows rests on `SELF-DECLARED` sources alone |
 | Corroboration share | Share with `corroborated: yes` — which requires two **different** source classes |
 | Boundary-ruling count | How many rows are `BOUNDARY-IN`/`BOUNDARY-OUT`, so the count's sensitivity to the definition is visible |
-| Competitor-class coverage | Which of classes 1–7 appear, which are `NOT-CHECKED`, and what source class would be needed |
+| Competitor-class gap statement | The standing statement from `CLAUDE.md` §4, in prose: classes 2–7 are **unmeasured by any current source**, their size is `UNKNOWN` not zero, and this output describes contest among listed software vendors only |
 | Language coverage | Row counts by `source_language`, and which required languages are missing |
 | Failure coverage | Decline markers found; or the mechanism that looked and found none |
 | Taxonomy separation | No count compared across `taxonomy_id` values |

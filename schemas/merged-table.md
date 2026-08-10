@@ -37,7 +37,7 @@ value nobody looked for.
 | 3 | `entity_name_canonical` | This study's key for the entity. A decision, not evidence |
 | 4 | `entity_aliases` | Every other observed spelling/name, with the source each came from |
 | 5 | `entity_type` | `vendor` / `product` / `category` / `agency` / `integrator` / `module` / `substitute` / `in-house` / `status-quo` |
-| 6 | `competitor_class` | `1`–`7` per `CLAUDE.md` §4. Mandatory |
+| 6 | ~~`competitor_class`~~ | **STRUCK from this phase.** Taxonomies only classify software, so classes 2–7 are not measurable here — and a column reading `NOT-CHECKED` on every row implies a gap was surveyed when it was not. See `CLAUDE.md` §4. Reinstated only when a `REVEALED-BEHAVIOR` pass exists to populate it |
 | 7 | `origin_country` | Where the entity originates, per evidence. `UNKNOWN` is common and fine |
 | 8 | `operating_geographies` | Only where a source states them. Never inferred from language or name |
 
@@ -119,11 +119,10 @@ of the four `presence` values.
   `research-protocol.md` §3A, carried all the way into the output.
 - Every merged table states its **`NOT-CHECKED` rate**. A table that is 60% unchecked is a
   coverage map, not a market map, and must present itself as one.
-- **Competitor classes 2–7 will be mostly `NOT-CHECKED` against these three sources.** That
-  is expected — vendor directories do not list in-house builds, agencies, integrators,
-  bundled modules, assembled substitutes, or the status quo. Per `CLAUDE.md` §4, each
-  unmeasured class states **which source class would be needed to measure it**. An
-  unmeasured class is a stated hole, never an implied zero.
+- **The coverage matrix covers software vendors only.** Competitor classes 2–7 are not rows
+  here and are not columns here — they are outside what a taxonomy can describe
+  (`CLAUDE.md` §4). Every table discussing competition carries the standing gap statement
+  instead, in prose, where it cannot be mistaken for a measurement.
 
 ---
 

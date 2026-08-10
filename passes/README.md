@@ -21,8 +21,9 @@ Raw captures do **not** live here — they live in `sources/raw/`, cited by file
 
 1. What was checked — sources, URLs, dates.
 2. What was `ABSENT-IN-VISIBLE-PAGE` vs `ABSENT-ENUMERATED` vs `NOT-CHECKED`, with counts.
-3. Which competitor classes (1–7) were unmeasurable here, and **which source class would be
-   needed to measure each** — an unmeasured class is a stated hole, never an implied zero.
+3. The standing statement that **competitor classes 2–7 are unmeasured by any current
+   source** (`CLAUDE.md` §4), in prose — not as a column, not as a checklist item. Taxonomy
+   passes describe listed software vendors and nothing else, and say so in those words.
 4. Which languages were covered, which required languages were not, and what was attempted.
 5. What share of rows rests on `SELF-DECLARED` sources alone.
 6. `NOT-CHECKED` rate for the pass as a whole.

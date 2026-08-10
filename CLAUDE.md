@@ -123,10 +123,34 @@ exists:
    contact-center dialers, no-code stacks
 7. **Status quo** — doing nothing, which frequently wins
 
-Classes 2–7 rarely appear in vendor directories. **Where a class cannot be measured, say so
-explicitly and name the source class that would be needed to measure it.** An unmeasured
-class is a stated hole in the study, never an implied zero. Every merged row carries
-`competitor_class`; a table containing only class 1 must state that on its face.
+### Classes 2–7 are unmeasured by any current source — an open structural gap
+
+**Taxonomies only classify software.** G2, Gartner, and app marketplaces catalogue vendors and
+products; they do not and cannot enumerate in-house builds, agencies, integrators, bundled
+modules, assembled substitutes, or the status quo. Those classes are not merely unmeasured by
+our sources — they are **outside what a taxonomy is capable of describing.**
+
+**Therefore `competitor_class` is struck from this phase's outputs entirely.** A column
+reading `NOT-CHECKED` on every row is worse than no column: it implies a gap was surveyed
+when it was not, and it converts a structural blindness into what looks like a coverage
+statistic.
+
+**Standing statement of the gap, to be repeated in any output that discusses competition:**
+
+> Competitor classes 2–7 — in-house builds, agencies, services firms, systems integrators,
+> bundled modules inside systems the buyer already owns, assembled substitutes, and the status
+> quo — are **unmeasured by any source currently in this study.** Their size is `UNKNOWN`, not
+> zero. Measuring any of them requires a `REVEALED-BEHAVIOR` source: procurement and tender
+> records, job postings naming a stack, tech-stack detection, company registries. No such
+> source is in place.
+
+This is an **open structural gap, not a pending task.** It gets no checkbox and no owner,
+because writing it as a to-do implies it is scheduled, and it is not. Any statement about how
+contested this market is, made from taxonomy data alone, is a statement about **contest among
+listed software vendors** and must say so in those words.
+
+`competitor_class` is reinstated as a column **only when a revealed-behavior pass exists to
+populate it** — not before, and not as a placeholder.
 
 ---
 

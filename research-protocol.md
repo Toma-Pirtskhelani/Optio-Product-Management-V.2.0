@@ -288,9 +288,9 @@ target schema, and what would make it fail. Every pass, when it ends, produces:
    lists, never force-matched to a near-neighbor.**
 4. Log entries: fetch, paste, boundary rulings, conflicts.
 5. A **coverage statement**: what was checked, what was `ABSENT-IN-VISIBLE-PAGE`, what was
-   `NOT-CHECKED`, which competitor classes were unmeasurable and what source class would be
-   needed, which languages were covered, and what share of rows rests on SELF-DECLARED
-   sources alone.
+   `NOT-CHECKED`, the standing competitor-class gap statement (`CLAUDE.md` §4) in prose,
+   which languages were covered, and what share of rows rests on SELF-DECLARED sources
+   alone.
 6. A **failure-coverage statement** (§6).
 
 A pass missing 5 or 6 is not finished, regardless of how good its table looks.

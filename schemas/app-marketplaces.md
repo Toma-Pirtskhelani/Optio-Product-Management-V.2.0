@@ -95,7 +95,6 @@ One row per app **per category**.
 | `entity_name_canonical` | This study's key — **the same key as the vendor's G2/Gartner row where they are the same entity**, so the coverage matrix works |
 | `app_url` | Exact URL |
 | `entity_type` | `product` |
-| `competitor_class` | Usually `1`; **class `6` (assembled substitutes) is common here** — connector apps, spreadsheet bridges, no-code glue. Classify honestly rather than defaulting to `1` |
 | `install_count` / `merchant_count` + `_grade` | Where published |
 | `review_count` + `_grade` | Where published |
 | `rating` + `_grade` | Where published |
