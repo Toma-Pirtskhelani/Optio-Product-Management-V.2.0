@@ -1,0 +1,24 @@
+===== homepage :: https://marigold.com/
+--- SIGNALS ---
+title: marigold nn
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+marigold nn
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ marigold.com

@@ -1,0 +1,803 @@
+===== homepage :: https://www.delivra.com/
+--- SIGNALS ---
+title: Smart Email & SMS Marketing Automation | Delivra
+meta_description: Built for busy marketers, Delivra will grow your audience with straightforward solutions for email and SMS marketing.
+og_description: Built for busy marketers, Delivra will grow your audience with straightforward solutions for email and SMS marketing.
+og_site_name: Delivra
+h1: Don't just send. DeliverDeliver results.sales.experiences.results.
+h2: Hyper-segment and automate your SMS & email marketing | Easily elevate your email marketing | We empower growing marketers
+jsonld_org: []
+--- TEXT ---
+Smart Email & SMS Marketing Automation | Delivra
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+Customers
+ 
+Why Delivra
+Pricing
+Resources
+ 
+ 
+Talk to Sales
+Login
+Platform 
+Customers 
+Why Delivra
+Pricing
+Resources 
+ 
+ 
+ 
+ 
+Don't just send.
+ 
+Deliver
+Deliver
+ 
+results.
+sales.
+experiences.
+results.
+For the data-rich small marketing team, Delivra makes it simple to create sophisticated email and SMS messaging.
+Take a product tour
+ 
+ 
+Hyper-segment and automate your SMS & email marketing
+Email & SMS Automation
+Capture your audience with easy-to-build custom content and unbeatable deliverability.
+Drag-and-Drop Editor
+Visual workflow builder
+Expert templates (for everything)
+Robust Personalization
+Scale targeted content delivery without the extra workload.
+Code-free dynamic content
+Conditional web forms
+Advanced split testing
+Actionable Data Reporting
+Refine your strategy with flexible data syncing and a complete view of every contact.
+Two-way CRM data syncing
+Click heatmaps
+Robust lead scoring
+Unified customer profiles
+Easily elevate your email marketing
+Spend less time building emails and start crafting irresistibly relevant campaigns that move your leads and customers to take action.
+ 
+G2
+4.5/5
+ 
+Capterra
+4.5/5
+Grow your email list
+Build and deploy effective email and SMS campaigns with drag & drop template design, smart segmentation, A/B testing, and hundreds of other powerful automation tools.
+Explore Features
+Run a smart campaign
+Increase engagement through lead scoring and triggered user journeys to deliver the right messages at the right times.
+Explore Features
+See everything in one place
+Unified customer profiles make it easier to plan, personalize, and optimize your marketing. Find email and SMS data, preferences, history, and campaign interactions all in one place.
+Powering meaningful interactions since 1999
+Everything a small marketing team needs to deliver world-class automation.
+See Customer Stories
+Build emails that keep leads interested
+Use our drag & drop builder to create emails that generate clicks. Not sure where to start? Our creative team will design a custom template for your business.
+Reach your audience and keep it growing
+Understand your subscribers better with engagement scoring and behavioral analytics. Use that to segment your email and SMS contacts and deliver relevant, personalized content.
+Try for Free
+Automate your email and SMS marketing 
+Map out multi-channel campaigns that span days, weeks, months – all laid out in a single view – then hit automate and sit back to watch the results roll in.
+Better results with every campaign 
+With custom reports, advanced insights, and a unified view of customer engagement across all your active channels, it’s easy to spot what’s working and what’s not. And if you need to switch things up, your customer success manager will help you build a new send strategy.
+HTML and Drag & Drop
+Create high-performance emails that turn leads into customers
+Learn More
+Intuitive Integrations
+Sync your CRM or connect platforms including Salesforce, Shopify, and Eventbrite
+Learn More
+5-star Customer Success 
+We’ve got a track record of unrivaled live response time. If you need us, you can reach us
+Learn More
+ 
+We’ve got your back
+It’s our job to make you feel confident in your marketing strategy. Access a dedicated account manager, marketing resource guides, and customized 1:1 onboarding to help you hit the ground running.
+See Resources
+“With Delivra everything is very user friendly, it’s very drag and drop, and it’s simplified a lot of our processes.”
+Ryann Weatherford, VP of Partnership Activations and Communications
+Watch Video 
+Frequently Asked Questions
+What is Delivra? 
+Does Delivra support both email and SMS? 
+What are unified customer profiles? 
+What can I do with Delivra? 
+Does Delivra support lead scoring and triggered journeys? 
+Can Delivra automate multi-channel campaigns over weeks or months? 
+How does Delivra help improve results over time? 
+Is Delivra built for small teams? 
+How does Delivra help me build better emails faster? 
+How much does Delivra cost to start? 
+We empower growing marketers
+Explore the possibilities. Try Delivra free for 14 days
+Get Started
+ 
+Thanks for signing up!
+See you in The Inbox.
+A newsletter for email marketers,
+by email marketers
+Submit
+Company 
+Product 
+Support 
+Community 
+ 
+ 
+ 
+ 
+2026
+ 
+Delivra
+  |  
+Legal
+Delivra is part of the 
+Redbrick
+ portfolio of companies.
+
+===== product :: https://www.delivra.com/features
+--- SIGNALS ---
+title: Email & SMS Marketing Features | Delivra
+meta_description: Explore the full suite of features powering Delivra email and SMS marketing, including advanced marketing automation, audience segmentation, and integrations.
+og_description: Explore the full suite of features powering Delivra email and SMS marketing, including advanced marketing automation, audience segmentation, and integrations.
+og_site_name: Delivra
+h1: Built for busy marketers
+h2: Make your workflow seamless | Discover what Delivra can do
+jsonld_org: []
+--- TEXT ---
+Email & SMS Marketing Features | Delivra
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+Customers
+ 
+Why Delivra
+Pricing
+Resources
+ 
+ 
+Talk to Sales
+Login
+Platform 
+Customers 
+Why Delivra
+Pricing
+Resources 
+ 
+ 
+ 
+ 
+Built for busy marketers
+Explore the full suite of features powering Delivra
+Email Marketing
+Design and send irresistible emails.
+Learn More
+Automation Tools
+Build campaigns with visual workflows.
+Learn More
+Personalization
+Easily send custom messages at scale.
+Learn More
+SMS Marketing
+Reach customers outside of their inbox.
+Learn More
+Segmentation
+Capture engagement with highly-personalized content delivery.
+Learn More
+Integrations, Forms & Pop-Ups
+Grow your subscriber base with impactful integrations and tools.
+Learn More
+Insights & Support
+Refine your strategy with analytics and customer success services.
+Learn More
+Unlock the possibilities of automation
+Advanced automation tools from Delivra mean you spend less time managing your marketing and more time getting creative.
+Want to know more?
+Get a Demo
+Make your workflow seamless
+Streamline customer data into Delivra through SFTP or any of our integrations
+See Integrations
+Your goals are our goals
+Get ahead with actionable insights, custom weekly reports, and unparalleled live support.
+See How We Can Help 
+Frequently Asked Questions
+What features does Delivra include? 
+Is Delivra built for newsletters or lifecycle messaging? 
+Does Delivra support both email and SMS in one platform? 
+What makes Delivra a fit for data-rich organizations? 
+Can I build forms and pop-ups with Delivra? 
+What reporting and insights are available? 
+How do I evaluate which features matter for my use case? 
+Discover what Delivra can do
+Have questions about email and SMS marketing? Our team is here to help you explore Delivra’s features, capabilities, and how we can support your goals.
+Connect now
+ 
+Thanks for signing up!
+See you in The Inbox.
+A newsletter for email marketers,
+by email marketers
+Submit
+Company 
+Product 
+Support 
+Community 
+ 
+ 
+ 
+ 
+2026
+ 
+Delivra
+  |  
+Legal
+Delivra is part of the 
+Redbrick
+ portfolio of companies.
+
+===== pricing_or_trust :: https://www.delivra.com/pricing
+--- SIGNALS ---
+title: Pricing  | Delivra
+meta_description: Starting from just $29 a month, Delivra's competitively priced packages range from Starter to Enterprise to meet your unique marketing needs.
+og_description: Starting from just $29 a month, Delivra's competitively priced packages range from Starter to Enterprise to meet your unique marketing needs.
+og_site_name: Delivra
+h1: Flexible plans that fit your marketing goals
+h2: Get a Demo
+jsonld_org: []
+--- TEXT ---
+Pricing | Delivra
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+Customers
+ 
+Why Delivra
+Pricing
+Resources
+ 
+ 
+Talk to Sales
+Login
+Platform 
+Customers 
+Why Delivra
+Pricing
+Resources 
+ 
+ 
+ 
+ 
+Flexible plans that fit your marketing goals
+Monthly
+Annual
+(save 20%)
+How many contacts do you have?
+500 contacts
+500
+2.5k
+10k
+50k
+100k
+Starter
+All the tools and support a marketer needs to grow their email audience.
+Buy now
+Billed annually
+$
+33
+/month
+Professional
+More sophisticated automation for businesses that want to optimize their email strategy.
+Buy now
+Billed annually
+$
+75
+/month
+Enterprise
+For high-volume senders that need advanced features and data capabilities.
+Contact sales
+Tailored to your needs
+Custom pricing
+The above prices are based on an annual license for 500 contacts. 
+Account Settings
+Starter
+Professional
+Enterprise
+Unlimited User Seats
+ 
+ 
+ 
+ 
+Account Admin, Custom Roles/ Permissions
+ 
+ 
+ 
+ 
+Team Collaboration
+ 
+ 
+ 
+ 
+Custom Tables and Relational Data
+ 
+1:1 data
+ 
+1:many
+ 
+many:many
+ 
+Dedicated IP
+ 
+Available as an add-on
+ 
+ Subscriber Management
+Starter
+Professional
+Enterprise
+Subscription & Preference Center
+ 
+ 
+ 
+ 
+GDPR Compliance
+ 
+ 
+ 
+ 
+Scoring
+Standard
+ 
+Advanced
+ 
+Advanced
+ 
+Web & Conversion Tracking (Clickstream)
+Standard
+ 
+Standard
+ 
+Advanced
+ 
+Segment Snippets
+ 
+ 
+ 
+ 
+Email & Campaigns 
+Starter
+Professional
+Enterprise
+Drag-and-drop builder (email, forms, landing pages)
+ 
+ 
+ 
+ 
+HTML Email Editor
+ 
+ 
+ 
+ 
+Email Templates
+ 
+ 
+ 
+ 
+Personalized Content
+ 
+ 
+ 
+ 
+Automated Welcome & Confirmation Emails
+ 
+ 
+ 
+ 
+Transactional Emails
+ 
+ 
+ 
+ 
+Triggered Emails
+ 
+ 
+ 
+ 
+Multivariate Testing
+ 
+ 
+ 
+ 
+Interactive Email
+ 
+Essential
+ 
+Advanced
+ 
+Advanced
+ 
+RSS Campaigns
+ 
+ 
+ 
+ 
+Polls
+ 
+ 
+ 
+ 
+Dynamic Content & Subject Lines
+ 
+ 
+ 
+ 
+Content Locking
+ 
+ 
+ 
+ 
+Reply Mail Management
+ 
+ 
+ 
+ 
+RSS Content
+ 
+ 
+ 
+ 
+Send Rate Limiting
+ 
+ 
+ 
+ 
+Time Zone Sending
+ 
+ 
+ 
+ 
+Send Time Optimization
+ 
+ 
+ 
+ 
+Send Frequency Cap
+ 
+ 
+ 
+ 
+Custom Footers
+ 
+ 
+ 
+ 
+Marketing Automation
+Starter
+Professional
+Enterprise
+Visual Workflow Builder
+ 
+ 
+ 
+ 
+Automated Workflow Templates
+ 
+ 
+ 
+ 
+Multi-Step Automations
+ 
+3 automations
+10 automations
+unlimited
+Email & SMS Automations*
+ 
+ 
+ 
+ 
+ Event-Triggered Automation
+ 
+ 
+ 
+ 
+Conditional/Behavioral Branching
+ 
+ 
+ 
+ 
+Lead Alerts
+ 
+ 
+ 
+ 
+Exit-to-Another-Workflow
+ 
+ 
+ 
+ 
+Re-Entry Event
+ 
+ 
+ 
+ 
+Split Automations
+ 
+ 
+ 
+ 
+ Forms
+Starter
+Professional
+Enterprise
+Drag-and-drop builder (email, forms, landing pages)
+ 
+ 
+ 
+ 
+Unlimited Web Forms
+ 
+ 
+ 
+ 
+Triggered Web Forms and Pop-Ups
+ 
+ 
+ 
+ 
+Progressive Profiling Web Forms
+ 
+ 
+ 
+ 
+Conditional Display Web Forms
+ 
+ 
+ 
+ 
+Form Submission Domain Management
+ 
+ 
+ 
+ 
+Landing Pages
+Starter
+Professional
+Enterprise
+Drag-and-drop builder (email, forms, landing pages)
+ 
+ 
+ 
+ 
+Unlimited Landing Pages
+ 
+ 
+ 
+ 
+Landing Page Templates
+ 
+ 
+ 
+ 
+Landing Page Personalized Content
+ 
+ 
+ 
+ 
+Landing Page Dynamic Content
+ 
+ 
+ 
+ 
+ Analytics & Reporting
+Starter
+Professional
+Enterprise
+Standard Contact & Campaign Analytics
+ 
+ 
+ 
+ 
+Clickthrough Heatmap
+ 
+ 
+ 
+ 
+Custom Report Builder
+ 
+ 
+ 
+ 
+Scheduled Report Delivery
+ 
+ 
+ 
+ 
+Data Retention Period
+ 
+6 months
+15 months
+3 Years
+Integrations 
+Starter
+Professional
+Enterprise
+Google Analytics Campaign Tracking
+ 
+ 
+ 
+ 
+Shopify
+ 
+ 
+ 
+ 
+Salesforce*
+ 
+Basic Integration
+Basic Integration
+Automate with object data
+Sync multiple accounts
+Eventbrite
+ 
+ 
+ 
+ 
+Facebook Custom Audiences
+ 
+ 
+ 
+ 
+Looker Studio
+ 
+ 
+ 
+ 
+Paved
+ 
+ 
+ 
+ 
+Unsplash
+ 
+ 
+ 
+ 
+Zapier
+ 
+ 
+ 
+ 
+SFTP, API, & Webhook Access
+ 
+ 
+ 
+ 
+Optimizely
+ 
+ 
+ 
+ 
+Support
+Starter
+Professional
+Enterprise
+Tech Support via Email & Phone
+ 
+ 
+ 
+ 
+Dedicated Customer Success Manager
+ 
+ 
+ 
+ 
+Quarterly Business Reviews*
+ 
+ 
+ 
+ 
+Email Testing (Advanced)
+Add-on
+Email Client Previews
+ 
+ 
+Accessibility
+ 
+ 
+Interactive Email (Advanced)
+Add-on
+Video
+ 
+ 
+Progress Bars
+ 
+ 
+Mobile Messaging (SMS)
+Add-on
+Text-Enabled Phone Numbers
+ 
+ 
+Automated Workflow Builder
+ 
+ 
+Drag-and-Drop Web Forms for SMS
+ 
+ 
+Mobile Opt-In (Text-to-Join)
+ 
+ 
+Dynamic SMS Personalization
+ 
+ 
+Smart SMS segmentation
+ 
+ 
+SMS Autoresponders
+ 
+ 
+Professional Services
+Add-on
+Email Template Design
+ 
+ 
+Deliverability Consulting
+ 
+ 
+Technical Consulting
+ 
+ 
+Automation Consulting
+ 
+ 
+Personalized 1:1 Training
+ 
+ 
+Migration Services
+ 
+ 
+Frequently Asked Questions
+How much does Delivra cost? 
+What’s the difference between Starter, Professional, and Enterprise? 
+Which plan is best for lifecycle automation? 
+Do you offer an enterprise option for high-volume sending? 
+Are the listed prices monthly or annual? 
+Can I start small and scale up later? 
+How do I choose the right plan? 
+Get a Demo
+Have questions about how Delivra could work for your business? Schedule a personalized, live demo with a member of our team.
+Contact Sales
+ 
+Company 
+Product 
+Support 
+Community 
+ 
+ 
+ 
+ 
+2026
+ 
+Delivra
+  |  
+Legal
+Delivra is part of the 
+Redbrick
+ portfolio of companies.

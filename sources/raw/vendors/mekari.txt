@@ -1,0 +1,1585 @@
+===== llms.txt :: https://mekari.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+﻿# Mekari
+> Empower businesses and professionals to progress effortlessly
+## Laman
+- [Integration](https://mekari.com/integration/)
+- [Mekari Officeless - DMS](https://mekari.com/solusi-dms/)
+- [Mekari Partner Bank Saqu](https://mekari.com/partner/bank-saqu/)
+- [Mekari Partner Bank Saqu](https://mekari.com/en/partner/bank-saqu/)
+- [Mekari for Fintech Industry](https://mekari.com/en/solution/business/fintech-industry/)
+- [Mekari for law firm](https://mekari.com/en/solution/business/law-firm-industry/)
+- [Mekari for offline retails](https://mekari.com/en/solution/business/offline-retails-industry/)
+- [Mekari untuk perusahaan Fintech](https://mekari.com/solusi/bisnis/industri-fintech/)
+- [Mekari untuk firma hukum](https://mekari.com/solusi/bisnis/industri-firma-hukum/)
+- [Mekari untuk ritel offline](https://mekari.com/solusi/bisnis/industri-ritel-offline/)
+- [Desty](https://mekari.com/produk/desty/)
+- [Desty](https://mekari.com/en/product/desty/)
+- [Officeless Workflow Builder](https://mekari.com/produk/officeless/platform/workflow-builder/)
+- [Mekari untuk bisnis catering & bakery](https://mekari.com/solusi/bisnis/industri-bakery-dan-catering/)
+- [Mekari untuk bisnis catering & bakery](https://mekari.com/en/solution/business/bakery-and-catering-industry/)
+- [Officeless Analytics Service](https://mekari.com/produk/officeless/services/analytics/)
+- [Custom ERP](https://mekari.com/produk/officeless/modul/custom-erp/)
+- [Partnership Integrator](https://mekari.com/partnership/sistem-integrasi/)
+- [Spend Management](https://mekari.com/en/product/expense/spend-management/)
+- [[Ads] Business Debit Card](https://mekari.com/ads/produk/expense/business-debit-card/)
+- [Spend Management](https://mekari.com/produk/expense/spend-management/)
+- [Pemberitahuan Privasi - Mekari Officeless](https://mekari.com/produk/officeless/privacy/)
+- [Mekari Officeless - Privacy Notice](https://mekari.com/en/product/officeless/privacy/)
+- [Mekari Desty](https://mekari.com/desty/)
+- [Indonesia Young Coders League Vol. 3](https://mekari.com/iycl-2025/)
+- [Mekari Partner OCBC](https://mekari.com/en/partner/ocbc/)
+- [Mekari Partner OCBC](https://mekari.com/partner/ocbc/)
+- [Procurement - Mekari Expense](https://mekari.com/produk/expense/procurement/)
+- [Procurement - Mekari Expense](https://mekari.com/en/product/expense/procurement/)
+- [Mekari x Canva](https://mekari.com/partner/canva/)
+- [Integrated Workplace Management System](https://mekari.com/produk/officeless/solusi-manajemen-tempat-kerja/)
+- [Integrated Workplace Management System](https://mekari.com/en/product/officeless/workplace-management-solution/)
+- [Mekari untuk goverment](https://mekari.com/en/solution/business/public-industry/): Mekari’s integrated software ecosystem solution helps automate various operational and strategic aspects of the public sector, to maximize the efficiency of HR management, contract management, to public communication.
+- [Mekari untuk procurement](https://mekari.com/en/solution/procurement-division/): Mekari’s integrated software ecosystem supports your procurement team in being more efficient with the automated procurement management platform.
+- [Mekari untuk procurement](https://mekari.com/solusi/divisi-procurement/): Ekosistem software terintegrasi Mekari mendukung tim procurement agar dapat bekerja lebih efisien dengan automasi platform procurement management terpadu.
+- [Mekari untuk goverment](https://mekari.com/solusi/bisnis/industri-publik/): Solusi ekosistem software terintegrasi Mekari membantu automasi berbagai operasional dan strategis sektor pemerintah, untuk tingkatkan efisiensi HR, manajemen kontrak, hingga komunikasi publik.
+- [Vendor Portal](https://mekari.com/produk/expense/vendor-portal/)
+- [Vendor Portal](https://mekari.com/en/product/expense/vendor-portal/)
+- [Mekari Officeless - Visitor Management](https://mekari.com/en/product/officeless/visitor-management-solution/)
+- [Mekari Officeless - Visitor Management](https://mekari.com/produk/officeless/solusi-manajemen-pengunjung/)
+- [Mekari Officeless - Facility Management](https://mekari.com/produk/officeless/solusi-manajemen-fasilitas/)
+- [Partnership Referral](https://mekari.com/partnership/referral/)
+- [Referral](https://mekari.com/en/partnership/referral/)
+- [Reseller](https://mekari.com/en/partnership/reseller/)
+- [Mekari Officeless - Facility Management](https://mekari.com/en/product/officeless/facility-management-solution/)
+- [Partnership Reseller](https://mekari.com/partnership/reseller/)
+- [Partnership](https://mekari.com/en/partnership/)
+- [[Talenta] HRIS](https://mekari.com/en/product/talenta/modul/hris/)
+- [[Talenta] HRIS](https://mekari.com/produk/talenta/modul/hris/)
+- [Partnership](https://mekari.com/partnership/)
+- [[Visa] Hubungi Kami](https://mekari.com/inquiry-visa/): Kami siap membantu Anda untuk meningkatkan efisiensi bisnis dengan solusi SaaS terintegrasi. Optimalkan bisnis Anda sekarang bersama Mekari!
+- [[Visa] Hubungi Kami](https://mekari.com/en/inquiry-visa/): Kami siap membantu Anda untuk meningkatkan efisiensi bisnis dengan solusi SaaS terintegrasi. Optimalkan bisnis Anda sekarang bersama Mekari!
+- [[Talenta] Software Payroll](https://mekari.com/produk/talenta/payroll/)
+- [[Talenta] Software Payroll](https://mekari.com/en/talenta/payroll/)
+- [[Qontak] WA Business API](https://mekari.com/en/qontak/whatsapp-business-api/)
+- [[Qontak] WA Business API](https://mekari.com/produk/qontak/whatsapp-business-api/)
+- [[Qontak] Aplikasi Sales CRM New](https://mekari.com/produk/qontak/sales-crm/)
+- [[Qontak] Aplikasi WhatsApp Blast New](https://mekari.com/produk/qontak/whatsapp-blast/)
+- [[Qontak] Aplikasi WhatsApp Blast New](https://mekari.com/en/product/qontak/whatsapp-blast/)
+- [[Qontak] Aplikasi Sales CRM New](https://mekari.com/en/product/qontak/sales-crm/)
+- [Mekari Partner Visa](https://mekari.com/partner/visa/)
+- [Mekari Partner Visa](https://mekari.com/en/partner/visa/)
+- [Talenta](https://mekari.com/produk/talenta/)
+- [Mekari Talenta](https://mekari.com/en/product/talenta/)
+- [Mekari untuk legal](https://mekari.com/solusi/divisi-legal/): Mekari menawarkan solusi autentikasi dan otorisasi dokumen, seperti pembuatan dan tanda tangan kontrak, manajemen litigasi dan perkara hukum, keuangan, hingga manajemen karyawan dengan automasi departemen legal melalui software legal terintegrasi.
+- [Mekari for legal](https://mekari.com/solusi/divisi-legal/): Mekari offers solutions for document authentication and authorization, from contract drafting and approval, litigation and case management, finance, to workforce management with legal department automation via integrated legal business software.
+- [Mekari untuk migas](https://mekari.com/solusi/bisnis/industri-migas/): Mekari integrated software ecosystem solution helps automate various operational and strategic business processes of the oil & gas industry, from HR, finance, and taxation, as well as HSE systems, to increase efficiency and accelerate business expansion.
+- [Mekari untuk migas](https://mekari.com/solusi/bisnis/industri-migas/): Solusi ekosistem software terpadu Mekari membantu automasi berbagai proses bisnis operasional dan strategis industri migas mulai dari HR, keuangan, perpajakan, hingga sistem K3 untuk tingkatkan efisiensi dan akselerasikan ekspansi bisnis.
+- [Mekari untuk industri agrikultur](https://mekari.com/solusi/bisnis/industri-pertanian/): Mekari menawarkan ekosistem software terpadu mulai dari pengelolaan HR, keuangan, perpajakan, hingga sistem K3 dengan automasi industri pertanian untuk akselerasikan proses bisnis operasional dan strategis.
+- [Mekari for agriculture](https://mekari.com/solusi/bisnis/industri-pertanian/): Mekari offers an integrated software ecosystem for HR management, finance, and taxation, as well as HSE systems with automation in agriculture to accelerate operational and strategic business processes.
+- [Service Overview](https://mekari.com/produk/officeless/services/)
+- [Mekari Officeless - Service Overview](https://mekari.com/en/product/officeless/services/)
+- [Mekari Officeless - Platform Overview](https://mekari.com/en/product/officeless/platform/)
+- [Mekari Officeless - Platform Overview](https://mekari.com/produk/officeless/platform/)
+- [Studi kasus](https://mekari.com/case-study/)
+- [Case study](https://mekari.com/en/case-study/)
+- [Expense](https://mekari.com/en/product/expense/)
+- [Expense](https://mekari.com/produk/expense/)
+- [Mekari Officeless - eProcurement](https://mekari.com/en/product/officeless/eprocurement-solution/)
+- [Mekari Officeless - eProcurement](https://mekari.com/produk/officeless/solusi-eprocurement/)
+- [Mekari untuk retail](https://mekari.com/solusi/bisnis/industri-ritel/)
+- [Mekari untuk healthcare](https://mekari.com/solusi/bisnis/industri-kesehatan/): Mekari menawarkan solusi manajemen tenaga kesehatan, pelayanan pasien, keuangan, hingga pengeluaran bisnis untuk akselerasikan operasional bisnis kesehatan dengan software bisnis kesehatan terintegrasi.
+- [Mekari untuk healthcare](https://mekari.com/solusi/bisnis/industri-kesehatan/): Mekari offers solutions for health workforce management, patient service, finance, to business expense to accelerate the operation of businesses with an integrated healthcare management software.
+- [Mekari untuk retail](https://mekari.com/solusi/bisnis/industri-ritel/): Mekari offers various solutions from inventory monitoring, sales, workforce management, to finance to accelerate your business growth with comprehensive retail business software.
+- [Purchase list](https://mekari.com/en/product/expense/purchase/)
+- [Purchase list](https://mekari.com/produk/expense/purchase/)
+- [Corporate Expense Card](https://mekari.com/en/product/expense/corporate-card/)
+- [Corporate Expense Card](https://mekari.com/produk/expense/corporate-card/)
+- [Mekari untuk tim Marketing](https://mekari.com/solusi/divisi-marketing/): Berbagai software dan aplikasi pilihan untuk dukung efisiensi proses bisnis dalam meningkatkan engagement dan konversi untuk dukung akuisisi pelanggan.
+- [Mekari untuk tim Marketing](https://mekari.com/solusi/divisi-marketing/): Various selected softwares and apps to support the business process efficiency in increasing engagement and conversion to support customer acquisition.
+- [Mekari Officeless - HSE](https://mekari.com/en/product/officeless/hse-solution/)
+- [Mekari Officeless - HSE](https://mekari.com/produk/officeless/solusi-hse/)
+- [Glossary](https://mekari.com/glossary/): Tingkatkan wawasan bisnis Anda dengan Kamus Bisnis Mekari—sumber tepercaya bagi profesional dan C-level untuk memahami istilah penting, mengembangkan strategi, dan mendorong pertumbuhan karir serta perusahaan.
+- [Glossary](https://mekari.com/glossary/): Enhance your business knowledge with the Business Dictionary—your trusted resource for professionals and C-level executives to understand key terms, develop strategies, and drive career and company growth.
+- [Mekari Partner Raya](https://mekari.com/partner/bank-raya/)
+- [Mekari Partner Raya](https://mekari.com/en/partner/bank-raya/)
+- [Mekari for finance](https://mekari.com/solusi/divisi-keuangan/): Various selected softwares and apps to support the efficiency of finance and accounting management.
+- [Mekari untuk tim keuangan](https://mekari.com/solusi/divisi-keuangan/): Berbagai software dan aplikasi pilihan untuk dukung efisiensi proses bisnis dalam mengelola keuangan serta akuntansi perusahaan Anda.
+- [Mekari for manufacture](https://mekari.com/solusi/bisnis/industri-manufaktur/): Boost operational efficiency by over 70% with a secure, reliable, and scalable SaaS platform tailored for your manufacturing business.
+- [Mekari untuk manufaktur](https://mekari.com/solusi/bisnis/industri-manufaktur/): Tingkatkan efisiensi hingga 70+% dengan efisiensi operasional bisnis lewat platform SaaS yang aman, terpercaya, dan scalable untuk bisnis manufaktur Anda.
+- [Mekari Officeless](https://mekari.com/en/product/officeless/)
+## Pos
+- [Enterprise Risk Management: Strategi dan Tantangan Implementasi](https://mekari.com/blog/enterprise-risk-management/)
+- [AI dalam Bidang Kesehatan Hadir Membantu Bukan Mengganti Dokter](https://mekari.com/blog/peran-ai-dalam-bidang-kesehatan/)
+- [Transformasi Data: Untuk Fondasi Keputusan Bisnis yang Tepat](https://mekari.com/blog/transformasi-data/)
+- [Tantangan Nyata Cetak Biru Transformasi Digital Kesehatan](https://mekari.com/blog/transformasi-digital-kesehatan-dan-tata-kelola-data-faskes/)
+- [Transformasi Digital Industri Pariwisata dan Target Wisman 2026](https://mekari.com/blog/transformasi-digital-industri-pariwisata/)
+- [14 Aplikasi Bisnis Digital untuk Standarisasi Proses Lintas Divisi](https://mekari.com/blog/rekomendasi-aplikasi-bisnis-digital/)
+- [Enterprise Solution: A Transformation Strategy for Modern Business](https://mekari.com/en/blog/enterprise-solution/)
+- [Melihat Arah Transformasi Digital Dalam Pendidikan Saat Ini](https://mekari.com/blog/panduan-transformasi-digital-institusi-pendidikan/)
+- [Industrial Digital Transformation: A Business-Led Playbook](https://mekari.com/en/blog/industrial-digital-transformation/)
+- [Merancang Customer Onboarding Digital yang Bebas Fraud untuk Bisnis Modern](https://mekari.com/blog/customer-onboarding-digital-yang-aman/)
+- [Sistem Informasi Akademik Saja Tidak Cukup: Mengapa Kampus Perlu Pendekatan ERP](https://mekari.com/blog/sistem-informasi-akademik-dengan-erp/)
+- [Strategic Partnership: Strategy for Beating a 70% Failure Rate](https://mekari.com/en/blog/strategic-partnership/)
+- [Enterprise Application Security to Close the Gaps Between Business Apps](https://mekari.com/en/blog/enterprise-application-security/)
+- [Procurement Automation: Strategi Hemat hingga 45% Biaya Pengadaan](https://mekari.com/blog/procurement-automation/)
+- [Mencegah Fraud Finansial di Era Bisnis Digital: Dari Rekonsiliasi hingga Verifikasi Identitas](https://mekari.com/blog/fraud-finansial-di-era-bisnis-digital/)
+- [ERP Perguruan Tinggi: Solusi Pengelolaan SIAKAD Ka
+
+===== homepage :: https://mekari.com/
+--- SIGNALS ---
+title: Mekari - Ekosistem SaaS Terpadu #1 di Indonesia
+meta_description: Akselerasikan pertumbuhan bisnis dengan automasi operasional, integrasi tanpa hambatan, dan intelligent reporting berbasis AI dari Mekari.
+og_description: Akselerasikan pertumbuhan bisnis dengan automasi operasional, integrasi tanpa hambatan, dan intelligent reporting berbasis AI dari Mekari.
+og_site_name: Mekari
+h1: Ekosistem software terpadu untuk mendukung pertumbuhan bisnis dan profesional
+h2: Telah dipercaya oleh 55.000+ bisnis Indonesia dari berbagai industri | Temukan solusi Mekari yang paling tepat untuk Anda | Percepat pertumbuhan dengan software bisnis yang saling terintegrasi | Fondasi yang kokoh untuk pertumbuhan bisnis berkelanjutan | Insight nyata dari klien kami | FAQ seputar Mekari | Siap untuk akselerasikan pertumbuhan?
+jsonld_org: [{"@type": "Organization", "@id": "https://mekari.com/#organization", "name": "PT Mid Solusi Nusantara", "alternateName": "Mekari", "url": "https://mekari.com/", "logo": {"@type": "ImageObject", "inLanguage": "id", "@id": "https://mekari.com/#/schema/logo/image/", "url": "https://mekari.com/wp-content/uploads/2024/02/icm-logomark.webp", "contentUrl": "https://mekari.com/wp-content/uploads/2024/02/icm-logomark.webp", "width": 240, "height": 240, "caption": "PT Mid Solusi Nusantara"}, "image": {"@id": "https://mekari.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/mekaricom", "https://x.com/mekaricom", "https://www.instagram.com/mekaricom/", "https://id.linkedin.com/company/mekari", "https://www.youtube.com/channel/UClgJG7J-GrEbqNBSaMi-cWQ", "https://www.tiktok.com/@mekaricom"], "description": "Mekari, or PT Mid Solusi Nusantara, is an Indonesian SaaS company that provides cloud-based business solutions to help companies grow through digital transformation.", "email": "marketing@mekari.com", "telephone": "1500069", "legalName": "PT Mid Solusi Nusantara", "foundingDate": "2015-02-18", "numberOfEmployees": {"@type": "QuantitativeValue", "minValue": "1001", "maxValue": "5000"}}, {"@type": "Organization", "@id": "https://mekari.com/#organization", "brand": [{"@id": "https://www.talenta.co/#brand"}, {"@id": "https://www.jurnal.id/id/#brand"}, {"@id": "https://qontak.com/#brand"}, {"@id": "https://mekarisign.com/id/#brand"}, {"@id": "https://expense.mekari.com/#brand
+--- TEXT ---
+Mekari - Ekosistem SaaS Terpadu #1 di Indonesia
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Produk & Layanan
+ 
+ 
+Produk & Layanan
+ 
+Mekari Talenta
+Software HR & manajemen karyawan
+ 
+Mekari Jurnal
+Software akuntansi & supply chain
+ 
+Mekari Qontak
+Software CRM & omnichannel
+ 
+Mekari Sign
+Software otorisasi & tanda tangan digital
+ 
+Mekari Flex
+Software manajemen dukungan karyawan
+ 
+Mekari Desty
+Software untuk kelola marketplace dan toko offline
+ 
+Mekari Expense
+Software manajemen anggaran & pengeluaran
+ 
+Mekari Pay
+Software manajemen transaksi bisnis
+ 
+Mekari Capital
+Software manajemen pembiayaan bisnis
+ 
+Mekari Officeless
+Solusi custom aplikasi bisnis berbasis low code/no code
+ 
+Mekari Klikpajak
+Software manajemen pajak karyawan & bisnis
+ 
+Mekari University
+Layanan pelatihan profesional tersertifikasi
+Inovasi software-as-a-service Mekari untuk manajemen bisnis
+Lihat semua produk Mekari
+Solusi
+ 
+Solusi
+Skala Bisnis
+ 
+Lingkup Kerja
+ 
+Industri
+ 
+Alternatif Sistem
+ 
+Jawaban tepat untuk kebutuhan bisnis Anda
+Pelajari solusi Mekari
+Skala Bisnis
+ 
+Mekari untuk Startup
+Mempercepat pertumbuhan startup Anda
+ 
+Mekari untuk UMKM
+Solusi sederhana untuk UMKM berkembang
+ 
+Large Enterprise
+Efisiensi maksimal untuk korporasi besar
+Lingkup Kerja
+ 
+Mekari untuk HR
+Optimalkan manajemen SDM Anda
+ 
+Mekari untuk Keuangan
+Kelola keuangan dengan lebih mudah
+ 
+Mekari untuk Penjualan
+Tingkatkan kinerja tim penjualan
+ 
+Mekari untuk Pemasaran
+Maksimalkan efektivitas pemasaran
+ 
+Mekari untuk Legal
+Kelola kepatuhan dan dokumen hukum
+ 
+Mekari untuk IT
+Solusi teknologi untuk tim IT Anda
+ 
+Mekari untuk Procurement
+Software Mekari pilihan untuk dukung tim procurement
+Industri
+ 
+Mekari untuk Logistik
+Optimalkan rantai pasok dan distribusi
+ 
+Mekari untuk Manufaktur
+Tingkatkan efisiensi produksi
+ 
+Mekari untuk Perdagangan
+Kelola transaksi dan inventaris dengan mudah
+ 
+Mekari untuk Hospitality
+Solusi untuk layanan dan operasional hotel
+ 
+Mekari untuk Kesehatan
+Kelola layanan dan administrasi kesehatan
+ 
+Mekari untuk Retail
+Tingkatkan manajemen toko dan pelanggan
+ 
+Mekari untuk Migas
+Solusi untuk industri minyak dan gas
+ 
+Mekari untuk Pertanian
+Optimalkan produksi dan distribusi pertanian
+ 
+Mekari untuk F&B
+Solusi manajemen bisnis makanan dan minuman
+ 
+Mekari untuk Pertambangan
+Berbagai solusi untuk operasional industri tambang lebih terkendali
+ 
+Mekari untuk Pendidikan
+Berbagai solusi untuk jalankan bisnis pendidikan lebih yakin
+ 
+Mekari untuk Perbankan
+Berbagai solusi untuk operasional industri tambang lebih terkendali
+ 
+Mekari untuk Sektor Pemerintah
+Berbagai solusi untuk digitalisasikan operasional sektor pemerintah
+ 
+Mekari untuk Media Entertainment
+Berbagai solusi untuk sederhanakan sisi bisnis kreativitas
+ 
+Mekari untuk Asuransi
+Berbagai solusi untuk lancarkan operasional bisnis asuransi
+ 
+Mekari untuk Beauty, Salon, & Gym
+Berbagai solusi untuk jalankan salon & gym lebih gesit
+ 
+Mekari untuk Outsourcing
+Berbagai solusi untuk industri outsourcing yang lebih terkendali
+ 
+Mekari untuk Catering & Bakery
+Berbagai solusi untuk sederhanakan operasional catering & bakery
+ 
+Solusi untuk Ritel Offline
+Software Mekari pilihan untuk optimalkan performa ritel offline
+ 
+Mekari untuk Firma Hukum
+Software Mekari pilihan untuk automasikan operasional firma hukum
+ 
+Mekari untuk Perusahaan Fintech
+Software Mekari pilihan untuk operasional fintech lebih efisien
+Alternatif Sistem
+ 
+Alternatif LMS
+Sistem pembelajaran yang efektif dan efisien
+ 
+Alternatif ERP
+Sistem ERP yang fleksibel dan mudah digunakan
+ 
+Aplikasi Sales CRM
+Alternatif CRM Penjualan all-in-one untuk pertumbuhan bisnis
+ 
+Software Payroll
+Alternatif software payroll yang cepat dan akurat
+ 
+Aplikasi WA Blast
+Kirim ribuan pesan WhatsApp tanpa diblokir, terintegrasi dengan CRM dan chatbot
+ 
+WhatsApp Business API
+Solusi WhatsApp API Resmi dari BSP Meta Indonesia
+ 
+Aplikasi HRIS
+Alternatif HRIS modern untuk bisnis Indonesia
+Skala Bisnis
+ 
+Lingkup Kerja
+ 
+Industri
+ 
+Alternatif Sistem
+ 
+Jawaban tepat untuk kebutuhan bisnis Anda
+Pelajari solusi Mekari
+ 
+Solusi
+ 
+Skala Bisnis
+ 
+Mekari untuk Startup
+Mempercepat pertumbuhan startup Anda
+ 
+Mekari untuk UMKM
+Solusi sederhana untuk UMKM berkembang
+ 
+Large Enterprise
+Efisiensi maksimal untuk korporasi besar
+ 
+Solusi
+ 
+Lingkup Kerja
+ 
+Mekari untuk HR
+Optimalkan manajemen SDM Anda
+ 
+Mekari untuk Keuangan
+Kelola keuangan dengan lebih mudah
+ 
+Mekari untuk Penjualan
+Tingkatkan kinerja tim penjualan
+ 
+Mekari untuk Pemasaran
+Maksimalkan efektivitas pemasaran
+ 
+Mekari untuk Legal
+Kelola kepatuhan dan dokumen hukum
+ 
+Mekari untuk IT
+Solusi teknologi untuk tim IT Anda
+ 
+Mekari untuk Procurement
+Software Mekari pilihan untuk dukung tim procurement
+ 
+Solusi
+ 
+Industri
+ 
+Mekari untuk Logistik
+Optimalkan rantai pasok dan distribusi
+ 
+Mekari untuk Manufaktur
+Tingkatkan efisiensi produksi
+ 
+Mekari untuk Perdagangan
+Kelola transaksi dan inventaris dengan mudah
+ 
+Mekari untuk Hospitality
+Solusi untuk layanan dan operasional hotel
+ 
+Mekari untuk Kesehatan
+Kelola layanan dan administrasi kesehatan
+ 
+Mekari untuk Retail
+Tingkatkan manajemen toko dan pelanggan
+ 
+Mekari untuk Migas
+Solusi untuk industri minyak dan gas
+ 
+Mekari untuk Pertanian
+Optimalkan produksi dan distribusi pertanian
+ 
+Mekari untuk F&B
+Solusi manajemen bisnis makanan dan minuman
+ 
+Mekari untuk Pertambangan
+Berbagai solusi untuk operasional industri tambang lebih terkendali
+ 
+Mekari untuk Pendidikan
+Berbagai solusi untuk jalankan bisnis pendidikan lebih yakin
+ 
+Mekari untuk Perbankan
+Berbagai solusi untuk operasional industri tambang lebih terkendali
+ 
+Mekari untuk Sektor Pemerintah
+Berbagai solusi untuk digitalisasikan operasional sektor pemerintah
+ 
+Mekari untuk Media Entertainment
+Berbagai solusi untuk sederhanakan sisi bisnis kreativitas
+ 
+Mekari untuk Asuransi
+Berbagai solusi untuk lancarkan operasional bisnis asuransi
+ 
+Mekari untuk Beauty, Salon, & Gym
+Berbagai solusi untuk jalankan salon & gym lebih gesit
+ 
+Mekari untuk Outsourcing
+Berbagai solusi untuk industri outsourcing yang lebih terkendali
+ 
+Mekari untuk Catering & Bakery
+Berbagai solusi untuk sederhanakan operasional catering & bakery
+ 
+Solusi untuk Ritel Offline
+Software Mekari pilihan untuk optimalkan performa ritel offline
+ 
+Mekari untuk Firma Hukum
+Software Mekari pilihan untuk automasikan operasional firma hukum
+ 
+Mekari untuk Perusahaan Fintech
+Software Mekari pilihan untuk operasional fintech lebih efisien
+ 
+Solusi
+ 
+Alternatif Sistem
+ 
+Alternatif LMS
+Sistem pembelajaran yang efektif dan efisien
+ 
+Alternatif ERP
+Sistem ERP yang fleksibel dan mudah digunakan
+ 
+Aplikasi Sales CRM
+Alternatif CRM Penjualan all-in-one untuk pertumbuhan bisnis
+ 
+Software Payroll
+Alternatif software payroll yang cepat dan akurat
+ 
+Aplikasi WA Blast
+Kirim ribuan pesan WhatsApp tanpa diblokir, terintegrasi dengan CRM dan chatbot
+ 
+WhatsApp Business API
+Solusi WhatsApp API Resmi dari BSP Meta Indonesia
+ 
+Aplikasi HRIS
+Alternatif HRIS modern untuk bisnis Indonesia
+Resources
+ 
+Resources
+Panduan & literasi
+ 
+Integrasi & Kemitraan
+ 
+Program & Promosi
+ 
+Tentang Mekari
+ 
+Kisah klien, berita terbaru, & berbagai event serta Community
+Lihat semua resources
+Panduan & literasi
+Blog
+Wawasan, tips, dan cerita untuk membantu bisnis Anda berkembang.
+Event
+Ikuti webinar, workshop, dan konferensi untuk tetap terdepan.
+Berita
+Informasi terbaru tentang produk, kemitraan, dan pencapaian kami.
+Studi Kasus
+Kisah sukses nyata dari bisnis yang menggunakan solusi kami.
+Komunitas
+Terhubung, berbagi, dan tumbuh bersama para profesional bisnis.
+Podcast
+Dengarkan para ahli industri membahas tren, tantangan, dan strategi.
+Ebook
+Panduan mendalam dan kerangka kerja untuk perjalanan bisnis Anda
+Kamus Bisnis
+Definisi sederhana untuk istilah dan konsep bisnis yang kompleks.
+Pusat Bantuan
+Temukan jawaban, panduan, dan tutorial penggunaan produk.
+Integrasi & Kemitraan
+Program partnership
+Akselerasi pertumbuhan bisnis dengan program partnership Mekari Jurnal
+Program Referral
+Rekomendasikan Mekari ke jaringan Anda dan dapatkan insentif menarik.
+Program Reseller
+Bergabunglah sebagai mitra reseller dan kembangkan bisnis Anda bersama Mekari
+Program System Integrator
+Wujudkan solusi yang terintegrasi dan skalabel untuk klien Anda bersama Mekari.
+Temukan Jasa Konsultan
+Jelajahi partner resmi untuk maksimalkan penggunaan Mekari
+Program & Promosi
+Mekari x UOB
+Kelola penggajian bisnis Anda secara otomatis dan efisien dengan dukungan UOB dan Mekari
+Mekari x Rimba House
+Bangun situs web profesional untuk bisnis Anda dengan solusi dari Mekari dan Rimba House
+Mekari x East Ventures
+Akses solusi bisnis eksklusif untuk mempercepat skala startup portofolio Anda bersama East Ventures
+Mekari x Visa
+Tingkatkan keterlibatan pelanggan dan kendalikan keuangan bisnis dengan dukungan dari Visa dan Mekari
+Mekari x BNI Ventures
+Dorong inovasi dan pertumbuhan startup lokal dengan solusi digital dari Mekari dan BNI Ventures
+Mekari x Trihill Capital
+Percepat pertumbuhan startup Anda dengan solusi digital dari Mekari dan dukungan strategis dari Trihill Capital
+Mekari x Bank Raya
+Solusi penggajian modern untuk bisnis digital yang ingin tumbuh lebih cepat bersama Bank Raya
+Mekari x Canva
+Dapatkan Diskon Canva Hingga 30% Lewat Demo Produk Mekari
+Mekari Talenta x Mandiri
+Nikmati kemudahan payroll & HR dengan Mandiri dan Mekari Talenta.
+Mekari Talenta x BRI
+Nikmati kemudahan payroll dan HR dengan Mekari Talenta x BRI
+Mekari Talenta x Bank Saqu
+Nikmati kemudahan payroll dan HR dengan Mekari Talenta x Bank Saqu.
+Tentang Mekari
+Mengapa Mekari
+Alasan memilih Mekari untuk pertumbuhan bisnis Anda
+Karir
+Bergabunglah dan kembangkan karir Anda bersama Mekari
+Hubungi kami
+Hubungi tim Mekari untuk informasi dan dukungan
+Pemberitahuan Privasi
+Ketahui bagaimana Mekari melindungi data Anda
+Persyaratan Layanan
+Syarat dan ketentuan penggunaan layanan Mekari
+Panduan & literasi
+ 
+Integrasi & Kemitraan
+ 
+Program & Promosi
+ 
+Tentang Mekari
+ 
+Kisah klien, berita terbaru, & berbagai event serta Community
+Lihat semua resources
+ 
+Resources
+ 
+Panduan & literasi
+Blog
+Wawasan, tips, dan cerita untuk membantu bisnis Anda berkembang.
+Event
+Ikuti webinar, workshop, dan konferensi untuk tetap terdepan.
+Berita
+Informasi terbaru tentang produk, kemitraan, dan pencapaian kami.
+Studi Kasus
+Kisah sukses nyata dari bisnis yang menggunakan solusi kami.
+Komunitas
+Terhubung, berbagi, dan tumbuh bersama para profesional bisnis.
+Podcast
+Dengarkan para ahli industri membahas tren, tantangan, dan strategi.
+Ebook
+Panduan mendalam dan kerangka kerja untuk perjalanan bisnis Anda
+Kamus Bisnis
+Definisi sederhana untuk istilah dan konsep bisnis yang kompleks.
+Pusat Bantuan
+Temukan jawaban, panduan, dan tutorial penggunaan produk.
+ 
+Resources
+ 
+Integrasi & Kemitraan
+Program partnership
+Akselerasi pertumbuhan bisnis dengan program partnership Mekari Jurnal
+Program Referral
+Rekomendasikan Mekari ke jaringan Anda dan dapatkan insentif menarik.
+Program Reseller
+Bergabunglah sebagai mitra reseller dan kembangkan bisnis Anda bersama Mekari
+Program System Integrator
+Wujudkan solusi yang terintegrasi dan skalabel untuk klien Anda bersama Mekari.
+Temukan Jasa Konsultan
+Jelajahi partner resmi untuk maksimalkan penggunaan Mekari
+ 
+Resources
+ 
+Program & Promosi
+Mekari x UOB
+Kelola penggajian bisnis Anda secara otomatis dan efisien dengan dukungan UOB dan Mekari
+Mekari x Rimba House
+Bangun situs web profesional untuk bisnis Anda dengan solusi dari Mekari dan Rimba House
+Mekari x East Ventures
+Akses solusi bisnis eksklusif untuk mempercepat skala startup portofolio Anda bersama East Ventures
+Mekari x Visa
+Tingkatkan keterlibatan pelanggan dan kendalikan keuangan bisnis dengan dukungan dari Visa dan Mekari
+Mekari x BNI Ventures
+Dorong inovasi dan pertumbuhan startup lokal dengan solusi digital dari Mekari dan BNI Ventures
+Mekari x Trihill Capital
+Percepat pertumbuhan startup Anda dengan solusi digital dari Mekari dan dukungan strategis dari Trihill Capital
+Mekari x Bank Raya
+Solusi penggajian modern untuk bisnis digital yang ingin tumbuh lebih cepat bersama Bank Raya
+Mekari x Canva
+Dapatkan Diskon Canva Hingga 30% Lewat Demo Produk Mekari
+Mekari Talenta x Mandiri
+Nikmati kemudahan payroll & HR dengan Mandiri dan Mekari Talenta.
+Mekari Talenta x BRI
+Nikmati kemudahan payroll dan HR dengan Mekari Talenta x BRI
+Mekari Talenta x Bank Saqu
+Nikmati kemudahan payroll dan HR dengan Mekari Talenta x Bank Saqu.
+ 
+Resources
+ 
+Tentang Mekari
+Mengapa Mekari
+Alasan memilih Mekari untuk pertumbuhan bisnis Anda
+Karir
+Bergabunglah dan kembangkan karir Anda bersama Mekari
+Hubungi kami
+Hubungi tim Mekari untuk informasi dan dukungan
+Pemberitahuan Privasi
+Ketahui bagaimana Mekari melindungi data Anda
+Persyaratan Layanan
+Syarat dan ketentuan penggunaan layanan Mekari
+Harga
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ID
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign in
+ 
+ 
+ 
+ 
+WhatsApp kami
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform software terintegrasi #1 di Indonesia
+ 
+ 
+Ekosistem software terpadu untuk mendukung pertumbuhan bisnis dan profesional
+ 
+Akselerasikan pertumbuhan bisnis dengan automasi operasional, integrasi tanpa hambatan, dan 
+intelligent
+ reporting berbasis AI dari Mekari.
+ 
+ 
+WhatsApp sekarang
+Pelajari ekosistem Mekari
+ 
+ 
+ 
+ 
+ 
+4,5/5
+ 
+ 
+Produk Mekari ditampilkan dalam
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sekilas tentang mekari
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Telah dipercaya oleh 55.000+ bisnis Indonesia dari berbagai industri
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solusi Mekari
+ 
+Temukan solusi Mekari yang paling tepat untuk Anda
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solusi modular
+ 
+Software siap pakai untuk berbagai fungsi bisnis
+ 
+ 
+ 
+ 
+ 
+Cloud-based software
+ 
+Platform
+ 
+Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mekari Talenta
+ 
+ HR & payroll 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pelajari selengkapnya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mekari Jurnal
+ 
+ Akuntansi & supply chain 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pelajari selengkapnya
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== product :: https://mekari.com/produk/officeless/platform/
+--- SIGNALS ---
+title: Platform Low-code/No-code untuk Kembangkan Aplikasi Lebih Cepat & Cerdas
+meta_description: Mudah kembangkan aplikasi menggunakan platform low-code/no-code, pre-built template terkostumisasi serta integrasi workflow hingga pembuatan plugin.
+og_description: Mudah kembangkan aplikasi menggunakan platform low-code/no-code, pre-built template terkostumisasi serta integrasi workflow hingga pembuatan plugin.
+og_site_name: Mekari
+h1: Platform low-code/no-code untuk kembangkan aplikasi lebih cepat dan cerdas
+h2: Telah dipercaya oleh berbagai perusahaan ternama | Kesuksesan bisnis modern dipengaruhi oleh implementasi solusi digital yang tepat | Fitur unggulan platform Mekari Officeless | Alasan platform Mekari Officeless jadi solusi digital yang tepat | Dengar langsung dari klien kami | Mengapa memilih Mekari Officeless untuk bisnis Anda | Frequently Asked Questions | Solusi digital untuk jawab tantangan bisnis Anda
+jsonld_org: [{"@type": "Organization", "@id": "https://mekari.com/#organization", "name": "PT Mid Solusi Nusantara", "alternateName": "Mekari", "url": "https://mekari.com/", "logo": {"@type": "ImageObject", "inLanguage": "id", "@id": "https://mekari.com/#/schema/logo/image/", "url": "https://mekari.com/wp-content/uploads/2024/02/icm-logomark.webp", "contentUrl": "https://mekari.com/wp-content/uploads/2024/02/icm-logomark.webp", "width": 240, "height": 240, "caption": "PT Mid Solusi Nusantara"}, "image": {"@id": "https://mekari.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/mekaricom", "https://x.com/mekaricom", "https://www.instagram.com/mekaricom/", "https://id.linkedin.com/company/mekari", "https://www.youtube.com/channel/UClgJG7J-GrEbqNBSaMi-cWQ", "https://www.tiktok.com/@mekaricom"], "description": "Mekari, or PT Mid Solusi Nusantara, is an Indonesian SaaS company that provides cloud-based business solutions to help companies grow through digital transformation.", "email": "marketing@mekari.com", "telephone": "1500069", "legalName": "PT Mid Solusi Nusantara", "foundingDate": "2015-02-18", "numberOfEmployees": {"@type": "QuantitativeValue", "minValue": "1001", "maxValue": "5000"}}]
+--- TEXT ---
+Platform Low-code/No-code untuk Kembangkan Aplikasi Lebih Cepat & Cerdas
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Produk & Layanan
+ 
+ 
+Produk & Layanan
+ 
+Mekari Talenta
+Software HR & manajemen karyawan
+ 
+Mekari Jurnal
+Software akuntansi & supply chain
+ 
+Mekari Qontak
+Software CRM & omnichannel
+ 
+Mekari Sign
+Software otorisasi & tanda tangan digital
+ 
+Mekari Flex
+Software manajemen dukungan karyawan
+ 
+Mekari Desty
+Software untuk kelola marketplace dan toko offline
+ 
+Mekari Expense
+Software manajemen anggaran & pengeluaran
+ 
+Mekari Pay
+Software manajemen transaksi bisnis
+ 
+Mekari Capital
+Software manajemen pembiayaan bisnis
+ 
+Mekari Officeless
+Solusi custom aplikasi bisnis berbasis low code/no code
+ 
+Mekari Klikpajak
+Software manajemen pajak karyawan & bisnis
+ 
+Mekari University
+Layanan pelatihan profesional tersertifikasi
+Inovasi software-as-a-service Mekari untuk manajemen bisnis
+Lihat semua produk Mekari
+Solusi
+ 
+Solusi
+Skala Bisnis
+ 
+Lingkup Kerja
+ 
+Industri
+ 
+Alternatif Sistem
+ 
+Jawaban tepat untuk kebutuhan bisnis Anda
+Pelajari solusi Mekari
+Skala Bisnis
+ 
+Mekari untuk Startup
+Mempercepat pertumbuhan startup Anda
+ 
+Mekari untuk UMKM
+Solusi sederhana untuk UMKM berkembang
+ 
+Large Enterprise
+Efisiensi maksimal untuk korporasi besar
+Lingkup Kerja
+ 
+Mekari untuk HR
+Optimalkan manajemen SDM Anda
+ 
+Mekari untuk Keuangan
+Kelola keuangan dengan lebih mudah
+ 
+Mekari untuk Penjualan
+Tingkatkan kinerja tim penjualan
+ 
+Mekari untuk Pemasaran
+Maksimalkan efektivitas pemasaran
+ 
+Mekari untuk Legal
+Kelola kepatuhan dan dokumen hukum
+ 
+Mekari untuk IT
+Solusi teknologi untuk tim IT Anda
+ 
+Mekari untuk Procurement
+Software Mekari pilihan untuk dukung tim procurement
+Industri
+ 
+Mekari untuk Logistik
+Optimalkan rantai pasok dan distribusi
+ 
+Mekari untuk Manufaktur
+Tingkatkan efisiensi produksi
+ 
+Mekari untuk Perdagangan
+Kelola transaksi dan inventaris dengan mudah
+ 
+Mekari untuk Hospitality
+Solusi untuk layanan dan operasional hotel
+ 
+Mekari untuk Kesehatan
+Kelola layanan dan administrasi kesehatan
+ 
+Mekari untuk Retail
+Tingkatkan manajemen toko dan pelanggan
+ 
+Mekari untuk Migas
+Solusi untuk industri minyak dan gas
+ 
+Mekari untuk Pertanian
+Optimalkan produksi dan distribusi pertanian
+ 
+Mekari untuk F&B
+Solusi manajemen bisnis makanan dan minuman
+ 
+Mekari untuk Pertambangan
+Berbagai solusi untuk operasional industri tambang lebih terkendali
+ 
+Mekari untuk Pendidikan
+Berbagai solusi untuk jalankan bisnis pendidikan lebih yakin
+ 
+Mekari untuk Perbankan
+Berbagai solusi untuk operasional industri tambang lebih terkendali
+ 
+Mekari untuk Sektor Pemerintah
+Berbagai solusi untuk digitalisasikan operasional sektor pemerintah
+ 
+Mekari untuk Media Entertainment
+Berbagai solusi untuk sederhanakan sisi bisnis kreativitas
+ 
+Mekari untuk Asuransi
+Berbagai solusi untuk lancarkan operasional bisnis asuransi
+ 
+Mekari untuk Beauty, Salon, & Gym
+Berbagai solusi untuk jalankan salon & gym lebih gesit
+ 
+Mekari untuk Outsourcing
+Berbagai solusi untuk industri outsourcing yang lebih terkendali
+ 
+Mekari untuk Catering & Bakery
+Berbagai solusi untuk sederhanakan operasional catering & bakery
+ 
+Solusi untuk Ritel Offline
+Software Mekari pilihan untuk optimalkan performa ritel offline
+ 
+Mekari untuk Firma Hukum
+Software Mekari pilihan untuk automasikan operasional firma hukum
+ 
+Mekari untuk Perusahaan Fintech
+Software Mekari pilihan untuk operasional fintech lebih efisien
+Alternatif Sistem
+ 
+Alternatif LMS
+Sistem pembelajaran yang efektif dan efisien
+ 
+Alternatif ERP
+Sistem ERP yang fleksibel dan mudah digunakan
+ 
+Aplikasi Sales CRM
+Alternatif CRM Penjualan all-in-one untuk pertumbuhan bisnis
+ 
+Software Payroll
+Alternatif software payroll yang cepat dan akurat
+ 
+Aplikasi WA Blast
+Kirim ribuan pesan WhatsApp tanpa diblokir, terintegrasi dengan CRM dan chatbot
+ 
+WhatsApp Business API
+Solusi WhatsApp API Resmi dari BSP Meta Indonesia
+ 
+Aplikasi HRIS
+Alternatif HRIS modern untuk bisnis Indonesia
+Skala Bisnis
+ 
+Lingkup Kerja
+ 
+Industri
+ 
+Alternatif Sistem
+ 
+Jawaban tepat untuk kebutuhan bisnis Anda
+Pelajari solusi Mekari
+ 
+Solusi
+ 
+Skala Bisnis
+ 
+Mekari untuk Startup
+Mempercepat pertumbuhan startup Anda
+ 
+Mekari untuk UMKM
+Solusi sederhana untuk UMKM berkembang
+ 
+Large Enterprise
+Efisiensi maksimal untuk korporasi besar
+ 
+Solusi
+ 
+Lingkup Kerja
+ 
+Mekari untuk HR
+Optimalkan manajemen SDM Anda
+ 
+Mekari untuk Keuangan
+Kelola keuangan dengan lebih mudah
+ 
+Mekari untuk Penjualan
+Tingkatkan kinerja tim penjualan
+ 
+Mekari untuk Pemasaran
+Maksimalkan efektivitas pemasaran
+ 
+Mekari untuk Legal
+Kelola kepatuhan dan dokumen hukum
+ 
+Mekari untuk IT
+Solusi teknologi untuk tim IT Anda
+ 
+Mekari untuk Procurement
+Software Mekari pilihan untuk dukung tim procurement
+ 
+Solusi
+ 
+Industri
+ 
+Mekari untuk Logistik
+Optimalkan rantai pasok dan distribusi
+ 
+Mekari untuk Manufaktur
+Tingkatkan efisiensi produksi
+ 
+Mekari untuk Perdagangan
+Kelola transaksi dan inventaris dengan mudah
+ 
+Mekari untuk Hospitality
+Solusi untuk layanan dan operasional hotel
+ 
+Mekari untuk Kesehatan
+Kelola layanan dan administrasi kesehatan
+ 
+Mekari untuk Retail
+Tingkatkan manajemen toko dan pelanggan
+ 
+Mekari untuk Migas
+Solusi untuk industri minyak dan gas
+ 
+Mekari untuk Pertanian
+Optimalkan produksi dan distribusi pertanian
+ 
+Mekari untuk F&B
+Solusi manajemen bisnis makanan dan minuman
+ 
+Mekari untuk Pertambangan
+Berbagai solusi untuk operasional industri tambang lebih terkendali
+ 
+Mekari untuk Pendidikan
+Berbagai solusi untuk jalankan bisnis pendidikan lebih yakin
+ 
+Mekari untuk Perbankan
+Berbagai solusi untuk operasional industri tambang lebih terkendali
+ 
+Mekari untuk Sektor Pemerintah
+Berbagai solusi untuk digitalisasikan operasional sektor pemerintah
+ 
+Mekari untuk Media Entertainment
+Berbagai solusi untuk sederhanakan sisi bisnis kreativitas
+ 
+Mekari untuk Asuransi
+Berbagai solusi untuk lancarkan operasional bisnis asuransi
+ 
+Mekari untuk Beauty, Salon, & Gym
+Berbagai solusi untuk jalankan salon & gym lebih gesit
+ 
+Mekari untuk Outsourcing
+Berbagai solusi untuk industri outsourcing yang lebih terkendali
+ 
+Mekari untuk Catering & Bakery
+Berbagai solusi untuk sederhanakan operasional catering & bakery
+ 
+Solusi untuk Ritel Offline
+Software Mekari pilihan untuk optimalkan performa ritel offline
+ 
+Mekari untuk Firma Hukum
+Software Mekari pilihan untuk automasikan operasional firma hukum
+ 
+Mekari untuk Perusahaan Fintech
+Software Mekari pilihan untuk operasional fintech lebih efisien
+ 
+Solusi
+ 
+Alternatif Sistem
+ 
+Alternatif LMS
+Sistem pembelajaran yang efektif dan efisien
+ 
+Alternatif ERP
+Sistem ERP yang fleksibel dan mudah digunakan
+ 
+Aplikasi Sales CRM
+Alternatif CRM Penjualan all-in-one untuk pertumbuhan bisnis
+ 
+Software Payroll
+Alternatif software payroll yang cepat dan akurat
+ 
+Aplikasi WA Blast
+Kirim ribuan pesan WhatsApp tanpa diblokir, terintegrasi dengan CRM dan chatbot
+ 
+WhatsApp Business API
+Solusi WhatsApp API Resmi dari BSP Meta Indonesia
+ 
+Aplikasi HRIS
+Alternatif HRIS modern untuk bisnis Indonesia
+Resources
+ 
+Resources
+Panduan & literasi
+ 
+Integrasi & Kemitraan
+ 
+Program & Promosi
+ 
+Tentang Mekari
+ 
+Kisah klien, berita terbaru, & berbagai event serta Community
+Lihat semua resources
+Panduan & literasi
+Blog
+Wawasan, tips, dan cerita untuk membantu bisnis Anda berkembang.
+Event
+Ikuti webinar, workshop, dan konferensi untuk tetap terdepan.
+Berita
+Informasi terbaru tentang produk, kemitraan, dan pencapaian kami.
+Studi Kasus
+Kisah sukses nyata dari bisnis yang menggunakan solusi kami.
+Komunitas
+Terhubung, berbagi, dan tumbuh bersama para profesional bisnis.
+Podcast
+Dengarkan para ahli industri membahas tren, tantangan, dan strategi.
+Ebook
+Panduan mendalam dan kerangka kerja untuk perjalanan bisnis Anda
+Kamus Bisnis
+Definisi sederhana untuk istilah dan konsep bisnis yang kompleks.
+Pusat Bantuan
+Temukan jawaban, panduan, dan tutorial penggunaan produk.
+Integrasi & Kemitraan
+Program partnership
+Akselerasi pertumbuhan bisnis dengan program partnership Mekari Jurnal
+Program Referral
+Rekomendasikan Mekari ke jaringan Anda dan dapatkan insentif menarik.
+Program Reseller
+Bergabunglah sebagai mitra reseller dan kembangkan bisnis Anda bersama Mekari
+Program System Integrator
+Wujudkan solusi yang terintegrasi dan skalabel untuk klien Anda bersama Mekari.
+Temukan Jasa Konsultan
+Jelajahi partner resmi untuk maksimalkan penggunaan Mekari
+Program & Promosi
+Mekari x UOB
+Kelola penggajian bisnis Anda secara otomatis dan efisien dengan dukungan UOB dan Mekari
+Mekari x Rimba House
+Bangun situs web profesional untuk bisnis Anda dengan solusi dari Mekari dan Rimba House
+Mekari x East Ventures
+Akses solusi bisnis eksklusif untuk mempercepat skala startup portofolio Anda bersama East Ventures
+Mekari x Visa
+Tingkatkan keterlibatan pelanggan dan kendalikan keuangan bisnis dengan dukungan dari Visa dan Mekari
+Mekari x BNI Ventures
+Dorong inovasi dan pertumbuhan startup lokal dengan solusi digital dari Mekari dan BNI Ventures
+Mekari x Trihill Capital
+Percepat pertumbuhan startup Anda dengan solusi digital dari Mekari dan dukungan strategis dari Trihill Capital
+Mekari x Bank Raya
+Solusi penggajian modern untuk bisnis digital yang ingin tumbuh lebih cepat bersama Bank Raya
+Mekari x Canva
+Dapatkan Diskon Canva Hingga 30% Lewat Demo Produk Mekari
+Mekari Talenta x Mandiri
+Nikmati kemudahan payroll & HR dengan Mandiri dan Mekari Talenta.
+Mekari Talenta x BRI
+Nikmati kemudahan payroll dan HR dengan Mekari Talenta x BRI
+Mekari Talenta x Bank Saqu
+Nikmati kemudahan payroll dan HR dengan Mekari Talenta x Bank Saqu.
+Tentang Mekari
+Mengapa Mekari
+Alasan memilih Mekari untuk pertumbuhan bisnis Anda
+Karir
+Bergabunglah dan kembangkan karir Anda bersama Mekari
+Hubungi kami
+Hubungi tim Mekari untuk informasi dan dukungan
+Pemberitahuan Privasi
+Ketahui bagaimana Mekari melindungi data Anda
+Persyaratan Layanan
+Syarat dan ketentuan penggunaan layanan Mekari
+Panduan & literasi
+ 
+Integrasi & Kemitraan
+ 
+Program & Promosi
+ 
+Tentang Mekari
+ 
+Kisah klien, berita terbaru, & berbagai event serta Community
+Lihat semua resources
+ 
+Resources
+ 
+Panduan & literasi
+Blog
+Wawasan, tips, dan cerita untuk membantu bisnis Anda berkembang.
+Event
+Ikuti webinar, workshop, dan konferensi untuk tetap terdepan.
+Berita
+Informasi terbaru tentang produk, kemitraan, dan pencapaian kami.
+Studi Kasus
+Kisah sukses nyata dari bisnis yang menggunakan solusi kami.
+Komunitas
+Terhubung, berbagi, dan tumbuh bersama para profesional bisnis.
+Podcast
+Dengarkan para ahli industri membahas tren, tantangan, dan strategi.
+Ebook
+Panduan mendalam dan kerangka kerja untuk perjalanan bisnis Anda
+Kamus Bisnis
+Definisi sederhana untuk istilah dan konsep bisnis yang kompleks.
+Pusat Bantuan
+Temukan jawaban, panduan, dan tutorial penggunaan produk.
+ 
+Resources
+ 
+Integrasi & Kemitraan
+Program partnership
+Akselerasi pertumbuhan bisnis dengan program partnership Mekari Jurnal
+Program Referral
+Rekomendasikan Mekari ke jaringan Anda dan dapatkan insentif menarik.
+Program Reseller
+Bergabunglah sebagai mitra reseller dan kembangkan bisnis Anda bersama Mekari
+Program System Integrator
+Wujudkan solusi yang terintegrasi dan skalabel untuk klien Anda bersama Mekari.
+Temukan Jasa Konsultan
+Jelajahi partner resmi untuk maksimalkan penggunaan Mekari
+ 
+Resources
+ 
+Program & Promosi
+Mekari x UOB
+Kelola penggajian bisnis Anda secara otomatis dan efisien dengan dukungan UOB dan Mekari
+Mekari x Rimba House
+Bangun situs web profesional untuk bisnis Anda dengan solusi dari Mekari dan Rimba House
+Mekari x East Ventures
+Akses solusi bisnis eksklusif untuk mempercepat skala startup portofolio Anda bersama East Ventures
+Mekari x Visa
+Tingkatkan keterlibatan pelanggan dan kendalikan keuangan bisnis dengan dukungan dari Visa dan Mekari
+Mekari x BNI Ventures
+Dorong inovasi dan pertumbuhan startup lokal dengan solusi digital dari Mekari dan BNI Ventures
+Mekari x Trihill Capital
+Percepat pertumbuhan startup Anda dengan solusi digital dari Mekari dan dukungan strategis dari Trihill Capital
+Mekari x Bank Raya
+Solusi penggajian modern untuk bisnis digital yang ingin tumbuh lebih cepat bersama Bank Raya
+Mekari x Canva
+Dapatkan Diskon Canva Hingga 30% Lewat Demo Produk Mekari
+Mekari Talenta x Mandiri
+Nikmati kemudahan payroll & HR dengan Mandiri dan Mekari Talenta.
+Mekari Talenta x BRI
+Nikmati kemudahan payroll dan HR dengan Mekari Talenta x BRI
+Mekari Talenta x Bank Saqu
+Nikmati kemudahan payroll dan HR dengan Mekari Talenta x Bank Saqu.
+ 
+Resources
+ 
+Tentang Mekari
+Mengapa Mekari
+Alasan memilih Mekari untuk pertumbuhan bisnis Anda
+Karir
+Bergabunglah dan kembangkan karir Anda bersama Mekari
+Hubungi kami
+Hubungi tim Mekari untuk informasi dan dukungan
+Pemberitahuan Privasi
+Ketahui bagaimana Mekari melindungi data Anda
+Persyaratan Layanan
+Syarat dan ketentuan penggunaan layanan Mekari
+Harga
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ID
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign in
+ 
+ 
+ 
+ 
+WhatsApp kami
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mekari Officeless
+ 
+ 
+ 
+ 
+Overview
+Overview
+Platform
+ 
+Workflow Builder
+Platform otomasi dan integrasi sistem
+Tentang platform pengembangan sistem enterprise custom
+Pelajari selengkapnya
+Service
+ 
+Custom Software Service
+Layanan pembuatan enterprise software
+ 
+Workflow Service
+Layanan otomasi dan integrasi sistem
+ 
+Analytics Service
+Layanan pembuatan dashboard data terintegrasi
+Tentang layanan pengembangan sistem enterprise custom
+Pelajari selengkapnya
+Platform
+ 
+Workflow Builder
+Platform otomasi dan integrasi sistem
+Tentang platform pengembangan sistem enterprise custom
+Pelajari selengkapnya
+Service
+ 
+Custom Software Service
+Layanan pembuatan enterprise software
+ 
+Workflow Service
+Layanan otomasi dan integrasi sistem
+ 
+Analytics Service
+Layanan pembuatan dashboard data terintegrasi
+Tentang layanan pengembangan sistem enterprise custom
+Pelajari selengkapnya
+Use Cases
+Use Cases
+ 
+Sistem Manajemen K3
+Mengoptimalkan kepatuhan K3
+ 
+Software e-Procurement
+Optimalkan sistem procurement
+ 
+Workplace Management
+Sistem holistik terintegrasi
+ 
+Facility Management
+Kelola fasilitas efisien
+ 
+Visitor Management
+Manajemen kun

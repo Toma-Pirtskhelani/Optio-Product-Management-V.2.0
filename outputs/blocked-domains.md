@@ -3,7 +3,7 @@
 Companies this pass could not reach at Rungs 1–2. **No paste was requested during the pass**
 and **no user-agent was spoofed** to get past a refusal.
 
-**12 of 90 attempted (13%).**
+**14 of 110 attempted (13%).**
 
 | Company | Cause | Best HTTP | Candidates tried |
 |---|---|---|---|
@@ -15,15 +15,17 @@ and **no user-agent was spoofed** to get past a refusal.
 | MessageGears | blocked (403/401/429) | 403 | messagegears.com, www.messagegears.com, messagegears.io, www.messagegears.io, me |
 | Mindmatrix | HTTP 503 | 503 | mindmatrix.com, www.mindmatrix.com, mindmatrix.io, www.mindmatrix.io, mindmatrix |
 | NewZapp | blocked (403/401/429) | 403 | newzapp.com, www.newzapp.com, newzapp.io, www.newzapp.io, newzapp.ai, www.newzap |
+| PAR | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | par.com, par.io, www.par.io, par.ai, www.par.ai, par.co, www.par.co |
 | SAP | blocked (403/401/429) | 403 | sap.com, www.sap.com, sap.io, www.sap.io, sap.ai, www.sap.ai, sap.co, www.sap.co |
+| SAS | blocked (403/401/429) | 403 | sas.com, sas.io, sas.ai, www.sas.ai, sas.co, www.sas.co |
 | Webmaxy | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | webmaxy.com, webmaxy.io, www.webmaxy.io, webmaxy.ai, www.webmaxy.ai, webmaxy.co |
 | Wigzo | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | wigzo.com, wigzo.io, www.wigzo.io, wigzo.ai, www.wigzo.ai, wigzo.co, www.wigzo.c |
 | Zeta | blocked (403/401/429) | 401 | zeta.com, www.zeta.com, zeta.io, zeta.ai, zeta.co |
 
 ## Cause breakdown
 
-- **blocked (403/401/429)** — 6
-- **served a page that did not identify the company (parked, for-sale, or a different owner)** — 4
+- **blocked (403/401/429)** — 7
+- **served a page that did not identify the company (parked, for-sale, or a different owner)** — 5
 - **HTTP 301** — 1
 - **HTTP 503** — 1
 

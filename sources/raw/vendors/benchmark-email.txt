@@ -1,0 +1,3815 @@
+===== llms.txt :: https://www.benchmarkemail.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Benchmark Email
+> Powerfully simple email marketing software for small businesses. Build, send, and track email campaigns — send your first campaign free in under 15 minutes.
+Benchmark Email helps small businesses and marketers grow with easy drag-and-drop email design, list building and segmentation, automation, and reporting. This file points AI agents to our most important pages first, followed by supporting resources.
+## Core Product
+- [Homepage](https://www.benchmarkemail.com/)
+- [Pricing](https://www.benchmarkemail.com/pricing/)
+- [Features](https://www.benchmarkemail.com/features/)
+- [Email Marketing](https://www.benchmarkemail.com/email-marketing/)
+- [Email Builder](https://www.benchmarkemail.com/features/email-builder/)
+- [Signup Forms](https://www.benchmarkemail.com/features/forms/)
+- [Contact Management](https://www.benchmarkemail.com/features/contact-management/)
+- [Reporting & Analytics](https://www.benchmarkemail.com/features/reporting/)
+- [API](https://www.benchmarkemail.com/features/api/)
+- [Integrations](https://www.benchmarkemail.com/integrations/)
+- [Data Regions](https://www.benchmarkemail.com/data-regions/)
+- [About Benchmark Email](https://www.benchmarkemail.com/about-us/)
+- [Contact Sales](https://www.benchmarkemail.com/talk-to-sales/)
+## Product Documentation
+- [Documentation](https://benchmarkemail.helpscoutdocs.com/)
+- [API Documentation](https://www.benchmarkemail.com/features/api/)
+## Industry Solutions
+- [Nonprofits](https://www.benchmarkemail.com/benchmark-email-nonprofits/)
+- [Manufacturing](https://www.benchmarkemail.com/manufacturing/)
+- [Hospitality](https://www.benchmarkemail.com/hospitality/)
+- [Financial Services](https://www.benchmarkemail.com/financial-services/)
+- [Retail](https://www.benchmarkemail.com/retail/)
+## AI & Email Marketing Resources
+- [AI Email Marketing](https://www.benchmarkemail.com/blog/ai-email-marketing/)
+- [AI Email Summaries](https://www.benchmarkemail.com/blog/ai-email-summaries-marketing/)
+- [AI Prompts for Marketers](https://www.benchmarkemail.com/blog/ai-prompts-every-marketer-should-know/)
+- [Email Deliverability](https://www.benchmarkemail.com/blog/email-deliverability-101/)
+- [Email Segmentation](https://www.benchmarkemail.com/blog/email-marketing-segmentation-4-ways-to-divide-your-list/)
+- [Email Personalization](https://www.benchmarkemail.com/blog/personalization/)
+- [Email Analytics](https://www.benchmarkemail.com/blog/email-marketing-analytics-dashboard/)
+- [Internal Linking](https://www.benchmarkemail.com/blog/internal-linking-tree/)
+- [Email Design](https://www.benchmarkemail.com/blog/email-design-best-practices/)
+- [Email Marketing Trends](https://www.benchmarkemail.com/blog/email-marketing-trends-and-tools/)
+- [Blog](https://www.benchmarkemail.com/blog/)
+## Supported Languages
+- English
+- Spanish
+- French
+- German
+- Italian
+- Japanese
+- Traditional Chinese
+- Simplified Chinese
+- Portuguese (Brazil)
+## Product Categories
+- Email Marketing
+- Marketing Automation
+- Email Templates
+- Signup Forms
+- Landing Pages
+- Contact Management
+- Audience Segmentation
+- Email Personalization
+- Transactional Integrations
+- Analytics & Reporting
+- API
+- AI Writing
+- AI Email Optimization
+## Intended Audience
+- Small Businesses
+- Marketing Teams
+- Agencies
+- Ecommerce
+- SaaS
+- Nonprofits
+- Educational Institutions
+- Hospitality
+- Manufacturing
+- Financial Services
+## Get Started
+- [Benchmark Email](https://www.benchmarkemail.com/): Home page and free signup.
+- [Create a free account](https://app.benchmarkemail.io/register): Start sending free in under 15 minutes.
+
+===== homepage :: https://www.benchmarkemail.com/
+--- SIGNALS ---
+title: Email Marketing Software - Benchmark Email
+meta_description: Ditch the clunky tools. Benchmark is the powerfully simple email marketing software that helps you send campaigns in minutes, not hours. Try it free.
+og_description: Ditch the clunky tools. Benchmark is the powerfully simple email marketing software that helps you send campaigns in minutes, not hours. Try it free.
+og_site_name: Benchmark Email
+h1: Effortless Email Marketing. Zero B.S.
+h2: Trusted by businesses who value their time | Email Questions? We've Got you. | Effortless Email Marketing. Zero B.S. | Sign up for free to see how effortless email marketing can be. | Our Company | Compare | Solutions | Compare | Account
+jsonld_org: [{"@type": "Organization", "@id": "https://www.benchmarkemail.com/#organization", "name": "Benchmark Email", "url": "https://www.benchmarkemail.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.benchmarkemail.com/#/schema/logo/image/", "url": "https://www.benchmarkemail.com/wp-content/uploads/2026/07/Benchmark-Logo-Full-Color-RGB-1.png", "contentUrl": "https://www.benchmarkemail.com/wp-content/uploads/2026/07/Benchmark-Logo-Full-Color-RGB-1.png", "width": 150, "height": 28, "caption": "Benchmark Email"}, "image": {"@id": "https://www.benchmarkemail.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/BenchmarkEmail", "https://x.com/benchmarkemail", "https://www.instagram.com/benchmarkemail/", "https://www.linkedin.com/company/benchmark-email/"]}]
+--- TEXT ---
+Email Marketing Software - Benchmark Email
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En
+ 
+Español
+ 
+Deutsch
+ 
+繁體中文
+ 
+简体中文
+ 
+日本語
+ 
+Italiano
+ 
+Português (BR)
+ 
+Français
+Sign Up
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+Features
+Email Editor
+Sign Up Forms
+Contact Management
+Deliverability Tools
+Reporting
+Integrations
+API
+Resources
+Email Marketing Guide
+Free Email Templates
+Guides and Downloads
+Blog
+Customers
+Sign Up
+Login
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark 
+NEW
+ 
+Access the new 
+ platform.
+ 
+ 
+ 
+Access Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark Classic
+ 
+Still using the classic platform? Access it here
+ 
+ 
+ 
+Enter Here
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark 
+NEW
+ 
+Get help with the new platform.
+ 
+ 
+ 
+Get Help
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark Classic
+ 
+Still using the classic platform? Get help here.
+ 
+ 
+ 
+Get Help
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En
+Español
+Deutsch
+繁體中文
+简体中文
+日本語
+Italiano
+Português (BR)
+Français
+Sign Up
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effortless Email Marketing. 
+ Zero B.S. 
+ 
+Upload your contacts. Send an email. Track results.
+Benchmark is
+ 
+email marketing software
+ that anyone can use to send emails in a jiff, backed by experts who care.
+ 
+ 
+Create a Free Account
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+×
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Trusted by businesses who value their time 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Builder
+ Idea to Email, Fast 
+ 
+Our 
+email builder
+ makes it simple for anyone to create professional marketing emails.
+ 
+ 
+Start building
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Management
+ Reach the Right People 
+ 
+A simple 
+subscriber database
+ is easy to filter. Send perfectly targeted emails every time.
+ 
+ 
+Import your list
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subscriber Forms
+ Grow Your List 
+ 
+Drag & drop to design sign-up forms. Copy & paste to embed in any website.
+ 
+ 
+Build your first form
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reporting
+ See What's Working Right Now 
+ 
+Watch 
+email performance
+ in a real-time activity feed, backed by reports.
+ 
+ 
+Send an Email to track
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+ 
+Simple Pricing for a Simple Platform
+ 
+ 
+ 
+ 
+ 
+Get the basic tools you need to stay connected with your audience.
+ 
+ 
+ 
+ 
+ 
+Explore Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free
+ 
+ 
+Forever
+ 
+ 
+$0
+/mo
+ 
+ 
+ 
+Includes
+ 
+ 
+500 contacts
+ 
+2,500 email sends
+ 
+1 user
+ 
+1 verified sending domain
+ 
+Email builder
+ 
+Lists
+ 
+Tags
+ 
+Contact activity feed
+ 
+Forms
+ 
+Reports
+ 
+Chat and email support from experts who care
+ 
+ 
+Start Free Now
+ 
+ 
+ 
+ 
+ 
+ 
+Pro 
+ 
+Recommended
+ 
+ 
+Starting at
+ 
+ 
+$19
+/mo
+ 
+ 
+ 
+Includes
+ 
+ 
+1,000+ contacts
+ 
+Send up to 10x your contact limit every month
+ 
+1 user included
+ 
+Additional users at $15/mo. per user
+ 
+Up to 10 verified sending domains
+ 
+Email builder
+ 
+Lists
+ 
+Tags
+ 
+Contact activity feed
+ 
+Forms
+ 
+Reports
+ 
+Chat and email support from experts who care
+ 
+ 
+Try for free
+ 
+ 
+ 
+ 
+ 
+Enterprise
+ 
+ 
+Starting at
+ 
+ 
+ Get a Quote
+ 
+ 
+ 
+Includes
+ 
+ 
+100,000+ contacts
+ 
+Send up to 10x your contact limit every month
+ 
+1 user
+ 
+Add users at $15/mo. per user
+ 
+Up to 10 verified sending domains
+ 
+Every feature in Pro
+ 
+Dedicated account management
+ 
+Monthly health checks
+ 
+Chat, email and phone support from experts who care
+ 
+ 
+Try for free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+More than 100,000 subscribers?
+ 
+ 
+ 
+ 
+ 
+ 
+Talk to Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ "It seems as if many email platforms proclaim to be easy-to-use in the face of blatant complication... 
+ 
+What I love most about Benchmark is how easy it is to just create an email and send it. I can build the layout I want without feeling constrained by templates, and the reporting is clear and intuitive."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Val Lynn Booth 
+ 
+LoKation Mortgage
+ 
+ 
+ 
+ 
+ 
+More success stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simple Features, Powerful Results 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effortless Email Editor 
+ 
+Build beautiful emails in minutes. No coding required.
+ 
+ 
+ 
+ 
+ 
+ 
+ Lists & Tags 
+ 
+Keep contacts organized and segment smarter.
+ 
+ 
+ 
+ 
+ 
+ 
+ Mobile-First Design 
+ 
+Your emails look perfect on any device.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Segmentation 
+ 
+Send personalized, targeted campaigns with ease.
+ 
+ 
+ 
+ 
+ 
+ 
+ Image Library 
+ 
+Access free assets and manage all visuals in one place.
+ 
+ 
+ 
+ 
+ 
+ 
+ Personalization 
+ 
+Add contact details to make every email feel more human.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Activity Feed 
+ 
+See real-time engagement and tailor follow-ups.
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Import 
+ 
+Upload contacts in seconds. No data headaches here!
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscriber Forms 
+ 
+Drag & Drop to build branded sign-up forms that grow your list.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ The email marketing tool for people who just need it done. 
+ 
+ 
+ 
+The easiest way to check email marketing off of your list.
+No experience needed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Retail 
+ 
+Learn More
+ 
+ 
+ 
+ 
+ 
+ 
+ Hospitality 
+ 
+Learn More
+ 
+ 
+ 
+ 
+ 
+ 
+ Manufacturing 
+ 
+Learn More
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial services 
+ 
+Learn More
+ 
+ 
+ 
+ 
+ 
+ 
+ Nonprofits 
+ 
+Learn More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email Questions? We've Got you. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why should I choose Benchmark Email?
+ 
+Expand
+ 
+ 
+ 
+ 
+Unlike most email platforms that have turned into bloated marketing suites, we've stripped email marketing down to what actually matters. You're busy and just need to get emails out the door. We're simple and here to help if you hit a snag.
+ 
+ 
+ 
+ 
+ 
+ 
+Can I build an email with no design experience?
+ 
+Expand
+ 
+ 
+ 
+ 
+Definitely. Our email marketing platform includes a drag-and-drop email builder, professionally designed email templates, and pre-built layouts making Benchmark ideal for beginners and pros alike.
+ 
+ 
+ 
+ 
+ 
+ 
+Is Benchmark Email ideal for small businesses?
+ 
+Expand
+ 
+ 
+ 
+ 
+You betcha. Its user-friendly interface, drag-and-drop tools, and pre-built templates make it easy for small businesses to send newsletters, promotions, and updates. No email marketing expertise is required.
+ 
+ 
+ 
+ 
+ 
+ 
+Can I track my email campaign performance?
+ 
+Expand
+ 
+ 
+ 
+ 
+Absolutely. Our reporting is designed to surface the core insights you need to improve your email marketing results over time. 
+ 
+ 
+ 
+ 
+ 
+ 
+Will my emails get delivered to the inbox?
+ 
+Expand
+ 
+ 
+ 
+ 
+Yes, and you won't have to stress about it. Our sending infrastructure is built to get your marketing emails to inboxes, not spam folders. We handle the technical heavy lifting so you can focus on your message, not deliverability headaches. Plus, if you ever have questions, you'll get support from real people (not bots) who actually want to help you succeed.
+ 
+ 
+ 
+ 
+ 
+ 
+Can I try it for free and upgrade later if I like it?
+ 
+Expand
+ 
+ 
+ 
+ 
+Of course. Our free plan includes 500 contacts and up to 2,500 email sends per month. All of our features are include in our free plan, so there’s no surprises when you upgrade as your subscriber list and email volume grows.
+ 
+ 
+ 
+ 
+ 
+ 
+What if I have an issue?
+ 
+Expand
+ 
+ 
+ 
+ 
+We’d love to help! We don’t hide our support behind exclusive plans or unruly chatbots. Whether you're sending your first email newsletter or your thousandth promotional campaign, we're ready to answer questions, troubleshoot issues, or help you get better results. 
+Reach out to us >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Still have questions? 
+ 
+Get in touch with our support team-we're just a message away.
+ 
+ 
+ 
+ 
+Let's Talk
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Effortless Email Marketing. Zero B.S.
+ 
+ 
+ 
+ 
+ 
+Send smarter, not harder. Make email marketing the easiest part of your day with Benchmark.
+ 
+ 
+ 
+ 
+ 
+Try It Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A powerfully simple email marketing platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No Junk, Just Gems in Your Inbox 
+ 
+ Subscribe for monthly email marketing insights that are actually worth reading—because you don't have time for fluff.
+ 
+ 
+ 
+ 
+ 
+ 
+Email address
+ 
+ 
+ 
+ 
+I have read and accept the 
+Privacy Policy
+.
+ 
+ 
+ 
+ 
+ 
+ 
+You need to accept the privacy policy to subscribe.
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thank You for Joining!
+ 
+Oficialmente, has dejado atrás las tonterías🎉
+ 
+Expect monthly email marketing tips that help you work smarter—practical, actionable, and worth your time.
+ 
+We’re excited to support your email marketing journey!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign up for free to see how effortless email marketing can be.
+ 
+ 
+ 
+ 
+ 
+ 
+Start Free Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our Company
+ 
+ 
+ 
+ 
+ 
+ 
+About Us
+Our Customers
+Contact
+Updates
+Affiliate Program
+ 
+ 
+ 
+ 
+ 
+ 
+Compare
+ 
+ 
+ 
+ 
+ 
+ 
+Email Marketing Software
+Benchmark Email vs. Mailchimp
+Constant Contact vs. Mailchimp
+Best Mailchimp Alternatives
+Constant Contact vs. Benchmark Email
+Moosend vs. tinyEmail
+Benchmark Email vs. MailerLite
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+Retail
+Hospitality
+Manufacturing
+Financial services
+Nonprofits
+ 
+ 
+ 
+ 
+ 
+ 
+Compare
+ 
+ 
+ 
+ 
+ 
+ 
+Email Marketing Software
+Benchmark Email vs. Mailchimp
+Constant Contact vs. Mailchimp
+Best Mailchimp Alternatives
+Constant Contact vs. Benchmark Email
+Moosend vs. tinyEmail
+Benchmark Email vs. MailerLite
+ 
+ 
+ 
+ 
+ 
+ 
+Account
+ 
+ 
+ 
+ 
+ 
+ 
+Sign Up
+Login
+ 
+.
+Login
+Get Help
+ 
+.
+Get Help
+ 
+Benchmark Email
+ 
+ 
+Need a hand with the new platform?
+ 
+Support Hub
+ 
+Benchmark Classic
+ 
+ 
+Need help with the classic platform?
+ 
+Help Center
+Status
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terms
+ 
+Privacy
+ 
+ Cookie Settings
+ 
+Sitemap
+ 
+ 
+English 
+ 
+ 
+Español
+ 
+Deutsch
+ 
+繁體中文
+ 
+简体中文
+ 
+日本語
+ 
+Italiano
+ 
+Português (BR)
+ 
+Français
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Polaris Software
+, 
+LLC
+ Benchmark Email® is a registered trademark of 
+ Polaris Software, LLC
+ 
+© Polaris Software
+, 
+LLC
+Benchmark Email® is a registered trademark of 
+ Polaris Software, LLC
+ 
+ 
+ 
+ 
+ 
+ 
+Terms
+ 
+Privacy
+ 
+ Cookie Settings
+ 
+Sitemap
+ 
+ 
+English 
+ 
+ 
+Español
+ 
+Deutsch
+ 
+繁體中文
+ 
+简体中文
+ 
+日本語
+ 
+Italiano
+ 
+Português (BR)
+ 
+Français
+
+===== product :: https://www.benchmarkemail.com/features/
+--- SIGNALS ---
+title: Email Marketing Features - Benchmark Email
+meta_description: Design professional emails. Grow your subscriber list. Automate campaigns. Build beautiful landing pages. Track your email marketing metrics.
+og_description: Design professional emails. Grow your subscriber list. Automate campaigns. Build beautiful landing pages. Track your email marketing metrics.
+og_site_name: Benchmark Email
+h1: Send Impactful Emails in Minutes, Not Hours
+h2: Marketing moves fast. Software shouldn’t hold you back. | Email, at the Speed of Marketing | How Fast Can You Send? This Fast. | Pick a Template | Customize & Personalize in Seconds | Choose a List | Send & Track Engagement in Real-Time | No delays. No complexity. Just fast, effective email marketing. | Want to Dive Deeper? Explore Benchmark’s Features | Sign up for free to see how effortless email marketing can be. | Our Company | Compare | Solutions | Compare | Account
+jsonld_org: [{"@type": "Organization", "@id": "https://www.benchmarkemail.com/#organization", "name": "Benchmark Email", "url": "https://www.benchmarkemail.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.benchmarkemail.com/#/schema/logo/image/", "url": "https://www.benchmarkemail.com/wp-content/uploads/2026/07/Benchmark-Logo-Full-Color-RGB-1.png", "contentUrl": "https://www.benchmarkemail.com/wp-content/uploads/2026/07/Benchmark-Logo-Full-Color-RGB-1.png", "width": 150, "height": 28, "caption": "Benchmark Email"}, "image": {"@id": "https://www.benchmarkemail.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/BenchmarkEmail", "https://x.com/benchmarkemail", "https://www.instagram.com/benchmarkemail/", "https://www.linkedin.com/company/benchmark-email/"]}]
+--- TEXT ---
+Email Marketing Features - Benchmark Email
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En
+ 
+Español
+ 
+Deutsch
+ 
+繁體中文
+ 
+简体中文
+ 
+日本語
+ 
+Italiano
+ 
+Português (BR)
+ 
+Français
+Sign Up
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+Features
+Email Editor
+Sign Up Forms
+Contact Management
+Deliverability Tools
+Reporting
+Integrations
+API
+Resources
+Email Marketing Guide
+Free Email Templates
+Guides and Downloads
+Blog
+Customers
+Sign Up
+Login
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark 
+NEW
+ 
+Access the new 
+ platform.
+ 
+ 
+ 
+Access Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark Classic
+ 
+Still using the classic platform? Access it here
+ 
+ 
+ 
+Enter Here
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark 
+NEW
+ 
+Get help with the new platform.
+ 
+ 
+ 
+Get Help
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark Classic
+ 
+Still using the classic platform? Get help here.
+ 
+ 
+ 
+Get Help
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En
+Español
+Deutsch
+繁體中文
+简体中文
+日本語
+Italiano
+Português (BR)
+Français
+Sign Up
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Send Impactful Emails in Minutes, Not Hours 
+ 
+From idea to inbox in record time - no stress, no guesswork.
+ 
+ 
+ 
+ 
+Try it free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Marketing moves fast. Software shouldn’t hold you back. 
+ 
+Traditional email marketing is slow. Designing, writing, segmenting, and scheduling can take hours. With Benchmark Email, you can create and send high-converting emails in minutes (no expertise required).
+ 
+ 
+ 
+ 
+ 
+ 
+ Spending too much time on emails? 
+ 
+Design with a lightning-fast drag & drop builder.
+ 
+ 
+ 
+ 
+ Messy, outdated contact lists? 
+ 
+Get to the heart of your segment with tags, lists, and powerful filters.
+ 
+ 
+ 
+ 
+ No clue what’s working? 
+ 
+Instantly understand with a real-time activity feed and crystal-clear reporting.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email, at the Speed of Marketing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Build & Send Faster 
+ 
+Drag, drop, and send in minutes. No coding, no hassle.
+ 
+ 
+Start Free Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Instantly Improve Content 
+ 
+Enhance subject lines & email copy for spelling, grammar, tone, length and more -  instantly.
+ 
+ 
+Start Free Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Target the Right Audience Every Time 
+ 
+Tag and segment contacts to create dynamic lists that update automatically. No more manual contact management.
+ 
+ 
+Start Free Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See Engagement in Real Time 
+ 
+Know who’s opening and clicking the moment it happens with the live Contact Activity Feed.
+ 
+ 
+Start Free Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See What’s Working & Optimize on the Fly 
+ 
+Easily interpret email performance metrics so you can adjust your strategy instantly.
+ 
+ 
+Start Free Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Launch an email campaign in minutes, not hours. 
+ 
+ 
+Try it free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How Fast Can You Send? This Fast. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pick a Template 
+ 
+Easily interpret email performance metrics so you can adjust your strategy instantly.
+ 
+ 
+ 
+ Customize & Personalize in Seconds 
+ 
+Smart Text suggestions save you time.
+ 
+ 
+ 
+ Choose a List 
+ 
+Manage and filter contacts in one place to create subscriber lists based on your custom tags and data fields.
+ 
+ 
+ 
+ Send & Track Engagement in Real-Time 
+ 
+See real-time engagement and tailor follow-ups.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No delays. No complexity. Just fast, effective email marketing. 
+ 
+ 
+ 
+ 
+Try it free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Want to Dive Deeper? Explore Benchmark’s Features 
+ 
+Benchmark is built for speed, but there’s even more under the hood. Explore the key tools that help you create, send, and track emails effortlessly.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email Editor 
+ 
+Build emails faster with an intuitive, no-code editor.
+ 
+ 
+Start Designing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Management 
+ 
+Organize, segment, and target your email lists automatically.
+ 
+ 
+Optimize My Contacts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reporting & Insights 
+ 
+Track performance in real time and optimize your strategy instantly.
+ 
+ 
+Boost My Performance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A powerfully simple email marketing platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No Junk, Just Gems in Your Inbox 
+ 
+ Subscribe for monthly email marketing insights that are actually worth reading—because you don't have time for fluff.
+ 
+ 
+ 
+ 
+ 
+ 
+Email address
+ 
+ 
+ 
+ 
+I have read and accept the 
+Privacy Policy
+.
+ 
+ 
+ 
+ 
+ 
+ 
+You need to accept the privacy policy to subscribe.
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thank You for Joining!
+ 
+Oficialmente, has dejado atrás las tonterías🎉
+ 
+Expect monthly email marketing tips that help you work smarter—practical, actionable, and worth your time.
+ 
+We’re excited to support your email marketing journey!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign up for free to see how effortless email marketing can be.
+ 
+ 
+ 
+ 
+ 
+ 
+Start Free Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our Company
+ 
+ 
+ 
+ 
+ 
+ 
+About Us
+Our Customers
+Contact
+Updates
+Affiliate Program
+ 
+ 
+ 
+ 
+ 
+ 
+Compare
+ 
+ 
+ 
+ 
+ 
+ 
+Email Marketing Software
+Benchmark Email vs. Mailchimp
+Constant Contact vs. Mailchimp
+Best Mailchimp Alternatives
+Constant Contact vs. Benchmark Email
+Moosend vs. tinyEmail
+Benchmark Email vs. MailerLite
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+Retail
+Hospitality
+Manufacturing
+Financial services
+Nonprofits
+ 
+ 
+ 
+ 
+ 
+ 
+Compare
+ 
+ 
+ 
+ 
+ 
+ 
+Email Marketing Software
+Benchmark Email vs. Mailchimp
+Constant Contact vs. Mailchimp
+Best Mailchimp Alternatives
+Constant Contact vs. Benchmark Email
+Moosend vs. tinyEmail
+Benchmark Email vs. MailerLite
+ 
+ 
+ 
+ 
+ 
+ 
+Account
+ 
+ 
+ 
+ 
+ 
+ 
+Sign Up
+Login
+ 
+.
+Login
+Get Help
+ 
+.
+Get Help
+ 
+Benchmark Email
+ 
+ 
+Need a hand with the new platform?
+ 
+Support Hub
+ 
+Benchmark Classic
+ 
+ 
+Need help with the classic platform?
+ 
+Help Center
+Status
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terms
+ 
+Privacy
+ 
+ Cookie Settings
+ 
+Sitemap
+ 
+ 
+English 
+ 
+ 
+Español
+ 
+Deutsch
+ 
+繁體中文
+ 
+简体中文
+ 
+日本語
+ 
+Italiano
+ 
+Português (BR)
+ 
+Français
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Polaris Software
+, 
+LLC
+ Benchmark Email® is a registered trademark of 
+ Polaris Software, LLC
+ 
+© Polaris Software
+, 
+LLC
+Benchmark Email® is a registered trademark of 
+ Polaris Software, LLC
+ 
+ 
+ 
+ 
+ 
+ 
+Terms
+ 
+Privacy
+ 
+ Cookie Settings
+ 
+Sitemap
+ 
+ 
+English 
+ 
+ 
+Español
+ 
+Deutsch
+ 
+繁體中文
+ 
+简体中文
+ 
+日本語
+ 
+Italiano
+ 
+Português (BR)
+ 
+Français
+
+===== pricing_or_trust :: https://www.benchmarkemail.com/pricing/
+--- SIGNALS ---
+title: Benchmark Email Pricing: All Features, Plans from $0
+meta_description: See Benchmark Email pricing: transparent plans with zero surprises. Get every powerful feature on every plan—even the free one. Find your fit & start sending now.
+og_description: See Benchmark Email pricing: transparent plans with zero surprises. Get every powerful feature on every plan—even the free one. Find your fit & start sending now.
+og_site_name: Benchmark Email
+h1: Transparent Pricing. Zero Surprises.
+h2: Pro Plan | Sign up for free to see how effortless email marketing can be. | Our Company | Compare | Solutions | Compare | Account
+jsonld_org: [{"@type": "Organization", "@id": "https://www.benchmarkemail.com/#organization", "name": "Benchmark Email", "url": "https://www.benchmarkemail.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.benchmarkemail.com/#/schema/logo/image/", "url": "https://www.benchmarkemail.com/wp-content/uploads/2026/07/Benchmark-Logo-Full-Color-RGB-1.png", "contentUrl": "https://www.benchmarkemail.com/wp-content/uploads/2026/07/Benchmark-Logo-Full-Color-RGB-1.png", "width": 150, "height": 28, "caption": "Benchmark Email"}, "image": {"@id": "https://www.benchmarkemail.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/BenchmarkEmail", "https://x.com/benchmarkemail", "https://www.instagram.com/benchmarkemail/", "https://www.linkedin.com/company/benchmark-email/"]}]
+--- TEXT ---
+Benchmark Email Pricing: All Features, Plans from $0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En
+ 
+Español
+ 
+Deutsch
+ 
+繁體中文
+ 
+简体中文
+ 
+日本語
+ 
+Italiano
+ 
+Português (BR)
+ 
+Français
+Sign Up
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+Features
+Email Editor
+Sign Up Forms
+Contact Management
+Deliverability Tools
+Reporting
+Integrations
+API
+Resources
+Email Marketing Guide
+Free Email Templates
+Guides and Downloads
+Blog
+Customers
+Sign Up
+Login
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark 
+NEW
+ 
+Access the new 
+ platform.
+ 
+ 
+ 
+Access Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark Classic
+ 
+Still using the classic platform? Access it here
+ 
+ 
+ 
+Enter Here
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark 
+NEW
+ 
+Get help with the new platform.
+ 
+ 
+ 
+Get Help
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark Classic
+ 
+Still using the classic platform? Get help here.
+ 
+ 
+ 
+Get Help
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En
+Español
+Deutsch
+繁體中文
+简体中文
+日本語
+Italiano
+Português (BR)
+Français
+Sign Up
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Transparent Pricing.
+ Zero Surprises. 
+ 
+ 
+ 
+ 
+Just the numbers you need, no tricks up our sleeve.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Monthly
+ 
+ Annual
+ 
+Save
+ 
+ 
+ 
+ 
+ 
+ 
+Switch to annual and save
+ — that's 
+$60
+ off the Pro plan each year.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free Plan
+ 
+ 
+Includes 500 contacts.
+ 
+ 
+ 
+$0
+/mo
+ 
+ 
+ 
+Sign Up Free
+ 
+ 
+ 
+Email sends
+Up to 2,500 per month
+ 
+Users
+1 user max.
+Need more than 1 user?
+Upgrade to Pro 
+ 
+Domains
+1 domain max
+ 
+Features
+Email editor
+Contact management
+Sign-up forms
+Reporting
+ 
+ 
+Compare plans 
+ 
+ 
+ 
+ 
+ 
+ 
+Pro Plan
+ 
+ 
+ Choose your region
+ 
+ 
+ 
+ 
+Number of contacts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+$
+ /mo
+ 
+ 
+ 
+$
+27
+ /mo
+ 
+ 
+ 
+$
+27
+ /mo
+ 
+ 
+ 
+ 
+ 
+Start Free Now
+ 
+ 
+ 
+ 
+Email sends
+10x contact limit
+ 
+Users
+1 user included.
+$15/mo 
+$15/mo
+ $13/mo
+ per additional user
+ Max 10 users.
+ 
+Domains
+10 domains max
+ 
+Features
+Email editor
+Contact management
+Sign-up forms
+Reporting
+ 
+ 
+Compare plans 
+ 
+ 
+ 
+ 
+ 
+Enterprise Plan
+ 
+ 
+Have more than 100,000 contacts? Talk our team to customize your plan.
+ 
+ 
+ 
+ 
+Contact sales for pricing
+ 
+ 
+Talk to Sales
+ 
+ 
+ 
+Email sends
+Customize
+ 
+Users
+1 user included.
+ 
+Talk to sales
+ to customize.
+ 
+Domains
+Talk to sales
+ to customize.
+ 
+Features
+Email editor
+Contact management
+Sign-up forms
+Reporting
+ 
+ 
+Compare plans 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++1M. Users loved our platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compare Plans 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+Free
+ 
+Signup Free
+ 
+ 
+ 
+ 
+ 
+Pro
+ 
+Get Started Free
+ 
+ 
+ 
+ 
+ 
+Customize
+ 
+Let’s Talk
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Account
+ 
+ 
+Contacts
+ 
+Up to 500
+ 
+2,500 – 100,000
+ 
+100,000+
+ 
+ 
+ 
+Email Sends
+ 
+Up to 2,500 per month
+ 
+10× contact limit
+ 
+Customize
+ 
+ 
+ 
+Users
+ 
+1 user max.
+Need more than 1 user?
+Upgrade to Pro 🚀
+ 
+1 user included.
+Add more for $15/mo. per user.
+Max 10 users.
+ 
+Customize
+ 
+ 
+ 
+Domains
+ 
+1 domain max
+ 
+10 domains max
+ 
+Customize
+ 
+ 
+ 
+Email Editor
+ 
+Drag & Drop Email Builder
+ 
+Ready-made templates
+ 
+Blank Layouts
+ 
+Predefined Content Blocks
+ 
+Saved Blocks
+ 
+Flexible Layouts
+ 
+Personalize Emails
+ 
+Smart Text
+ 
+Stock Images
+ 
+AI-Generated Images
+ 
+Email Preview
+ 
+Undo
+ 
+Email Audit Checklist
+ 
+Send Test Emails
+ 
+Learn More about designing emails with Benchmark  
+ 
+ 
+ 
+Sign Up Forms
+ 
+Drag & Drop Form Builder
+ 
+Custom Form Fields
+ 
+Custom Thank You Message
+ 
+Sync Subscribers to List or Tag
+ 
+Google reCAPTCHA
+ 
+ 
+Learn More about growing your subscriber list with Benchmark  
+ 
+ 
+ 
+Contact Management
+ 
+Store Contact Details
+ 
+Add Custom Fields
+ 
+Lists
+ 
+Tags
+ 
+Search
+ 
+Filter
+ 
+Import .csv
+ 
+Export
+ 
+Learn More about managing contacts with Benchmark  
+ 
+ 
+ 
+Personalization
+ 
+Targeted lists
+ 
+Personalized subject lines
+ 
+Merge fields
+ 
+Custom reply-to
+ 
+Learn more about sending targeted campaigns with Benchmark  
+ 
+ 
+ 
+Reporting
+ 
+Contact activity feed
+ 
+Performance overview
+ 
+Email reports
+ 
+Link activity
+ 
+Engagement timeline
+ 
+Learn more about tracking campaigns with Benchmark  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get every feature in 
+every plan 
+ 
+ 
+ 
+ Design impactful emails -
+ no headaches required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Drag & Drop Email Builder 
+ 
+Professionally built emails - no coding required.
+ 
+ 
+ 
+ 
+ 
+ 
+ Ready-Made Templates 
+ 
+Get a head start with our email template library of pre-designed email templates.
+ 
+ 
+ 
+ 
+ 
+ 
+ Blank Layouts 
+ 
+Grab an email with empty rows and columns ready for your unique content.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Predefined Content Blocks 
+ 
+Drag and drop text, headings, images, buttons, menus, social icons, and more ready-to-edit content blocks.
+ 
+ 
+ 
+ 
+ 
+ 
+ Saved Blocks 
+ 
+Customize and save your content blocks for future use.
+ 
+ 
+ 
+ 
+ 
+ 
+ Flexible Layouts 
+ 
+Organize content in flexible, responsive grids for the perfect layout every time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Personalize Emails 
+ 
+Easily add personalized contact data to your emails with merge fields.
+ 
+ 
+ 
+ 
+ 
+ 
+ Smart Text 
+ 
+Refine your tone, expand or summarize text, fix spelling and grammar and rephrase your writing with AI.
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock Images 
+ 
+Ready-made images to make your emails pop in the inbox. Powered by Unsplash, Pexels, Pixabay.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI-Generated Images 
+ 
+Provide simple instructions and select your design style to supplement your image library with images created by AI.
+ 
+ 
+ 
+ 
+ 
+ 
+ Email Preview 
+ 
+See how your email will appear on desktop and mobile.
+ 
+ 
+ 
+ 
+ 
+ 
+ Undo 
+ 
+No worry over mistakes here - easily undo your edits so you can design with confidence.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email Audit Checklist 
+ 
+We alert you to missing links, absent alt image text, and missing image urls so you can fix common issues before you send.
+ 
+ 
+ 
+ 
+ 
+ 
+ Send Test Emails 
+ 
+Review and approval made simple. Send a test email to yourself and your colleagues.
+ 
+ 
+ 
+ 
+ 
+ 
+ Your website is leaving subscribers
+ on the table. Fix that in minutes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Drag & Drop Form Builder 
+ 
+Point, click, and arrange. Add fields onto a simple canvas and have a form ready to go before your next meeting.
+ 
+ 
+ 
+ 
+ 
+ 
+ Custom Fields  
+ 
+Collect exactly what you need. Pull in standard fields like first name and email, or any custom field you can dream up to enrich your subscriber data.
+ 
+ 
+ 
+ 
+ 
+ 
+ Sync with Your Lists 
+ 
+Choose which list new subscribers get added to the moment they submit your form.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Automatic Contact Tagging 
+ 
+Tag new subscribers on sign-up so they're segmented and ready to receive the right emails from day one.
+ 
+ 
+ 
+ 
+ 
+ 
+ Universal Embed Code 
+ 
+Copy your embed code, drop it on your website, and you're done. Works with WordPress, Shopify, Wix, and any platform that accepts HTML.
+ 
+ 
+ 
+ 
+ 
+ 
+ Built-In Fraud Protection 
+ 
+Google reCAPTCHA runs on every form automatically. No bots, no fake signups, no configuration needed.
+ 
+ 
+ 
+ 
+ Organize and segment contacts
+ for emails that always resonate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Store Contact Details 
+ 
+Keep your contact info all in one place—names, emails, birthdays, shoe sizes (okay, maybe not that last one).
+ 
+ 
+ 
+ 
+ 
+ 
+ Add Custom Fields 
+ 
+Need more than name and email? Add your own fields to track the info that matters to you.
+ 
+ 
+ 
+ 
+ 
+ 
+ Tags 
+ 
+Group your contacts by behavior, interest, or your own magic marketing intuition.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+Whether you're sending a VIP offer or a seasonal update, segment your audience into lists that make sense.
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+Find the right contact in seconds. Seriously, just type and go.
+ 
+ 
+ 
+ 
+ 
+ 
+ Filter 
+ 
+Narrow your view with filters. See just your new signups, top buyers, or folks who love dogs. (You choose the criteria.)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Easy Import 
+ 
+Bring your contacts over from spreadsheets or other platforms with just a few clicks—no technical degree required.
+ 
+ 
+ 
+ 
+ 
+ 
+ Export 
+ 
+Need a backup or want to move your data? Export your contact list anytime—your data’s always yours.
+ 
+ 
+ 
+ 
+ 
+ 
+ Send targeted campaigns
+ that convert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Send to targeted lists 
+ 
+Easily filter to create targeted list based on the criteria most important to you. Every email feels personal (and performs better).
+ 
+ 
+ 
+ 
+ 
+ 
+ Personalized subject lines 
+ 
+Catch their eye before the click. Add first names or custom fields to your subject lines for inbox-worthy appeal.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tailored content (merge fields) 
+ 
+Drop in personal details like name, location, or favorite ice cream flavor (if you’re tracking that)—because generic is so last season.
+ 
+ 
+ 
+ 
+ 
+ 
+ Customize reply-to emails 
+ 
+Choose who gets the replies—your inbox, your colleague’s, or your team alias. You’re in control of the convo.
+ 
+ 
+ 
+ 
+ Track, report, and wow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact activity feed 
+ 
+See how your contacts are responding to campaigns in real time.
+ 
+ 
+ 
+ 
+ 
+ 
+ Performance overview 
+ 
+Compare results over time to measure success and refine your approach.
+ 
+ 
+ 
+ 
+ 
+ 
+ Email reports 
+ 
+See engagement and a glance and drill down into the metrics that matter the most.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link activity 
+ 
+See which links are driving the most clicks. Is your strategy working as intended?
+ 
+ 
+ 
+ 
+ 
+ 
+ Engagement timeline 
+ 
+Identify peak engagement times to optimize your sending schedule.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FAQs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What happens if I exceed the contact limit?
+ 
+Expand
+ 
+ 
+ 
+ 
+No panic necessary. If you go over your contact limit, we’ll notify you and give you the option to upgrade your plan so you can keep sending without interruption. We won’t auto-upgrade or surprise you. You’re in control, always.
+ 
+ 
+ 
+ 
+ 
+ 
+Can I upgrade at anytime?
+ 
+Expand
+ 
+ 
+ 
+ 
+Absolutely. Whether you’re growing fast or just need more firepower, you can upgrade your plan at any time right from your account settings. Need to do more with less? Downgrading is easy. Manage your plan and usage is totally in your hands.
+ 
+ 
+ 
+ 
+ 
+ 
+Do I get all features in the free plan?
+ 
+Expand
+ 
+ 
+ 
+ 
+Yes! Free users get access to all features...no watered-down version here. The only limits? You can add up to 500 contacts, and you won’t be able to invite additional users to your account. It’s a great way to explore everything Benchmark Email can do, without opening your wallet.
+ 
+ 
+ 
+ 
+ 
+ 
+How are additional users billed?
+ 
+Expand
+ 
+ 
+ 
+ 
+All plans include 1 user. On paid plans, expanding your team is a breeze. We bill $15 per month a la carte for each additional user, no plan upgrade required. You’ll know exactly what the cost is before anything changes, so there are no surprises. 
+Just a heads-up:
+ if you're on the free plan, you’ll need to move to a paid plan before you can invite teammates.
+ 
+ 
+ 
+ 
+ 
+ 
+What is the send limit?
+ 
+Expand
+ 
+ 
+ 
+ 
+Send limits are set to keep your sender reputation safe! 
+Free plans can send up to 5 times their contact limit each month, for a maximum of 2,500 emails per month.
+Paid plans can send up to 10 times the contact limit of their plan each month.
+ 
+ 
+ 
+ 
+ 
+ 
+Can I change my billing frequency?
+ 
+Expand
+ 
+ 
+ 
+ 
+Absolutely. You can switch from monthly to annual billing. As your needs change, you can also upgrade or downgrade your plan to find the option that works best for your business.
+ 
+ 
+ 
+ 
+ 
+ 
+What methods of payment do you accept?
+ 
+Expand
+ 
+ 
+ 
+ 
+We like to keep things simple—and flexible. Here’s how you can pay for your Benchmark Email plan:
+Cards
+We accept all of the most popular plastic: Visa, Mastercard, American Express, Discover, Diners Club, JCB, and China UnionPay payments from customers worldwide.
+Digital Wallets
+Prefer to tap and go? We’ve got you covered with Alipay, Amazon Pay, Apple Pay, Cash App Pay, Google Pay.
+Stripe Link
+Already use Stripe for other purchases? Great! Just breeze through checkout using Stripe Link, no extra steps needed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A powerfully simple email marketing platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No Junk, Just Gems in Your Inbox 
+ 
+ Subscribe for monthly email marketing insights that are actually worth reading—because you don't have time for fluff.
+ 
+ 
+ 
+ 
+ 
+ 
+Email address
+ 
+ 
+ 
+ 
+I have read and accept the 
+Privacy Policy
+.
+ 
+ 
+ 
+ 
+ 
+ 
+You need to accept the privacy policy to subscribe.
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thank You for Joining!
+ 
+Oficialmente, has dejado atrás las tonterías🎉
+ 
+Expect monthly email marketing tips that help you work smarter—practical, actionable, and worth your time.
+ 
+We’re excited to support your email marketing journey!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign up for free to see how effortless email marketing can be.
+ 
+ 
+ 
+ 
+ 
+ 
+Start Free Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our Company
+ 
+ 
+ 
+ 
+ 
+ 
+About Us
+Our Customers
+Contact
+Updates
+Affiliate Program
+ 
+ 
+ 
+ 
+ 
+ 
+Compare
+ 
+ 
+ 
+ 
+ 
+ 
+Email Marketing Software
+Benchmark Email vs. Mailchimp
+Constant Contact vs. Mailchimp
+Best Mailchimp Alternatives
+Constant Contact vs. Benchmark Email
+Moosend vs. tinyEmail
+Benchmark Email vs. MailerLite
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+Retail
+Hospitality
+Manufacturing
+Financial services
+Nonprofits
+ 
+ 
+ 
+ 
+ 
+ 
+Compare
+ 
+ 
+ 
+ 
+ 
+ 
+Email Marketing Software
+Benchmark Email vs. Mailchimp
+Constant Contact vs. Mailchimp
+Best Mailchimp Alternatives
+Constant Contact vs. Benchmark Email
+Moosend vs. tinyEmail
+Benchmark Email vs. MailerLite
+ 
+ 
+ 
+ 
+ 
+ 
+Account
+ 
+ 
+ 
+ 
+ 
+ 
+Sign Up
+Login
+ 
+.
+Login
+Get Help
+ 
+.
+Get Help
+ 
+Benchmark Email
+ 
+ 
+Need a hand with the new platform?
+ 
+Support Hub
+ 
+Benchmark Classic
+ 
+ 
+Need help with the classic platform?
+ 
+Help Center
+Status
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terms
+ 
+Privacy
+ 
+ Cookie Settings
+ 
+Sitemap
+ 
+ 
+English 
+ 
+ 
+Español
+ 
+Deutsch
+ 
+繁體中文
+ 
+简体中文
+ 
+日本語
+ 
+Italiano
+ 
+Português (BR)
+ 
+Français
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Polaris Software
+, 
+LLC
+ Benchmark Email® is a registered trademark of 
+ Polaris Software, LLC
+ 
+© Polaris Software
+, 
+LLC
+Benchmark Email® is a registered trademark of 
+ Polaris Software, LLC
+ 
+ 
+ 
+ 
+ 
+ 
+Terms
+ 
+Privacy
+ 
+ Cookie Settings
+ 
+Sitemap
+ 
+ 
+English 
+ 
+ 
+Español
+ 
+Deutsch
+ 
+繁體中文
+ 
+简体中文
+ 
+日本語
+ 
+Italiano
+ 
+Português (BR)
+ 
+Français

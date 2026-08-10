@@ -1,0 +1,75 @@
+===== homepage :: https://levitate.com/
+--- SIGNALS ---
+title: Levitate
+meta_description: text/html; charset=windows-1251" http-equiv="Content-Type">
+    <meta content=
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+Levitate
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HOME
+ 
+ 
+ABOUT US
+ 
+ 
+PRODUCTS
+ 
+ 
+PRESS
+ 
+ 
+CONTACT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The demand for alternative energy sources is driven by increasing fuel costs and the 
+ exponentially increasing need for electricity. The world simply cannot build power plants 
+ quickly enough to meet the growing energy demands. 
+ 
+To meet this demand Levitate has created a revolutionary ultra high efficiency hybrid Wind 
+ and Solar solution that incorporates over 24 years of private research and development. 
+ This unique alternative energy product is designed and manufactured in the United States 
+ for use in municipalities, commercial rooftops, resort developments, college campuses, 
+ rural communities, wind farms, and emergency/disaster recovery situations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright Levitate Inc. 2023. All rights reserved. Contact: 
+sales@levitate.com

@@ -1,0 +1,1558 @@
+===== llms.txt :: https://www.hcltech.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# HCLTech
+> Supercharging progress through cutting-edge AI, cloud, and engineering services for global enterprises.
+HCLTech is a global IT services and technology company employing over 227,000 people across 60 countries. The website serves as the primary digital presence for prospective and current enterprise clients seeking advanced digital transformation, engineering, and cloud solutions.
+Core value propositions revolve around leveraging AI (like AI Force and Kinetic AI), cloud-native capabilities, and deep domain expertise across various industries, including Financial Services, Manufacturing and Telecom. Use cases include enterprise application modernization, cybersecurity, digital workplace services and product lifecycle management.
+LLMs should understand that HCLTech positions itself as a strategic partner for large organizations aiming to accelerate their technological evolution, focusing heavily on proprietary frameworks and industry-specific AI applications.
+## Company Information & Governance
+- [HCLTech Homepage](https://www.hcltech.com/): The main entry point detailing HCLTech's core focus on AI, Cloud, and Engineering.
+- [About HCLTech](https://www.hcltech.com/about-us): General information about the company's mission, history, and scale.
+- [Leadership Team](https://www.hcltech.com/leadership): View profiles and biographies of HCLTech's executive leadership.
+- [Global Presence Map](https://www.hcltech.com/global-presence): See the worldwide locations and offices where HCLTech operates.
+- [Awards and Recognitions](https://www.hcltech.com/awards-and-recognitions): List of recent industry awards and accolades received by HCLTech.
+- [Analyst Recognitions](https://www.hcltech.com/analyst-recognitions): Information on rankings and reports from major industry analyst firms.
+- [Press Releases Archive](https://www.hcltech.com/press-release): Find official announcements and news releases from the company.
+- [Technology Ecosystem Partners](https://www.hcltech.com/ecosystem): List and details of HCLTech's strategic technology alliances and partners.
+- [Strategic Alliances Overview](https://www.hcltech.com/strategic-alliances): Overview of key strategic partnerships driving technology solutions.
+## Careers & Talent
+- [HCLTech Careers Home](https://careers.hcltech.com/): The main portal for exploring job openings and career opportunities at HCLTech.
+- [Meet Our People](https://www.hcltech.com/meet-our-people): Stories and profiles featuring current HCLTech employees.
+- [Career Shaper Program](https://www.hcltech.com/career-shaper): Information about HCLTech's talent development and upskilling programs.
+## Core Capabilities, Services & Solutions
+- [AI Services Overview](https://www.hcltech.com/ai): Explore HCLTech's comprehensive offerings and capabilities in Artificial Intelligence solutions.
+- [AI Force Platform](https://www.hcltech.com/ai-force): Learn about the AI Force platform for accelerating AI-driven business outcomes.
+- [Data and AI Foundry](https://www.hcltech.com/data-ai-foundry): Discover the Data and AI Foundry for building scalable data and AI solutions.
+- [AI and Cloud Native Labs](https://www.hcltech.com/ai-and-cloud-native-labs): Details on labs focused on developing AI and cloud-native technologies.
+- [Industry AI Solutions](https://www.hcltech.com/industry-ai-solutions): View specific AI solutions tailored for various industry verticals.
+- [Kinetic AI Framework](https://www.hcltech.com/kinetic-ai): Understand the Kinetic AI framework for driving business transformation.
+- [Physical AI and AIoT](https://www.hcltech.com/physical-ai-aiot): Information on services combining AI with the Internet of Things (AIoT).
+- [Cloud Services](https://www.hcltech.com/cloud-services): Explore HCLTech's offerings across cloud strategy, migration, and management.
+- [Cybersecurity Services](https://www.hcltech.com/cybersecurity-services): Learn about services protecting digital assets against modern cyber threats.
+- [Engineering Services](https://www.hcltech.com/engineering): Overview of HCLTech's core engineering and product development capabilities.
+- [Digital Engineering Services](https://www.hcltech.com/digital-engineering): Details on modernizing engineering processes using digital technologies.
+- [Product Engineering Services](https://www.hcltech.com/product-engineering-services): Explore services for the entire product development and lifecycle.
+- [Product Lifecycle Management (PLM)](https://www.hcltech.com/product-lifecycle-management-plm): Information on PLM solutions for managing product data and processes.
+- [Digital Business Services](https://www.hcltech.com/digital-business): Explore services focused on transforming core business functions digitally.
+- [Enterprise Transformation Advisory](https://www.hcltech.com/enterprise-transformation-advisory): Learn about strategic advisory services for large-scale enterprise change.
+- [Modern Application Services](https://www.hcltech.com/modern-application-services): Details on modernizing, building, and managing enterprise applications.
+- [Enterprise Applications Transformation](https://www.hcltech.com/enterprise-applications-transformation): Services for transforming core enterprise resource planning (ERP) systems.
+- [Business Operations Services](https://www.hcltech.com/business-operations): Services focused on optimizing and automating enterprise business processes.
+- [Digital Workplace Services](https://www.hcltech.com/digital-workplace-services): Solutions for enhancing employee experience and digital workplace efficiency.
+- [Network Services](https://www.hcltech.com/network-services): Information on designing, building, and managing enterprise networks.
+- [Supply Chain Management Services](https://www.hcltech.com/supply-chain-management-services): Services for optimizing end-to-end supply chain visibility and resilience.
+- [Unified Service Management](https://www.hcltech.com/unified-service-management): Details on integrated IT and business service management solutions.
+- [Global Capability Services](https://www.hcltech.com/global-capability-center): Transform your global capability centers with HCLTech's GCC services and solutions.
+## Industry Solutions
+- [Aerospace and Defense Services](https://www.hcltech.com/aerospace-and-defense-services): IT and engineering services tailored specifically for the Aerospace and Defense sector.
+- [Automotive Services](https://www.hcltech.com/automotive-services): Solutions for digital transformation and engineering in the automotive industry.
+- [Consumer Goods Services](https://www.hcltech.com/consumer-goods-services): Services addressing challenges and opportunities in the Consumer Packaged Goods industry.
+- [Energy and Utilities Services](https://www.hcltech.com/energy-and-utilities-services): Digital and engineering services for the energy and utility sectors.
+- [Financial Services Overview](https://www.hcltech.com/financial-services): Main page detailing HCLTech's offerings for the financial industry.
+- [Banking Services](https://www.hcltech.com/financial-services/banking): Specific technology and transformation services for the banking sector.
+- [Capital Markets Services](https://www.hcltech.com/financial-services/capital-market): Solutions for capital markets firms focusing on trading and operations.
+- [FinTech Solutions](https://www.hcltech.com/financial-services/fintech-solutions): Services and partnerships supporting innovative FinTech companies.
+- [Insurance Services](https://www.hcltech.com/financial-services/insurance): Digital and operational transformation services for the insurance industry.
+- [Life Sciences and Healthcare Services](https://www.hcltech.com/life-sciences-healthcare-services): IT and digital services supporting pharmaceutical and healthcare organizations.
+- [Manufacturing Services](https://www.hcltech.com/manufacturing-services): Services for smart manufacturing, operations, and supply chain in manufacturing.
+- [Mining and Natural Resources Services](https://www.hcltech.com/mining-and-natural-resources-services): Technology solutions tailored for the mining and natural resources sector.
+- [Oil and Gas Services](https://www.hcltech.com/oil-and-gas-services): Digital transformation and operational technology services for Oil & Gas.
+- [Private Equity Services](https://www.hcltech.com/private-equity-services): Technology advisory and operational support services for Private Equity firms.
+- [Public Sector Solutions](https://www.hcltech.com/public-sector-solutions): Digital services designed to modernize government and public sector entities.
+- [Retail Services](https://www.hcltech.com/retail-services): Solutions for enhancing customer experience and operations in retail.
+- [Semiconductor Services and Solutions](https://www.hcltech.com/semiconductor-services-and-solutions): Technology services supporting the semiconductor design and manufacturing lifecycle.
+- [Telecom and Media Services](https://www.hcltech.com/telecom-media-services): Services for communication service providers and media companies.
+- [Travel, Transportation, Logistics, and Hospitality Services](https://www.hcltech.com/travel-transportation-logistics-and-hospitality-services): Digital transformation services for the travel, logistics, and hospitality industries.
+- [Technology Industry Solutions](https://www.hcltech.com/technology-services): General overview of HCLTech's broad technology service portfolio.
+## Innovation Labs
+- [Cloud Native Labs](https://www.hcltech.com/ai-and-cloud-native-labs): Supercharge your AI journey with HCLTech AI Labs. We deliver enterprise AI strategy, advanced AI technologies, and AI experiments to accelerate adoption. 
+- [Engineering Lab Services](https://www.hcltech.com/engineering-lab-services): Offer end-to-end testing, development, and lab services, ensuring product excellence for clients globally.
+- [Technology Innovation Labs](https://www.hcltech.com/technology-innovation-labs): Labs for technology development, research, and client collaboration.
+## Strategic Alliances and Partnerships
+- [HCLTech and Microsoft Partnership](https://www.hcltech.com/microsoft): To achieve the full potential of Microsoft's AI portfolio, choose HCLTech.
+- [HCLTech and Google Cloud](https://www.hcltech.com/google-cloud): Accelerating digital transformation journey with integrated partnership that combines cloud engineering, industry solutions and execution capabilities.
+- [HCLTech and AWS Partnership](https://www.hcltech.com/aws): Power your business with HCLTech's AWS solutions. Get expert AWS cloud consulting, security, and managed services tailored to your goals from strategy to scale. 
+## HCLTech in News
+- [Google Cloud Partner of the Year](https://www.hcltech.com/newsfeed/hcltech-wins-two-google-cloud-partner-year-awards): HCLTech wins two Google Cloud Partner of the Year Awards
+- [Guardian Selects HCLTech For AI-Driven Transformation](https://www.hcltech.com/press-releases/hcltech-and-guardian-partner-accelerate-ai-driven-technology-transformation-journey): Guardian taps HCLTech's AI Force to boost efficiency, improve engineering outcomes and speed time to market across its tech operations
+- [Expansion of Global Capability Centers](https://www.hcltech.com/press-releases/western-union-and-hcltech-expand-global-capability-center-hyderabad-accelerating): Western Union and HCLTech expand Global Capability Center to Hyderabad, accelerating advanced AI and platform operating model
+- [Gartner Magic Quadrant Cloud Services 2025](https://www.hcltech.com/analyst-reports/leader-in-2025-gartner-magic-quadrant-for-cloud-services): Information about HCLTech's leadership position in the 2025 Gartner Cloud report.
+- [IDC MarketScape 2025 Experience Build](https://www.hcltech.com/analyst-reports/hcltech-named-leader-in-idc-marketscape-2025-experience-build): HCLTech is recognized as a Leader in the IDC MarketScape 2025 Experience Build Services Assessment for its innovation, scale, and delivery excellence.
+- [Everest Group's Application Management Services 2025](https://www.hcltech.com/newsfeed/hcltech-recognized-leader-everest-groups-application-management-services-peak-matrixr): HCLTech has been recognised as an expert in handling complex application environments and ensuring smooth operations.
+## Success Stories
+- [Case Studies Library](https://www.hcltech.com/case-studies): Browse success stories demonstrating HCLTech's impact across various clients.
+- [AI Force Report Summarization Case Study](https://www.hcltech.com/case-study/reduce-report-summarization-time-by-44percent-with-hcltech-ai-force): See how AI Force reduced report summarization time by 44 percent.
+- [Telecom Location Data Monetization Case Study](https://www.hcltech.com/case-study/location-data-monetization-for-a-global-telecom-company): Review a case study on monetizing location data for a global telecom firm.
+- [Fonterra Cloud Transformation Case Study](https://www.hcltech.com/case-study/fonterras-cloud-first-transformation-with-oracle-cloud-infrastructure): Learn about Fonterra's cloud-first transformation using Oracle Cloud Infrastructure.
+- [Pharma Patient Monitoring Case Study](https://www.hcltech.com/case-study/leading-multinational-pharmaceutical-company-implements-patient-monitoring-services): Details on implementing patient monitoring services for a large pharma company.
+- [Cloud Provider Sales Lifecycle Transformation Case Study](https://www.hcltech.com/case-study/transforming-the-sales-lifecycle-management-for-a-leading-cloud-service-provider): Examine the transformation of sales lifecycle management for a cloud provider.
+- [RailTwin Freight Rail Reengineering Case Study](https://www.hcltech.com/case-study/reengineering-freight-rail-with-hcltech-railtwin): Discover how RailTwin was used to reengineer freight rail operations.
+## Insights and Thought Leadership
+- [Trends and Insights Hub](https://www.hcltech.com/trends-and-insights): Access articles and perspectives o
+
+===== homepage :: https://www.hcltech.com/
+--- SIGNALS ---
+title: HCLTech: Supercharging Progress | AI, Cloud and Engineering
+meta_description: HCLTech is a global IT services and technology company with over 223,000 people in 60 countries, delivering cutting-edge AI, engineering, and cloud solutions to top enterprises.
+og_description: HCLTech is a global IT services and technology company with over 223,000 people in 60 countries, delivering cutting-edge AI, engineering, and cloud solutions to top enterprises.
+og_site_name: 
+h1: HCLTech: Supercharging Progress | Digital, Engineering and Cloud
+h2: “Our ambition is to be the best AI Solutions company in the world.” | “…it will open up a completely new chapter of opportunities for us…” | AI answer engine | AI is easy.Impact is hard. | The Blueprint for AI Leadership | Conversations withPioneers of Enterprise AI | AI Force | Latest Highlights | Driving Your Growth:Technology is Our Engine, Innovation Our Fuel | Ready for Now.Built for What's Next. | Global Recognition for Sustained Excellence | Hear from Our Clients | Hear from Our Clients | Case Studies | Supercharge Your Career with Us
+jsonld_org: [{"@context": "https://schema.org", "@type": "Corporation", "name": "HCLTech", "url": "https://www.hcltech.com/", "logo": "https://www.hcltech.com/themes/custom/hcltech/images/hcltech-logo.svg", "sameAs": ["https://www.facebook.com/HCLTechOfficial", "https://twitter.com/hcltech", "http://instagram.com/hcltech", "https://www.youtube.com/user/HCLTechtube", "https://www.linkedin.com/company/hcl-technologies", "https://www.hcltech.com/"], "contactPoint": [{"areaServed": "Global", "availableLanguage": ["en", "de-DE", "ja-JP", "fr-CA", "en-US"]}]}]
+--- TEXT ---
+HCLTech: Supercharging Progress | AI, Cloud and Engineering
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+Menu
+HCL Worldwide Navigation
+ 
+Contact Us
+ 
+ Ask 
+ 
+Search
+ 
+Close
+ 
+En
+Global - English
+Japan - 日本語 (Japanese)
+Germany - Deutsch (German)
+Canada - Français (French)
+United States - English
+ 
+ 
+ 
+Main Navigation
+ 
+What We Do
+ 
+HCLTech
+ 
+AI and Generative AI
+ 
+AI Advisory
+ 
+AI Labs
+ 
+Responsible AI
+ 
+AI Factory
+ 
+AI Force
+ 
+AI Foundry
+ 
+Industry AI Solutions
+ 
+Kinetic AI
+ 
+Physical AI
+ 
+Applications
+ 
+Advisory and Consulting
+ 
+Data
+ 
+Modern Applications
+ 
+Enterprise Applications
+ 
+Business Process Operations
+ 
+HCLTech
+ 
+EdTech
+ 
+Engineering and R&D Services
+ 
+Digital Design and Manufacturing
+ 
+Digital Engineering
+ 
+Product Engineering
+ 
+Global Capability Center
+ 
+IT Infrastructure
+ 
+Cloud
+ 
+Cybersecurity
+ 
+Digital Workplace
+ 
+Networks
+ 
+Platform-Based Services
+ 
+Unified Service Management (USM)
+ 
+Supply Chain
+ 
+HCLTech
+ 
+ Products and Platforms
+ 
+Our Blueprint - XDO
+ 
+Data Intelligence Platform
+ 
+Secure Intelligent Operations
+ 
+HCL BigFix
+ 
+HCL AppScan
+ 
+Sovereign Collaboration
+ 
+Hyper-personalized MarTech
+ 
+Aftermarket Cloud
+ 
+Industries
+ 
+HCLTech
+ 
+Aerospace and Defense
+ 
+Automotive
+ 
+Consumer Goods
+ 
+Energy and Utilities
+ 
+Financial Services
+ 
+Banking
+ 
+Capital Markets
+ 
+Fintech
+ 
+Insurance
+ 
+Life Sciences and Healthcare
+ 
+Manufacturing
+ 
+HCLTech
+ 
+Mining and Natural Resources
+ 
+Oil and Gas
+ 
+Private Equity
+ 
+Public Sector
+ 
+Retail
+ 
+Telecom, Media and Tech
+ 
+Telecom
+ 
+High Tech
+ 
+Media and Entertainment
+ 
+Semiconductor
+ 
+Travel, Transport, Logistics and Hospitality
+ 
+Ecosystem
+ 
+Who We Are
+ 
+HCLTech
+ 
+About Us
+ 
+Analyst Recognitions
+ 
+Annual Report 2025
+ 
+Awards and Recognition
+ 
+Code of Business Ethics and Conduct
+ 
+Corporate Social Responsibility
+ 
+Diversity, Equity and Inclusion
+ 
+HCLTech
+ 
+Global Presence
+ 
+Investor Relations
+ 
+Leadership
+ 
+Newsroom
+ 
+Privacy Trust Center
+ 
+Strategic Alliances
+ 
+Sustainability
+ 
+Resources
+ 
+Trends and Insights
+ 
+Case Studies
+ 
+Events and Webinars
+ 
+Careers
+ 
+Careers Overview
+ 
+Americas
+ 
+Brazil
+ 
+Canada
+ 
+Costa Rica
+ 
+Guatemala
+ 
+Mexico
+ 
+United States
+ 
+Asia Pacific
+ 
+Australia
+ 
+Japan
+ 
+Malaysia
+ 
+New Zealand
+ 
+Philippines
+ 
+Singapore
+ 
+Sri Lanka
+ 
+Vietnam
+ 
+Europe and Africa
+ 
+Bulgaria
+ 
+Germany
+ 
+Hungary
+ 
+Morocco
+ 
+Poland
+ 
+Portugal
+ 
+Romania
+ 
+Spain
+ 
+Sweden
+ 
+United Kingdom
+ 
+India
+ 
+Meet our people
+ 
+Explore job opportunities
+ 
+HCLSoftware
+ 
+Contact Us
+ 
+ 
+En
+Global - English
+Japan - 日本語 (Japanese)
+Germany - Deutsch (German)
+Canada - Français (French)
+United States - English
+ Ask 
+ 
+Search
+ 
+Close
+ 
+ 
+ 
+ 
+ 
+ 
+Home
+ 
+ 
+ 
+ 
+HCLTech: Supercharging Progress | Digital, Engineering and Cloud
+ 
+Pause
+ 
+“Our ambition is to be the 
+best AI Solutions company 
+in the world.”
+C Vijayakumar, CEO & Managing Director, in conversation with CNBC at the WEF's 2026 Annual Meeting
+Watch the interview
+ 
+“…it will open up a 
+completely new chapter of 
+opportunities for us…”
+C Vijayakumar, CEO & MD, HCLTech in conversation with CNBC TV18 on HCLTech’s strategic investment in Sarvam
+Watch the interview
+ AI answer engine
+Have tech questions?
+Our 
+AI answer engine
+ can help.
+I’m thinking—please give me a few seconds
+ Search input
+Ask a question or initiate a search
+ 
+Clear search
+ 
+Submit question
+ Results from our AI-powered Answer Engine may be inaccurate; please verify.
+ 
+Close the session
+Query
+Related content
+What would you like to ask next?
+ 
+Play
+AI is easy.
+Impact is hard.
+That's where HCLTech makes the difference.
+We turn AI into measurable business outcomes, from deployment to value and from insight to real impact.
+Our solutions are repeatable by design, responsible by default and engineered for scale. They are shaped by our people who don't just build AI, but engineer it to deliver business outcomes in the real world. Because anyone can promise AI. We build it to perform.
+Learn more
+The Blueprint for AI Leadership
+It's personal, not just technical
+In our 
+3rd edition of The Blueprint series
+, featuring 500 business and IT leaders, we reveal a widening gap between organizations adopting AI and those realizing meaningful business value.
+Only 18% of surveyed organizations say AI is delivering significant revenue impact, exposing a critical gap between operational progress and business outcomes.
+Learn how organizations are navigating the age of GenAI and identify specific shifts in strategy, culture, data and architecture required to bridge the gap from experimentation to enterprise-wide leadership.
+Download report
+Conversations with
+Pioneers of Enterprise AI
+Episode 1 - How CTOs Scale AI and Build AI-Ready Workforces with Pearson
+Vijay Guntur, CTO and Head of Ecosystems at HCLTech, joins David Treat, CTO at Pearson to examine why many AI initiatives fall short of expected returns and what leaders can do differently.
+Episode 2 - Reimagining the future of life sciences
+Kanda Natarajan, VP of IT at GSK, and Vijay Guntur, CTO and Head of Ecosystems at HCLTech, join Sophia Zhang, SVP at Conde Nast to reflect on their experiences and highlight key lessons for leaders.
+Episode 3 - Scaling Enterprise AI beyond pilots
+Ulf Axelsson Lejon, VP of Digital Business Transformation, Husqvarna Group and Dr. Mansoor Samavatian, Technology & Delivery Partner, HCLTech discuss enterprise AI impact with Catherine Crump, WIRED.
+Episode 4 - Modernizing Enterprise Legacy
+Johan Sporre, VP, Technology Foundation, Ericsson and Suresh Deshpande, AVP, HCLTech, discuss the building blocks required to scale AI effectively with Charlie Burton, Director of Content, WIRED.
+Episode 5 - Building a Physical AI strategy
+In this episode, Rohan Davidson, CIO, Anglo American Group and Deepa Nittur, VP, HCLTech explore how Physical AI is transforming operations with Catherine Crump from WIRED.
+Episode 6: The strategic role of a trusted advisor in scaling AI
+Bijoy Sagar, Chief Information and Digital Officer, Bayer and Pankaj Tagra, Chief Growth Officer, HCLTech discuss how AI can move from promise to practice with Michael Calore, WIRED.
+AI Force
+Built for scale. Built for business impact.
+AI Force is a GenAI and Agentic AI platform that automates and augments workflows across software and data engineering, IT operations and enterprise business processes to significantly improve and accelerate business outcomes.
+Watch video
+ 
+Learn more
+X
+Episode 1 - How CTOs Scale AI and Build AI-Ready Workforces with Pearson
+&amp;amp;amp;amp;amp;amp;amp;
+Episode 2 - Reimagining the future of life sciences
+&amp;amp;amp;amp;amp;amp;amp;
+Episode 3 - Scaling Enterprise AI beyond pilots
+&amp;amp;amp;amp;amp;amp;amp;
+Episode 4 - Modernizing Enterprise Legacy
+&amp;amp;amp;amp;amp;amp;amp;
+Episode 5 - Building a Physical AI strategy
+&amp;amp;amp;amp;amp;amp;amp;
+Episode 6: The strategic role of a trusted advisor in scaling AI
+&amp;amp;amp;amp;amp;amp;amp;
+ 
+Latest Highlights
+ 
+Video
+ 
+ 
+Video
+ 
+Corporate
+Episode 6: The strategic role of a trusted advisor in scaling AI
+Bijoy Sagar, CIDO, Bayer in discussion with Pankaj Tagra, CGO, HCLTech
+Watch now
+ 
+Press release
+ 
+ 
+AI and GenAI
+HCLTech unveils AI Force 2.0
+Agentic and GenAI powered service transformation platform delivering faster, smarter, more governed automation across software, data, IT and business operations.
+Learn more
+ 
+Press release
+ 
+ 
+Insurance
+HCLTech and Guardian sign new, expanded partnership
+The agreement advances Guardian’s AI-led modernization across technology and operations, supporting long-term business growth
+Learn more
+ 
+External Link
+ 
+Finance Derivative
+ 
+| August 7, 2026
+ 
+Autonomy in Financial Services: Engineering Trust and Control
+Learn more
+ 
+External Link
+ 
+Financial Express
+ 
+| August 6, 2026
+ 
+HCLTech Named OpenAI Advanced Partner to Scale Enterprise AI
+Learn more
+ 
+External Link
+ 
+ET Telecom
+ 
+| August 4, 2026
+ 
+HCLTech Expands Telecom Capabilities with HPE Telco Acquisition
+Learn more
+ 
+External Link
+ 
+Business Today
+ 
+| August 4, 2026
+ 
+HCLTech Named Among TIME's Most Sustainable Companies for 2026
+Learn more
+ 
+Driving Your Growth:
+Technology is Our Engine, 
+Innovation Our Fuel
+Whether you’re building smarter products, scaling with cloud, reimagining the customer experience or unlocking AI-led efficiencies, our solutions are built to meet you where you are and take you further, faster.
+AI
+Helping you identify and seize opportunities to leverage AI/GenAI to automate and accelerate business processes.
+Explore our AI Services 
+Explore our AI Services
+Cloud
+Our CloudSMART offerings drive enterprise cloud optimization through accelerated innovation and agility at scale.
+Cloud
+Explore our Cloud Solutions
+Engineering
+Services designed to accelerate product development, streamline time-to-profit and maximize return on innovation.
+Engineering and R&D Services
+Explore our Engineering Services
+ 
+Ready for Now.
+Built for What's Next.
+ 
+HCLTech is committed to using our expertise, experience and ecosystem of innovation to empower enterprises on their journeys.
+We harness the power of technology and our people to drive impactful outcomes at speed and scale—now and for the long haul.
+Section CTA
+ 
+Learn what we can do for you
+ 
+220
++
+Delivery 
+Centers
+70
++
+Labs
+20
+K+
+Clients using our software and products
+2,200
++
+Patents driving 
+innovation
+ 
+ 
+Global Recognition for Sustained Excellence
+These awards and accolades reflect our relentless pursuit of superior results for our clients.
+ 
+Gartner
+HCLTech recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Custom Software Development Services
+ 
+Download the analyst report
+ 
+Gartner
+The only service provider recognized as a Customers' Choice in all 6 IT Services categories of the Gartner® Peer Insights™ Voice of the Customer Report
+ 
+Download the analyst report
+ 
+Gartner
+Leader in Gartner® Magic Quadrant™ for Custom Software Development Services, 2024
+ 
+Download the analyst report
+ 
+Hear from Our Clients
+Hear from Our Clients
+HCLTech has been a strategic partner, delivering critical engineering services that have significantly contributed to Teradyne’s success. HCLTech’s engineering teams have been integral to Teradyne’s product development, sustenance and support. Our collaboration has spanned multiple platforms, including UltraFLEXplus, UltraFLEX, J750 and ETS. To further strengthen this partnership, HCLTech has established dedicated Teradyne labs in India, equipped with Teradyne testers to support training and development efforts.
+ 
+Roy Chorev
+VP Semiconductor Test, Product Development at Teradyne, Inc.
+We’ve built a very strong partnership with HCLTech. Our plan is to take this relationship to the next level by making our Digital IT the best in class, and we appreciate HCLTech for all their efforts and collaboration in making that happen.
+ 
+Keiki Ka
+Global CIO
+HCLTech is a true collaborator and a true partner. The way they work and their values resonate with any organization looking to be purpose-led. For me, that passion and what they bring to the table is actually the magic that happens.
+ 
+Kari-Anne Clayton
+Head of Strategy, Transformation,
+Service Management and Risk, Retail Banking
+You need to choose the right partner who is willing to go the extra mile and embark on this [digital transformation] journey with you, and we’re fortunate to have been partners with HCLTech for over a decade now.
+ 
+Stanley Toh
+Head of Enterprise
+End-user Services & Experience
+ 
+ 
+ 
+Watch
+ 
+ 
+Watch
+ 
+ 
+Watch
+Previous testimonial
+Next testimonial
+Case Studies
+Section CTA
+ 
+See all case studies
+ 
+AI and GenAI
+Reduce report summarization time by 44% with HCLTech AI Force
+Transforming manual literature summarization for the multinational medical device manufacturer.
+Read more
+ 
+Engineering
+Location data monetization for a global telecom company
+HCLTech successfully implemented a data monetization strategy for a global telecom company, generating a new revenue stream from anonymized data products.
+Learn more
+ 
+Enterprise applications transformation
+Fonterra's cloud-first transformation with Oracle Cloud Infrastructure
+HCLTech helps Fonterra in business processes transformation, resulting in a 30% boost in performance.
+Learn more
+ 
+Life Sciences and Healthcare
+Leading multinational pharmaceutical company implements patient monitoring services
+We helped a leading pharmaceutical company achieve 95% customer satisfaction and REMS compliance through patient monitoring services, enhancing operational efficiency and patient safety.
+Learn more
+ 
+Digital Operations
+Transforming the sales lifecycle management for a leading cloud service provider
+Explore how HCLTech automated the sales lifecycle for a Fortune 500 global technology company, achieving 100% accuracy in orders and booking processes.
+Read more
+ 
+Engineering
+Re-engineering freight rail with HCLTech’s RailTwin
+HCLTech’s RailTwin transformed a Class 1 freight rail network with real-time AI-driven digital twin, boosting efficiency, capacity and predictive operations.
+Learn more
+ 
+ 
+ 
+ 
+Play
+ 
+ 
+Supercharge Your Career with Us
+At HCLTech, we leverage technology to shape the future of business. Join us if you want to grow, innovate and make an impact.
+ 
+ 
+ 
+ 
+Find Your Spark at HCLTech
+Section CTA
+ 
+Explore careers
+ 
+ 
+Subscribe to the HCLTech Trends and Insights Newsletter
+Every month, we’ll send you the technology news you need to know.
+Primary button
+ 
+Stay connected
+ 
+ 
+ 
+ Homepage 
+ 
+ Home 
+ 
+ Home 
+ 
+ HCLTech: Supercharging Progress | AI, Cloud and Engineering 
+ 
+ 
+ 
+ 
+ 
+ 
+BT Footer
+ 
+What We Do
+ 
+Capabilities col 1
+ 
+AI and Generative AI
+ 
+AI Advisory
+ 
+AI Labs
+ 
+Responsible AI
+ 
+AI Factory
+ 
+AI Force
+ 
+AI Foundry
+ 
+Industry AI Solutions
+ 
+Kinetic AI
+ 
+Physical AI
+ 
+Applications
+ 
+Advisory and Consulting
+ 
+Data
+ 
+Modern Applications
+ 
+Enterprise Applications
+ 
+Business Process Operations
+ 
+EdTech
+ 
+Engineering and R&D Services
+ 
+Digital Design and Manufacturing
+ 
+Digital Engineering
+ 
+Product Engineering
+ 
+Global Capability Center
+ 
+IT Infrastructure
+ 
+Cloud
+ 
+Cybersecurity
+ 
+Digital Workplace
+ 
+Networks
+ 
+
+
+===== product :: https://www.hcltech.com/platform-based-services
+--- SIGNALS ---
+title: Platform-Based Services for AI-Driven IT Transformation | HCLTech
+meta_description: Transform IT operations with HCLTech Platform-Based Services. Use AI-powered automation to reduce costs, improve productivity, and accelerate business growth. Visit us!
+og_description: Transform IT operations with HCLTech Platform-Based Services. Use AI-powered automation to reduce costs, improve productivity, and accelerate business growth. Visit us!
+og_site_name: 
+h1: Platform-Based Services
+h2: HCLTech Platform-Based Services | AI-Powered and Platform-Enabled: The Next Frontier for Your IT Operations | How We Transform Your Business with Platform-Based Services | Our AI and SRE Led Operating Model | End-to-End Managed Services Across All Towers | Frequently Asked Questions (FAQs) | Contact Us
+jsonld_org: [{"@context": "https://schema.org", "@type": "Corporation", "name": "HCLTech", "url": "https://www.hcltech.com/", "logo": "https://www.hcltech.com/themes/custom/hcltech/images/hcltech-logo.svg", "sameAs": ["https://www.facebook.com/HCLTechOfficial", "https://twitter.com/hcltech", "http://instagram.com/hcltech", "https://www.youtube.com/user/HCLTechtube", "https://www.linkedin.com/company/hcl-technologies", "https://www.hcltech.com/"], "contactPoint": [{"areaServed": "Global", "availableLanguage": ["en", "de-DE", "ja-JP", "fr-CA", "en-US"]}]}]
+--- TEXT ---
+Platform-Based Services for AI-Driven IT Transformation | HCLTech
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+Menu
+HCL Worldwide Navigation
+ 
+Contact Us
+ 
+ Ask 
+ 
+Search
+ 
+Close
+ 
+En
+Global - English
+Japan - 日本語 (Japanese)
+Germany - Deutsch (German)
+Canada - Français (French)
+United States - English
+ 
+ 
+ 
+Main Navigation
+ 
+What We Do
+ 
+HCLTech
+ 
+AI and Generative AI
+ 
+AI Advisory
+ 
+AI Labs
+ 
+Responsible AI
+ 
+AI Factory
+ 
+AI Force
+ 
+AI Foundry
+ 
+Industry AI Solutions
+ 
+Kinetic AI
+ 
+Physical AI
+ 
+Applications
+ 
+Advisory and Consulting
+ 
+Data
+ 
+Modern Applications
+ 
+Enterprise Applications
+ 
+Business Process Operations
+ 
+HCLTech
+ 
+EdTech
+ 
+Engineering and R&D Services
+ 
+Digital Design and Manufacturing
+ 
+Digital Engineering
+ 
+Product Engineering
+ 
+Global Capability Center
+ 
+IT Infrastructure
+ 
+Cloud
+ 
+Cybersecurity
+ 
+Digital Workplace
+ 
+Networks
+ 
+Platform-Based Services
+ 
+Unified Service Management (USM)
+ 
+Supply Chain
+ 
+HCLTech
+ 
+ Products and Platforms
+ 
+Our Blueprint - XDO
+ 
+Data Intelligence Platform
+ 
+Secure Intelligent Operations
+ 
+HCL BigFix
+ 
+HCL AppScan
+ 
+Sovereign Collaboration
+ 
+Hyper-personalized MarTech
+ 
+Aftermarket Cloud
+ 
+Industries
+ 
+HCLTech
+ 
+Aerospace and Defense
+ 
+Automotive
+ 
+Consumer Goods
+ 
+Energy and Utilities
+ 
+Financial Services
+ 
+Banking
+ 
+Capital Markets
+ 
+Fintech
+ 
+Insurance
+ 
+Life Sciences and Healthcare
+ 
+Manufacturing
+ 
+HCLTech
+ 
+Mining and Natural Resources
+ 
+Oil and Gas
+ 
+Private Equity
+ 
+Public Sector
+ 
+Retail
+ 
+Telecom, Media and Tech
+ 
+Telecom
+ 
+High Tech
+ 
+Media and Entertainment
+ 
+Semiconductor
+ 
+Travel, Transport, Logistics and Hospitality
+ 
+Ecosystem
+ 
+Who We Are
+ 
+HCLTech
+ 
+About Us
+ 
+Analyst Recognitions
+ 
+Annual Report 2025
+ 
+Awards and Recognition
+ 
+Code of Business Ethics and Conduct
+ 
+Corporate Social Responsibility
+ 
+Diversity, Equity and Inclusion
+ 
+HCLTech
+ 
+Global Presence
+ 
+Investor Relations
+ 
+Leadership
+ 
+Newsroom
+ 
+Privacy Trust Center
+ 
+Strategic Alliances
+ 
+Sustainability
+ 
+Resources
+ 
+Trends and Insights
+ 
+Case Studies
+ 
+Events and Webinars
+ 
+Careers
+ 
+Careers Overview
+ 
+Americas
+ 
+Brazil
+ 
+Canada
+ 
+Costa Rica
+ 
+Guatemala
+ 
+Mexico
+ 
+United States
+ 
+Asia Pacific
+ 
+Australia
+ 
+Japan
+ 
+Malaysia
+ 
+New Zealand
+ 
+Philippines
+ 
+Singapore
+ 
+Sri Lanka
+ 
+Vietnam
+ 
+Europe and Africa
+ 
+Bulgaria
+ 
+Germany
+ 
+Hungary
+ 
+Morocco
+ 
+Poland
+ 
+Portugal
+ 
+Romania
+ 
+Spain
+ 
+Sweden
+ 
+United Kingdom
+ 
+India
+ 
+Meet our people
+ 
+Explore job opportunities
+ 
+HCLSoftware
+ 
+Contact Us
+ 
+ 
+En
+Global - English
+Japan - 日本語 (Japanese)
+Germany - Deutsch (German)
+Canada - Français (French)
+United States - English
+ Ask 
+ 
+Search
+ 
+Close
+ 
+ 
+ 
+ 
+ 
+ 
+Home
+ 
+ 
+ 
+ › 
+ 
+Digital Foundation
+ 
+ › 
+Platform-Based Services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HCLTech Platform-Based Services
+Intelligent. Adaptive. Unbound.
+Section CTA
+ 
+Learn more
+Overview
+Key Features
+AI-Led Operating Model
+Services
+Contact Us
+ 
+ 
+Section Title
+Overview
+AI-Powered and Platform-Enabled: The Next Frontier for Your IT Operations
+Traditional, effort-based delivery models have delivered efficiency and control, but they can no longer keep pace with today’s business demands. Platform-Based Services shift the operating paradigm from managing effort to orchestrating outcomes through standardized, catalog-driven services, hyperautomation and AI-powered operations.
+The result: significant TCO reduction, faster time-to-value, zero-defect delivery and a truly scalable as-a-service model without linear growth in effort.
+Section CTA
+ 
+ 
+ 
+Section Title
+Key Features
+How We Transform Your Business with Platform-Based Services
+Platform-Based Services deliver a fundamentally new way to run enterprise operations, moving beyond effort-based execution to outcome-orchestrated delivery. By combining standardized, catalog-driven services, consumer-grade digital experience, hyperautomation and AI-powered 
+AI Force.ITOps
+, Platform-Based Services enables faster time-to-value, sustained TCO reduction, zero-defect delivery and seamless scalability, helping enterprises respond to market pressure while unlocking long-term efficiency, agility and differentiated business value.
+ 
+Modern, catalog-driven capabilities
+Best-in-class, standardized service catalogs reduce variability while improving transparency, governance and control.
+ 
+Outcome-driven operating model
+Moves the focus from managing effort to orchestrating outcomes through software-driven, autonomous operations.
+ 
+Consumer-grade digital front end
+A unified digital experience simplifies service consumption and enhances stakeholder experience end-to-end.
+ 
+AI and GenAI-powered AI Force.ITOps
+Drives intelligent operations, proactive optimization and smarter decision-making across the service lifecycle.
+ 
+Hyperautomation-enabled zero-defect delivery
+Minimizes manual intervention, reduces rework and improves reliability through embedded automation.
+ 
+Accelerated time-to-value
+Rapid onboarding speeds up transition-to-value and significantly reduces time-to-stabilize.
+ 
+Truly scalable as-a-service model
+Scales with demand without linear increases in effort, enabling sustained efficiency and value realization.
+Discover more about Platform-Based Services
+Let our AI-powered search help you
+ 
+Search ...
+Looking for 
+Typed
+ 
+Submit
+We think these topics might interest you
+What are HCLTech Platform-Based Services?
+What role does AI play in Platform-Based Services?
+What is AI Force.ITOps?
+ 
+ 
+Our AI and SRE Led Operating Model
+Platform-Based Services introduces a modern Target Operating Model that transforms IT service delivery from manual, people-dependent execution to platform-driven, autonomous operations.
+Powered by AI Force.ITOps, Platform-Based Services embed agentic automation at the core of IT operations, enabling:
+Always-on observability
+Self-healing system reliability
+Policy-led governance
+The result: enterprises scale faster with higher agility, operational intelligence and resilience across their IT landscape.
+Section CTA
+ 
+Traditional IT models rely on
+Fragmented tools and siloed platforms
+Reactive, ticket-driven workflows
+High human intervention and effort
+ 
+Platform-Based Services replaces this with
+Feature-first, catalog-led architecture
+Subscription-based service model
+Outcome-oriented delivery
+Standardized, secure and scalable services
+AI-driven automation at scale
+ 
+ 
+ 
+ 
+Services
+End-to-End Managed Services Across All Towers
+Platform-Based Services deliver integrated, end-to-end managed services across the enterprise, enabled through platform-based, dedicated or hybrid delivery models. Built to simplify operations and accelerate outcomes, Platform-Based Services brings together hybrid cloud, workplace, network, security and service management capabilities under a unified, AI-driven operating model.
+Section CTA
+ 
+Hybrid Cloud
+End-to-end Cloud and Data Center services for Hosting, Migration, Compute, Storage, Backup and Mainframe Modernization
+ 
+Digital Workplace
+AI-enabled Workplace Solutions including Service Desk, Collaboration, Mobility and Device Lifecycle Management
+ 
+Enterprise Networks
+Advanced Network Operations, Automation, SD-WAN and Contact Center Solutions for secure connectivity
+ 
+Cybersecurity and GRC
+Comprehensive Security Framework delivering digital trust, resilience and compliance across IT landscapes
+ 
+Unified Service Management
+Integrated AI-driven Service Management with Automation, Tools and Governance for operational excellence
+ 
+ 
+Frequently Asked Questions (FAQs)
+What are HCLTech Platform-Based Services?
+HCLTech Platform-Based Services are outcome-oriented, AI-powered managed services that shift IT operations from traditional effort-based delivery to standardized, platform-enabled and automated service consumption.
+What business outcomes can Platform-Based Services deliver?
+Platform-Based Services help organizations achieve lower total cost of ownership (TCO), faster time-to-value, zero-defect delivery, improved service reliability and the ability to scale without linear increases in effort.
+What is AI Force.ITOps?
+AI Force.ITOps is our intelligent operations platform that powers Platform-Based Services. It follows a Sense → Think → Act → Engage model to deliver proactive, zero-touch and outcome-driven operations.
+How does the service catalog benefit enterprises?
+A standardized, catalog-driven approach improves transparency, governance and predictability while reducing variability and accelerating service onboarding and consumption.
+How does Platform-Based Services improve service reliability?
+Through embedded hyperautomation, AI-driven observability, self-healing capabilities and proactive issue resolution, Platform-Based Services significantly reduce manual intervention and rework.
+How quickly can organizations realize value from Platform-Based Services?
+With rapid onboarding and standardized service frameworks, Platform-Based Services significantly reduce transition time and help organizations realize value faster than traditional delivery models.
+How are Platform-Based Services different from traditional managed services?
+Traditional managed services focus on managing effort and resources. Platform-Based Services focus on orchestrating outcomes using standardized service catalogs, automation, AI-led operations and software-driven delivery models.
+What role does AI play in Platform-Based Services?
+AI is embedded across the service lifecycle through AI Force.ITOps, enabling predictive insights, intelligent decision-making, autonomous remediation and continuous optimization using AI, GenAI and agentic AI capabilities.
+What services are available under Platform-Based Services?
+Platform-Based Services provide end-to-end managed services across key towers, including Hybrid Cloud, Digital Workplace, Enterprise Network, Cybersecurity and Unified Service Management, delivered through platform-based, dedicated or hybrid models.
+Can Platform-Based Services scale with business demand?
+Yes. Platform-Based Services are designed as a truly scalable as-a-service model, allowing organizations to scale services up or down without vendor lock-ins.
+Is Platform-Based Services suitable for hybrid IT environments?
+Yes. Platform-Based Services are built to support hybrid and multicloud environments, integrating seamlessly across on-prem, cloud and third-party ecosystems.
+Who should consider Platform-Based Services?
+Platform-Based Services are ideal for enterprises looking to modernize IT operations, reduce operational complexity, improve service quality and adopt an AI-led, outcome-driven operating model.
+ 
+ Contact Us
+ 
+ 
+First Name
+ 
+ 
+Last Name
+ 
+ 
+Email id
+ 
+ 
+English Email Address
+ 
+ 
+Organization
+ 
+ 
+Job Title
+ 
+Job Title
+CEO
+CFO
+CIO
+CMO
+COO
+CTO
+CVP
+Board Member
+Chairman
+Director
+Managing Director
+President
+SVP
+VP
+Architect / Consultant
+Manager
+Other Decision Maker
+Admin Assistant
+CDO – Chief Digital Officer
+CDO – Chief Data Officer
+ 
+Other Job
+ 
+ 
+Country
+ 
+Country
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R.
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russian Federation
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+ 
+ 
+ I acknowledge that I am not a U.S. Federal Government employee or agency, nor am I submitting information with respect to or on behalf of one. 
+I acknowledge that I am not a U.S. Federal Government employee or agency, nor am I submitting information with respect to or on behalf of one.
+ 
+Why are we asking you this?
+Why are we asking you this?
+HCL provides softw

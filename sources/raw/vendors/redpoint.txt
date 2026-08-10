@@ -1,0 +1,287 @@
+===== homepage :: https://www.redpoint.com/
+--- SIGNALS ---
+title: Redpoint Ventures
+meta_description: Redpoint partners with visionary entrepreneurs to create new markets & redefine existing ones. We invest in startups across seed, early & growth phases.
+og_description: Redpoint partners with visionary entrepreneurs to create new markets & redefine existing ones. We invest in startups across seed, early & growth phases.
+og_site_name: 
+h1: Redpoint Ventures
+h2: Join the Redpoint network
+jsonld_org: []
+--- TEXT ---
+Redpoint Ventures
+ 
+ 
+Redpoint
+Companies
+Team
+Content Hub
+ 
+ 
+Companies
+Team
+Content Hub
+InfraRed
+Careers
+© 
+2026
+ - Redpoint Ventures, all rights reserved
+ 
+ 
+ 
+ 
+Redpoint Ventures
+Scroll to skip
+ 
+Companies
+No results found
+View all
+ 
+Meet the Team
+ 
+Resources & Content
+The InfraRed 2026 Report
+The InfraRed 2026 Report
+The headline takeaway: over 80% of the companies on the InfraRed 100 list raised money in the last two years, and nearly 30% have raised over $100 million. In a funding environment most people would describe as "complex," infrastructure is not just surviving – it’s compounding.
+There has never been a better time to build at this layer, and the report goes deep on why.
+read
+ 
+Quick news
+A Step Towards Predicting the Future: Our Investment in Aaru
+ 
+Leading Flora's $42M Series A, The AI-Native Creative Platform Rethinking How Design Works
+ 
+Ex-Hims&Hers Team Raises $25M to Take On Fresh Dog Food
+ 
+Sam Altman talks GPT-4o and Predicts the Future of AI
+46 min 14 sec episode
+Watch
+ 
+Yann LeCun on What Comes After LLMs
+1h 21m episode
+Watch
+ 
+Eight Key Lessons for Rocket-Shipping AI Products
+9 minute read
+Concierge Culture & The Future of Personalization
+2 minute read
+View more
+Social
+ 
+Instagram 
+ 
+Instagram 
+ 
+Instagram 
+ 
+Instagram
+InfraRed Summit 2024
+ 
+Instagram
+Stripe CTO on engineers
+ 
+Instagram
+Red Flags in a VC
+ 
+TikTok
+Big tech employee joins a startup
+ 
+Instagram
+Green Flags in a VC
+ 
+Instagram
+Green Flags in a Founder
+ 
+ 
+Youtube
+ 
+Insta
+ 
+TikTok
+ 
+LinkedIn
+ 
+X
+ 
+Join the Redpoint network
+Submit
+ 
+ 
+Main
+Companies
+Team
+InfraRed
+Careers
+Content
+Featured
+AI
+Funding News
+Consumer
+Infrastructure
+Fintech
+For Founders
+Best of Socials
+Social
+TikTok
+YouTube
+Instagram
+X
+LinkedIn
+Facebook
+Legal
+Terms of Use
+Privacy Policy
+© 
+2026
+ - Redpoint Ventures, all rights reserved
+Consent Preferences
+
+===== product :: https://www.redpoint.com/content-hub/written/eight-key-lessons-for-rocket-shipping-ai-products/
+--- SIGNALS ---
+title: Eight Key Lessons for Rocket-Shipping AI Products | Redpoint Ventures
+meta_description: At Redpoint, we’ve seen an explosion of apps and products built on top of LLMs, both from incumbents and AI-native startups. Many of those companies have successfully acquired their first batch of power users and gained meaningful product adoption. As more companies grow from the experimentation stage to production stage in 2024, we wanted to share some lessons we’ve learned from top companies on our AI podcast Unsupervised Learning. Leaders from Adobe, Notion, Tome, Snorkel, Intercom, Perplexity and OpenAI have shared their thoughts on team-structuring, building usage moats, pricing, product testing, evaluation, GTM and more. Below are some of our favorite lessons.
+og_description: At Redpoint, we’ve seen an explosion of apps and products built on top of LLMs, both from incumbents and AI-native startups. Many of those companies have successfully acquired their first batch of power users and gained meaningful product adoption. As more companies grow from the experimentation stage to production stage in 2024, we wanted to share some lessons we’ve learned from top companies on our AI podcast Unsupervised Learning. Leaders from Adobe, Notion, Tome, Snorkel, Intercom, Perplexity and OpenAI have shared their thoughts on team-structuring, building usage moats, pricing, product testing, evaluation, GTM and more. Below are some of our favorite lessons.
+og_site_name: 
+h1: Eight Key Lessons for Rocket-Shipping AI Products
+h2: Join the Redpoint network
+jsonld_org: []
+--- TEXT ---
+Eight Key Lessons for Rocket-Shipping AI Products | Redpoint Ventures
+ 
+ 
+Redpoint
+Companies
+Team
+Content Hub
+ 
+ 
+Companies
+Team
+Content Hub
+InfraRed
+Careers
+© 
+2026
+ - Redpoint Ventures, all rights reserved
+ 
+ 
+ 
+ 
+Back
+Jacob Effron
+Managing Director
+, 
+investors
+Patrick Chase
+Managing Director
+, 
+investors
+Jordan Segall
+Partner
+, 
+investors
+Saturday, April 6, 2024
+Eight Key Lessons for Rocket-Shipping AI Products
+Jacob Effron
+Managing Director
+, 
+investors
+Patrick Chase
+Managing Director
+, 
+investors
+Jordan Segall
+Partner
+, 
+investors
+Saturday, April 6, 2024
+A
+t Redpoint, we’ve seen an explosion of apps and products built on top of LLMs, both from incumbents and AI-native startups. Many of those companies have successfully acquired their first batch of power users and gained meaningful product adoption. As more companies grow from the experimentation stage to production stage in 2024, we wanted to share some lessons we’ve learned from top companies on our AI podcast 
+Unsupervised Learning
+. Leaders from Adobe, Notion, Tome, Snorkel, Intercom, Perplexity and OpenAI have shared their thoughts on team-structuring, building usage moats, pricing, product testing, evaluation, GTM and more. Below are some of our favorite lessons:
+Eight Key Lessons for Rocket-Shipping AI Products
+1. “Just do it”
+Speed of execution is crucial for AI startups. As more and more foundation models and developer tools become available today, building on top of third-party models might be the fastest way to accrue sustainable product usage, gain user feedback and validation on the products, and iterate on user experiences. Building such a moat then helps AI startups attract funding and talent in a competitive market filled with incumbents who already have data and distribution moats.
+Although many worry about being viewed as “thin wrappers” on OpenAI, 
+Aravind Srinivas
+, CEO and co-founder of Perplexity, is actually in favor of starting a company that way. Before he launched Perplexity, Aravind had a few ideas in mind and was not sure which product to launch first. He soon realized that he needed to launch something first to gain user feedback. Aravind believes that it is important for startups to move fast, even if it means being a “wrapper” company at first.
+Aravind said, “You only have a right to think about moats when you even have something… Yes, I am a wrapper, but I would rather be a wrapper with a hundred thousand more users than having some model inside and nobody even knows who I am. Then the model might not even matter.”
+2. Let customers sit in the driver seat
+AI products are not just about last-mile productivity; they should be fully integrated throughout the user experience, with customers serving as creative directors assisting with the end-to-end creative process. 
+Keith Peiris
+, CEO and co-founder of Tome, described the creation process for Tome presentations as similar to that of a management consultant – write the outline first, and have the case managers approve the outline before building out the content. Having customers behind the wheel allows LLMs to gain enough inputs to generate desired outputs.
+Keith said, “We're probably never going to show you one prompt, 10 pages that happens instantly. We're going to show you the outline, make sure that you agree with the outline. You can edit it. If you don't, then we show you a page, see if you agree with the page, then ask you to regenenrate and get into that flow.”
+Alexandru Costin
+, VP of Generative AI at Adobe mentioned that Adobe’s AI products not only help existing customers reach destinations faster, but help net new customers get started faster.
+Alexandru said, “We think that intercepting some of our most frequent workflows in our products and bringing generative AI in context is a strategy that will make our customers more productive. And we're going to continue to do that along multiple modalities from images to video to 3D vectors, etc. It's like an Uber. You don't have to know how to drive, you need to get to a particular destination. So what we've seen that impressed us more was the openness of the whole range of customers, from novices to professionals to these co-pilot experiences that basically do the work for you. You're still in control, you're still guiding the computer. It's not automated, but it's a change in the human computer interaction by this copilot, and we want to embrace it more.”
+3. Customers are your RLHF annotators
+Engaging users in the co-creation process to create a feedback loop allows companies to iterate fast and constantly improve user experience from user feedback. 
+Linus Lee
+, AI research engineer at Notion, shared with us that Notion lets ambassadors, early adopters, and power users drive new use cases for Notion AI and then bakes those into pre-built templates and prompts. 
+Alex Ratner
+, CEO and co-founder of Snorkel AI, mentioned that they are also improving the quality of data labels with customers.
+Certain user interactions can also be used as RLHF signals for training next generation models. For example, Adobe has explicit signals such as like and dislike, as well as implicit signals like number of downloads, saves, or shares, that indicate whether users like a particular generation. The company then integrates this feedback loop and teaches the next generation of Firefly models through these signals to generate content that customers are more likely to enjoy.
+This approach also resonated with what Keith shared with us –
+“We should just monitor time spent and we should monitor feature retention and we should be able to run AB tests at our scale of Model 1 versus Model 2 and which one has higher feature retention over seven days or 30 days, and be able to improve with that.”
+4. Structure your team to promote continued innovation
+Top AI research engineers are as hard to find as GPUs today. As such, it is important to structure AI teams such that research engineers have freedom and flexibility to pursue their research interests, while also receiving support from product teams when it comes to integrating their work into products.
+For example, Alexandru from Adobe shared with us that Adobe keeps its research team separate to ensure a pace of innovation and productivity. The researchers then collaborate with the “tech transfer teams” to put their latest research ideas into production. The “tech transfer teams” are product experts in their vertical segments. Since they know their products and users the best, they can advise on which workflows and product lines within Adobe need a particular AI feature the most.
+Notion adopts a similar approach. Often viewed as one of the earliest and most effective adopters of AI, Notion has been able to iterate fast by having one or two engineers lead the exploration and prototyping process. Notion structures its 12-person AI team into model development and product integration to ensure both high model quality and user-friendly product interfaces.
+5. Resist the flood of feature requests
+As AI companies start to grow, they need to be wise about their priorities given the tons of inbound feature requests.
+OpenAI decided to follow the North Star of providing a world-class service to customers. 
+Logan Kilpatrick
+, former Head of Developer Relations at OpenAI, shared with us that the company prioritizes shipping out products that are critical to customers rather than building features such as dashboards or alerts.
+6. Know your costs levers to keep costs in check
+Pricing for AI features remains challenging and unclear. All companies want to create an amazing user experience, but it is expensive to develop and host models that generate high quality outputs. According to 
+Des Traynor
+, co-founder and Chief Strategy Officer of Intercom, we are not yet in the cost optimization stage. He believes that the underlying technology will get cheaper and faster overtime. Cost optimization will come after the growth of foundation model companies has plateaued.
+Knowing the cost levers and when to pull them can be a helpful first step. Alexandru shared with us that Adobe is exploring different techniques, such as “distillation, pruning, quantization, applying various latest and greatest open source technologies or even exploring new silicon types that are optimized.” These advanced technologies could help Adobe keep costs in check. Des said that Intercom is also exploring different cost levers now. Specifically, they have put a variety of models through the same scenarios to measure performance. Such tests allow Intercom to dynamically move certain customer calls from higher-quality models like GPT-4 to GPT-3.5 or even open-source alternatives.
+Deprioritizing a free tier when usage reaches peak capacity is another approach we’ve seen. Since inference costs scale when users grow, companies roll back to lower-tier foundation models to stay cost disciplined. For example, Tome built out its own capacity management. When usage moves towards peak, it slows down the free tier and prioritizes pro users. Notion also has a 
+fair usage policy
+, where if “any user requests 30 or more AI responses within 24 hours, that user may experience slower performance for that period.”
+7. GTM: prioritize which customers to target first
+It is important to figure out which customer segments to focus on first given the many people that like to try these products. For example, Tome prioritizes prosumers who are more likely to take their Tome experiences into their workplaces and enterprises. These prosumers are key ambassadors for Tome when they expand into enterprise use cases.
+8. Dogfood and stress-test internally first
+Before rolling out new AI features to power users, dogfooding internally is helpful for product validation and testing. For example, once Notion comes up with new AI feature ideas, they are then validated and pressure-tested through several days of internal usage. Notion can then leverage internal feedback to understand which new features are more useful.
+AI startups usually have resource constraints. It is important to figure out which customer segments to focus on first. For example, Tome prioritizes prosumers who are more likely to take their Tome experiences into their workplaces and enterprises. These prosumers would be key ambassadors for Tome when it expands into enterprise use cases. As such, when selecting user feedback to iterate product features, suggestions and requests from the initial prosumer targets should be prioritized.
+Tome employs a similar approach, and has to have employees “sign off” before shipping products for external testing –
+“Our team in general has a principle of we have to like the stuff that we produce before we ask our users or before we ask an external eval team to rate it. I think one of the few things a startup can export that a big company can't is good taste. So I think we always have this bar of like, "Well, do we like this? And if we don't like this, then we shouldn't even bother." So we started with internal eval and we were looking at concision like, "How concise is the output?" Turns out most people want their slides to be concise and terse. They don't want it to sound like flowery AI output,” said Keith.
+Definitely subscribe to Unsupervised Learning on 
+Apple
+ or 
+Spotify
+ to hear similar guests in the future.
+Written By: Jacob Effron, Patrick Chase, Jordan Segall and Crystal Liu
+If you’re building on top of LLMs and have thoughts on lessons we should feature in future pieces please reach out to us at jacob@redpoint.com, patrick@redpoint.com and jordan@redpoint.com.
+Join the Redpoint network
+Submit
+ 
+ 
+Main
+Companies
+Team
+InfraRed
+Careers
+Content
+Featured
+AI
+Funding News
+Consumer
+Infrastructure
+Fintech
+For Founders
+Best of Socials
+Social
+TikTok
+YouTube
+Instagram
+X
+LinkedIn
+Facebook
+Legal
+Terms of Use
+Privacy Policy
+© 
+2026
+ - Redpoint Ventures, all rights reserved
+Consent Preferences

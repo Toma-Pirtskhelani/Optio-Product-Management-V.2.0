@@ -1,0 +1,1534 @@
+===== homepage :: https://pyze.com/
+--- SIGNALS ---
+title: Become the Agentic Enterprise | Execution Intelligence | Pyze
+meta_description: Pyze is the Execution Intelligence platform to become the Agentic Enterprise — understand how your systems are built and how your people actually work, then transform, automate, and measure with confidence. Trusted by Fortune 1000 companies.
+og_description: Pyze is the Execution Intelligence platform to become the Agentic Enterprise — understand how your systems are built and how your people actually work, then transform, automate, and measure with confidence. Trusted by Fortune 1000 companies.
+og_site_name: Pyze
+h1: Become theAgentic Enterprise
+h2: What is Execution Intelligence? | Platform Capabilities | Two Transformation Vectors. One Agentic Enterprise. | You can't optimize what you can't see | Real Results for Enterprise Leaders | Works with any enterprise system | Ready to become the Agentic Enterprise?
+jsonld_org: []
+--- TEXT ---
+Become the Agentic Enterprise | Execution Intelligence | Pyze
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+Execution Intelligence Platform
+ 
+The complete platform overview
+ 
+ 
+EI for Productivity
+ 
+Measure and optimize workforce performance
+ 
+ 
+Product Analytics
+ 
+Funnels, retention, adoption, dashboards & anomaly detection
+ 
+ 
+Digital Experience
+ 
+Session replay, heatmaps, frustration & performance
+ 
+ 
+EI for Transformation
+ 
+Accelerate legacy discovery and transformation
+ 
+ 
+Autonomous Agents
+ 
+Custom agents that surface opportunities
+ 
+ 
+SOP Generation
+ 
+Auto-generated SOPs from execution data
+ 
+ 
+AI Discovery
+ 
+Find where AI agents belong
+ 
+ 
+AI Effectiveness
+ 
+Measure whether AI is working
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+Platforms
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+Banking & Financial Services
+Insurance
+Healthcare & Life Sciences
+Energy & Utilities
+Manufacturing
+Telecommunications
+Public Sector
+ 
+ 
+ 
+ 
+Process Mining
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+Why Pyze
+About
+Partners
+Case Studies
+Blog
+Contact
+ 
+ 
+ 
+ 
+ 
+Schedule a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Execution Intelligence Platform
+EI for Productivity
+Product Analytics
+Digital Experience
+EI for Transformation
+Autonomous Agents
+SOP Generation
+AI Discovery
+AI Effectiveness
+ 
+ 
+ 
+Solutions
+ 
+Platforms
+ 
+Process Mining
+ 
+ 
+ 
+Industries
+ 
+Banking & Financial Services
+Insurance
+Healthcare & Life Sciences
+Energy & Utilities
+Manufacturing
+Telecommunications
+Public Sector
+ 
+ 
+ 
+Company
+ 
+Why Pyze
+About
+Partners
+Case Studies
+Blog
+Contact
+ 
+ 
+Schedule a Demo
+ 
+ 
+ 
+ 
+ 
+Become the
+Agentic Enterprise
+ 
+ 
+0
+agents deployed
+|
+Execution Speed
+Poor
+Pyze understands how your systems are built and how your people actually work — the Execution Intelligence to transform, automate, and measure with confidence.
+Get started with Execution Intelligence 
+Explore the Platform
+ 
+ 
+ 
+Trusted by leading enterprises
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What is 
+Execution Intelligence
+?
+ 
+The data layer that understands your enterprise from two sides — how your systems are built, and how your people actually work — the missing foundation for becoming agentic.
+ 
+ 
+ 
+ 
+ 
+ 
+01
+ 
+ 
+Systems
+ 
+Understand the business rules embedded in your enterprise applications and custom systems. What the business actually does.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+02
+ 
+ 
+People
+ 
+Understand how employees actually execute business processes — screen navigation, workflow patterns, and where work gets stuck. How work really happens.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+03
+ 
+ 
+Action
+ 
+Identify where AI agents and automation belong, transform the legacy that blocks them, and measure success — productivity, ROI, and outcomes in production.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Destination
+ 
+The 
+Agentic Enterprise
+ 
+ 
+ 
+ 
+ 
+Explore the full platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform Capabilities
+ 
+Purpose-built capabilities for understanding work, deploying AI, and measuring outcomes.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Autonomous Agents
+ 
+Deploy custom agents to meet your business goals — audit SOPs for drift, understand SLA failures, find automation opportunities.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOP Generation
+ 
+Auto-generated, audit-grade SOPs with DOM-level fidelity. Continuous adherence monitoring and drift detection built in.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI Discovery
+ 
+Find where AI agents belong — and where they don't. Distinguish automation from augmentation using real execution data.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI Effectiveness
+ 
+Measure whether AI is actually working. Adopter vs. non-adopter analysis from real execution patterns.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Two Transformation Vectors. One Agentic Enterprise.
+ 
+Modernize the systems. Empower the people. Two vectors of transformation converging on one destination — the Agentic Enterprise.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EI for Productivity
+ 
+Capture real-time user behavior inside business applications to generate productivity baselines, identify automation opportunities, and measure AI ROI.
+ 
+ 
+ Real-time workflow metrics and KPIs 
+ Swivel-chair and context-switch identification 
+ Top/bottom performer benchmarking 
+ AI Agent readiness assessment 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EI for Transformation
+ 
+Automate discovery of workflows and business rules from legacy systems. Accelerate transformation by 90% with AI-powered assessment and development accelerators.
+ 
+ 
+ Automated workflow and rule extraction 
+ GenAI-powered modernization analysis 
+ Platform-specific development accelerators 
+ Pega Migration Accelerator 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Missing Data Layer
+ 
+You can't optimize what you can't see
+ 
+Enterprise systems log transactions — but not how humans actually work inside them. Without this data, productivity initiatives are guesswork, AI agent deployments fail, and ROI is unmeasurable.
+ 
+Pyze captures the real execution data that's been invisible — screen interactions, workflow patterns, process bottlenecks — giving you the foundation to optimize productivity, identify where AI agents should operate, and measure Agentic ROI.
+ 
+Explore the platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Without Execution Intelligence
+ 
+Blind deployments. No baseline. No way to measure if AI agents actually improve outcomes.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+With Pyze
+ 
+Data-driven decisions. Clear productivity baselines. Measurable Agentic ROI from day one.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Real Results for Enterprise Leaders
+ 
+ 
+ 
+ 
+ 
+Banking
+ 
+Retail Banking Productivity
+ 
+Identified $3M+ in operational savings and 50K+ annual hours of productivity gains across 11,000 employees.
+ 
+ 
+$3M+
+ 
+Savings Identified
+ 
+ 
+ 
+ 
+ 
+Financial Crime
+ 
+Financial Crime Optimization
+ 
+250K hours of annual savings and €5M+ in cost reductions across 8,000 financial crime analysts.
+ 
+ 
+250K
+ 
+Hours Saved Annually
+ 
+ 
+ 
+ 
+ 
+Modernization
+ 
+Legacy Application Discovery
+ 
+90% reduction in business rule extraction time, eliminating the need for 40 analysts over 12 months.
+ 
+ 
+90%
+ 
+Faster Discovery
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Works with any enterprise system
+ 
+ 
+ 
+ SAP 
+ Salesforce 
+ Pega 
+ ServiceNow 
+ Guidewire 
+ Veeva 
+ Oracle 
+ Appian 
+ Mendix 
+ All SaaS Applications 
+ Internal Web Applications 
+ 
+ 
+ 
+See all supported platforms →
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ready to become the Agentic Enterprise? 
+ 
+See how Execution Intelligence gives your AI initiatives the operational ground truth they need to succeed.
+ 
+ 
+ Schedule a Demo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Execution Intelligence to become the Agentic Enterprise.
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+Platform
+ 
+EI for Productivity
+ 
+EI for Transformation
+ 
+Platforms
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+About
+ 
+Partners
+ 
+Case Studies
+ 
+Contact
+ 
+ 
+ 
+ 
+ 
+Ecosystem
+ 
+ 
+Celonis
+ 
+Pega
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+© 2026 Pyze, Inc. All rights reserved.
+ 
+ 
+Terms
+ 
+Privacy
+ 
+Security
+ 
+GDPR
+ 
+ 
+ 
+Pega, Pegasystems, Pega Blueprint, and Constellation are trademarks of Pegasystems Inc. Camunda, ServiceNow, Appian, UiPath, Microsoft Power Apps, and other platform names are trademarks of their respective owners. Pyze is an independent provider and is not affiliated with, endorsed by, or sponsored by Pegasystems or any other named platform.
+
+===== product :: https://pyze.com/platform
+--- SIGNALS ---
+title: The Execution Intelligence Platform | Pyze
+meta_description: Understand what humans do. Identify what AI should do. Measure the impact. The Pyze Execution Intelligence Platform.
+og_description: Understand what humans do. Identify what AI should do. Measure the impact. The Pyze Execution Intelligence Platform.
+og_site_name: Pyze
+h1: The Execution Intelligence Platform
+h2: The Execution Intelligence Framework | Where Pyze Fits | Technology Differentiators | Broad Enterprise System Support | See the Platform in Action
+jsonld_org: []
+--- TEXT ---
+The Execution Intelligence Platform | Pyze
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+Execution Intelligence Platform
+ 
+The complete platform overview
+ 
+ 
+EI for Productivity
+ 
+Measure and optimize workforce performance
+ 
+ 
+Product Analytics
+ 
+Funnels, retention, adoption, dashboards & anomaly detection
+ 
+ 
+Digital Experience
+ 
+Session replay, heatmaps, frustration & performance
+ 
+ 
+EI for Transformation
+ 
+Accelerate legacy discovery and transformation
+ 
+ 
+Autonomous Agents
+ 
+Custom agents that surface opportunities
+ 
+ 
+SOP Generation
+ 
+Auto-generated SOPs from execution data
+ 
+ 
+AI Discovery
+ 
+Find where AI agents belong
+ 
+ 
+AI Effectiveness
+ 
+Measure whether AI is working
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+Platforms
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+Banking & Financial Services
+Insurance
+Healthcare & Life Sciences
+Energy & Utilities
+Manufacturing
+Telecommunications
+Public Sector
+ 
+ 
+ 
+ 
+Process Mining
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+Why Pyze
+About
+Partners
+Case Studies
+Blog
+Contact
+ 
+ 
+ 
+ 
+ 
+Schedule a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Execution Intelligence Platform
+EI for Productivity
+Product Analytics
+Digital Experience
+EI for Transformation
+Autonomous Agents
+SOP Generation
+AI Discovery
+AI Effectiveness
+ 
+ 
+ 
+Solutions
+ 
+Platforms
+ 
+Process Mining
+ 
+ 
+ 
+Industries
+ 
+Banking & Financial Services
+Insurance
+Healthcare & Life Sciences
+Energy & Utilities
+Manufacturing
+Telecommunications
+Public Sector
+ 
+ 
+ 
+Company
+ 
+Why Pyze
+About
+Partners
+Case Studies
+Blog
+Contact
+ 
+ 
+Schedule a Demo
+ 
+ 
+ 
+ 
+ 
+The Execution Intelligence Platform
+Understand what humans do. Identify what AI should do. Measure the impact.
+Schedule a Demo 
+Explore Products
+ 
+ 
+ 
+ 
+The Execution Intelligence Framework
+ 
+Four steps to operationalize AI across your enterprise.
+ 
+ 
+ 
+ 
+1. Understand
+ 
+Capture real execution data from any enterprise application. See how work actually happens — not how it was designed to happen.
+ 
+ 
+ 
+✓
+Real-time user behavior capture
+ 
+ 
+✓
+Automated workflow generation
+ 
+ 
+✓
+Cross-application visibility
+ 
+ 
+ 
+ 
+2. Identify
+ 
+Discover what work humans should do versus what AI agents should handle. Pinpoint automation opportunities with data-driven precision.
+ 
+ 
+ 
+✓
+Swivel-chair action detection
+ 
+ 
+✓
+Rework loop identification
+ 
+ 
+✓
+Automation opportunity scoring
+ 
+ 
+ 
+ 
+3. Develop
+ 
+Generate agent requirements from real execution patterns. Build AI agents grounded in how work actually gets done.
+ 
+ 
+ 
+✓
+Agent requirement generation
+ 
+ 
+✓
+Business rule extraction
+ 
+ 
+✓
+Platform-specific accelerators
+ 
+ 
+ 
+ 
+4. Measure
+ 
+Quantify agent ROI in production. Track productivity uplift, cost savings, and compliance improvements in real time.
+ 
+ 
+ 
+✓
+Before/after productivity baselines
+ 
+ 
+✓
+AI ROI dashboards
+ 
+ 
+✓
+Continuous improvement tracking
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Where Pyze Fits
+ 
+Pyze bridges the gap between process mining and task mining with non-invasive, privacy-first productivity insights.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Process Mining
+ 
+ 
+ 
+ 
+•
+Case / object centric
+ 
+ 
+•
+Process event logs
+ 
+ 
+•
+Workflow variant analysis
+ 
+ 
+•
+Conformance checking
+ 
+ 
+ 
+↔
+ 
+ 
+ 
+ 
+ 
+Pyze
+ 
+EI for Productivity
+ 
+ 
+ 
+ 
+✓
+Case & user centric
+ 
+ 
+✓
+Non-invasive server/browser capture
+ 
+ 
+✓
+In-depth application analytics
+ 
+ 
+✓
+Links task-level data to process mining
+ 
+ 
+ 
+ 
+ 
+ 
+↔
+ 
+ 
+ 
+ 
+Task Mining
+ 
+ 
+ 
+ 
+•
+User centric
+ 
+ 
+•
+Desktop application monitoring
+ 
+ 
+•
+Installed on user desktops
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Technology Differentiators
+ 
+Built for enterprise scale, security, and speed.
+ 
+ 
+ 
+ 
+Non-Invasive
+ 
+No desktop agents or screen recording. Pyze captures execution data at the server and browser level, eliminating privacy concerns and IT friction.
+ 
+ 
+ 
+Privacy-First
+ 
+Data anonymization at source. No personal information is captured or stored. Compliant with GDPR, SOC 2, and enterprise security requirements.
+ 
+ 
+ 
+Deploys in Days
+ 
+Go live in days, not months. Lightweight integration with your existing enterprise applications — no custom development required.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Broad Enterprise System Support
+ 
+Pyze works with the applications your teams use every day.
+ 
+ 
+ 
+ SAP 
+ Salesforce 
+ Pega 
+ ServiceNow 
+ Guidewire 
+ Veeva 
+ Oracle 
+ Appian 
+ Mendix 
+ All SaaS Applications 
+ Internal Web Applications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See the Platform in Action 
+ 
+Schedule a personalized demo and discover how Execution Intelligence can transform your enterprise operations.
+ 
+ 
+ Schedule a Demo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Execution Intelligence to become the Agentic Enterprise.
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+Platform
+ 
+EI for Productivity
+ 
+EI for Transformation
+ 
+Platforms
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+About
+ 
+Partners
+ 
+Case Studies
+ 
+Contact
+ 
+ 
+ 
+ 
+ 
+Ecosystem
+ 
+ 
+Celonis
+ 
+Pega
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+© 2026 Pyze, Inc. All rights reserved.
+ 
+ 
+Terms
+ 
+Privacy
+ 
+Security
+ 
+GDPR
+ 
+ 
+ 
+Pega, Pegasystems, Pega Blueprint, and Constellation are trademarks of Pegasystems Inc. Camunda, ServiceNow, Appian, UiPath, Microsoft Power Apps, and other platform names are trademarks of their respective owners. Pyze is an independent provider and is not affiliated with, endorsed by, or sponsored by Pegasystems or any other named platform.
+
+===== pricing_or_trust :: https://pyze.com/security
+--- SIGNALS ---
+title: Security & Compliance | Pyze
+meta_description: Pyze security practices, compliance framework, and data protection measures. SOC 2 aligned, GDPR compliant.
+og_description: Pyze security practices, compliance framework, and data protection measures. SOC 2 aligned, GDPR compliant.
+og_site_name: Pyze
+h1: Security & Compliance
+h2: Platform Security | Deployment Flexibility | Data Processing Model | Compliance Framework | Data Governance & AI Guardrails | Subprocessors | Incident Response | Security Reviews | Contact & Security Inquiries
+jsonld_org: []
+--- TEXT ---
+Security & Compliance | Pyze
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+Execution Intelligence Platform
+ 
+The complete platform overview
+ 
+ 
+EI for Productivity
+ 
+Measure and optimize workforce performance
+ 
+ 
+Product Analytics
+ 
+Funnels, retention, adoption, dashboards & anomaly detection
+ 
+ 
+Digital Experience
+ 
+Session replay, heatmaps, frustration & performance
+ 
+ 
+EI for Transformation
+ 
+Accelerate legacy discovery and transformation
+ 
+ 
+Autonomous Agents
+ 
+Custom agents that surface opportunities
+ 
+ 
+SOP Generation
+ 
+Auto-generated SOPs from execution data
+ 
+ 
+AI Discovery
+ 
+Find where AI agents belong
+ 
+ 
+AI Effectiveness
+ 
+Measure whether AI is working
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+Platforms
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+Banking & Financial Services
+Insurance
+Healthcare & Life Sciences
+Energy & Utilities
+Manufacturing
+Telecommunications
+Public Sector
+ 
+ 
+ 
+ 
+Process Mining
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+Why Pyze
+About
+Partners
+Case Studies
+Blog
+Contact
+ 
+ 
+ 
+ 
+ 
+Schedule a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Execution Intelligence Platform
+EI for Productivity
+Product Analytics
+Digital Experience
+EI for Transformation
+Autonomous Agents
+SOP Generation
+AI Discovery
+AI Effectiveness
+ 
+ 
+ 
+Solutions
+ 
+Platforms
+ 
+Process Mining
+ 
+ 
+ 
+Industries
+ 
+Banking & Financial Services
+Insurance
+Healthcare & Life Sciences
+Energy & Utilities
+Manufacturing
+Telecommunications
+Public Sector
+ 
+ 
+ 
+Company
+ 
+Why Pyze
+About
+Partners
+Case Studies
+Blog
+Contact
+ 
+ 
+Schedule a Demo
+ 
+ 
+ 
+ 
+ 
+Security & Compliance
+Security and data protection are foundational to how we design, deploy, and operate our platform.
+ 
+ 
+ 
+ 
+Platform Security
+ 
+Pyze implements industry-standard security controls to protect customer data.
+ 
+Data Protection
+ 
+ 
+Encryption in transit (TLS 1.2+)
+ 
+Encryption at rest (where applicable)
+ 
+Logical data isolation between customers
+ 
+ 
+Access Control
+ 
+ 
+Role-based access control (RBAC) with granular, role-aware permissions
+ 
+Single sign-on (SAML) and automated provisioning (SCIM) via your identity provider
+ 
+Row- and column-level scoping, so each role sees only the data it should
+ 
+Least-privilege principles and secure authentication mechanisms
+ 
+ 
+Monitoring & Logging
+ 
+ 
+System activity logging
+ 
+Monitoring for anomalous behavior
+ 
+Incident detection and response processes
+ 
+ 
+Deployment Flexibility
+ 
+Pyze supports multiple deployment models, including deployment inside the customer's own environment for full data sovereignty:
+ 
+ 
+Pyze-hosted SaaS environments
+ 
+Customer-managed deployment within your own cloud (GCP) — Pyze runs where your data already lives
+ 
+ 
+This is what lets Pyze operate in the most regulated industries — banking and financial services, government and public sector, and life sciences — where consumer-grade analytics tools cannot. It allows customers to:
+ 
+ 
+Maintain full control over data residency, with no behavioral data leaving the customer boundary
+ 
+Mask PII at the point of capture — telemetry, not screen recordings (see 
+Data Privacy & Consent
+)
+ 
+Meet strict InfoSec and regulatory requirements
+ 
+ 
+Data Processing Model
+ 
+ 
+Customers retain full control over their data
+ 
+Pyze operates as a data processor or subprocessor
+ 
+Data is processed solely to deliver the Services
+ 
+ 
+Pyze does not sell or use customer data for advertising purposes.
+ 
+The Pyze Data Processing Agreement is available here: 
+Data Processing Addendum
+ 
+Compliance Framework
+ 
+Pyze aligns with industry-standard practices, including:
+ 
+ 
+GDPR
+ (General Data Protection Regulation)
+ 
+SOC 2
+-aligned security practices
+ 
+ 
+ 
+ 
+ 
+ 
+SOC 2 Type II Compliant
+ 
+Pyze maintains SOC 2 Type II compliance with regular audits and continuous monitoring of security controls.
+ 
+ 
+ 
+Data Governance & AI Guardrails
+ 
+Pyze is built to be governed and transparent — including how its AI features operate:
+ 
+ 
+Warehouse-native SQL transparency — analysis runs against a governed model you can inspect, with no opaque black box
+ 
+A governed semantic layer underpins every metric, so numbers are consistent and auditable
+ 
+The Ask-the-Data copilot and analyst agents show the query they ran, and operate only within the user's permitted scope
+ 
+Agent access via the Pyze MCP server is scoped and governed — agents see only what their role allows
+ 
+ 
+Subprocessors
+ 
+Pyze uses trusted third-party providers for:
+ 
+ 
+Cloud infrastructure
+ 
+Monitoring and support
+ 
+ 
+A current list of subprocessors is available here: 
+Subprocessors
+ 
+Incident Response
+ 
+Pyze maintains incident response procedures to:
+ 
+ 
+Detect and respond to security incidents
+ 
+Notify customers in a timely manner
+ 
+Mitigate and remediate risks
+ 
+ 
+Security Reviews
+ 
+Pyze regularly:
+ 
+ 
+Reviews security controls and conducts SOC 2 audits
+ 
+Updates infrastructure and dependencies
+ 
+Performs internal assessments
+ 
+Conducts third-party penetration tests
+ 
+ 
+Contact & Security Inquiries
+ 
+For security or compliance questions:
+ 
+security@pyze.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Execution Intelligence to become the Agentic Enterprise.
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+Platform
+ 
+EI for Productivity
+ 
+EI for Transformation
+ 
+Platforms
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+About
+ 
+Partners
+ 
+Case Studies
+ 
+Contact
+ 
+ 
+ 
+ 
+ 
+Ecosystem
+ 
+ 
+Celonis
+ 
+Pega
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+© 2026 Pyze, Inc. All rights reserved.
+ 
+ 
+Terms
+ 
+Privacy
+ 
+Security
+ 
+GDPR
+ 
+ 
+ 
+Pega, Pegasystems, Pega Blueprint, and Constellation are trademarks of Pegasystems Inc. Camunda, ServiceNow, Appian, UiPath, Microsoft Power Apps, and other platform names are trademarks of their respective owners. Pyze is an independent provider and is not affiliated with, endorsed by, or sponsored by Pegasystems or any other named platform.

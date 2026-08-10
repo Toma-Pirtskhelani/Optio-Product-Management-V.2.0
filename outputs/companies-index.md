@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **78 of 237**. Regenerated 2026-08-11.
+Enriched so far: **96 of 237**. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -103,14 +103,14 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Alterian | — | — | — | — | — | — | 1 | G | N | 0 |
 | Amazing Mail | — | — | — | — | — | — | 1 | G | N | 0 |
 | Amazon Web Services | — | — | — | — | — | — | 1 | G | N | 0 |
-| Appier | — | — | — | — | — | — | 1 | G | N | 0 |
+| Appier | — | — | — | — | 1 | 12 | 1 | G | D | 3 |
 | AT Internet | — | — | — | — | — | — | 1 | G | N | 0 |
 | AtomPark Software | — | — | — | — | — | — | 1 | G | N | 0 |
 | AWeber | — | — | — | — | — | — | 1 | G | N | 0 |
 | Barilliance | — | — | — | — | — | — | 1 | G | N | 0 |
 | Base | — | — | — | — | — | — | 1 | G | N | 0 |
 | Beaconsmind | — | — | — | — | — | — | 1 | G | N | 0 |
-| Benchmark Email | — | — | — | — | — | — | 1 | G | N | 0 |
+| Benchmark Email | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Birdeye | — | — | — | — | — | — | 1 | 2 | D | 2 |
 | BiteSpeed | — | — | — | — | — | — | 1 | G | N | 0 |
 | Blueshift | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -124,12 +124,12 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | ChannelMix | — | — | — | — | — | — | 1 | G | N | 0 |
 | ClickDimensions | — | — | — | — | — | — | 1 | G | N | 0 |
 | Close | — | 2013 | — | — | — | — | 1 | 2 | D | 4 |
-| Creatio | — | — | — | — | — | — | 1 | G | N | 0 |
+| Creatio | — | — | — | — | — | 12 | 1 | G | D | 4 |
 | Critical Impact | — | — | — | — | — | — | 1 | G | N | 0 |
 | CustomerInsights.ai | — | — | — | — | — | — | 1 | G | N | 0 |
 | DANAconnect | — | — | — | — | — | — | 1 | G | N | 0 |
 | Datorama | — | — | — | — | — | — | 1 | G | N | 0 |
-| Delivra | — | — | — | — | — | — | 1 | G | N | 0 |
+| Delivra | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | Digitalbox | — | — | — | — | — | — | 1 | G | N | 0 |
 | Duda | — | — | — | — | — | — | 1 | 2 | D | 2 |
 | Dyrect | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -138,11 +138,11 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Ecomail | — | — | — | — | — | — | 1 | G | N | 0 |
 | EcoSend | — | — | — | — | — | — | 1 | G | N | 0 |
 | Emailidea | — | — | — | — | — | — | 1 | G | N | 0 |
-| Emma | — | — | — | — | — | — | 1 | 2 | N | 0 |
-| EngageBay Inc | — | — | — | — | — | — | 1 | 2 | N | 0 |
+| Emma | — | — | — | — | — | — | 1 | 2 | D | 3 |
+| EngageBay Inc | — | 2017 | — | — | 5 | — | 1 | 2 | D | 3 |
 | Entirely | — | — | — | — | — | — | 1 | G | N | 0 |
 | EZ Texting | US | — | — | — | 4 | 12 | 1 | 2 | D | 4 |
-| Flodesk | — | — | — | — | — | — | 1 | 2 | N | 0 |
+| Flodesk | — | — | — | — | 2 | — | 1 | 2 | D | 4 |
 | FlowUp | — | — | — | — | — | — | 1 | G | N | 0 |
 | FollowAnalytics | — | — | — | — | — | — | 1 | G | N | 0 |
 | Foursquare | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -154,7 +154,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | GMass | — | — | — | — | 3 | — | 1 | 2 | D | 4 |
 | GoSquared | — | — | — | — | — | — | 1 | G | N | 0 |
 | Grey Box | — | — | — | — | — | — | 1 | G | N | 0 |
-| HCLTech | — | — | — | — | — | — | 1 | G | N | 0 |
+| HCLTech | — | — | — | on-premise, managed-service | 1 | 12 | 1 | G | D | 3 |
 | Health Chain | — | — | — | — | — | — | 1 | G | N | 0 |
 | Hewlett Packard Enterprise | — | — | — | — | — | — | 1 | G | N | 0 |
 | Hey Sid | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -176,18 +176,18 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | LeadSquared | — | — | — | — | — | — | 1 | G | N | 0 |
 | LeadsRx | — | — | — | — | — | — | 1 | G | N | 0 |
 | lemlist | — | — | — | — | 4 | — | 1 | 2 | D | 4 |
-| Levitate | — | — | — | — | — | — | 1 | 2 | N | 0 |
+| Levitate | — | — | — | — | — | — | 1 | 2 | D | 2 |
 | Lob | — | — | — | — | — | — | 1 | G | N | 0 |
 | Longtail UX | — | — | — | — | — | — | 1 | G | N | 0 |
-| Mailgun | — | — | — | — | — | — | 1 | 2 | N | 0 |
+| Mailgun | — | — | — | — | 2 | — | 1 | 2 | D | 4 |
 | Mapp | — | — | — | — | — | — | 1 | G | N | 0 |
-| Marigold | — | — | — | — | — | — | 1 | G | N | 0 |
+| Marigold | — | — | — | — | — | — | 1 | G | D | 2 |
 | MarketingPlatform | — | — | — | — | — | — | 1 | G | N | 0 |
 | Marketplacer | — | — | — | — | — | — | 1 | G | N | 0 |
 | Mastercard | — | — | — | — | — | — | 1 | G | N | 0 |
 | Medallia | — | — | — | — | — | — | 1 | G | N | 0 |
 | Meiro | — | — | — | — | — | — | 1 | G | N | 0 |
-| Mekari | — | — | — | — | — | — | 1 | G | N | 0 |
+| Mekari | — | 2015 | — | — | 2 | — | 1 | G | D | 3 |
 | Messangi | — | — | — | — | — | — | 1 | G | N | 0 |
 | Metadata | — | — | — | — | — | — | 1 | G | N | 0 |
 | MINT | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -198,7 +198,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Ometria | — | — | — | — | — | — | 1 | G | N | 0 |
 | ONLINECITY.IO | — | — | — | — | — | — | 1 | G | N | 0 |
 | Ortto | — | — | — | — | — | — | 1 | G | N | 0 |
-| PAR | — | — | — | — | — | — | 1 | G | N | 0 |
+| PAR | — | — | — | — | — | — | 1 | G | U | 0 |
 | Perion | — | — | — | — | — | — | 1 | G | N | 0 |
 | Pitney Bowes | — | — | — | — | — | — | 1 | G | N | 0 |
 | Piwik PRO | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -209,17 +209,17 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | PostGrid | — | — | — | — | — | — | 1 | G | N | 0 |
 | Precisely | — | — | legacy | — | — | — | 1 | G | N | 0 |
 | Printfection | — | — | — | — | — | — | 1 | G | N | 0 |
-| Pyze | — | — | — | — | — | — | 1 | G | N | 0 |
+| Pyze | — | — | — | private-cloud | — | 12 | 1 | G | D | 4 |
 | Qujam | — | — | — | — | — | — | 1 | G | N | 0 |
 | Radar | — | — | — | — | — | — | 1 | G | N | 0 |
 | Reachdesk | — | — | — | — | — | — | 1 | G | N | 0 |
-| Redpoint | — | — | — | — | — | — | 1 | G | N | 0 |
+| Redpoint | — | — | — | — | — | — | 1 | G | D | 3 |
 | Rejoiner | — | — | — | — | — | — | 1 | G | N | 0 |
 | Resulticks | — | — | — | — | — | — | 1 | G | N | 0 |
 | Reteno | — | — | — | — | — | — | 1 | G | N | 0 |
 | Rocket Now | — | — | — | — | — | — | 1 | G | N | 0 |
 | SALESmanago | — | — | — | — | — | — | 1 | G | N | 0 |
-| SAS | — | — | legacy | — | — | — | 1 | G | N | 0 |
+| SAS | — | — | legacy | — | — | — | 1 | G | U | 0 |
 | Sendoso | — | — | — | — | — | — | 1 | G | N | 0 |
 | SendPulse | — | — | — | — | — | — | 1 | G | N | 0 |
 | Sensors Data | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -227,12 +227,12 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | SlickText | — | 2012 | — | — | 4 | — | 1 | 2 | D | 4 |
 | Soprano | — | — | — | — | — | — | 1 | G | N | 0 |
 | Spectrm | — | — | — | — | — | — | 1 | G | N | 0 |
-| SpiceSend | — | — | legacy | — | — | — | 1 | G | N | 0 |
+| SpiceSend | — | — | legacy | — | 1 | — | 1 | G | D | 3 |
 | Splio | — | — | — | — | — | — | 1 | G | N | 0 |
 | Sprinklr | — | — | — | — | — | — | 1 | G | N | 0 |
 | Storyly | — | — | — | — | — | — | 1 | G | N | 0 |
 | Striker Soft Solutions | — | — | — | — | — | — | 1 | G | N | 0 |
-| SugarAI | — | — | — | — | — | — | 1 | G | N | 0 |
+| SugarAI | — | — | — | — | — | 2 | 1 | G | D | 4 |
 | SwiftERM Hyper-Personalisation | — | — | — | — | — | — | 1 | G | N | 0 |
 | Swrve | — | — | — | — | — | — | 1 | G | N | 0 |
 | Text | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -240,13 +240,13 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Thryv | — | — | — | — | — | — | 1 | G | N | 0 |
 | Treasure AI | — | — | — | — | — | — | 1 | G | N | 0 |
 | Trendemon | — | — | — | — | — | — | 1 | G | N | 0 |
-| Twilio | — | — | — | — | — | — | 1 | G | N | 0 |
+| Twilio | — | — | — | — | 5 | — | 1 | G | D | 4 |
 | Upaknee | — | — | — | — | — | — | 1 | G | N | 0 |
 | UTM.io | — | — | — | — | — | — | 1 | G | N | 0 |
 | ValueFirst | — | — | — | — | — | — | 1 | G | N | 0 |
 | Veloxy IO | — | — | — | — | — | — | 1 | G | N | 0 |
 | VeryUtils | — | — | — | — | — | — | 1 | G | N | 0 |
-| Vibes | — | — | — | — | — | — | 1 | G | N | 0 |
+| Vibes | — | — | — | — | 4 | 12 | 1 | G | D | 4 |
 | Warmy | — | — | — | — | — | — | 1 | G | N | 0 |
 | Webflow | US | 2013 | — | — | — | — | 1 | 2 | D | 4 |
 | WILY | — | — | — | — | — | — | 1 | G | N | 0 |
