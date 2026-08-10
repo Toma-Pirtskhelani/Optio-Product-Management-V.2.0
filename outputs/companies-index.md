@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **0 of 237**. Regenerated 2026-08-10.
+Enriched so far: **9 of 237**. Regenerated 2026-08-10.
 
 Pull a full record by id:
 
@@ -17,16 +17,16 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 
 | Company | HQ | Founded | Status | Deployment | Ch | Ind | Cats | Src | St | F |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Salesforce | — | — | — | — | — | — | 7 | B | N | 0 |
-| Braze | — | — | — | — | — | — | 6 | B | N | 0 |
-| Dotdigital | — | — | — | — | — | — | 6 | B | N | 0 |
-| Adobe | — | — | — | — | — | — | 5 | B | N | 0 |
-| Brevo | — | — | — | — | — | — | 5 | B | N | 0 |
-| Customer.io | — | — | — | — | — | — | 5 | B | N | 0 |
-| Iterable | — | — | — | — | — | — | 5 | B | N | 0 |
-| Klaviyo | — | — | — | — | — | — | 5 | B | N | 0 |
-| MoEngage | — | — | — | — | — | — | 5 | B | N | 0 |
-| Netmera | — | — | — | — | — | — | 5 | B | N | 0 |
+| Salesforce | United States | — | — | — | — | 14 | 7 | B | D | 4 |
+| Braze | — | — | — | — | 7 | 4 | 6 | B | D | 4 |
+| Dotdigital | — | — | — | — | 6 | — | 6 | B | D | 3 |
+| Adobe | — | — | — | — | — | — | 5 | B | U | 2 |
+| Brevo | United States | — | — | — | 6 | — | 5 | B | D | 4 |
+| Customer.io | United States | 2012 | — | — | 6 | 1 | 5 | B | D | 4 |
+| Iterable | — | — | — | api-platform | 4 | 1 | 5 | B | D | 3 |
+| Klaviyo | United States | 2012 | — | — | 4 | — | 5 | B | D | 4 |
+| MoEngage | — | — | — | — | 6 | — | 5 | B | D | 3 |
+| Netmera | — | — | — | — | 6 | 4 | 5 | B | D | 3 |
 | Acoustic | — | — | — | — | — | — | 4 | G | N | 0 |
 | ActiveCampaign | — | — | — | — | — | — | 4 | B | N | 0 |
 | Attentive | — | — | — | — | — | — | 4 | B | N | 0 |

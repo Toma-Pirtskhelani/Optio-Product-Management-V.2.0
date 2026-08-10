@@ -1,0 +1,946 @@
+===== homepage :: https://www.brevo.com/
+Brevo: Email & SMS Marketing, CRM & Automation Platform
+ 
+ 
+ 
+Platform
+ 
+Capabilities
+Capabilities
+Campaigns & automation
+Boost conversions with automated multichannel customer journeys.
+Transactional messaging
+Send real-time email, SMS, & WhatsApp messages triggered via SMTP relay and API.
+Sales management
+Accelerate revenue with custom pipelines, sales automation, chat & more. 
+Brevo Data Platform
+Unify and activate customer data for smarter marketing and faster time-to-value. 
+Customer loyalty
+Turn customers into loyal fans with a fully integrated rewards program.
+Integrations
+Connect Brevo with 150+ digital tools like Shopify, WordPress, Stripe, Zapier and more.
+Channels
+Channels
+Email
+SMS
+WhatsApp
+Web & mobile push
+Live chat
+Chatbot
+Wallet
+Phone
+Solutions
+ 
+Entrepreneurs & small business
+Entrepreneurs & small business
+Run campaigns, automate marketing and manage contacts easily.
+Mid-market & enterprise
+Mid-market & enterprise
+Get custom solutions, tailored onboarding, full data control and enterprise-grade security.
+Ecommerce & retail
+Ecommerce & retail
+Recover abandoned carts, personalize product recommendations and boost loyalty.
+Developers
+Developers
+Build, extend, and integrate with Brevo’s developer guides, open API, SDKs, and code recipes.
+Pricing
+Resources
+ 
+Resource center
+Blog
+Ebooks
+Case studies
+Email templates
+Email marketing platforms
+Mailchimp alternatives
+Tools & Calculators
+Ecosystem
+Integrations
+Product updates
+Community
+Events
+Partner programs
+Find an expert
+Support
+Help center
+Contact us
+API docs
+Turn Every 
+Email
+SMS
+Order
+Interaction
+into a Lifetime Customer
+One AI-powered customer platform for all your marketing and sales needs. From email marketing, SMS, WhatsApp, and beyond, drive business growth and lasting loyalty.
+Sign up free
+ 
+Watch live demo
+ 
+Loved by users everywhere
+4.5
+ 
+ 
+ 
+ 
+ 
+Join 600,000+ customers around the world who trust Brevo
+MULTICHANNEL MARKETING & AUTOMATION
+Grow your business easily
+Launch marketing campaigns in minutes and drive more revenue. Skip the learning curve with ready-made templates, guided automation and intuitive tools anyone can master.
+Learn more
+ 
+ALL-IN-ONE-SOLUTION
+Built to scale with you
+As your business expands, send more, automate more and engage across new channels . Manage the entire customer journey from one powerful platform—for marketing, sales, CRM and loyalty.
+Sign up free
+ 
+AI-FIRST PLATFORM
+Accelerate with AI
+Work smarter and faster with Brevo AI. Optimize every campaign with personalized product recommendations, ideal send times, and clear insights into what drives results.
+Learn more
+ 
+Engage your audience your way
+Email marketing
+SMS marketing
+WhatsApp campaigns
+Push notifications
+Loyalty
+Mobile Wallet
+Transactional messaging
+VoIP Phone
+Live chat
+Chatbot
+Meetings
+ 
+ 
+Use arrow keys to navigate between slider cards
+ 
+Powered by Aura
+AI agents that work with you, and for you
+Meet Aura, your always-on marketing, sales, and support team. Aura Agents eliminate the busywork so you can focus on strategy.
+ 
+ 
+Marketing Agent
+Create high‑converting campaigns effortlessly—generate copy, auto‑segment audiences, optimize send times, and deliver dynamic product recommendations.
+Discover Aura AI
+ 
+Sales Assistant
+Instantly enrich contacts and accounts, automate deal creation, and send sales emails in seconds—keeping your pipeline moving. 
+Discover Aura AI
+ 
+Data Analyst
+New 
+Ask questions in plain language and get instant answers. Transform your data into visual insights that drive faster, better decisions.
+Discover Aura AI
+ 
+Conversations Agent
+Summarize live chats in one click, tailor replies to your tone, and turn quick notes into polished messages—for quicker support and better customer experiences.
+Discover Aura AI
+ 
+Built for every business — from the first send to enterprise
+Small Business
+Enterprise
+Developers
+Small Business
+ 
+FOR ENTREPRENEURS & SMALL BUSINESSES
+Powerful tools, simple setup 
+Start fast. Grow confidently. Launch polished campaigns without complexity.
+Drag-and-drop campaign editor
+Ready-to-use templates
+No-code marketing automation
+Advanced segmentation including web tracking
+Explore Brevo for SMBs
+ 
+Awarded for excellence
+Real stories, real success
+SUCCESS STORY
+Adbloom grows revenue by $1M/year
+Discover how this marketing agency used Brevo’s all-in-one platform to turn their Ed-Tech business into a major growth engine.
+SUCCESS STORY
+Buffalo Grill achieves 47% repeat restaurant visits
+After digitizing their loyalty program with Brevo, this popular restaurant chain activated 500K loyalty cards in just 6 months.
+SUCCESS STORY
+Suntransfers drives 40% revenue growth with Brevo
+By personalizing the entire traveler journey with advanced segmentation, this airline boosted both revenue and open rates.
+Ready to grow with Brevo?
+Connect with customers, convert more leads, and drive repeat business — all from one platform.
+Sign up free
+ 
+Get a demo
+ 
+No credit card required.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRODUCT
+Email marketing
+Transactional email
+Wallet
+Enterprise solution
+All features
+Pricing
+Integrations
+GDPR
+Security
+Product updates
+COMPARE
+Bulk email service
+Email marketing platforms
+Brevo vs Mailchimp
+Brevo vs HubSpot
+Brevo vs Constant Contact
+Brevo vs Klaviyo
+Mailchimp alternatives
+HubSpot alternatives
+Free SMTP server
+RESOURCES
+Help center
+Platform status
+Community
+Blog
+Glossary
+Email templates
+Ebooks & webinars
+Developers
+Migrate from Mailchimp
+Tools & Calculators
+PARTNERS
+All partner programs
+Affiliates
+Agency partners
+Startups & VCs
+Integration partners
+Find an expert
+COMPANY
+About us
+Contact us
+Leadership
+Careers
+Press
+B Corp
+Carbon footprint
+Non Profits
+Cookie Settings
+Acceptable Use Policy
+Privacy
+Terms of service
+Legal notice
+Responsible Disclosure
+© Brevo 2026. All rights reserved
+ 
+Brevo connects to the tools you already use
+Brevo runs alongside more than 150 leading digital tools, from CRM to CMS, ecommerce, and more.
+See integrations
+
+===== product :: https://www.brevo.com/features/
+Explore our features | Brevo
+ 
+ 
+ 
+Platform
+ 
+Capabilities
+Capabilities
+Campaigns & automation
+Boost conversions with automated multichannel customer journeys.
+Transactional messaging
+Send real-time email, SMS, & WhatsApp messages triggered via SMTP relay and API.
+Sales management
+Accelerate revenue with custom pipelines, sales automation, chat & more. 
+Brevo Data Platform
+Unify and activate customer data for smarter marketing and faster time-to-value. 
+Customer loyalty
+Turn customers into loyal fans with a fully integrated rewards program.
+Integrations
+Connect Brevo with 150+ digital tools like Shopify, WordPress, Stripe, Zapier and more.
+Channels
+Channels
+Email
+SMS
+WhatsApp
+Web & mobile push
+Live chat
+Chatbot
+Wallet
+Phone
+Solutions
+ 
+Entrepreneurs & small business
+Entrepreneurs & small business
+Run campaigns, automate marketing and manage contacts easily.
+Mid-market & enterprise
+Mid-market & enterprise
+Get custom solutions, tailored onboarding, full data control and enterprise-grade security.
+Ecommerce & retail
+Ecommerce & retail
+Recover abandoned carts, personalize product recommendations and boost loyalty.
+Developers
+Developers
+Build, extend, and integrate with Brevo’s developer guides, open API, SDKs, and code recipes.
+Pricing
+Resources
+ 
+Resource center
+Blog
+Ebooks
+Case studies
+Email templates
+Email marketing platforms
+Mailchimp alternatives
+Tools & Calculators
+Ecosystem
+Integrations
+Product updates
+Community
+Events
+Partner programs
+Find an expert
+Support
+Help center
+Contact us
+API docs
+Explore all features
+Marketing
+Email marketing
+Craft personalized campaigns that captivate your audience and sell your products. 
+ 
+SMS marketing
+Send targeted messages straight to your customers' pockets.
+ 
+WhatsApp marketing
+Reach your audience where they are – on the world’s most popular messaging app.
+ 
+Forms
+Grow your email list and manage information requests with easy-to-embed custom forms.
+ 
+Transactional messages
+Send transactional emails, SMS and WhatsApp messages with unmatched deliverability.
+ 
+Push
+Ignite interest and catalyze conversions with web and mobile push notifications. 
+ 
+Wallet
+Connect with customers via their mobile wallets and build customer loyalty. 
+ 
+Meetings
+Let clients book meetings easily. Host calls with seamless video conferencing tools.
+ 
+Landing pages
+Drive traffic and generate leads with expertly crafted templates, or build your own.
+ 
+Sales
+Sales pipelines
+Customize your pipeline. Track deals at every stage and never miss an opportunity.
+ 
+Phone
+Make and receive calls, access contact information, call recordings, and more.
+ 
+Automation
+Use your time wisely. Let automation take care of repetitive tasks in your pipeline.
+ 
+Meetings
+Let clients book meetings easily. Host calls with seamless video conferencing tools.
+ 
+Shared inbox
+Keep your team on the same page with shared customer emails, tasks, and notes.
+ 
+Sales reports
+Analyze sales revenue, win rates, and team performance with dedicated reports.
+ 
+Ready to get started?
+Create your free account, no credit card needed.
+Sign up free
+ 
+Conversations
+Live chat
+Guide your customers through their journey with real-time chat on your website.
+ 
+Chatbot
+Let our bot do the talking for you and automate replies to frequent questions.
+ 
+Universal inbox
+Manage all conversations from email, WhatsApp, live chat, or social all in one place.
+ 
+Meetings
+Simplify scheduling: let customers book meetings with you in a few clicks.
+ 
+Phone
+Make and receive calls, access contact information, call recordings, and more.
+ 
+Visitor intelligence
+Start conversations or trigger automated messages based on visitor insights.
+ 
+Brevo Data Platform
+Multiple sources import
+Add data to a single platform from any database, data warehouse, FTP, or via API.
+ 
+Universal data model
+Structure data using standard business objects for higher consistency and scalability.
+ 
+Identity resolution
+Configure your own deduplication rules and create a single ID for each customer.
+ 
+Dataprep custom rules
+Get business-ready data by cleaning and reformatting it using no-code recipes.
+ 
+Scoring library
+Apply scores like RFM or LTV to your marketing strategies for better personalization.
+ 
+Dashboards & data exploration
+Integrate with analytics tools and create advanced reports for better decision-making.
+ 
+Transactional Messaging
+Email deliverability
+Send emails from A to B without delay. Our email API guarantees a 99% delivery rate.
+ 
+Personalization
+Customize your transactional templates with customer names, prices and products.
+ 
+Fast setup 
+Getting set up is simple with developer guides, SDKs, API libraries and code recipes.
+ 
+Easy CMS integration
+Whether it's SMTP relay, webhook or plugin, Brevo integrates to all major CMS tools. 
+ 
+Inbound parsing
+Brevo's ready-to-integrate inbound parser means every email can be a two-way exchange.
+ 
+Extended log retention
+Extended retention of logs ensure compliance and history tracing of messages.
+ 
+Ready to get started?
+Create your free account, no credit card needed.
+Sign up free
+ 
+One platform, endless ways to grow
+Marketing
+Drive conversions with AI-driven multichannel marketing and automation.
+Top features:
+Email marketing 
+SMS & WhatsApp campaigns
+AI segmentation
+Find out more
+ 
+Transactional messaging
+Deliver individual messages across channels, at scale and on time. 
+Top features:
+Email, SMS & WhatsApp API
+CMS integration
+Inbound parsing
+Find out more
+ 
+Loyalty
+Boost retention and increase customer lifetime value with a fully integrated loyalty program. 
+Top features:
+Points and spending-based loyalty tiers
+Targeted offers and rewards
+Custom dashboards 
+Find out more
+ 
+Sales
+Streamline your sales process and accelerate revenue growth.
+Top features:
+Drag & drop pipeline management
+Meetings & call recordings 
+AI contact enrichment
+Find out more
+ 
+Data Platform
+Unify, manage and sync customer data to accelerate your time-to-value.
+Top Features:
+Advanced data management
+Contact scoring
+AI data analyst
+Find out more
+ 
+ 
+ 
+PRODUCT
+Email marketing
+Transactional email
+Wallet
+Enterprise solution
+All features
+Pricing
+Integrations
+GDPR
+Security
+Product updates
+COMPARE
+Bulk email service
+Email marketing platforms
+Brevo vs Mailchimp
+Brevo vs HubSpot
+Brevo vs Constant Contact
+Brevo vs Klaviyo
+Mailchimp alternatives
+HubSpot alternatives
+Free SMTP server
+RESOURCES
+Help center
+Platform status
+Community
+Blog
+Glossary
+Email templates
+Ebooks & webinars
+Developers
+Migrate from Mailchimp
+Tools & Calculators
+PARTNERS
+All partner programs
+Affiliates
+Agency partners
+Startups & VCs
+Integration partners
+Find an expert
+COMPANY
+About us
+Contact us
+Leadership
+Careers
+Press
+B Corp
+Carbon footprint
+Non Profits
+Cookie Settings
+Acceptable Use Policy
+Privacy
+Terms of service
+Legal notice
+Responsible Disclosure
+© Brevo 2026. All rights reserved
+
+===== pricing_or_trust :: https://www.brevo.com/pricing/
+Pricing Plans | Brevo 
+ 
+ 
+ 
+Platform
+ 
+Capabilities
+Capabilities
+Campaigns & automation
+Boost conversions with automated multichannel customer journeys.
+Transactional messaging
+Send real-time email, SMS, & WhatsApp messages triggered via SMTP relay and API.
+Sales management
+Accelerate revenue with custom pipelines, sales automation, chat & more. 
+Brevo Data Platform
+Unify and activate customer data for smarter marketing and faster time-to-value. 
+Customer loyalty
+Turn customers into loyal fans with a fully integrated rewards program.
+Integrations
+Connect Brevo with 150+ digital tools like Shopify, WordPress, Stripe, Zapier and more.
+Channels
+Channels
+Email
+SMS
+WhatsApp
+Web & mobile push
+Live chat
+Chatbot
+Wallet
+Phone
+Solutions
+ 
+Entrepreneurs & small business
+Entrepreneurs & small business
+Run campaigns, automate marketing and manage contacts easily.
+Mid-market & enterprise
+Mid-market & enterprise
+Get custom solutions, tailored onboarding, full data control and enterprise-grade security.
+Ecommerce & retail
+Ecommerce & retail
+Recover abandoned carts, personalize product recommendations and boost loyalty.
+Developers
+Developers
+Build, extend, and integrate with Brevo’s developer guides, open API, SDKs, and code recipes.
+Pricing
+Resources
+ 
+Resource center
+Blog
+Ebooks
+Case studies
+Email templates
+Email marketing platforms
+Mailchimp alternatives
+Tools & Calculators
+Ecosystem
+Integrations
+Product updates
+Community
+Events
+Partner programs
+Find an expert
+Support
+Help center
+Contact us
+API docs
+Free forever, no credit card needed
+Best for individuals and solopreneurs building an online presence.
+Sign up free
+ 
+See all features
+ 
+Monthly
+Yearly (-10%)
+Loading content...
+‌
+Starter
+Best for single users starting with email and multi-channel marketing.
+‌
+Sign up
+ 
+Features included in Starter:
+ 
+From 5,000 emails per month
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No Brevo logo
+ per month
+ 
+Sales Essentials 
+ 
+ per month
+See all features
+ 
+Most Popular
+Standard
+Best for small businesses ready to automate and test campaigns. 
+‌
+Sign up
+ 
+Everything in Starter, plus:
+ 
+ 
+ 
+Click heatmaps, geography & device reports
+ 
+ 
+ 
+1 page included
+ 
+ 
+Sales Essentials
+ 
+ per month
+See all features
+ 
+Professional
+Best for teams leveraging data and AI to drive growth across channels.
+‌
+Talk to sales
+ 
+Sign up
+ 
+Everything in Standard, plus:
+ 
+From 150,000 emails per month
+ 
+Additional marketing channels
+WhatsApp, Popups, Mobile & Web Push
+ 
+Multi-user access
+10 seats included
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sales Advanced 
+ 
+ per month/user
+See all features
+ 
+Enterprise
+Best for companies with 1M+ contacts needing custom solutions & full data control.
+Custom price
+Talk to sales
+ 
+Everything in Professional, plus:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sales Advanced
+ 
+See all features
+ 
+Loading content...
+‌
+Join 600,000+ customers around the world who trust Brevo
+Awarded for excellence
+Loved by users everywhere
+2500+ reviews
+ 
+3300+ reviews
+ 
+150+ reviews
+ 
+ 
+Don’t see your question answered here?
+Contact us and we'll be happy to answer any additional questions you may have.
+Contact us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRODUCT
+Email marketing
+Transactional email
+Wallet
+Enterprise solution
+All features
+Pricing
+Integrations
+GDPR
+Security
+Product updates
+COMPARE
+Bulk email service
+Email marketing platforms
+Brevo vs Mailchimp
+Brevo vs HubSpot
+Brevo vs Constant Contact
+Brevo vs Klaviyo
+Mailchimp alternatives
+HubSpot alternatives
+Free SMTP server
+RESOURCES
+Help center
+Platform status
+Community
+Blog
+Glossary
+Email templates
+Ebooks & webinars
+Developers
+Migrate from Mailchimp
+Tools & Calculators
+PARTNERS
+All partner programs
+Affiliates
+Agency partners
+Startups & VCs
+Integration partners
+Find an expert
+COMPANY
+About us
+Contact us
+Leadership
+Careers
+Press
+B Corp
+Carbon footprint
+Non Profits
+Cookie Settings
+Acceptable Use Policy
+Privacy
+Terms of service
+Legal notice
+Responsible Disclosure
+© Brevo 2026. All rights reserved
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email & SMS
+ 
+Send email & transactional messages. SMS credit sold separately.
+ 
+Drag & Drop email editor
+ 
+Craft polished emails fast—just drag, drop, and send.
+ 
+Email templates
+ 
+Jumpstart campaigns with responsive templates tailored to your industry and use case.
+ 
+AI content generator
+ 
+Draft subject lines and email copy, adjust tone, and more.
+ 
+Advanced segmentation
+ 
+Search, save, and manage contacts with filters like demographics, website activity, campaign engagement, and custom events. Create as many segments as you need.
+ 
+Forms
+ 
+Create branded forms to capture leads and grow your list. Automatically trigger follow-up emails as soon as someone signs up.
+ 
+Basic reporting & analytics
+ 
+Track opens and clicks to measure campaign performance.
+ 
+Email support
+ 
+Get help via email from our customer care team. Support available in 6 languages. 
+ 
+Marketing automation
+ 
+Create an unlimited number of automated, multi-step workflows to engage users at key moments along their journey.
+ 
+A/B testing
+ 
+Test subject lines or content variants to improve opens and clicks.
+ 
+Advanced email reporting
+ 
+See where and how contacts engage to optimize future campaigns.
+ 
+AI send time optimization
+ 
+Automatically send emails when each contact is most likely to engage.
+ 
+Web & event tracking
+ 
+Track on‑site behavior and custom events to trigger messages and segment with precision. 
+ 
+Landing pages
+ 
+Create standalone campaign pages without a developer. 
+ 
+No Brevo logo
+ 
+Remove the “Sent with Brevo” footer to keep emails strictly professional. 
+ 
+Contact scoring
+ 
+Get contact scores based on engagement, purchases, and behaviors to trigger automations or create targeted segments. Includes RFM, CLV and more.
+ 
+Advanced ecommerce features
+ 
+Drive sales with AI recommendations, back-in-stock alerts, and coupons.
+ 
+AI segmentation
+ 
+Let Aura AI suggest audience groups based on behavior and attributes to accelerate targeting.
+ 
+AI Data Analyst
+ 
+Ask plain‑language questions and get instant answers from your data with Aura AI.
+ 
+Phone support
+ 
+Speak directly with our team when you need faster resolution.
+ 
+Deliverability Specialist support
+ 
+Work with a specialist to improve email deliverability and inbox placement. 3 hours per year included.
+ 
+Multi-account management
+ 
+Manage multiple business units & brands under one master account. 
+ 
+Custom objects
+ 
+Import all your unique data—like subscription dates or store locations—and use it to create more personalized customer journeys.
+ 
+Brevo Mobile Wallet
+ 
+Digitize loyalty cards, vouchers, tickets, and more—then send mobile wallet notifications to drive repeat sales and visits.
+ 
+Custom loyalty engine
+ 
+Create and manage a fully integrated loyalty program with customizable points, tiers, and rewards—natively connected to your customer data to boost retention and LTV.
+ 
+Custom data integrations 
+ 
+Sync customer data across your warehouse, POS, ERP, and other systems with Brevo via direct connectors or secure SFTP — ensuring accurate, up-to-date information everywhere.
+ 
+Dedicated IP
+ 
+Maintain full control of your sending reputation with a dedicated IP.
+ 
+SSO & SAML
+ 
+Secure, enterprise‑grade single sign‑on for centralized access management.
+ 
+Tailored onboarding
+ 
+Receive personalized setup support, hands-on training, integration assistance, and strategic guidance to launch faster.
+ 
+CSM support
+ 
+Recurring strategic support to build campaigns, analyze performance, and reach your goals (limited time).
+ 
+ 
+Frequently asked questions
+Do I have to enter my credit card details to sign up?
+ 
+No. We only need your email address and the name of your organization, and then you will be able to start creating campaigns.
+Do I need any prior knowledge or skills?
+ 
+Not at all! Brevo is designed with simplicity in mind. Even if you're a complete beginner, you'll have all the tools you need to build stunning emails, create contact lists and set advanced preferences. If you ever need guidance, you can take a look at our many tutorials and resources, or contact our support team. 
+Can I send transactional emails on my plan?
+ 
+Yes! All Brevo plans give you access to transactional email features, including RESTful APIs, SMTP, outbound webhooks, unlimited log retention, and more. Brevo integrates with all major CMS and our 
+API docs
+ are complete with guides, SDKs, libraries and code recipes to help you get started.
+Are you committed to this plan?
+ 
+You choose your commitment period when you sign up for a plan (monthly or yearly). There are no hidden fees with Brevo. Sign up for a plan or purchase credits as you need them, there are no additional fees.
+Why choose a pay-as-you-go plan?
+ 
+A pay-as-you-go plan is ideal for businesses and organizations that don't send emails often, or that don’t have a large contact list. PAYG credits do not expire, so you can use them at your own pace. One email sent equals one credit deducted. You still get all of our great features and services, however they do not include phone support. It is still possible to easily buy more credits or shift to a monthly plan at anytime though.
+Can I try Brevo before purchasing a plan?
+ 
+Absolutely! When you create an account, you will automatically have a Free plan to upload your contacts. Once we approve your account for sending, you can start sending up to 300 emails per day.
+What if I change my mind?
+ 
+If you change your mind, you can cancel your plan at any time directly from your account. Your data will be stored if you wish to use our services again, or we can delete all of your records upon your request.
+How can I pay?
+ 
+All payments are made by credit card, through our secure payment processor, Adyen, or by Paypal. If you subscribe to a monthly plan, the subscription period is 30 days and charges are processed at the beginning of each period. Email and SMS credits are charged at purchase. All statements are available within your account.
+What is a dedicated IP?
+ 
+A dedicated IP plan allows you to send email campaigns using your domain name and your own signature. You create transparency with your customers and build a reputation based on your IP and your domain name.

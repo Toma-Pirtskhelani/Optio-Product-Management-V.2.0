@@ -1,0 +1,1260 @@
+===== llms.txt :: https://braze.com/llms.txt
+# Braze
+> Rewrite the rules of customer engagement with AI
+> From cross-channel messaging and journey orchestration to Al-powered decisioning and optimization, Braze is a customer engagement platform that empowers brands to Be Absolutely Engaging.™
+# Pages
+- [Braze Learning Resource](https://www.braze.com/braze-learning-resource)
+- [Home](https://www.braze.com/)
+- [Value of Braze](https://www.braze.com/value-of-braze)
+- [The Braze Platform](https://www.braze.com/product)
+- [Get Started](https://www.braze.com/get-started)
+- [About](https://www.braze.com/company)
+- [Partners](https://www.braze.com/partners)
+## Product
+- [Trust at Braze](https://www.braze.com/product/trust)
+- [BrazeAI™ Agents](https://www.braze.com/product/ai-agents)
+- [LINE](https://www.braze.com/product/line)
+- [Product Overview](https://www.braze.com/product/overview)
+- [In-app Messaging Platform (SEO)](https://www.braze.com/product/mobile-app-messaging/in-app-messaging-platform)
+- [BrazeAI™ Decisioning Studio](https://www.braze.com/product/brazeai-decisioning-studio)
+- [Creative Studio](https://www.braze.com/product/creative-studio)
+- [BrazeAI™](https://www.braze.com/product/brazeai)
+- [Omnichannel Marketing Platform (SEO)](https://www.braze.com/product/cross-channel-messaging/omnichannel-marketing-platform)
+- [WhatsApp](https://www.braze.com/product/whatsapp)
+- [Braze Content Cards](https://www.braze.com/product/content-cards)
+- [Braze Email](https://www.braze.com/product/email)
+- [Braze SMS](https://www.braze.com/product/sms)
+- [Feature Flags](https://www.braze.com/product/feature-flags)
+- [Reporting & Analytics](https://www.braze.com/product/reporting-analytics)
+- [Journey Orchestration](https://www.braze.com/product/journey-orchestration)
+- [Mobile App Messaging](https://www.braze.com/product/mobile-app-messaging)
+- [Web Messaging](https://www.braze.com/product/web-messaging)
+- [Media Audience Sync](https://www.braze.com/product/audience-sync)
+- [Cross-channel Messaging](https://www.braze.com/product/cross-channel-messaging)
+- [Braze Data Platform](https://www.braze.com/product/braze-data-platform)
+## Industries
+- [Gaming](https://www.braze.com/solutions/gaming)
+- [Restaurants](https://www.braze.com/solutions/qsr)
+- [Luxury](https://www.braze.com/solutions/luxury)
+- [Sports](https://www.braze.com/solutions/sports)
+- [Media & Entertainment](https://www.braze.com/solutions/media-entertainment)
+- [Financial Services](https://www.braze.com/solutions/financial-services)
+- [Travel & Hospitality](https://www.braze.com/solutions/travel-hospitality)
+- [On-Demand](https://www.braze.com/solutions/on-demand)
+## Use Cases
+- [Boost Productivity](https://www.braze.com/solutions/boost-productivity)
+- [Optimize Onboarding](https://www.braze.com/solutions/optimize-onboarding)
+- [Increase Engagement](https://www.braze.com/solutions/increase-engagement)
+- [Reduce Churn](https://www.braze.com/solutions/reduce-churn)
+- [Improve Acquisition](https://www.braze.com/solutions/improve-acquisition)
+## Personas
+- [Braze For Startups](https://www.braze.com/braze-for-startups)
+## Blog Posts
+- [Braze Learning Supports Laid-Off Community With Free Certifications](https://www.braze.com/resources/articles/braze-learning-supports-laid-off-community-with-free-certifications)
+- [Braze vs Salesforce: Which customer engagement platform is right for your business?](https://www.braze.com/resources/articles/braze-vs-salesforce-comparison)
+- [Braze vs Adobe: Which customer engagement platform is right for your brand?](https://www.braze.com/resources/articles/braze-vs-adobe-comparison)
+## Frequently Asked Questions
+[What are BrazeAI™ Agents?](https://www.braze.com/product/ai-agents): BrazeAI™ Agents are autonomous AI assistants built into the Braze platform that help marketers work faster and smarter. They are highly configurable and can be deployed across the Braze platform, using your data and real-time context to automate tasks, personalize campaigns at scale, and help improve results across channels like email, push, in-app, and more.
+[What types of agents does Braze offer?](https://www.braze.com/product/ai-agents): Braze offers three complementary types of agents. Pre-built agents are ready to use for common marketing tasks like content optimization and campaign QA. Custom agents are created in the BrazeAI Agent Console™, and let you design task-specific, LLM-powered assistants that plug in directly in your Braze workflows. AI decisioning agents, available through BrazeAI Decisioning Studio™, make decisions at the individual customer level to optimize any business KPI. These agents can personalize channel, offer, message, creative, timing, frequency and more. They autonomously experiment and continuously learn from every customer interaction.
+[How does the BrazeAI Agent Console™ work?](https://www.braze.com/product/ai-agents): The Agent Console is an intuitive dashboard where marketers can create and manage custom agents without coding. You define the task, choose an AI model, and provide instructions (in the form of a prompt) for the agent. Agents are then invoked in either catalogs or canvases, to enrich data or personalize experiences, respectively. Currently, we are seeing customers use BrazeAI™ Agents to score leads, translate and localize content, and adapt communications based on customer behavior, and we are excited to see how else you put BrazeAI™ Agents to work for you!
+[How are custom agents different from conventional marketing automation?](https://www.braze.com/product/ai-agents): While traditional marketing automation runs on fixed rules and workflows defined in advance, custom agents bring AI models directly into Braze to generate outputs and route customers dynamically through canvases. Instead of just following if/then logic, agents can enrich data, personalize content, and adapt to customer behavior in real time, giving marketers more flexibility and intelligence than conventional automation alone.
+[What are common use cases for BrazeAI™ Agents?](https://www.braze.com/product/ai-agents): Brands can use BrazeAI™ Agents to tackle a range of marketing challenges, from driving conversions with personalized recommendations to reducing churn through timely offers, while also improving efficiency with tasks like scaling localization, enriching customer profiles, and automating campaign QA checks. Because agents can be shaped to fit each brand’s needs, they make it possible to scale everyday tasks and complex personalization in ways never before possible with Braze.
+[Which AI models power BrazeAI™ Agents?](https://www.braze.com/product/ai-agents): BrazeAI™ Agents support leading large language models from providers like OpenAI, Anthropic, and Google Gemini, giving marketers flexibility to choose their preferred LLM. AI decisioning agents rely on reinforcement learning, a type of AI best-fit for marketing personalization that optimizes customer and business value. With the Braze Model Context Protocol (MCP), you can also securely connect external AI tools to your Braze data for more advanced use cases.
+[What learning and development benefit opportunities does Braze offer to employees?](https://www.braze.com/company/careers/how-we-hire): We have many different learning and development initiatives and programs in place to ensure that employees can boost their skills and advance their careers, including our global learning stipend—check out the benefits section below for more details.
+[Does Braze use AI in the recruitment process?](https://www.braze.com/company/careers/how-we-hire): At Braze, we’re committed to a fair and transparent candidate experience. To help our recruitment teams focus on what matters most — the person behind each application — we use AI-assisted tools at certain stages of our recruitment process. This includes using AI to analyze the experience, skills and qualifications in your application materials to help with screening and prioritizing candidates. Such screening may amount to a form of solely automated decision-making. We also use AI for administrative support, like scheduling and recording interviews and summarizing interview notes. Our recruiting teams remain responsible for all hiring decisions and are involved throughout the process. Depending on where you are located, you may have the right to request further information about how AI is used in our recruitment process, to opt out of AI-assisted review, to request a manual review of any decision made or to contest a decision. Please contact us at talentdata.privacy@braze.com for any requests or questions.
+[How do I know if a Braze recruiter is real?](https://www.braze.com/company/careers/how-we-hire): Braze is aware of fraudulent recruitment activity in which bad actors may impersonate Braze recruiters and employees to deceive job seekers. These schemes are designed to obtain personal information or money, and are not affiliated with Braze in any way. BRAZE WILL NEVER Initiate contact via WhatsApp, Telegram, text message, or unsolicited phone calls as part of a recruiting process. Request payment, gift cards, banking details, or sensitive personal information (e.g. Social Security numbers or government IDs) during the interview process. Only once you receive and accept a job offer, you'll get requests for ID and personal details. For certain roles, you may be asked to verify your identity during the interview process, but that will specifically be requested through our Applicant Tracking System, Greenhouse. Ask you to purchase equipment or make any upfront payments. Contact you from a personal email address — all legitimate Braze recruiter communications come from a @braze.com email address. Use Crypto Currency to transact in forms of payment or purchases KNOWN FRAUD TACTICS Fake LinkedIn profiles WhatsApp outreach Telegram outreach Unsolicited texts & calls Fake Braze Website While you'll find our roles posted on many platforms (e.g., LinkedIn, Glassdoor, Indeed, etc.), you'll always be able to verify the legitimacy of Braze roles on our official careers website. If you believe you have been targeted by recruitment fraud, please report it to talentfraud@braze.com.
+[Who is Braze built for?](https://www.braze.com/pricing): Braze supports companies at every stage of growth including startups launching their first engagement programs, to scaling companies meeting expansive growth, to large global enterprises looking for the leading customer engagement platform.
+[What will my contract with Braze look like?](https://www.braze.com/pricing): Your Braze contract will be comprised of a Platform Edition tailored to your business needs, Monthly Active Users and Profiles, an allotment of Action Credits to power messaging and AI features, and CX Services to support your use of the platform. We also offer a variety of add-on SKUs across our Braze Data Platform and BrazeAITM product suite so you can customize your contract and unlock other valuable features within Braze.
+[What is a Monthly Active User? What is a Profile? Why are they important?](https://www.braze.com/pricing): A Monthly Active User (MAU) is any unique person who records a session on your Braze-connected app or website during a calendar month. You decide who counts: you can track every visitor if you value anonymous traffic, or limit tracking to only logged-in users. A Profile is the digital record of that person. It stores the user traits and behaviors that allow you to send truly personalized messages. Because your total user base is typically larger than your active monthly audience, every MAU in your plan includes a large allotment of User Profiles. This allows you to store data and re-engage customers with the right message, even if they haven't visited your app or website in a while.
+[What products and channels does Action Credits give me access to?](https://www.braze.com/pricing): Braze Action Credits unlock the flexible use of any of the following features throughout your contract: Email, SMS/MMS, RCS, WhatsApp, LINE, KakaoTalk, Content Cards, Banners, Message Archiving, Audience Sync, Webhooks, and BrazeAI Agent Console™. New and exciting features may be added to Action Credits in the future, giving you instant access to use them upon release.
+[How do Action Credits work?](https://www.braze.com/pricing): Think of Action Credits as a single, flexible currency for your Braze account. Instead of purchasing fixed quantities for individual products, you buy one pool of credits as part of your contract. You can then use those credits across different channels and features based on your engagement strategy. Each action consumes a different number of credits—for example, sending an SMS may cost 1 credit, while a WhatsApp message may cost 5. Because all usage draws from the same pool, you can easily shift spend (e.g., from Email to Agent Console) without needing to contract a new product. Credits give you the flexibility to adapt your strategy as your customer needs change and your business strategy evolves.
+[How will I be able to track my usage?](https://www.braze.com/pricing): Braze has comprehensive reporting and billing dashboards to help you monitor performance throughout your contract.
+[What kind of support will I get?](https://www.braze.com/pricing): Braze offers a variety of Support and Service plans to fit customer needs including 24x7x365 Customer support for the world's leading brands. From initial implementation to long-term strategy, we deliver support and partnership, wherever you need it, when you need it. Check out our Support & Services to learn more: https://www.braze.com/customer-support-services
+[Does Braze offer a free plan?](https://www.braze.com/pricing): Braze does not offer a free plan at this time. Companies can still explore the platform through trials, startup programs, and other tailored entry plans. Speak to your account manager or contact us for more details.
+[What is the Braze Creative Studio?](https://www.braze.com/product/creat
+
+===== homepage :: https://www.braze.com/
+Braze Customer Engagement Platform
+ 
+ 
+Why Braze?
+Product 
+ Back
+The Braze Platform
+All your data, channels, and orchestration needs in one place
+View the platform
+ 
+ 
+Pricing
+ 
+ 
+ 
+BrazeAl™
+ 
+UPDATES
+Automate, learn, and personalize with AI
+ 
+Braze Data Platform
+Unify, activate, and distribute your data
+ 
+Cross-Channel
+Send all your messages from one place
+FEATURED CAPABILITIES
+ 
+BrazeAI Decisioning Studio™
+Deliver 1:1 personalization, at scale
+ 
+Journey Orchestration
+Create multi-step, cross-channel experiences
+ 
+BrazeAI™ Agents
+ 
+UPDATES
+Scale smarter engagement with always-on AI agents
+ 
+Reporting & Analytics
+Analyze performance & uncover insights
+ 
+Creative Studio
+ 
+NEW
+Simplify creative workflows
+FEATURED CHANNELS
+ 
+Email
+ 
+Mobile App Messaging
+ 
+Web Messaging
+ 
+SMS/RCS
+ 
+WhatsApp
+ 
+View all channels
+ 
+How It Works
+Get a breakdown of our vertically- integrated technology
+Learn More
+Solutions 
+ Back
+Industries
+ 
+Retail & eCommerce
+ 
+Financial Services
+ 
+Travel & Hospitality
+ 
+Media & Entertainment
+ 
+Sports
+ 
+Gaming
+ 
+On Demand
+ 
+QSR
+Use Cases
+ 
+Optimize Onboarding
+ 
+Boost Productivity
+ 
+Improve Acquisitions
+ 
+Reduce Churn
+ 
+Increase Engagement
+Braze For
+ 
+Startups
+2026 Global Customer Engagement Review
+For our sixth Global CER, we surveyed over 2,200 marketing leaders and analyzed upwards of 6 billion data points spanning more than 750 brands
+Partners 
+ Back
+ 
+Braze Alloys
+Explore and Connect with our trusted Technology or Delivery Partners
+ 
+Become a Partner
+Explore the different types of partnerships available and help lead the charge for best-in-class customer experiences
+ 
+Find a Partner
+Supercharge the power of Braze with pre-built partner solutions designed to accelerate success
+Resources 
+ Back
+Learn
+ 
+Resources Hub
+ 
+Case Studies
+ 
+Blog
+ 
+Reports & Guides
+ 
+Videos
+ 
+Webinars & Events
+ 
+User Documentation
+ 
+Grow
+ 
+Bonfire Customer Community
+ 
+Braze Learning
+ 
+Customer Champion
+ 
+Certification
+ 
+Glossary
+Support
+ 
+Support Overview
+ 
+Professional Services
+ 
+Customer Success
+Company 
+ Back
+ 
+About Us
+Learn how Braze became the leading customer engagement platform
+ 
+Investor Relations
+Get the latest news, numbers, and financial results
+ 
+Careers
+Discover job openings & why people love working at Braze
+ 
+ESG
+Explore our Environmental, Social, and Corporate Governance data
+ 
+News
+Find out about the latest happenings at Braze
+ 
+Legal
+Get information on our legal terms, policies, compliance, and more
+Looking for something else?
+ Contact Us
+ 
+ 
+English
+ 
+Français
+日本語
+한국어
+Português BR
+Español
+Log In
+Get Started
+Get Started
+Open main menu
+Braze.
+Be Absolutely
+Engaging.™
+Overview
+Why Braze
+Braze Platform Overview
+How Braze Works
+Pricing
+Product
+Braze Data Platform
+BrazeAI™
+BrazeAI Decisioning Studio™
+BrazeAI™ Agents
+Cross-Channel Messaging
+Journey Orchestration
+Reporting
+Creative Studio
+Email
+Mobile App Messaging
+Web Messaging
+SMS/RCS
+WhatsApp
+Media Audience Sync
+LINE
+KakaoTalk
+Solutions
+Retail & eCommerce
+Financial Services
+Travel & Hospitality
+Media & Entertainment
+Gaming
+On Demand
+QSR
+Optimize Onboarding
+Boost Productivity
+Improve Acquisition
+Reduce Churn
+Increase Engagement
+Braze for Engineering
+Company
+About Us
+Careers
+News
+Investor Relations
+ESG
+Legal
+Contact Us & Locations
+Resources
+Case Studies
+Blog
+Reports & Guides
+Videos
+Webinars & Events
+Learning
+Documentation
+Documentation Home
+User Guide
+Developer Guide
+Partners
+Braze Alloys
+Partner Portal
+Partner Directory
+Featured Reports
+2026 Global Engagement Review
+Support
+Support Overview
+Customer Services
+Customer Success
+Helpful Links
+Login
+System Status
+Technical Support
+© 
+2026
+ Braze
+All Rights Reserved
+Cookies
+Privacy Policy
+Preference Center
+Sitemap
+ 
+Rewrite the rules of customer engagement with AI
+From cross-channel messaging and journey orchestration to Al-powered decisioning and optimization, Braze is a customer engagement platform that empowers brands to Be Absolutely Engaging.™
+Contact Sales
+Start a Free Trial
+ 
+MADE TO SCALE WITH COMPANIES OF ALL SIZES
+When technology moves fast, marketers move faster
+AI is everywhere—turn it into advantage. With Braze and BrazeAI™, you create faster, test smarter, and keep customer engagement personal at every step.
+Braze Data Platform
+BrazeAI™
+Cross-Channel Engagement
+ 
+Braze Data Platform
+Bring your data together, then put it to work
+Unify and activate your data in real time as fuel for BrazeAI™ to help anticipate customer behavior and to deliver relevant, impactful experiences—all without relying on technical teams.
+Braze Data Platform
+ 
+BrazeAI™
+Move from idea to impact at the speed of AI
+BrazeAI helps you launch smarter campaigns, connect with more customers, and drive the metrics that matter—without the wait. 
+BrazeAI™
+ 
+Cross-channel
+Make every interaction feel human
+Bring your messaging together and deliver consistent, responsive experiences across every channel, from one platform.
+Cross-Channel Messaging
+The only customer engagement platform you’ll ever need
+Bring data together, power it with AI, and deliver personalized customer experiences, at scale.
+See How Braze Works
+Understand your audience with Segment Builder
+Understand your audience with Segment Builder
+ 
+ 
+Your brand has a message, how you deliver it matters.
+Hear from brands who are using Braze to find a voice that is now finding its way to customers.
+Read all Case Studies
+Increase Lifetime Value
+Simplify Architecture
+Break Down Silos
+Grow Brand Love
+"We’ve been really impressed with how Braze has enabled us to advance our customer communication strategies across email, SMS and mobile channels. The cross-channel integrations and targeting capabilities continue to be crucial."
+Victoria Mitchell
+Manager of CRM Channel Strategy at Pizza Hut
+21%
+Increase in revenue
+30%
+Increase in transactions
+With Braze, we’ve been able to ensure that our customers have meaningful access to individually tailored updates on the products they order. That, in turn, makes it possible for us to provide a better, more personalized brand experience to the people who depend on us, while also significantly reducing the burden on our support team.
+Jason Feldman
+Global Director, Digital Communications, BEES/Anheuser Busch-InBev
+15%
+Decrease in order support and product info request tickets opened
+We brought in Braze to level up our customer engagement game, and we’re extremely happy with the results so far. Braze has helped us leverage the data that we already have and drive both engagement and acquisition at the speed we couldn’t dream about before.
+Oksana Kovalenko
+Head of Data Product at Virgin Red
++7K
+Click-through During IP Warmup
+45%
+open rate during IP warmup
+Braze is a very important partner in the execution of our engagement and gamification strategies.
+Braham Djidjelli
+Co-Founder, CPO at Hugosave
+300%
+Increase in rate of clients progressing to opening a full account
+Increase Lifetime Value
+Simplify Architecture
+Break Down Silos
+Grow Brand Love
+ 
+ 
+See our industry and customer recognitions.
+Braze is a Leader in the 2025 Gartner® Magic Quadrant™ for Multichannel Marketing Hubs for the third year in a row!
+Download Report
+Forrester
+The Total Economic Impact™ of Braze found that organizations using the Braze platform achieved a 
+457% ROI and payback in less than six months
+Download Study
+Ranked #1 in G2's Push Notification Grid
+, ahead of 56 competitors, we maintain our top spot as the category grows.
+View Report
+TrustRadius awarded Braze with the 
+Top Rated
+, 
+Buyer's Choice
+, and 
+Tech Cares
+ awards in 2025
+Learn More
+Braze named a 
+Leader in the 2023 IDC MarketScape
+ Worldwide Omni-Channel Marketing Platforms for B2C Enterprises
+Learn More
+Check out the resources.
+View the Blog
+Guide
+From efficiency to effectiveness: How AI is transforming customer engagement
+Guide
+AI-Powered Customer Engagement: A Braze Playbook
+Guide
+Braze Inspiration Guide
+Report
+2026 Global Customer Engagement Review
+Webinar
+Know your customer: Enhancing relevance with AI-powered experimentation
+July 23, 2025
+Article
+21
+ min read
+How to Build an AI Marketing Strategy
+March 24, 2025
+There's never been a better time to be a better marketer.™
+Get Started
+See How Braze Works
+
+===== product :: https://www.braze.com/product
+What Does Braze Do? How it Works
+ 
+ 
+Why Braze?
+Product 
+ Back
+The Braze Platform
+All your data, channels, and orchestration needs in one place
+View the platform
+ 
+ 
+Pricing
+ 
+ 
+ 
+BrazeAl™
+ 
+UPDATES
+Automate, learn, and personalize with AI
+ 
+Braze Data Platform
+Unify, activate, and distribute your data
+ 
+Cross-Channel
+Send all your messages from one place
+FEATURED CAPABILITIES
+ 
+BrazeAI Decisioning Studio™
+Deliver 1:1 personalization, at scale
+ 
+Journey Orchestration
+Create multi-step, cross-channel experiences
+ 
+BrazeAI™ Agents
+ 
+UPDATES
+Scale smarter engagement with always-on AI agents
+ 
+Reporting & Analytics
+Analyze performance & uncover insights
+ 
+Creative Studio
+ 
+NEW
+Simplify creative workflows
+FEATURED CHANNELS
+ 
+Email
+ 
+Mobile App Messaging
+ 
+Web Messaging
+ 
+SMS/RCS
+ 
+WhatsApp
+ 
+View all channels
+ 
+How It Works
+Get a breakdown of our vertically- integrated technology
+Learn More
+Solutions 
+ Back
+Industries
+ 
+Retail & eCommerce
+ 
+Financial Services
+ 
+Travel & Hospitality
+ 
+Media & Entertainment
+ 
+Sports
+ 
+Gaming
+ 
+On Demand
+ 
+QSR
+Use Cases
+ 
+Optimize Onboarding
+ 
+Boost Productivity
+ 
+Improve Acquisitions
+ 
+Reduce Churn
+ 
+Increase Engagement
+Braze For
+ 
+Startups
+2026 Global Customer Engagement Review
+For our sixth Global CER, we surveyed over 2,200 marketing leaders and analyzed upwards of 6 billion data points spanning more than 750 brands
+Partners 
+ Back
+ 
+Braze Alloys
+Explore and Connect with our trusted Technology or Delivery Partners
+ 
+Become a Partner
+Explore the different types of partnerships available and help lead the charge for best-in-class customer experiences
+ 
+Find a Partner
+Supercharge the power of Braze with pre-built partner solutions designed to accelerate success
+Resources 
+ Back
+Learn
+ 
+Resources Hub
+ 
+Case Studies
+ 
+Blog
+ 
+Reports & Guides
+ 
+Videos
+ 
+Webinars & Events
+ 
+User Documentation
+ 
+Grow
+ 
+Bonfire Customer Community
+ 
+Braze Learning
+ 
+Customer Champion
+ 
+Certification
+ 
+Glossary
+Support
+ 
+Support Overview
+ 
+Professional Services
+ 
+Customer Success
+Company 
+ Back
+ 
+About Us
+Learn how Braze became the leading customer engagement platform
+ 
+Investor Relations
+Get the latest news, numbers, and financial results
+ 
+Careers
+Discover job openings & why people love working at Braze
+ 
+ESG
+Explore our Environmental, Social, and Corporate Governance data
+ 
+News
+Find out about the latest happenings at Braze
+ 
+Legal
+Get information on our legal terms, policies, compliance, and more
+Looking for something else?
+ Contact Us
+ 
+ 
+English
+ 
+Français
+日本語
+한국어
+Português BR
+Español
+Log In
+Get Started
+Get Started
+Open main menu
+Braze.
+Be Absolutely
+Engaging.™
+Overview
+Why Braze
+Braze Platform Overview
+How Braze Works
+Pricing
+Product
+Braze Data Platform
+BrazeAI™
+BrazeAI Decisioning Studio™
+BrazeAI™ Agents
+Cross-Channel Messaging
+Journey Orchestration
+Reporting
+Creative Studio
+Email
+Mobile App Messaging
+Web Messaging
+SMS/RCS
+WhatsApp
+Media Audience Sync
+LINE
+KakaoTalk
+Solutions
+Retail & eCommerce
+Financial Services
+Travel & Hospitality
+Media & Entertainment
+Gaming
+On Demand
+QSR
+Optimize Onboarding
+Boost Productivity
+Improve Acquisition
+Reduce Churn
+Increase Engagement
+Braze for Engineering
+Company
+About Us
+Careers
+News
+Investor Relations
+ESG
+Legal
+Contact Us & Locations
+Resources
+Case Studies
+Blog
+Reports & Guides
+Videos
+Webinars & Events
+Learning
+Documentation
+Documentation Home
+User Guide
+Developer Guide
+Partners
+Braze Alloys
+Partner Portal
+Partner Directory
+Featured Reports
+2026 Global Engagement Review
+Support
+Support Overview
+Customer Services
+Customer Success
+Helpful Links
+Login
+System Status
+Technical Support
+© 
+2026
+ Braze
+All Rights Reserved
+Cookies
+Privacy Policy
+Preference Center
+Sitemap
+ 
+See how our tech stacks up.
+No matter where you are in your engagement journey, Braze can take you where you want to be. See how our vertically integrated tech stack can help you gain real time insights, and build more relevant customer experiences.
+Contact Sales
+Watch a Demo 
+ 
+ 
+Data Activation
+Segmentation
+Orchestration
+Relevance
+Cross-Channel
+BrazeAI™
+Insights
+From data activation and cross-channel journey orchestration, to 1:1 personalization and relevance with AI decisioning, this is how Braze works:
+ 
+01
+02
+03
+04
+05
+06
+07
+Data Activation
+Collect, unify, and activate any amount of data from any source.
+ 
+170+ turnkey partner integrations
+Get up and running fast with pre-built connectors to the tools in your tech stack.
+ 
+Customizable integrations
+Connect Braze to your digital properties, data warehouse, backend systems, and other software with lightweight SDKs, modern APIs, cloud data ingestion, and data transformation.
+ 
+Comprehensive user profiles
+Build a solid first-party data foundation grounded in historical and real-time customer preferences and behaviors.
+ 
+Activate with BrazeAI™
+Connect your AI tools of choice directly to Braze and use them to easily access and analyze data.
+Braze Data Platform
+Insights & Segmentation
+Build dynamic audiences with powerful tools that are guided by customer insights.
+ 
+Flexible segmentation
+Tap into 100+ out-of-the-box filters or use a flexible SQL composer to reach the right audience.
+ 
+Predictive intelligence
+Anticipate where customer journeys will go, easily moving consumers in and out of relevant segments.
+ 
+Dynamic audience building
+An intuitive interface and comprehensive data access lets you seamlessly design audiences that are always ready for engagement.
+ 
+Anticipate with BrazeAI™
+Identify and target customers based on their propensity to purchase, churn, or perform any other high-value action.
+Insights
+Journey Orchestration
+Put your customers on a faster path to your products and services.
+ 
+Intuitive journey building
+Send users down the next best path or experience with drag-and-drop components for branching, delays, audience syncs, and messaging.
+ 
+Real-time triggers
+Build highly responsive experiences that immediately react to customer actions.
+ 
+Creative experimentation
+A/B/n test copy, creative, timing, channel mix, promotions, and more with a flexible experimentation engine.
+ 
+Optimize with BrazeAI™
+Improve the metrics that matter most to your business with autonomous AI decisioning agents.
+Journey Orchestration
+Personalization & Relevance
+Scale personalization to deliver experiences your customers crave.
+ 
+Dynamic content personalization
+Easily embed personalized attributes, products, content, promotions, recommendations and more into messages on any channel.
+ 
+In-the-moment engagement
+Automatically trigger journeys and messaging based on sub-second customer behaviors and cross-channel interactions.
+ 
+Personalize with BrazeAI™
+Personalize across touchpoints at the individual customer level with AI decisioning.
+AI Decisioning
+Cross-Channel Action
+Create consistent customer experiences across every touchpoint—all from a single platform.
+ 
+Outbound channels
+Design, launch, and connect across your favorite and most important channels: email, SMS, push notifications, WhatsApp, and more.
+ 
+In-product touchpoints
+Easily embed dynamic products, content, promotions, and more into cross-channel messages.
+ 
+Paid media
+Use rich first-party data to dynamically target, trigger, and deliver ads across Meta, Google, Pinterest, Snapchat, TikTok, and Criteo.
+ 
+Interact with BrazeAI™
+Engage customers on the most relevant channel, at the right moment.
+Cross-Channel Messaging
+BrazeAI™
+A brilliant customer engagement advisor, right at your fingertips.
+ 
+Activate richer context
+Anticipate customer behaviors with a stream of rich, first-party insights.
+ 
+Amplify with intelligence
+Boost your creativity, strategy, and productivity with a team of AI assistants and agents.
+ 
+Personalize every interaction
+Deliver relevant, 1:1 experiences at rapid speed and massive scale.
+BrazeAI™
+Continuous Insight & Feedback
+Prove your impact with ongoing analytics at every stage of engagement.
+ 
+Custom reports and dashboards
+Visualize engagement across channels, track key business metrics, and report with confidence.
+ 
+Impact reporting
+Show how your customer engagement efforts drove incremental conversions using global holdout groups.
+ 
+Insights with BrazeAI™
+Collaborate with a team of AI agents, all ready to drive mutual value for your customers and your brand.
+Reporting & Analytics
+"Braze has designed its platform’s user interface to help marketing leaders achieve complex tasks with ease
+ — an aspect frequently praised by Peer Insights reviewers. For example, Braze integrates its analytics suite into its native journey builder, Canvas, helping marketing leaders personalize journeys based on likely performance with just a few clicks."
+2025 Gartner® Magic Quadrant™ for Multichannel Marketing Hubs
+Download Report
+"The flexibility of Braze’s features allowed us to design every second of the user experience, building our brand philosophy into the campaign without sacrificing flexibility or scalability. Not only that but using Braze's SDK to trigger the campaign for each user was a definite win for us."
+Miguel Semprun
+Global Martech Manager
+There's never been a better time to be a better marketer.™
+Get Started
+See How Braze Works
+
+===== pricing_or_trust :: https://www.braze.com/pricing
+Explore pricing and packaging options at Braze 
+ 
+ 
+Why Braze?
+Product 
+ Back
+The Braze Platform
+All your data, channels, and orchestration needs in one place
+View the platform
+ 
+ 
+Pricing
+ 
+ 
+ 
+BrazeAl™
+ 
+UPDATES
+Automate, learn, and personalize with AI
+ 
+Braze Data Platform
+Unify, activate, and distribute your data
+ 
+Cross-Channel
+Send all your messages from one place
+FEATURED CAPABILITIES
+ 
+BrazeAI Decisioning Studio™
+Deliver 1:1 personalization, at scale
+ 
+Journey Orchestration
+Create multi-step, cross-channel experiences
+ 
+BrazeAI™ Agents
+ 
+UPDATES
+Scale smarter engagement with always-on AI agents
+ 
+Reporting & Analytics
+Analyze performance & uncover insights
+ 
+Creative Studio
+ 
+NEW
+Simplify creative workflows
+FEATURED CHANNELS
+ 
+Email
+ 
+Mobile App Messaging
+ 
+Web Messaging
+ 
+SMS/RCS
+ 
+WhatsApp
+ 
+View all channels
+ 
+How It Works
+Get a breakdown of our vertically- integrated technology
+Learn More
+Solutions 
+ Back
+Industries
+ 
+Retail & eCommerce
+ 
+Financial Services
+ 
+Travel & Hospitality
+ 
+Media & Entertainment
+ 
+Sports
+ 
+Gaming
+ 
+On Demand
+ 
+QSR
+Use Cases
+ 
+Optimize Onboarding
+ 
+Boost Productivity
+ 
+Improve Acquisitions
+ 
+Reduce Churn
+ 
+Increase Engagement
+Braze For
+ 
+Startups
+2026 Global Customer Engagement Review
+For our sixth Global CER, we surveyed over 2,200 marketing leaders and analyzed upwards of 6 billion data points spanning more than 750 brands
+Partners 
+ Back
+ 
+Braze Alloys
+Explore and Connect with our trusted Technology or Delivery Partners
+ 
+Become a Partner
+Explore the different types of partnerships available and help lead the charge for best-in-class customer experiences
+ 
+Find a Partner
+Supercharge the power of Braze with pre-built partner solutions designed to accelerate success
+Resources 
+ Back
+Learn
+ 
+Resources Hub
+ 
+Case Studies
+ 
+Blog
+ 
+Reports & Guides
+ 
+Videos
+ 
+Webinars & Events
+ 
+User Documentation
+ 
+Grow
+ 
+Bonfire Customer Community
+ 
+Braze Learning
+ 
+Customer Champion
+ 
+Certification
+ 
+Glossary
+Support
+ 
+Support Overview
+ 
+Professional Services
+ 
+Customer Success
+Company 
+ Back
+ 
+About Us
+Learn how Braze became the leading customer engagement platform
+ 
+Investor Relations
+Get the latest news, numbers, and financial results
+ 
+Careers
+Discover job openings & why people love working at Braze
+ 
+ESG
+Explore our Environmental, Social, and Corporate Governance data
+ 
+News
+Find out about the latest happenings at Braze
+ 
+Legal
+Get information on our legal terms, policies, compliance, and more
+Looking for something else?
+ Contact Us
+ 
+ 
+English
+ 
+Français
+日本語
+한국어
+Português BR
+Español
+Log In
+Get Started
+Get Started
+Open main menu
+Braze.
+Be Absolutely
+Engaging.™
+Overview
+Why Braze
+Braze Platform Overview
+How Braze Works
+Pricing
+Product
+Braze Data Platform
+BrazeAI™
+BrazeAI Decisioning Studio™
+BrazeAI™ Agents
+Cross-Channel Messaging
+Journey Orchestration
+Reporting
+Creative Studio
+Email
+Mobile App Messaging
+Web Messaging
+SMS/RCS
+WhatsApp
+Media Audience Sync
+LINE
+KakaoTalk
+Solutions
+Retail & eCommerce
+Financial Services
+Travel & Hospitality
+Media & Entertainment
+Gaming
+On Demand
+QSR
+Optimize Onboarding
+Boost Productivity
+Improve Acquisition
+Reduce Churn
+Increase Engagement
+Braze for Engineering
+Company
+About Us
+Careers
+News
+Investor Relations
+ESG
+Legal
+Contact Us & Locations
+Resources
+Case Studies
+Blog
+Reports & Guides
+Videos
+Webinars & Events
+Learning
+Documentation
+Documentation Home
+User Guide
+Developer Guide
+Partners
+Braze Alloys
+Partner Portal
+Partner Directory
+Featured Reports
+2026 Global Engagement Review
+Support
+Support Overview
+Customer Services
+Customer Success
+Helpful Links
+Login
+System Status
+Technical Support
+© 
+2026
+ Braze
+All Rights Reserved
+Cookies
+Privacy Policy
+Preference Center
+Sitemap
+ 
+Explore pricing and packaging options and get started with Braze
+Flexible offerings designed for wherever you are in your customer engagement journey.
+Get pricing
+Start a free trial
+Platform Editions purpose-built for your stage
+Whether you're sending your first campaign or orchestrating AI-powered engagement at global scale, Braze Platform Editions are designed for exactly where you are and built to grow with you.
+Braze Go
+For early-stage growth teams looking to activate customer data and launch personalized cross-channel messaging.
+ 
+Core Braze features &  functionality
+Braze Select
+For companies scaling their engagement across more channels and team members while strengthening their governance and security.
+ 
+Everything in Braze Go, plus:
+ 
+Increased orchestration capabilities
+ 
+Enhanced security features and user provisioning
+Braze Pro
+For brands optimizing performance and maximizing impact with advanced BrazeAI™ capabilities and personalization.
+ 
+Everything in Braze Select, plus:
+ 
+Predictive AI capabilities
+ 
+AI personalized recommendations
+ 
+Expanded dashboard user group administration
+Braze Enterprise
+For forward-thinking enterprises running engagement at massive scale.
+ 
+Everything in Braze Pro, plus:
+ 
+Enterprise-grade orchestration, infrastructure, and governance
+ 
+Advanced experimentation with BrazeAI Agent Console™
+Get pricing
+Features included in every tier
+BrazeAI™
+ 
+BrazeAI Operator™
+ 
+BrazeAI Agent Console™
+ 
+Generative AI
+ 
+Intelligence Suite
+ 
+Personalized Paths &  Personalized Variant
+ 
+Winning Path & Winning Variant
+Braze Data Platform
+ 
+Cloud Data Ingestion
+ 
+Zero-copy segmentation & personalization
+ 
+Custom Data & Catalogs
+ 
+Data Transformation
+ 
+Data export, reporting, & analytics
+Cross-channel messaging
+ 
+Email
+ 
+Push Notifications
+ 
+SMS, MMS, RCS
+ 
+WhatsApp, KakaoTalk, LINE
+ 
+In-App Messages, Banners, Content Cards
+ 
+Landing Pages, Feature Flags
+ 
+Audience Sync, Webhooks
+ 
+Message Archiving
+Journey orchestration
+ 
+Campaigns & Canvases
+ 
+Engagement testing & experimentation
+ 
+Frequency capping & rate limiting
+ 
+Templates & media management
+ 
+Locations & geofences
+Trust and infrastructure
+ 
+Two-Factor Authentication (2FA)
+ 
+SAML & Single-Sign On (SSO)
+ 
+Security settings & event logs
+ 
+Granular permissions
+ 
+Scale your investment with real user engagement
+Pricing scales with your Monthly Active Users (MAU), the customers who actively interact with your brand across your digital experiences.
+ 
+Build one unified customer profile
+Unify customer data across devices, channels, and touchpoints to maintain a comprehensive customer profile without unnecessary duplication.
+ 
+Maintain full customer visibility
+Store a complete view of your audience in Braze while aligning spend to active users—so you get full context without paying for dormant profiles.
+ 
+Activate engagement when it matters most
+Choose when and where to start tracking users on your website or app. Capture meaningful customer activity aligned with your engagement strategy.
+ 
+Fuel your reach with Action Credits
+Optimize your strategy with a flexible credit-based model that works across every channel and certain BrazeAI™ products.
+ 
+Unlock cross-product agility
+Use credits across any combination of email, SMS, in-product messaging, BrazeAI Agent Console™ and more so you can focus your spend where it delivers the strongest results.
+ 
+Move faster without friction
+Launch exciting new channels and evolve your strategy at any time, all without additional commercial friction.
+ 
+Experiment with less risk
+Test and learn what works for your customer as they (and their needs) evolve. Adjust volumes based on performance to continually deliver strong ROI.
+ 
+Tap into expertise at every step
+Take advantage of our comprehensive support network designed to help brands like yours navigate the world of customer engagement with confidence.
+ 
+Support where you need it, when you need it
+Access technical expertise and troubleshooting to keep engagement running smoothly around the clock. From initial implementation to long-term strategy, Braze offers the resources and partnership necessary to unlock continuous value.
+ 
+Experts dedicated to your goals
+Partner with strategic advisors and technical architects who are equally focused on aligning the platform with specific business goals and growth milestones.
+ 
+Join the community
+Tap into the Braze Bonfire network and connect with more than 4,500 marketers to share ideas and insights on complex migrations, advanced strategy, and technical optimization.
+Learn about services
+ 
+Frequently Asked Questions
+ 
+Who is Braze built for?
+ 
+What will my contract with Braze look like?
+ 
+What is a Monthly Active User? What is a Profile? Why are they important? 
+ 
+What products and channels does Action Credits give me access to?
+ 
+How do Action Credits work?
+ 
+How will I be able to track my usage?
+ 
+What kind of support will I get?
+ 
+Does Braze offer a free plan?
+ 
+Engage every customer
+Experience a flexible platform designed to grow alongside the business and simplify how people engage with the brand.
+Talk to an expert
+Try Braze for free

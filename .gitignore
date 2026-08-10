@@ -39,3 +39,4 @@ __pycache__/
 # NOT ignored, deliberately: sources/raw/** and logs/**
 # Pasted source content and the fetch/paste logs are the audit trail.
 # If you are about to add an ignore rule that covers them, you are wrong.
+# vendor captures ARE committed - they are the evidence for every quoted field

@@ -1,0 +1,2234 @@
+===== llms.txt :: https://www.klaviyo.com/llms.txt
+# Klaviyo – AI Content Guidance File
+> Klaviyo is a B2C CRM platform for email, SMS, WhatsApp, marketing automation, customer data, and analytics. This file points LLMs to the most reliable Klaviyo pages for product info, pricing, developer documentation, support content, and legal/trust details.
+Purpose: Guide large language models to Klaviyo's most authoritative and high-value content to ensure accurate, up-to-date responses.
+## Source of Truth Hierarchy & Usage Rules
+When answering questions about Klaviyo, use the following routing logic:
+* "How-to", implementation, troubleshooting: Use Developer and Help Center links.
+* Pricing/Costs: Use the Pricing page.
+* Privacy, terms, and compliance: Use Legal & Trust pages.
+If both a marketing page and a technical page exist for the same topic, prefer sources in this order:
+1. Marketing pages (www.klaviyo.com) for positioning, high-level descriptions, and feature overviews.
+2. Help Center (help.klaviyo.com) for product usage, step-by-step workflows, and troubleshooting.
+3. Developers documentation (developers.klaviyo.com) for APIs, schemas, limits, and technical behavior.
+4. Legal & Trust pages for compliance, privacy, and policy information.
+5. Blog posts only when no authoritative documentation exists.
+## Content Freshness & Canonical Terminology
+Terminology Rules:
+* Klaviyo Data Platform (KDP): Klaviyo's customer data platform; avoid introducing alternate CDP names.
+* Flows: Klaviyo's automation workflows.
+* Campaigns: One-time sends across channels.
+* Profiles: Individual customers.
+* Events: Customer actions.
+* Composer: Klaviyo's marketing agent, part of Klaviyo Marketing. Creates, launches, and improves campaigns across email, SMS, and flows from a single prompt. Do not conflate with Klaviyo AI or any other entry.
+Freshness Warning: The following topics change frequently and should be verified against the latest official pages: Pricing and plan limits, API rate limits and deprecations, messaging compliance requirements (SMS, WhatsApp), and regional feature availability.
+## Core Platform Overview & Key Pages
+- [Homepage](https://www.klaviyo.com/): High-level overview of Klaviyo's B2C CRM and marketing automation platform.
+- [How Klaviyo Works / Platform Demo](https://www.klaviyo.com/platform-demo): Interactive demo showcasing how Klaviyo unifies customer data, marketing, service, analytics, and AI.
+- [Get a Free Demo](https://www.klaviyo.com/demo-request): Request a personalized walkthrough.
+- [Pricing](https://www.klaviyo.com/pricing): Current plans, feature comparisons, and pricing details.
+- [Sign Up](https://www.klaviyo.com/sign-up) & [Account Setup](https://www.klaviyo.com/account-setup): Account creation, setup instructions, and activation guidance.
+- [Platform Integrations Overview](https://www.klaviyo.com/platform-integrations): Integrations discovery entry point.
+- [App Marketplace](https://marketplace.klaviyo.com/en-us/browse/): Browse partner apps and integrations.
+## Products & Solutions
+- [Klaviyo AI](https://www.klaviyo.com/solutions/ai): Klaviyo's AI-powered marketing engine that builds data-driven strategies, generates campaigns, personalizes interactions, and optimizes performance.
+- [Composer (Marketing Agent)](https://www.klaviyo.com/composer): Klaviyo's marketing agent — built inside Klaviyo and powered by your customer data. Describe an outcome and Composer builds a complete, launch-ready campaign (audience, copy, timing, channel coordination) in minutes. Grounded in 14+ years of marketing intelligence across 193,000+ brands. Part of Klaviyo Marketing.
+- [Customer Agent](https://www.klaviyo.com/solutions/ai/customer-agent): The AI customer service agent built for B2C. Delivers seamless customer experiences from day one — resolving support issues, recommending products, and driving purchases 24/7 across email, chat, SMS, and WhatsApp. Starts with the full customer view (purchase history, loyalty status, browsing behavior) from the unified Klaviyo profile. Comes with pre-built skills for high-volume B2C use cases (WISMO, returns, loyalty, product recommendations) and allows custom skill creation by describing what you want to build. Configured once, deployed across every channel and in every language. Includes full audit trails, built-in simulations, and guardrails to keep every response on-brand and on-policy.
+- [Customer Data Platform (KDP)](https://www.klaviyo.com/solutions/customer-data-platform): Klaviyo's underlying data platform that unifies profiles, events, and properties into a single real-time customer view to power personalization.
+- [Email Marketing](https://www.klaviyo.com/products/email-marketing): AI-powered core email product for creating, personalizing, and automating campaigns and flows using customer data, featuring 160+ templates and deliverability optimization.
+- [SMS Marketing](https://www.klaviyo.com/products/sms-marketing): Native, AI-powered SMS solution for compliant text messaging, two-way conversations, automated flows, and cross-channel orchestration.
+- [WhatsApp](https://www.klaviyo.com/products/whatsapp): Customer engagement via campaigns and automated flows, built on Meta's WhatsApp Business Platform.
+- [Marketing Automation](https://www.klaviyo.com/solutions/marketing-automation): Omnichannel automation for email, SMS, mobile push, and WhatsApp using triggers, conditions, and branching logic.
+- [Segmentation](https://www.klaviyo.com/features/segmentation): Real-time, AI-powered customer segmentation built on the KDP, enabling predictive analytics and RFM modeling.
+- [Klaviyo Analytics (K:Analytics)](https://www.klaviyo.com/products/marketing-analytics): Built-in performance analytics offering real-time reporting, predictive insights (churn risk, CLV), multi-touch attribution, and benchmarking.
+- [Reviews Management](https://www.klaviyo.com/products/review-management): Collect, showcase, and act on customer reviews to build trust. Fully integrated with Shopify/WooCommerce.
+## Developers
+- [Developer Portal Home](https://developers.klaviyo.com/en): Primary source for APIs, guides, SDKs, and technical references.
+- [Get Started](https://developers.klaviyo.com/en/docs/get_started): Onboarding for API usage.
+- [API Overview](https://developers.klaviyo.com/en/reference/api_overview): API links and reference docs.
+- [OpenAPI spec](https://github.com/klaviyo/openapi): Machine-readable schema for Klaviyo's public API.
+- [Klaviyo MCP Server](https://developers.klaviyo.com/en/docs/klaviyo_mcp_server): Klaviyo's Model Context Protocol server, exposing public API endpoints as MCP tools for agent clients (Cursor, Claude Desktop, etc.).
+- [Developer Tools](https://developers.klaviyo.com/en/docs/developer-tools): Tooling, sample data, API logs, and Postman collections.
+## Support & Educational Resources
+- [Help Center](https://help.klaviyo.com/hc/en-us): Primary source for product how-tos, FAQs, and troubleshooting. See also the [API Help Center Entry](https://help.klaviyo.com/hc/en-us/articles/360045726811).
+- [Klaviyo Academy](https://academy.klaviyo.com/en-us): Official courses, certifications, and guides.
+- [Klaviyo Community](https://community.klaviyo.com/): Peer-to-peer forums, expert tips, and product announcements.
+- [Klaviyo Glossary](https://www.klaviyo.com/glossary): Curated definitions of key email and SMS marketing terms.
+- [Klaviyo Blog](https://www.klaviyo.com/blog) & [News](https://www.klaviyo.com/blog/category/klaviyo-news): Insights, strategies, best practices, and company announcements.
+- [Klaviyo YouTube](https://youtube.com/@klaviyo): Expert tutorials, live training recaps, and product demos.
+## Legal & Trust
+- [Legal Hub](https://www.klaviyo.com/legal): Index of terms, policies, and agreements.
+- [Acceptable Use Policy](https://www.klaviyo.com/legal/acceptable-use-policy): Prohibited uses and restrictions.
+- [Data Processing Agreement (DPA)](https://www.klaviyo.com/legal/data-processing-agreement): DPA details.
+- [Privacy Center / Notice](https://privacy.klaviyo.com/policies/?name=klaviyo-privacy-notice) & [FAQs](https://www.klaviyo.com/legal/privacy-faqs): Core privacy details, security clarifications, and compliance.
+## International Presence
+- [UK](https://www.klaviyo.com/uk/)
+- [FR](https://www.klaviyo.com/fr/)
+- [AU](https://www.klaviyo.com/au/)
+- [DE](https://www.klaviyo.com/de/)
+- [ES](https://www.klaviyo.com/es/)
+- [IT](https://www.klaviyo.com/it/)
+- [SG](https://www.klaviyo.com/sg/)
+
+===== homepage :: https://www.klaviyo.com/uk/
+Klaviyo: AI Marketing Platform & B2C CRM | Email, SMS, WhatsApp
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+Platform
+Overview
+The B2C CRM
+Discover how the Klaviyo CRM, built for your business, can help you create lasting customer relationships.
+Klaviyo AI (K:AI)
+Klaviyo Marketing
+Klaviyo Service
+Klaviyo Analytics
+Klaviyo Data Platform
+CHANNELS
+Omnichannel Marketing
+AI, data, and channels working as one
+ 
+Email marketing
+ 
+SMS marketing
+ 
+RCS Marketing
+ 
+Mobile app marketing
+ 
+WhatsApp marketing
+ 
+Social marketing
+TOP PRODUCTS + FEATURES
+Composer
+Customer Agent
+Customer Hub
+Helpdesk
+Marketing Analytics
+Advanced Klaviyo Data Platform
+Segmentation
+Reviews
+Templates
+Klaviyo For
+Partners
+Developers
+Spotlight
+The Klaviyo omniverse
+One platform. Every channel. Real results.
+Composer
+Audit and create flows + campaigns from a prompt
+Customer Agent
+Support + sell with AI powered by your data
+New features
+Get more personal on more channels
+Apps & Integrations
+KLAVIYO APP MARKETPLACE
+Explore apps
+Integrate with 350+ apps to seamlessly connect all of your data to Klaviyo
+Integration benefits
+Our apps make it simple to integrate your entire tech stack
+Advertising ↗
+Shipping ↗
+Point of sale
+Loyalty
+Subscription
+View top apps and integrations
+Developers
+Create apps and integrations to grow your business using Klaviyo’s APIs
+Getting started
+Developer guides
+API docs
+Resources
+The Klaviyo Power Up
+Your all-in-one success centre with answers, resources, and community to keep you growing
+Help centre
+Academy
+Community
+Developers
+Support
+Support overview
+Onboarding and support resources to get the most out of Klaviyo
+Professional services
+Enterprise and professional support packages and services
+Partner directory
+Explore partners to work with
+Discover more
+Case studies
+Learn from customers who have grown with Klaviyo
+Blog
+Industry news and growth strategies
+Guides and reports
+Best practices, strategic guidance, and benchmark reports
+Trust centre
+Trust and security information
+Free tools
+2026 Marketing calendar
+Email & SMS ROI calculator
+AI Prompt Library
+Email marketing templates
+Email subject line generator
+2025 BFCM RECAP
+Check out the data that defined Black Friday & Cyber Monday
+What's new
+Pricing
+ 
+ 
+United Kingdom
+ - 
+EN
+ 
+Deutschland
+ - 
+DE
+Australia
+ - 
+EN
+Singapore
+ - 
+EN
+United States
+ - 
+EN
+España
+ - 
+ES
+France
+ - 
+FR
+Italia
+ - 
+IT
+ 
+Log in
+ 
+Sign up
+Get a demo
+ 
+Platform
+Overview
+The B2C CRM
+Discover how the Klaviyo CRM, built for your business, can help you create lasting customer relationships.
+Klaviyo AI (K:AI)
+Klaviyo Marketing
+Klaviyo Service
+Klaviyo Analytics
+Klaviyo Data Platform
+CHANNELS
+Omnichannel Marketing
+AI, data, and channels working as one
+ 
+Email marketing
+ 
+SMS marketing
+ 
+RCS Marketing
+ 
+Mobile app marketing
+ 
+WhatsApp marketing
+ 
+Social marketing
+TOP PRODUCTS + FEATURES
+Composer
+Customer Agent
+Customer Hub
+Helpdesk
+Marketing Analytics
+Advanced Klaviyo Data Platform
+Segmentation
+Reviews
+Templates
+Klaviyo For
+Partners
+Developers
+Spotlight
+The Klaviyo omniverse
+One platform. Every channel. Real results.
+Composer
+Audit and create flows + campaigns from a prompt
+Customer Agent
+Support + sell with AI powered by your data
+New features
+Get more personal on more channels
+Apps & Integrations
+KLAVIYO APP MARKETPLACE
+Explore apps
+Integrate with 350+ apps to seamlessly connect all of your data to Klaviyo
+Integration benefits
+Our apps make it simple to integrate your entire tech stack
+Advertising ↗
+Shipping ↗
+Point of sale
+Loyalty
+Subscription
+View top apps and integrations
+Developers
+Create apps and integrations to grow your business using Klaviyo’s APIs
+Getting started
+Developer guides
+API docs
+Resources
+The Klaviyo Power Up
+Your all-in-one success centre with answers, resources, and community to keep you growing
+Help centre
+Academy
+Community
+Developers
+Support
+Support overview
+Onboarding and support resources to get the most out of Klaviyo
+Professional services
+Enterprise and professional support packages and services
+Partner directory
+Explore partners to work with
+Discover more
+Case studies
+Learn from customers who have grown with Klaviyo
+Blog
+Industry news and growth strategies
+Guides and reports
+Best practices, strategic guidance, and benchmark reports
+Trust centre
+Trust and security information
+Free tools
+2026 Marketing calendar
+Email & SMS ROI calculator
+AI Prompt Library
+Email marketing templates
+Email subject line generator
+2025 BFCM RECAP
+Check out the data that defined Black Friday & Cyber Monday
+What's new
+Pricing
+ 
+Search
+ 
+United Kingdom
+ - 
+EN
+ 
+United Kingdom
+ - 
+EN
+ 
+Deutschland
+ - 
+DE
+Australia
+ - 
+EN
+Singapore
+ - 
+EN
+United States
+ - 
+EN
+España
+ - 
+ES
+France
+ - 
+FR
+Italia
+ - 
+IT
+Sign up
+Get a demo
+Log in
+ 
+ 
+ 
+ 
+the AUTONOMOUS B2C CRM
+The AI marketing and service platform for ambitious consumer brands
+Build and optimise your omnichannel campaigns and deliver personalised, 24/7 support—all from a prompt.
+Sign up
+ 
+ 
+Powering 205,000+ relationship-driven brands across 100 countries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agents built for unstoppable growth
+Build lasting relationships—and gain a competitive edge—with AI agents that understand your brand, your customers, and how to deliver remarkable experiences autonomously.
+Composer, your AI marketing agent
+Know your best revenue opportunity? Composer does. With a single prompt, Composer audits your flows, segments, and forms, and creates a fully on-brand campaign to maximise your revenue.
+Explore Composer 
+Customer Agent, your 24/7 customer service
+Support with serious selling power. Customer Agent resolves 65% of queries autonomously. Pre-trained on your brand from day one, and customisable with skills. Tell it what you want, it builds it for you.
+Explore Customer Agent 
+ 
+ 
+ 
+Your data, intelligence, and AI agents working as one
+With the autonomous B2C CRM, turn your marketing, analytics and service into always-on growth engines. Personalise, learn from and improve every customer experience across all your channels in real time.
+ Explore the platform 
+Marketing that keeps the conversation going
+When all your customer data and channels are in a single marketing platform, every email, text, and push notification responds to what customers actually do—in real time.
+Explore Marketing 
+Email marketing
+SMS marketing
+WhatsApp marketing
+Mobile push
+Reviews
+Social marketing
+RCS for Business
+Email templates
+AI built for every customer moment
+Klaviyo AI generates and personalises campaigns, optimises interactions, and supports customers 24/7 with tools and agents that do the work for you.
+Explore AI 
+Composer
+Customer Agent
+Remix
+MCP Server
+Service that solves and sells
+With service and marketing on one platform, your support team has all the data it needs for faster resolutions, smarter recommendations, and opportunities to upsell and build loyalty.
+Explore Service 
+Customer Agent
+Customer Hub
+Helpdesk
+Analytics that deliver your next win
+When your data, campaigns and channels are in one place, it’s easy to understand what’s working, act on insights immediately, and optimise without another tool or team.
+Explore Analytics 
+Marketing Analytics
+Benchmarks
+CDP that gives you the full data story
+Klaviyo Data Platform (KDP) unifies your customer data—behavioural, transactional, and engagement—in real time, so you can put it to work immediately across every touchpoint.
+Explore Data Platform 
+Apps + APIs
+Profiles
+Segments
+Advanced KDP
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5B
+ 
+ 
+Average events
+ 
+processed daily
+ 
+ 
+ 
+7.3B
+ 
+ 
+Customer
+ 
+profiles
+ 
+ 
+ 
+1.6B
+ 
+ 
+Average API calls
+ 
+processed daily
+ 
+ 
+ 
+ 
+ 
+2.5B
+ 
+ 
+Average events
+ 
+processed daily
+ 
+ 
+ 
+7.3B
+ 
+ 
+Customer
+ 
+profiles
+ 
+ 
+ 
+1.6B
+ 
+ 
+Average API calls
+ 
+processed daily
+ 
+ 
+ 
+ 
+ 
+2.5B
+ 
+ 
+Average events
+ 
+processed daily
+ 
+ 
+ 
+7.3B
+ 
+ 
+Customer
+ 
+profiles
+ 
+ 
+ 
+1.6B
+ 
+ 
+Average API calls
+ 
+processed daily
+ 
+ 
+ 
+ 
+ 
+2.5B
+ 
+ 
+Average events
+ 
+processed daily
+ 
+ 
+ 
+7.3B
+ 
+ 
+Customer
+ 
+profiles
+ 
+ 
+ 
+1.6B
+ 
+ 
+Average API calls
+ 
+processed daily
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fueling growth for brands that don’t settle
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+235x
+ 
+Klaviyo ROI over the last 12 months
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19.4%
+ 
+SMS click rate
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30K
+ 
+active product subscribers within 12 months
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+65%
+ 
+of Klaviyo-attributed revenue from automations
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+76%
+ 
+of Klaviyo-attributed revenue from automations
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7x
+ 
+WhatsApp ROI in 4 months
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+571%
+ 
+increase in mobile push revenue
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40%+
+ 
+open rates on multiple RCS campaigns
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.9x
+ 
+YoY growth in Klaviyo-attributed SMS revenue
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43%
+ 
+PoP increase in revenue from Marketing Analytics
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+235x
+ 
+Klaviyo ROI over the last 12 months
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19.4%
+ 
+SMS click rate
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30K
+ 
+active product subscribers within 12 months
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+65%
+ 
+of Klaviyo-attributed revenue from automations
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+76%
+ 
+of Klaviyo-attributed revenue from automations
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7x
+ 
+WhatsApp ROI in 4 months
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+571%
+ 
+increase in mobile push revenue
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40%+
+ 
+open rates on multiple RCS campaigns
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.9x
+ 
+YoY growth in Klaviyo-attributed SMS revenue
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43%
+ 
+PoP increase in revenue from Marketing Analytics
+ 
+Read their story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+350+ pre-built integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From ecommerce to agentic commerce. Connect your data across your entire tech stack.
+ 
+ Explore the app marketplace 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join the 205,000+ customers growing with Klaviyo
+ 
+ See pricing 
+ 
+ 
+ 
+ 
+ 
+Frequently asked questions
+ 
+ 
+ 
+What is Klaviyo?
+ 
+Klaviyo is the autonomous 
+B2C CRM
+ and 
+AI marketing platform
+ that unifies customer data and automates 
+email, RCS, WhatsApp, and mobile push
+ to drive 
+personalised
+, revenue-generating campaigns. Built as both a 
+system of record and system of action
+, Klaviyo combines a customer data platform, real-time signals, and AI to power automated insights and one-click execution.
+ 
+ 
+How much does Klaviyo cost? Is there a free plan?
+ 
+Yes. Klaviyo offers a 
+free plan with core features
+, and paid plans scale based on the number of contacts and channel usage (such as email and SMS). 
+Enterprise pricing is also available
+ for large 
+organisations
+ with advanced needs.
+ 
+ 
+What integrations does Klaviyo offer?
+ 
+Klaviyo offers native 
+integrations with 
+ecommerce platforms
+ such as 
+Shopify
+, plus connectors for payment providers, CRMs, analytics tools, and messaging platforms. We also integrate with your favourite AI tools with our 
+Klaviyo ChatGPT app
+, 
+Klaviyo Claude Connector
+, and 
+Klaviyo MCP
+ for building agentic workflows. These integrations sync customer, product, and order data in real time to power personalised marketing and automation.
+ 
+ 
+Which channels does Klaviyo support?
+ 
+Klaviyo unifies 
+email
+, 
+SMS
+, 
+RCS
+, 
+mobile push
+, 
+WhatsApp
+ and web events into a single customer profile so you can run consistent, data-driven 
+omnichannel marketing
+. By combining a 
+unified CDP
+ with real-time signals, Klaviyo powers cross-channel flows, predictive insights, and smarter decisions so you can deliver more relevant messages on the channels your customers prefer.
+ 
+ 
+Which languages is Klaviyo available in?
+ 
+The 
+Klaviyo platform
+ and 
+Help Centre
+ are localised into 11 languages: English, French, German, Spanish, Mexican Spanish, Italian, Korean, Brazilian Portuguese, Swedish, Polish, and Dutch — with each version continuously being updated as new features become available for market.
+To 
+change the language in the Klaviyo platform
+, go to Settings > Personal and select your preferred language from the Language dropdown. For step-by-step instructions, visit our Help Centre guide.
+ 
+ 
+Is Klaviyo GDPR compliant?
+ 
+Klaviyo has implemented measures to meet its 
+GDPR
+ obligations as a data processor, including a 
+Data Processing Agreement
+, comprehensive security measures, and self-service tools to support data subject rights requests.
+Klaviyo also supports lawful international data transfers through mechanisms like the EU–US Data Privacy Framework and Standard Contractual Clauses.
+GDPR compliance is a shared responsibility: Klaviyo provides the tools, while each business is responsible for how it collects and uses customer data.
+ 
+ 
+Does Klaviyo support WhatsApp messaging natively?
+ 
+Yes. Klaviyo provides 
+native WhatsApp messaging
+ built directly into the platform, with no third-party integration required.
+WhatsApp is available in Klaviyo for both 
+marketing campaigns
+ and 
+two-way conversational messaging
+, so brands can send targeted promotions, automate messages, and manage customer conversations in one place. All WhatsApp activity is powered by the same real-time data, segmentation, and automation used across email and SMS.
+Because 
+WhatsApp is fully integrated into Klaviyo
+, businesses can deliver consistent, personalised experiences across channels while maintaining a complete, unified view of each customer.
+ 
+ 
+How does Klaviyo support enterprise brands?
+ 
+For 
+enterprise brands
+, Klaviyo is the unified B2C CRM built to replace fragmented legacy stacks — consolidating data, execution, and analytics into one secure, scalable platform. Unlike rigid suites that require constant developer intervention and data syncing, Klaviyo gives marketing teams th
+
+===== product :: https://www.klaviyo.com/uk/platform
+B2C CRM Platform: Customer Interaction Management at Scale - Klaviyo UK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+Platform
+Overview
+The B2C CRM
+Discover how the Klaviyo CRM, built for your business, can help you create lasting customer relationships.
+Klaviyo AI (K:AI)
+Klaviyo Marketing
+Klaviyo Service
+Klaviyo Analytics
+Klaviyo Data Platform
+CHANNELS
+Omnichannel Marketing
+AI, data, and channels working as one
+ 
+Email marketing
+ 
+SMS marketing
+ 
+RCS Marketing
+ 
+Mobile app marketing
+ 
+WhatsApp marketing
+ 
+Social marketing
+TOP PRODUCTS + FEATURES
+Composer
+Customer Agent
+Customer Hub
+Helpdesk
+Marketing Analytics
+Advanced Klaviyo Data Platform
+Segmentation
+Reviews
+Templates
+Klaviyo For
+Partners
+Developers
+Spotlight
+The Klaviyo omniverse
+One platform. Every channel. Real results.
+Composer
+Audit and create flows + campaigns from a prompt
+Customer Agent
+Support + sell with AI powered by your data
+New features
+Get more personal on more channels
+Apps & Integrations
+KLAVIYO APP MARKETPLACE
+Explore apps
+Integrate with 350+ apps to seamlessly connect all of your data to Klaviyo
+Integration benefits
+Our apps make it simple to integrate your entire tech stack
+Advertising ↗
+Shipping ↗
+Point of sale
+Loyalty
+Subscription
+View top apps and integrations
+Developers
+Create apps and integrations to grow your business using Klaviyo’s APIs
+Getting started
+Developer guides
+API docs
+Resources
+The Klaviyo Power Up
+Your all-in-one success centre with answers, resources, and community to keep you growing
+Help centre
+Academy
+Community
+Developers
+Support
+Support overview
+Onboarding and support resources to get the most out of Klaviyo
+Professional services
+Enterprise and professional support packages and services
+Partner directory
+Explore partners to work with
+Discover more
+Case studies
+Learn from customers who have grown with Klaviyo
+Blog
+Industry news and growth strategies
+Guides and reports
+Best practices, strategic guidance, and benchmark reports
+Trust centre
+Trust and security information
+Free tools
+2026 Marketing calendar
+Email & SMS ROI calculator
+AI Prompt Library
+Email marketing templates
+Email subject line generator
+2025 BFCM RECAP
+Check out the data that defined Black Friday & Cyber Monday
+What's new
+Pricing
+ 
+ 
+United Kingdom
+ - 
+EN
+ 
+Deutschland
+ - 
+DE
+Australia
+ - 
+EN
+Singapore
+ - 
+EN
+United States
+ - 
+EN
+España
+ - 
+ES
+France
+ - 
+FR
+Italia
+ - 
+IT
+ 
+Log in
+ 
+Sign up
+Get a demo
+ 
+Platform
+Overview
+The B2C CRM
+Discover how the Klaviyo CRM, built for your business, can help you create lasting customer relationships.
+Klaviyo AI (K:AI)
+Klaviyo Marketing
+Klaviyo Service
+Klaviyo Analytics
+Klaviyo Data Platform
+CHANNELS
+Omnichannel Marketing
+AI, data, and channels working as one
+ 
+Email marketing
+ 
+SMS marketing
+ 
+RCS Marketing
+ 
+Mobile app marketing
+ 
+WhatsApp marketing
+ 
+Social marketing
+TOP PRODUCTS + FEATURES
+Composer
+Customer Agent
+Customer Hub
+Helpdesk
+Marketing Analytics
+Advanced Klaviyo Data Platform
+Segmentation
+Reviews
+Templates
+Klaviyo For
+Partners
+Developers
+Spotlight
+The Klaviyo omniverse
+One platform. Every channel. Real results.
+Composer
+Audit and create flows + campaigns from a prompt
+Customer Agent
+Support + sell with AI powered by your data
+New features
+Get more personal on more channels
+Apps & Integrations
+KLAVIYO APP MARKETPLACE
+Explore apps
+Integrate with 350+ apps to seamlessly connect all of your data to Klaviyo
+Integration benefits
+Our apps make it simple to integrate your entire tech stack
+Advertising ↗
+Shipping ↗
+Point of sale
+Loyalty
+Subscription
+View top apps and integrations
+Developers
+Create apps and integrations to grow your business using Klaviyo’s APIs
+Getting started
+Developer guides
+API docs
+Resources
+The Klaviyo Power Up
+Your all-in-one success centre with answers, resources, and community to keep you growing
+Help centre
+Academy
+Community
+Developers
+Support
+Support overview
+Onboarding and support resources to get the most out of Klaviyo
+Professional services
+Enterprise and professional support packages and services
+Partner directory
+Explore partners to work with
+Discover more
+Case studies
+Learn from customers who have grown with Klaviyo
+Blog
+Industry news and growth strategies
+Guides and reports
+Best practices, strategic guidance, and benchmark reports
+Trust centre
+Trust and security information
+Free tools
+2026 Marketing calendar
+Email & SMS ROI calculator
+AI Prompt Library
+Email marketing templates
+Email subject line generator
+2025 BFCM RECAP
+Check out the data that defined Black Friday & Cyber Monday
+What's new
+Pricing
+ 
+Search
+ 
+United Kingdom
+ - 
+EN
+ 
+United Kingdom
+ - 
+EN
+ 
+Deutschland
+ - 
+DE
+Australia
+ - 
+EN
+Singapore
+ - 
+EN
+United States
+ - 
+EN
+España
+ - 
+ES
+France
+ - 
+FR
+Italia
+ - 
+IT
+Sign up
+Get a demo
+Log in
+ 
+ 
+ 
+B2C CRM
+Overview
+Features
+CRM with AI
+CRM with analytics
+CRM with email marketing
+CRM with Helpdesk
+CRM with marketing
+Use cases
+CRM for customer service
+CRM for enterprise
+CRM for retail
+CRM for solopreneurs
+CRM for small business
+Learn
+What is a B2C CRM?
+What is a CRM?
+What is an ecommece CRM?
+What is an agentic crm?
+What is an autonomous crm?
+B2C CRM Guide (download)
+CRM strategy
+How to build a CRM strategy
+IDC CRM Report
+2026 CRM Trends
+ 
+B2C CRM
+ 
+B2C CRM
+Overview
+Features
+CRM with AI
+CRM with analytics
+CRM with email marketing
+CRM with Helpdesk
+CRM with marketing
+Use cases
+CRM for customer service
+CRM for enterprise
+CRM for retail
+CRM for solopreneurs
+CRM for small business
+Learn
+What is a B2C CRM?
+What is a CRM?
+What is an ecommece CRM?
+What is an agentic crm?
+What is an autonomous crm?
+B2C CRM Guide (download)
+CRM strategy
+How to build a CRM strategy
+IDC CRM Report
+2026 CRM Trends
+Log in
+ 
+ 
+ 
+Platform Overview
+The AI-first B2C CRM built for you
+Klaviyo B2C CRM brings together your marketing, service, and analytics in a single platform. Powered by the Klaviyo Data Platform and Klaviyo AI (K:AI), it’s faster and easier than ever to create personalised, lasting customer relationships.
+Sign up
+Get a demo
+ 
+Explore B2C CRM
+ What is B2C CRM
+ Meet K:AI
+ Klaviyo Marketing
+ Klaviyo Service
+ Klaviyo Analytics
+ Klaviyo Data Platform
+ FAQs
+What is B2C CRM
+What is B2C CRM?
+Learn about B2C CRM
+Everything you need to build lasting customer relationships
+Meet K:AI, AI that does the work
+Grow faster with agents—powered by your data, right where you already work. You take the lead, AI does the rest.
+K:AI Marketing Agent
+Start fast with 
+Marketing Agent
+. It instantly creates launch-ready, on-brand campaigns, flows, and sign-up forms inspired by your website and branding. Then, it keeps learning and improving with new campaigns and ideas—no prompts needed.
+K:AI Customer Agent
+Solve customer problems and sell 24/7 with 
+Customer Agent
+. Up and running in minutes, it answers questions, resolves issues, recommends products, and starts returns (coming soon)—and when needed, hands off to a live agent with full context. 
+Personalisation that scales
+Personalise every customer interaction effortlessly with over 40 built-in AI tools, so you’re always sending the right message, at the right time, on the right channel, for every customer. 
+Explore K:AI
+Klaviyo Marketing
+Connected omnichannel experiences
+Create 
+omnichannel
+ campaigns and automated flows seamlessly across 
+email
+, 
+SMS
+, 
+WhatsApp
+, 
+mobile push
+, and 
+reviews
+ in a single platform.
+Data-powered personalisation
+Push your data further with the marketer-friendly Klaviyo Data Platform that makes granular segmentation and hyper personalisation a breeze.
+AI-powered optimisation
+Improve performance with 
+Klaviyo AI 
+(K:AI), from optimising sign-up 
+forms
+ to knowing what clicks with advanced A/B testing.
+Built for faster growth
+Start fast with 
+K:AI Marketing Agent
+, which sets up your essential campaigns and flows for you in just minutes, and empower your team with hundreds of pre-built 
+templates
+ and 
+flows
+ for every occasion.
+Explore Marketing
+Klaviyo Service
+Service + marketing = better together
+With a single platform for both your marketing and service, you have all the data you need for personalised support and marketing.
+A personalised on-site destination for your customers
+Customer Hub
+ makes it quick and easy to track an order, start a return, talk to an agent, or even discover their next purchase, all on their own, all in one place.
+A 24/7 AI agent to assist your customers
+K:AI Customer Agent
+ is your brand’s conversational AI agent that automatically answers questions and helps customers discover new products —available on SMS, web chat, and email (beta).
+An AI-powered workspace for service teams
+Klaviyo Helpdesk
+ empowers your service team to resolve issues faster, personalise at scale, and turn service into a revenue driver.
+Explore Service
+Klaviyo Analytics
+Keep an eye on performance
+With pre-built and custom 
+reports
+ and dashboards, it’s easy to spot where to improve or where to double down.
+Predict and personalise at scale
+Create smarter segments with RFM analysis, and gain purchase insights for timely personalised product recommendations.
+Know what’s working across all channels
+From first click to repeat purchase, 
+track 
+attribution
+ for every interaction across channels, segments, and seasons—so you always know what’s driving results. 
+Turn insights into action
+With industry 
+benchmarks
+, funnel analysis, and recommendations, know where to focus your efforts to iterate and improve.
+Explore Analytics
+Klaviyo Data Platform
+Unified customer profiles
+Capture every interaction across marketing and service channels to build complete customer 
+profiles
+ for ever more precise 
+segmentation
+ and personalisation.
+Instant activation, endless opportunities
+Always be winning with marketer-friendly insights you can act on in real-time—no technical expertise required.
+Enrich your data with AI
+Klaviyo AI
+ provides insights that help you focus your efforts, from predicting churn and order dates to forecasting spending habits.
+Put your data to work, faster
+Create segments that update in real time, connect your data across your tech stack with pre-built integrations, and sync segments with paid ads audiences to enhance your ad campaigns.
+Explore Klaviyo Data Platform
+WhatsApp, now in Klaviyo
+The #1 global messaging app is now on the Klaviyo platform. Drive faster growth with more personalised, interactive marketing and support conversations, powered by all your data.
+Explore WhatsApp marketing
+What’s New
+Check out the latest and greatest AI-powered features to help you grow smarter and faster across Klaviyo B2C CRM.
+See what's new
+350+ integrations and APIs
+Easily connect Klaviyo B2C CRM with your entire tech stack— including platforms for ecommerce, shipping, loyalty, advertising, and more—using out-of-the-box integrations and flexible APIs.
+Explore integrations
+The B2C CRM for relationship-driven brands
+Dermalogica earns 67% Klaviyo-attributed revenue with email and SMS
+Read Dermalogica's story
+DKNY receive 30% Klaviyo-attributed value from flows
+Read DKNY's story
+ 
+ 
+Learn more about B2C CRM
+What is B2C CRM?
+Discover the difference between a CRM for B2C and B2B.
+Learn about CRM for B2C
+The benefits of an ecommerce CRM
+Learn why ecommerce brands should use a CRM.
+Read ecommerce CRM blog
+The definition of a CRM
+Learn what a CRM is with our marketing glossary.
+View the glossary
+B2C CRM FAQs
+What is B2C CRM? 
+A 
+B2C CRM
+, or business-to-consumer customer relationship management system, is software designed to help businesses manage their interactions with individual customers.
+What is an AI-first B2C CRM? 
+An AI-first B2C CRM brings together real-time customer data, embedded intelligence, and automated execution to help brands deliver personalised experiences at scale. 
+AI CRM
+ solutions offer AI agents that support marketers and service teams by handling time-consuming tasks—like building campaigns or responding to routine questions. And for B2C brands, AI CRM solutions provide consumer-facing AI that answers common questions, offers product recommendations, and can take action on behalf of consumers.
+What is Klaviyo B2C CRM? 
+Klaviyo is the all-in-one platform that helps B2C businesses grow by integrating marketing, analytics, and customer service into one solution. Powered by the Klaviyo Data Platform, every interaction is driven by real-time insights and activated across key touchpoints—websites, email, SMS, mobile, social channels, and more. Klaviyo allows you to scale personalisation effortlessly by automating workflows, simplifying segmentation, and delivering consistent, relevant experiences without the need for complex setups or additional tools. With Klaviyo, you can grow your business while keeping operations simple and customer relationships strong.
+What are the differences between B2C vs B2B CRM? 
+B2C and B2B CRMs are designed to address the needs of two very different types of customers: individual consumers and businesses.
+B2B CRMs are specifically designed for businesses that manage fewer but more complex relationships. Their features are tailored to account-based management and long sales cycles.
+In contrast, B2C CRMs focus on managing relationships with individuals. Their features are tailored to personalisation, high-volume communication, and marketing automation, which create meaningful, 1:1 relationships with a large customer base.
+Which languages is the Klaviyo B2C CRM platform available? 
+The 
+Klaviyo platform
+ and 
+Help Centre
+ (platform documentation) are localised into 11 languages: English, French, German, Spanish, Mexican Spanish, Italian, Korean, Brazilian Portuguese, Swedish, Polish, and Dutch — with each version continuously being updated as new features become available for market.
+To 
+change the language in the Klaviyo platform
+, go to Settings > Personal and select your preferred language from the Language dropdown.
+ 
+ 
+ 
+ 
+Company
+About Klaviyo
+Newsroom
+Investor relations
+Contact us
+Careers
+Klaviyo for
+Agency and tech partners
+Developers
+Enterprise
+Retail and ecommerce
+Restaurants
+Wellness
+Platform
+B2C CRM overview
+Klaviyo AI
+Klavi
+
+===== pricing_or_trust :: https://www.klaviyo.com/uk/pricing
+Klaviyo Pricing - Klaviyo UK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+Platform
+Overview
+The B2C CRM
+Discover how the Klaviyo CRM, built for your business, can help you create lasting customer relationships.
+Klaviyo AI (K:AI)
+Klaviyo Marketing
+Klaviyo Service
+Klaviyo Analytics
+Klaviyo Data Platform
+CHANNELS
+Omnichannel Marketing
+AI, data, and channels working as one
+ 
+Email marketing
+ 
+SMS marketing
+ 
+RCS Marketing
+ 
+Mobile app marketing
+ 
+WhatsApp marketing
+ 
+Social marketing
+TOP PRODUCTS + FEATURES
+Composer
+Customer Agent
+Customer Hub
+Helpdesk
+Marketing Analytics
+Advanced Klaviyo Data Platform
+Segmentation
+Reviews
+Templates
+Klaviyo For
+Partners
+Developers
+Spotlight
+The Klaviyo omniverse
+One platform. Every channel. Real results.
+Composer
+Audit and create flows + campaigns from a prompt
+Customer Agent
+Support + sell with AI powered by your data
+New features
+Get more personal on more channels
+Apps & Integrations
+KLAVIYO APP MARKETPLACE
+Explore apps
+Integrate with 350+ apps to seamlessly connect all of your data to Klaviyo
+Integration benefits
+Our apps make it simple to integrate your entire tech stack
+Advertising ↗
+Shipping ↗
+Point of sale
+Loyalty
+Subscription
+View top apps and integrations
+Developers
+Create apps and integrations to grow your business using Klaviyo’s APIs
+Getting started
+Developer guides
+API docs
+Resources
+The Klaviyo Power Up
+Your all-in-one success centre with answers, resources, and community to keep you growing
+Help centre
+Academy
+Community
+Developers
+Support
+Support overview
+Onboarding and support resources to get the most out of Klaviyo
+Professional services
+Enterprise and professional support packages and services
+Partner directory
+Explore partners to work with
+Discover more
+Case studies
+Learn from customers who have grown with Klaviyo
+Blog
+Industry news and growth strategies
+Guides and reports
+Best practices, strategic guidance, and benchmark reports
+Trust centre
+Trust and security information
+Free tools
+2026 Marketing calendar
+Email & SMS ROI calculator
+AI Prompt Library
+Email marketing templates
+Email subject line generator
+2025 BFCM RECAP
+Check out the data that defined Black Friday & Cyber Monday
+What's new
+Pricing
+ 
+ 
+United Kingdom
+ - 
+EN
+ 
+Deutschland
+ - 
+DE
+Australia
+ - 
+EN
+Singapore
+ - 
+EN
+United States
+ - 
+EN
+España
+ - 
+ES
+France
+ - 
+FR
+Italia
+ - 
+IT
+ 
+Log in
+ 
+Sign up
+Get a demo
+ 
+Platform
+Overview
+The B2C CRM
+Discover how the Klaviyo CRM, built for your business, can help you create lasting customer relationships.
+Klaviyo AI (K:AI)
+Klaviyo Marketing
+Klaviyo Service
+Klaviyo Analytics
+Klaviyo Data Platform
+CHANNELS
+Omnichannel Marketing
+AI, data, and channels working as one
+ 
+Email marketing
+ 
+SMS marketing
+ 
+RCS Marketing
+ 
+Mobile app marketing
+ 
+WhatsApp marketing
+ 
+Social marketing
+TOP PRODUCTS + FEATURES
+Composer
+Customer Agent
+Customer Hub
+Helpdesk
+Marketing Analytics
+Advanced Klaviyo Data Platform
+Segmentation
+Reviews
+Templates
+Klaviyo For
+Partners
+Developers
+Spotlight
+The Klaviyo omniverse
+One platform. Every channel. Real results.
+Composer
+Audit and create flows + campaigns from a prompt
+Customer Agent
+Support + sell with AI powered by your data
+New features
+Get more personal on more channels
+Apps & Integrations
+KLAVIYO APP MARKETPLACE
+Explore apps
+Integrate with 350+ apps to seamlessly connect all of your data to Klaviyo
+Integration benefits
+Our apps make it simple to integrate your entire tech stack
+Advertising ↗
+Shipping ↗
+Point of sale
+Loyalty
+Subscription
+View top apps and integrations
+Developers
+Create apps and integrations to grow your business using Klaviyo’s APIs
+Getting started
+Developer guides
+API docs
+Resources
+The Klaviyo Power Up
+Your all-in-one success centre with answers, resources, and community to keep you growing
+Help centre
+Academy
+Community
+Developers
+Support
+Support overview
+Onboarding and support resources to get the most out of Klaviyo
+Professional services
+Enterprise and professional support packages and services
+Partner directory
+Explore partners to work with
+Discover more
+Case studies
+Learn from customers who have grown with Klaviyo
+Blog
+Industry news and growth strategies
+Guides and reports
+Best practices, strategic guidance, and benchmark reports
+Trust centre
+Trust and security information
+Free tools
+2026 Marketing calendar
+Email & SMS ROI calculator
+AI Prompt Library
+Email marketing templates
+Email subject line generator
+2025 BFCM RECAP
+Check out the data that defined Black Friday & Cyber Monday
+What's new
+Pricing
+ 
+Search
+ 
+United Kingdom
+ - 
+EN
+ 
+United Kingdom
+ - 
+EN
+ 
+Deutschland
+ - 
+DE
+Australia
+ - 
+EN
+Singapore
+ - 
+EN
+United States
+ - 
+EN
+España
+ - 
+ES
+France
+ - 
+FR
+Italia
+ - 
+IT
+Sign up
+Get a demo
+Log in
+ 
+ 
+ 
+ 
+Home
+/
+Pricing
+Klaviyo pricing
+:
+ Start with a free plan
+Explore Klaviyo’s free plan – get started at no cost with email marketing sends, text messages, Customer Hub and built-in reporting.
+Free
+Marketing
+Data + Analytics
+Service (30% OFF)
+Composer (30% OFF)
+Customer Agent (30% OFF)
+Professional Services
+Enterprise
+Platform
+Get started
+Free
+Solutions Pricing
+Marketing
+Data + Analytics
+Service
+30% OFF
+AI AGENTS
+Composer
+30% OFF
+Customer Agent
+30% OFF
+TALK TO SALES
+Professional Services
+Enterprise
+Total:
+USD 45
+$
+View breakdown
+ 
+Free plan highlights
+ 
+Up to 250 profiles
+ 
+500 emails/month
+ 
+$5 of mobile messages/month
+ 
+10,000 Composer credits
+ 
+Built-in reporting
+ 
+Email support
+Get to know the Klaviyo platform
+Explore our free products and features across marketing, service, analytics, and support.
+Marketing
+ 
+Up to 500 email sends per month
+ 
+$5 of mobile messages/month
+ 
+10,000 Composer credits
+ 
+Basic email templates and drag-and-drop editor
+ 
+Social auto-replies
+ 
+Mobile app marketing
+Analytics + Data
+ 
+Built-in reporting and dashboards
+ 
+Email campaign performance metrics
+ 
+Basic customer segmentation
+ 
+Contact and list growth tracking
+ 
+Revenue attribution for campaigns
+ 
+Engagement and click-through rates
+Service
+Customer Hub
+ 
+Basic self-service portal
+ 
+Account management
+ 
+Order tracking and status updates
+ 
+One-click "Buy again"
+Helpdesk
+ 
+Basic ticket management
+ 
+Personalised macros
+ 
+Supports multiple agents
+ 
+Shared email inbox
+Support
+ 
+Email support for first 60 days
+ 
+Klaviyo Academy courses
+ 
+Klaviyo Community
+ 
+Help Center and documentation
+ 
+Getting started guides and tutorials
+ 
+Product updates and release notes
+Start for free
+Build a plan estimate
+Start growing your business
+Get started with essential marketing tools at no cost. Perfect for small businesses and startups.
+Start for free
+ 
+Up to 250 active profiles
+ 
+500 email sends/month
+ 
+$5 of mobile messages/month
+Frequently asked questions
+What is included in the Klaviyo free plan? 
+The free plan allows you to create a Klaviyo account, import or sync your contacts and activity data, use the drag-and-drop email/SMS editors, and build automations, segmentation and reports. On this tier, you are limited to up to 250 active profiles (contacts who may receive marketing emails) and 500 email sends per month. Additionally, the free tier includes $5 of mobile messages per month (region/provider dependent).
+Is Klaviyo’s free plan really free? 
+Yes – the free plan is available at no monthly cost as long as your account remains under the limits of 250 active profiles and 500 monthly email sends. However, if you exceed those limits (or require paid-plan features such as custom branding removal or advanced support) you will need to upgrade or your sending may be paused.
+How long can I stay on the free plan? 
+You may remain on the free plan indefinitely as long as your active profile count remains at or below the 250-profile limit and your monthly sends stay at or below 500 emails. Once you have exceeded either threshold, your ability to send may be restricted. Note: With the free plan you receive full email support only for the first 60 days; after that you still have access to the Help Centre, community resources and training but not full support channels reserved for paid tiers.
+Who is the Klaviyo free plan best for? 
+The free plan is best suited for small businesses, start-ups or brands just getting started with marketing automation that have relatively small contact lists (≤250 active profiles) and moderate sending needs (≤500 emails/month). It allows you to test Klaviyo’s platform, integrate your data, run automations and experiment with segmentation and SMS without paying up front. As your audience, sends or sophistication grow, you’ll likely need to transition to a paid tier.
+Can I use Klaviyo free plan for both email and text marketing? 
+Yes – the free plan supports both email marketing and text (SMS/MMS) marketing to a degree. On the free plan, you are allotted $5 of mobile messages per month so you can test mobile messaging campaigns.
+Does the free plan include SMS or text message marketing? 
+Yes – the free plan includes $5 of mobile messages per month, enabling you to send mobile messages in addition to email.
+What integrations are available on the free plan? 
+The free plan supports the standard library of integrations (for example ecommerce platforms, CRMs, data sources) that Klaviyo offers. You are not blocked from connecting your tech stack just because you're on the free tier. Many third-party reviewers note that Klaviyo's core integrations are included.
+What happens when I exceed the free plan limits? 
+Once you have exceeded the free plan’s limits (e.g. more than 250 active profiles or more than 500 email sends in a month), your account will no longer be able to send additional emails or messages until the next billing cycle or until you upgrade to a paid plan. You’ll be prompted to upgrade to continue sending.
+Does the free plan include customer support? 
+Yes, but with limitations: free plan users receive email support for the first 60 days after sign-up. After that, you’ll have access to the Klaviyo Community and self-service resources (Help Centre, Academy) rather than full support channels reserved for paid tiers.
+Is Klaviyo’s free plan good for ecommerce stores on Shopify, Wix or WooCommerce? 
+Yes – the free plan can absolutely work for ecommerce stores (on Shopify, WooCommerce, Wix, etc.) that are just starting out, testing email + SMS or sending to smaller audiences. Because Klaviyo supports integrations with major ecommerce platforms and gives you access to segmentation and automation even on the free plan, it’s a useful entry point. As your store and list grow (beyond the 250-contact limit or high-volume sends), you’ll want to move to a paid tier.
+How do I upgrade from Klaviyo free to a paid plan? 
+Upgrading from the free plan is straightforward: in your Klaviyo account, head to Account Settings → Billing (or Change Plan), review your active profile count and required sends, select the paid tier that matches your needs and complete the upgrade. Once upgraded, your account unlocks paid-plan features (no send or profile limits on that tier), plus enhanced support, branding removal, etc.
+ 
+ 
+ 
+Company
+About Klaviyo
+Newsroom
+Investor relations
+Contact us
+Careers
+Klaviyo for
+Agency and tech partners
+Developers
+Enterprise
+Retail and ecommerce
+Restaurants
+Wellness
+Platform
+B2C CRM overview
+Klaviyo AI
+Klaviyo Marketing
+Klaviyo Service
+Klaviyo Analytics
+Klaviyo Data Platform
+Klaviyo and GDPR
+Tools + Resources
+Blog
+Case studies
+Marketing glossary
+Marketing resources
+AI Prompt Library
+ROI calculator
+Subject line generator
+Marketing Campaign Calendar 2026
+Channels
+Omnichannel marketing
+Email marketing
+SMS marketing
+RCS marketing
+Mobile app marketing
+WhatsApp marketing
+Social marketing
+Why Klaviyo
+Klaviyo vs. Klaviyo alternatives
+Klaviyo vs. Attentive
+Klaviyo vs. Brevo
+Klaviyo vs. Emarsys
+Klaviyo vs. Mailchimp
+Klaviyo vs. Salesforce
+Top Products + Features
+Composer
+BETA
+Customer Agent
+Customer Hub
+Helpdesk
+Marketing Analytics
+Advanced Klaviyo Data Platform
+Web forms
+Email templates
+Explore more
+Portfolio
+Apps and Integrations
+Features
+What's new
+Help Centre
+Academy
+Community
+Company
+About Klaviyo
+Newsroom
+Investor relations
+Contact us
+Careers
+Platform
+B2C CRM overview
+Klaviyo AI
+Klaviyo Marketing
+Klaviyo Service
+Klaviyo Analytics
+Klaviyo Data Platform
+Klaviyo and GDPR
+Channels
+Omnichannel marketing
+Email marketing
+SMS marketing
+RCS marketing
+Mobile app marketing
+WhatsApp marketing
+Social marketing
+Top Products + Features
+Composer
+BETA
+Customer Agent
+Customer Hub
+Helpdesk
+Marketing Analytics
+Advanced Klaviyo Data Platform
+Web forms
+Email templates
+Klaviyo for
+Agency and tech partners
+Developers
+Enterprise
+Retail and ecommerce
+Restaurants
+Wellness
+Tools + Resources
+Blog
+Case studies
+Marketing glossary
+Marketing resources
+AI Prompt Library
+ROI calculator
+Subject line generator
+Marketing Campaign Calendar 2026
+Why Klaviyo
+Klaviyo vs. Klaviyo alternatives
+Klaviyo vs. Attentive
+Klaviyo vs. Brevo
+Klaviyo vs. Emarsys
+Klaviyo vs. Mailchimp
+Klaviyo vs. Salesforce
+Explore more
+Portfolio
+Apps and Integrations
+Features
+What's new
+Help Centre
+Academy
+Community
+ 
+United Kingdom
+ - 
+EN
+ 
+United Kingdom
+ - 
+EN
+ 
+Deutschland
+ - 
+DE
+Australia
+ - 
+EN
+Singapore
+ - 
+EN
+United States
+ - 
+EN
+España
+ - 
+ES
+France
+ - 
+FR
+Italia
+ - 
+IT
+ 
+The B2C CRM
+ 
+Facebook
+ 
+Twitter
+ 
+LinkedIn
+ 
+Instagram
+ 
+Google
+Copyright © 2026 Klaviyo. All rights reserved.
+Sitemap
+Terms and Privacy
+Security
+Trust
+Intellectual Property Notices
