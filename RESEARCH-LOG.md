@@ -146,12 +146,27 @@ has one shape from line 1; `status` seeded free from the Gartner `(Legacy)` mark
 that deliberately suspends stop-at-Rung-3 for this pass, the `solution_type` no-default rule, and
 the five parked fields with the reason and future source for each.
 
+**16 · 2026-08-10 · Enrichment checkpoint — first 10 companies, then stop**
+Fixed four-fetch budget per company, applied identically: `/llms.txt`, homepage, product page,
+one discretionary. Mean **3.4 fetches**, 45 HTTP requests total, page text committed to
+`sources/raw/vendors/` so every quoted field is checkable. **9 of 10 had an `llms.txt`** and it
+earned its slot — it named the product and pricing pages directly.
+**1 unreachable:** Adobe terminates the stream on both `adobe.com` and `business.adobe.com`;
+recorded, not retried, not filled from memory.
+Fill rates split sharply: description, value proposition, website **90%**, functionality and
+channels **80%** — but `solution_type` **10%**, `named_clients` **10%**, `founded_year` **20%**,
+`business_model` **30%**, `status` **0%**. Vendors do not publish deployment models on the pages
+a marketing visitor sees, which is a finding about disclosure rather than a failure of the pass.
+Caveat that governs the 25%-at-60 rule: these 10 are the **broadest** companies in the set, so
+these rates are an optimistic ceiling, not a sample mean.
+
 ---
 
 ## Where it stands
 
-All 10 IN classifications accepted and exported. `outputs/companies-IN.json` holds **237 unique
-companies**; `outputs/companies-IN.md` is the readable companion.
+All 10 IN classifications accepted and exported. Canonical store is **`outputs/companies.jsonl`**
+(237 companies, one per line) with `outputs/companies-index.md` (16.1 KB) as the context anchor.
+**10 companies enriched; 227 awaiting schema approval at the checkpoint.**
 
 **The binding constraint is G2 coverage: 65 of 1,810 listings (3.6%).** The Gartner half is
 complete at 352 of 352. Closing the G2 half needs ~111 paginated pastes; nothing else in the
