@@ -133,6 +133,19 @@ Also fixed: legacy stated as 8 products where it is **9 listings across 8 distin
 source page itself are now flagged `name_truncated_in_source` rather than silently carrying an
 ellipsis. 18-check audit now passes clean.
 
+**15 · 2026-08-10 · Storage migrated to JSONL before enrichment**
+`companies-IN.json` was 824 KB — unreadable in one context, and enrichment would have made it
+worse. Canonical store is now **`outputs/companies.jsonl`**, one complete company per line:
+retrievable by `grep` without parsing, and **a changed field is a one-line git diff instead of
+a whole-file rewrite**, which is what keeps the audit trail alive.
+Migration verified lossless by a 10-check comparison — 237 in, 237 out, no key path dropped, no
+original value altered. `outputs/companies-index.md` is the generated context anchor at
+**16.1 KB**, well under the 60 KB target. Enrichment fields are scaffolded empty so every record
+has one shape from line 1; `status` seeded free from the Gartner `(Legacy)` markers already held.
+`outputs/enrichment-method.md` records the four-fetch budget, the Rungs-1-2-only failure rule
+that deliberately suspends stop-at-Rung-3 for this pass, the `solution_type` no-default rule, and
+the five parked fields with the reason and future source for each.
+
 ---
 
 ## Where it stands

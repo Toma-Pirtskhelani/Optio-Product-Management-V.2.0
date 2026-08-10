@@ -1,0 +1,58 @@
+{
+ "generated": "2026-08-10",
+ "scope": "All classifications with Verdict = IN in outputs/classification-menu.md",
+ "categories_included": {
+  "gartner": [
+   "Multichannel Marketing Hubs",
+   "Email Marketing (Transitioning to Email Marketing Platforms)",
+   "B2B Marketing Automation Platforms",
+   "Mobile Marketing Platforms",
+   "Location Based Marketing Software",
+   "Direct Mail Automation Software"
+  ],
+  "g2": [
+   "Marketing Automation",
+   "SMS Marketing",
+   "Email Marketing",
+   "Personalization"
+  ]
+ },
+ "coverage": {
+  "gartner": {
+   "status": "COMPLETE",
+   "product_rows": 352,
+   "declared_total": 352,
+   "note": "All six Gartner categories enumerate fully ('Products 1-N of N'). Parsed counts reconcile exactly with declared totals, so absence from this list is ABSENT-ENUMERATED."
+  },
+  "g2": {
+   "status": "VISIBLE PAGE ONLY — NOT COMPLETE",
+   "distinct_products": 65,
+   "declared_total": 1810,
+   "pct_of_declared": 3.6,
+   "blocks_rendered": 102,
+   "note": "A G2 category page renders its products TWICE - a main listing carrying 'By <vendor>' lines, then a second summary rendering without vendors. Counting rendered blocks overstates visibility. After collapsing to distinct products, this file holds 65 of 1,810 declared listings (3.6%), roughly 16 per category. Absence of a company from the G2 portion is ABSENT-IN-VISIBLE-PAGE and is NOT evidence of absence from the category."
+  }
+ },
+ "merge_rules": [
+  "A vendor string 'Owner Product' collapses onto 'Owner' when the remainder is itself a product name in this data (e.g. 'Intuit Mailchimp' -> 'Intuit', because 'Mailchimp' is a Gartner product).",
+  "Gartner writes lineage as 'Owner (OtherBrand)'. Owner becomes the company. The parenthetical is kept verbatim in parenthetical_brands; likely_acquired_brands excludes those that are merely abbreviations of the owner name (AWS, HPE, ITG), which is tested rather than assumed.",
+  "A vendor string of the form 'Owner Product' collapses onto 'Owner' only when 'Owner' already exists as a vendor in the data AND the longer string is also a product name. Nothing else is merged.",
+  "No fuzzy matching. Two companies with similar names stay separate unless a rule above applies.",
+  "G2 repeats each product in a second, vendor-less rendering. Blocks are collapsed to distinct products, always preferring the block that names the vendor - otherwise a product would be split from its parent company."
+ ],
+ "known_limits": [
+  "Ratings and review counts measure review-solicitation effort as much as customer volume (Gartner FAQ: vendors solicit reviews; nominal gifts permitted).",
+  "Gartner review counts never decay - reviews do not expire.",
+  "G2 'sponsored' rows are paid placement and are flagged.",
+  "No funding, revenue or investor data exists in either source. UNKNOWN, never inferred.",
+  "Both sources are SELF-DECLARED. No row here is corroborated by a revealed-behaviour source.",
+  "Gartner does not publish reviews in Russian, Turkish or Georgian; G2 removes listings under OFAC sanctions."
+ ],
+ "counts": {
+  "product_rows": 417,
+  "unique_companies": 237,
+  "companies_in_both_sources": 27,
+  "companies_with_legacy_product": 7,
+  "companies_with_description": 230
+ }
+}
