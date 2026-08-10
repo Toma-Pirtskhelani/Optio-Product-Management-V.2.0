@@ -1,0 +1,184 @@
+===== homepage :: https://www.gosquared.com:443/
+--- SIGNALS ---
+title: The original real-time website analytics – GoSquared
+meta_description: 
+og_description: 
+og_site_name: 
+h1: Website analytics that actually make sense. | Something doesn't look right…
+h2: Real numbers. Beautiful dashboards. No PhD required.Goodbye GA4. Say hello to the alternative that's more accurate, private, and intuitive.Start for FreeEasy setup. Free for 7 days. Cancel any time. Live Demo | Trusted by thousands of businesses. | How it works | Web analytics without | Web analytics without the confusion. | Web analytics without the privacy trade-off. | Web analytics without the waiting. | 100+ reasons to switch. | Thousands of happy customers. | See your numbers in minutes.
+jsonld_org: []
+--- TEXT ---
+The original real-time website analytics – GoSquared
+ 
+ 
+ 
+You are using an 
+outdated
+ browser. Please 
+upgrade your browser
+ or 
+activate Google Chrome Frame
+ to improve your experience.
+ 
+GoSquared
+Features
+Pricing
+About
+Blog
+Support
+Sign In
+Start Free
+My Account
+Sign In
+My Account
+ 
+🎂 20 years
+ Celebrating 20 years of building beautiful software. 
+→
+Website analytics that actually make sense.
+Real numbers. Beautiful dashboards. No PhD required.
+Goodbye GA4. Say hello to the alternative that's more accurate, private, and intuitive.
+Start for Free
+Easy setup. Free for 7 days. Cancel any time.
+ 
+Live Demo
+Trusted by thousands of businesses.
+Teams who got tired of guessing, and switched to numbers they can trust.
+ 
+How it works
+Ten minutes. No jargon. Our CEO walks you through the product.
+Web analytics
+ without
+Web analytics
+ without
+ the confusion.
+The numbers you need, the moment you need them. No configuration hell. No "where did that report go?"—just dashboards that look good and tell you the truth.
+Beautiful by design
+We care what it looks like. Clean, original interfaces that your whole team will actually want to use.
+Works out of the box
+Drop in the snippet. Your dashboards light up. No wizards, no goals to configure. Just accurate data from day one.
+Real support, real people
+Stuck? Message us. We're a UK company with a real team. We've helped thousands get the most from their analytics.
+ 
+ 
+Web analytics
+ without
+ the privacy trade-off.
+O
+t
+h
+e
+r
+ Analytics Tools
+Some tools vacuum up your visitors' data and use it for more than your insights. You're not the customer — you're the product.
+GoSquared
+We're independent. We don't sell ads. Your data stays yours — anonymised by default, used only to give you accurate numbers.
+ 
+ 
+ 
+ 
+We've been doing this since 2006. We're UK-based, profitable, and independent. We make money selling our software, not from selling data.
+We don’t sell ads
+You pay for analytics. We give you accurate numbers. No data reselling, no ad networks, no surprises.
+Fully GDPR compliant
+We're based in the UK and take privacy seriously. 
+Third-party certified
+ — so you don't have to take our word for it.
+Transparent about what we collect
+No fine print. We're clear about 
+exactly what GoSquared collects
+ — and what we do with it.
+As soon as I found GoSquared, and saw it was a 3 second job to set up, it was a no brainer.
+— 
+Ben Powell, founder of Bettercast
+Start Free
+Easy setup. Free for 7 days. Cancel any time.
+Web analytics
+ without
+ the waiting.
+O
+t
+h
+e
+r
+ Analytics Tools
+Hourly updates. Run a report and wait. Sound familiar?
+GoSquared
+Built for real-time from day one. Your numbers update as they happen — no refresh, no delay, no guessing.
+ 
+Stale data leads to bad decisions. GoSquared is built for real-time, so the numbers you see are the numbers that are happening.
+Real-time, not "soon"
+Every metric updates as it happens. No batch jobs. No "data may be delayed." Just accurate, live numbers.
+Install in minutes
+Plugins for every major platform. Clear docs. You don't need a dev team or a week. Just add the snippet and go.
+Daily email reports
+Wake up to your key metrics in your inbox. Top traffic, best content, key referrers. It's the one email you'll actually open.
+100+ reasons to switch.
+Everything you need
+ to understand your site. Accurate, easy-to-use, and built to look good. No bloat. No learning curve.
+See All Analytics Features →
+Your site won't slow down
+The lightest snippet in the industry. GoSquared loads fast so your visitors get a fast site and you get accurate numbers.
+Add unlimited team mates
+We don't charge by the seat. Grow your team, stay in the loop. Everyone is invited to the party.
+There's a powerful API
+Everything in your dashboard is available in real-time via our 
+fully documented REST API
+. Build what you need.
+Integrations with the tools you use
+Wordpress
+, 
+Webflow
+, 
+Squarespace
+, 
+Slack
+, 
+Segment
+, 
+Zapier
+, and more. Easy to plug in, easy to use.
+In business since 2006
+We've been around since before the iPhone. Passionate, independent, and UK-based. We're not going anywhere.
+Award-winning customer service
+Real support from real people. We're a UK-based company — when you need help, we're here.
+Thousands of happy customers.
+Teams who switched to the analytics tool that makes sense. Accurate, independent, and actually enjoyable to use.
+See your numbers in minutes.
+Accurate, real-time analytics. Beautiful dashboards. No PhD required.
+Start Free
+Easy setup. Free for 7 days. Cancel any time.
+The original real-time website analytics.
+Proudly made 
+in London
+ remotely.
+© 2006–2026 Go Squared Ltd.
+Features
+Features Overview
+Accuracy
+Latest Updates
+Integrations
+Labs
+Resources
+Support
+API Docs
+Analytics Glossary
+Free Resources
+LDNSaaS Events
+Podcast
+System Status
+Other Products
+EcoSend
+Company
+About Us
+Blog
+Careers
+Legal
+Contact Us
+ 
+Something doesn't look right…
+Your browser is blocking parts of the GoSquared website from loading.
+Try disabling any extensions that may be causing this issue, such as your content or ad blocker.
+Still experiencing issues? Get in touch with us via email: 
+support@gosquared.com
+.

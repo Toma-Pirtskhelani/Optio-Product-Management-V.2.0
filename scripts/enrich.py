@@ -10,8 +10,8 @@ def get(url, timeout=20, http1=False):
     cmd = ["curl","-sS","-L","--max-time",str(timeout),"-A",UA]
     if http1: cmd.append("--http1.1")
     r = subprocess.run(cmd+["-w","\n__H__%{http_code}__U__%{url_effective}","-o","-",url],
-                       capture_output=True, text=True)
-    b = r.stdout or ""
+                       capture_output=True)          # bytes: pages are not always valid UTF-8
+    b = (r.stdout or b"").decode("utf-8", errors="replace")
     m = re.search(r"\n__H__(\d+)__U__(.*)$", b, re.S)
     code, final = (int(m.group(1)), m.group(2).strip()) if m else (0, url)
     if m: b = b[:m.start()]
@@ -309,12 +309,21 @@ def run_one(rec):
 if __name__ == "__main__":
     lo, hi = int(sys.argv[1]), int(sys.argv[2])
     recs=[json.loads(l) for l in open("outputs/companies.jsonl")]
+    def persist():
+        with open("outputs/companies.jsonl","w") as f:
+            for x in recs: f.write(json.dumps(x,ensure_ascii=False)+"\n")
     for i,r in enumerate(recs):
         if not (lo <= i < hi): continue
-        e = run_one(r)
         base = {k:v for k,v in r["enrichment"].items() if k=="status"}
+        try:
+            e = run_one(r)
+            note = "UNREACHABLE" if e["unreachable"] else "ok"
+        except Exception as ex:
+            e = dict(enrichment_status="unreachable", unreachable=True, fetches_used=0,
+                     http_requests=0, resolve_attempts=[], fetch_log=[], raw_capture=None,
+                     retrieved_date=D,
+                     unreachable_reason=f"Harness error while fetching: {type(ex).__name__}: {ex}"[:300])
+            note = "ERROR"
         r["enrichment"] = {**base, **e}
-        print(f"  [{i:3d}] {r['company'][:28]:30s} {'UNREACHABLE' if e['unreachable'] else 'ok'} "
-              f"f={e['fetches_used']} http={e['http_requests']}")
-    with open("outputs/companies.jsonl","w") as f:
-        for r in recs: f.write(json.dumps(r,ensure_ascii=False)+"\n")
+        persist()          # write after every company so a crash costs one record, not a batch
+        print(f"  [{i:3d}] {r['company'][:28]:30s} {note} f={e['fetches_used']} http={e['http_requests']}")

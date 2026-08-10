@@ -1,0 +1,5320 @@
+===== llms.txt :: https://www.yotpo.com:443/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Yotpo
+> Yotpo is an eCommerce retention and AI-visibility platform that helps brands get found, earn trust, and turn one-time shoppers into repeat customers and advocates. Its core connected products - Reviews & UGC and Loyalty & Referrals - run on shared first-party shopper data, and its AI suite (CommerceGPT / Answer Engine Optimization) helps brands stay visible inside AI Overviews, ChatGPT, Perplexity, Gemini and agentic-commerce shopping experiences. Yotpo integrates deeply with Shopify, Shopify Plus, BigCommerce, Adobe Commerce (Magento), Salesforce Commerce Cloud, WooCommerce and 150+ marketing, CX and commerce tools.
+This file follows the llms.txt convention (see https://llmstxt.org). It is a curated, human-maintained map of the most useful, evergreen URLs on https://www.yotpo.com, intended to help LLMs and AI search/answer engines understand Yotpo's products, evidence, and educational content. Every URL below was verified live. Deep inventories (1,190+ glossary entries, 4,080+ blog posts, 165+ integrations, 100+ case studies) are linked at their hub pages rather than enumerated in full.
+## Key facts
+- Company: Yotpo Ltd., an eCommerce retention marketing platform.
+- Core products: Reviews & UGC (including visual UGC) and Loyalty & Referrals, plus AI Visibility (CommerceGPT / Answer Engine Optimization).
+- Core commerce platforms: Shopify & Shopify Plus, BigCommerce, Adobe Commerce / Magento, Salesforce Commerce Cloud, WooCommerce.
+- Positioning: a connected retention stack built on shared first-party shopper data, focused on reviews, loyalty and AI visibility.
+- AI crawler policy: GPTBot, OAI-SearchBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Google-Extended, GoogleOther and Applebot are all explicitly allowed in robots.txt.
+## Start here
+- [Yotpo homepage](https://www.yotpo.com/): Platform overview - Loyalty, Reviews & AI visibility for eCommerce.
+- [Pricing](https://www.yotpo.com/pricing/): Plans and packaging across products.
+- [Request a demo](https://www.yotpo.com/request-a-demo/): Talk to sales / book a product walkthrough.
+- [Contact us](https://www.yotpo.com/contact-us/): Sales, support and general contact.
+- [About Yotpo](https://www.yotpo.com/about/): Company mission, story and leadership.
+- [FAQs](https://www.yotpo.com/faqs/): Common questions about Yotpo's products and platform.
+- [Log in](https://www.yotpo.com/login/): Customer sign-in to the Yotpo app.
+## Products
+- [Reviews & UGC](https://www.yotpo.com/ratings-and-reviews/): Collect and display product reviews, ratings, photos and Q&A; syndication and rich results.
+- [Visual UGC](https://www.yotpo.com/platform/visual-ugc/): Curate customer photos/videos and shoppable galleries across site and social.
+- [Customer Video Reviews](https://www.yotpo.com/customer-video-reviews/): Collect and display video reviews.
+- [Loyalty & Referrals](https://www.yotpo.com/platform/loyalty/): Points, rewards, VIP tiers and referral programs to drive repeat purchases.
+- [Insights](https://www.yotpo.com/platform/insights/): Cross-product analytics, dashboards and shopper data insights.
+- [Yotpo for Enterprise](https://www.yotpo.com/enterprise/): Enterprise-grade loyalty, reviews and retention.
+- [Enterprise Loyalty](https://www.yotpo.com/yotpo-enterprise-loyalty/): Loyalty built for large/omnichannel brands.
+### Product spotlight pages
+- [Shopify Product Reviews App](https://www.yotpo.com/shopify-product-reviews-app/): Reviews app built for Shopify merchants.
+- [Product Review App](https://www.yotpo.com/product-review-app/): Reviews solution overview.
+- [Loyalty Program Software](https://www.yotpo.com/loyalty-program-software/): Loyalty platform overview.
+- [Shopify Loyalty App](https://www.yotpo.com/shopify-loyalty-app/): Loyalty & rewards for Shopify.
+## AI visibility, GEO & agentic commerce
+- [Yotpo AI](https://www.yotpo.com/ai/): Yotpo's AI suite for eCommerce retention and visibility.
+- [CommerceGPT](https://www.yotpo.com/commerce-gpt/): Yotpo's AI brand-visibility / answer-engine optimization hub.
+- [AI Shopping Is Here](https://www.yotpo.com/ai-shopping-is-here/): How AI assistants are changing product discovery.
+- [Maximize UGC with AI](https://www.yotpo.com/maximize-ugc-ai/): Using AI to scale user-generated content.
+- [AI Agents Are Shopping for Your Customers](https://www.yotpo.com/commerce-gpt/ai-agents-start-shopping-for-your-customers/): Agentic-commerce primer.
+- [Agentic Commerce & AI Shopping](https://www.yotpo.com/commerce-gpt/agentic-commerce-ai-shopping/): How agentic shopping works and what brands should do.
+- [AI & LLMs for eCommerce](https://www.yotpo.com/commerce-gpt/ai-llms-for-ecommerce/): Practical LLM use cases for online brands.
+- [SEO for AI Overviews Strategy](https://www.yotpo.com/commerce-gpt/seo-for-ai-overviews-strategy/): Optimizing to appear in Google AI Overviews.
+- [Google AI Mode Shopping Guide](https://www.yotpo.com/commerce-gpt/google-ai-mode-shopping-guide/): Shopping inside Google's AI Mode.
+- [ChatGPT Brand Visibility](https://www.yotpo.com/commerce-gpt/chatgpt-brand-visibility/): Getting your brand surfaced/cited in ChatGPT.
+- [ChatGPT vs Google AI](https://www.yotpo.com/commerce-gpt/chatgpt-vs-google-ai/): Comparing AI answer engines for commerce.
+- [Brand LLM Benchmark](https://www.yotpo.com/commerce-gpt/brand-llm-benchmark/): Benchmarking brand mentions across LLMs.
+- [AI Conversational Commerce Guide](https://www.yotpo.com/commerce-gpt/ai-conversational-commerce-guide/): Conversational/AI shopping playbook.
+- [AI Product Discovery Guide](https://www.yotpo.com/commerce-gpt/ai-product-discovery-guide/): Getting products discovered by AI.
+- [GEO for Beauty Brands Guide](https://www.yotpo.com/commerce-gpt/geo-for-beauty-brands-guide/): Generative-engine optimization for beauty.
+## Free tools & calculators
+- [All free tools](https://www.yotpo.com/tools/): Index of Yotpo's free eCommerce calculators and utilities.
+- [ROAS Calculator](https://www.yotpo.com/tools/roas-calculator/): Return on ad spend.
+- [Conversion Rate Calculator](https://www.yotpo.com/tools/conversion-rate-calculator/): Site/store conversion rate.
+- [Average Order Value (AOV) Calculator](https://www.yotpo.com/tools/average-order-value-aov-calculator/): AOV.
+- [Customer Lifetime Value (CLV) Calculator](https://www.yotpo.com/tools/customer-lifetime-value-clv-calculator/): CLV/LTV.
+- [Customer Acquisition Cost (CAC) Calculator](https://www.yotpo.com/tools/customer-acquisition-cost-cac-calculator/): CAC.
+- [Churn Rate Calculator](https://www.yotpo.com/tools/churn-rate-calculator/): Customer churn.
+- [Net Promoter Score (NPS) Calculator](https://www.yotpo.com/tools/net-promoter-score-nps-calculator/): NPS.
+- [Profit Margin Calculator](https://www.yotpo.com/tools/profit-margin-calculator/): Margins.
+- [Marginal Revenue Calculator](https://www.yotpo.com/tools/marginal-revenue-calculator/): Marginal revenue.
+- [Break-Even Point Calculator](https://www.yotpo.com/tools/break-even-point-calculator/): Break-even.
+- [Annual Recurring Revenue (ARR) Calculator](https://www.yotpo.com/tools/annual-recurring-revenue-arr-calculator/): ARR.
+- [Monthly Recurring Revenue (MRR) Calculator](https://www.yotpo.com/tools/monthly-recurring-revenue-mrr-calculator/): MRR.
+- [Daily Sales Revenue Calculator](https://www.yotpo.com/tools/daily-sales-revenue-calculator/): Daily revenue.
+- [Sales Forecast Calculator](https://www.yotpo.com/tools/sales-forecast-calculator/): Sales forecasting.
+- [Sales Tax Calculator](https://www.yotpo.com/tools/sales-tax-calculator/): Sales tax.
+- [Percentage Discount Calculator](https://www.yotpo.com/tools/percentage-discount-calculator/): Discounts.
+- [Commission Calculator](https://www.yotpo.com/tools/commission-calculator/): Commission.
+- [Affiliate Commission Calculator](https://www.yotpo.com/tools/affiliate-commission-calculator/): Affiliate payouts.
+- [CPM Calculator](https://www.yotpo.com/tools/cpm-calculator/): Cost per mille.
+- [PPC Budget Calculator](https://www.yotpo.com/tools/ppc-budget-calculator/): Paid-search budgeting.
+- [Amazon FBA Calculator](https://www.yotpo.com/tools/amazon-fba-calculator/): Amazon FBA fees.
+- [eBay Fee Calculator](https://www.yotpo.com/tools/ebay-fee-calculator/): eBay fees.
+- [Etsy Fee Calculator](https://www.yotpo.com/tools/etsy-fee-calculator/): Etsy fees.
+- [Shopify Fee Calculator](https://www.yotpo.com/tools/shopify-fee-calculator/): Shopify fees.
+- [Stripe Fee Calculator](https://www.yotpo.com/tools/stripe-fee-calculator/): Stripe fees.
+- [PayPal Fee Calculator](https://www.yotpo.com/tools/paypal-fee-calculator/): PayPal fees.
+- [Barcode Generator](https://www.yotpo.com/tools/barcode-generator/): Generate barcodes.
+- [Invoice Generator](https://www.yotpo.com/tools/invoice-generator/): Create invoices.
+- [UTM Builder](https://www.yotpo.com/tools/utm-builder/): Build UTM-tagged URLs.
+- [Review Calculator](https://www.yotpo.com/tools/review-calculator/): Reviews/ratings math.
+- [Loyalty ROI Calculator](https://www.yotpo.com/loyalty-roi-calculator/): Estimate loyalty program ROI.
+- [Loyalty Program Generator](https://www.yotpo.com/loyalty-program-generator/): Generate a starter loyalty program.
+## Integrations
+- [Integrations directory](https://www.yotpo.com/integrations/): Browse all Yotpo integrations (165+ apps).
+- [Integration partners](https://www.yotpo.com/integration-partners/): Yotpo's technology partner ecosystem.
+### eCommerce platforms
+- [Shopify](https://www.yotpo.com/integrations/shopify/): Core Shopify integration.
+- [Shopify Plus](https://www.yotpo.com/integrations/shopify-plus/): Shopify Plus integration.
+- [Shopify POS](https://www.yotpo.com/integrations/shopify-point-of-sale/): In-store point of sale.
+- [Shopify Flow](https://www.yotpo.com/integrations/shopify-flow/): Workflow automation.
+- [BigCommerce](https://www.yotpo.com/integrations/bigcommerce/): BigCommerce integration.
+- [Adobe Commerce / Magento](https://www.yotpo.com/integrations/adobe-commerce-magento/): Magento / Adobe Commerce.
+- [Salesforce Commerce Cloud](https://www.yotpo.com/integrations/salesforce-commerce-cloud/): SFCC integration.
+- [WooCommerce](https://www.yotpo.com/integrations/woocommerce/): WooCommerce integration.
+- [Volusion](https://www.yotpo.com/integrations/volusion/): Volusion integration.
+- [TikTok Shop](https://www.yotpo.com/integrations/tiktok-shop/): TikTok Shop integration.
+### Marketing, email/SMS & CDP partners
+- [Klaviyo](https://www.yotpo.com/integrations/klaviyo/): Email/SMS data sync.
+- [Attentive](https://www.yotpo.com/integrations/attentive/): SMS marketing.
+- [Mailchimp](https://www.yotpo.com/integrations/mailchimp/): Email marketing.
+- [Omnisend](https://www.yotpo.com/integrations/omnisend/): Email/SMS automation.
+- [Braze](https://www.yotpo.com/integrations/braze/): Customer engagement.
+- [Salesforce Marketing Cloud](https://www.yotpo.com/integrations/salesforce-marketing-cloud/): SFMC.
+- [Dotdigital](https://www.yotpo.com/integrations/dotdigital/): Email/CRM.
+- [Drip](https://www.yotpo.com/integrations/drip/): eCommerce CRM.
+- [Listrak](https://www.yotpo.com/integrations/listrak/): Cross-channel marketing.
+- [Emarsys](https://www.yotpo.com/integrations/emarsys/): Customer engagement.
+- [Insider](https://www.yotpo.com/integrations/insider/): Personalization.
+- [HubSpot](https://www.yotpo.com/integrations/hubspot/): CRM/marketing.
+### CX, helpdesk, subscriptions & more
+- [Gorgias](https://www.yotpo.com/integrations/gorgias/): Helpdesk for eCommerce.
+- [Zendesk](https://www.yotpo.com/integrations/zendesk/): Customer support.
+- [Gladly](https://www.yotpo.com/integrations/gladly/): Customer service platform.
+- [Recharge](https://www.yotpo.com/integrations/recharge/): Subscriptions.
+- [Loop Subscriptions](https://www.yotpo.com/integrations/loop-subscriptions/): Subscriptions.
+- [Tapcart](https://www.yotpo.com/integrations/tapcart/): Mobile app builder.
+- [Rebuy](https://www.yotpo.com/integrations/rebuy/): Personalization & upsell.
+- [Nosto](https://www.yotpo.com/integrations/nosto/): Personalization.
+- [Klevu](https://www.yotpo.com/integrations/klevu/): Search & discovery.
+- [Searchspring](https://www.yotpo.com/integrations/searchspring/): Site search/merchandising.
+- [Triple Whale](https://www.yotpo.com/integrations/triple-whale/): Analytics.
+- [Google](https://www.yotpo.com/integrations/google/): Google Shopping/Seller Ratings.
+- [Meta / Facebook](https://www.yotpo.com/integrations/facebook/): Facebook integration.
+- [Instagram](https://www.yotpo.com/integrations/instagram/): Instagram/social UGC.
+## Use cases & solutions
+- [Use cases hub](https://www.yotpo.com/use-cases/): 80+ tactical playbooks across Reviews and Loyalty.
+- [Collect higher-quality reviews](https://www.yotpo.com/use-cases/collect-higher-quality-reviews/): Improve review quality and depth.
+- [Collect and display Q&A](https://www.yotpo.com/use-cases/collect-and-display-qa/): On-site questions and answers.
+- [Create a dedicated SEO page (reviews)](https://www.yotpo.com/use-cases/create-a-dedicated-seo-page/): Reviews-powered SEO pages.
+- [Acquire organic traffic from Google](https://www.yotpo.com/use-cases/acquire-organic-traffic-from-google/): Reviews SEO for Google.
+- [Display reviews & photos in Google Shopping ads](https://www.yotpo.com/use-cases/display-reviews-and-photos-in-google-shopping-ads/): Rich shopping ads.
+- [Qualify faster for Google Seller Ratings](https://www.yotpo.com/use-cases/qualify-faster-for-google-seller-ratings/): Earn seller ratings.
+- [Syndicate reviews across multiple domains](https://www.yotpo.com/use-cases/syndicate-reviews-across-multiple-domains/): Retail/brand syndication.
+- [Create exclusive Loyalty VIP tiers](https://www.yotpo.com/use-cases/create-exclusive-loyalty-vip-tiers/): VIP tiering.
+- [Reward loyalty points for reviews](https://www.yotpo.com/use-cases/reward-loyalty-points-for-reviews/): Connect Loyalty + Reviews.
+- [Reward customers for repeat purchases](https://www.yotpo.com/use-cases/reward-c
+
+===== homepage :: https://www.yotpo.com:443/
+--- SIGNALS ---
+title: Yotpo: Loyalty, Reviews & AI Visibility For Ecommerce
+meta_description: Drive eCommerce growth with Yotpo. Build loyalty programs, collect reviews, and boost AI visibility to get found, earn trust, and turn shoppers into advocates.
+og_description: Drive eCommerce growth with Yotpo. Build loyalty programs, collect reviews, and boost AI visibility to get found, earn trust, and turn shoppers into advocates.
+og_site_name: Yotpo
+h1: Your marketing solutions should work for you. Drive more revenue with best-in-class solutions for Loyalty, Reviews, and AI visibility. --> Your marketing solutions should work for you. Drive more revenue with best-in-class solutions for Loyalty, Reviews, and AI visibility. Your marketing solutions should work for you. Drive more revenue with best-in-class solutions for Loyalty, Reviews, and AI visibility. --> Get discovered, convert more shoppers, and keep them coming back – with best-in-class solutions for AI visibility, Reviews, and Loyalty. Trusted by 35K+ commerce brands. --> Your marketing solutions should work for you. Drive more revenue with best-in-class solutions for Loyalty, Reviews, and AI visibility. -->
+h2: The building blocks to create customers for life | AI Visibility | Reviews & UGC | Loyalty & Referrals | 180+ integrationsto unify your martech | Read the latest from Yotpo
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Yotpo", "url": "https://www.yotpo.com", "logo": "https://www.yotpo.com/wp-content/themes/yotpo/images/general/yotpo-logo-v3-schema.svg", "sameAs": ["https://www.facebook.com/yotpo", "https://www.twitter.com/Yotpo", "https://www.instagram.com/yotpo/", "https://www.linkedin.com/company/yotpo/"]}, {"@type": "Organization", "@id": "https://www.yotpo.com/#organization", "name": "Yotpo", "url": "https://www.yotpo.com", "sameAs": ["https://www.facebook.com/yotpo/", "https://twitter.com/Yotpo"], "logo": {"@type": "ImageObject", "@id": "https://www.yotpo.com/#logo", "url": "https://www.yotpo.com/wp-content/uploads/2021/06/Logo-3.svg", "contentUrl": "https://www.yotpo.com/wp-content/uploads/2021/06/Logo-3.svg", "caption": "Yotpo", "inLanguage": "en-US", "width": "159", "height": "30"}}]
+--- TEXT ---
+Yotpo: Loyalty, Reviews & AI Visibility For Ecommerce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reviews & UGC
+ 
+ 
+ 
+ Collect and display customer content across the buyer journey 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loyalty & Referrals
+ 
+ 
+ 
+ Create custom-tailored loyalty and referral programs 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discover
+ 
+ Early Access 
+ 
+ 
+ 
+ Control how AI ranks and recommends your products 
+ 
+ 
+ 
+ 
+ 
+ Product Highlight 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Yotpo Spotlight 
+ 
+ 
+ Put loyalty in the spotlight throughout the shopper journey 
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore More 
+ 
+ 
+ 
+ 
+ Integrations
+ 
+ 
+ 
+ 
+ Product releases
+ 
+ 
+ 
+ 
+ Yotpo AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Releases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Check the latest innovations in Yotpo Products 
+ 
+ 
+ 
+ See what's new
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Customers 
+ 
+ 
+ 
+ 
+ Case Studies
+ 
+ 
+ Learn how the best brands in eCommerce have found success with Yotpo 
+ 
+ 
+ 
+ Customer Success
+ 
+ 
+ Meet the team that ensures you get the most out of Yotpo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing 
+ 
+ Enterprise 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn 
+ 
+ 
+ 
+ 
+ Resources Hub
+ 
+ 
+ Learn how to drive retention rates through the roof 
+ 
+ 
+ 
+ Ebooks & Guides
+ 
+ 
+ Deep dive into all the essential topics about growth and retention 
+ 
+ 
+ 
+ Yotpo Blog
+ 
+ 
+ Get the latest news and insights from the team at Yotpo 
+ 
+ 
+ 
+ Yotpo Integrations 
+ 
+ 
+ Explore all integrations in one place 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Highlights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Check your AI search performance 
+ 
+ 
+ 
+ Get your score
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 80+ trends shaping AI-led shopping in 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Collect authentic reviews shoppers trust and AI cites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The world doesn’t need another boring points program 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn how reviews and AI are shaping shopper decisions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connect 
+ 
+ 
+ 
+ 
+ Contact Us
+ 
+ 
+ 
+ 
+ Help Center
+ 
+ 
+ 
+ 
+ Become a Partner
+ 
+ 
+ 
+ 
+ Careers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Log in 
+ 
+ 
+ 
+ 
+ Get a demo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Products 
+ 
+ 
+ 
+ 
+ 
+ Reviews & UGC
+ 
+ 
+ 
+ 
+ 
+ Loyalty & Referrals
+ 
+ 
+ 
+ 
+ 
+ Discover
+ 
+ Early Access 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore More 
+ 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ Product releases 
+ 
+ 
+ 
+ Yotpo AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case Studies 
+ 
+ 
+ 
+ Customer Success 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing 
+ 
+ Enterprise 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn 
+ 
+ 
+ 
+ 
+ Resources Hub 
+ 
+ 
+ 
+ Ebooks & Guides 
+ 
+ 
+ 
+ Yotpo Blog 
+ 
+ 
+ 
+ Yotpo Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ Highlights 
+ 
+ 
+ 
+ 
+ The Shoppers Have Prompted 
+ 
+ 
+ 
+ Collect Reviews LLMs Cite 
+ 
+ 
+ 
+ The New Rules of Loyalty 
+ 
+ 
+ 
+ To buy or not to buy 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connect 
+ 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ Help Center 
+ 
+ 
+ 
+ Become a Partner 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Don't Miss Out On Revenue Growth 
+ 
+Don't Miss Out On Revenue Growth
+ -->
+ 
+Don't Miss Out On Revenue Growth
+ -->
+ 
+Don't Miss Out On Revenue Growth
+ -->
+ 
+ 
+ 
+ 
+ 
+with
+ 
+ 
+ -->
+ 
+ 
+Your marketing solutions should work for you. Drive more revenue with best-in-class solutions for Loyalty, Reviews, and AI visibility.
+ -->
+ Your marketing solutions should work for you. Drive more revenue with best-in-class solutions for Loyalty, Reviews, and AI visibility. 
+ 
+Your marketing solutions should work for you. Drive more revenue with best-in-class solutions for Loyalty, Reviews, and AI visibility.
+ -->
+ 
+Get discovered, convert more shoppers, and keep them coming back – with best-in-class solutions for AI visibility, Reviews, and Loyalty.
+
+Trusted by 35K+ commerce brands.
+ -->
+ 
+Your marketing solutions should work for you. Drive more revenue with best-in-class solutions for Loyalty, Reviews, and AI visibility.
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your browser does not support the video tag.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The building blocks to create customers for life 
+ 
+ 
+ Our reviews, SMS and email, loyalty and referrals, and subscriptions products spark engagement and increase retention — all in one place. 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ Early Access 
+ 
+ AI Visibility 
+ 
+ 
+ Track and control how AI engines recommend your products with Yotpo Discover. 
+ 
+ 
+ 
+ Explore more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reviews & UGC 
+ 
+ 
+ Enhance your site with AI-driven displays of quality reviews and customizable galleries. 
+ 
+ 
+ 
+ Explore more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loyalty & Referrals 
+ 
+ 
+ Motivate customers with rewards and turn them into brand advocates. 
+ 
+ 
+ 
+ Explore more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Don’t just take our word for it. 
+Meet our brands.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38% 
+ 
+ 
+ Increase in sales from repeat customers 
+ 
+ 
+ 
+ “Loyalty metrics have become a key part of shaping all our strategies. Any time we plan new marketing efforts, for example, we always ask: how does this fit with loyalty?” 
+ 
+ 
+ 
+ 
+ 
+Jared Grawrock,
+ 
+ Head Lifecycle & Retention Marketing 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +25k 
+ 
+ 
+ 5-star reviews and an above average order-to-review conversion rate 
+ 
+ 
+ 
+ "Brooklinen wouldn't be what it is without our customers, and we need to know how they feel about us so we can create better, more positive experiences." 
+ 
+ 
+ 
+ 
+ 
+Jack Lorentzen,
+ 
+ Senior Associate at Brooklinen 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 65% 
+ 
+ 
+ Increase in AOV per user 
+ 
+ 
+ 
+ “Loyalty offers a new way to engage our customers. Instead of discounts, we communicate that they’ve already earned $20 off—highlighting rewards and creating a new way to connect with our customer base". 
+ 
+ 
+ 
+ 
+ 
+Leanne Chan,
+ 
+ Sr. Director, CRM & Loyalty 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +8X 
+ 
+ 
+ ROI from loyalty and 44% increase in AOV from loyalty members 
+ 
+ 
+ 
+ "The performance of RevRewards was better than what we modeled. Look at the LTV for the best customers; members are shopping nearly four times a year." 
+ 
+ 
+ 
+ 
+ 
+Sally Minto,
+ 
+ Digital Director at Revolution Beauty 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 112% 
+ 
+ 
+ Increase in AOV 
+ 
+ 
+ 
+ “Customer reviews are invaluable. As a brand, we know so much more about our products and what the customers want.” 
+ 
+ 
+ 
+ 
+ 
+Kim Zorn,
+ 
+ Global Performance Director 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +56% 
+ 
+ 
+ Of all sales are from engaged shoppers who have interacted with reviews 
+ 
+ 
+ 
+ "Yotpo has been vital in understanding, do people like this product? Are they engaging with this product in the way that we want them to?" 
+ 
+ 
+ 
+ 
+ 
+Tom Montgomery,
+ 
+ Co-founder & CMO at Chubbies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Marketing that actually moves the needle 
+ 
+ 
+ 
+ YOUR GOALS BROUGHT TO LIFE 
+ 
+ 
+ 
+ 
+ 
+ Turn clicks to customers 
+ 
+ 
+ 
+ 
+ Win AI Visibility 
+ 
+ 
+ 
+ 
+ Create shoppers for life 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Boost Purchases with Strategic Reviews 
+ 
+ 
+ Drive conversion by surfacing insights that matter most to buyers, right when they need them. 
+ 
+ 
+ 
+ Get a demo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your browser does not support the video tag.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capture More Content 
+ 
+ 
+ Gather higher quality reviews to help shoppers make purchase decisions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Leverage AI 
+ 
+ 
+ Surface common themes with AI summaries to help shoppers decide. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Speak to everyone 
+ 
+ 
+ Remove shopper friction with reviews in every language. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Early access 
+ 
+ 
+ Get recommended by AI engines 
+ 
+ 
+ Control how your products rank in AI results and take action to improve your visibility. 
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your browser does not support the video tag.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Track AI Rankings 
+ 
+ 
+ See how your products appear across ChatGPT, Gemini, and other AI engines. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Optimize on-site and off-site signals 
+ 
+ 
+ Agents identify gaps and improve how AI understands your brand across sites and sources. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Build authority across the ecosystem 
+ 
+ 
+ Activate reviews, communities, and publisher content that AI engines rely on. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Turn customers into lifelong advocates 
+ 
+ 
+ Create lifelong brand fans that advocate for your brand and drive growth. 
+ 
+ 
+ 
+ Get a demo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your browser does not support the video tag.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Retain shoppers 
+ 
+ 
+ Offer rewards to retain loyal reviewers and grow review volume. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connect at key times 
+ 
+ 
+ Drive urgency, celebrate milestones, and notify members across SMS & Email tools. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Drive referrals 
+ 
+ 
+ Let 5-star reviewers and brand fans drive new customer acquisition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 180+ integrations
+to unify your martech 
+ 
+ 
+ Yotpo plays well with all your favorites. With built-in integrations and flexible APIs, it’s easy to connect your tools, sync your data, and scale your stack for growth. 
+ 
+ 
+ 
+ Learn how
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read the latest from Yotpo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shoppers Have Prompted 
+ 
+ 
+ What shoppers want. Who AI picks. 80+ insights across 8 industries. 
+ 
+ 
+ 
+ Explore the report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loyalty in Motion 
+ 
+ 
+ Turn loyalty data into real, measurable revenue with the connected loy 
+ 
+ 
+ 
+ Explore now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ To Buy or Not to Buy? 
+ 
+ 
+ A data-driven look at how reviews and AI are shaping shopper decisions 
+ 
+ 
+ 
+ Read the report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Don't Miss Out On Revenue Growth 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ Reviews & UGC
+ 
+ 
+ 
+ 
+ Loyalty & Referrals
+ 
+ 
+ 
+ 
+ Discover
+ 
+ Early Access 
+ 
+ 
+ 
+ 
+ Pricing
+ 
+ 
+ 
+ 
+ Product Releases Hub
+ 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ 
+ 
+ 
+ About Yotpo
+ 
+ 
+ 
+ 
+ Contact us
+ 
+ 
+ 
+ 
+ Careers
+ 
+ 
+ 
+ 
+ Request a Demo
+ 
+ 
+ 
+ 
+ Customer Success
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ Blog
+ 
+ 
+ 
+ 
+ Integrations
+ 
+ 
+ 
+ 
+ Insights
+ 
+ NEW 
+ 
+ 
+ 
+ 
+ eCommerce Glossary
+ 
+ 
+ 
+ 
+ Loyalty Program Software
+ 
+ 
+ 
+ 
+ Shopify Reviews App
+ 
+ 
+ 
+ 
+ Shopify Loyalty App
+ 
+ 
+ 
+ 
+ Loyalty Solutions 
+ 
+ 
+ 
+ 
+ commerceGPT newsletter 
+ 
+ New 
+ 
+ 
+ 
+ 
+ All Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+ Tools 
+ 
+ 
+ 
+ 
+ Profit Margin Calculator
+ 
+ 
+ 
+ 
+ Barcode Generator
+ 
+ 
+ 
+ 
+ Invoice Generator
+ 
+ 
+ 
+ 
+ Review Calculator
+ 
+ NEW 
+ 
+ 
+ 
+ 
+ All Tools 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Partnerships 
+ 
+ 
+ 
+ 
+ Become a Partner
+ 
+ 
+ 
+ 
+ Agency Partner Program
+ 
+ 
+ 
+ 
+ Build an Integration
+ 
+ 
+ 
+ 
+ Commission Board 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compare 
+ 
+ 
+ 
+ 
+ Yotpo vs Loyalty Lion
+ 
+ 
+ 
+ 
+ Yotpo vs Okendo
+ 
+ 
+ 
+ 
+ Yotpo vs PowerReviews
+ 
+ 
+ 
+ 
+ Yotpo vs BazaarVoice
+ 
+ 
+ 
+ 
+ Yotpo vs Reviews.io
+ 
+ 
+ 
+ 
+ Yotpo vs Rivo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Support 
+ 
+ 
+ 
+ 
+ Contact Support
+ 
+ 
+ 
+ 
+ Help Center
+ 
+ 
+ 
+ 
+ Connect with an Agency
+ 
+ 
+ 
+ 
+ Accessibility Statement
+ 
+ 
+ 
+ 
+ API Documentation
+ 
+ 
+ 
+ 
+ API Changelog
+ 
+ 
+ 
+ 
+ Yotpo Status
+ 
+ 
+ 
+ 
+ FAQs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Don't Miss Out On Revenue Growth
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inside CommerceGPT 
+ 
+ The newsletter for eComm leaders navigating the shift to AI. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terms of Service
+ 
+Privacy Policy
+ 
+Security
+ 
+Website Terms of Use
+ 
+Cookie Settings
+ 
+Accessibility
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 min demo
+ 
+ 
+Don't postpone your growth
+ 
+Let’s schedule a quick demo to get your growth strategy rolling.
+ 
+ 
+ 
+ 
+ 
+Your information will be treated in accordance with our 
+Privacy Policy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This will take just a moment…
+We're finding the right person on our team to help your brand!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Yotpo is a fundamental part of our recommended tech stack.”
+ 
+ 
+Laura Doonin,
+ Commercial Director
+ 
+ 
+ 
+ 
+ 
+YOTPO POWERS THE WORLD'S FASTEST-GROWING BRANDS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 min demo
+ 
+ 
+Don't postpone your growth
+ 
+ 
+Join a free demo, personalized to fit your needs
+ 
+Get the best pricing plan to maximize your growth
+ 
+See how Yotpo's multi-solutions can boost sales
+ 
+Watch our platform in action & the impact it makes
+ 
+ 
+ 
+ 
+ 
+30K+
+ 
+Growing brands trust Yotpo
+
+===== product :: https://www.yotpo.com:443/product-releases/
+--- SIGNALS ---
+title: Product Releases Hub | Yotpo
+meta_description: Deep dive into new product features & updates built to take your retention strategy to the next level.
+og_description: Deep dive into new product features & updates built to take your retention strategy to the next level.
+og_site_name: Yotpo
+h1: 
+h2: What's New at Yotpo | Featured Updates | Explore more of what's new | All updates | Don't Miss Out On Revenue Growth
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Yotpo", "url": "https://www.yotpo.com", "logo": "https://www.yotpo.com/wp-content/themes/yotpo/images/general/yotpo-logo-v3-schema.svg", "sameAs": ["https://www.facebook.com/yotpo", "https://www.twitter.com/Yotpo", "https://www.instagram.com/yotpo/", "https://www.linkedin.com/company/yotpo/"]}, {"@type": "Organization", "@id": "https://www.yotpo.com/#organization", "name": "Yotpo", "url": "https://www.yotpo.com", "sameAs": ["https://www.facebook.com/yotpo/", "https://twitter.com/Yotpo"], "logo": {"@type": "ImageObject", "@id": "https://www.yotpo.com/#logo", "url": "https://www.yotpo.com/wp-content/uploads/2021/06/Logo-3.svg", "contentUrl": "https://www.yotpo.com/wp-content/uploads/2021/06/Logo-3.svg", "caption": "Yotpo", "inLanguage": "en-US", "width": "159", "height": "30"}}]
+--- TEXT ---
+Product Releases Hub | Yotpo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reviews & UGC
+ 
+ 
+ 
+ Collect and display customer content across the buyer journey 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loyalty & Referrals
+ 
+ 
+ 
+ Create custom-tailored loyalty and referral programs 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discover
+ 
+ Early Access 
+ 
+ 
+ 
+ Control how AI ranks and recommends your products 
+ 
+ 
+ 
+ 
+ 
+ Product Highlight 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Yotpo Spotlight 
+ 
+ 
+ Put loyalty in the spotlight throughout the shopper journey 
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore More 
+ 
+ 
+ 
+ 
+ Integrations
+ 
+ 
+ 
+ 
+ Product releases
+ 
+ 
+ 
+ 
+ Yotpo AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Releases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Check the latest innovations in Yotpo Products 
+ 
+ 
+ 
+ See what's new
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Customers 
+ 
+ 
+ 
+ 
+ Case Studies
+ 
+ 
+ Learn how the best brands in eCommerce have found success with Yotpo 
+ 
+ 
+ 
+ Customer Success
+ 
+ 
+ Meet the team that ensures you get the most out of Yotpo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing 
+ 
+ Enterprise 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn 
+ 
+ 
+ 
+ 
+ Resources Hub
+ 
+ 
+ Learn how to drive retention rates through the roof 
+ 
+ 
+ 
+ Ebooks & Guides
+ 
+ 
+ Deep dive into all the essential topics about growth and retention 
+ 
+ 
+ 
+ Yotpo Blog
+ 
+ 
+ Get the latest news and insights from the team at Yotpo 
+ 
+ 
+ 
+ Yotpo Integrations 
+ 
+ 
+ Explore all integrations in one place 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Highlights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Check your AI search performance 
+ 
+ 
+ 
+ Get your score
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 80+ trends shaping AI-led shopping in 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Collect authentic reviews shoppers trust and AI cites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The world doesn’t need another boring points program 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn how reviews and AI are shaping shopper decisions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connect 
+ 
+ 
+ 
+ 
+ Contact Us
+ 
+ 
+ 
+ 
+ Help Center
+ 
+ 
+ 
+ 
+ Become a Partner
+ 
+ 
+ 
+ 
+ Careers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Log in 
+ 
+ 
+ 
+ 
+ Get a demo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Products 
+ 
+ 
+ 
+ 
+ 
+ Reviews & UGC
+ 
+ 
+ 
+ 
+ 
+ Loyalty & Referrals
+ 
+ 
+ 
+ 
+ 
+ Discover
+ 
+ Early Access 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore More 
+ 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ Product releases 
+ 
+ 
+ 
+ Yotpo AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case Studies 
+ 
+ 
+ 
+ Customer Success 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing 
+ 
+ Enterprise 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn 
+ 
+ 
+ 
+ 
+ Resources Hub 
+ 
+ 
+ 
+ Ebooks & Guides 
+ 
+ 
+ 
+ Yotpo Blog 
+ 
+ 
+ 
+ Yotpo Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ Highlights 
+ 
+ 
+ 
+ 
+ The Shoppers Have Prompted 
+ 
+ 
+ 
+ Collect Reviews LLMs Cite 
+ 
+ 
+ 
+ The New Rules of Loyalty 
+ 
+ 
+ 
+ To buy or not to buy 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connect 
+ 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ Help Center 
+ 
+ 
+ 
+ Become a Partner 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's New at Yotpo 
+ 
+ 
+ From smarter reviews to more rewarding loyalty programs, explore the latest features helping brands grow. 
+ 
+ 
+ 
+ Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore product updates 
+ 
+ 
+ 
+Filter By
+ 
+ INTEGRATIONS 
+ 
+ LOYALTY & REFERRALS 
+ 
+ REVIEWS & UGC 
+ 
+ Yotpo Discover 
+ 
+ 
+ 
+ 
+ 
+ 
+Featured Updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yotpo Discover
+ 
+ 
+ 
+Discover MCP Integration
+ 
+Connect Claude to Yotpo Discover and work with your brand’s AI visibility data in one place. Pull insights, generate content, check citation performance, and run recurring workflows without switching tools.
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+Product Matching Tool
+ 
+Help more reviews reach the right retailer pages with smarter product matching across your catalog and retailer catalogs, including AI-suggested matches and manual tools for products that need review.
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yotpo Discover
+ 
+ 
+ 
+Discover Onsite Agent
+ 
+See which pages need attention for AI visibility. The Onsite Agent scans key pages, surfaces strengths and gaps, and helps teams prioritize what to update first.
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Manage Reviews Workspace 
+ 
+Built for speed and clarity, the new advanced moderation workspace saves your team hours on daily review management without missing what matters.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Reviews for Bundled Products
+ 
+Use the reviews you already collected on bundled products. Show shoppers relevant feedback from the individual items inside each bundle, without starting from zero.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Yotpo Spotlight
+ 
+Drive high-value actions with a mobile-first loyalty hub featuring smart CTAs. Boost engagement by showing status, points, and rewards (including free products) to logged-in or logged-out shoppers, guiding them through your website journey.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Postscript SMS Integration
+ 
+Connect Yotpo Loyalty with Postscript to power personalized SMS campaigns using real-time loyalty data. Trigger messages based on points balance, VIP tier, and rewards to drive engagement, repeat purchases, and loyalty program participation.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+ 
+ 
+ 
+Klaviyo Customer Hub
+ 
+Embed loyalty directly inside Klaviyo Customer Hub. Let customers view points, redeem rewards, and refer friends - all from a personalized on-site drawer experience. No redirects. No friction. Just seamless loyalty engagement.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Loyalty Tiers
+ 
+Create automatic loyalty journeys with advanced tiers. Use Shopify tags and API rules to reward specific behaviors like events or hidden VIPs, giving you flexibility and control.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Reviews Atlas
+ 
+Optimize your PDP reviews for conversion. Get insights into quality, authenticity, and recency, plus guidance on refining your strategy to secure sales-driving reviews.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Reviews Translation
+ 
+Localize your entire reviews experience, including AI summaries and filters, with pre- and on-demand translations powered by AWS and optimized by region for maximum impact.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Novel Partnership
+ 
+Mobile-first experience with frictionless in-store redemption, personalized push notifications, and incentives for pass downloads. Exclusive Novel discount available.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Attentive x Reviews
+ 
+Leverage authentic customer voices in your marketing. Pull reviews and UGC into campaigns, recommend products based on ratings, and display social proof at the moment of decision to drive higher conversions.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Tapcart Integration
+ 
+Reward every action in your app to drive downloads and boost push opt-ins. Give your best customers mobile-only perks. Make earning, tracking, and redeeming rewards effortless.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Attentive x Loyalty
+ 
+Connect Yotpo Loyalty with Attentive SMS & Email to sync member data, trigger targeted campaigns, and personalize messages—driving deeper engagement and loyalty.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Siena AI
+ 
+Auto-moderate reviews, respond in your brand's voice, and capture key insights to build trust, personalize touchpoints, and get time back to focus on growing your brand.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Smart Views
+ 
+Automatically route review insights to the right teams - so product, marketing, and support get the feedback that matters most to them, and your entire business can act faster.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Post Checkout Referral
+ 
+Capture post-purchase momentum with easy referrals on Thank You page. Shoppers share ready-to-share links via preferred method, no login or dev work. Boost referrals effortlessly!
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Shopify Metafields
+ 
+Sync loyalty data across Shopify, ESPs, and CRMs for deeper personalization. Automate exclusive discounts and use Flows to auto-tag milestones, powering dynamic storefronts.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Loyalty Account Extension 
+ 
+Shopify Customer Accounts users can now access our Loyalty Account Extension. Customers can view points, tier status, join the program, or redeem rewards directly from their account page—motivating sign-ups and driving purchases with key info.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+AI Reviews Summary
+ 
+Showcase a concise summary of key topics from your reviews, enabling shoppers to make quicker, more confident purchase decisions.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore more of what's new
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Postscript SMS Integration
+ 
+Connect Yotpo Loyalty with Postscript to power personalized SMS campaigns using real-time loyalty data. Trigger messages based on points balance, VIP tier, and rewards to drive engagement, repeat purchases, and loyalty program participation.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Manage Reviews Workspace 
+ 
+Built for speed and clarity, the new advanced moderation workspace saves your team hours on daily review management without missing what matters.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Revenue Performance Dashboard
+ 
+Make important business decisions based on metrics that directly impact your revenue, elevate your reporting by clearly identifying revenue being driven by your loyalty program, and simplify your workflow by easily comparing different windows of time. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Shopify POS Extension
+ 
+Support for Shopify's latest POS extension lets store clerks quickly view customer loyalty status and rewards, ensuring a seamless and personalized brand experience at every checkout.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+ 
+ 
+ 
+Klaviyo Customer Hub
+ 
+Embed loyalty directly inside Klaviyo Customer Hub. Let customers view points, redeem rewards, and refer friends - all from a personalized on-site drawer experience. No redirects. No friction. Just seamless loyalty engagement.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Reviews for Bundled Products
+ 
+Use the reviews you already collected on bundled products. Show shoppers relevant feedback from the individual items inside each bundle, without starting from zero.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Smart Views
+ 
+Automatically route review insights to the right teams - so product, marketing, and support get the feedback that matters most to them, and your entire business can act faster.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Shopify Metafields
+ 
+Sync loyalty data across Shopify, ESPs, and CRMs for deeper personalization. Automate exclusive discounts and use Flows to auto-tag milestones, powering dynamic storefronts.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Post Checkout Referral
+ 
+Capture post-purchase momentum with easy referrals on Thank You page. Shoppers share ready-to-share links via preferred method, no login or dev work. Boost referrals effortlessly!
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Yotpo Spotlight
+ 
+Drive high-value actions with a mobile-first loyalty hub featuring smart CTAs. Boost engagement by showing status, points, and rewards (including free products) to logged-in or logged-out shoppers, guiding them through your website journey.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Loyalty Tiers
+ 
+Create automatic loyalty journeys with advanced tiers. Use Shopify tags and API rules to reward specific behaviors like events or hidden VIPs, giving you flexibility and control.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Reviews Atlas
+ 
+Optimize your PDP reviews for conversion. Get insights into quality, authenticity, and recency, plus guidance on refining your strategy to secure sales-driving reviews.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Attentive x Loyalty
+ 
+Connect Yotpo Loyalty with Attentive SMS & Email to sync member data, trigger targeted campaigns, and personalize messages—driving deeper engagement and loyalty.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+Attentive x Reviews
+ 
+Leverage authentic customer voices in your marketing. Pull reviews and UGC into campaigns, recommend products based on ratings, and display social proof at the moment of decision to drive higher conversions.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEWS & UGC
+ 
+ 
+ 
+ 
+AI Reviews Summary
+ 
+Showcase a concise summary of key topics from your reviews, enabling shoppers to make quicker, more confident purchase decisions.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+ 
+LOYALTY & REFERRALS
+ 
+ 
+ 
+ 
+Novel Partnership
+ 
+Mobile-first experience with frictionless in-store r
+
+===== pricing_or_trust :: https://www.yotpo.com:443/pricing/
+--- SIGNALS ---
+title: Pricing & Plans | Yotpo
+meta_description: Explore Yotpo's newest plans and pricing options, from free starter plans to custom offerings that grow with your business.
+og_description: Discover Yotpo's newest plans and pricing options, from free starter plans to custom offerings that grow with your business.
+og_site_name: Yotpo
+h1: 
+h2: Don't Miss Out On Revenue Growth
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Yotpo", "url": "https://www.yotpo.com", "logo": "https://www.yotpo.com/wp-content/themes/yotpo/images/general/yotpo-logo-v3-schema.svg", "sameAs": ["https://www.facebook.com/yotpo", "https://www.twitter.com/Yotpo", "https://www.instagram.com/yotpo/", "https://www.linkedin.com/company/yotpo/"]}, {"@type": "Organization", "@id": "https://www.yotpo.com/#organization", "name": "Yotpo", "url": "https://www.yotpo.com", "sameAs": ["https://www.facebook.com/yotpo/", "https://twitter.com/Yotpo"], "logo": {"@type": "ImageObject", "@id": "https://www.yotpo.com/#logo", "url": "https://www.yotpo.com/wp-content/uploads/2021/06/Logo-3.svg", "contentUrl": "https://www.yotpo.com/wp-content/uploads/2021/06/Logo-3.svg", "caption": "Yotpo", "inLanguage": "en-US", "width": "159", "height": "30"}}]
+--- TEXT ---
+Pricing & Plans | Yotpo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reviews & UGC
+ 
+ 
+ 
+ Collect and display customer content across the buyer journey 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loyalty & Referrals
+ 
+ 
+ 
+ Create custom-tailored loyalty and referral programs 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discover
+ 
+ Early Access 
+ 
+ 
+ 
+ Control how AI ranks and recommends your products 
+ 
+ 
+ 
+ 
+ 
+ Product Highlight 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Yotpo Spotlight 
+ 
+ 
+ Put loyalty in the spotlight throughout the shopper journey 
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore More 
+ 
+ 
+ 
+ 
+ Integrations
+ 
+ 
+ 
+ 
+ Product releases
+ 
+ 
+ 
+ 
+ Yotpo AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Releases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Check the latest innovations in Yotpo Products 
+ 
+ 
+ 
+ See what's new
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Customers 
+ 
+ 
+ 
+ 
+ Case Studies
+ 
+ 
+ Learn how the best brands in eCommerce have found success with Yotpo 
+ 
+ 
+ 
+ Customer Success
+ 
+ 
+ Meet the team that ensures you get the most out of Yotpo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing 
+ 
+ Enterprise 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn 
+ 
+ 
+ 
+ 
+ Resources Hub
+ 
+ 
+ Learn how to drive retention rates through the roof 
+ 
+ 
+ 
+ Ebooks & Guides
+ 
+ 
+ Deep dive into all the essential topics about growth and retention 
+ 
+ 
+ 
+ Yotpo Blog
+ 
+ 
+ Get the latest news and insights from the team at Yotpo 
+ 
+ 
+ 
+ Yotpo Integrations 
+ 
+ 
+ Explore all integrations in one place 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Highlights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Check your AI search performance 
+ 
+ 
+ 
+ Get your score
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 80+ trends shaping AI-led shopping in 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Collect authentic reviews shoppers trust and AI cites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The world doesn’t need another boring points program 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn how reviews and AI are shaping shopper decisions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connect 
+ 
+ 
+ 
+ 
+ Contact Us
+ 
+ 
+ 
+ 
+ Help Center
+ 
+ 
+ 
+ 
+ Become a Partner
+ 
+ 
+ 
+ 
+ Careers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Log in 
+ 
+ 
+ 
+ 
+ Get a demo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Products 
+ 
+ 
+ 
+ 
+ 
+ Reviews & UGC
+ 
+ 
+ 
+ 
+ 
+ Loyalty & Referrals
+ 
+ 
+ 
+ 
+ 
+ Discover
+ 
+ Early Access 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore More 
+ 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ Product releases 
+ 
+ 
+ 
+ Yotpo AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case Studies 
+ 
+ 
+ 
+ Customer Success 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing 
+ 
+ Enterprise 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn 
+ 
+ 
+ 
+ 
+ Resources Hub 
+ 
+ 
+ 
+ Ebooks & Guides 
+ 
+ 
+ 
+ Yotpo Blog 
+ 
+ 
+ 
+ Yotpo Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ Highlights 
+ 
+ 
+ 
+ 
+ The Shoppers Have Prompted 
+ 
+ 
+ 
+ Collect Reviews LLMs Cite 
+ 
+ 
+ 
+ The New Rules of Loyalty 
+ 
+ 
+ 
+ To buy or not to buy 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connect 
+ 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ Help Center 
+ 
+ 
+ 
+ Become a Partner 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Don't Miss Out 
+On Revenue Growth
+ 
+ 
+ Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ Reviews & UGC
+ 
+ 
+ 
+ 
+ Loyalty & Referrals
+ 
+ 
+ 
+ 
+ Discover
+ 
+ Early Access 
+ 
+ 
+ 
+ 
+ Pricing
+ 
+ 
+ 
+ 
+ Product Releases Hub
+ 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ 
+ 
+ 
+ About Yotpo
+ 
+ 
+ 
+ 
+ Contact us
+ 
+ 
+ 
+ 
+ Careers
+ 
+ 
+ 
+ 
+ Request a Demo
+ 
+ 
+ 
+ 
+ Customer Success
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ Blog
+ 
+ 
+ 
+ 
+ Integrations
+ 
+ 
+ 
+ 
+ Insights
+ 
+ NEW 
+ 
+ 
+ 
+ 
+ eCommerce Glossary
+ 
+ 
+ 
+ 
+ Loyalty Program Software
+ 
+ 
+ 
+ 
+ Shopify Reviews App
+ 
+ 
+ 
+ 
+ Shopify Loyalty App
+ 
+ 
+ 
+ 
+ Loyalty Solutions 
+ 
+ 
+ 
+ 
+ commerceGPT newsletter 
+ 
+ New 
+ 
+ 
+ 
+ 
+ All Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+ Tools 
+ 
+ 
+ 
+ 
+ Profit Margin Calculator
+ 
+ 
+ 
+ 
+ Barcode Generator
+ 
+ 
+ 
+ 
+ Invoice Generator
+ 
+ 
+ 
+ 
+ Review Calculator
+ 
+ NEW 
+ 
+ 
+ 
+ 
+ All Tools 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Partnerships 
+ 
+ 
+ 
+ 
+ Become a Partner
+ 
+ 
+ 
+ 
+ Agency Partner Program
+ 
+ 
+ 
+ 
+ Build an Integration
+ 
+ 
+ 
+ 
+ Commission Board 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compare 
+ 
+ 
+ 
+ 
+ Yotpo vs Loyalty Lion
+ 
+ 
+ 
+ 
+ Yotpo vs Okendo
+ 
+ 
+ 
+ 
+ Yotpo vs PowerReviews
+ 
+ 
+ 
+ 
+ Yotpo vs BazaarVoice
+ 
+ 
+ 
+ 
+ Yotpo vs Reviews.io
+ 
+ 
+ 
+ 
+ Yotpo vs Rivo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Support 
+ 
+ 
+ 
+ 
+ Contact Support
+ 
+ 
+ 
+ 
+ Help Center
+ 
+ 
+ 
+ 
+ Connect with an Agency
+ 
+ 
+ 
+ 
+ Accessibility Statement
+ 
+ 
+ 
+ 
+ API Documentation
+ 
+ 
+ 
+ 
+ API Changelog
+ 
+ 
+ 
+ 
+ Yotpo Status
+ 
+ 
+ 
+ 
+ FAQs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Don't Miss Out On Revenue Growth
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inside CommerceGPT 
+ 
+ The newsletter for eComm leaders navigating the shift to AI. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terms of Service
+ 
+Privacy Policy
+ 
+Security
+ 
+Website Terms of Use
+ 
+Cookie Settings
+ 
+Accessibility
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 min demo
+ 
+ 
+Don't postpone your growth
+ 
+Let’s schedule a quick demo to get your growth strategy rolling.
+ 
+ 
+ 
+ 
+ 
+Your information will be treated in accordance with our 
+Privacy Policy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This will take just a moment…
+We're finding the right person on our team to help your brand!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Yotpo is a fundamental part of our recommended tech stack.”
+ 
+ 
+Laura Doonin,
+ Commercial Director
+ 
+ 
+ 
+ 
+ 
+YOTPO POWERS THE WORLD'S FASTEST-GROWING BRANDS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 min demo
+ 
+ 
+Don't postpone your growth
+ 
+ 
+Join a free demo, personalized to fit your needs
+ 
+Get the best pricing plan to maximize your growth
+ 
+See how Yotpo's multi-solutions can boost sales
+ 
+Watch our platform in action & the impact it makes
+ 
+ 
+ 
+ 
+ 
+30K+
+ 
+Growing brands trust Yotpo

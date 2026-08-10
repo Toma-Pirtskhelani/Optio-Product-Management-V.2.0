@@ -1,0 +1,617 @@
+===== llms.txt :: https://www.sendoso.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Sendoso
+> Sendoso is the leading AI-enhanced gifting and direct mail platform for B2B revenue teams. It helps marketing, sales, customer success, and HR/People teams break through digital noise with personalized physical gifts, eGifts, branded swag, direct mail, and experiential campaigns — doubling win rates, 6x-ing second call rates, and closing deals 29% faster — integrated into CRM, marketing automation, and sales engagement workflows with global fulfillment to 165+ countries.
+Sendoso connects natively to Salesforce, HubSpot, Marketo, Outreach, SalesLoft, 6sense, Clay, and 90+ other go-to-market tools to trigger automated or manual sends based on pipeline signals, campaign enrollment, intent data, or lifecycle stage. The platform handles end-to-end fulfillment — procurement, warehousing, inventory management, packing, shipping, and returns — through its own company-operated fulfillment centers (not third-party logistics) with a 1.6-day average ship time. Sendoso acquired Alyce (AI-powered personalization, now integrated into SmartSuite) and Postal.io (logistics and swag stores) to consolidate as the largest strategic gifting platform. SOC 2 Type II certified, GDPR compliant, with SSO support.
+Key capabilities include SmartSuite AI (SmartSend for AI-powered gift recommendations, SmartMessage for personalized notecard generation, SmartDelivery for automated address sourcing and confirmation, and SmartCampaign for agentic campaign creation), a curated gift marketplace with 8,500+ physical gift options plus eGifts, experiences, Amazon catalog access, and Sendoso Choice (recipients pick from up to 30 options, swap, or donate to charity), Sendoso Postcards ($2/unit all-in, 3-5x higher response rates vs. email, in-platform design editor with SmartDelivery integration), The Campaign Studio (white-glove creative services), custom branded merchandise production, event kitting and logistics, ROI analytics tied to pipeline and revenue, and a REST API for custom integrations.
+Sendoso serves marketing, sales, customer success, and HR/People teams at B2B companies — the category creator with 9+ years of market leadership. Common use cases: account-based marketing (ABM) campaigns, sales prospecting and deal acceleration, demand generation, customer onboarding and retention, event promotion and follow-up, employee recognition, and recruiting outreach. One direct mail touchpoint lifts opportunity conversion rates 8%. Customers report 2x win rates, 6x second call rates, 29% faster deal cycles, and ~450% campaign ROI. Over 100,000 users across 800+ companies have sent 15M+ gifts through the platform.
+## Platform & Product
+- [Sendoso Platform Overview](https://sendoso.com/platform): Core platform capabilities — integrations, sending options, analytics, fulfillment infrastructure, and security
+- [SmartSuite Features](https://sendoso.com/platform/features/smartsuite): AI-powered toolkit — SmartSend (gift recommendations by recipient email or interest), SmartMessage (on-brand personalized notecard generation), SmartDelivery (automatic address sourcing), and SmartCampaign (agentic campaign creation, coming 2026)
+- [Address Confirmation](https://sendoso.com/platform/features/address-confirmation): SmartDelivery address confirmation tools — secure recipient address collection, validation, and lookup before sending
+- [Fulfillment Center](https://sendoso.com/platform/features/fulfillmentcenter): Warehouse and fulfillment services for branded merchandise, custom kitting, direct mail production, and global shipping
+- [The Campaign Studio](https://thecampaignstudio.com/): White-glove creative services — concept-to-completion campaign design, custom packaging, and branded gifting experiences
+- [Compare Plans](https://sendoso.com/compare-plans): Pricing tiers, feature comparison, and plan details across Sendoso subscription levels
+- [Product Tour](https://sendoso.com/product-tour): Interactive walkthrough of the Sendoso platform with customer success examples
+- [What's New](https://sendoso.com/whats-new): Product updates, new features, integrations, and platform release notes
+## Integrations Directory
+- [All Integrations](https://sendoso.com/directory): Searchable directory of 100+ integrations and agency partners across CRM, marketing automation, sales engagement, ABM, HR, and workflow platforms
+- [Salesforce Integration](https://sendoso.com/directory/salesforce): Native Salesforce integration — trigger sends from campaigns, log activities, track delivery status, and attribute pipeline
+- [HubSpot Integration](https://sendoso.com/directory/hubspot): HubSpot integration — workflow triggers, in-CRM sending, activity logging, ROI dashboards, Chrome extension, and Named Essential App for Marketers by HubSpot
+- [Clay Integration](https://sendoso.com/directory/clay): Native Clay Action (Feb 2026) — trigger hyper-personalized gifting directly from Clay tables, pull up to 10 AI gift recommendations per recipient via SmartSend, auto-send at scale from enriched data. Requires Clay Pro plan. "Clay + Sendoso turns enriched data into real-world moments."
+- [Marketo Integration](https://sendoso.com/directory/marketo): Marketo Engage integration — webhook triggers, smart campaigns, program membership, and lead scoring enrichment
+- [Outreach Integration](https://sendoso.com/directory/outreach): Outreach integration — embed sends in sequences, trigger follow-up on delivery, and track gifting activity
+- [SalesLoft Integration](https://sendoso.com/directory/salesloft): SalesLoft integration — add Sendoso touches to cadences and trigger sends within sales workflows
+- [6sense Integration](https://sendoso.com/directory/6sense): 6sense integration — trigger sends based on intent signals, buying stage, and account scoring via Salesforce orchestration
+- [Terminus Integration](https://sendoso.com/directory/terminus): Terminus ABM integration — coordinate gifting with account-based advertising and engagement programs
+- [Enboarder Integration](https://sendoso.com/directory/enboarder): Enboarder HR integration — automate employee milestone gifts, onboarding kits, and anniversary recognition
+## Developer Resources
+- [Sendoso REST API](https://developer.sendoso.com/rest-api/overview/introduction): REST API documentation — authentication, endpoints, sending, gift management, and webhook configuration for custom integrations
+- [Support Center — Integrations](https://support.sendoso.com/hc/en-us/categories/360000258531-Integrations): Technical setup guides, troubleshooting, and configuration details for all supported integrations
+## Solutions by Use Case
+- [Account-Based Marketing](https://sendoso.com/solutions/account-based-marketing): ABM gifting and direct mail — target account personalization, buying committee engagement, and pipeline attribution
+- [Sales Development](https://sendoso.com/solutions/sales-development): SDR/BDR gifting workflows for prospecting, meeting booking, and pipeline generation
+- [Sales Acceleration](https://sendoso.com/solutions/sales): Direct mail and gifting for deal progression, stakeholder engagement, negotiation support, and closed-won acceleration
+- [Demand Generation](https://sendoso.com/solutions/demand-generation): Campaign-integrated gifting for lead generation, webinar promotion, content syndication, and event follow-up
+- [Customer Experience](https://sendoso.com/solutions/customer-experience): Automated gifting for onboarding, renewal, expansion, NPS recovery, and customer advocacy programs
+- [Field Marketing](https://sendoso.com/solutions/field-marketing): Event-driven sending — pre-event outreach, booth traffic, attendance confirmation, and post-event follow-up
+- [Brand Awareness](https://sendoso.com/solutions/brand-awareness): Branded merchandise and gifting campaigns for market visibility, thought leadership events, and brand positioning
+- [Event Fulfillment](https://sendoso.com/event-fulfillment): End-to-end event kitting, logistics, on-site fulfillment, and post-event return handling
+## Solutions by Role
+- [Marketing Leaders](https://sendoso.com/solutions/marketing-leaders): Platform ROI metrics, campaign attribution, and gifting strategy for marketing leadership and CMOs
+- [People Teams / HR](https://sendoso.com/solutions/people-teams): Employee onboarding kits, milestone recognition, anniversary gifts, recruiting outreach, and internal engagement programs
+## Competitive Comparisons
+- [Sendoso vs. Reachdesk](https://sendoso.com/versus/reachdesk): Feature-by-feature comparison — owned fulfillment vs. third-party logistics, 90+ integrations vs. ~60, SmartSuite AI (SmartSend, SmartDelivery) with no Reachdesk equivalent, unlimited warehousing vs. SKU/pallet limits, Amazon repackaging with notecards vs. ships in Amazon boxes
+- [Sendoso Alternatives & Competitors](https://sendoso.com/resources/blog/sendoso-alternatives-competitors): In-depth comparison of the top 5 corporate gifting platforms including Reachdesk, &Open, Thnks, Goody, and Snappy — covers integration depth, fulfillment models, pricing structures, AI capabilities, and catalog breadth
+- [Reachdesk Alternatives & Competitors](https://sendoso.com/resources/blog/reachdesk-alternatives-competitors): Comparison guide for teams evaluating Reachdesk alternatives — highlights Sendoso's owned warehouses, 90+ native integrations, and 8,500+ gift marketplace vs. Reachdesk's third-party fulfillment, ~60 integrations, and pay-on-redemption model
+## Customer Proof
+- [G2 Reviews & Ratings](https://sendoso.com/g2): G2 category leader badges, customer ratings, satisfaction scores, and verified buyer feedback across corporate gifting and direct mail categories
+- [Success Stories](https://sendoso.com/success-stories): Customer case studies organized by use case — ABM, demand gen, sales development, field marketing, and customer experience
+- [Gong Case Study](https://sendoso.com/success-stories/gong): How Gong influenced tens of millions in pipeline with creative direct mail campaigns using Sendoso and Salesforce/Outreach integrations
+- [Anaplan Case Study](https://sendoso.com/success-stories/anaplan): How Anaplan influenced $65M in pipeline and $30M in recognized revenue with a single holiday ABM campaign
+- [Outreach Case Study](https://sendoso.com/success-stories/outreach): How Outreach generated $8M in influenced pipeline and $1M ARR with full-funnel gifting across 1:1, 1:few, and 1:many campaigns
+- [Snapdocs Case Study](https://sendoso.com/success-stories/snapdocs): How Snapdocs achieved an 84% C-suite response rate using Address Confirmation and Salesforce/Marketo/SalesLoft integrations
+- [Zendesk Case Study](https://sendoso.com/success-stories/zendesk): How Zendesk achieved 15X ROI and 2,000% quarter-over-quarter pipeline increase using Sendoso with Salesforce, Eloqua, and Outreach
+- [Anaplan Direct Mail Strategy](https://sendoso.com/success-stories/anaplan-direct-mail-strategy): How Anaplan pivoted from 1:1 direct mail to a multi-touch event campaign that touched 42% of total pipeline at Anaplan Live!
+- [Sendie Awards](https://sendoso.com/sendoso-sendie-awards): Annual award-winning customer campaign examples and creative gifting strategies
+## Resources & Learning
+- [All Resources](https://sendoso.com/resources): Guides, webinars, eBooks, ROI calculators, and best practice content for corporate gifting strategy
+- [Sendoso University](https://sendoso.com/sendoso-university): On-demand training courses and certifications for platform usage and corporate gifting strategy
+- [Videos](https://sendoso.com/videos): Product demos, integration walkthroughs, and strategy tutorials
+- [Webinars & Events](https://sendoso.com/events): On-demand and upcoming webinars on gifting, ABM, demand gen, and sales strategy
+- [Helpful Content Hub](https://sendoso.com/helpful-content): Guides, templates, calculators, and playbooks for corporate gifting and direct mail programs
+- [Sustainability](https://sendoso.com/sustainability): Eco-friendly gifting options, sustainable packaging, and charitable giving programs
+## Company
+- [About Sendoso](https://sendoso.com/about-us): Leadership team, company history, mission, and culture
+- [Careers](https://sendoso.com/sendoso-careers): Open positions, company culture, benefits, and hiring process
+- [Partners](https://sendoso.com/partners): Technology partner program, agency partner program, and integrations ecosystem
+- [Contact & Support](https://sendoso.com/contact): Sales inquiries, customer support, and partnership contact information
+- [Support Center](https://support.sendoso.com): Help center with setup guides, troubleshooting, and product documentation (also accessible at sendoso.zendesk.com)
+## Optional
+- [Demo Request](https://sendoso.com/demo-request): Form to request a personalized demo of the Sendoso platform
+- [Homepage](https://sendoso.com): Main marketing homepage with value proposition, customer testimonials, and navigation
+- [All Solutions Overview](https://sendoso.com/solutions): Summary landing page for all gifting solutions across departments
+
+===== homepage :: https://www.sendoso.com/
+--- SIGNALS ---
+title: Sendoso | Gifting & Direct Mail Platform
+meta_description: Automate personalized gifting campaigns to drive revenue. Sendoso's AI-Enhanced Gifting and Direct Mail Automation Platform is data-backed by 100k+ users and 10's of millions of gifts sent.
+og_description: 
+og_site_name: 
+h1: with personalized gifting
+h2: Trusted with over 15million sends from brands around the world. | Features | How does Sendoso work? | High quality custom items that drive conversions | AI-Powered Gifting | See what Sendoso does for thousands of customers | Personalized gifting solutions for every team | See how to close deals 29% faster with personalized corporate gifting
+jsonld_org: [{"@type": "Organization", "name": "Sendoso", "logo": {"@type": "ImageObject", "url": "https://cdn.prod.website-files.com/651ad5ceeba626e1de2f2ce8/651c92a16a856b0f0d5656ca_SendosoLogo_RGB.svg"}, "contactPoint": [{"@type": "ContactPoint", "telephone": "+1-888-717-3287", "contactType": "customer service", "areaServed": "US"}, {"@type": "ContactPoint", "telephone": "+1-844-331-2714", "contactType": "customer service", "areaServed": "CA"}, {"@type": "ContactPoint", "telephone": "+44-808-169-9437", "contactType": "customer service", "areaServed": "GB"}, {"@type": "ContactPoint", "telephone": "+61-1800-931-581", "contactType": "customer service", "areaServed": "AU"}]}]
+--- TEXT ---
+Sendoso | Gifting & Direct Mail Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+Overview
+See what makes Sendoso the Leading Sending Management Platform.
+AI Powered Gifting
+AI-powered tools that recommend what and where to send gifts in just a few clicks.
+The Campaign Studio
+From concept to completion, our white-glove service does the heavy lifting so your brand always makes a statement.
+Merch by Sendoso
+From idea to production to inventory, access self-service custom and on-demand swag sourcing at any scale.
+Sendoso Fulfillment Center
+The only fulfillment center dedicated to gifting and direct mail.
+Compare Plans
+See which features and capabilities fit your organization.
+Solutions
+Overview
+See what makes Sendoso the Leading Sending Management Platform.
+Marketing
+Amplify the impact of your campaigns through personalized gifting.
+Use Cases: 
+Account-Based Marketing
+ • 
+Demand Generation
+ • 
+Field Marketing
+ • 
+Event Fulfillment 
+• 
+Brand
+Sales
+Accelerate pipeline, lead generation, and close deals with every send.
+Use Cases: 
+Sales Development
+Customer Experience
+Reward loyalty and increase retention with a sending strategy.
+People Teams
+Celebrate milestones, recognize achievements, and personalize onboarding.
+Customers
+Success Stories
+See strategies that delivered impact in sales, ABM, marketing, and more.
+Reviews
+Recognized by the industry as the corporate gifting category leader.
+Resources
+Helpful Content
+Integrations
+Upcoming Events
+What's New
+Help Center
+Sendoso University
+Company
+About Sendoso
+Careers
+Become a Partner
+Sustainability
+Contact Us
+Sign In
+Book a Demo
+ 
+ 
+4.5
+(1,170 reviews)
+with personalized gifting
+Get gifting, events, and direct mail made easy with AI-powered intelligence. Build real human connections that integrate with your CRM and drive measurable revenue growth.
+Book a Demo
+Take a Tour
+Trusted with over 15million sends from brands around the world.
+Case Study
+ 
+Case Study
+ 
+Case Study
+ 
+Case Study
+ 
+Case Study
+ 
+Case Study
+ 
+Case Study
+ 
+Case Study
+ 
+Features
+ 
+Gifting
+Stand out from the crowd, build meaningful relationships, close more deals, and retain more customers.
+Send personalized gifts and direct mail to prospects, customers, and teammates at scale. Select the best option from eGifts, customized swag, virtual experiences, direct mail, handwritten notes, and more.
+ 
+Campaigns
+Automate gifting campaigns for every stage of the customer journey using your preferred combination of signals and intent data.
+ 
+Global fulfillment
+Ship to 165+ countries. We handle every step of fulfillment, including procurement, storage, inventory management, packing, shipping, and returns.
+Plus, get real-time inventory tracking, low-stock alerts, and easy restocking.
+ 
+Secure address confirmation
+Initiate a send and Sendoso will deliver a secure address confirmation link to the recipient, upload a known address, or let Sendoso find the right address for you with SmartDelivery. Never let an address be a blocker again.
+ 
+SmartSuite
+Take the guesswork out of what to gift, where to ship, and what to say with Sendoso's SmartSuite tools.
+Get AI-powered gift recommendations based on the recipient's interest or pre-built campaigns based on your desired outcome. Better personalized sends with less work.
+ 
+Integrations and analytics
+Integrate with your full marketing, revenue, or HRIS tech stack to get instant intent signals to trigger campaigns, launch sends directly from your day-to-day tools, and track ROI in realtime.
+How does Sendoso work?
+Auto-send personalized gifts to key prospects and customers. eGifts, brandedmerch, virtual experiences, direct mail, handwritten notes, and more.
+Select gifts
+Over 1,000 options including custom branded merch, experiences, and giftcards. Personalized gifting recommendations for maximum results.
+Send with in-house fulfillment
+Sendoso confirms recipient’s address for higher deliverability.Custom branded packaging and a handwritten note increase impact.
+More opportunities
+Boost client & employee engagement.Close more deals & increase retention. Track campaign effectiveness, ROI, etc.
+High quality custom items that drive conversions
+Get gifting, events, and direct mail made easy with AI-powered intelligence. Build real human connections that integrate with your CRM and drive measurable revenue growth.
+AI-Powered Gifting
+Gifting doesn’t need to be expensive, but it should be high-quality, thoughtfully personalized, and strategic. From gift selection, through delivery, and back to strategy. With intelligent SmartSuite tools, you can find truly personal gifts that resonate, send the right message and deliver it to the right address in minutes. And if you have questions about how your program is doing or want to find strategic insights to improve? Just ask Oso.
+Learn More
+Your AI Agent who brings you instant analytics, taking you from “we think it’s working” to “we know what works”.
+AI-powered gift recommendations based on first-party data, public signals, and past engagement—so teams can send something truly relevant without hours of digging.
+Never let finding an address be a blocker again. Let Sendoso find the best address to ship to for you. Just click, confirm and ship.
+Thoughtfully generated messaged every send feels 1:1, without needing to write every note from scratch.
+ 
+ 
+Sales, Marketing, HR, and beyond trust Sendoso with over 8M sends.
+See what Sendoso does for thousands of customers
+We're trying to reach executives at Fortune 500 companies. It's not that easy. 
+The big benefit to Sendoso is the high personalization and high value of the touch that we can do.
+Brevan Peavey
+ABM Senior Specialist, Anaplan
+Case Study
+ 
+One of the biggest wins with Sendoso was the ability to track who was getting our sends and being able to pull that data into Salesforce.
+Braiden Ludtka
+Campaign Marketing Manager, Extrahop
+Case Study
+ 
+The average B2B buyer is inundated with digital ads and outbound prospecting emails every day. In order to capture the attention of buyers and create raving fans from the beginning, you have to get creative.
+Russell Banzon
+VP of Marketing, Gong
+Case Study
+ 
+My goal was to capitalize on as many use cases as possible while integrating with our primary sources of truth, Salesforce and Marketo. Because of this, Sendoso is especially helpful for measuring the success of our pipeline generation efforts.
+Megan Flanagan
+Senior Director of Field & Channel Marketing, Artic Wolf
+Case Study
+ 
+Sendoso has helped elevate our ABM program by offering personalized, thoughtful, and timely demand-generation campaigns for brand awareness, pipeline development, and deal velocity. We're empowered to be creative while trusting the Sendoso team to execute those plans.
+Colleen Jackson
+Director of ABM , Extrahop
+Case Study
+ 
+Sendoso helps Cornerstone accelerate deals
+ and set meetings with the prospects we normally have a difficult time getting in touch with. 
+The unique sends help us break through the noise
+ and come in with a message that resonates.
+Sara Schonfeld
+Senior Marketing Strategist, Cornerstone
+Case Study
+ 
+Scaling internationally is super important for fast-growing businesses. Europe represents a substantial growth opportunity for Sendoso at this point in the company’s journey.
+Joe Morrissey
+Chief Revenue Officer, Segment
+When we send something in the mail before an event we see like little to no drop-off. 
+Hardly anyone doesn't show up to one of our field events.
+Emily Wilkes
+Director of Field Marketing, Gainsight
+Case Study
+ 
+We have been utilizing Sendoso for some time now, and we recently started using Event Fulfillment. It made life easier going to the Gartner Sales Leader Conference, Gartner Marketing Symposium, and Forrester B2B Summit. Everything was shipped out to the event space, everything was stored by Sendoso, and everything that we have left over is going back to Sendoso. I’m flying to another event in three days, and I don’t have to worry about any of my items; it’s all taken care of.
+Kimberly Davis
+Head of Field Marketing and Corporate Engagement, Highspot
+Sendoso has been a great addition to our sales stack. When we rolled out the first test user group for the Sendoso platform, in about a week, I had all the other reps asking when they would get access to the tool.”
+ Trish LaPaglia
+Director of field marketing, Pendo
+I love how easy Sendoso’s UI is and how simple it is for my marketing team to set up my account. Sendoso have a lot of creative gifts that have helped me stand out when prospecting. I love working with my ABM team to target an account and then they can create the campaign quickly in Sendoso.
+Anthony Banayote
+Inside Sales Representative, Gong
+Case Study
+ 
+30%
+lead-to-opportunity conversion rate
+$4K
+in influenced pipeline for every dollar spent
+$7M
+in influenced pipeline
+“Sendoso helps Cornerstone accelerate deals and set meetings with the prospects we have a difficult time getting in touch with. The unique sends help us break through the noise.
+”
+Deb Convery
+Head of Global Mobility & Immigration
+345%
+increased response rate
+37%
+increase in response times
+71%
+of closed sales include Sendoso engagement
+“Groundbreaking for our industry. Our customers are very responsive to Sendoso gifting because they’re not used to being engaged in this way.”
+Matthew Nicholson
+Director of Sales and Marketing at MachiningCloud
+40%
+increased win rate
+“People don’t respond to outbound emails unless there’s something in it for them. Sendoso lets us send tailored gifts our B2B customers are excited about.”
+Melanie Tsoi
+Strategy and Operations Manager at MasterClass
+100%
+increase in demo requests
+“Lets us make the easiest campaigns we’ve ever run. Just press play and get custom, automated gifting week to week.”
+Gianna Barrere
+Content Marketing Manager at PerformLine
+ 
+ 
+ 
+ 
+Personalized gifting solutions for every team
+Easy gifting, at scale
+Learn how the leading gifting and direct mail platform can help you double win rates, 6x second call rates, and close deals 29% faster.
+Marketing
+Amplify your brand and stand out in the market with marketing solutions that build trust—and work as hard as you do. Generate leads, grow pipeline, prove return on investments (ROI), and fuel revenue growth with a personalized gifting campaign that enhances your marketing strategy.
+Read More
+ 
+Sales
+Accelerate deal negotiations with a data-backed sales strategy. Our sales solutions help you shorten the deal cycle and exceed revenue targets with an automated gifting strategy that helps you engage more deeply and stand apart from the competition.
+Read More
+ 
+CX
+Create the customer experience (CX) that develops brand loyalty and increases retention. A personalized gifting approach improves onboarding and creates a speedy resolution for negative experiences. This strategy leads to better customer satisfaction metrics, and eventually, to upsells and renewals.
+Read More
+ 
+People Teams
+Engage with employees in a memorable way with our human resources (HR) solutions. From a new hire’s onboarding journey to celebrating work anniversaries, a personalized gifting strategy makes a difference. Deliver experiences that get your employees excited for Monday mornings.
+Read More
+ 
+See how to close deals 29% faster with personalized corporate gifting
+Book a Demo
+Take a Tour
+ 
+ 
+ 
+ 
+ 
+Get Started
+Request a Demo
+USA +1 888-717-3287
+CA +1 844-331-2714
+UK +44-808-169-9437
+AUS +61 1800-931-581
+Explore Sendoso
+Getting Started
+Platform
+Solutions
+Compare Plans
+Resources
+Company
+About Us
+Careers
+Contact Us
+Customers
+Partners
+Support
+Customer Support
+Release Notes
+Sendoso Uptime
+API
+More Resources
+Corporate Gifting Guide
+Direct Mail Marketing Guide
+Sales Prospecting Guide
+Account-Based Marketing Guide
+Also of interest
+Driving Revenue Growth in Accounts
+Seamless Integration Platform with Popular Apps
+Leverage Marketplace Expertise
+Demand Generation Guide
+© SENDER, INC. 
+****
+Privacy
+DPA
+Terms
+CCPA
+Sub-Processor
+Security
+Data Subject Requests
+Do Not Sell My Personal Information
+
+===== product :: https://www.sendoso.com/platform
+--- SIGNALS ---
+title: The Leading Direct Marketing Automation Platform
+meta_description: Drive revenue with Sendoso's Direct Marketing Automation Platform. Personalized gifting, global logistics, seamless integrations, and intelligent analytics.
+og_description: 
+og_site_name: 
+h1: Drive Revenue Growth and Boost Customer Retention
+h2: Have questions about our Sending Management Platform? | Advanced all-in-one solution | Sendoso helps you achieve more | Easy workflow integrations | Results across teams | What’s new with Sendoso | Trusted by brands around the world. | See how leading B2B companies use Sendoso to fuel revenue
+jsonld_org: [{"@type": "Organization", "name": "Sendoso", "logo": {"@type": "ImageObject", "url": "https://cdn.prod.website-files.com/651ad5ceeba626e1de2f2ce8/651c92a16a856b0f0d5656ca_SendosoLogo_RGB.svg"}, "contactPoint": [{"@type": "ContactPoint", "telephone": "+1-888-717-3287", "contactType": "customer service", "areaServed": "US"}, {"@type": "ContactPoint", "telephone": "+1-844-331-2714", "contactType": "customer service", "areaServed": "CA"}, {"@type": "ContactPoint", "telephone": "+44-808-169-9437", "contactType": "customer service", "areaServed": "GB"}, {"@type": "ContactPoint", "telephone": "+61-1800-931-581", "contactType": "customer service", "areaServed": "AU"}]}]
+--- TEXT ---
+The Leading Direct Marketing Automation Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+Overview
+See what makes Sendoso the Leading Sending Management Platform.
+AI Powered Gifting
+AI-powered tools that recommend what and where to send gifts in just a few clicks.
+The Campaign Studio
+From concept to completion, our white-glove service does the heavy lifting so your brand always makes a statement.
+Merch by Sendoso
+From idea to production to inventory, access self-service custom and on-demand swag sourcing at any scale.
+Sendoso Fulfillment Center
+The only fulfillment center dedicated to gifting and direct mail.
+Compare Plans
+See which features and capabilities fit your organization.
+Solutions
+Overview
+See what makes Sendoso the Leading Sending Management Platform.
+Marketing
+Amplify the impact of your campaigns through personalized gifting.
+Use Cases: 
+Account-Based Marketing
+ • 
+Demand Generation
+ • 
+Field Marketing
+ • 
+Event Fulfillment 
+• 
+Brand
+Sales
+Accelerate pipeline, lead generation, and close deals with every send.
+Use Cases: 
+Sales Development
+Customer Experience
+Reward loyalty and increase retention with a sending strategy.
+People Teams
+Celebrate milestones, recognize achievements, and personalize onboarding.
+Customers
+Success Stories
+See strategies that delivered impact in sales, ABM, marketing, and more.
+Reviews
+Recognized by the industry as the corporate gifting category leader.
+Resources
+Helpful Content
+Integrations
+Upcoming Events
+What's New
+Help Center
+Sendoso University
+Company
+About Sendoso
+Careers
+Become a Partner
+Sustainability
+Contact Us
+Sign In
+Book a Demo
+Drive Revenue Growth and Boost Customer Retention
+Create highly personalized, automated, and meaningful experiences at lightning speed with Sendoso's Direct Marketing Automation Platform.
+Build highly differentiated and tailor-made campaigns to connect deeply with your buyers throughout the customer lifecycle journey and drive more ROI of your sales and marketing dollar investments.
+Book a Demo
+ 
+Target key people and accounts.
+Leverage marketplace expertise and robust capabilities with data-driven, intelligent sending.
+Send, track, and create scalable connections with tools you’re already using.
+See How it Works
+Have questions about our Sending Management Platform?
+Let someone from our team walk you through the sending journey.
+Contact Us
+Advanced all-in-one solution
+Global Logistics
+Find the perfect gift for anyone, anywhere. We store and manage your inventory in our global fulfillment centers.
+Expansive marketplace
+Our globally curated marketplace includes eGifts, physical gifts, branded merchandise, virtual experiences, and philanthropy.
+Seamless integrations
+We integrate with all major marketing and sales solutions.
+Intelligent analytics
+Our analytics track the ROI of your gifting strategies.
+Financial governance and security
+We offer best-in-class financial management and security controls.
+Campaign Curation
+Our community of experts help you with send curation, onboarding, and customer success.
+Learn More About Our Features
+Sendoso helps you achieve more
+Send the perfect gift
+Choose a gift or ask our experts to curate, create, and send a gift that’s unique and best represents your brand.
+Eliminate your marketing closet
+We manage, store, and kit all your merchandise—wherever and whenever you need it.
+Limitless options
+Expand your gifting options with Sendoso marketplace partners and Amazon integration.
+Sendoso Swag Store
+Make it easy for employees and customers to engage with your brand.
+Easy workflow integrations
+Create and send from where you already work.
+View All Integrations
+ 
+Results across teams
+Account-Based Marketing
+Learn More
+ 
+Demand Generation
+Learn More
+ 
+Field Marketing
+Learn More
+ 
+Sales Development
+Learn More
+ 
+Sales
+Learn More
+ 
+Customer Experience
+Learn More
+ 
+Company Culture
+Learn More
+ 
+View Our Solutions
+What’s new with Sendoso
+We’re always delivering new ways to connect and make gifting personal.
+See What's New
+Trusted by brands around the world.
+See Customer Success Stories
+ 
+See how leading B2B companies use Sendoso to fuel revenue
+“
+Sendoso helps Cornerstone accelerate deals and set meetings with the prospects we have a difficult time getting in touch with. The unique sends help us break through the noise.
+”
+Peter Tarrant 
+Account Based Marketer, Tipalti
+Get started with a demo today!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get Started
+Request a Demo
+USA +1 888-717-3287
+CA +1 844-331-2714
+UK +44-808-169-9437
+AUS +61 1800-931-581
+Explore Sendoso
+Getting Started
+Platform
+Solutions
+Compare Plans
+Resources
+Company
+About Us
+Careers
+Contact Us
+Customers
+Partners
+Support
+Customer Support
+Release Notes
+Sendoso Uptime
+API
+More Resources
+Corporate Gifting Guide
+Direct Mail Marketing Guide
+Sales Prospecting Guide
+Account-Based Marketing Guide
+Also of interest
+Driving Revenue Growth in Accounts
+Seamless Integration Platform with Popular Apps
+Leverage Marketplace Expertise
+Demand Generation Guide
+© SENDER, INC. 
+****
+Privacy
+DPA
+Terms
+CCPA
+Sub-Processor
+Security
+Data Subject Requests
+Do Not Sell My Personal Information

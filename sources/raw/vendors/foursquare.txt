@@ -1,0 +1,1637 @@
+===== homepage :: https://foursquare.com/
+--- SIGNALS ---
+title: Location Intelligence Platform | Foursquare
+meta_description: Foursquare is the industry-leading geospatial intelligence platform. Power your business with 100M+ POIs, foot traffic data, and location-based solutions for marketers, developers, and analysts.
+og_description: Foursquare is the industry-leading geospatial intelligence platform. Power your business with 100M+ POIs, foot traffic data, and location-based solutions for marketers, developers, and analysts.
+og_site_name: Foursquare
+h1: Search --> Products MarketersGeospatial Intelligence PlatformDevelopersPlaces DataAppsView all productsMarketers OverviewMarketersTransform your advertising with location dataAttributionMeasure the impact of adsAudienceReach in-market consumersProximityCustom, real-time geofencingGIP OverviewGeospatial Intelligence PlatformGeospatial intelligence for everyoneSpatial WorkbenchSpatial analytics for BI teamsSpatial H3 HubH3 indexed features for data scientistsSpatial DesktopPowerful geospatial computing on your desktopSpatial StudioMapping and analytics workspaceDevelopers OverviewDevelopersBuild better app experiencesDev ConsolePower your products with locationPlaces APIAccurate place data for your appsMovement SDKBuild location-aware experiencesPlaces DataPlaces DataThe most powerful & precise POI dataPlaces POI DataUnlock precise venues in rich detailOpen SourceAccess high-quality POI dataBusiness ListingsConnect your business with customersAppsFoursquare SwarmCheck in and track placesSuperlocal Discovery everywhereLearn more about our techCase studies .menu-listing-block-9ba7ee60-3da9-484c-87db-c0950d12c8f3 .menu-item-1 { flex-basis: calc(30% - 13.333333333333334px) !important; max-width: calc(30% - 13.333333333333334px) !important; } .menu-listing-block-9ba7ee60-3da9-484c-87db-c0950d12c8f3 .menu-item-2 { flex-basis: calc(40% - 13.333333333333334px) !important; max-width: calc(40% - 13.333333333333334px) !important; } .menu-listing-block-9ba7ee60-3da9-484c-87db-c0950d12c8f3 .menu-item-3 { flex-basis: calc(30% - 13.333333333333334px) !important; max-width: calc(30% - 13.333333333333334px) !important; } .menu-listing-block-9ba7ee60-3da9-484c-87db-c0950d12c8f3 .menu-item-1 .menu__item_thumb { background: #e6ddf8; border-color: #cbb8f7; } .menu-listing-block-9ba7ee60-3da9-484c-87db-c0950d12c8f3 .menu-item-2 .menu__item_thumb { background: #bcf5f2; border-color: #77eae3; } .menu-listing-block-9ba7ee60-3da9-484c-87db-c0950d12c8f3 .menu-item-3 .menu__item_thumb { background: #ffe0bc; border-color: #ffbd70; } MarketersProduct overviewAttributionMeasure the impact of adsAudienceReach in-market consumersProximityCustom, real-time geofencingGeospatial Intelligence PlatformProduct overviewSpatial Workbench Spatial analytics for BI teamsSpatial H3 Hub H3-indexed features for data scientistsSpatial Desktop Powerful geospatial computing on your desktopSpatial StudioMapping and analytics workspaceDevelopersProduct overviewPlaces POI DataUnlock precise venues in rich detailDev ConsolePower your products with locationPlaces APIAccurate place data for your appsMovement SDKBuild location-aware experiencesLearn more about our techCase studies false .menu-listing-block-220130d1-42d6-41cf-be6f-381f1ed100d3 .menu-item-1 .menu__item_thumb { background: #e6ddf8; border-color: #cbb8f7; } .menu-listing-block-220130d1-42d6-41cf-be6f-381f1ed100d3 .menu-item-2 .menu__item_thumb { background: #e6ddf8; border-color: #cbb8f7; } Product overviewOur location technology toolsOverviewOmni-channel attributionMeasure the impact of adsAudience targetingReach in-market consumersConsumer proximityCustom, real-time geofencingPowerful POI dataUnlock precise venues in rich detailGeospatial visualizationMapping and analytics workspaceCustom geospatial appsBuild location-aware experiencesGlobal point of interest APIAccurate place data for your appsDeveloper toolsPower your products with locationLearn more about our techCase studies Solutions .menu-listing-block-8edd1a64-f83a-42f3-981c-16c1990e14c2 .menu-item-1 { flex-basis: 100% !important; max-width: 100% !important; } .menu-listing-block-8edd1a64-f83a-42f3-981c-16c1990e14c2 .menu-item-1 .menu__item_thumb { background: #e6ddf8; border-color: #cbb8f7; } By RoleFor marketersImprove campaigns with location intelligenceFor spatial analystsTurn location data into actionable insightsFor developersEmpower your builds with location toolsProduct overview Developers .menu-listing-block-9f24287d-f438-44e6-b0f3-59eeb5c8d54a .menu-item-1 { flex-basis: calc(40% - 13.333333333333334px) !important; max-width: calc(40% - 13.333333333333334px) !important; } .menu-listing-block-9f24287d-f438-44e6-b0f3-59eeb5c8d54a .menu-item-2 { flex-basis: calc(30% - 13.333333333333334px) !important; max-width: calc(30% - 13.333333333333334px) !important; } .menu-listing-block-9f24287d-f438-44e6-b0f3-59eeb5c8d54a .menu-item-3 { flex-basis: calc(30% - 13.333333333333334px) !important; max-width: calc(30% - 13.333333333333334px) !important; } .menu-listing-block-9f24287d-f438-44e6-b0f3-59eeb5c8d54a .menu-item-1 .menu__item_thumb { background: #e6ddf8; border-color: #cbb8f7; } .menu-listing-block-9f24287d-f438-44e6-b0f3-59eeb5c8d54a .menu-item-2 .menu__item_thumb { background: #e6ddf8; border-color: #cbb8f7; } .menu-listing-block-9f24287d-f438-44e6-b0f3-59eeb5c8d54a .menu-item-3 .menu__item_thumb { background: #e6ddf8; border-color: #cbb8f7; } Get startedDeveloper consoleAccess location developer toolsDocumentationHow to build with FoursquareOpen SourceAccess high-quality POI dataOur TechLearn how we power your projectsPricingFlexible plans to fit your needsResourcesDeveloper blogGuides and tutorialsVideos and demosDiscordView all resourcesQuick linksQuick start guideDeveloper careersAPI statusSupportJoin our Beta programBecome a PlacemakerStart for free Resources .menu-listing-block-6d57a51f-a986-4690-89e5-32c1a585d300 .menu-item-1 { flex-basis: calc(65% - 10px) !important; max-width: calc(65% - 10px) !important; } .menu-listing-block-6d57a51f-a986-4690-89e5-32c1a585d300 .menu-item-2 { flex-basis: calc(35% - 10px) !important; max-width: calc(35% - 10px) !important; } .menu-listing-block-6d57a51f-a986-4690-89e5-32c1a585d300 .menu-item-1 .menu__item_thumb { background: #b1e3fa; border-color: #97daf8; } .menu-listing-block-6d57a51f-a986-4690-89e5-32c1a585d300 .menu-item-2 .menu__item_thumb { background: #e6ddf8; border-color: #cbb8f7; } EducationBlogEventsVideos and DemosReports and InsightsPodcastsToolsCase StudiesDocsGlossaryAll resourcesFeaturedFoursquare Open Source Places: A new foundational dataset for the geospatial…Read more Company #menu-listing-block-f4a401be-830d-4632-8274-28b4a7b7d746 .btn-wrapper .btn-one { background-color: #ffffff; color: ; border-color: #ffffff; } #menu-listing-block-f4a401be-830d-4632-8274-28b4a7b7d746 .btn-wrapper .btn-one:hover { background-color: ; color: ; border-color: ; } false .menu-listing-block-4daa99f3-d2a2-4481-b549-b149f555d859 .menu-item-1 .menu__item_thumb { background: #e6ddf8; border-color: #cbb8f7; } About FoursquareWho We ArePartnershipsLeadershipCareersContact UsBusiness ListingsOur privacy stanceDownload Swarm Search Log In Studio Attribution Audience and Proximity Developer Console Placemaker Tools Speak to Sales View all results → #banner_slider_v3-0adf9501-ee68-41b4-9509-31d811ea08e5 .banner[data-slide="0"] .btn-two-class{background-color:;color:;border-color:;}#banner_slider_v3-0adf9501-ee68-41b4-9509-31d811ea08e5 .banner[data-slide="0"] .btn-two-class:hover{background-color:#ffffff;color:;border-color:;}Connect real-world behavior to business outcomes
+h2: The trusted leader in location technology & data | Harness the power of location data | Committed to data privacy | Foursquare data, your way | Speak to our experts
+jsonld_org: [{"@type": "Organization", "@id": "https://foursquare.com/#organization", "name": "Foursquare", "url": "https://foursquare.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://foursquare.com/#/schema/logo/image/", "url": "https://foursquare.com/wp-content/uploads/sites/2/2022/08/cropped-favicon-512x512-1.png", "contentUrl": "https://foursquare.com/wp-content/uploads/sites/2/2022/08/cropped-favicon-512x512-1.png", "width": 512, "height": 512, "caption": "Foursquare"}, "image": {"@id": "https://foursquare.com/#/schema/logo/image/"}, "sameAs": ["https://www.linkedin.com/company/location-foursquare/"]}]
+--- TEXT ---
+Location Intelligence Platform | Foursquare
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to content
+ 
+ 
+ 
+Close
+ 
+ 
+ 
+Planning holiday campaigns? Explore 2026 trends, targeting strategies, and optimization tips
+ 
+ 
+Download the guide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Marketers
+Geospatial Intelligence Platform
+Developers
+Places Data
+Apps
+View all products
+Marketers Overview
+Marketers
+Transform your advertising with location data
+Attribution
+Measure the impact of ads
+Audience
+Reach in-market consumers
+Proximity
+Custom, real-time geofencing
+GIP Overview
+Geospatial Intelligence Platform
+Geospatial intelligence for everyone
+Spatial Workbench
+Spatial analytics for BI teams
+Spatial H3 Hub
+H3 indexed features for data scientists
+Spatial Desktop
+Powerful geospatial computing on your desktop
+Spatial Studio
+Mapping and analytics workspace
+Developers Overview
+Developers
+Build better app experiences
+Dev Console
+Power your products with location
+Places API
+Accurate place data for your apps
+Movement SDK
+Build location-aware experiences
+Places Data
+Places Data
+The most powerful & precise POI data
+Places POI Data
+Unlock precise venues in rich detail
+Open Source
+Access high-quality POI data
+Business Listings
+Connect your business with customers
+Apps
+Foursquare Swarm
+Check in and track places
+Superlocal
+ 
+Discovery everywhere
+Learn more 
+about our tech
+Case studies
+ 
+Marketers
+Product overview
+Attribution
+Measure the impact of ads
+Audience
+Reach in-market consumers
+Proximity
+Custom, real-time geofencing
+Geospatial Intelligence Platform
+Product overview
+Spatial Workbench 
+Spatial analytics for BI teams
+Spatial H3 Hub 
+H3-indexed features for data scientists
+Spatial Desktop 
+Powerful geospatial computing on your desktop
+Spatial Studio
+Mapping and analytics workspace
+Developers
+Product overview
+Places POI Data
+Unlock precise venues in rich detail
+Dev Console
+Power your products with location
+Places API
+Accurate place data for your apps
+Movement SDK
+Build location-aware experiences
+Learn more 
+about our tech
+Case studies
+ 
+Product overview
+Our location technology tools
+Overview
+Omni-channel attribution
+Measure the impact of ads
+Audience targeting
+Reach in-market consumers
+Consumer proximity
+Custom, real-time geofencing
+Powerful POI data
+Unlock precise venues in rich detail
+Geospatial visualization
+Mapping and analytics workspace
+Custom geospatial apps
+Build location-aware experiences
+Global point of interest API
+Accurate place data for your apps
+Developer tools
+Power your products with location
+Learn more 
+about our tech
+Case studies
+Solutions
+ 
+By Role
+For marketers
+Improve campaigns with location intelligence
+For spatial analysts
+Turn location data into actionable insights
+For developers
+Empower your builds with location tools
+Product overview
+Developers
+ 
+Get started
+Developer console
+Access location developer tools
+Documentation
+How to build with Foursquare
+Open Source
+Access high-quality POI data
+Our Tech
+Learn how we power your projects
+Pricing
+Flexible plans to fit your needs
+Resources
+Developer blog
+Guides and tutorials
+Videos and demos
+Discord
+View all resources
+Quick links
+Quick start guide
+Developer careers
+API status
+Support
+Join our Beta 
+program
+Become a Placemaker
+Start for free
+Resources
+ 
+Education
+Blog
+Events
+Videos and Demos
+Reports and Insights
+Podcasts
+Tools
+Case Studies
+Docs
+Glossary
+All resources
+Featured
+Foursquare Open Source Places: A new foundational dataset for the geospatial…
+Read more
+Company
+ 
+About Foursquare
+Who We Are
+Partnerships
+Leadership
+Careers
+Contact Us
+Business Listings
+Our privacy stance
+Download Swarm
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+Log In
+ 
+ 
+Studio
+Attribution
+Audience and Proximity
+Developer Console
+Placemaker Tools
+ 
+ 
+Speak to Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+View all results 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect
+ 
+real-world behavior
+ to business outcomes
+Foursquare is the industry-leading location intelligence platform, from turnkey measurement solutions for marketers to scalable building blocks for developers and beyond.
+Speak to sales
+Try for free
+#1 in location intelligence
+500%+ with FSQ Attribution
+Best innovation in mobile & device development for Places API
+Holiday shopping has started…are your campaigns ready?
+Unwrap 2026 holiday shopping trends, foot traffic insights, and high-impact targeting and measurement strategies to help your campaigns shine and drive results this season.
+Get the holiday guide
+ 
+The trusted leader in location technology & data
+Unlock revenue, marketing, and product strategies across business needs. Enrich data, power POI in apps, boost usage, and conduct competitive analysis.
+See our products
+Quality at scale
+Stop-detection precisely maps visits to locations. Over 16B check-ins fuel a dynamic map of 100M+ POIs across 200+ countries, capturing 9B+ monthly visits from 500M+ devices worldwide
+Privacy-forward
+Data privacy is important to us. Consumers have full control over their data, and our partners undergo regular audits to help ensure privacy standards are upheld.
+Expertise
+With 15+ years perfecting our best-in-class location technology, we are committed to scaling with you as your needs evolve.
+Flexibility
+With 550+ integrated partners, from AWS to the Trade Desk, our data is accessible and delivered via your preferred sources and formats.
+Leading brands use Foursquare
+ 
+Harness the power of location data
+Marketers
+Geospatial
+Developers
+Marketers
+Marketers
+Geospatial
+Developers
+Attribution
+Analyze campaign performance, track real-world conversions, and optimize ad spend with omnichannel campaign attribution.
+Learn more
+Audience
+Create audiences that reflect real-world consumer behavior to reach customers with accuracy at scale.
+Learn more
+Proximity
+Reach consumers at the right time by building accurate, custom geofences based on their real-time movements.
+Learn more
+Spatial Workbench
+Transform business questions into actionable maps and insights with familiar tools and instant cloud scale.
+Learn more
+Spatial H3 Hub
+Instantly enrich your models with H3-indexed geospatial features, purpose-built to eliminate the complexity of spatial data preparation.
+Learn more
+Spatial Desktop
+Transform your desktop into a comprehensive geospatial computing platform and achieve instant query performance on multi-gigabyte datasets and real-time visualization rendering.
+Learn more
+Spatial Studio
+Map making, advanced analytics, permissions and sharing—all in the leading cloud based geospatial workspace.
+Learn more
+Movement SDK
+Drive customer engagement (and revenue) by personalizing in-app content at precisely the right time with developer and integration friendly tools.
+Learn more
+Places API
+Get real-time data access to increase customer satisfaction, build a better app experience and help users discover venues nearby.
+Learn more
+Open Source
+Open source access to POI data for flexible use to build location-driven projects.
+Learn more
+Places
+Unlocks location with precision and in rich detail. Know where you’ll build your next retail location. Analyze economic and foot-traffic trends, or build powerful POI applications.
+Learn more
+Using Foursquare’s suite of marketing products, Jack in the Box targeted fast-casual diners, engaged them in real-time near their locations, and measured an 
+8.8% lift in foot traffic
+.
+“We are thrilled with the results from this campaign and felt that DOOH drove traffic into our locations during a key time period, plus helped us reach key sales objectives.”
+Jamie Ogus
+Senior Regional Marketing Manager, Jack in the Box
+ 
+Committed to data privacy
+Foursquare’s proprietary technology provides businesses with accurate, trusted location data. We believe it’s our responsibility to be an industry leader in data privacy, the ethical use of consumer data, and promoting best practices.
+Learn more about our data privacy standards
+ 
+Foursquare data, your way
+ 
+Speak to our experts
+Interested in exploring how Foursquare can help drive your business forward with location technology? We’d love to show you how.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+Attribution
+Audience
+Proximity
+Places
+Spatial Workbench
+Spatial H3 Hub
+Spatial Desktop
+Spatial Studio
+ 
+Developer
+Developer Docs
+Developer Community
+Developer Console
+Places API
+Movement SDK
+Open Source
+ 
+Resources
+Blog
+Use Cases
+Reports and Insights
+Videos and Demos
+What is Targeting?
+What is Attribution?
+ 
+Company
+Who We Are
+Partnerships
+Leadership
+Careers
+ 
+Get Started
+Schedule a Demo
+Sign Up/Log In
+Download Swarm
+Business Listings
+ 
+Legal
+Privacy Center
+Cookie Policy
+Your Privacy Choices
+Other Terms & Policies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ © 2026 Foursquare. All rights reserved. 
+ 
+Your Privacy Choices
+ 
+ 
+ 
+ 
+ 
+ 
+LinkedIn
+ 
+ 
+ 
+ 
+ 
+ 
+Twitter
+ 
+ 
+ 
+ 
+ 
+ 
+Discord
+ 
+ 
+ 
+ 
+ 
+ 
+Vimeo
+ 
+ 
+ 
+ 
+ 
+ 
+Slack
+
+===== product :: https://foursquare.com/products/
+--- SIGNALS ---
+title: Foursquare Products | Location & Geospatial Intelligence Tools
+meta_description: Explore Foursquare's full product suite — from POI data and geofencing to omnichannel attribution and geospatial analytics. Purpose-built tools for developers, marketers, and data analysts.
+og_description: Explore Foursquare's full product suite — from POI data and geofencing to omnichannel attribution and geospatial analytics. Purpose-built tools for developers, marketers, and data analysts.
+og_site_name: Foursquare
+h1: Building the #1 location technology platform
+h2: Find the tools for you | Marketers | Geospatial | Developers | Transform your advertising | Power your location-based apps with our suite of developer tools | Bring your data. Bring your questions. Build the answers. | Get started with Foursquare
+jsonld_org: [{"@type": "Organization", "@id": "https://foursquare.com/#organization", "name": "Foursquare", "url": "https://foursquare.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://foursquare.com/#/schema/logo/image/", "url": "https://foursquare.com/wp-content/uploads/sites/2/2022/08/cropped-favicon-512x512-1.png", "contentUrl": "https://foursquare.com/wp-content/uploads/sites/2/2022/08/cropped-favicon-512x512-1.png", "width": 512, "height": 512, "caption": "Foursquare"}, "image": {"@id": "https://foursquare.com/#/schema/logo/image/"}, "sameAs": ["https://www.linkedin.com/company/location-foursquare/"]}]
+--- TEXT ---
+Foursquare Products | Location & Geospatial Intelligence Tools
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Marketers
+Geospatial Intelligence Platform
+Developers
+Places Data
+Apps
+View all products
+Marketers Overview
+Marketers
+Transform your advertising with location data
+Attribution
+Measure the impact of ads
+Audience
+Reach in-market consumers
+Proximity
+Custom, real-time geofencing
+GIP Overview
+Geospatial Intelligence Platform
+Geospatial intelligence for everyone
+Spatial Workbench
+Spatial analytics for BI teams
+Spatial H3 Hub
+H3 indexed features for data scientists
+Spatial Desktop
+Powerful geospatial computing on your desktop
+Spatial Studio
+Mapping and analytics workspace
+Developers Overview
+Developers
+Build better app experiences
+Dev Console
+Power your products with location
+Places API
+Accurate place data for your apps
+Movement SDK
+Build location-aware experiences
+Places Data
+Places Data
+The most powerful & precise POI data
+Places POI Data
+Unlock precise venues in rich detail
+Open Source
+Access high-quality POI data
+Business Listings
+Connect your business with customers
+Apps
+Foursquare Swarm
+Check in and track places
+Superlocal
+ 
+Discovery everywhere
+Learn more 
+about our tech
+Case studies
+ 
+Marketers
+Product overview
+Attribution
+Measure the impact of ads
+Audience
+Reach in-market consumers
+Proximity
+Custom, real-time geofencing
+Geospatial Intelligence Platform
+Product overview
+Spatial Workbench 
+Spatial analytics for BI teams
+Spatial H3 Hub 
+H3-indexed features for data scientists
+Spatial Desktop 
+Powerful geospatial computing on your desktop
+Spatial Studio
+Mapping and analytics workspace
+Developers
+Product overview
+Places POI Data
+Unlock precise venues in rich detail
+Dev Console
+Power your products with location
+Places API
+Accurate place data for your apps
+Movement SDK
+Build location-aware experiences
+Learn more 
+about our tech
+Case studies
+ 
+Product overview
+Our location technology tools
+Overview
+Omni-channel attribution
+Measure the impact of ads
+Audience targeting
+Reach in-market consumers
+Consumer proximity
+Custom, real-time geofencing
+Powerful POI data
+Unlock precise venues in rich detail
+Geospatial visualization
+Mapping and analytics workspace
+Custom geospatial apps
+Build location-aware experiences
+Global point of interest API
+Accurate place data for your apps
+Developer tools
+Power your products with location
+Learn more 
+about our tech
+Case studies
+Solutions
+ 
+By Role
+For marketers
+Improve campaigns with location intelligence
+For spatial analysts
+Turn location data into actionable insights
+For developers
+Empower your builds with location tools
+Product overview
+Developers
+ 
+Get started
+Developer console
+Access location developer tools
+Documentation
+How to build with Foursquare
+Open Source
+Access high-quality POI data
+Our Tech
+Learn how we power your projects
+Pricing
+Flexible plans to fit your needs
+Resources
+Developer blog
+Guides and tutorials
+Videos and demos
+Discord
+View all resources
+Quick links
+Quick start guide
+Developer careers
+API status
+Support
+Join our Beta 
+program
+Become a Placemaker
+Start for free
+Resources
+ 
+Education
+Blog
+Events
+Videos and Demos
+Reports and Insights
+Podcasts
+Tools
+Case Studies
+Docs
+Glossary
+All resources
+Featured
+Foursquare Open Source Places: A new foundational dataset for the geospatial…
+Read more
+Company
+ 
+About Foursquare
+Who We Are
+Partnerships
+Leadership
+Careers
+Contact Us
+Business Listings
+Our privacy stance
+Download Swarm
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+Log In
+ 
+ 
+Studio
+Attribution
+Audience and Proximity
+Developer Console
+Placemaker Tools
+ 
+ 
+Speak to Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+View all results 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+Product overview
+Building the #1 location technology platform
+With best-in-class accuracy, accessibility, scale, and respect for consumer data privacy, our location technology platform provides data solutions and tools for real business problems.
+Find the tools for you
+Marketers
+Power more personalized campaigns that drive ROI with accurate targeting and omnichannel measurement
+Geospatial
+Transform location data into actionable insights with purpose-built tools that speak your language
+Developers
+Drive engagement and revenue with timely, context-driven app experiences
+ 
+For marketers
+Transform your advertising
+Do you know if your advertising is making a difference on foot traffic to your locations? Take your marketing investment further by using location data to better understand your customers and target them on their journey towards your brand.
+Attribution
+Understand the true impact of your advertising on net new customer behavior with the ability to measure your entire media plan cross-platform with FSQ/Attribution.
+Learn more
+Audience
+Reach effective, highly-customizable audiences based on real-world behaviors with easy-to-activate targeting across every channel.
+Learn more
+Proximity
+Reach consumers in real-time using geo-contextual targeting. Build accurate, custom geofences to programmatically connect with consumers in key moments of receptivity.
+Learn more
+ 
+For developers
+Power your location-based apps with our suite of developer tools
+Use location intelligence to create timely, context-driven app experiences that drive engagement and revenue. Get familiar with our products and explore their features.
+Places
+Foursquare Places data unlocks locations with precision and in rich detail. Know where you’ll build your next retail location. Analyze economic and foot-traffic trends, or build powerful POI applications.
+Learn more
+OS Places
+Open source, high-quality POI data to drive innovation across the entire geospatial community.
+Learn more
+Movement SDK
+Drive customer engagement (and revenue) by personalizing in-app content at precisely the right time with developer and integration friendly tools.
+Learn more
+Places APIs
+Get real-time data access to increase customer satisfaction, build a better app experience and help users discover venues nearby.
+Learn more
+ 
+For analysts and ML engineers
+Bring your data. Bring your questions. Build the answers.
+Geospatial intelligence for everyone. Whether you’re a developer, analyst, or GIS expert, transform location data into actionable insights with purpose-built tools that speak your language. Built on three foundational pillars, Data, Visualization, and Compute, our platform transforms how organizations leverage location data for business intelligence.
+Spatial H3 Hub
+H3 Hub delivers dozens of raster and vector datasets pre-processed into H3-indexed tables, eliminating months of spatial data preparation for training your ML models. Query demographics, mobility, and environmental data at any H3 resolution directly from Spark, Python, or DuckDB, using simple lat/long coordinates or region boundaries.
+Learn 
+more
+Spatial Workbench
+Spatial Workbench combines familiar SQL workbooks with pre-provisioned geospatial compute engines like MotherDuck and inline 
+Kepler.gl
+ visualizations, so analysts can query datasets, create stunning maps, and publish interactive spatial stories – all within a single browser workspace.
+Learn more
+Spatial Desktop
+Spatial Desktop unleashes the full power of geospatial visualization on your workstation, combining GPU rendering with native DuckDB performance to handle tens of millions of points, run sub-second spatial SQL, and work seamlessly even when connectivity is limited.
+Learn more
+Spatial Studio
+A visualization playground for map-making, advanced analytics, and collaboration – all in a cloud-based geospatial workspace. Access experimental Kepler features before they make their way into 
+Kepler.gl
+ OSS and other FSQ Spatial products.
+Learn more
+ 
+Get started with Foursquare
+Interested in exploring how Foursquare can help drive your business forward with location technology? We’d love to show you how.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+Attribution
+Audience
+Proximity
+Places
+Spatial Workbench
+Spatial H3 Hub
+Spatial Desktop
+Spatial Studio
+ 
+Developer
+Developer Docs
+Developer Community
+Developer Console
+Places API
+Movement SDK
+Open Source
+ 
+Resources
+Blog
+Use Cases
+Reports and Insights
+Videos and Demos
+What is Targeting?
+What is Attribution?
+ 
+Company
+Who We Are
+Partnerships
+Leadership
+Careers
+ 
+Get Started
+Schedule a Demo
+Sign Up/Log In
+Download Swarm
+Business Listings
+ 
+Legal
+Privacy Center
+Cookie Policy
+Your Privacy Choices
+Other Terms & Policies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ © 2026 Foursquare. All rights reserved. 
+ 
+Your Privacy Choices
+ 
+ 
+ 
+ 
+ 
+ 
+LinkedIn
+ 
+ 
+ 
+ 
+ 
+ 
+Twitter
+ 
+ 
+ 
+ 
+ 
+ 
+Discord
+ 
+ 
+ 
+ 
+ 
+ 
+Vimeo
+ 
+ 
+ 
+ 
+ 
+ 
+Slack
+
+===== pricing_or_trust :: https://foursquare.com/pricing/
+--- SIGNALS ---
+title: Foursquare Pricing | Plans for Developers & Marketers
+meta_description: Explore Foursquare's flexible pricing for Places API, Attribution, Audience, and Proximity. From pay-as-you-go developer plans to enterprise solutions — find the right fit for your business.
+og_description: Explore Foursquare's flexible pricing for Places API, Attribution, Audience, and Proximity. From pay-as-you-go developer plans to enterprise solutions — find the right fit for your business.
+og_site_name: Foursquare
+h1: Flexible plans & pricing to meet your needs
+h2: Contact Sales | Pricing | Spatial Desktop | Spatial Workbench | FSQ Spatial Workbench – Developer Plan | Spatial Studio | Contact sales | Places API | Places API Pro endpoints | Ready. Set. Go. | Have questions about pricing?
+jsonld_org: [{"@type": "Organization", "@id": "https://foursquare.com/#organization", "name": "Foursquare", "url": "https://foursquare.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://foursquare.com/#/schema/logo/image/", "url": "https://foursquare.com/wp-content/uploads/sites/2/2022/08/cropped-favicon-512x512-1.png", "contentUrl": "https://foursquare.com/wp-content/uploads/sites/2/2022/08/cropped-favicon-512x512-1.png", "width": 512, "height": 512, "caption": "Foursquare"}, "image": {"@id": "https://foursquare.com/#/schema/logo/image/"}, "sameAs": ["https://www.linkedin.com/company/location-foursquare/"]}]
+--- TEXT ---
+Foursquare Pricing | Plans for Developers & Marketers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Marketers
+Geospatial Intelligence Platform
+Developers
+Places Data
+Apps
+View all products
+Marketers Overview
+Marketers
+Transform your advertising with location data
+Attribution
+Measure the impact of ads
+Audience
+Reach in-market consumers
+Proximity
+Custom, real-time geofencing
+GIP Overview
+Geospatial Intelligence Platform
+Geospatial intelligence for everyone
+Spatial Workbench
+Spatial analytics for BI teams
+Spatial H3 Hub
+H3 indexed features for data scientists
+Spatial Desktop
+Powerful geospatial computing on your desktop
+Spatial Studio
+Mapping and analytics workspace
+Developers Overview
+Developers
+Build better app experiences
+Dev Console
+Power your products with location
+Places API
+Accurate place data for your apps
+Movement SDK
+Build location-aware experiences
+Places Data
+Places Data
+The most powerful & precise POI data
+Places POI Data
+Unlock precise venues in rich detail
+Open Source
+Access high-quality POI data
+Business Listings
+Connect your business with customers
+Apps
+Foursquare Swarm
+Check in and track places
+Superlocal
+ 
+Discovery everywhere
+Learn more 
+about our tech
+Case studies
+ 
+Marketers
+Product overview
+Attribution
+Measure the impact of ads
+Audience
+Reach in-market consumers
+Proximity
+Custom, real-time geofencing
+Geospatial Intelligence Platform
+Product overview
+Spatial Workbench 
+Spatial analytics for BI teams
+Spatial H3 Hub 
+H3-indexed features for data scientists
+Spatial Desktop 
+Powerful geospatial computing on your desktop
+Spatial Studio
+Mapping and analytics workspace
+Developers
+Product overview
+Places POI Data
+Unlock precise venues in rich detail
+Dev Console
+Power your products with location
+Places API
+Accurate place data for your apps
+Movement SDK
+Build location-aware experiences
+Learn more 
+about our tech
+Case studies
+ 
+Product overview
+Our location technology tools
+Overview
+Omni-channel attribution
+Measure the impact of ads
+Audience targeting
+Reach in-market consumers
+Consumer proximity
+Custom, real-time geofencing
+Powerful POI data
+Unlock precise venues in rich detail
+Geospatial visualization
+Mapping and analytics workspace
+Custom geospatial apps
+Build location-aware experiences
+Global point of interest API
+Accurate place data for your apps
+Developer tools
+Power your products with location
+Learn more 
+about our tech
+Case studies
+Solutions
+ 
+By Role
+For marketers
+Improve campaigns with location intelligence
+For spatial analysts
+Turn location data into actionable insights
+For developers
+Empower your builds with location tools
+Product overview
+Developers
+ 
+Get started
+Developer console
+Access location developer tools
+Documentation
+How to build with Foursquare
+Open Source
+Access high-quality POI data
+Our Tech
+Learn how we power your projects
+Pricing
+Flexible plans to fit your needs
+Resources
+Developer blog
+Guides and tutorials
+Videos and demos
+Discord
+View all resources
+Quick links
+Quick start guide
+Developer careers
+API status
+Support
+Join our Beta 
+program
+Become a Placemaker
+Start for free
+Resources
+ 
+Education
+Blog
+Events
+Videos and Demos
+Reports and Insights
+Podcasts
+Tools
+Case Studies
+Docs
+Glossary
+All resources
+Featured
+Foursquare Open Source Places: A new foundational dataset for the geospatial…
+Read more
+Company
+ 
+About Foursquare
+Who We Are
+Partnerships
+Leadership
+Careers
+Contact Us
+Business Listings
+Our privacy stance
+Download Swarm
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+Log In
+ 
+ 
+Studio
+Attribution
+Audience and Proximity
+Developer Console
+Placemaker Tools
+ 
+ 
+Speak to Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+View all results 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+ 
+Pricing
+Flexible plans & pricing to meet your needs
+Unlock the highest quality location intelligence data and tools with a variety of pricing options.
+Contact sales
+Contact Sales
+Pricing
+Spatial Desktop
+ 
+Features available across all plans
+–
+ 
+For GIS professionals:
+ Advanced desktop software for tech-savvy users.
+– Powered by Kepler.gl & DuckDB:
+ Combines powerful visualization with high-performance spatial queries.
+– Superior performance:
+ Sub-second queries on large datasets, real-time rendering.
+– End-to-end workflow:
+ Supports project creation, data import, querying, visualization, and interaction.
+– Flexible & offline capable:
+ Local/cloud saving, full analytical power without internet.
+FSQ Spatial Desktop – Basic
+FSQ Spatial Desktop – Standard
+FSQ Spatial Desktop – Pro
+$0/month through 2026
+$2
+5/month
+$100/month
+Start with basic access to render, query, and analyze. Experience your free preview through 2026. 
+Access to render, query, and analyze – with AI assistance from FSQ Spatial Agent.
+Full access to render, query, and analyze – with AI assistance from FSQ Spatial Agent. 
+Plan specs
+$1 worth of agent tokens to preview FSQ Spatial Agent capabilities on 1-5 analyses
+3 GB of total cloud storage
+5 shared projects
+Plan specs
+$25 worth of agent tokens per billing period for up to 200 simple analyses or up to 30 complex analyses
+5 GB of total cloud storage
+15 shared projects
+—
+——
+Input: 0.0048 / 1000 tokens
+Output: 0.024 / 1000 tokens
+Cost per analysis*
+Simple Analysis: $0.48
+Complex Analysis: $2.88
+Plan specs
+$100 worth of agent tokens per billing period for up to 500 simple analyses or up to 100 complex analyses
+15 GB of total cloud storage
+50 shared projects
+—
+—
+—
+Input: 0.0042 / 1000 tokens
+Output: 0.021 / 1000 tokens
+Cost per analysis*
+Simple Analysis: $0.42
+Complex Analysis: $2.52
+Get started
+ >
+Get started
+ >
+Get started
+ >
+*
+Learn more about Spatial Agent tokens & analyses
+– Use allotted 
+agent tokens
+ to execute analyses and utilize computational power with the FSQ Spatial Agent
+– Complete 
+simple analyses 
+with FSQ Spatial Agent, typically on your own data, with a single dataset (<10 steps and/or tool calls, and up to 4 maps and/or charts).
+– Leverage the FSQ Spatial Agent on 
+complex analyses
+ (30+ steps, 30+ tool calls, and up to 8 maps and/or charts) which typically include FSQ H3 Hub data or up to 5 datasets
+Spatial Workbench
+ 
+FSQ Spatial Workbench – Developer Plan
+$250 / month
+Free 30-day trial for $0 + usage
+Free trial for 30 days with no subscription fee – only pay for the compute and storage you use. Analyze, compute, & visualize – all in a single SQL workbench.
+Start your free trial 
+Flexible compute options
+MotherDuck
+ is a cloud-native data warehouse built on DuckDB, designed for serverless, collaborative analytics. Storage costs of $0.04/GB may apply.
+MotherDuck – Pulse
+MotherDuck – Standard
+MotherDuck – Jumbo
+Perfect for ad-hoc analysis tasks
+$0.60/hr
+Built to handle common workloads and transforms
+$2.40/hr
+For larger workloads with intense transformations
+$4.80/hr
+Spatial Studio
+ 
+Community user
+Always free
+Best for those exploring the platform and low data storage requirements.
+Create an account
+Enterprise
+Custom pricing
+Scalable pricing designed to grow with your data and organization.
+Contact sales
+Contact sales
+Community
+Enterprise
+Pricing
+Free
+Custom
+Cloud data storage
+1GB
+Custom (up to 500GB)
+Data catalog
+Limited access
+Full access
+Database connectors
+Only planet NICFI
+All available connectors + 
+new connectors upon request
+Map publishing
+Public
+Public + password-protected
+Hex Tiles for large scale data processing
+No access 
+Full access
+Team collaboration
+No access
+Full access
+Support
+Community Slack
+Slack + email support 
+(24 hour response time)
+Places API
+ 
+Pay for what you use.
+ Flexible, volume-based pricing based on your monthly usage of Pro & Premium endpoints with the Foursquare Places API. More calls mean more savings.
+Places API Pro endpoints
+Pro endpoints include Place Search, Place Details, Autocomplete, Place Match & Geotagging Candidates when requested with default fields.
+0 – 500 Calls
+501 to 100,000 Calls
+100,001 to 500,000 Calls
+500,001+ Calls
+$0.00 CPM
+$15.00 CPM
+$12.00 CPM
+$9.00 CPM
+Places API Premium endpoints
+Premium endpoints include Tips & Photos. Search, Details, Place Match & Geotagging Candidates are Premium endpoints when requested with premium tier fields.
+0 – 100,000 Calls
+100,001 to 500,000 Calls
+500,001+ Calls
+$18.75 CPM
+$15.00 CPM
+$11.25 CPM
+Places API Ask Endpoints
+Ask API endpoints can be considered Pro or Premium based on the 
+requested fields
+. Additionally, please note the unique 
+rate limits
+ for Ask API.
+Pro
+Premium
+$30.00 CPM
+$36.00 CPM
+ 
+Ready. Set. Go. 
+Attribution
+Accurately measure the impact of your ad campaigns with the industry’s leading multi-touch attribution solution.
+Contact sales
+Audience
+Make the most of your marketing investment with location intelligence that reveals consumer intent to inform targeting throughout the customer journey.
+Contact sales
+Proximity
+Make the most of your marketing investment with location intelligence that reveals consumer intent to inform targeting throughout the customer journey.
+Contact sales
+Studio
+Create a free account to test out Studio’s geospatial big data mapping and analysis tools, then upgrade to Enterprise to unlock new features.
+Contact sales
+Places API
+Test out Places API for free in our sandbox and then pay-as-you-go. Enjoy up to 10,000 free calls on Pro endpoints.
+Create an account
+Spatial Desktop
+Advanced desktop tooling for GIS professionals to render, analyze, and visualize.
+Download to start your free trial
+Spatial Workbench
+Transform business questions into actionable maps and insights with familiar tools and instant cloud scale.
+Start your free trial
+ 
+Have questions about pricing?
+Get in touch with our team.
+Contact sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+Attribution
+Audience
+Proximity
+Places
+Spatial Workbench
+Spatial H3 Hub
+Spatial Desktop
+Spatial Studio
+ 
+Developer
+Developer Docs
+Developer Community
+Developer Console
+Places API
+Movement SDK
+Open Source
+ 
+Resources
+Blog
+Use Cases
+Reports and Insights
+Videos and Demos
+What is Targeting?
+What is Attribution?
+ 
+Company
+Who We Are
+Partnerships
+Leadership
+Careers
+ 
+Get Started
+Schedule a Demo
+Sign Up/Log In
+Download Swarm
+Business Listings
+ 
+Legal
+Privacy Center
+Cookie Policy
+Your Privacy Choices
+Other Terms & Policies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ © 2026 Foursquare. All rights reserved. 
+ 
+Your Privacy Choices
+ 
+ 
+ 
+ 
+ 
+ 
+LinkedIn
+ 
+ 
+ 
+ 
+ 
+ 
+Twitter
+ 
+ 
+ 
+ 
+ 
+ 
+Discord
+ 
+ 
+ 
+ 
+ 
+ 
+Vimeo
+ 
+ 
+ 
+ 
+ 
+ 
+Slack

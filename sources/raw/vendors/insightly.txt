@@ -1,0 +1,64 @@
+===== homepage :: https://insightly.co/
+--- SIGNALS ---
+title: Insightly
+meta_description: AI-Powered Trends & Insights in Your Inbox
+og_description: AI-Powered Trends & Insights in Your Inbox
+og_site_name: 
+h1: 
+h2: Let AI Do Your Desk Research
+jsonld_org: []
+--- TEXT ---
+Insightly
+ 
+ 
+ 
+ 
+Loading...
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign In
+ 
+ 
+ 
+Let AI Do Your Desk Research
+ 
+Insightly uses AI to research topics you care about and keep you up to date with trends and insights via email.
+ 
+ 
+Try It For Free
+ 
+ 
+ 
+ 
+ 
+ 
+Built By Addition
+ 
+Delivering Generative AI solutions for leading brands.
+ 
+Learn More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Privacy Policy
+ 
+ 
+ 
+© Addition Technologies Inc
+|

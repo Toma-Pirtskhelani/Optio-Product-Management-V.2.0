@@ -1,0 +1,618 @@
+===== homepage :: https://ortto.com/
+--- SIGNALS ---
+title: Ortto: Your customer data, marketing automation & analytics, together
+meta_description: Ortto’s marketing automation and customer data platform unifies your data, messaging and analytics on a single platform.
+og_description: Ortto’s marketing automation and customer data platform unifies your data, messaging and analytics on a single platform.
+og_site_name: 
+h1: DRIVING GROWTH | DRIVING GROWTH | DRIVING GROWTH
+h2: MARKETING AUTOMATION | Marketing automation | Customer data and analytics | CUSTOMER DATA AND ANALYTICS | Support | Support | SECURITY AND PRIVACY | SECURITY AND PRIVACY | SECURITY AND PRIVACY
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Ortto", "url": "https://ortto.com", "logo": "https://ortto.com/images/favicon/android-icon-192x192.png", "description": "Marketing automation platform combining customer data, analytics, and support tools.", "sameAs": ["https://www.linkedin.com/company/ortto", "https://twitter.com/ortto", "https://www.facebook.com/orttohq"]}, {"@type": "Organization", "name": "Ortto", "url": "https://ortto.com"}]
+--- TEXT ---
+Ortto: Your customer data, marketing automation & analytics, together
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+ 
+
+
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+Product
+Solutions
+Resources
+Templates
+Sign in
+ 
+Sign in
+Build
+ 
+journeys
+that
+ 
+drive
+ 
+revenue
+Your
+marketing automation
+,
+analytics
+,
+customer data
+and
+support
+.
+Together.
+Read our customer stories
+Build
+ 
+journeys
+that
+ 
+drive
+ 
+revenue
+Your
+marketing automation
+,
+analytics
+,
+customer data
+and
+support
+.
+Together.
+Read our customer stories
+Build
+ 
+journeys
+that
+ 
+drive
+ 
+revenue
+Your
+marketing automation
+,
+analytics
+,
+customer data
+and
+support
+.
+Together.
+Start trial
+Book a demo
+14 day free trial · Onboard in 2 minutes
+Read our customer stories
+MARKETING AUTOMATION
+A complete platform for 
+powerful marketing automation
+Journeys
+Journeys
+Email
+SMS
+Push notifications
+Forms and surveys
+In-app messages
+Marketing automation
+A complete platform for 
+powerful marketing automation
+Journeys
+Journeys
+Emails
+Emails
+SMS
+SMS
+Push notifications
+Push notifications
+Forms and surveys
+Forms and surveys
+In-app messages
+In-app messages
+“Ortto is a seamless tool that is so easy to learn and can plug into your CRM, website, or other tools you use. You get access to so many features right from the get-go — 
+it can honestly be your one-stop platform for marketing activities. I highly recommend the platform.
+ 
+“Ortto is a seamless tool that is so easy to learn and can plug into your CRM, website, or other tools you use. You get access to so many features right from the get-go — 
+it can honestly be your one-stop platform for marketing activities. I highly recommend the platform.
+ 
+“Ortto is a seamless tool that is so easy to learn and can plug into your CRM, website, or other tools you use. You get access to so many features right from the get-go — 
+it can honestly be your one-stop platform for marketing activities. I highly recommend the platform.
+ 
+James Mathews 
+Marketing Manager
+Rare Cancers Australia
+Customer data and analytics
+Data that doesn’t 
+slow you down
+Customer data platform
+Customer data platform
+Custom activities
+Dashboards
+Custom reports
+Lead scoring
+CUSTOMER DATA AND ANALYTICS
+Data that doesn't, 
+slow you down
+Customer data platform
+Customer data platform
+Custom activities
+Custom activities
+Dashboards
+Dashboards
+Custom reports
+Custom reports
+Lead scoring
+Lead scoring
+Connect all of your customer data
+with 
+no-code integrations
+.
+Connect all of your customer data
+with 
+no-code integrations
+.
+Connect all of your customer data
+with 
+no-code integrations
+.
+Support
+Omnichannel engagement, 
+powered by AI
+Team inbox
+Team inbox
+AI responses
+Integrated CDP
+Live chat
+Messenger calls
+Screen sharing
+Knowledge base
+Support
+Omnichannel engagement, 
+powered by AI
+Team inbox
+Team inbox
+AI responses
+AI responses
+CDP
+CDP
+Live chat
+Live chat
+Messenger calls
+Messenger calls
+Screen sharing
+Screen sharing
+Knowledge base
+Knowledge base
+ 
+Rated 4.4/5 on G2
+4.4/5
+ 
+Rated 4.6/5 on Capterra
+4.6/5
+ 
+Rated 8.8/10 on TrustRadius
+8.8/10
+DRIVING GROWTH
+From startups to enterprise, 
+they all choose Ortto for growth.
+Read customer stories
+Startup
+79%
+Above industry open rate
+“Nobody else out there has what Ortto has.”
+Mica Shtewi, Tech Manager at Pattern
+B2B
+375%
+Increase in first reviews via journeys
+“We unlocked so much growth in our emails.”
+Kayla Hutchinson, Marketing Manager at TrustRadius
+B2C
+20%
+Increase in subscriptions via journeys
+“Ortto makes it very easy and intuitive to incorporate actual data”
+Itay Dror, Head of Product at Sequence
+Enterprise
+65%
+Email open rate
+“We simply couldn’t do this with any other tool.”
+Jan Uwland, Head of Marketing at Taxibox
+SaaS
+50%
+Increase in DAUs via journeys
+“The beauty of it is that it grows with you.”
+Brandon Leong, VP of Marketing & Growth at Screencastify
+ 
+Watch video
+(1:56)
+DRIVING GROWTH
+From startups to enterprise, 
+they all choose Ortto for growth.
+Read customer stories
+SaaS
+50%
+Increase in DAUs via journeys
+“The beauty of it is that it grows with you.”
+Brandon Leong, VP of Marketing & Growth at Screencastify
+ 
+Watch video
+(1:56)
+Startup
+79%
+Above industry open rate
+“Nobody else out there has what Ortto has.”
+Mica Shtewi, Tech Manager at Pattern
+B2B
+375%
+Increase in first reviews via journeys
+“We unlocked so much growth in our emails.”
+Kayla Hutchinson, Marketing Manager at TrustRadius
+B2C
+20%
+Increase in subscriptions via journeys
+“Ortto makes it very easy and intuitive to incorporate actual data”
+Itay Dror, Head of Product at Sequence
+Enterprise
+65%
+Email open rate
+“We simply couldn’t do this with any other tool.”
+Jan Uwland, Head of Marketing at Taxibox
+ 
+DRIVING GROWTH
+From startups to enterprise, 
+they all choose Ortto for growth.
+Read customer stories
+Startup
+79%
+Above industry open rate
+“Nobody else out there has what Ortto has.”
+Mica Shtewi, Tech Manager at Pattern
+B2B
+375%
+Increase in first reviews via journeys
+“We unlocked so much growth in our emails.”
+Kayla Hutchinson, Marketing Manager at TrustRadius
+B2C
+20%
+Increase in subscriptions via journeys
+“Ortto makes it very easy and intuitive to incorporate actual data”
+Itay Dror, Head of Product at Sequence
+Enterprise
+65%
+Email open rate
+“We simply couldn’t do this with any other tool.”
+Jan Uwland, Head of Marketing at Taxibox
+SaaS
+50%
+Increase in DAUs via journeys
+“The beauty of it is that it grows with you.”
+Brandon Leong, VP of Marketing & Growth at Screencastify
+ 
+Watch video
+(1:56)
+SECURITY AND PRIVACY
+Secure. Accessible.
+Built to scale.
+Learn about security
+ 
+Two-factor authentication (2FA) and enforcement
+ 
+Single sign-on (SSO) and Okta support
+ 
+User permissions, roles, and full audit logs
+ 
+Google reCAPTCHA to keep forms secure
+ 
+Multi-region data hosting in EU, USA, and Australia
+ 
+Compliant with GDPR, ISO 27001, HIPAA, SOC2
+ 
+Member of anti-abuse organization M³AAWG.
+SECURITY AND PRIVACY
+Secure. Accessible.
+Built to scale.
+Learn about security
+ 
+Two-factor authentication (2FA) and enforcement
+ 
+Single sign-on (SSO) and Okta support
+ 
+User permissions, roles, and full audit logs
+ 
+Google reCAPTCHA to keep forms secure
+ 
+Multi-region data hosting in EU, USA, and Australia
+ 
+Compliant with GDPR, ISO 27001, HIPAA, SOC2
+ 
+Member of anti-abuse organization M³AAWG.
+SECURITY AND PRIVACY
+Secure. Accessible.
+Built to scale.
+Learn about security
+ 
+Two-factor authentication (2FA) and enforcement
+ 
+Single sign-on (SSO) and Okta support
+ 
+User permissions, roles, and full audit logs
+ 
+Google reCAPTCHA to keep forms secure
+ 
+Multi-region data hosting in EU, USA, and Australia
+ 
+Compliant with GDPR, ISO 27001, HIPAA, SOC2
+ 
+Member of anti-abuse organization M³AAWG.
+ 
+Platform
+Data platform (CDP)
+Journey builder
+Talk
+Analytics
+Ortto AI
+Sign up for a free trial
+Solutions
+SaaS
+Financial Services
+Healthcare
+Not for Profit
+Features
+Email marketing
+SMS marketing
+Push notifications
+Live chat
+Knowledge base
+In-app messages
+Popups, forms & surveys
+Scoring
+Checkmate tracking®
+Transactional email
+Multi-lingual marketing
+Security & privacy
+Ortto for Salesforce
+Ortto for Shopify
+Landing Pages
+About
+Company
+Careers
+Contact us
+Resources
+Knowledge Base
+Developer docs
+Case studies
+Blog
+Product updates
+Status
+Roadmap
+Ortto for
+Marketers
+Support
+Sales
+Templates
+Journey builder templates
+Email marketing templates
+All templates
+Integrations
+Salesforce
+Shopify
+All integrations
+ 
+Autopilot
+ is now Ortto.
+Ortto® is a registered trademark.
+Terms
+Privacy
+GDPR
+Security
+DPF
+ 
+Product
+ 
+Solutions
+ 
+Features
+ 
+About
+ 
+Resources
+ 
+Ortto for
+ 
+Templates
+ 
+Integrations
+ 
+ 
+Autopilot
+ is now Ortto.
+Ortto® is a registered trademark.
+Terms
+Privacy
+GDPR
+Security
+DPF
+ 
+Platform
+Data platform (CDP)
+Journey builder
+Talk
+Analytics
+Ortto AI
+Sign up for a free trial
+Solutions
+SaaS
+Financial Services
+Healthcare
+Not for Profit
+Features
+Email marketing
+SMS marketing
+Push notifications
+Live chat
+Knowledge base
+In-app messages
+Popups, forms & surveys
+Scoring
+Checkmate tracking®
+Transactional email
+Multi-lingual marketing
+Security & privacy
+Ortto for Salesforce
+Ortto for Shopify
+About
+Company
+Careers
+Contact us
+Resources
+Documentation
+Developer docs
+Case studies
+Blog
+Product updates
+Status
+Roadmap
+Ortto for
+Marketers
+Support
+Sales
+Templates
+Journey builder templates
+Email marketing templates
+All templates
+Integrations
+Salesforce
+Shopify
+All integrations
+ 
+Autopilot
+ is now Ortto.
+Ortto® is a registered trademark.
+Terms
+Privacy
+GDPR
+Security
+DPF
+ 
+Platform
+Data platform (CDP)
+Journey builder
+Talk
+Analytics
+Ortto AI
+Sign up for a free trial
+Solutions
+SaaS
+Financial Services
+Healthcare
+Not for Profit
+Features
+Email marketing
+SMS marketing
+Push notifications
+Live chat
+Knowledge base
+In-app messages
+Popups, forms & surveys
+Scoring
+Checkmate tracking®
+Transactional email
+Multi-lingual marketing
+Security & privacy
+Ortto for Salesforce
+Ortto for Shopify
+About
+Company
+Careers
+Contact us
+Resources
+Documentation
+Developer docs
+Case studies
+Blog
+Product updates
+Status
+Roadmap
+Ortto for
+Marketers
+Support
+Sales
+Templates
+Journey builder templates
+Email marketing templates
+All templates
+Integrations
+Salesforce
+Shopify
+All integrations
+ 
+Autopilot
+ is now Ortto.
+Ortto® is a registered trademark.
+Terms
+Privacy
+GDPR
+Security
+DPF
