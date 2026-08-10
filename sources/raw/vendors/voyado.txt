@@ -1,0 +1,4034 @@
+===== homepage :: https://voyado.com/
+--- SIGNALS ---
+title: The Agentic CX Suite for Retail - Voyado
+meta_description: The agentic CX platform purpose-built for retail. AI-powered CRM, loyalty & product discovery — trusted by 500+ retail brands.
+og_description: The agentic CX platform purpose-built for retail. AI-powered CRM, loyalty & product discovery — trusted by 500+ retail brands.
+og_site_name: Voyado
+h1: The Agentic CX Suite for Retail
+h2: Why retailers choose Voyado | "Voyado has been a reliable and stable partner for many years, helping us elevate the online shopping experience across our geographies and brands" | Get a demo of Voyado
+jsonld_org: [{"@type": "Organization", "@id": "https://voyado.com/#organization", "name": "Voyado", "url": "https://voyado.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://voyado.com/#/schema/logo/image/", "url": "https://voyado.com/wp-content/uploads/2023/12/Voyado-Logo-700x700-1.png", "contentUrl": "https://voyado.com/wp-content/uploads/2023/12/Voyado-Logo-700x700-1.png", "width": 700, "height": 700, "caption": "Voyado"}, "image": {"@id": "https://voyado.com/#/schema/logo/image/"}}]
+--- TEXT ---
+The Agentic CX Suite for Retail - Voyado
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+Skip to navigation
+ 
+ 
+ 
+ 
+ 
+Love Generation 2026: 
+Watch all the sessions →
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore the Agentic CX Suite for Retail 
+Popular
+ 
+ 
+ 
+ 
+ 
+See how AI drives smarter retail decisions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer engagement
+ 
+ 
+ Put your first-party data to work 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product discovery
+ 
+ 
+ Increase conversions on your site 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loyalty
+ 
+ 
+ Grow with points and gamification 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retail media
+ 
+ 
+ Turn traffic into advertising revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email marketing 
+ 
+ 
+ 
+ 
+ 
+ SMS/RCS 
+ 
+ 
+ 
+ 
+ 
+ Search and browse 
+ 
+ 
+ 
+ 
+ 
+ Recommendations 
+ 
+ 
+ 
+ 
+ 
+ Advertising 
+ 
+ 
+ 
+ 
+ 
+ In-store 
+ 
+ 
+ 
+ 
+ 
+ Digital wallet 
+ 
+New
+ 
+ 
+ 
+ 
+ 
+ Onsite messaging 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Take a product tour
+ 
+ 
+Experience Voyado firsthand with an interactive demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Built for Retail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fashion 
+ 
+ 
+ 
+ 
+ 
+ Electronics 
+ 
+ 
+ 
+ 
+ 
+ Cosmetics and beauty 
+ 
+ 
+ 
+ 
+ 
+ Furniture 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Technology partners 
+ 
+ 
+ 
+ 
+ 
+ Consultancy partners 
+ 
+ 
+ 
+ 
+ 
+ Developer guides and API docs 
+ 
+ 
+ 
+ 
+ 
+ Become a partner 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Multi-market efficiency 
+ 
+ 
+ 
+ 
+Work effortlessly with marketing, merchandising and loyalty across multiple markets.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sustainability 
+ 
+ 
+ 
+ 
+Create sustainable customer journeys that eliminate obstacles and nudge customers to make more sustainable choices.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+95% of retailers use AI. Only 5% see ROI.
+ 
+ 
+What separates AI leaders in retail from the rest? Find out in our latest report, created in partnership with Retail Economics.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customers
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ User support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Help center 
+ 
+ 
+ 
+ 
+ 
+ Voyado Academy 
+ 
+ 
+ 
+ 
+ 
+ Product updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ 
+ 
+ Knowledge hub 
+ 
+ 
+ 
+ 
+ 
+ Case studies 
+ 
+ 
+ 
+ 
+ 
+ Events & Webinars 
+ 
+ 
+ 
+ 
+ 
+ Interactive tools 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Expert insights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The state of AI 2026 
+ 
+ 
+ 
+ 
+ 
+ Benchmarks for retail marketers 
+ 
+ 
+ 
+ 
+ 
+ Inside e-com 2026 report 
+ 
+ 
+ 
+ 
+ 
+ Black Week benchmarks 
+ 
+ 
+ 
+ 
+ 
+ Love Generation 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+95% of retailers use AI. Only 5% see ROI.
+ 
+ 
+What separates AI leaders in retail from the rest? Find out in our latest report, created in partnership with Retail Economics.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+About
+ 
+ 
+ 
+ 
+ 
+English
+Deutsch
+ 
+ 
+ 
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Career
+ 
+ 
+ 
+News & Media
+ 
+ 
+ 
+Legal
+ 
+ 
+ 
+ 
+ 
+Contact
+ 
+ 
++46-8-562 699 30
+ 
+info@voyado.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CRM · Product discovery · Loyalty
+ 
+ 
+ 
+ 
+The Agentic CX Suite for Retail
+ 
+We help retailers achieve a unified customer view through AI-powered CRM, loyalty management, product discovery, and advertising to increase customer lifetime value.
+ 
+ 
+Explore the CX Suite
+ 
+View product tours
+ 
+ 
+ 
+ 
+Rated 4.7/5 on G2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your browser does not support the video tag.
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by 500+ retail brands
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI that understands the rhythms of retail 
+ 
+ 
+ Drowning in data but not seeing the impact? Voyado's AI is built for retail and trained on real retail data, proactively acting on insights and suggesting your next best move. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agentic Marketing
+ 
+ Intelligent data, proactive insights and intent signals drives high-impact campaigns 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Algorithmic Merchandising
+ 
+ Personalization on every page turn your browsers into buyers 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agentic Discovery
+ 
+ Conversational and guided paths to purchase keep product discovery onsite 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agentic Loyalty
+ 
+ Tailored actions for every customer turns your one-time buyers into lifelong fans 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connected experiences across channels
+ 
+Omnichannel isn't a challenge, it's an opportunity. Unite sales and marketing touchpoints to drive store traffic, increase conversions and grow customer lifetime value.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+ 
+ 
+ 
+ 
+Create highly relevant emails powered by real-time customer data, AI-driven content, and automated journeys that adapt to each shopper’s behavior. At scale and across markets.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS/RCS
+ 
+ 
+ 
+ 
+ 
+Reach customers instantly with timely, personalized messages that cut through the noise. From order updates to offers that drive immediate action and store or online visits.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search and browse
+ 
+ 
+ 
+ 
+ 
+Help shoppers find exactly what they’re looking for with AI-powered search and navigation that understands intent, product context, and business priorities in every moment.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Onsite messaging
+ 
+ 
+ 
+ 
+ 
+Guide shoppers in real time with personalized messages across the site. From nudges and reminders to offers and content that increase conversion without disrupting the experience.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recommendations
+ 
+ 
+ 
+ 
+ 
+Serve spot-on product recommendations based on shopper intent, product performance, and retail context. Turning inspiration into higher conversion and basket size.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advertising
+ 
+ 
+ 
+ 
+ 
+By syncing real-time customer segments to channels like Meta, Google and TikTok, you can create high-performing lookalike audiences and precision re-targeting.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-store
+ 
+ 
+ 
+ 
+ 
+Connect insights to the physical store with personalized offers, loyalty interactions, and recommendations that make every visit feel relevant and rewarding.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Digital wallet
+ 
+ 
+ 
+ 
+ 
+Keep your brand top of mind by delivering loyalty cards, offers, and rewards directly to customers’ mobile wallets. Always accessible, always up to date.
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why retailers choose Voyado
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+109%
+ 
+increase in full-price shoppers
+By Malene Birger
+ 
+ 
+ 
+ 
+ 
+25%
+ 
+increased online sales
+MQ Marqet
+ 
+ 
+ 
+ 
+ 
+27%
+ 
+increased online conversion
+Dormy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"Voyado has been a reliable and stable partner for many years, helping us elevate the online shopping experience across our geographies and brands"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It's time to orchestrate the customer journey
+ 
+Act on data faster and smarter with customer- and product intelligence that generic platforms simply can’t match.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.
+Customer Engagement 
+ 
+With AI-powered tools for smarter cross-channel marketing, you’ll drive revenue growth both online and in-store while increasing engagement and customer retention.
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+Product Discovery 
+ 
+Act on real-time shopper intent and surface the most relevant products across search, navigation, and recommendations.
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+Loyalty Management 
+ 
+Grow customer loyalty with built-in capabilities that turn your loyalty program into measurable lifetime value.
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.
+Retail Media 
+ 
+Unlock new revenue streams with embedded retail media designed to monetize attention without compromising experience.
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn how other retailers grow and succeed with Voyado 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Case
+ 
+ 
+How Pour Moi boosts conversions with smarter search and personalisation
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Case
+ 
+ 
+How State of Art uses loyalty to stay relevant year after year
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Case
+ 
+ 
+Outnorth drives higher engagement and revenue through smarter product recommendations
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Case
+ 
+ 
+How Kronans Apotek increased their conversion rate by 23.9%
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ready to know more?
+Growing revenue with Voyado is easy, here’s how:
+Turn customer data and intent signals into decisive action
+Surface the most relevant products at every moment
+Transform one-time buyers into loyal, high-value customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thank you! We will get back to you soon.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a demo
+of Voyado
+See how retailers like yours use AI-powered customer engagement, product discovery, and loyalty to grow revenue — tailored to your business, not a generic walkthrough.
+Real results from retailers in your space
+A walkthrough built around your challenges
+Clear next steps from day one
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks! We will reach out to you soon. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+ 
+ 
+ 
+Voyado CX Suite
+ 
+ 
+ 
+Customer engagement
+ 
+ 
+ 
+Product discovery
+ 
+ 
+ 
+Integrations
+ 
+ 
+ 
+Customer cases
+ 
+ 
+ 
+ 
+ 
+ 
+About Voyado
+ 
+ 
+ 
+ 
+ 
+ 
+Careers
+ 
+ 
+ 
+News & Media
+ 
+ 
+ 
+Our partners
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+Security & Trust center
+ 
+ 
+ 
+Legal documentation
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Guides
+ 
+ 
+ 
+Product updates
+ 
+ 
+ 
+Help center
+ 
+ 
+ 
+Engage API documentation
+ 
+ 
+ 
+Elevate API documentation
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Privacy Policy
+
+===== product :: https://voyado.com/product/
+--- SIGNALS ---
+title: Retail CRM, Loyalty & Product Discovery Suite | Voyado
+meta_description: The Agentic CX Suite for Retail. Voyado combines CRM, loyalty, product discovery, and retail media. Purpose-built for retail brands.
+og_description: The Agentic CX Suite for Retail. Voyado combines CRM, loyalty, product discovery, and retail media. Purpose-built for retail brands.
+og_site_name: Voyado
+h1: Turn data into agentic action across the customer journey
+h2: Why retailers choose Voyado | "Voyado has been a reliable and stable partner for many years, helping us elevate the online shopping experience across our geographies and brands" | Get a demo of Voyado
+jsonld_org: [{"@type": "Organization", "@id": "https://voyado.com/#organization", "name": "Voyado", "url": "https://voyado.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://voyado.com/#/schema/logo/image/", "url": "https://voyado.com/wp-content/uploads/2023/12/Voyado-Logo-700x700-1.png", "contentUrl": "https://voyado.com/wp-content/uploads/2023/12/Voyado-Logo-700x700-1.png", "width": 700, "height": 700, "caption": "Voyado"}, "image": {"@id": "https://voyado.com/#/schema/logo/image/"}}]
+--- TEXT ---
+Retail CRM, Loyalty & Product Discovery Suite | Voyado
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+Skip to navigation
+ 
+ 
+ 
+ 
+ 
+Love Generation 2026: 
+Watch all the sessions →
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore the Agentic CX Suite for Retail 
+Popular
+ 
+ 
+ 
+ 
+ 
+See how AI drives smarter retail decisions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer engagement
+ 
+ 
+ Put your first-party data to work 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product discovery
+ 
+ 
+ Increase conversions on your site 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loyalty
+ 
+ 
+ Grow with points and gamification 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retail media
+ 
+ 
+ Turn traffic into advertising revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email marketing 
+ 
+ 
+ 
+ 
+ 
+ SMS/RCS 
+ 
+ 
+ 
+ 
+ 
+ Search and browse 
+ 
+ 
+ 
+ 
+ 
+ Recommendations 
+ 
+ 
+ 
+ 
+ 
+ Advertising 
+ 
+ 
+ 
+ 
+ 
+ In-store 
+ 
+ 
+ 
+ 
+ 
+ Digital wallet 
+ 
+New
+ 
+ 
+ 
+ 
+ 
+ Onsite messaging 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Take a product tour
+ 
+ 
+Experience Voyado firsthand with an interactive demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Built for Retail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fashion 
+ 
+ 
+ 
+ 
+ 
+ Electronics 
+ 
+ 
+ 
+ 
+ 
+ Cosmetics and beauty 
+ 
+ 
+ 
+ 
+ 
+ Furniture 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Technology partners 
+ 
+ 
+ 
+ 
+ 
+ Consultancy partners 
+ 
+ 
+ 
+ 
+ 
+ Developer guides and API docs 
+ 
+ 
+ 
+ 
+ 
+ Become a partner 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Multi-market efficiency 
+ 
+ 
+ 
+ 
+Work effortlessly with marketing, merchandising and loyalty across multiple markets.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sustainability 
+ 
+ 
+ 
+ 
+Create sustainable customer journeys that eliminate obstacles and nudge customers to make more sustainable choices.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+95% of retailers use AI. Only 5% see ROI.
+ 
+ 
+What separates AI leaders in retail from the rest? Find out in our latest report, created in partnership with Retail Economics.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customers
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ User support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Help center 
+ 
+ 
+ 
+ 
+ 
+ Voyado Academy 
+ 
+ 
+ 
+ 
+ 
+ Product updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ 
+ 
+ Knowledge hub 
+ 
+ 
+ 
+ 
+ 
+ Case studies 
+ 
+ 
+ 
+ 
+ 
+ Events & Webinars 
+ 
+ 
+ 
+ 
+ 
+ Interactive tools 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Expert insights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The state of AI 2026 
+ 
+ 
+ 
+ 
+ 
+ Benchmarks for retail marketers 
+ 
+ 
+ 
+ 
+ 
+ Inside e-com 2026 report 
+ 
+ 
+ 
+ 
+ 
+ Black Week benchmarks 
+ 
+ 
+ 
+ 
+ 
+ Love Generation 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+95% of retailers use AI. Only 5% see ROI.
+ 
+ 
+What separates AI leaders in retail from the rest? Find out in our latest report, created in partnership with Retail Economics.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+About
+ 
+ 
+ 
+ 
+ 
+English
+Deutsch
+Nederlands
+ 
+ 
+ 
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Career
+ 
+ 
+ 
+News & Media
+ 
+ 
+ 
+Legal
+ 
+ 
+ 
+ 
+ 
+Contact
+ 
+ 
++46-8-562 699 30
+ 
+info@voyado.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Agentic CX Suite for Retail
+ 
+ 
+ 
+Turn data into agentic action across the customer journey
+ 
+Boost productivity and revenue across CRM, loyalty, product discovery and retail media with Agentic AI that drives real retail results.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Book a guided demo
+ 
+Try our interactive demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bonnie AI 
+ 
+Smarter insights, decisions and actions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attract and catch
+ 
+ 
+ 
+Online advertising
+ 
+Onsite pop-ups and forms
+ 
+Referral marketing
+ 
+ 
+ 
+ 
+ 
+ Sorry, your browser is unable to play this video. Please try updating your browser or use a different one to view the content.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understand intent and convert
+ 
+ 
+ 
+Search and browse intelligence
+ 
+Product recommendations
+ 
+Retargeting
+ 
+ 
+ 
+ 
+ 
+ Sorry, your browser is unable to play this video. Please try updating your browser or use a different one to view the content.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retain and grow
+ 
+ 
+ 
+Lifecycle marketing
+ 
+Loyalty management
+ 
+Personalization and Engagement
+ 
+ 
+ 
+ 
+ 
+ Sorry, your browser is unable to play this video. Please try updating your browser or use a different one to view the content.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sorry, your browser is unable to play this video. Please try updating your browser or use a different one to view the content.
+ 
+ 
+ 
+ 
+ 
+ Sorry, your browser is unable to play this video. Please try updating your browser or use a different one to view the content.
+ 
+ 
+ 
+ 
+ 
+ Sorry, your browser is unable to play this video. Please try updating your browser or use a different one to view the content.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Agentic CX suite built only for Retail
+ 
+Act on data faster and smarter with customer- and product intelligence that generic platforms simply can’t match.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.
+Customer Engagement 
+ 
+With AI-powered tools for smarter cross-channel marketing, you’ll drive revenue growth both online and in-store while increasing engagement and customer retention.
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+Product Discovery 
+ 
+Act on real-time shopper intent and surface the most relevant products across search, navigation, and recommendations.
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+Loyalty Management 
+ 
+Grow customer loyalty with built-in capabilities that turn your loyalty program into measurable lifetime value.
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.
+Retail Media 
+ 
+Unlock new revenue streams with embedded retail media designed to monetize attention without compromising experience.
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why retailers choose Voyado
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+109%
+ 
+increase in full-price shoppers
+By Malene Birger
+ 
+ 
+ 
+ 
+ 
+25%
+ 
+increased online sales
+MQ Marqet
+ 
+ 
+ 
+ 
+ 
+27%
+ 
+increased online conversion
+Dormy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"Voyado has been a reliable and stable partner for many years, helping us elevate the online shopping experience across our geographies and brands"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn how other retailers grow and succeed with Voyado 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Case
+ 
+ 
+How Pour Moi boosts conversions with smarter search and personalisation
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Case
+ 
+ 
+How State of Art uses loyalty to stay relevant year after year
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Case
+ 
+ 
+Outnorth drives higher engagement and revenue through smarter product recommendations
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Case
+ 
+ 
+How Kronans Apotek increased their conversion rate by 23.9%
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ready to know more?
+Growing revenue with Voyado is easy, here’s how:
+Turn customer data and intent signals into decisive action
+Surface the most relevant products at every moment
+Transform one-time buyers into loyal, high-value customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thank you! We will get back to you soon.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a demo
+of Voyado
+See how retailers like yours use AI-powered customer engagement, product discovery, and loyalty to grow revenue — tailored to your business, not a generic walkthrough.
+Real results from retailers in your space
+A walkthrough built around your challenges
+Clear next steps from day one
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks! We will reach out to you soon. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+ 
+ 
+ 
+Voyado CX Suite
+ 
+ 
+ 
+Customer engagement
+ 
+ 
+ 
+Product discovery
+ 
+ 
+ 
+Integrations
+ 
+ 
+ 
+Customer cases
+ 
+ 
+ 
+ 
+ 
+ 
+About Voyado
+ 
+ 
+ 
+ 
+ 
+ 
+Careers
+ 
+ 
+ 
+News & Media
+ 
+ 
+ 
+Our partners
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+Security & Trust center
+ 
+ 
+ 
+Legal documentation
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Guides
+ 
+ 
+ 
+Product updates
+ 
+ 
+ 
+Help center
+ 
+ 
+ 
+Engage API documentation
+ 
+ 
+ 
+Elevate API documentation
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Privacy Policy
+
+===== pricing_or_trust :: https://voyado.com/pricing/
+--- SIGNALS ---
+title: Voyado Pricing Plans - Voyado
+meta_description: Voyado pricing is built around your retail operation — not a fixed tier. Explore packages for customer engagement, product discovery, and loyalty.
+og_description: Voyado pricing is built around your retail operation — not a fixed tier. Explore packages for customer engagement, product discovery, and loyalty.
+og_site_name: Voyado
+h1: Priced for retail. Not everyone.
+h2: Start with one. Both is where results compound. | Outcomes that came after retailers said yes: | Any doubts? We're here to help |  | Get a demo of Voyado
+jsonld_org: [{"@type": "Organization", "@id": "https://voyado.com/#organization", "name": "Voyado", "url": "https://voyado.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://voyado.com/#/schema/logo/image/", "url": "https://voyado.com/wp-content/uploads/2023/12/Voyado-Logo-700x700-1.png", "contentUrl": "https://voyado.com/wp-content/uploads/2023/12/Voyado-Logo-700x700-1.png", "width": 700, "height": 700, "caption": "Voyado"}, "image": {"@id": "https://voyado.com/#/schema/logo/image/"}}]
+--- TEXT ---
+Voyado Pricing Plans - Voyado
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+Skip to navigation
+ 
+ 
+ 
+ 
+ 
+Love Generation 2026: 
+Watch all the sessions →
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore the Agentic CX Suite for Retail 
+Popular
+ 
+ 
+ 
+ 
+ 
+See how AI drives smarter retail decisions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer engagement
+ 
+ 
+ Put your first-party data to work 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product discovery
+ 
+ 
+ Increase conversions on your site 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loyalty
+ 
+ 
+ Grow with points and gamification 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retail media
+ 
+ 
+ Turn traffic into advertising revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email marketing 
+ 
+ 
+ 
+ 
+ 
+ SMS/RCS 
+ 
+ 
+ 
+ 
+ 
+ Search and browse 
+ 
+ 
+ 
+ 
+ 
+ Recommendations 
+ 
+ 
+ 
+ 
+ 
+ Advertising 
+ 
+ 
+ 
+ 
+ 
+ In-store 
+ 
+ 
+ 
+ 
+ 
+ Digital wallet 
+ 
+New
+ 
+ 
+ 
+ 
+ 
+ Onsite messaging 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Take a product tour
+ 
+ 
+Experience Voyado firsthand with an interactive demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Built for Retail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fashion 
+ 
+ 
+ 
+ 
+ 
+ Electronics 
+ 
+ 
+ 
+ 
+ 
+ Cosmetics and beauty 
+ 
+ 
+ 
+ 
+ 
+ Furniture 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Technology partners 
+ 
+ 
+ 
+ 
+ 
+ Consultancy partners 
+ 
+ 
+ 
+ 
+ 
+ Developer guides and API docs 
+ 
+ 
+ 
+ 
+ 
+ Become a partner 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Multi-market efficiency 
+ 
+ 
+ 
+ 
+Work effortlessly with marketing, merchandising and loyalty across multiple markets.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sustainability 
+ 
+ 
+ 
+ 
+Create sustainable customer journeys that eliminate obstacles and nudge customers to make more sustainable choices.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+95% of retailers use AI. Only 5% see ROI.
+ 
+ 
+What separates AI leaders in retail from the rest? Find out in our latest report, created in partnership with Retail Economics.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customers
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ User support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Help center 
+ 
+ 
+ 
+ 
+ 
+ Voyado Academy 
+ 
+ 
+ 
+ 
+ 
+ Product updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ 
+ 
+ Knowledge hub 
+ 
+ 
+ 
+ 
+ 
+ Case studies 
+ 
+ 
+ 
+ 
+ 
+ Events & Webinars 
+ 
+ 
+ 
+ 
+ 
+ Interactive tools 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Expert insights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The state of AI 2026 
+ 
+ 
+ 
+ 
+ 
+ Benchmarks for retail marketers 
+ 
+ 
+ 
+ 
+ 
+ Inside e-com 2026 report 
+ 
+ 
+ 
+ 
+ 
+ Black Week benchmarks 
+ 
+ 
+ 
+ 
+ 
+ Love Generation 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+95% of retailers use AI. Only 5% see ROI.
+ 
+ 
+What separates AI leaders in retail from the rest? Find out in our latest report, created in partnership with Retail Economics.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+About
+ 
+ 
+ 
+ 
+ 
+English
+Deutsch
+ 
+ 
+ 
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Career
+ 
+ 
+ 
+News & Media
+ 
+ 
+ 
+Legal
+ 
+ 
+ 
+ 
+ 
+Contact
+ 
+ 
++46-8-562 699 30
+ 
+info@voyado.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Priced for retail.
+Not everyone.
+ 
+Voyado pricing has two parts: a fixed platform fee and a usage-based fee that scales with your business. This applies across our two products, allowing you to tailor the setup to your specific needs. No fixed tiers or one-size-fits-all packages. We build the right setup around your goals. Talk to our team and we’ll put together a clear proposal.
+ 
+ 
+ 
+ 
+ 
+Our products
+ 
+ 
+ 
+ 
+Customer Engagement
+ 
+ 
+ 
+ 
+How it's priced
+ 
+Fixed platform fee plus volume-based pricing for email, SMS, and other channels. Our customers see an average 8% increase in purchase frequency.
+ 
+ 
+ 
+ 
+ 
+ 
+Agentic omnichannel marketing
+ 
+ 
+ 
+ 
+ 
+ 
+Multi-market efficiency
+ 
+ 
+ 
+ 
+ 
+ 
+Native loyalty management that grows CLV
+ 
+ 
+ 
+Talk to sales
+ 
+ 
+ 
+ 
+Key Features: 
+ 
+ 
+ 
+ 
+ 
+ 
+Unified customer profiles
+ 
+ 
+Every interaction, channel, and purchase in one profile. Segment by behavior, CLV, purchase history, and more to reach exactly the right person at exactly the right moment.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agentic campaign automation 
+ 
+ 
+Campaigns that trigger, adapt, and optimize based on what shoppers actually do. Powered by Bonnie, Voyado’s retail-trained AI, across email, SMS, and every channel you run.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Native loyalty management
+ 
+ 
+Points, incentives, and gamified challenges built into your CRM and not integrated from a third-party tool. Loyalty data flows directly into every campaign and customer profile.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Omnichannel and in-store
+ 
+ 
+Online and in-store data unified in one place. Your campaigns reflect how customers actually shop and not just what they do when they’re browsing from home.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Insights and reports
+ 
+ 
+CLV, churn risk, RFM, and revenue attribution in clean dashboards. A clear line between your marketing activities and business outcomes — not just open rates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"Voyado provided us with the perfect all-in-one solution"
+ 
+Carlijn Masteling, Online Content Marketer at Dille & Kamille.
+ 
+ 
+ 
+ 
+ 
+ 
+Product Discovery
+ 
+ 
+ 
+ 
+How it's priced
+ 
+Fixed platform fee plus volume-based pricing based on monthly sessions and catalog size. Our customers see an average 15–20% conversion uplift.
+ 
+ 
+ 
+ 
+ 
+ 
+Retail-trained AI search
+ 
+ 
+ 
+ 
+ 
+ 
+Relevance and personalization
+ 
+ 
+ 
+ 
+ 
+ 
+Automated merchandising
+ 
+ 
+ 
+Talk to sales
+ 
+ 
+ 
+ 
+Key Features: 
+ 
+ 
+ 
+ 
+ 
+ 
+Retail-native search
+ 
+ 
+Search that understands your catalog the way a merchandiser does. Typo tolerance, synonym handling, color and image detection. Personalized results for every shopper.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI recommendations
+ 
+ 
+The right product, in front of the right shopper, at the right moment. Upsell, alternatives, and “style with” suggestions that are adjustable to your merchandising rules.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Algorithmic merchandising
+ 
+ 
+Product placement that acts on trend signals, lifecycle data, and performance automatically. Your team sets the strategy. AI handles the execution.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connected recommendations
+ 
+ 
+Personalization that follows shoppers beyond search to product pages, cart, email, and every touchpoint in between.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Insights and reports
+ 
+ 
+Search performance, click-through, zero-result rates, and revenue impact in dashboards built for merchandisers and e-com teams, not data analysts.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"We can basically just lean back and watch how the Voyado algorithms and automation ensure that the best-selling products instantly receive the highest ranking after setting it up."
+ 
+Petter Forsman, Digital Visual Merchandiser & Art Director at MQ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start with one. Both is where results compound.
+ 
+ 
+When Customer Engagement and Product Discovery share data, the shopper browsing your site and the customer in your CRM are finally the same person. Campaigns get sharper. Recommendations get smarter. CLV grows faster.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Outcomes that came after retailers said yes:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++109%
+ 
+full-price shoppers 
+By Malene Birger
+ 
+ 
+ 
+ 
+ 
++27%
+ 
+online conversion 
+Dormy
+ 
+ 
+ 
+ 
+ 
++25%
+ 
+online sales 
+MQ Market
+ 
+ 
+ 
+ 
+ 
++23.9%
+ 
+conversion rate 
+Kronans Apotek
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Any doubts? 
+ We're here to help
+ 
+ 
+ 
+ 
+ 
+ 
+How does Voyado pricing work?
+ 
+ 
+Voyado is a SaaS subscription, and we don’t publish fixed list prices.The right setup depends on your business. Pricing is based on the products you adopt, the scale of your operation, and the markets you serve. Contact our team and we’ll put together a tailored proposal. You’ll always know what you’re paying for and why.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Do I need to buy the full suite, or can I start with one product?
+ 
+ 
+You can start with whichever product fits your most immediate need. Many retailers begin with Customer Engagement to unify their CRM, loyalty, and campaigns. Others start with Product Discovery to lift on-site conversion. Each product is best-of-breed on its own and significantly more powerful when they share the same data layer. Most customers expand over time as they see results compound.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What size of retailer is Voyado built for?
+ 
+ 
+Voyado is purpose-built for mid-market and enterprise omnichannel retailers. Typically brands with significant e-commerce volume, physical stores, and ambitions to grow across markets. We work with 500+ retail brands across 100 markets, including H&M Group, Kicks, Björn Borg, and Nudie Jeans. If you’re outgrowing generic tools or managing loyalty and CRM at scale, you’re likely a strong fit.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How is Voyado different from other CRM and search platforms?
+ 
+ 
+Most platforms are built for every industry and adapted for retail. Voyado is built only for retail. Every AI model, data structure, and feature is designed around how retailers actually operate: seasonal campaigns, SKU-level product data, loyalty mechanics, and omnichannel complexity. Our AI agent, Bonnie, is trained on real retail consumer behavior, not a generic model repurposed for e-commerce. That difference shows up in the results.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How long does it take to get up and running?
+ 
+ 
+Implementation timelines depend on your setup and the products you adopt, but most customers see value in weeks rather than months. Voyado integrates with the tools you already use; major e-commerce platforms, POS systems, payment providers, and ad channels including Meta, Google, and TikTok. Our onboarding team and certified implementation partners are with you from day one.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What does Agentic AI actually mean in practice?
+ 
+ 
+In Voyado, you’ll find Bonnie AI, an retail-trained agent thats embedded directly into the platform and connected to purchase, in-store, and loyalty data. It uses real-time behavioral signals to identify and execute next-best actions across marketing, CRM, and loyalty workflows.
+By operating within your existing data, context, and business logic, Bonnie ensures that insights and recommendations are based on actual customer behavior. Not generic models. This enables more relevant interactions, improved efficiency, and stronger customer lifetime value across the entire customer journey.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Does Voyado integrate with my existing tech stack?
+ 
+ 
+Yes. Voyado connects with the tools retailers already rely on; e-commerce platforms, POS systems, ad channels, and more. You can explore our full integration ecosystem at connect.voyado.com. During discovery, our team will assess your current stack to make sure everything connects cleanly before you sign anything.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How do I know if Voyado is right for us?
+ 
+ 
+The best way to find out is a conversation with one of our retail specialists. We’ll look at your current setup, your goals, and show you how retailers similar to yours are using Voyado today. No pressure, no generic demo, just a straight answer on whether it’s the right fit.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Voyado is the engine behind all the different phases and communication within the customer journey.”
+Claudia Moron, Head of eCommerce at Love Stories
+ 
+ 
+ 
+ 
+See full case
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a demo
+of Voyado
+See how retailers like yours use AI-powered customer engagement, product discovery, and loyalty to grow revenue — tailored to your business, not a generic walkthrough.
+Real results from retailers in your space
+A walkthrough built around your challenges
+Clear next steps from day one
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks! We will reach out to you soon. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+ 
+ 
+ 
+Voyado CX Suite
+ 
+ 
+ 
+Customer engagement
+ 
+ 
+ 
+Product discovery
+ 
+ 
+ 
+Integrations
+ 
+ 
+ 
+Customer cases
+ 
+ 
+ 
+ 
+ 
+ 
+About Voyado
+ 
+ 
+ 
+ 
+ 
+ 
+Careers
+ 
+ 
+ 
+News & Media
+ 
+ 
+ 
+Our partners
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+Security & Trust center
+ 
+ 
+ 
+Legal documentation
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Guides
+ 
+ 
+ 
+Product updates
+ 
+ 
+ 
+Help center
+ 
+ 
+ 
+Engage API documentation
+ 
+ 
+ 
+Elevate API documentation
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Privacy Policy

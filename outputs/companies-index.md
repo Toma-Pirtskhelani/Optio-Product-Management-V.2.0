@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **45 of 237**. Regenerated 2026-08-11.
+Enriched so far: **61 of 237**. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -54,47 +54,47 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Acquia | US | 2007 | — | api-platform | — | — | 2 | G | D | 4 |
 | Act-On | — | — | — | — | 1 | 12 | 2 | G | D | 4 |
 | Airship | — | 2019 | — | — | 4 | 12 | 2 | G | D | 4 |
-| Bird | — | — | — | — | — | — | 2 | G | N | 0 |
+| Bird | — | — | — | — | 6 | — | 2 | G | D | 4 |
 | Bloomreach | — | — | — | — | 5 | 12 | 2 | B | D | 4 |
-| Bluecore | — | — | — | — | — | — | 2 | G | N | 0 |
-| Capillary Technologies | — | — | — | — | — | — | 2 | G | N | 0 |
-| Cisco Systems | — | — | — | — | — | — | 2 | G | N | 0 |
+| Bluecore | — | — | — | — | 3 | — | 2 | G | D | 4 |
+| Capillary Technologies | — | — | — | — | — | — | 2 | G | D | 2 |
+| Cisco Systems | — | — | — | — | — | — | 2 | G | U | 0 |
 | Clear C2 | — | — | — | — | — | — | 2 | G | N | 0 |
-| ContactPigeon | — | — | — | — | — | — | 2 | G | N | 0 |
+| ContactPigeon | — | — | — | — | — | — | 2 | G | D | 2 |
 | Corefactors | — | — | — | — | — | — | 2 | G | N | 0 |
-| D-engage | — | — | — | — | — | — | 2 | G | N | 0 |
-| Diennea | — | — | — | — | — | — | 2 | G | N | 0 |
+| D-engage | — | — | — | on-premise | 7 | — | 2 | G | D | 4 |
+| Diennea | — | — | — | — | — | — | 2 | G | D | 2 |
 | EVAM | — | — | — | — | 4 | 12 | 2 | B | D | 3 |
 | HighLevel | — | — | — | — | 2 | — | 2 | 2 | D | 3 |
-| inConcert | — | — | — | — | — | — | 2 | G | N | 0 |
-| indigitall | — | — | — | — | — | — | 2 | G | N | 0 |
-| iPresso | — | — | — | — | — | — | 2 | G | N | 0 |
+| inConcert | — | — | — | — | — | — | 2 | G | D | 2 |
+| indigitall | — | — | — | — | 7 | 12 | 2 | G | D | 3 |
+| iPresso | — | — | — | — | 5 | 12 | 2 | G | D | 4 |
 | Listrak | — | — | — | — | 4 | — | 2 | G | D | 3 |
 | Maestra.io | — | — | — | — | — | — | 2 | G | N | 0 |
 | MailerLite | — | — | — | — | 1 | — | 2 | B | D | 4 |
 | Maropost | — | — | — | — | 3 | — | 2 | G | D | 4 |
-| MessageGears | — | — | — | — | — | — | 2 | G | N | 0 |
+| MessageGears | — | — | — | — | — | — | 2 | G | U | 0 |
 | Microsoft | — | — | legacy | — | — | — | 2 | G | D | 4 |
-| Mindmatrix | — | — | — | — | — | — | 2 | G | N | 0 |
-| NewZapp | — | — | — | — | — | — | 2 | G | N | 0 |
+| Mindmatrix | — | — | — | — | — | — | 2 | G | U | 0 |
+| NewZapp | — | — | — | — | — | — | 2 | G | U | 0 |
 | Nvecta | — | — | — | — | — | — | 2 | G | N | 0 |
-| OneSignal | — | — | — | — | — | — | 2 | G | N | 0 |
+| OneSignal | — | — | — | — | 6 | 12 | 2 | G | D | 4 |
 | OptiKPI | — | — | — | — | — | — | 2 | G | N | 0 |
 | Optimove | — | — | — | — | 6 | 12 | 2 | G | D | 3 |
 | Pegasystems | — | — | — | — | — | — | 2 | G | U | 0 |
 | Pipedrive | — | 2010 | — | on-premise | 2 | — | 2 | B | D | 4 |
-| Rapidops | — | — | — | — | — | — | 2 | G | N | 0 |
+| Rapidops | — | — | — | managed-service | 1 | 12 | 2 | G | D | 3 |
 | Salesmsg | — | — | — | — | 1 | — | 2 | B | D | 2 |
 | Sender | — | 2012 | — | — | 2 | — | 2 | B | D | 4 |
 | Sinch | — | — | — | saas-single-tenant | 6 | — | 2 | B | D | 4 |
 | SproutLoud | — | — | — | — | — | — | 2 | G | N | 0 |
-| Tidio | — | — | — | — | — | — | 2 | G | N | 0 |
-| Touchdown | — | — | — | — | — | — | 2 | G | N | 0 |
+| Tidio | — | — | — | — | 3 | 12 | 2 | G | D | 4 |
+| Touchdown | — | — | — | — | — | — | 2 | G | D | 2 |
 | Trueblue | — | — | — | — | — | — | 2 | G | N | 0 |
-| Voyado | — | — | — | — | — | — | 2 | G | N | 0 |
+| Voyado | — | — | — | — | 3 | — | 2 | G | D | 4 |
 | Webmaxy | — | — | — | — | — | — | 2 | G | N | 0 |
-| Webmecanik | — | — | — | — | — | — | 2 | G | N | 0 |
-| ZEPIC | — | — | — | — | — | — | 2 | G | N | 0 |
+| Webmecanik | — | — | — | — | — | — | 2 | G | D | 2 |
+| ZEPIC | — | — | — | — | 5 | 12 | 2 | G | D | 4 |
 | adnymics | — | — | — | — | — | — | 1 | G | N | 0 |
 | AEvent | — | — | — | — | — | — | 1 | G | N | 0 |
 | AfterShip | — | — | — | — | — | — | 1 | G | N | 0 |

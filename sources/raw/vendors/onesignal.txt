@@ -1,0 +1,5738 @@
+===== llms.txt :: https://onesignal.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+> Full documentation index, SDK/API links, and AI usage guidelines: [llms-full.txt](https://onesignal.com/llms-full.txt)
+# OneSignal
+OneSignal is a lifecycle customer engagement platform. It helps product, marketing, and engineering teams drive activation, retention, and revenue through orchestrated messaging across mobile push, web push, email, SMS/RCS, in-app messaging, and iOS Live Activities—delivering personalized, real-time experiences from onboarding to re-engagement at global scale.
+## Scale (onesignal.com homepage)
+* **1 in 4** — App publishers use OneSignal
+* **1.3 trillion** — Messages sent a year
+* **1.5 billion** — MAU powered by OneSignal
+* **200k** — Apps powered by OneSignal
+## Product
+### Messaging Channels
+* Mobile push: https://onesignal.com/mobile-push
+* Web push: https://onesignal.com/web-push
+* Email: https://onesignal.com/email
+* SMS & RCS: https://onesignal.com/rcs
+* In-app messaging: https://onesignal.com/in-app
+* Live Activities: https://onesignal.com/live-activities
+### Lifecycle & Automation
+* Journeys (automation): https://onesignal.com/journeys
+* Event-based messaging & triggers (Journeys): https://documentation.onesignal.com/docs/en/journeys-overview
+* User segmentation: https://documentation.onesignal.com/docs/en/segmentation
+### Personalization & Data
+* User profiles & data: https://documentation.onesignal.com/docs/en/users
+* Tags & dynamic content: https://documentation.onesignal.com/docs/en/add-user-data-tags
+### Analytics & Optimization
+* Message analytics: https://documentation.onesignal.com/docs/en/analytics-overview
+* Outcomes tracking: https://documentation.onesignal.com/docs/en/custom-outcomes
+* A/B testing: https://documentation.onesignal.com/docs/en/ab-testing
+## Use Cases
+* User activation & onboarding
+* Lifecycle messaging & retention
+* Churn prevention & re-engagement
+* Transactional notifications
+* Promotions & announcements
+* Personalization at scale
+## Why OneSignal
+* Unified platform across mobile push, web push, email, SMS/RCS, and in-app messaging
+* Real-time delivery at global scale
+* Built for both developers and marketers
+* Flexible APIs and SDKs for fast integration
+* Designed to drive measurable lifecycle outcomes
+## Developers
+* Documentation: https://documentation.onesignal.com/
+* API Reference: https://documentation.onesignal.com/reference
+* SDKs & setup guides: https://documentation.onesignal.com/docs/en/developers
+* Quickstarts: https://documentation.onesignal.com/docs/en/quickstart-guide
+## Customers & Industries
+OneSignal is used by mobile apps, SaaS companies, e-commerce platforms, media companies, and marketplaces to improve engagement and retention.
+## Pricing
+* Pricing: https://onesignal.com/pricing
+## Resources
+* Blog: https://onesignal.com/blog
+* Case studies: https://onesignal.com/case-studies
+* Support & contact: https://onesignal.com/contact
+* Security & privacy: https://onesignal.com/privacy
+* Technical compliance FAQ (documentation): https://documentation.onesignal.com/docs/en/data-questions
+## Company
+* Homepage: https://onesignal.com/
+* About: https://onesignal.com/about
+
+===== homepage :: https://onesignal.com/
+--- SIGNALS ---
+title: Customer Engagement Platform for Email, Push… - OneSignal
+meta_description: The world's leader for mobile push notifications, web push, SMS, email and in-app messaging. Trusted by 2 million+ businesses to send 12 billion+ messages per…
+og_description: 
+og_site_name: 
+h1: Your users are churning. AI can bring them back.
+h2: Autonomous lifecycle marketing orchestrates the campaigns to onboard, engage, and retain users. | One engine. Every stage of the lifecycle. | Onboard | Engage | Retain | Real results from teams like yours | Connect to your stack | Integrations for smarter engagement | Scale confidently with proven reliability | Keep more of the users you earn
+jsonld_org: [{"@id": "#identity", "@type": "Corporation", "name": "OneSignal", "sameAs": ["https://twitter.com/onesignal", "https://www.facebook.com/onesignalapp", "https://www.linkedin.com/company/onesignal", "https://www.youtube.com/channel/UCe63d5EDQsSkOov-bIE_8Aw", "https://www.instagram.com/onesignal/", "https://github.com/OneSignal/"]}, {"@id": "#creator", "@type": "Corporation", "name": "OneSignal"}]
+--- TEXT ---
+Customer Engagement Platform for Email, Push… - OneSignal
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to Content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+ 
+ Messaging Channels -->
+ 
+Messaging channels
+ 
+ 
+ 
+ 
+ 
+Mobile push notifications
+ 
+Direct, highly visible, mobile-first
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+Direct, reach any browser visit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+ 
+Easy email built for real impact
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-app messaging
+ 
+Visual, customizable, reach all app users
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RCS
+ 
+Turn texts into branded experiences
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+Effective, fast, mobile-first
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Live Activities
+ 
+Highlight real-time app updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Features -->
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+OneSignal AI
+ 
+ 
+ 
+ 
+ 
+Journeys
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+ 
+ 
+ 
+ 
+Segmentation
+ 
+ 
+ 
+ 
+ 
+Analytics
+ 
+ 
+ 
+ 
+ 
+Events
+ 
+ 
+ 
+ 
+ 
+API
+ 
+ 
+ 
+ 
+ 
+SDKs
+ 
+ 
+ 
+ 
+ 
+Integrations directory
+ 
+ 
+ 
+ 
+ View More Features
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+Gaming
+ 
+ 
+ 
+ 
+ 
+News/Media
+ 
+ 
+ 
+ 
+ 
+eCommerce
+ 
+ 
+ 
+ 
+ 
+Mobile apps
+ 
+ 
+ 
+ 
+ 
+Fintech/Financial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See product tour
+ 
+ 
+Check out OneSignal in action with self-guided interactive demos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ Resource Library -->
+ 
+Resources
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+eBooks
+ 
+ 
+ 
+Customer case studies
+ 
+ 
+ 
+Webinars
+ 
+ 
+ 
+Podcasts
+ 
+ 
+ 
+Tools & templates
+ 
+ 
+ 
+Company events
+ 
+ 
+ 
+ View all resources
+ 
+ 
+ 
+ 
+ 
+ 
+ More -->
+ 
+More to explore
+ 
+ 
+ 
+ Use cases
+ 
+ 
+ 
+ Demo videos
+ 
+ 
+ 
+ Notification preview tool
+ 
+ 
+ 
+ Why OneSignal?
+ 
+ 
+ 
+ ROI of switching
+ 
+ 
+ 
+ OneSignal Solution Partners
+ 
+ 
+ 
+ Glossary
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See product tour
+ 
+ 
+Check out OneSignal in action with self-guided interactive demos
+ 
+ 
+ 
+ 
+ 
+ 
+Documentation
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+Sign up
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+ 
+Talk to sales
+ 
+Get started now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Your users are churning. AI can bring them back.
+ 
+Autonomous lifecycle marketing orchestrates the campaigns to onboard, engage, and retain users.
+ 
+ 
+ 
+Get started now
+ 
+Talk to sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ One engine. Every stage of the lifecycle.
+ 
+ 
+ 
+ 
+ 
+ Drive LTV and reduce churn without the manual effort. Define your brand guardrails and let OneSignal AI handle the rest, including drafting, sending, testing, and optimizing.
+ 
+ 
+ 
+Explore OneSignal AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 in 4
+ 
+ 
+ 
+ App publishers use OneSignal
+ 
+ 
+ 
+ 
+ 
+1.3 Trillion
+ 
+ 
+ 
+ Messages sent a year
+ 
+ 
+ 
+ 
+ 
+1.5 Billion
+ 
+ 
+ 
+ MAU powered by OneSignal
+ 
+ 
+ 
+ 
+ 
+200k
+ 
+ 
+ 
+ Apps powered by OneSignal
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Onboard
+ 
+Turn signups into activated users
+ 
+Fintech growth teams watch too many users stall before making a first deposit. First-week activation is the metric on the line.
+ 
+ 
+Explore Journeys
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engage
+ 
+Build the habits that matter
+ 
+Gaming studios ship new game modes, but most players never try it. Generic blasts only train them to tune out notifications.
+ 
+ 
+Explore Personalization
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retain
+ 
+Catch churn before it happens
+ 
+A health & wellness app loses users silently  they don't cancel, they fade. By the time renewal fails, it's too late.
+ 
+ 
+Explore Analytics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rated 4.7 stars out of 5 on G2
+ 
+ 
+ Real results from teams like yours
+ 
+ 
+ 
+ From mobile gaming to fintech, OneSignal customers don't just send messages. They activate users, build habits, and grow revenue
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“We use OneSignal because it’s simple to use and there’s the possibility of scaling campaigns.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Traci Trang
+ 
+CRM Specialist
+ ,
+ Taptap Send
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beach Bum Games uses OneSignal to re-engage players and boost retention across their entire portfolio
+ 
+ 
+ 
+ 
++250%
+ 
+ 
+ 
+ 
+Click-through rates
+ 
+ 
+ 
+ 
++140%
+ 
+ 
+ 
+ 
+Paid user reactivation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“I love OneSignal AI. It took what used to take hours of manual reporting and gave me the answer in 10 seconds.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Laura Allison
+ 
+CRM Manager
+ ,
+ DC Thomson
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bitcoin.com turns messaging into a growth lever—engaging, educating, and launching new features seamlessly
+ 
+ 
+ 
+ 
++15%
+ 
+ 
+ 
+ 
+Average daily transaction attempts
+ 
+ 
+ 
+ 
++11%
+ 
+ 
+ 
+ 
+Average daily completed transactions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“The quality of the service is very good, what we’re doing is performing very well, and the platform is easy to use.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos Costa
+ 
+Product Director
+ ,
+ TAG Heuer
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From onboarding to re-engagement, Betmate uses OneSignal Journeys to deliver the right message at every step
+ 
+ 
+ 
+ 
++600%
+ 
+ 
+ 
+ 
+MAU (unique, paying users)
+ 
+ 
+ 
+ 
++625%
+ 
+ 
+ 
+ 
+User spending per month
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect to your stack
+ 
+ 
+ 
+ Start with an AI prompt or drop in our SDKs for Android, iOS, Flutter, React Native, Expo, and Unity. No complex setup. Just fast integration that gets your lifecycle messaging live the same day.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Select SDK
+ 
+ 
+ Android
+ 
+ iOS
+ 
+ Flutter
+ 
+ React Native
+ 
+ Expo
+ 
+ Unity
+ 
+ 
+ 
+ 
+ 
+Android
+ 
+iOS
+ 
+Flutter
+ 
+React Native
+ 
+Expo
+ 
+Unity
+ 
+ 
+ 
+ 
+ Copy
+ 
+ 
+ 
+ Copied!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrate the OneSignal Android SDK into this codebase.
+Follow the instructions at:
+https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/android/ai-prompt.md
+ 
+ 
+// Initialize SDK during app bootstrapping
+package com.onesignal.sample.android
+import android.app.Application
+import com.onesignal.OneSignal
+class MainApplication : Application() {
+override fun onCreate() {
+super.onCreate()
+OneSignal.initWithContext(this, "APP_ID")
+}
+}
+ 
+ 
+ 
+ 
+AI prompt
+ 
+Code snippet
+ 
+ 
+ 
+ 
+ 
+ Copy
+ 
+ 
+ 
+ Copied!
+ 
+ 
+ 
+View documentation
+ 
+View documentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrate the OneSignal iOS SDK into this codebase.
+Follow the instructions at:
+https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/ios/ai-prompt.md
+ 
+ 
+import SwiftUI
+import DotEnv
+import OneSignalFramework
+@main
+struct MyApp: App {
+@UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+ 
+var body: some Scene {
+WindowGroup {
+ContentView()
+}
+}
+}
+class AppDelegate: UIResponder, UIApplicationDelegate, OSInAppMessageLifecycleListener {
+func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil) -> Bool {
+let env = DotEnv(withFile: ".env")
+env.load()
+ 
+OneSignal.initialize(env.get("ONESIGNAL_APP_ID"), withLaunchOptions: launchOptions)
+ 
+return true
+}
+}
+ 
+ 
+ 
+ 
+AI prompt
+ 
+Code snippet
+ 
+ 
+ 
+ 
+ 
+ Copy
+ 
+ 
+ 
+ Copied!
+ 
+ 
+ 
+View documentation
+ 
+View documentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrate the OneSignal Flutter SDK into this codebase.
+Follow the instructions at:
+https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/flutter/ai-prompt.md
+ 
+ 
+import 'package:flutter/material.dart';
+import 'package:onesignal_flutter/onesignal_flutter.dart';
+import 'package:flutter_application_la/live_actiivties_manager.dart';
+void main() {
+runApp(const MyApp());
+}
+class MyApp extends StatelessWidget {
+const MyApp({super.key});
+@override
+Widget build(BuildContext context) {
+LiveActivitiesManager.register();
+OneSignal.initialize("<<YOUR_APP_ID>>");
+OneSignal.Notifications.requestPermission(true);
+return MaterialApp(
+title: 'Flutter Demo',
+theme: ThemeData(
+colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+useMaterial3: true,
+),
+home: const MyHomePage(title: 'Flutter Demo Home Page'),
+);
+}
+}
+ 
+ 
+ 
+ 
+AI prompt
+ 
+Code snippet
+ 
+ 
+ 
+ 
+ 
+ Copy
+ 
+ 
+ 
+ Copied!
+ 
+ 
+ 
+View documentation
+ 
+View documentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrate the OneSignal React Native SDK into this codebase.
+Follow the instructions at:
+https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/react-native/ai-prompt.md
+ 
+ 
+import * as React from 'react';
+import { APP_ID } from '@env';
+import { OneSignal} from 'react-native-onesignal';
+class OS extends React.Component<Props, State> {
+constructor(props: Props) {
+super(props);
+this.state = { };
+}
+async componentDidMount() {
+OneSignal.initialize(APP_ID);
+}
+}
+ 
+ 
+ 
+ 
+AI prompt
+ 
+Code snippet
+ 
+ 
+ 
+ 
+ 
+ Copy
+ 
+ 
+ 
+ Copied!
+ 
+ 
+ 
+View documentation
+ 
+View documentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrate the OneSignal Expo SDK into this codebase.
+Follow the instructions at:
+https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/react-native-expo/ai-prompt.md
+ 
+ 
+import React, { useEffect } from 'react';
+// Include the OneSignal package
+import { OneSignal, LogLevel } from 'react-native-onesignal';
+ 
+export default function App(): React.JSX.Element {
+// Initialize OneSignal in useEffect to ensure it runs only once
+useEffect(() => {
+// Enable verbose logging for debugging (remove in production)
+OneSignal.Debug.setLogLevel(LogLevel.Verbose);
+// Initialize with your OneSignal App ID
+OneSignal.initialize('YOUR_APP_ID');
+// Use this method to prompt for push notifications.
+// We recommend removing this method after testing and instead use In-App Messages to prompt for notification permission.
+OneSignal.Notifications.requestPermission(false);
+}, []); // Ensure this only runs once on app mount
+}
+ 
+ 
+ 
+ 
+AI prompt
+ 
+Code snippet
+ 
+ 
+ 
+ 
+ 
+ Copy
+ 
+ 
+ 
+ Copied!
+ 
+ 
+ 
+View documentation
+ 
+View documentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrate the OneSignal Unity SDK into this codebase.
+Follow the instructions at:
+https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/unity/ai-prompt.md
+ 
+ 
+using System;
+using UnityEngine;
+using UnityEngine.UI;
+using OneSignalSDK;
+public class ExampleBehaviour : MonoBehaviour
+{
+public OSConfigData configData;
+public string externalId;
+private void Start()
+{
+OneSignal.Initialize(configData.appId);
+}
+ 
+private void _userStateChanged(object sender, UserStateChangedEventArgs e) {
+// OneSignal ID and External ID are available in event state
+// e.g., `e.state.Current.OneSignalId`
+}
+ 
+public void LoginUser() {
+OneSignal.Login(externalId);
+}
+ 
+public void SetExternalIdString(string newVal) => externalId = newVal;
+ 
+ 
+}
+ 
+ 
+ 
+ 
+AI prompt
+ 
+Code snippet
+ 
+ 
+ 
+ 
+ 
+ Copy
+ 
+ 
+ 
+ Copied!
+ 
+ 
+ 
+View documentation
+ 
+View documentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Integrations for smarter engagement
+ 
+ 
+ 
+ 
+ 
+ Connect OneSignal to your analytics, CDP, warehouse, and CRM to make lifecycle outcomes easier to measure and improve.
+ 
+ 
+ 
+View all integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scale confidently with proven reliability
+ 
+OneSignal makes reaching customers seamless and scalable. Powering billions of messages daily, we help businesses of all sizes connect with their audiences in real time — across push, email, SMS/RCS, and in-app messaging — anywhere in the world.
+ 
+ 
+View security & privacy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Keep more of the users you earn
+ 
+Push, email, SMS/RCS, and in-app messaging in one platform.  Free to start, built to scale.
+ 
+ 
+ 
+Get started now
+ 
+Talk to sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+Mobile push notifications
+ 
+ 
+ 
+Web push notifications
+ 
+ 
+ 
+Email
+ 
+ 
+ 
+In-app messaging
+ 
+ 
+ 
+RCS
+ 
+ 
+ 
+SMS
+ 
+ 
+ 
+Live Activities
+ 
+ 
+ 
+Journeys
+ 
+ 
+ 
+Integrations directory
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+Resources library
+ 
+ 
+ 
+Customer case studies
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Notification preview tool
+ 
+ 
+ 
+Glossary
+ 
+ 
+ 
+ 
+ 
+Developers
+ 
+ 
+ 
+Documentation
+ 
+ 
+ 
+GitHub
+ 
+ 
+ 
+Code samples
+ 
+ 
+ 
+Developer Community
+ 
+ 
+ 
+Status
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+About us
+ 
+ 
+ 
+Careers
+ 
+ 
+ 
+Why OneSignal?
+ 
+ 
+ 
+Contact sales
+ 
+ 
+ 
+Newsroom
+ 
+ 
+ 
+Partner program
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OneSignal is the market leading customer engagement solution for push notifications, email, SMS, in-app messaging, and Live Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Security & privacy
+ 
+ 
+ 
+Terms of use
+ 
+ 
+ 
+Acceptable use policy
+ 
+ 
+ 
+Software lifecycle policy
+ 
+ 
+ 
+ 
+ 
+Back to top
+
+===== product :: https://onesignal.com/features
+--- SIGNALS ---
+title: Features - OneSignal
+meta_description: Take advantage of countless opportunities to up-level your messaging strategy and streamline your workflow
+og_description: 
+og_site_name: 
+h1: Features to optimize your messaging strategy and drive ROI
+h2: Optimization | Audience engagement | Campaign management & automation | Building for tomorrow, today | Schedule a demo
+jsonld_org: [{"@id": "#identity", "@type": "Corporation", "name": "OneSignal", "sameAs": ["https://twitter.com/onesignal", "https://www.facebook.com/onesignalapp", "https://www.linkedin.com/company/onesignal", "https://www.youtube.com/channel/UCe63d5EDQsSkOov-bIE_8Aw", "https://www.instagram.com/onesignal/", "https://github.com/OneSignal/"]}, {"@id": "#creator", "@type": "Corporation", "name": "OneSignal"}]
+--- TEXT ---
+Features - OneSignal
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to Content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+ 
+ Messaging Channels -->
+ 
+Messaging channels
+ 
+ 
+ 
+ 
+ 
+Mobile push notifications
+ 
+Direct, highly visible, mobile-first
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+Direct, reach any browser visit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+ 
+Easy email built for real impact
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-app messaging
+ 
+Visual, customizable, reach all app users
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RCS
+ 
+Turn texts into branded experiences
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+Effective, fast, mobile-first
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Live Activities
+ 
+Highlight real-time app updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Features -->
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+OneSignal AI
+ 
+ 
+ 
+ 
+ 
+Journeys
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+ 
+ 
+ 
+ 
+Segmentation
+ 
+ 
+ 
+ 
+ 
+Analytics
+ 
+ 
+ 
+ 
+ 
+Events
+ 
+ 
+ 
+ 
+ 
+API
+ 
+ 
+ 
+ 
+ 
+SDKs
+ 
+ 
+ 
+ 
+ 
+Integrations directory
+ 
+ 
+ 
+ 
+ View More Features
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+Gaming
+ 
+ 
+ 
+ 
+ 
+News/Media
+ 
+ 
+ 
+ 
+ 
+eCommerce
+ 
+ 
+ 
+ 
+ 
+Mobile apps
+ 
+ 
+ 
+ 
+ 
+Fintech/Financial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See product tour
+ 
+ 
+Check out OneSignal in action with self-guided interactive demos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ Resource Library -->
+ 
+Resources
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+eBooks
+ 
+ 
+ 
+Customer case studies
+ 
+ 
+ 
+Webinars
+ 
+ 
+ 
+Podcasts
+ 
+ 
+ 
+Tools & templates
+ 
+ 
+ 
+Company events
+ 
+ 
+ 
+ View all resources
+ 
+ 
+ 
+ 
+ 
+ 
+ More -->
+ 
+More to explore
+ 
+ 
+ 
+ Use cases
+ 
+ 
+ 
+ Demo videos
+ 
+ 
+ 
+ Notification preview tool
+ 
+ 
+ 
+ Why OneSignal?
+ 
+ 
+ 
+ ROI of switching
+ 
+ 
+ 
+ OneSignal Solution Partners
+ 
+ 
+ 
+ Glossary
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See product tour
+ 
+ 
+Check out OneSignal in action with self-guided interactive demos
+ 
+ 
+ 
+ 
+ 
+ 
+Documentation
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+Sign up
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+ 
+Talk to sales
+ 
+Get started now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features to optimize your messaging strategy and drive ROI
+ 
+ 
+Take advantage of countless opportunities to up-level your messaging strategy and streamline your workflow
+ 
+ 
+ Get started now 
+ 
+ Talk to sales 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Optimization
+ 
+ 
+ Work smarter, not harder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A/B Testing
+ 
+ 
+ 
+ 
+Test to see what messages resonate most with your users to optimize campaign performance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analytics
+ 
+ 
+ 
+ 
+Industry-leading event tracking to drive goal-based results
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+ 
+ 
+See how OneSignal works with your favorite apps and services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Intelligent Delivery
+ 
+ 
+ 
+ 
+Your secret weapon to achieve perfect timing, every time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Localization
+ 
+ 
+ 
+ 
+Streamline your messaging workflow without losing anything in translation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Message Throttling
+ 
+ 
+ 
+ 
+Too much of a good thing? We've got you covered
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Audience engagement
+ 
+ 
+ Nurture meaningful and lasting connections with your audience
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-App Carousel
+ 
+ 
+ 
+ 
+Improve your onboarding, feature announcements, recommendations, and more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-App Surveys
+ 
+ 
+ 
+ 
+Gain invaluable insight from your most engaged audience with in-app surveys
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Permission Prompts
+ 
+ 
+ 
+ 
+Unlock new channels and engagement opportunities with easy-to-implement permission prompts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+ 
+ 
+ 
+Automate and send personalized messages based on real-time user behavior, preferences, and cross-channel engagement
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segmentation
+ 
+ 
+ 
+ 
+Create highly relevant messaging campaigns based on real-time user engagement
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Campaign management & automation
+ 
+ 
+ Streamline your workflow and scale with confidence
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+API
+ 
+ 
+ 
+ 
+A powerful way to send personalized messages at scale and build effective customer engagement strategies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Journeys
+ 
+ 
+ 
+ 
+An easy-to-use visual workflow builder to automate your messaging and guide your users
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SDKs
+ 
+ 
+ 
+ 
+Easily integrate best-in-class SDKs to engage users at scale
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ 
+ 
+ 
+Create polished notifications, emails, SMS, and in-app messages in seconds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Building for tomorrow, today
+ 
+ 
+We strive to stay one step ahead of the curve in order to pave the way for your success. Check out our blog to learn more about countless other product improvements, updates, and recent milestones.
+ 
+ 
+ Learn more about new features & updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Trusted by leading businesses
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Schedule a demo
+ 
+ 
+ 
+ Learn how our omnichannel solution helps you improve conversion, boost engagement, and retain users
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks! You're all set.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+Mobile push notifications
+ 
+ 
+ 
+Web push notifications
+ 
+ 
+ 
+Email
+ 
+ 
+ 
+In-app messaging
+ 
+ 
+ 
+RCS
+ 
+ 
+ 
+SMS
+ 
+ 
+ 
+Live Activities
+ 
+ 
+ 
+Journeys
+ 
+ 
+ 
+Integrations directory
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+Resources library
+ 
+ 
+ 
+Customer case studies
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Notification preview tool
+ 
+ 
+ 
+Glossary
+ 
+ 
+ 
+ 
+ 
+Developers
+ 
+ 
+ 
+Documentation
+ 
+ 
+ 
+GitHub
+ 
+ 
+ 
+Code samples
+ 
+ 
+ 
+Developer Community
+ 
+ 
+ 
+Status
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+About us
+ 
+ 
+ 
+Careers
+ 
+ 
+ 
+Why OneSignal?
+ 
+ 
+ 
+Contact sales
+ 
+ 
+ 
+Newsroom
+ 
+ 
+ 
+Partner program
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OneSignal is the market leading customer engagement solution for push notifications, email, SMS, in-app messaging, and Live Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Security & privacy
+ 
+ 
+ 
+Terms of use
+ 
+ 
+ 
+Acceptable use policy
+ 
+ 
+ 
+Software lifecycle policy
+ 
+ 
+ 
+ 
+ 
+Back to top
+
+===== pricing_or_trust :: https://onesignal.com/pricing
+--- SIGNALS ---
+title: Pricing - OneSignal
+meta_description: Start with 10,000 free emails, free unlimited mobile push, and 10,000 free web push. Let’s find a plan that’s right for you.
+og_description: 
+og_site_name: 
+h1: Transparent pricing for every stage of growth
+h2: Self-service plans | Annual plans | Comprehensive feature breakdown | Growth plan cost calculator | Frequently asked questions | Keep more of the users you earn
+jsonld_org: [{"@id": "#identity", "@type": "Corporation", "name": "OneSignal", "sameAs": ["https://twitter.com/onesignal", "https://www.facebook.com/onesignalapp", "https://www.linkedin.com/company/onesignal", "https://www.youtube.com/channel/UCe63d5EDQsSkOov-bIE_8Aw", "https://www.instagram.com/onesignal/", "https://github.com/OneSignal/"]}, {"@id": "#creator", "@type": "Corporation", "name": "OneSignal"}]
+--- TEXT ---
+Pricing - OneSignal
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to Content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+ 
+ Messaging Channels -->
+ 
+Messaging channels
+ 
+ 
+ 
+ 
+ 
+Mobile push notifications
+ 
+Direct, highly visible, mobile-first
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+Direct, reach any browser visit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+ 
+Easy email built for real impact
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-app messaging
+ 
+Visual, customizable, reach all app users
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RCS
+ 
+Turn texts into branded experiences
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+Effective, fast, mobile-first
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Live Activities
+ 
+Highlight real-time app updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Features -->
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+OneSignal AI
+ 
+ 
+ 
+ 
+ 
+Journeys
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+ 
+ 
+ 
+ 
+Segmentation
+ 
+ 
+ 
+ 
+ 
+Analytics
+ 
+ 
+ 
+ 
+ 
+Events
+ 
+ 
+ 
+ 
+ 
+API
+ 
+ 
+ 
+ 
+ 
+SDKs
+ 
+ 
+ 
+ 
+ 
+Integrations directory
+ 
+ 
+ 
+ 
+ View More Features
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+Gaming
+ 
+ 
+ 
+ 
+ 
+News/Media
+ 
+ 
+ 
+ 
+ 
+eCommerce
+ 
+ 
+ 
+ 
+ 
+Mobile apps
+ 
+ 
+ 
+ 
+ 
+Fintech/Financial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See product tour
+ 
+ 
+Check out OneSignal in action with self-guided interactive demos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ Resource Library -->
+ 
+Resources
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+eBooks
+ 
+ 
+ 
+Customer case studies
+ 
+ 
+ 
+Webinars
+ 
+ 
+ 
+Podcasts
+ 
+ 
+ 
+Tools & templates
+ 
+ 
+ 
+Company events
+ 
+ 
+ 
+ View all resources
+ 
+ 
+ 
+ 
+ 
+ 
+ More -->
+ 
+More to explore
+ 
+ 
+ 
+ Use cases
+ 
+ 
+ 
+ Demo videos
+ 
+ 
+ 
+ Notification preview tool
+ 
+ 
+ 
+ Why OneSignal?
+ 
+ 
+ 
+ ROI of switching
+ 
+ 
+ 
+ OneSignal Solution Partners
+ 
+ 
+ 
+ Glossary
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See product tour
+ 
+ 
+Check out OneSignal in action with self-guided interactive demos
+ 
+ 
+ 
+ 
+ 
+ 
+Documentation
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+Sign up
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+ 
+Talk to sales
+ 
+Get started now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transparent pricing for every stage of growth
+ 
+Choose the right plan for your business
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Self-service plans
+ 
+ 
+ 
+ 
+Free
+ 
+ 
+ 
+ 
+$0/mo
+ 
+ 
+Free access to all channels
+Message limits may apply
+ 
+ 
+ 
+Get started now
+ 
+ 
+ 
+Free access to:
+ 
+ 
+ 
+ 
+ 
+10,000/mo Free Email Sends
+ 
+ 
+ 
+ 
+ 
+ 
+Unlimited Mobile Push Sends
+ 
+ 
+ 
+ 
+ 
+ 
+Basic Analytics & Automation
+ 
+ 
+ 
+ 
+ 
+ 
+Basic Marketing Capabilities
+ 
+ 
+ 
+ 
+ 
+ 
+MCP and OneSignal AI (Beta)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Growth
+ 
+ 
+ 
+ 
+ 
+Starts at
+ 
+$19/mo
+ 
+ 
+ 
+Plus usage costs by channel
+ 
+Estimate your monthly cost
+ 
+ 
+ 
+ 
+Get started now
+ 
+Questions? Contact Us
+ 
+ 
+ 
+All features from
+ 
+Free
+ +
+ 
+ 
+ 
+ 
+ 
+Unlimited In-App Messaging
+ 
+ 
+ 
+ 
+ 
+ 
+Improved Analytics & Automation
+ 
+ 
+ 
+ 
+ 
+ 
+Improved Marketing Capabilities
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise Integrations
+ 
+ 
+ 
+ 
+ 
+ 
+Permission Management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annual plans
+ 
+ 
+ 
+ 
+Professional
+ 
+ 
+ 
+ 
+Custom
+ 
+ 
+Pricing by channel
+Volume-based discounting available
+ 
+ 
+ 
+ 
+Contact sales
+ 
+ 
+ 
+All features from
+ 
+Growth
+ +
+ 
+ 
+ 
+ 
+ 
+24/7 Prioritized Support
+ 
+ 
+ 
+ 
+ 
+ 
+Advanced Marketing Capabilities
+ 
+ 
+ 
+ 
+ 
+ 
+Advanced Permission Management
+ 
+ 
+ 
+ 
+ 
+ 
+Personalized Platform Implementation
+ 
+ 
+ 
+ 
+ 
+ 
+SMS & RCS Messaging
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise
+ 
+ 
+ 
+ 
+Custom
+ 
+ 
+Tailored contract & features
+Volume-based discounting available
+ 
+ 
+ 
+ 
+Contact sales
+ 
+ 
+ 
+All features from
+ 
+Professional
+ +
+ 
+ 
+ 
+ 
+ 
+Unlimited Personalization & Automation
+ 
+ 
+ 
+ 
+ 
+ 
+Dedicated Success Manager
+ 
+ 
+ 
+ 
+ 
+ 
+Security/Legal Package & SLA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Frequency Capping
+ 
+ 
+ 
+ 
+ 
+ 
+2-Year Reporting History
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comprehensive feature breakdown
+ 
+ 
+ Compare the features and benefits of each plan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Developer Friendly Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free
+ 
+$0/mo
+ 
+Get started now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Growth
+ 
+Starts at $19/mo
+ 
+Get started now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Professional
+ 
+Custom
+ 
+Contact sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise
+ 
+Custom
+ 
+Contact sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Messaging channels
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mobile Push Notifications
+ 
+ 
+ 
+Unlimited mobile push
+ 
+ 
+ 
+$0.012 per monthly active user
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+ Web Push Notifications
+ 
+ 
+ 
+Max 10,000 subscribers per send
+ 
+ 
+ 
+$0.004 per web push subscriber
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+In-App Messaging
+ 
+ 
+ 
+ 1 active message
+ 
+ 
+ 
+ 
+Unlimited, included with mobile push
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+Email
+ 
+ 
+ 
+10,000 free sends / month
+ 
+ 
+ 
+ 
+500k emails monthly">20,000 free sends / month, then $1.50 / 1,000 sends
+ 
+ 
+ 
+ 
+ Custom
+ 
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+SMS / RCS
+ 
+ 
+ 
+Talk to Sales to discuss trial or pricing.
+ 
+ 
+ 
+ 
+Live Activities
+ 
+ 
+ Max 10,000 total push subscribers
+ 
+ 
+ 
+ 
+ Max 100,000 total push subscribers
+ 
+ 
+ 
+ 
+ Custom
+ 
+ 
+ 
+ 
+ Custom
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Journeys
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Active Journeys
+ 
+ 
+ 
+1
+ 
+ 
+ 
+3
+ 
+ 
+ 
+20
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+Message Steps
+ 
+ 
+ 
+2
+ 
+ 
+ 
+6
+ 
+ 
+ 
+50
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+Branching
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cross-channel flows
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quickstart Journeys
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tag users
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visual workflow builder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No-code and HTML message builders
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Webhooks Steps
+ 
+ 
+ 
+Available on annual plans. Talk to Sales to discuss pricing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Message personalization
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Audience Segments
+ 
+ 
+ 
+6
+ 
+ 
+ 
+10
+ 
+ 
+ 
+20
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+Data Tags
+ 
+ 
+ 
+ 
+2
+ 
+ 
+ 
+ 
+ 
+10
+ 
+ 
+ 
+ 
+ 
+100
+ 
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+Message Events
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custom Events
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Message Event Retention
+ 
+ 
+ 
+ —
+ 
+ 
+ 
+ 
+ 30 days
+ 
+ 
+ 
+ 
+ 60 days
+ 
+ 
+ 
+ 
+ 90 days
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contacts
+ 
+ 
+ 
+ 
+Unlimited
+ 
+ 
+ 
+ 
+Unlimited
+ 
+ 
+ 
+Unlimited
+ 
+ 
+ 
+Unlimited
+ 
+ 
+ 
+ 
+ 
+API Send Access
+ 
+ 
+ 
+Unlimited
+ 
+ 
+ 
+Unlimited
+ 
+ 
+ 
+Unlimited
+ 
+ 
+ 
+Unlimited
+ 
+ 
+ 
+ 
+ 
+A/B Testing
+ 
+ 
+ 
+Basic
+ 
+ 
+ 
+Basic
+ 
+ 
+ 
+ 
+Advanced
+ 
+ 
+ 
+ 
+ 
+Advanced
+ 
+ 
+ 
+ 
+ 
+ 
+Personalized Notifications
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Timezone Delivery
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Category Opt In Prompt
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HTML Editor
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custom Data Uploads
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Auto Warm Up
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dynamic Content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Intelligent Delivery
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Time Delayed Sends
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Confirmed Receipt
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Message Throttling
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Push & SMS Retargeting
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-App Carousel Messages
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conversion Metrics
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User Activity Timeline
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advanced Analytics
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notification Data Exports (CSV)
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notification History API
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Frequency Capping
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email IPs
+ 
+ 
+ 
+ Shared IP Only
+ 
+ 
+ 
+ 
+ Shared IP Only
+ 
+ 
+ 
+ 
+ Dedicated IP available based on volume
+ 
+ 
+ 
+ 
+ Dedicated IP available based on volume
+ 
+ 
+ 
+ 
+ 
+Reporting History
+ 
+ 
+ 
+ Up to 30 days
+ 
+ 
+ 
+ 
+ Up to 90 days
+ 
+ 
+ 
+ 
+ Up to 1 year
+ 
+ 
+ 
+ 
+ Up to 2 years
+ 
+ 
+ 
+ 
+ 
+ 
+Event Streams
+ 
+ 
+ 
+ 
+Limited
+ 
+ 
+ 
+ 
+ 
+Essential
+ 
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+ 
+30+ Core
+ 
+ 
+ 
+ 
+30+ Core plus
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30+ Core plus
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30+ Core plus
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Premium Integrations
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ 
+Available for Purchase
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Available for Purchase
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Security & compliance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User Permissions
+ 
+ 
+ 
+Admin
+ 
+ 
+ 
+Admin + Viewer
+ 
+ 
+ 
+All roles
+ 
+ 
+ 
+All roles
+ 
+ 
+ 
+ 
+ 
+GDPR Compliance
+ 
+ 
+ 
+Compliant
+ 
+ 
+ 
+Compliant w/ DPA
+ 
+ 
+ 
+Compliant w/ DPA
+ 
+ 
+ 
+Compliant w/ DPA
+ 
+ 
+ 
+ 
+ 
+Data Protection
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Two-Factor Authentication
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Audit Logs
+ 
+ 
+ 
+ 48 hrs
+ 
+ 
+ 
+ 
+ 48 hrs
+ 
+ 
+ 
+ 
+ 
+48 hrs
+*
+ 
+ 
+ 
+ 
+ 90 days
+ 
+ 
+ 
+ 
+ 
+ 
+Custom Security & Legal Package
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+Talk to Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Service Level Agreement (SLA)
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+Available
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ongoing Support
+ 
+ 
+ 
+Email
+ 
+ 
+ 
+ 
+Prioritized Email
+ 
+ 
+ 
+24/7 Prioritized Email
+ 
+ 
+ 
+24/7 Prioritized Email & SRE On Call Support
+ 
+ 
+ 
+ 
+ 
+Jump Start Onboarding Support
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+Talk to Sales
+ 
+ 
+ 
+ Talk to Sales
+ 
+ 
+ 
+ 
+ 
+Dedicated Success Manager
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+ Talk to Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Growth plan cost calculator
+ 
+ 
+ 
+ 
+ 
+ 
+Mobile push notifications
+ 
+Mobile users active in the last 30 days
+ 
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+ Web push subscribers
+ 
+ 
+ 
+ 
+Email
+ 
+ Email campaigns per month
+ 
+ 
+ Target audience size for email campaigns
+ 
+ 
+ 
+ Number of email sends
+ 
+0
+ 
+ 
+ 
+ 
+ 
+In-app messaging
+ 
+ Free and unlimited w/ mobile push
+ 
+ 
+ 
+SMS / RCS
+ 
+ 
+Talk to sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Your cost breakdown
+ 
+ 
+Growth plan
+ 
+ 
+ 
+Platform cost
+ 
+$19.00
+ 
+ 
+ 
+Messaging channels
+ 
+ 
+ 
+Mobile push notifications
+ 
+ 
+$0.00
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+ 
+$0.00
+ 
+ 
+ 
+ 
+Email
+ 
+ 
+$0.00
+ 
+ 
+ 
+ 
+In-app messaging
+ 
+ 
+Included w/ mobile push
+ 
+ 
+ 
+ 
+SMS / RCS
+ 
+ 
+Talk to sales
+ 
+ 
+ 
+ 
+ 
+Total estimated cost per month
+ 
+$19.00
+ 
+ 
+ 
+Talk to us for volume-based discounting, support package, custom contract, and more
+ 
+ 
+Talk to a product specialist
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequently asked questions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Which plan should I choose?
+ 
+ 
+ 
+ 
+ 
+Each company has unique needs. While many users decide on a plan based on feature requirements, these are the general guidelines we had in mind:
+ 
+ 
+Free Plan: Designed for companies with basic messaging needs or companies that want to try out OneSignal first before choosing a paid plan
+ 
+Growth Plan: Designed for companies that are starting to level up their messaging capabilities
+ 
+Annual Professional Plan: Designed for companies that have more complex targeting and segmentation needs
+ 
+Annual Enterprise Plan: Designed for companies with sophisticated messaging needs or companies that would like an annual contract
+ 
+ 
+ 
+Learn more about OneSignal's pricing
+ in our blog post. You can
+ 
+calculate your estimated costs for our Growth Plan
+, or feel free to email us at
+ 
+support+sales@onesignal.com
+ or
+ 
+send us a chat to discuss
+.
+ 
+ 
+ 
+ 
+ 
+ 
+How do you charge?
+ 
+ 
+ 
+ 
+ 
+OneSignal's paid plans have a fixed platform fee and variable usage fee.
+ 
+ 
+For mobile push notifications, we charge based on monthly active mobile users, and you get an unlimited volume of sends as well as an unlimited volume of in-app messages.
+ 
+For web push notifications, we charge based on subscribers, and you get an unlimited volume of sends.
+ 
+ 
+For email and SMS, we charge based on the volume of sends.
+ 
+ 
+ The Growth Plan is month-to-month. The Professional and Enterprise Plans are on an annual contract and can be customized with volume-based pricing.
+ 
+ 
+ 
+ 
+ 
+ 
+What is a monthly active user (MAU) for mobile push?
+ 
+ 
+ 
+ 
+ 
+A monthly active user is a mobile subscription record that has been active in your mobile app within the last 30 days, regardless of whether it has opted in for mobile push notifications.
+ 
+Specifically, mobile includes Android, iOS, Chrome Extensions, macOS, Windows, Windows Phone, Alexa, and Amazon Fire devices. Mobile does not include web push, email, or SMS.
+ 
+This includes mobile devices that have not opted in to push, as in-app messages can be delivered to all active app users.
+ 
+ 
+ 
+ 
+ 
+ 
+What is a web push subscriber?
+ 
+ 
+ 
+ 
+ 
+A web push subscriber is a device that has opted in to push notifications on your website. This includes websites on both desktop and mobile browsers.
+ 
+Unsubscribed devices are not included in your subscriber counts.
+ 
+ 
+ 
+ 
+ 
+ 
+How do I upgrade my plan?
+ 
+ 
+ 
+ 
+ 
+If you are interested in upgrading to the Growth Plan, you can easily
+ 
+upgrade in your dashboard
+. Simply choose the appropriate organization and navigate to the Billing tab.
+ 
+If you are interested in upgrading to a Professional or Enterprise Plan or would like a custom annual contract with volume-based pricing,
+ 
+contact our Sales team
+.
+ 
+ 
+ 
+ 
+ 
+ 
+How can I pay?
+ 
+ 
+ 
+ 
+ 
+We accept online payments through Visa, MasterCard, American Express, Discover, Diners Club International, JCB, and PayPal.
+ 
+Billing is handled securely by Recurly with 128-bit SSL encryption. We don't save any of your billing information on our site.
+ 
+Customers on our annual Professional or Enterprise Plans may also have the option to pay by wire or ACH. Those on GCP can contract OneSignal through the GCP Marketplace, which will reduce legal review, greatly simplify procurement, and allow you to burn down committed spend if applicable.
+ 
+ 
+ 
+ 
+ 
+ 
+Can I pay in my local currency?
+ 
+ 
+ 
+ 
+ 
+At this time, OneSignal only accepts payments in USD. When making payments, please ensure that all invoices are paid in USD.
+ 
+Customers on our annual Professional or Enterprise Plans may also have the option to pay in their local currency via our global network of reseller partners. Coverage currently includes APAC (Australia, Bangladesh, India, Korea, Thailand, Turkey, Vietnam), LATAM (Argentina, Brazil, Mexico, Uruguay), and MENA (Dubai, South Africa), and we're continuously adding more. To learn more about this option or if you don’t see your preferred currency listed,
+ 
+contact our Sales team
+.
+ 
+ 
+ 
+ 
+ 
+ 
+What if I decide to downgrade or cancel?
+ 
+ 
+ 
+ 
+ 
+If you are on a Growth Plan, th

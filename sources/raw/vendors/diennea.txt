@@ -1,0 +1,1011 @@
+===== llms.txt :: https://diennea.com/llms.txt
+--- SIGNALS ---
+title: Unauthorized Request Blocked
+meta_description: 
+og_description: 
+og_site_name: 
+h1: Unauthorized Activity Detected
+h2: 
+jsonld_org: []
+--- TEXT ---
+Unauthorized Request Blocked
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unauthorized Activity Detected
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+You are seeing this page because we have detected unauthorized activity.
+ If you believe that there has been some mistake, 
+ 
+ Click 
+ 
+ to e-mail our website-security team and describe your case.
+ 
+ 
+ 
+ 
+Case Number:
+
+===== homepage :: https://www.diennea.com/
+--- SIGNALS ---
+title: Home Page - Diennea
+meta_description: 
+og_description: Communication,simplified. Amiamo profondamente la semplificazione e sappiamo come ottenerla, perché gestire la complessità fa parte del nostro diennea. Communication,simplified. Amiamo profondamente la semplificazione e sappiamo come ottenerla, perché gestire la complessità fa parte del nostro diennea. Scopri di più Nel nostro diennea Gli elementi che ci rendono ciò che siamo. Le nostre due linee di […]
+og_site_name: Diennea
+h1: Communication,simplified. | Communication,simplified.
+h2: Nel nostro diennea | Più che semplici numeri | Chi siamo | Soluzioni open source | Lavora con noi | Media kit | Parlaci del tuo progetto | diennea | i nostri brand | normativa
+jsonld_org: [{"@type": "Organization", "@id": "https://www.diennea.com/#organization", "name": "Diennea", "url": "https://www.diennea.com/", "logo": {"@type": "ImageObject", "inLanguage": "it-IT", "@id": "https://www.diennea.com/#/schema/logo/image/", "url": "https://www.diennea.com/wp-content/uploads/2021/04/logo-diennea-2021-socio-netcomm.png", "contentUrl": "https://www.diennea.com/wp-content/uploads/2021/04/logo-diennea-2021-socio-netcomm.png", "width": 374, "height": 80, "caption": "Diennea"}, "image": {"@id": "https://www.diennea.com/#/schema/logo/image/"}}]
+--- TEXT ---
+Home Page - Diennea
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chi siamo
+ 
+Parità di Genere
+Carriere
+ 
+Induction
+ 
+Processo selezione
+ 
+Stage e tesi
+ 
+Welfare
+ 
+Lavora con noi
+Open Source
+ 
+Majordodo
+ 
+BlazingCache
+ 
+HerdDB
+ 
+Docet
+Media kit
+Contatti
+ITA
+ENG
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chi siamo
+ 
+Parità di Genere
+Carriere
+ 
+Induction
+ 
+Processo selezione
+ 
+Stage e tesi
+ 
+Welfare
+ 
+Lavora con noi
+Open Source
+ 
+Majordodo
+ 
+BlazingCache
+ 
+HerdDB
+ 
+Docet
+Media kit
+Contatti
+ITA
+ENG
+ 
+ 
+ 
+ 
+ 
+ 
+Chi siamo
+ 
+Parità di Genere
+Carriere
+ 
+Induction
+ 
+Processo selezione
+ 
+Stage e tesi
+ 
+Welfare
+ 
+Lavora con noi
+Open Source
+ 
+Majordodo
+ 
+BlazingCache
+ 
+HerdDB
+ 
+Docet
+Media kit
+Contatti
+ITA
+ENG
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Linkedin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Communication,
+simplified.
+ 
+ 
+ 
+ 
+ 
+Amiamo profondamente la semplificazione e sappiamo come ottenerla, perché gestire la complessità fa parte del nostro diennea.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Communication,
+simplified.
+ 
+ 
+ 
+ 
+ 
+Amiamo profondamente la semplificazione e sappiamo come ottenerla, perché gestire la complessità fa parte del nostro diennea.
+ 
+ 
+ 
+ 
+ 
+Scopri di più
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nel nostro diennea
+Gli elementi che ci rendono ciò che siamo.
+Le nostre due linee di business costituite dai servizi consulenziali e dalle soluzioni di natura tecnologica. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+L’hub di servizi orientati a soddisfare le necessità di trasformazione digitale sfruttando la sinergia tra strategia, creatività e tecnologia, sviluppando processi in grado di rendere più efficienti ed efficaci le comunicazioni delle aziende clienti, grazie ad una profonda conoscenza degli ecosistemi digitali e delle metodologie per la gestione multicanale del contatto.
+ 
+ 
+ 
+ 
+ 
+Vai su t.bd.it
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La soluzione modulare ed estensibile per governare le esigenze di comunicazione integrata e i processi di business interni ed esterni all’azienda. Magnews permette di realizzare progetti di comunicazione multicanale, marketing personalizzato e automatico su vasta scala, formazione aziendale e gestione dell’esperienza digitale con risultati misurabili.
+ 
+ 
+ 
+ 
+ 
+Vai su magnews.it
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Più che semplici numeri
+I numeri che parlano di noi
+Lavoriamo da oltre due decenni nel mondo digitale con una dedizione profonda. Abbiamo percorso molta strada insieme ai brand che ci hanno dato la loro fiducia e alle persone che ci hanno messo idee e abilità.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sedi
+ 
+ 
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dipendenti
+ 
+ 
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clienti
+ 
+ 
+ 
+0
+ 
++
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I brand con cui progettiamo il futuro ogni giorno.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chi siamo
+Di cosa ci occupiamo.
+Affianchiamo i brand nel percorso di evoluzione digitale trasformando la complessità in progetti comunicativi chiari e attrattivi, utilizzando strategia, tecnologia e creatività.
+Scopri diennea
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Soluzioni open source
+Progettiamo il futuro, in libertà.
+Lavorare con team internazionali su progetti open source è prima di tutto un’occasione per fare la nostra parte, in un mondo da cui ognuno di noi attinge continuamente. Questo contributo realizza la nostra continua voglia di crescere e trovare nuovi stimoli oltre l’orizzonte quotidiano.
+ 
+ 
+ 
+ 
+ 
+Majordodo
+Majordodo gestisce le risorse in un sistema grid, distribuendole con criteri di service agreement.
+Vedi il progetto
+ 
+BlazingCache
+BlazingCache è una cache distribuita per applicazioni Java, implementa lo standard industriale JSR107 JCache.
+Vedi il progetto
+ 
+HerdDB
+HerdDB è un database distribuito, studiato per essere integrato nelle applicazioni Java, programmabile in SQL.
+Vedi il progetto
+ 
+Docet
+Docet è un sistema di documentazione per app web Java Enterprise, per la creazione di supporto online integrato.
+Vedi il progetto
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lavora con noi
+Stai cercando nuove sfide? Le hai appena trovate.
+In diennea trovi opportunità, progetti stimolanti e valori da condividere. Consulta le posizioni aperte, candidati per quella più adatta alle tue competenze e lascia un segno nei lavori e nella quotidianità delle persone con cui entrerai in contatto.
+Lavora con noi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Media kit
+Collaborazioni chiare e trasparenti. Da manuale.
+Scarica i nostri documenti e manuali di brand che contengono informazioni chiave, linee guida e indicazioni dettagliate legate all’utilizzo del marchi diennea sui diversi canali di comunicazione.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company profile
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Missione, organizzazione, approccio, milestone e numeri sono ciò che utilizziamo per presentarci in maniera chiara nel panorama italiano e internazionale.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scarica
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brand manual
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Logo, font, typography, colori, imagery, tono di voce sono elementi indispensabili per raccontare in maniera coerente la nostra identità.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scarica
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Parlaci del tuo progetto
+Contattaci
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nome
+*
+Cognome
+*
+Email aziendale
+*
+ 
+ 
+Azienda
+*
+Telefono
+*
+Messaggio
+*
+Ho letto e compreso la 
+Privacy Policy
+ e accetto integralmente i 
+Termini d'Uso
+.
+Marketing
+ 
+ 
+Acconsento al trattamento dei miei dati personali per 
+finalità di marketing
+ 
+Profilazione
+ 
+ 
+Acconsento al trattamento dei miei dati personali per 
+finalità di profilazione
+ 
+CAPTCHA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Linkedin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+diennea
+ 
+ 
+ 
+ 
+ 
+ 
+Chi siamo
+ 
+Parità di Genere
+Carriere
+ 
+Induction
+ 
+Processo selezione
+ 
+Stage e tesi
+ 
+Welfare
+ 
+Lavora con noi
+Open Source
+ 
+Majordodo
+ 
+BlazingCache
+ 
+HerdDB
+ 
+Docet
+Media kit
+Contatti
+ITA
+ENG
+ 
+ 
+ 
+Chi siamo
+ 
+Parità di Genere
+Carriere
+ 
+Induction
+ 
+Processo selezione
+ 
+Stage e tesi
+ 
+Welfare
+ 
+Lavora con noi
+Open Source
+ 
+Majordodo
+ 
+BlazingCache
+ 
+HerdDB
+ 
+Docet
+Media kit
+Contatti
+ITA
+ENG
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i nostri brand
+ 
+ 
+ 
+ 
+ 
+ 
+tbd
+Magnews
+EmailSuccess
+ 
+ 
+ 
+tbd
+Magnews
+EmailSuccess
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+normativa
+ 
+ 
+ 
+ 
+ 
+ 
+Cookie
+Privacy Policy
+Termini d’uso
+Whistleblowing
+Documentazione legale e privacy
+ 
+ 
+ 
+Cookie
+Privacy Policy
+Termini d’uso
+Whistleblowing
+Documentazione legale e privacy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2021 Diennea S.r.l. All Rights Reserved P.IVA 02243600398
+Registro delle imprese di Ravenna Capitale Sociale: 111.495,65

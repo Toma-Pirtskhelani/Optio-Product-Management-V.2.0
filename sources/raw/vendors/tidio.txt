@@ -1,0 +1,2511 @@
+===== llms.txt :: https://www.tidio.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+﻿# Tidio
+> Tidio is a customer support software suite comprising live chat, chatbot, AI chatbot (AI agent), help desk, and ticketing features. Tidio integrates with websites, ecommerce platforms (such as Shopify and WooCommerce), communications channels (such as Facebook Messenger, Instagram, and WhatsApp), and other tools to provide automated, enhanced customer service.
+Learn more about the Tidio customer service platform:
+## About Tidio
+- [Tidio Homepage](https://www.tidio.com/)
+- [About Tidio](https://www.tidio.com/about/): Learn about Tidio, the B2B SaaS company behind customer service software.
+ - [About Lyro](https://www.tidio.com/blog/lyro-conversational-ai/): Meet Lyro, the AI agent for customer service
+- [Tidio Pricing](https://www.tidio.com/pricing/): See how much Tidio costs.
+ - [Tidio Premium Plans](https://www.tidio.com/tidio-premium/): Find out more about Tidio Premium.
+## Access
+- [Log In](https://www.tidio.com/panel/login): Log into your Tidio account.
+- [Sign Up](https://www.tidio.com/panel/register): Register a new Tidio account.
+## Demos
+- [Lyro AI Agent Playground](https://www.tidio.com/ai-agent/playground/): Experience Lyro, Tidio’s AI agent in action.
+- [Watch Tidio Demo](https://www.tidio.com/watch-demo/): Watch a video demo of Tidio.
+## Tidio Comparisons
+- [Tidio vs. Gorgias](https://www.tidio.com/vs/gorgias/)
+- [Tidio vs. Intercom](https://www.tidio.com/vs/intercom/)
+- [Tidio vs. LiveChat](https://www.tidio.com/vs/live-chat/)
+- [Tidio vs. Zendesk](https://www.tidio.com/vs/zendesk/)
+## Features
+- [All Features Overview](https://www.tidio.com/features/)
+### Core Features 
+- [Lyro](https://www.tidio.com/ai-agent/): AI agent for customer service and conversational AI chatbot
+- [Flows](https://www.tidio.com/flows/): Automation and rule-based chatbot builder
+- [Help Desk](https://www.tidio.com/help-desk/): Help desk software
+- [Live Chat](https://www.tidio.com/live-chat/): Live chat software for websites
+- [Ticketing System](https://www.tidio.com/ticketing/)
+### Additional Features
+- [Analytics Dashboard](https://www.tidio.com/analytics/)
+- [Visitors List Tool](https://www.tidio.com/visitors-list/)
+### Features by Use Case
+- [Tidio for Ecommerce](https://www.tidio.com/industry/ecommerce/)
+- [Tidio for Customer Service](https://www.tidio.com/solutions/customer-service/)
+- [Tidio for Marketing and Sales](https://www.tidio.com/solutions/marketing-and-sales/)
+## Integrations
+- [All Integrations](https://www.tidio.com/integrations/): See how Tidio can integrate with your technology stack.
+### Channel Integrations
+- [Instagram Integration](https://www.tidio.com/integrations/instagram/)
+- [Messenger Integration](https://www.tidio.com/integrations/messenger/)
+- [WhatsApp Integration](https://www.tidio.com/integrations/whatsapp/)
+- [Shared Inbox](https://www.tidio.com/shared-inbox/)
+- [Multichannel Communication](https://www.tidio.com/multichannel/)
+### Platform Integrations
+- [BigCommerce Integration](https://www.tidio.com/integrations/bigcommerce/)
+- [Ecwid Integration](https://www.tidio.com/integrations/ecwid/)
+- [Shopify Integration](https://www.tidio.com/integrations/shopify/)
+- [WordPress Integration](https://www.tidio.com/integrations/wordpress/)
+- [PrestaShop Integration](https://www.tidio.com/integrations/prestashop/)
+- [Shopware Integration](https://www.tidio.com/integrations/shopware/)
+- [Squarespace Integration](https://www.tidio.com/integrations/squarespace/)
+- [Weebly Integration](https://www.tidio.com/integrations/weebly/)
+- [Wix Integration](https://www.tidio.com/integrations/wix/)
+## Pricing
+| Plan | Description | Price |
+| --- | --- | --- |
+| Free | For solo entrepreneurs. | 0 USD/mo. |
+| Starter | Ideal for small businesses focused on enhancing customer satisfaction via live chat support. | 24.17 USD/mo. |
+| Growth | Ideal for teams of all sizes prioritizing customer service as their competitive advantage. | Starts at 49.17 USD/mo. |
+| Plus | For businesses requiring better limits, additional integrations, advanced features, and premium support. | Starts at 749 USD/mo. |
+| Premium | For more complex businesses. | Starts at 2999 USD/mo. |
+| Feature Category | Feature | Free | Starter | Growth | Plus | Premium |
+| --- | --- | --- | --- | --- | --- | --- |
+| Customer Support Quota | Billable conversations | 50 | 100 | 250 (up to 2000 via upgrade) | Custom | Unlimited |
+| Customer Support Quota | Seats | 10 | 10 | 10 | Custom | Custom |
+| Live Chat & Ticketing | Live Chat | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Live Chat & Ticketing | Help Desk | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Live Chat & Ticketing | Email management system | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Live Chat & Ticketing | Live video calls | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Lyro AI Agent | Lyro AI Agent conversations | 50 free (50–300 via upgrade) | 50 free (50–300 via upgrade) | 50 free (50–300 via upgrade) | Custom | Custom |
+| Lyro AI Agent | Lyro AI Agent tasks | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Lyro AI Agent | FAQ upload | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Lyro AI Agent | FAQ scraper | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Lyro AI Agent | Website scraper | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Lyro AI Agent | Lyro Connect | ✗ | ✗ | ✗ | ✓ | ✓ |
+| Lyro AI Agent | Lyro custom name | ✗ | ✗ | ✗ | ✓ | ✓ |
+| Lyro AI Agent | Lyro product recommendation | available via upgrade to 50–300 Lyro AI Agent conversations | available via upgrade to 50–300 Lyro AI Agent conversations | available via upgrade to 50–300 Lyro AI Agent conversations | ✓ | ✓ |
+| Flows | Visitors reached via Flows | 100 free, 2k–100k via upgrade | 100 free, 2k–100k via upgrade | 100 free, 2k–100k via upgrade | Custom | Custom |
+| Flows | Sales Flows templates | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Flows | FAQ Flows templates | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Flows | Visual Flows builder | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Features | Tidio AI reply assistant | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Features | Basic analytics | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Features | Live visitors list | ✗ | ✓ | ✓ | ✓ | ✓ |
+| Features | Operating hours | ✗ | ✓ | ✓ | ✓ | ✓ |
+| Features | Chat page | ✗ | ✓ | ✓ | ✓ | ✓ |
+| Features | Advanced analytics | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Live typing | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Viewed pages history | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Visitors info | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Visitor notes | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Automatic response | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Automatic chat assignment | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Automated satisfaction survey | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Automated conversation solving | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Macros | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Permissions | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Native Shopify actions | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Features | Multiproject | ✗ | ✗ | ✗ | ✓ | ✓ |
+| Features | Departments | ✗ | ✗ | ✗ | ✓ | ✓ |
+| Features | Multilanguage | ✗ | ✗ | ✗ | ✓ | ✓ |
+| Features | OpenAPI | ✗ | ✗ | ✗ | ✓ | ✓ |
+| Integrations | Messenger | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Instagram | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | WhatsApp | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Email | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | ActiveCampaign | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Adobe Commerce | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Agile CRM | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Brevo | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Drupal | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Ecwid | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Google Analytics (GA4) | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Google Tag Manager | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | HubSpot | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Jimdo | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Joomla | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Judge.me | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Klaviyo | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Mailchimp | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | MailerLite | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Omnisend | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | OpenAPI | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | OpenCart | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Pipedrive | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | PrestaShop | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Salesforce | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | SendInBlue | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Shift4Shop | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Shopify | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Shopware | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Site123 | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Squarespace | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Webydo | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Weebly | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Wix | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | WooCommerce | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | WordPress | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Zapier | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Zendesk | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Zendesk Sell | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Zoho CRM | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Integrations | Custom integrations | ✗ | ✗ | ✗ | ✗ | ✓ |
+| Apps | Desktop app | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Apps | Mobile app | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Services | Support over email | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Services | Support over live chat | ✗ | ✓ | ✓ | ✓ | ✓ |
+| Services | Flows building & strategy assistance | ✗ | ✗ | ✗ | ✓ | ✓ |
+| Services | Dedicated Success Manager | ✗ | ✗ | ✗ | ✓ | ✓ |
+| Services | Training sessions | ✗ | ✗ | ✗ | ✓ | ✓ |
+| Services | Account reviews | ✗ | ✗ | ✗ | ✓ | ✓ |
+| Services | Priority Service + Premium Support | ✗ | ✗ | ✗ | ✗ | ✓ |
+| Services | Super admin role | ✗ | ✗ | ✗ | ✗ | ✓ |
+| Services | Analysis & monitoring | ✗ | ✗ | ✗ | ✗ | ✓ |
+| Services | Lyro as a managed service | ✗ | ✗ | ✗ | ✗ | ✓ |
+| Customization | Widget customization | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Customization | No Tidio branding | ✗ | ✗ | Add-on (16.67 USD/mo.) | ✓ | ✓ |
+| Customization | Custom branding | ✗ | ✗ | ✗ | ✓ | ✓ |
+### "Lyro AI conversations" upgrade
+| Conversations | Price (USD/mo.) |
+| ------------- | ---------------- |
+| 50 | 32.50 |
+| 100 | 62.50 |
+| 150 | 91.67 |
+| 200 | 116.67 |
+| 300 | 175.00 |
+### "Visitors reached with Flows" upgrade
+| Visitors Reached | Price (USD/mo.) |
+| ---------------- | ---------------- |
+| 2,000 | 24.17 |
+| 3,000 | 32.50 |
+| 5,000 | 40.83 |
+| 10,000 | 57.50 |
+| 15,000 | 70.83 |
+| 20,000 | 82.50 |
+| 30,000 | 99.17 |
+| 40,000 | 115.83 |
+| 50,000 | 140.83 |
+| 75,000 | 199.17 |
+| 100,000 | 249.17 |
+## Resources
+- [Tidio Blog](https://www.tidio.com/blog/)
+- [Resources](https://www.tidio.com/resources/)
+- [ROI and Automation Calculators](https://www.tidio.com/resources/calculators/)
+- [Flow Builder Calculator](https://www.tidio.com/resources/calculators/flows/)
+- [Tidio ROI Calculator](https://roi-calculator.tidio.com/)
+- [Case Studies](https://www.tidio.com/customers/)
+- [Ebooks](https://www.tidio.com/resources/ebooks/)
+## Contact
+- [Contact](https://www.tidio.com/contact/): Get in touch with Tidio and its support team.
+- [Contact Sales](https://www.tidio.com/contact-sales/): Book a demo and talk to sales.
+## Help
+- [Help Center](https://help.tidio.com/hc/en-us): Help articles and frequently asked questions.
+- [Tidio Academy](https://academy.tidio.com/): Courses on Tidio and customer support.
+- [Resources for Developers](https://academy.tidio.com/): API, SDK, and other documentation.
+## Partnerships
+- [Affiliate Program](https://www.tidio.com/partners/affiliate/)
+- [Referral Program](https://www.tidio.com/partner-referral/)
+- [Partner Program](https://www.tidio.com/partners/)
+## Legal
+- [Privacy Policy](https://www.tidio.com/privacy-policy/)
+- [Security Policy](https://www.tidio.com/security-policy/)
+- [Security Practices](https://www.tidio.com/security/)
+- [Terms of Service](https://www.tidio.com/terms/)
+
+===== homepage :: https://www.tidio.com/
+--- SIGNALS ---
+title: AI Customer Service Agent, Customer Support Software | Tidio
+meta_description: Scale customer service without losing the human touch. Align a trustworthy AI agent with live chat and helpdesk tools, trusted by 300k+ businesses worldwide
+og_description: Scale customer service without losing the human touch. Align a trustworthy AI agent with live chat and helpdesk tools, trusted by 300k+ businesses worldwide
+og_site_name: Tidio
+h1: .css-1uk1gs8{margin:0;}More automation, less "I hate your support"
+h2: A complete service platform, built for human and AI alignment | ... you’d never risk AI damaging customer trust. | Trusted by brands that refuse to compromise on customer experience | ... you don’t want to replace your real team with robots. | ... your current AI agent disappoints customers and your team | One platform. Endless ways to improve customer service. | Elevate your support in three steps | How integrations should be | Join the new standard in customer service
+jsonld_org: [{"@type": "Organization", "@id": "https://www.tidio.com/#organization", "name": "Tidio", "url": "https://www.tidio.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.tidio.com/#/schema/logo/image/", "url": "https://www.tidio.com/wp-content/uploads/tidio-logo-square.png", "contentUrl": "https://www.tidio.com/wp-content/uploads/tidio-logo-square.png", "width": 696, "height": 696, "caption": "Tidio"}, "image": {"@id": "https://www.tidio.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/TidioCX/", "https://x.com/tidiocx", "https://www.youtube.com/channel/UCwAHN3_OptyMS_us7oxciqQ", "https://www.instagram.com/tidiocx/", "https://www.linkedin.com/company/tidio-ltd/", "https://play.google.com/store/apps/details?id=com.tidiochat.app", "https://apps.apple.com/us/app/tidio/id916822567", "https://www.g2.com/products/tidio/reviews", "https://www.capterra.com/p/144040/Tidio-Chat/", "https://www.producthunt.com/products/tidio-2", "https://www.trustpilot.com/review/www.tidio.com", "https://wordpress.org/plugins/tidio-live-chat/", "https://wordpress.com/plugins/tidio-live-chat", "https://apps.shopify.com/tidio-chat", "https://www.wikidata.org/wiki/Q133079799", "https://www.google.com/search?kgmid=/g/11hds3thy3", "https://www.google.com/search?kgmid=/g/11gxm8q990", "https://www.softwareadvice.com/live-chat/tidio-chat-profile/", "https://www.getapp.com/customer-service-support-software/a/tidio-chat/", "https://www.infotech.com/software-reviews/pro
+--- TEXT ---
+AI Customer Service Agent, Customer Support Software | Tidio
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Talk to us
+ 
+Tell us what you need and we'll design an agent around it
+arrow_right_alt
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tidio
+Reply faster to tickets across all channels
+ 
+check
+Lyro
+arrow_outward
+Hire AI to handle customer service
+Hubi AI
+arrow_outward
+Run on-brand marketing with an AI coworker
+Tidio Labs
+arrow_outward
+Get a custom AI solution built by experts
+ 
+ 
+ 
+ 
+Discover out other products
+ 
+ 
+Tidio
+Reply faster to tickets across all channels
+check
+Lyro
+arrow_outward
+Hire AI to handle customer service
+Hubi AI
+arrow_outward
+Run on-brand marketing with an AI coworker
+Tidio Labs
+arrow_outward
+Get a custom AI solution built by experts
+ 
+Lyro AI Agent
+ 
+ 
+ 
+ 
+ 
+ 
+Lyro AI Agent
+ 
+chevron_right
+ 
+ 
+ 
+ 
+ 
+ 
+keyboard_return
+See customer story
+ 
+ 
+ 
+diamond
+Discover Premium Plan
+ 
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+ 
+mail
+Contact Sales
+Product
+ 
+ 
+chat_bubble
+Live Chat
+chevron_right
+ 
+ 
+Lyro AI Agent
+ 
+chevron_right
+notification_multiple
+Help Desk
+chevron_right
+family_history
+Flows
+chevron_right
+apps
+Integrations
+chevron_right
+ 
+ 
+arrow_outward
+See all Tidio features
+ 
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+ 
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+ 
+Pricing
+Solutions
+ 
+ 
+ 
+ 
+Teams
+ 
+ 
+support_agent
+Customer Service
+payments
+Marketing & Sales
+Industries
+shopping_cart
+Ecommerce
+approval_delegation
+Services
+auto_stories
+Education
+account_balance
+Finance
+computer
+SaaS
+travel
+Travel
+Resources
+history_edu
+Customer Stories
+chevron_right
+menu_book
+Learn
+chevron_right
+trophy
+Compare
+chevron_right
+support
+Help Center
+chevron_right
+newsmode
+Blog
+chevron_right
+diversity_3
+Partner Programs
+chevron_right
+arrow_outward
+See all Resources
+ 
+Contact
+See Tidio in action
+Contact sales
+ 
+ 
+ 
+Start for free
+ 
+Contact sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.6 (1879+ reviews)
+ 
+ 
+ 
+ 
+More automation, less "I hate your support"
+ 
+ 
+ 
+Scale customer service without sacrificing customer trust or authenticity. Whether you want to improve support quality or automate up to 67% of conversations Tidio keeps support fast, reliable, and human.
+ 
+ 
+ 
+Start for free
+chevron_right
+ 
+No credit card required
+ 
+Contact sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Watch video
+play_circle
+ 
+ 
+ 
+ 
+ 
+Trusted by 300,000+ businesses:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A complete service platform, built for human and AI alignment
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI agent that customers actually love
+ 
+ 
+Train Lyro AI Agent on verified data sources to make sure all his responses are reliable and helpful. Get actionable suggestions what should be improved to increase Lyro CSAT and effectiveness.
+ 
+ 
+More about Lyro
+chevron_right
+ 
+The help desk your team deserves
+Turn messy workflows into organized support. Streamline customer service with intuitive interface, smart AI features and native integrations.
+More about Help Desk
+chevron_right
+More about Live Chat
+chevron_right
+ 
+Proactive automations that convert
+Capture more leads, close more sales and book more calls even when you’re offline. Use Flows and Lyro Smart Actions to make sure no opportunity is ever missed.
+More about Flows
+chevron_right
+ 
+ 
+ 
+ 
+67%
+ 
+The highest resolution rate on the market
+ 
+#1
+AI agent for SMBs
+ 
+300K+
+Trusted by customers, agents, and brands
+ 
+ 
+ 
+ 
+Customer
+ 
+service
+ 
+makes
+ 
+or
+ 
+breaks
+ 
+brands.
+ 
+That’s
+ 
+why
+ 
+there’s
+ 
+Tidio.
+ 
+It’s
+ 
+for
+ 
+you
+ 
+if...
+ 
+ 
+ 
+ 
+... you’d never risk AI damaging customer trust.
+ 
+Meet Lyro AI, the trustworthy AI agent that provides conversational and reliable answers in your brand voice. Strengthen each customer relationship with AI that can handle complex cases and act like human would.
+ 
+ 
+ 
+thumb_up
+Human-like responses
+ 
+forum
+Understanding context
+campaign
+Brand voice alignment
+group_add
+Best for teams & customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by brands that refuse to compromise on customer experience
+ 
+ 
+... you don’t want to replace your real team with robots.
+Make your customer service agents more skilled, not redundant. Automate boring tasks, so they can provide better care for priority customers and develop more technical skills.
+checklist
+Workflow organization
+query_stats
+Smart automation
+ballot
+Support task automation
+schedule
+Real-time scalability
+ 
+... your current AI agent disappoints customers and your team
+Most AI agents overpromise and underdeliver. Tidio is a reliable alternative aligned with your team and goals.
+hub
+Seamless integrations
+payments
+Cost efficiency
+lock
+Data security & privacy
+campaign
+Personalized AI responses
+checklist
+Advanced task execution
+ 
+ 
+ 
+ 
+One platform. Endless ways to improve customer service.
+ 
+ 
+ 
+ 
+ 
+ 
+90%
+ 
+of repetitive tasks handled by Lyro AI Agent
+25%
+increase in qualified leads with Live Chat
+$66K+
+in revenue generated by Lyro AI Agent
+70%
+increase in self-service resolution
+27%
+increase in conversion rates
+30%
+CSAT increase
+89%
+resolution rate with Lyro AI Agent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tailored solution
+ 
+ 
+Need a fully custom AI Agent?
+ 
+Work with our team to build an AI solution around your specific requirements. We handle the setup and implementation with you.
+ 
+ 
+ 
+ 
+Custom AI model training
+ 
+Unlimited AI Actions & Guidances
+ 
+Priority SLA
+ 
+Custom reporting
+ 
+SOC 2 & HIPAA compliance
+ 
+Custom integrations
+ 
+Contact sales
+ 
+Elevate your support in three steps
+1. Add Lyro without technical knowledge
+Keep your current setup. Add Lyro to your stack and instantly raise your support quality.
+ 
+Start for free
+chevron_right
+2. Integrate deeper
+Want to a custom-fit agent? Integrate Lyro with your systems using REST APIs, webhooks, JS actions, or Model Context Protocol (MCP). Add custom guidance or hire profesional services team that will improve it’s performance for you.
+See how it works
+chevron_right
+3. Scale with the full suite
+Optimize every part of your service with Tidio’s complete suite, giving customers fast, authentic help and equipping your agents with the tools they need.
+Contact sales
+chevron_right
+ 
+How integrations should be
+ 
+ 
+Find your workflow
+chevron_right
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and 120+ tools to integrate
+ 
+ 
+ 
+ 
+Join the new standard in customer service
+ 
+ 
+Give your customers answers they can trust. Give your team tools they love. And give your competitors customer service envy.
+ 
+ 
+Start for free
+chevron_right
+ 
+No credit card required
+ 
+Contact sales
+ 
+ 
+ 
+ 
+ 
+Tidio
+ 
+About
+FAQ
+Contact
+Partner Programs
+Careers
+Security
+Trust
+Reviews
+Newsroom
+Product
+Pricing
+Lyro AI Agent
+Help Desk
+Live Chat
+Flows
+All features
+Integrations
+Start for free
+Contact sales
+Resources
+Customer Stories
+Watch Demo
+AI Playground
+ROI Calculator
+Ebooks
+Blog
+Compare
+Tidio vs. Manychat
+Tidio vs. LiveChat
+Tidio vs. Intercom
+Tidio vs. Gorgias
+Tidio vs. Zendesk
+Tidio vs. Salesloft Drift
+Tidio vs. Chatfuel
+Tidio vs. Tawk.to
+All comparisons
+Support
+Help Center
+Developers
+Status Page
+Product Updates
+Roadmap
+Mobile SDK
+ 
+ 
+Contact sales
+Pricing
+ 
+ 
+ 
+ 
+★
+★
+★
+★
+★
+ 
+★
+★
+★
+★
+★
+ 
+ 
+4.6 on G2
+4.7 on Capterra
+4.7 on Shopify
+4.7 on Wordpress
+ 
+ 
+ 
+Join 300k+ businesses that use Tidio
+ 
+Improve your business with sales, support, and customer service automation
+ 
+ 
+Start for free
+ 
+Available on:
+ 
+ 
+ 
+Browser
+Android
+iOS
+Windows
+Mac
+ 
+ 
+ 
+ 
+CHATBOT
+ 
+Best AI Chatbots
+How to Create a Chatbot
+Best Chatbot Apps
+Best Chatbot Builders
+Best AI Chatbot Platforms
+LIVE CHAT
+Free Live Chat Software
+How to Add Live Chat to a Website
+Ecommerce Live Chat
+Best Live Chat Software
+Live Chat for Sales
+CUSTOMER SERVICE
+Best Help Desk Software
+Chat Widgets for Websites
+Live Chat for Customer Service
+WordPress Chatbot Plugins
+Customer Service Chatbots
+SALES
+Ecommerce Chatbots 
+Real Estate Chatbots
+Sales Chatbots
+Chatbots for Business
+AI Chatbot Examples
+PLATFORMS
+Shopify Live Chat Apps
+Shopify Chatbot Apps
+WordPress Chat Plugins
+Squarespace Chat Plugins
+Magento Live Chat Extensions
+CHANNELS
+Instagram Chatbots
+Facebook Messenger Chatbot
+WhatsApp Chatbot
+Instagram Bots for Reactions
+WhatsApp Automations
+ 
+ 
+ 
+Tidio
+ 
+2026
+. 
+All rights reserved.
+ 
+EN
+ 
+ 
+Privacy Policy
+Terms and Conditions
+ 
+Manage my privacy settings
+ 
+support@tidio.net
+
+===== product :: https://www.tidio.com/features/
+--- SIGNALS ---
+title: Tidio Features (All Plans)
+meta_description: Tidio offers a full scope of features designed to reinvent your customer support, create awesome experiences, and make your business thrive.
+og_description: Tidio offers a full scope of features designed to reinvent your customer support, create awesome experiences, and make your business thrive.
+og_site_name: Tidio
+h1: Tidio's tools and features
+h2: Lyro AI Agent | Live Chat | Ticketing | Flows | Communication Channels | Order Management (for Shopify) | Analytics | Customization | Departments | Support | Apps | Integrations
+jsonld_org: [{"@type": "Organization", "@id": "https://www.tidio.com/#organization", "name": "Tidio", "url": "https://www.tidio.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.tidio.com/#/schema/logo/image/", "url": "https://www.tidio.com/wp-content/uploads/tidio-logo-square.png", "contentUrl": "https://www.tidio.com/wp-content/uploads/tidio-logo-square.png", "width": 696, "height": 696, "caption": "Tidio"}, "image": {"@id": "https://www.tidio.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/TidioCX/", "https://x.com/tidiocx", "https://www.youtube.com/channel/UCwAHN3_OptyMS_us7oxciqQ", "https://www.instagram.com/tidiocx/", "https://www.linkedin.com/company/tidio-ltd/", "https://play.google.com/store/apps/details?id=com.tidiochat.app", "https://apps.apple.com/us/app/tidio/id916822567", "https://www.g2.com/products/tidio/reviews", "https://www.capterra.com/p/144040/Tidio-Chat/", "https://www.producthunt.com/products/tidio-2", "https://www.trustpilot.com/review/www.tidio.com", "https://wordpress.org/plugins/tidio-live-chat/", "https://wordpress.com/plugins/tidio-live-chat", "https://apps.shopify.com/tidio-chat", "https://www.wikidata.org/wiki/Q133079799", "https://www.google.com/search?kgmid=/g/11hds3thy3", "https://www.google.com/search?kgmid=/g/11gxm8q990", "https://www.softwareadvice.com/live-chat/tidio-chat-profile/", "https://www.getapp.com/customer-service-support-software/a/tidio-chat/", "https://www.infotech.com/software-reviews/pro
+--- TEXT ---
+Tidio Features (All Plans)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Talk to us
+ 
+Tell us what you need and we'll design an agent around it
+arrow_right_alt
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tidio
+Reply faster to tickets across all channels
+ 
+check
+Lyro
+arrow_outward
+Hire AI to handle customer service
+Hubi AI
+arrow_outward
+Run on-brand marketing with an AI coworker
+Tidio Labs
+arrow_outward
+Get a custom AI solution built by experts
+ 
+ 
+ 
+ 
+Discover out other products
+ 
+ 
+Tidio
+Reply faster to tickets across all channels
+check
+Lyro
+arrow_outward
+Hire AI to handle customer service
+Hubi AI
+arrow_outward
+Run on-brand marketing with an AI coworker
+Tidio Labs
+arrow_outward
+Get a custom AI solution built by experts
+ 
+Lyro AI Agent
+ 
+ 
+ 
+ 
+ 
+ 
+Lyro AI Agent
+ 
+chevron_right
+ 
+ 
+ 
+ 
+ 
+ 
+keyboard_return
+See customer story
+ 
+ 
+ 
+diamond
+Discover Premium Plan
+ 
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+ 
+mail
+Contact Sales
+Product
+ 
+ 
+chat_bubble
+Live Chat
+chevron_right
+ 
+ 
+Lyro AI Agent
+ 
+chevron_right
+notification_multiple
+Help Desk
+chevron_right
+family_history
+Flows
+chevron_right
+apps
+Integrations
+chevron_right
+ 
+ 
+arrow_outward
+See all Tidio features
+ 
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+ 
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+ 
+Pricing
+Solutions
+ 
+ 
+ 
+ 
+Teams
+ 
+ 
+support_agent
+Customer Service
+payments
+Marketing & Sales
+Industries
+shopping_cart
+Ecommerce
+approval_delegation
+Services
+auto_stories
+Education
+account_balance
+Finance
+computer
+SaaS
+travel
+Travel
+Resources
+history_edu
+Customer Stories
+chevron_right
+menu_book
+Learn
+chevron_right
+trophy
+Compare
+chevron_right
+support
+Help Center
+chevron_right
+newsmode
+Blog
+chevron_right
+diversity_3
+Partner Programs
+chevron_right
+arrow_outward
+See all Resources
+ 
+Contact
+See Tidio in action
+Contact sales
+ 
+ 
+ 
+Start for free
+ 
+Contact sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Close X
+ 
+dashboard_customize
+Tools & Features
+ 
+ Lyro AI Agent
+chat_bubble
+Live Chat
+confirmation_number
+Ticketing
+family_history
+Flows
+forum
+Communication Channels
+library_books
+Order Management 
+analytics
+Analytics
+colors
+Customization
+signpost
+Departments
+support_agent
+Support
+devices
+Apps
+apps
+Integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tidio's tools and features
+See how Tidio can help your business
+ 
+ 
+ 
+list
+ 
+Show all categories
+ 
+ 
+ 
+ 
+ 
+Lyro AI Agent
+ 
+Reclaim up to 67% of your team's time by answering common questions and performing recurring tasks with a truly conversational AI.
+ 
+ 
+Learn more about Lyro AI Agent
+chevron_right
+ 
+ 
+add_task
+ 
+Lyro Smart Actions
+ 
+Lyro AI Agent can handle tasks—like order updates or lead qualification—without human assistance. It integrates with your external systems to take real-time action.
+category_search
+Product recommendations
+Lyro connects to your store inventory. It pulls your entire product catalog in real-time to provide accurate, helpful recommendations based on what you actually sell.
+mail
+AI-driven email resolutions
+Lyro AI scans incoming emails and solves common problems in seconds, giving your team more time to focus on high-priority tasks.
+ 
+rule_settings
+Simple, configurable setup
+Add Lyro AI Agent to your website with a few clicks. Share links to your support content to feed it with your data, and the AI is good to go.
+ 
+table
+Data-backed answers
+Lyro AI Agent answers customers using only your support knowledge to minimize hallucinations.
+translate
+Multilanguage
+Lyro AI Agent uses your support content to answer customers in dozens of languages, including English, Spanish, French, Portuguese, and German.
+responsive_layout
+Multichannel
+Lyro AI Agent answers customers on all your live communication channels - live chat, WhatsApp, Instagram, and Messenger.
+prompt_suggestion
+Smart redirections
+Lyro AI Agent redirects customers who ask for information outside its knowledge to your support department.
+face
+Human-like conversations
+Lyro AI Agent understands context and asks clarifying questions when necessary, making the conversations feel natural.
+analytics
+Analytics
+Understand how the audience interacts with your support system.
+timelapse
+Time saved calculator
+See Lyro AI Agent's answer rate and how many customer problems it solved.
+ 
+ 
+Try Lyro AI Agent for free
+ 
+Answer customer questions with AI on all your live communication channels.
+ 
+Start for free
+chevron_right
+strategy
+Playground
+See how Lyro AI Agent responds to customer questions based on the data you shared and update its knowledge base accordingly.
+deployed_code_update
+Instant updates
+Update Lyro AI Agent’s knowledge base so it adapts its responses based on the new data in an instant.
+shuffle
+Conversation control
+Track Lyro AI Agent’s conversations in real-time and jump in to take over the conversation whenever you want.
+difference
+Multiple sources
+Update Lyro AI Agent’s information using multiple information sources in different data formats, such as links, PDF files, and manual entries.
+quiz
+Missed questions
+Get a list of the questions Lyro AI Agent didn’t answer so you can update its knowledge base.
+custom_typography
+Custom name
+Change Lyro AI Agent's name to something that suits your brand and messaging.
+ 
+Show more
+chevron_right
+ 
+ 
+Get a free Chrome extension for your help desk
+ 
+Meet Copilot that helps you reply faster with AI-powered response suggestions right inside your existing tool. Automate 30% of the support workload.
+ 
+Add to Chrome - It's free
+Live Chat
+Offer a clear route for customer questions and provide immediate answers through a lightweight live chat widget.
+Learn more about Live Chat
+chevron_right
+text_fields
+Live typing preview
+Speed up your replies by previewing what users write before they hit the "send" button and preparing your answer.
+library_books
+Macros
+Create a library of common answers and use them to reply in seconds.
+psychology
+Tidio AI Reply Assistant
+Instantly turn basic answers into professional-looking ones with GPT-4 technology.
+person_cancel
+Ban users
+Block users from accessing the widget based on their IP address.
+chat_paste_go
+Chat page
+Send your customers to a dedicated chat window instead of talking with them through the widget.
+grading
+Transcripts
+Save transcripts for your records or send them to clients via email.
+clinical_notes
+Pre-chat survey
+Collect your customers' contact data before the chat starts.
+attach_file
+Attachments
+Send supported files via chat: .jpg .jpeg .png .txt .rtf .xlsx .docx .pdf .gif, and videos.
+Try Tidio Live Chat for free
+Offer live customer support to improve the shopping experience you offer.
+Start for free
+chevron_right
+note_stack
+Tags and contact properties
+Add tags and contact details to customer profiles so you can personalize your conversations and improve customer experience.
+translate
+Multilanguage
+Add multiple languages to your widget and use special characters when talking to international customers in their native languages.
+thumbs_up_down
+Measure customer satisfaction
+Collect feedback and assess the quality of your customer service.
+work_history
+Operating hours
+Set your working hours and let visitors know when they can find you online.
+mark_chat_read
+Read receipt
+See if the visitor read your messages.
+co_present
+Live visitor list
+See all your website visitors and the pages they're browsing in real-time. Offer custom advice based on their activity.
+article_shortcut
+Automatic chat assignment
+Speed up your response time by automatically directing new chats to available operators.
+comments_disabled
+Offline message
+Inform customers that you're not available and collect their email addresses to contact them later.
+Show more
+chevron_right
+Ticketing
+Shorten your time to resolution and boost customer satisfaction with a smart ticketing system. Manage, assign, prioritize, and reply to customers requests in one place.
+Learn more about Ticketing
+chevron_right
+confirmation_number
+Create tickets from chats and emails
+Turn chats and emails into tickets so it's easier for your team to understand context.
+conversion_path
+Workflows
+Workflows help you automate repetitive support actions like closing tickets without customer response, sending customized auto-replies, and more.
+label
+Tags
+Use tags to organize your tickets.
+priority_high
+Priorities
+Set different priority levels to highlight a ticket's urgency.
+eye_tracking
+Track operator tickets
+Oversee your team's tickets to assess their work and ensure consistency.
+more
+Tickets history
+Store all your tickets in one place so you can access them whenever necessary.
+partner_exchange
+Switch ownership
+Change a ticket's ownership whenever you need to.
+filter_alt
+Advanced ticket filtering
+Create custom filters so you can manage your tickets with ease.
+unsubscribe
+Spam management
+Mark unimportant messages as spam to keep your inbox clutter-free.
+table_eye
+Smart views
+See how your team tackles various subjects. Track and analyze specific topics to gain valuable insights.
+Show more
+chevron_right
+Already convinced?
+Then get started
+Free plan available. Easy installation in under 5 minutes.
+Start for free
+chevron_right
+Contact sales
+Flows
+Boost your lead gen and sales funnels with Flows - no-code automation paths that trigger at crucial moments in the customer journey.
+Learn more about Flows
+chevron_right
+rebase_edit
+Visual automation builder
+Intuitive, visual Flows builder - Create custom automations without coding skills.
+note_stack
+40+ e-commerce templates
+Plug-and-play Flows scenarios to help you engage users and sell more.
+flowsheet
+Flows in live conversations
+Create Flows and use them to save time during client conversations.
+contact_page
+Data collection
+Automatically collect contact details from your customers.
+communication
+Post communication surveys
+Collect customer feedback after the chat ends.
+auto_read_play
+Respond when operators are busy
+Send pre-designed conversation Flows to customers when none of your agents are available.
+production_quantity_limits
+Save abandoned carts
+Convince people who are about to abandon their carts to complete their purchases by sending them automated discounts.
+extension
+Connect to third-party platforms
+Use Flows to send data in third-party tools.
+Try Tidio Flows for free
+Automate your support, lead gen, and sales with 40+ ready to use Flows templates.
+Start for free
+chevron_right
+install_desktop
+Scroll percentage trigger
+Automatically perform specific actions when a visitor reaches a certain page scroll depth.
+stream_apps
+Mobile-specific actions
+Activate different automation paths for mobile users.
+3p
+Transfer to operator
+Send pre-configured, translatable messages to customers asking for human support.
+Show more
+chevron_right
+Communication Channels
+Handle messages from all your communication channels in a single dashboard.
+Learn more about Communication Channels
+chevron_right
+chat_bubble
+Live Chat
+Answer customers quickly when they're browsing your website.
+mail
+Email
+Connect multiple email inboxes to Tidio.
+ 
+Instagram
+Reply to Instagram DMs and Story reactions either manually or using automated Flows. Manage Facebook and Instagram comments from your Tidio inbox.
+ 
+Messenger
+Use Live Chat and Flows to talk to your clients on Messenger.
+ 
+WhatsApp
+Offer instant, 24/7 support on WhatsApp with conversation Flows.
+Show more
+chevron_right
+Order Management (for Shopify)
+Use in-build Shopify actions during conversations. Preview carts, recommend products, see your customers' order history, and manage orders without leaving the chat window.
+Learn more about Shopify features
+chevron_right
+preview
+Shopping cart preview
+See what your clients have in their carts in real time so you can provide tailored answers to their questions.
+device_reset
+Order history
+Check what your clients ordered in the past so you can personalize your advice.
+recommend
+Recommend products
+Suggest specific products directly from the chat window.
+order_approve
+Manage orders
+Cancel orders, change shipping addresses, and offer refunds directly from the chat window.
+shoppingmode
+Offer discounts
+Send customers custom coupon codes without leaving the chat window.
+quick_reorder
+Check delivery zones (via Flows)
+Allow clients to check available order zones on their own.
+Show more
+chevron_right
+Analytics
+Understand how the audience interacts with your support system.
+Learn more about Analytics
+chevron_right
+currency_exchange
+Sales
+Determine the contribution Tidio made to your sales value.
+finance
+Conversation-related metrics
+Track crucial support KPIs, including number of conversations, missed conversations, hourly occupation, first response time, and time to close.
+frame_person
+Operator performance
+Evaluate your team's performance and filter the data by operator.
+chart_data
+Channel performance
+See how each of your communication channels performs.
+query_stats
+Flows performance
+Assess the performance of your automation Flows.
+auto_awesome_motion
+Leads
+See how many leads you collected with Tidio.
+person_alert
+Improvement suggestions
+Get advice on how to improve specific metrics.
+compare
+Comparisons
+Generate charts to analyze and compare data across different time periods.
+hotel_class
+Satisfaction ra
+
+===== pricing_or_trust :: https://www.tidio.com/pricing/
+--- SIGNALS ---
+title: Tidio Pricing—Find the Best Plan for Your Business Needs
+meta_description: Try Tidio for free. Then stay on the free plan forever or upgrade your account and enjoy all of Tidio’s premium features.
+og_description: Try Tidio for free. Then stay on the free plan forever or upgrade your account and enjoy all of Tidio’s premium features.
+og_site_name: Tidio
+h1: Your AI-powered plans
+h2: Calculate your costs based on your monthly usage needs | Compare plans | More automation, less effort with customer service add-ons | Calculate your costs based on your monthly usage needs | The world’s most demanding brands trust Tidio with their customers
+jsonld_org: [{"@type": "Organization", "@id": "https://www.tidio.com/#organization", "name": "Tidio", "url": "https://www.tidio.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.tidio.com/#/schema/logo/image/", "url": "https://www.tidio.com/wp-content/uploads/tidio-logo-square.png", "contentUrl": "https://www.tidio.com/wp-content/uploads/tidio-logo-square.png", "width": 696, "height": 696, "caption": "Tidio"}, "image": {"@id": "https://www.tidio.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/TidioCX/", "https://x.com/tidiocx", "https://www.youtube.com/channel/UCwAHN3_OptyMS_us7oxciqQ", "https://www.instagram.com/tidiocx/", "https://www.linkedin.com/company/tidio-ltd/", "https://play.google.com/store/apps/details?id=com.tidiochat.app", "https://apps.apple.com/us/app/tidio/id916822567", "https://www.g2.com/products/tidio/reviews", "https://www.capterra.com/p/144040/Tidio-Chat/", "https://www.producthunt.com/products/tidio-2", "https://www.trustpilot.com/review/www.tidio.com", "https://wordpress.org/plugins/tidio-live-chat/", "https://wordpress.com/plugins/tidio-live-chat", "https://apps.shopify.com/tidio-chat", "https://www.wikidata.org/wiki/Q133079799", "https://www.google.com/search?kgmid=/g/11hds3thy3", "https://www.google.com/search?kgmid=/g/11gxm8q990", "https://www.softwareadvice.com/live-chat/tidio-chat-profile/", "https://www.getapp.com/customer-service-support-software/a/tidio-chat/", "https://www.infotech.com/software-reviews/pro
+--- TEXT ---
+Tidio Pricing—Find the Best Plan for Your Business Needs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Talk to us
+ 
+Tell us what you need and we'll design an agent around it
+arrow_right_alt
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tidio
+Reply faster to tickets across all channels
+ 
+check
+Lyro
+arrow_outward
+Hire AI to handle customer service
+Hubi AI
+arrow_outward
+Run on-brand marketing with an AI coworker
+Tidio Labs
+arrow_outward
+Get a custom AI solution built by experts
+ 
+ 
+ 
+ 
+Discover out other products
+ 
+ 
+Tidio
+Reply faster to tickets across all channels
+check
+Lyro
+arrow_outward
+Hire AI to handle customer service
+Hubi AI
+arrow_outward
+Run on-brand marketing with an AI coworker
+Tidio Labs
+arrow_outward
+Get a custom AI solution built by experts
+ 
+Lyro AI Agent
+ 
+ 
+ 
+ 
+ 
+ 
+Lyro AI Agent
+ 
+chevron_right
+ 
+ 
+ 
+ 
+ 
+ 
+keyboard_return
+See customer story
+ 
+ 
+ 
+diamond
+Discover Premium Plan
+ 
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+ 
+mail
+Contact Sales
+Product
+ 
+ 
+chat_bubble
+Live Chat
+chevron_right
+ 
+ 
+Lyro AI Agent
+ 
+chevron_right
+notification_multiple
+Help Desk
+chevron_right
+family_history
+Flows
+chevron_right
+apps
+Integrations
+chevron_right
+ 
+ 
+arrow_outward
+See all Tidio features
+ 
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+ 
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+keyboard_return
+See customer story
+diamond
+Discover Premium Plan
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.
+live_tv
+Watch Demo
+mail
+Contact Sales
+ 
+Pricing
+Solutions
+ 
+ 
+ 
+ 
+Teams
+ 
+ 
+support_agent
+Customer Service
+payments
+Marketing & Sales
+Industries
+shopping_cart
+Ecommerce
+approval_delegation
+Services
+auto_stories
+Education
+account_balance
+Finance
+computer
+SaaS
+travel
+Travel
+Resources
+history_edu
+Customer Stories
+chevron_right
+menu_book
+Learn
+chevron_right
+trophy
+Compare
+chevron_right
+support
+Help Center
+chevron_right
+newsmode
+Blog
+chevron_right
+diversity_3
+Partner Programs
+chevron_right
+arrow_outward
+See all Resources
+ 
+Contact
+See Tidio in action
+Contact sales
+ 
+ 
+ 
+Start for free
+ 
+Contact sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Your AI-powered plans
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lyro AI Agent + Tidio Help Desk
+ 
+Combine AI and human conversations on the Tidio Platform
+ 
+ 
+ 
+Flows automation for support & sales
+ 
+Unified analytics and reporting
+ 
+ 
+Lyro AI Agent only
+Add an AI Agent to Zendesk, Salesforce, or any other help desk software
+ 
+AI handles repetitive queries
+ 
+Pay only for AI conversations
+ 
+Combine AI and human conversations on the Tidio Platform
+ 
+ 
+ 
+ 
+ 
+ 
+Calculate your costs based on your monthly usage needs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Billable conversations
+ 
+ 
+ 
+ 
+Live conversations and tickets for your team
+ 
+50
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50
+100
+250
+400
+600
+800
+1 000
+1 500
+2 000
+More
+ 
+ 
+ 
+ 
+ 
+50 Billable conversations / mo.
+ 
+ 
+ 
+ 
+ 
+ 
+50 Billable conversations / mo.
+ 
+ 
+100 Billable conversations / mo.
+ 
+250 Billable conversations / mo.
+ 
+400 Billable conversations / mo.
+ 
+600 Billable conversations / mo.
+ 
+800 Billable conversations / mo.
+ 
+1 000 Billable conversations / mo.
+ 
+1 500 Billable conversations / mo.
+ 
+2 000 Billable conversations / mo.
+ 
+2 000+ Billable conversations / mo.
+ 
+Lyro AI conversations
+ 
+Automated by AI agent
+0
+0
+50
+100
+150
+200
+300
+500
+750
+1 000
+More
+0 Lyro AI conversations / mo.
+ 
+ 
+0 Lyro AI conversations / mo.
+ 
+50 Lyro AI conversations / mo.
+ 
+100 Lyro AI conversations / mo.
+ 
+150 Lyro AI conversations / mo.
+ 
+200 Lyro AI conversations / mo.
+ 
+300 Lyro AI conversations / mo.
+ 
+500 Lyro AI conversations / mo.
+ 
+750 Lyro AI conversations / mo.
+ 
+1 000 Lyro AI conversations / mo.
+ 
+1 000+ Lyro AI conversations / mo.
+ 
+Visitors reached with Flows
+ 
+Proactive chat automation
+100
+100
+2 000
+3 000
+5 000
+10 000
+15 000
+20 000
+30 000
+40 000
+50 000
+75 000
+100 000
+More
+100 visitors reached / mo.
+ 
+ 
+100 visitors reached / mo.
+ 
+2 000 visitors reached / mo.
+ 
+3 000 visitors reached / mo.
+ 
+5 000 visitors reached / mo.
+ 
+10 000 visitors reached / mo.
+ 
+15 000 visitors reached / mo.
+ 
+20 000 visitors reached / mo.
+ 
+30 000 visitors reached / mo.
+ 
+40 000 visitors reached / mo.
+ 
+50 000 visitors reached / mo.
+ 
+75 000 visitors reached / mo.
+ 
+100 000 visitors reached / mo.
+ 
+100 000+ visitors reached / mo.
+ 
+ 
+ 
+ 
+ 
+Recommended plan
+ 
+ 
+Custom plan
+ 
+Higher quota is available on Plus and Premium plans. For more than 2 000 billable conversations, 1 000 Lyro AI conversations or 100 000 visitors reached wth Flows, please contact us for a custom plan.
+ 
+Contact for pricing
+ 
+ 
+Contact sales
+ 
+Compare plans
+ 
+ 
+ 
+ 
+Monthly
+ 
+ 
+ 
+Annually
+ 
+(
+2 months free
+)
+ 
+ 
+ 
+Starter
+ 
+Handle all customer conversations in one tool. Reply faster with smarter features.
+ 
+ 
+ 
+ 
+ 
+ 
+$
+24.17
+ 
+/mo.
+ 
+ 
+100 Billable conversations
+ 
+ 
+ 
+7-day free trial
+ 
+ 
+ 
+ 
+This plan includes:
+ 
+ 
+50 Lyro AI Agent conversations (one-off)
+100 Flows visitors reached
+Live chat & Ticketing
+Live visitors list
+Operating hours
+Basic analytics
+Live chat channels
+ 
+ 
+Growth
+ 
+Popular
+ 
+Deliver faster replies with smart automation and seamless collaboration.
+ 
+Starts at
+ 
+$
+49.17
+/mo.
+ 
+ 
+From 250 Billable conversations
+ 
+7-day free trial
+ 
+Everything in Starter, plus:
+ 
+Advanced analytics
+User permissions
+Automatic chat assignment
+Automatic reply
+Live typing preview
+Viewed pages history
+Macros
+ 
+ 
+Plus
+ 
+Get premium features, priority support, and advanced team management for $300/mo. Pay separately for AI and human conversations at lower rates as you scale.
+ 
+Starts at
+ 
+$
+300
+/mo.
+ 
+ 
++ monthly usage
+ 
+Custom Billable conversations
+ 
+Contact sales
+ 
+Everything in Growth, plus:
+ 
+ 
+Premium support
+Dedicated Success Manager
+Discounted usage rates
+Departments
+Multiproject
+Custom branding
+Ticketing automations
+Live chat support
+OpenAPI
+Custom limits
+Custom number of seats
+Larger attachments
+Pay by wire transfer
+ 
+ 
+Premium
+ 
+Partner with our team for guaranteed ongoing AI deployment, expert insights, and custom solutions at volume.
+ 
+ 
+Contact for pricing
+ 
+ 
+Custom Billable conversations
+ 
+Contact sales
+ 
+Everything in Plus, and:
+ 
+From 3 000 Lyro AI conversations
+Guaranteed 50% Lyro AI resolution rate
+Pay-per-resolution billing
+Mobile SDK
+AI insights & CSAT
+Super admin role
+Custom analytics
+Advanced Copilot
+ 
+Security & services
+Lyro AI as a managed service
+Slack support
+Compliance
+SSO
+ 
+ 
+ 
+View all features
+ 
+ 
+ 
+More automation, less effort with customer service add-ons
+ 
+ 
+ 
+ 
+Lyro AI Agent
+ 
+Solve up to 67% of customer problems with Lyro - the AI agent. Automatically answer common questions and perform recurring tasks so your team can focus on growing your business.
+ 
+Read more
+ 
+Human handoff
+Customizable communication style
+Knowledge-based responses
+Available as a stand-alone product
+Starts at
+ 
+ 
+$
+32.50
+ 
+/mo.
+ 
+From 50 Lyro AI conversations
+ 
+ 
+7-day free trial
+ 
+Calculate savings 
+Flows
+Increase conversions by 26% with contextual Flows. Boost your lead gen and sales funnels with Flows - no-code conversion paths that trigger at crucial moments in the customer journey.
+ 
+Read more
+Collect data
+Quote request
+Handle missed conversations
+Available as a stand-alone product
+Starts at
+$
+24.17
+/mo.
+From 2 000 visitors reached
+7-day free trial
+ 
+Calculate your costs based on your monthly usage needs
+Billable conversations
+ 
+Live conversations and tickets for your team
+50
+50
+100
+250
+400
+600
+800
+1 000
+1 500
+2 000
+More
+50 Billable conversations / mo.
+ 
+ 
+50 Billable conversations / mo.
+ 
+100 Billable conversations / mo.
+ 
+250 Billable conversations / mo.
+ 
+400 Billable conversations / mo.
+ 
+600 Billable conversations / mo.
+ 
+800 Billable conversations / mo.
+ 
+1 000 Billable conversations / mo.
+ 
+1 500 Billable conversations / mo.
+ 
+2 000 Billable conversations / mo.
+ 
+2 000+ Billable conversations / mo.
+ 
+Lyro AI conversations
+ 
+Automated by AI agent
+0
+0
+50
+100
+150
+200
+300
+500
+750
+1 000
+More
+0 Lyro AI conversations / mo.
+ 
+ 
+0 Lyro AI conversations / mo.
+ 
+50 Lyro AI conversations / mo.
+ 
+100 Lyro AI conversations / mo.
+ 
+150 Lyro AI conversations / mo.
+ 
+200 Lyro AI conversations / mo.
+ 
+300 Lyro AI conversations / mo.
+ 
+500 Lyro AI conversations / mo.
+ 
+750 Lyro AI conversations / mo.
+ 
+1 000 Lyro AI conversations / mo.
+ 
+1 000+ Lyro AI conversations / mo.
+ 
+Visitors reached with Flows
+ 
+Proactive chat automation
+100
+100
+2 000
+3 000
+5 000
+10 000
+15 000
+20 000
+30 000
+40 000
+50 000
+75 000
+100 000
+More
+100 visitors reached / mo.
+ 
+ 
+100 visitors reached / mo.
+ 
+2 000 visitors reached / mo.
+ 
+3 000 visitors reached / mo.
+ 
+5 000 visitors reached / mo.
+ 
+10 000 visitors reached / mo.
+ 
+15 000 visitors reached / mo.
+ 
+20 000 visitors reached / mo.
+ 
+30 000 visitors reached / mo.
+ 
+40 000 visitors reached / mo.
+ 
+50 000 visitors reached / mo.
+ 
+75 000 visitors reached / mo.
+ 
+100 000 visitors reached / mo.
+ 
+100 000+ visitors reached / mo.
+ 
+ 
+Recommended plan
+Custom plan
+Higher quota is available on Plus and Premium plans. For more than 2 000 billable conversations, 1 000 Lyro AI conversations or 100 000 visitors reached wth Flows, please contact us for a custom plan.
+Contact for pricing
+Contact sales
+ 
+The world’s most demanding brands trust Tidio with their customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Plan type
+ 
+Growth
+ 
+ 
+ 
+Free
+ 
+Starter
+ 
+Growth
+ 
+Plus
+ 
+Premium
+ 
+ 
+ 
+Free
+ 
+ 
+$
+0
+/
+mo.
+Get started
+Starter
+ 
+$
+24.17
+/
+mo.
+Get started
+Growth
+Popular
+Starts at
+ 
+$
+49.17
+/
+mo.
+Get started
+Plus
+ 
+Starts at
+ 
+$
+300
+/
+mo.
+ 
++ monthly usage
+Contact sales
+Premium
+ 
+Contact for pricing
+Contact sales
+ 
+ 
+ 
+Customer support quota
+ 
+ 
+ 
+Billable conversations
+ 
+50
+100
+Up to 2 000
+Custom
+Custom
+Seats
+10
+10
+10
+Custom
+Custom
+Live chat & Ticketing
+Live Chat
+Ticketing
+Email management system
+Live video calls
+Ticketing automations
+Lyro AI Agent
+ 
+Lyro AI Agent conversations
+Your first 50 conversations are free (lifetime). You can upgrade your monthly limit to 50 - 1 000.
+Custom
+Custom
+Actions
+Your first Action is free. Full access is available with the purchase of a paid Lyro AI Agent quota (50-1 000 conversations).
+Up to 10
+10
++
+FAQ upload
+FAQ scraper
+Website scraper
+Import Zendesk articles
+Guidance
+5
+5
+5
+Up to 10
+10
++
+Lyro product recommendation
+Available with the purchase of a paid Lyro AI Agent quota (50-1 000 conversations).
+Lyro Connect
+Lyro custom name
+100mb file upload size
+Lyro AI as a managed service
+Guaranteed 50% Lyro AI resolution rate
+Pay-per-resolution billing
+Analysis & monitoring
+Copilot
+Copilot
+Advanced Copilot
+Flows
+Visitors reached via Flows
+Your first 100 visitors reached via Flows are free. You can upgrade your monthly limit to 2 000 - 100 000.
+Custom
+Custom
+Sales Flows templates
+FAQ Flows templates
+Visual Flows builder
+Features
+Tidio AI reply assistant
+Basic analytics
+Multilanguage
+Live visitors list
+Operating hours
+Chat page
+Advanced analytics
+Live typing preview
+Viewed pages history
+Visitors info
+Visitor notes
+Offline auto-reply
+Automatic chat assignment
+Automated satisfaction survey
+Automated conversation solving
+Macros
+Permissions
+Native Shopify actions
+Multiproject
+Departments
+OpenAPI
+Custom channels
+Custom analytics
+Super admin role
+Mobile SDK
+Integrations
+Messenger integration
+Instagram integration
+WhatsApp integration
+Email integration
+App integrations
+Apps
+Desktop app
+Mobile app
+Services
+Support over email
+Support over live chat
+Flows building and strategy assistance
+Premium support
+Dedicated Success Manager
+Discounted usage rates
+Training sessions
+Account reviews
+Priority Service + Premium Support
+Compliance
+SSO
+Slack support
+Dedicated services team
+Pay by wire transfer
+Customization
+Basic widget customization
+No Tidio branding
+Add-on (16.67 USD/mo.)
+Custom branding
+ 
+ 
+Frequently Asked Questions
+ 
+ 
+ 
+ 
+ 
+ 
+What is a Conversation?
+ 
+ 
+ 
+ 
+ 
+Conversation is any live chat, ticket, email or social media channel conversation. A visitor, operator or an automated flow may initiate a conversation.
+ 
+Remember that not all conversations are counted as “Billable conversations”
+ 
+What is a “Billable conversation”?
+"Billable conversation" refers to any live chat, ticket, email or social media channel conversation that includes a message from a human agent (you). Unanswered messages initiated by visitors/customers are not counted, ensuring you're billed only for relevant interactions.
+ 
+Responses from Flows and Lyro AI Agent are not counted as ‘agent replies’.
+Will I pay for unwanted conversations?
+No. A conversation is only billed as a Billable conversation once you reply using Tidio or proactively initiate a conversation with your visitor. If you don’t respond to a customer conversation – if it’s spam or simply a message that doesn’t require a reply – the conversation won’t count toward your monthly limit.
+Will I pay for multiple messages within one conversation?
+A conversation that receives a response by a human agent or is initiated by a human agent will only be counted as one Billable conversation regardless of how many messages are sent or received on the thread.
+How does the free trial work?
+During the free 7-day trial, you can test all Tidio features and plans and see how to improve customer service and accelerate sales. You don’t need to provide us with your credit card information to access the free trial.
+ 
+At the end of the trial, your account will automatically be downgraded to the Free plan unless you upgrade your subscription to

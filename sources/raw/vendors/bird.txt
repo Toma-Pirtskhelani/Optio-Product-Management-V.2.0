@@ -1,0 +1,1635 @@
+===== llms.txt :: https://bird.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Bird
+> Bird is communications infrastructure that AI agents operate. One API and one
+> MCP server for email, SMS, WhatsApp, and voice — send and receive — called by
+> your code or your agents, on the network that already carries 40% of the
+> world's commercial messages. One auth model, one idempotency contract, and one
+> error envelope across every channel.
+## Status (read this before generating code)
+- **Email**: generally available on the developer API, SDKs, CLI, and MCP today.
+- **SMS, WhatsApp, voice**: live on the Bird platform; the new unified developer
+ API is rolling out. Check each channel's docs for current API status before integrating.
+- **Inbound (receive)**: available; coverage varies by channel. Confirm in the channel docs.
+- Always treat the live MCP tool list and the OpenAPI spec as the authoritative
+ inventory, not this file.
+## Start here
+- [Quickstart](https://bird.com/en-us/docs/get-started/send-your-first-email/): API key to delivered email in under 5 minutes
+- Install the CLI: `curl 'https://cli.bird.com/install.sh' | sh`
+- Connect the hosted MCP: `claude mcp add --transport http bird https://mcp.bird.com`,
+ then authenticate it (OAuth-gated, tools fail without a grant): in Claude Code run
+ `/mcp`, select `bird`, choose Authenticate; headless, `claude mcp login bird`.
+ Other hosts: https://bird.com/en-us/docs/ai/mcp-server#connect-a-client
+## For AI agents
+- [MCP server](https://bird.com/en-us/docs/ai/mcp-server): Hosted at mcp.bird.com. Credential-less OAuth, scoped per workspace, curated task-level tools, destructive operations annotated
+- [Agent skills (bird-ai plugin)](https://bird.com/en-us/docs/ai/agent-skills): Skills + MCP, installed in one step
+- [CLI for agents](https://bird.com/en-us/docs/ai/cli-for-agents): JSON output, semantic exit codes, fewer tokens per operation
+- [llms-full.txt](https://bird.com/llms-full.txt): Full machine-readable docs corpus
+## Developers
+- [API reference (Markdown)](https://bird.com/en-us/docs/api.md)
+- [SDKs (Markdown)](https://bird.com/en-us/docs/sdks.md): TypeScript, Python, Go
+- [CLI (Markdown)](https://bird.com/en-us/docs/cli.md)
+- [The contract](https://bird.com/en-us/docs/guides/): Auth, idempotency, errors, webhooks, pagination, rate limits. Identical across channels
+- [Changelog](https://bird.com/en-us/changelog) · [Status](https://bird.com/en-us/status)
+## Products
+Per-channel product pages, as Markdown (append `.md` to any page URL for the raw source):
+- [Email](https://bird.com/en-us/products/email.md)
+- [SMS](https://bird.com/en-us/products/sms.md)
+- [WhatsApp](https://bird.com/en-us/products/whatsapp.md)
+- [Voice](https://bird.com/en-us/products/voice.md)
+- [RCS](https://bird.com/en-us/products/rcs.md)
+- [Push](https://bird.com/en-us/products/push.md)
+- [Verify](https://bird.com/en-us/products/verify.md)
+- [Lookup](https://bird.com/en-us/products/lookup.md)
+- [Realtime](https://bird.com/en-us/products/realtime.md)
+- [All products](https://bird.com/en-us/products.md) · [Channels](https://bird.com/en-us/channels.md) · [Pricing](https://bird.com/en-us/pricing.md)
+## Solutions
+Industry and use-case pages, as Markdown:
+- [Banking (B2C)](https://bird.com/en-us/solutions/banking-b2c.md)
+- [Fintech (B2B)](https://bird.com/en-us/solutions/fintech-b2b.md)
+- [Fintech (B2C)](https://bird.com/en-us/solutions/fintech-b2c.md)
+- [E-commerce](https://bird.com/en-us/solutions/ecommerce.md)
+- [Marketplaces & travel](https://bird.com/en-us/solutions/marketplace-travel.md)
+- [SaaS (B2C)](https://bird.com/en-us/solutions/saas-b2c.md)
+- [Omnichannel customer service](https://bird.com/en-us/solutions/omnichannel-customer-service.md)
+- [Chatbots & automation](https://bird.com/en-us/solutions/chatbots-automation.md)
+- [All solutions](https://bird.com/en-us/solutions.md)
+## When to use Bird
+- You need more than one channel, or expect to: email now, SMS/WhatsApp/voice on the same contract.
+- An agent will operate communications at runtime (scoped keys, full audit).
+- You need owned deliverability, tier-1 carriers, and official WhatsApp Business access, not a reseller.
+- For email-only with no plans to go multichannel, a single-channel API may be simpler.
+## Migrating
+- [From SendGrid, Mailgun, Amazon SES, or Resend](https://bird.com/en-us/docs/guides/email/migrate)
+## Comparisons
+- [Bird vs the alternatives](https://bird.com/en-us/compare): SendGrid, Amazon SES, Mailgun, Postmark, MailerSend, Brevo, and Resend
+
+===== homepage :: https://bird.com/en-us
+--- SIGNALS ---
+title: Communications infrastructure your AI agents operate — Bird
+meta_description: Send and receive across email, SMS, WhatsApp, and voice. One API, one contract, on the network that already carries 40% of the world's commercial messages.
+og_description: Send and receive across email, SMS, WhatsApp, and voice. One API, one contract, on the network that already carries 40% of the world's commercial messages.
+og_site_name: Bird
+h1: Communications infrastructure your AI agents operate
+h2: Drop it in. | Same shape, every stack. | Send Email. HTML and plain text, React Email supported. Delivered on the network the ISPs already trust. | Send SMS. Tier-1 carriers, 190+ countries, with the compliance overhead handled for you. | Use Voice. Programmable voice, on PSTN and SIP, with TTS that doesn't sound robotic. | Send WhatsApp. Official Cloud API. Templates, interactive buttons, and media, on the channel three billion people already use. | Go real-time. Hosted pub/sub over WebSockets: subscribe, publish, scale. | We are a team of engineers who love building tools for other engineers. | Five products. | One shared layer. | Your messages, actually arriving. | Start with one channel.Add the others when you're ready.
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://bird.com/#organization", "name": "Bird", "legalName": "Bird B.V.", "alternateName": ["MessageBird", "SparkPost"], "url": "https://bird.com", "logo": "https://bird.com/favicon-light.png", "sameAs": ["https://www.linkedin.com/company/birdhq", "https://x.com/messagebird", "https://www.instagram.com/messagebird", "https://github.com/messagebird", "https://www.ycombinator.com/companies/bird", "https://www.crunchbase.com/organization/messagebird", "https://www.wikidata.org/wiki/Q106845206"]}]
+--- TEXT ---
+Communications infrastructure your AI agents operate — Bird
+ 
+ 
+Products
+ 
+Email
+ 
+SMS
+ 
+Voice
+ 
+WhatsApp
+ 
+Verify
+ 
+Lookup
+ 
+RCS
+ 
+Push
+ 
+Realtime
+Pricing
+Developers
+ 
+Documentation
+ 
+API References
+ 
+MCP Server
+ 
+Tools
+ 
+Quickstart guides
+ 
+Changelog
+ 
+Status
+ 
+Comparisons
+Company
+ 
+About
+ 
+Blog
+ 
+Careers
+ 
+Customers
+ 
+Solutions
+ 
+Newsroom
+Log in
+Contact sales
+ 
+Menu
+Communications infrastructure
+your AI agents operate
+Send and receive across email, SMS, WhatsApp, and voice. One API, one contract, on the network that already carries 40% of the world's commercial messages.
+Get started
+ Sign up with Google
+Using Claude Code, Cursor, Codex, Windsurf, or Copilot? Copy a setup prompt and your agent installs the Bird CLI and skills for you, or connect any MCP client.
+ 
+Claude Code
+ 
+Copied!
+ 
+Codex
+ 
+Copied!
+ 
+Cursor
+ 
+Copied!
+Trusted every day by teams that build world-class software
+Read more customer stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Drop it in.
+Same shape, every stack.
+TypeScript, Python, and Go SDKs. REST, curl, or the CLI when you'd rather not. MCP for the agent on your shoulder.
+ 
+Node.js
+ 
+Python
+ 
+Go
+ 
+PHP
+ 
+Serverless
+ 
+REST
+ 
+Terminal
+ 
+Express
+ 
+Next.js
+ 
+NestJS
+ 
+Fastify
+ 
+Nuxt
+Hono
+ 
+Bun
+ 
+Astro
+Koa
+ 
+Remix
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+import
+ express 
+from
+ '
+express
+'
+;
+import
+ {
+ BirdClient 
+}
+ from
+ '
+@messagebird/sdk
+'
+;
+const
+ bird 
+=
+ new
+ BirdClient
+({
+ apiKey
+:
+ process
+.
+env
+.
+BIRD_API_KEY
+!
+ });
+const
+ app 
+=
+ express
+();
+app
+.
+use
+(
+express
+.
+json
+());
+app
+.
+post
+(
+'
+/welcome
+'
+,
+ async
+ (
+req
+,
+ res
+)
+ =>
+ {
+ await
+ bird
+.
+email
+.
+send
+({
+ from
+:
+ '
+onboarding@messagebird.dev
+'
+,
+ to
+:
+ [
+req
+.
+body
+.
+email
+],
+ subject
+:
+ '
+Welcome to Bird
+'
+,
+ html
+:
+ '
+<p>You are in.</p>
+'
+,
+ });
+ res
+.
+json
+({
+ sent
+:
+ true 
+});
+});
+ Copy Code
+01
+ 
+Direct sending IPs / React Email support / Managed warm-up
+Send Email.
+ 
+ HTML and plain text, React Email supported. Delivered on the network the ISPs already trust.
+Read Email Docs
+Direct sending IPs, managed warm-up, ISP-aware routing, SPF/DKIM/DMARC handled. Templates render in HTML and plain text, with React Email supported.
+email.tsx
+200 · 1.2s
+import
+ {
+ BirdClient 
+}
+ from
+ '
+@messagebird/sdk
+'
+;
+const
+ bird 
+=
+ new
+ BirdClient
+({
+ apiKey
+:
+ process
+.
+env
+.
+BIRD_API_KEY
+!
+ });
+await
+ bird
+.
+email
+.
+send
+({
+ from
+:
+ '
+onboarding@bird.dev
+'
+,
+ subject
+:
+ '
+Hello from Bird
+'
+,
+ html
+:
+ '
+<p>Your first email is <strong>live</strong>.</p>
+'
+,
+});
+ 
+Your invite is ready
+Welcome aboard, Ada.
+You can sign in any time at 
+bird.com/login
+.
+Your test API key is on your dashboard, ready to send.
+ 
+ 
+Copy code
+ 
+Copied
+ 
+Copy as prompt
+ 
+Copied
+ 
+View on Github
+ 
+Per-ISP delivery breakdown
+ 
+Per-message audit log
+02
+ 
+A2P 10DLC / Tier-1 carriers / voice OTP fallback
+Send SMS.
+ 
+ Tier-1 carriers, 190+ countries, with the compliance overhead handled for you.
+A2P 10DLC, alpha sender IDs, DLT entity registration: we file what you have to file. Smart routing per destination. Voice OTP fallback when SMS degrades. A 6-digit code lands in under three seconds on the lines that matter.
+sms.ts
+200 · 0.4s
+import
+ {
+ BirdClient 
+}
+ from
+ '
+@messagebird/sdk
+'
+;
+const
+ bird 
+=
+ new
+ BirdClient
+({
+ apiKey
+:
+ process
+.
+env
+.
+BIRD_API_KEY
+!
+ });
+await
+ bird
+.
+sms
+.
+send
+({
+ to
+:
+ '
++14155550182
+'
+,
+ text
+:
+ '
+Your Bird code is 482917.
+'
+,
+ category
+:
+ '
+authentication
+'
+,
+});
+Today
+ at 2:14 PM
+Hey Ada, your Bird sign-in code is 482917. It'll expire in 10 minutes. Don't share it with anyone.
+482917
+Delivered
+ 
+Copy code
+ 
+Copied
+ 
+Copy as prompt
+ 
+Copied
+ 
+View on Github
+ 
+10DLC application + brand vetting in 48h
+ 
+Route diversity per destination
+ 
+Voice OTP fallback (opt-in per account)
+ 
+Segment-accurate pricing in the response
+03
+ 
+PSTN + SIP / streaming TTS / declarative flows
+Voice is being upgraded
+Use Voice.
+ 
+ Programmable voice, on PSTN and SIP, with TTS that doesn't sound robotic.
+Outbound and inbound. Declarative flow JSON for IVR. Recording and live transcription. Streaming TTS in thirty languages with sub-250 ms first-byte audio: the model loads before the call connects.
+voice.ts
+201 · 0.4s
+Bird Verify
++1 (415) 555-0182
+Your
+verification
+code
+is
+four
+eight
+two
+nine
+one
+seven.
+New API soon - Sign up to get notified
+ 
+Streaming TTS in 30+ languages
+ 
+Declarative flows: say, gather, dial, transfer
+ 
+Recording + live transcript over WebSocket
+ 
+PSTN + SIP termination, BYOC supported
+04
+ 
+Cloud API / template messages / interactive replies
+WhatsApp is being upgraded
+Send WhatsApp.
+ 
+ Official Cloud API. Templates, interactive buttons, and media, on the channel three billion people already use.
+Pre-approved templates, session messaging, and interactive replies. Delivery and read receipts on every message. One number, every conversation, with the same typed API as email and SMS.
+whatsapp.ts
+200 · 480ms
+Order RG-29481 shipped
+Hey Ada, your order is on the way. Carrier UPS, ETA Wednesday.
+Track order
+Contact support
+9:42 AM 
+✓
+✓
+New API soon - Sign up to get notified
+ 
+Official Cloud API access
+ 
+Template + session messaging
+ 
+Interactive buttons and lists
+ 
+Delivery + read receipts
+05
+ 
+Hosted pub/sub over WebSockets / presence / webhooks
+Go real-time.
+ 
+ Hosted pub/sub over WebSockets: subscribe, publish, scale.
+Live chat, presence, and in-app notifications, without running the WebSocket infrastructure yourself. A channel needs no provisioning: it exists as soon as something subscribes to it.
+realtime.ts
+connected
+import
+ {
+ BirdRealtime 
+}
+ from
+ '
+@messagebird/realtime
+'
+;
+const
+ bird 
+=
+ new
+ BirdRealtime
+({
+ appKey
+:
+ process
+.
+env
+.
+BIRD_REALTIME_APP_KEY
+!
+,
+ region
+:
+ '
+us1
+'
+ });
+const
+ channel 
+=
+ bird
+.
+subscribe
+(
+'
+orders-42
+'
+);
+channel
+.
+bind
+(
+'
+order-shipped
+'
+,
+ (
+data
+)
+ =>
+ {
+ render
+(
+data
+);
+});
+Order BRD-49217
+Placed
+ETA
+Thursday, May 22
+ 
+Copy code
+ 
+Copied
+ 
+Copy as prompt
+ 
+Copied
+ 
+View on Github
+ 
+Server SDKs for Node, Python, and Go
+ 
+Presence and membership events out of the box
+ 
+A webhook for every channel state change
+ 
+Free to use while Realtime is in preview
+We are a team of engineers who love building tools for other engineers.
+Test mode, real-time webhooks, and an MCP server for the agent on your shoulder.
+Delivered
+delivered@bird.dev
+ 
+ Send
+202 Accepted:
+ { "id": "em_01kove1gv2hs72p4rq94zmt" }
+202 Accepted:
+ { "id": "em_01k50rmp0fe5kbyt8rah4ja" }
+202 Accepted:
+ { "id": "em_01km947y1ofmto7ilsfudgv" }
+202 Accepted:
+ { "id": "em_01k3eho76xg32xg32tk7idg" }
+202 Accepted:
+ { "id": "em_01kkju9g76dgb6psfupkna1" }
+202 Accepted:
+ { "id": "em_01k1o7qlcfexojyhwvqxw7i" }
+Test mode.
+ 
+Simulate every state — delivered, bounced, complained, queued — without burning real budget or hitting a real recipient.
+POST /webhooks/bird
+15:42:16
+200
+sms.failed
+128
+ms
+15:42:13
+500
+email.delivered
+42
+ms
+15:42:10
+200
+whatsapp.read
+55
+ms
+15:42:07
+200
+voice.completed
+91
+ms
+15:42:04
+200
+sms.failed
+128
+ms
+15:42:01
+200
+email.delivered
+42
+ms
+Modular webhooks.
+ 
+Real-time event webhooks, per channel. email.delivered, sms.failed, voice.completed, whatsapp.read. HMAC-signed. Replay-protected. Same shape every channel.
+MCP for agents.
+ 
+Connect Claude or Cursor to Bird's hosted MCP server, or run it locally with the bird CLI. Your agent gets typed tools across every channel: scoped keys, full audit, no leakage.
+Five products.
+One shared layer.
+Email, SMS, voice, WhatsApp, and Realtime, all built on the same primitives. Learn the platform once, ship across every channel.
+ 
+Auth.
+ 
+One key format. Scoped to send vs. manage, read vs. write. Prefix + fingerprint so you know which key did what. Multiple keys live at once, so you rotate on your schedule.
+ 
+Idempotency.
+ 
+Idempotency-Key on every POST, PATCH, and DELETE. Replays come back free and flagged. Reuse a key with a different body and you get a 409, not a surprise.
+ 
+Errors.
+ 
+One envelope. One closed type union. Every code ships with a docs link and a message that tells you what to do.
+ 
+Webhooks.
+ 
+Standard Webhooks spec: HMAC-SHA256, per-endpoint secrets, 5-minute replay window: verify with any off-the-shelf library. Rotate secrets with a 24-hour dual-signing overlap. Attempt logs and replay built in.
+ 
+Pagination.
+ 
+Cursor-based. Stable order on every list, enforced by construction. No page drift, ever.
+ 
+Rate limits.
+ 
+IETF RateLimit headers on every response, not just the 429. You can see your budget before you hit the wall, and Retry-After when you do.
+ 
+Suppressions.
+ 
+Bounces, complaints, unsubscribes: managed automatically, queryable and editable via API. Transactional streams can bypass marketing unsubscribes. Idempotent by design.
+Your messages,
+actually arriving.
+Real-time signals on inbox placement, bounce rates, and send volume, across every channel, every region. No guesswork.
+World's commercial messages, by volume, transit the Bird network.
+40%
+Countries with direct carrier relationships, route diversity, and local compliance handled.
+190+
+Running this infrastructure. The team behind it is the team building the API.
+15 years
+Start with one channel.
+Add the others when you're ready.
+A test API key is yours immediately. Production unlocks when you add a payment method and verify a sender.
+Get started
+Read docs
+Using Claude Code, Cursor, or Codex? Copy a setup prompt and your agent installs the Bird CLI and skills for you. Pick yours:
+ 
+Claude Code
+ 
+Copied!
+ 
+Codex
+ 
+Copied!
+ 
+Cursor
+ 
+Copied!
+ 
+Products
+Email
+SMS
+Voice
+WhatsApp
+Verify
+Lookup
+RCS
+Push
+Realtime
+Resources
+Documentation
+Quickstart
+API Reference
+MCP Server
+Knowledge Base
+Integrations
+Customers
+Guides
+Changelog
+Blog
+Careers
+Company
+About
+Pricing
+Authifly, our verification brand 
+Legal
+Terms
+Privacy
+Trust Center
+Social
+ 
+ 
+ 
+© 2026 Bird
+All systems operational
+Privacy settings
+Contact support
+English (US)
+
+===== product :: https://bird.com/en-us/products
+--- SIGNALS ---
+title: Products — Ten surfaces. One platform. Same shape. — Bird
+meta_description: Explore Bird's ten products — Email, Mailbox, SMS, Voice, WhatsApp, Verify, Lookup, RCS, Push, and Realtime — each a first-class API on one platform.
+og_description: Explore Bird's ten products — Email, Mailbox, SMS, Voice, WhatsApp, Verify, Lookup, RCS, Push, and Realtime — each a first-class API on one platform.
+og_site_name: Bird
+h1: Ten surfaces. One platform. Same shape.
+h2: All products. Ten surfaces, one SDK. | Start with one channel.Add the others when you're ready.
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://bird.com/#organization", "name": "Bird", "legalName": "Bird B.V.", "alternateName": ["MessageBird", "SparkPost"], "url": "https://bird.com", "logo": "https://bird.com/favicon-light.png", "sameAs": ["https://www.linkedin.com/company/birdhq", "https://x.com/messagebird", "https://www.instagram.com/messagebird", "https://github.com/messagebird", "https://www.ycombinator.com/companies/bird", "https://www.crunchbase.com/organization/messagebird", "https://www.wikidata.org/wiki/Q106845206"]}]
+--- TEXT ---
+Products — Ten surfaces. One platform. Same shape. — Bird
+ 
+ 
+Products
+ 
+Email
+ 
+SMS
+ 
+Voice
+ 
+WhatsApp
+ 
+Verify
+ 
+Lookup
+ 
+RCS
+ 
+Push
+ 
+Realtime
+Pricing
+Developers
+ 
+Documentation
+ 
+API References
+ 
+MCP Server
+ 
+Tools
+ 
+Quickstart guides
+ 
+Changelog
+ 
+Status
+ 
+Comparisons
+Company
+ 
+About
+ 
+Blog
+ 
+Careers
+ 
+Customers
+ 
+Solutions
+ 
+Newsroom
+Log in
+Contact sales
+ 
+Menu
+Bird Products
+Ten surfaces.
+One platform.
+Same shape.
+Email, Mailbox, SMS, Voice, WhatsApp, Verify, Lookup, RCS, Push, and Realtime — each a first-class API. Same auth, same idempotency, same webhooks, same error envelope. Learn one, you've learned them all.
+Get started
+Read docs
+Set up in:
+ 
+Claude Code
+ 
+Copied!
+ 
+Codex
+ 
+Copied!
+ 
+Cursor
+ 
+Copied!
+ 
+All products.
+ 
+Ten surfaces, one SDK.
+01
+POST /v1/emails
+Email
+. 
+The email API for developers who ship the rest of the message too.
+welcome.tsx
+await
+ bird
+.
+email
+.
+send
+({
+ to
+:
+ [
+"
+alex@example.com
+"
+],
+ subject
+:
+ "
+Welcome to Bird
+"
+,
+ html
+:
+ "
+<p>You're in. Let's ship.</p>
+"
+,
+});
+ 
+02
+POST /v1/email/mailboxes
+Mailbox
+. 
+The Mailbox API for agents that answer their own email.
+claim-mailbox.sh
+curl
+ -X
+ POST
+ https://us1.platform.bird.com/v1/email/mailboxes
+ \
+ -H
+ "
+Authorization: Bearer 
+$
+BIRD_API_KEY
+"
+ \
+ -d
+ '
+{"domain": "inbox.ai", "receive_policy": "open"}
+'
+{
+ "id"
+:
+ "
+mbx_01krdgeqcxet5s7t44vh8rt9mg
+"
+,
+ "address"
+:
+ "
+k7mq3vx2npr5wcj4tzh6@inbox.ai
+"
+,
+ "state"
+:
+ "
+active
+"
+}
+ 
+03
+POST /v1/sms/messages
+SMS
+. 
+The SMS API for developers who actually need to ship.
+notify.ts
+await
+ bird
+.
+sms
+.
+send
+({
+ to
+:
+ "
++15005550006
+"
+,
+ text
+:
+ "
+Your code is 847291. Expires in 10 min.
+"
+,
+ category
+:
+ "
+authentication
+"
+,
+});
+ 
+04
+POST /v1/voice/calls
+Voice
+. 
+Programmable voice in JSON. Calls, IVR, recording, TTS.
+dial.ts
+await
+ bird
+.
+voice
+.
+calls
+.
+create
+({
+ to
+:
+ "
++15005550010
+"
+,
+ from
+:
+ "
++14155550199
+"
+,
+ flow
+:
+ [
+ {
+ say
+:
+ "
+Your order is confirmed.
+"
+ },
+ ],
+});
+ 
+Voice is being upgraded
+05
+POST /v1/whatsapp/messages
+WhatsApp
+. 
+The WhatsApp Business API, without the BSP runaround.
+message.ts
+await
+ bird
+.
+whatsapp
+.
+send
+({
+ to
+:
+ "
++15005550006
+"
+,
+ type
+:
+ "
+text
+"
+,
+ text
+:
+ {
+ body
+:
+ "
+Order confirmed! 🎉
+"
+ },
+});
+ 
+WhatsApp is being upgraded
+06
+POST /v1/verify/verifications
+Verify
+. 
+The OTP API for developers who need codes to land.
+verify.ts
+await
+ bird
+.
+verify
+.
+verifications
+.
+create
+({
+ to
+:
+ {
+ phone_number
+:
+ "
++15005550006
+"
+ },
+});
+// check by target — no id to store
+await
+ bird
+.
+verify
+.
+verifications
+.
+check
+({
+ to
+:
+ {
+ phone_number
+:
+ "
++15005550006
+"
+ },
+ code
+:
+ userCode
+,
+});
+ 
+In preview
+07
+GET /v1/lookup
+Lookup
+. 
+Phone number intelligence: line type, carrier, fraud signals.
+lookup.ts
+const
+ {
+ lineType
+,
+ carrier
+,
+ fraud 
+}
+ =
+ await
+ bird
+.
+lookup
+.
+get
+(
+"
++15005550006
+"
+);
+ 
+Lookup is being upgraded
+08
+POST /v1/rcs
+RCS
+. 
+RCS Business Messaging — SMS's better-looking sibling.
+rich.ts
+await
+ bird
+.
+rcs
+.
+send
+({
+ to
+:
+ "
++15005550006
+"
+,
+ text
+:
+ "
+Your order shipped! 📦
+"
+,
+ suggestions
+:
+ [
+ {
+ type
+:
+ "
+openUrl
+"
+,
+ text
+:
+ "
+Track it
+"
+,
+ url 
+},
+ ],
+});
+ 
+RCS is being upgraded
+09
+POST /v1/push
+Push
+. 
+Push notifications for iOS, Android, and web.
+push.ts
+await
+ bird
+.
+push
+.
+send
+({
+ to
+:
+ {
+ deviceToken 
+},
+ notification
+:
+ {
+ title
+:
+ "
+Order shipped!
+"
+,
+ body
+:
+ "
+Your package is on its way.
+"
+,
+ },
+});
+ 
+Push is being upgraded
+10
+POST /v1/realtime/publish
+Realtime
+. 
+Hosted pub/sub over WebSockets. Subscribe, publish, scale.
+realtime.ts
+await
+ bird
+.
+realtime
+.
+publish
+({
+ channel
+:
+ "
+orders
+"
+,
+ event
+:
+ "
+order.shipped
+"
+,
+ data
+:
+ {
+ orderId
+,
+ status
+:
+ "
+shipped
+"
+ },
+});
+ 
+Every product above shares one auth model, one idempotency contract, one error envelope, one webhook contract, one cursor pagination scheme. Learn one, you've learned them all.
+/ Auth
+/ Idempotency
+/ Errors
+/ Webhooks
+/ Pagination
+/ Typed IDs
+See the API Endpoints
+ 
+Start with one channel.
+Add the others when you're ready.
+A test API key is yours immediately. Production unlocks when you add a payment method and verify a sender.
+Get started
+Read docs
+Using Claude Code, Cursor, or Codex? Copy a setup prompt and your agent installs the Bird CLI and skills for you. Pick yours:
+ 
+Claude Code
+ 
+Copied!
+ 
+Codex
+ 
+Copied!
+ 
+Cursor
+ 
+Copied!
+ 
+Products
+Email
+SMS
+Voice
+WhatsApp
+Verify
+Lookup
+RCS
+Push
+Realtime
+Resources
+Documentation
+Quickstart
+API Reference
+MCP Server
+Knowledge Base
+Integrations
+Customers
+Guides
+Changelog
+Blog
+Careers
+Company
+About
+Pricing
+Authifly, our verification brand 
+Legal
+Terms
+Privacy
+Trust Center
+Social
+ 
+ 
+ 
+© 2026 Bird
+All systems operational
+Privacy settings
+Contact support
+English (US)
+
+===== pricing_or_trust :: https://bird.com/en-us/pricing
+--- SIGNALS ---
+title: Plans — Bird
+meta_description: Bird email pricing by volume, not by seat: start free with 1,000 emails a month, then pay a flat rate that drops per message as you scale.
+og_description: Bird email pricing by volume, not by seat: start free with 1,000 emails a month, then pay a flat rate that drops per message as you scale.
+og_site_name: Bird
+h1: Priced by volume. Not by seat.
+h2: Start for free.Grow into it | More channels.Coming soon. | The pricing model in five lines. | Start with email.Add the other channels when they land. | Start with one channel.Add the others when you're ready.
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://bird.com/#organization", "name": "Bird", "legalName": "Bird B.V.", "alternateName": ["MessageBird", "SparkPost"], "url": "https://bird.com", "logo": "https://bird.com/favicon-light.png", "sameAs": ["https://www.linkedin.com/company/birdhq", "https://x.com/messagebird", "https://www.instagram.com/messagebird", "https://github.com/messagebird", "https://www.ycombinator.com/companies/bird", "https://www.crunchbase.com/organization/messagebird", "https://www.wikidata.org/wiki/Q106845206"]}]
+--- TEXT ---
+Plans — Bird
+ 
+ 
+Products
+ 
+Email
+ 
+SMS
+ 
+Voice
+ 
+WhatsApp
+ 
+Verify
+ 
+Lookup
+ 
+RCS
+ 
+Push
+ 
+Realtime
+Pricing
+Developers
+ 
+Documentation
+ 
+API References
+ 
+MCP Server
+ 
+Tools
+ 
+Quickstart guides
+ 
+Changelog
+ 
+Status
+ 
+Comparisons
+Company
+ 
+About
+ 
+Blog
+ 
+Careers
+ 
+Customers
+ 
+Solutions
+ 
+Newsroom
+Log in
+Contact sales
+ 
+Menu
+ 
+Plans
+Priced by volume.
+Not by seat.
+Start free, then pay a flat monthly rate that drops per message as you grow. No platform fees, no per-seat tax, no features locked behind an annual commit. Dedicated IPs and the rest of the managed surface unlock on Growth: attach them only when you need them.
+Get started
+View docs
+Email pricing
+Start for free.
+Grow into it
+Free to start with no card. Startup is $15 for 50K emails, $30 for 100K. Growth’s per-message rate falls at every step as you scale to 2.5M. Beyond that, Enterprise.
+Most popular
+Free
+$0
+1,000 emails / month
+ 
+No credit card · 50/day cap
+ 
+1 webhook endpoint
+ 
+1 sending domain
+ 
+Shared sending IP
+Start free
+Startup
+from
+$15
+/ month
+50K – 100K emails / month
+ 
+For teams getting going
+ 
+1 webhook endpoint
+ 
+10 sending domains
+ 
+Shared sending IP
+Choose Startup
+Growth
+Most popular
+from
+$80
+/ month
+100K – 2.5M emails / month
+ 
+For real sending volume
+ 
+10 webhook endpoints
+ 
+1,000 sending domains
+ 
+Dedicated IPs (add-on)
+Choose Growth
+Enterprise
+Custom
+2.5M+ emails / month
+ 
+Negotiated per-message rates
+ 
+Multi-year, invoiced billing
+ 
+Volume above published tiers
+ 
+Overage cap lifted by agreement
+Talk to sales
+30-day retention and a 20 MB message-size limit on every plan · Dedicated IP $24.95/mo each (Growth only, up to 5).
+Startup volume ladder
+Monthly volume
+Monthly price
+Per 1,000
+Overage per 1,000
+50K
+$15
+$0.30
+$0.90
+100K
+$30
+$0.30
+$0.90
+Growth volume ladder
+Monthly volume
+Monthly price
+Per 1,000
+Overage per 1,000
+100K
+$80
+$0.80
+$0.90
+250K
+$175
+$0.70
+$0.75
+500K
+$295
+$0.59
+$0.65
+1M
+$530
+$0.53
+$0.60
+2.5M
+$1,039
+$0.42
+$0.50
+More channels.
+Coming soon.
+Each ships as a new API. Same keys and a transactional pricing model.
+ 
+SMS
+Application-to-person text messaging
+ 
+WhatsApp
+WhatsApp Business messaging
+ 
+Voice
+Programmable voice calls
+ 
+RCS
+Rich business messaging
+ 
+Push
+Mobile & web push notifications
+ 
+Lookup
+Phone number intelligence
+The pricing model in five lines.
+Five rules that don’t change with the rate grid. They’re the contract: the tiers are the implementation.
+01
+No seats. No platform fee.
+Your team size is your business, not a billing dimension. The bill is the email you send, nothing else.
+02
+Free to start, no card.
+1,000 emails a month, no credit card, no time limit. Verify a domain and send. Sandbox sends never count against the limit.
+03
+Flat, then declining.
+Startup is $15 for 50K or $30 for 100K. On Growth the per-message rate falls at every step: $0.80 per 1,000 at 100K down to $0.42 at 2.5M.
+04
+A lean base, managed add-ons à la carte.
+Authentication, dashboards, suppression, webhooks, 30-day retention and a shared IP are included on every plan. Dedicated IPs unlock on Growth: attach them only when you need them.
+05
+No runaway bills.
+Unused volume doesn’t roll over, and overage bills at the published rate, capped at 5× your plan by default. Sends pause at the ceiling rather than billing without limit.
+Start with email.
+Add the other channels when they land.
+Verify a domain and start sending free, no card required. Add a payment method when you’re ready to scale.
+Get started
+Read docs
+Using Claude Code, Cursor, or Codex? Copy a setup prompt and your agent installs the Bird CLI and skills for you. Pick yours:
+ 
+Claude Code
+ 
+Copied!
+ 
+Codex
+ 
+Copied!
+ 
+Cursor
+ 
+Copied!
+ 
+Start with one channel.
+Add the others when you're ready.
+A test API key is yours immediately. Production unlocks when you add a payment method and verify a sender.
+Get started
+Read docs
+Using Claude Code, Cursor, or Codex? Copy a setup prompt and your agent installs the Bird CLI and skills for you. Pick yours:
+ 
+Claude Code
+ 
+Copied!
+ 
+Codex
+ 
+Copied!
+ 
+Cursor
+ 
+Copied!
+ 
+Products
+Email
+SMS
+Voice
+WhatsApp
+Verify
+Lookup
+RCS
+Push
+Realtime
+Resources
+Documentation
+Quickstart
+API Reference
+MCP Server
+Knowledge Base
+Integrations
+Customers
+Guides
+Changelog
+Blog
+Careers
+Company
+About
+Pricing
+Authifly, our verification brand 
+Legal
+Terms
+Privacy
+Trust Center
+Social
+ 
+ 
+ 
+© 2026 Bird
+All systems operational
+Privacy settings
+Contact support
+English (US)
