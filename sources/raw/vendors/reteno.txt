@@ -1,0 +1,790 @@
+===== llms.txt :: https://reteno.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Reteno 
+
+> Reteno is an AI messaging platform for subscription apps and mobile-first businesses. It helps teams improve retention, conversions, and revenue with AI-powered messaging, event-triggered campaigns, customer segmentation, personalization, and always-on optimization across multiple communication channels.
+
+Reteno is designed for mobile app marketers, lifecycle marketing teams, growth specialists, product teams, and subscription businesses working with app, Web2App, trial, freemium, and direct-install user journeys. This site includes product information, messaging channel pages, feature descriptions, documentation, case studies, expert interviews, blog guides, glossary definitions, research reports, and free app marketing tools.
+
+Organization: RETENTION YES SP. Z.O.O. 
+Website: https://reteno.com/ 
+Contact: info@reteno.com
+Website sitemap: [Reteno XML Sitemap](https://a297281.sitemaphosting6.com/4345592/sitemap_4345592.xml).
+
+## Priority Pages
+
+- [Home](https://reteno.com/)
+- [Features](https://reteno.com/features)
+- [Channels](https://reteno.com/channels)
+- [Expert Voices & Tips](https://reteno.com/expert-voices-tips)
+- [Pricing](https://reteno.com/pricing)
+- [Blog](https://reteno.com/blog)
+- [Glossary](https://reteno.com/glossary)
+- [Push Notification Previewer](https://reteno.com/push-notification-previews)
+- [User Guide](https://docs.reteno.com/docs/what-is-reteno)
+- [Developer Guide](https://docs.reteno.com/reference/integrating-your-app-with-reteno)
+- [Onboarding Screenshots Gallery](https://gallery.reteno.com/)
+- [App Messaging Report 2026](https://reteno.com/app-messaging-report-2026)
+
+## Core Product Capabilities
+
+- [Reteno Features](https://reteno.com/features): AI agents, continuous automated testing, generative AI, email creation, event-based automation, segmentation, personalization, and unified customer profiles.
+- [Personalization](https://reteno.com/personalization): Real-time personalized app and website experiences based on customer data and behavior.
+- [AI in Reteno](https://docs.reteno.com/docs/getting-started-with-reteno-ai): AI agents, automated campaign optimization, message generation, and multilingual content creation.
+- [Reteno MCP Integration](https://docs.reteno.com/docs/integrating-reteno-with-ai-agents): Connect Reteno with supported AI agents to manage campaigns, segments, events, contacts, and analytics.
+
+## Communication Channels
+
+- [Mobile Push Notifications](https://reteno.com/mobile-push-notifications)
+- [In-app messages](https://reteno.com/in-app)
+- [App Inbox](https://reteno.com/app-inbox)
+- [Email](https://reteno.com/email)
+- [SMS](https://reteno.com/sms)
+- [Web Push Notifications](https://reteno.com/web-push)
+- [Messengers](https://reteno.com/messengers)
+- [Personalization for Apps & Web](https://reteno.com/personalization)
+
+## Company and Legal Pages
+
+- [Contact Us](https://reteno.com/contact-us)
+- [Privacy Policy](https://reteno.com/privacy-policy)
+- [Terms of Use](https://reteno.com/terms-of-use)
+- [GDPR Compliance](https://reteno.com/gdpr-compliance)
+- [Data Processing Agreement](https://reteno.com/dpa)
+
+## Blog
+
+- [Reteno Blog](https://reteno.com/blog): Articles, guides, product updates, and expert insights on app retention, lifecycle messaging, mobile marketing, personalization, automation, AI, and subscription growth.
+
+## Featured Blog Articles
+
+A curated selection of Reteno guides, examples, and practical resources on mobile marketing, app growth, retention, customer engagement, messaging, automation, analytics, and AI.
+
+- [Why Text Messages Fail to Send: Common Reasons and Fixes](https://reteno.com/blog/why-text-message-failed-to-send-16-common-reasons-how-to-resolve)
+- [iOS Live Activities Explained: How Mobile Apps Use Them](https://reteno.com/blog/ios-live-activities-explained-how-apps-use-them)
+- [5 User Flow Examples for Better Mobile App UX](https://reteno.com/blog/5-user-flow-examples-for-exceptional-ux-design)
+- [Push Notification Character Limits and Visibility Tips](https://reteno.com/blog/push-notification-character-limits-tips-to-be-visible)
+- [App Icon Badges: Definition and Mobile Marketing Tips](https://reteno.com/blog/what-are-app-icon-badges-definition-tips-for-mobile-marketing)
+- [Mobile App Branding: Strategies, Tips, and Examples](https://reteno.com/blog/a-guide-to-mobile-app-branding-actionable-tips-strategies-and-examples)
+- [Digital Marketing Funnel: Definition and Key Strategies](https://reteno.com/blog/what-is-a-digital-marketing-funnel-definition-strategies)
+- [Push Notification Best Practices for Mobile Apps](https://reteno.com/blog/push-notification-best-practices-ultimate-guide-for-2026)
+- [Test Group vs Control Group: Key Differences](https://reteno.com/blog/test-group-vs-control-group-understanding-the-difference)
+- [Mobile Commerce: Definition, Examples, and Trends](https://reteno.com/blog/what-is-mobile-commerce-definition-examples-and-trends)
+- [27 Best Mobile Apps on Google Play and the App Store](https://reteno.com/blog/27-best-mobile-apps-on-google-play-app-store)
+- [Mobile App Growth Strategies That Increase Revenue](https://reteno.com/blog/8-mobile-app-growth-strategies-that-boost-revenue-in-2026)
+- [Event-Based Marketing: Definition and Use Cases](https://reteno.com/blog/what-is-event-based-marketing)
+- [10 Inspiring Mobile Marketing Campaign Examples](https://reteno.com/blog/10-incredible-examples-of-mobile-marketing-campaigns-for-your-inspiration)
+- [Campaign Analytics: Metrics, Definition, and Strategies](https://reteno.com/blog/what-is-campaign-analytics-definition-key-metrics-and-actionable-strategies)
+- [Personalized Messaging: Examples and Best Practices](https://reteno.com/blog/personalized-messaging-a-full-guide-with-examples-best-practices)
+- [How to Increase Active Users in a Mobile App](https://reteno.com/blog/how-to-increase-active-users-on-mobile-app-10-best-practices-for-2026)
+- [Database Marketing: Definition, Examples, and Strategies](https://reteno.com/blog/a-guide-to-database-marketing-definition-examples-strategies)
+- [SMS Short Codes: Definition, Benefits, and Use Cases](https://reteno.com/blog/sms-short-code-everything-you-should-know)
+- [Deep Linking: How It Works and How to Create Deep Links](https://reteno.com/blog/deep-linking-what-is-it-and-how-to-create-deep-links)
+- [Mobile App Marketing: Strategies, Channels, and Tips](https://reteno.com/blog/mobile-app-marketing-a-comprehensive-guide-for-2026)
+- [How to Increase App Downloads with Proven Strategies](https://reteno.com/blog/how-to-increase-app-downloads-9-easy-and-proven-strategies)
+- [Customer Engagement Models: Types and Examples](https://reteno.com/blog/what-are-customer-engagement-models)
+- [10 Proven Ways to Grab Customer Attention](https://reteno.com/blog/10-best-ways-to-grab-customer-attention)
+- [In-App Messaging: Best Practices, Examples, and Use Cases](https://reteno.com/blog/in-app-messaging-best-practices-examples-use-cases)
+- [Inspiring Push Notification Examples for Mobile Campaigns](https://reteno.com/blog/inspiring-push-notifications-to-stir-up-your-mobile-campaign)
+- [Mobile Marketing Strategy for Retail Apps](https://reteno.com/blog/mobile-marketing-strategy-for-retail-actionable-tips-examples)
+- [Retention Marketing: Strategies, Examples, and Trends](https://reteno.com/blog/a-guide-to-retention-marketing-proven-strategies-examples-trends)
+- [Trigger-Based Campaigns: Ideas, Examples, and Best Practices](https://reteno.com/blog/trigger-based-campaigns-done-right-ideas-examples)
+- [How to Drive Mobile Engagement with Proven Strategies](https://reteno.com/blog/how-to-drive-mobile-engagement-7-proven-strategies)
+- [13 Mobile App Marketing Strategies to Drive Sales](https://reteno.com/blog/13-proven-mobile-app-marketing-strategies-to-drive-sales)
+- [How to Collect Customer Feedback Inside a Mobile App](https://reteno.com/blog/how-to-collect-in-app-customer-feedback)
+- [How to Re-Engage Inactive Mobile App Users](https://reteno.com/blog/how-to-re-engage-inactive-customers-on-a-mobile-app-9-best-practices-use-cases)
+- [How to Increase App Revenue with Monetization Strategies](https://reteno.com/blog/how-to-increase-app-revenue-8-actionable-app-monetization-tips)
+
+## Glossary
+
+The Reteno Glossary provides clear definitions, practical explanations, formulas, and examples for key terms in mobile marketing, app growth, customer engagement, retention, analytics, product management, and marketing automation.
+
+- [Glossary Homepage](https://reteno.com/glossary)
+- [Opt-In](https://reteno.com/glossary/opt-in)
+- [User ID](https://reteno.com/glossary/user-id)
+- [ARPPU](https://reteno.com/glossary/arppu)
+- [Mobile Marketing Platform](https://reteno.com/glossary/what-is-a-mobile-marketing-platform)
+- [Lifecycle Marketing](https://reteno.com/glossary/lifecycle-marketing)
+- [Purchase Frequency](https://reteno.com/glossary/purchase-frequency)
+- [App Conversion Rate](https://reteno.com/glossary/app-conversion-rate)
+- [Call to Action](https://reteno.com/glossary/cta)
+- [Marketing Automation](https://reteno.com/glossary/marketing-automation)
+- [Cost per Mille](https://reteno.com/glossary/cost-per-mille-cpm)
+- [User Segmentation](https://reteno.com/glossary/user-segmentation)
+- [Daily Active Users](https://reteno.com/glossary/daily-active-users-dau)
+- [In-App Notifications](https://reteno.com/glossary/in-app-notifications)
+- [Microtransactions](https://reteno.com/glossary/microtransaction)
+- [First-Party Data](https://reteno.com/glossary/first-party-data)
+- [Cohort Analysis](https://reteno.com/glossary/cohort-analysis)
+- [Churn Prediction](https://reteno.com/glossary/churn-prediction)
+- [Gamification](https://reteno.com/glossary/gamification)
+- [Customer Win-Back Campaign](https://reteno.com/glossary/customer-win-back-campaign)
+- [Go-to-Market Strategy](https://reteno.com/glossary/go-to-market-gtm-strategy)
+- [Linear Attribution Model](https://reteno.com/glossary/linear-attribution-model)
+- [Market Positioning](https://reteno.com/glossary/market-positioning)
+- [Mobile App Retention](https://reteno.com/glossary/mobile-app-retention)
+- [Product Features](https://reteno.com/glossary/product-features)
+- [Event Tracking](https://reteno.com/glossary/event-tracking)
+- [Lifetime Value](https://reteno.com/glossary/lifetime-value-ltv)
+- [Product Roadmap](https://reteno.com/glossary/product-roadmap)
+- [App Store Optimization](https://reteno.com/glossary/app-store-optimization-aso)
+- [Zero-Party Data](https://reteno.com/glossary/zero-party-data)
+- [Opt-Out](https://reteno.com/glossary/opt-out)
+- [Dynamic Island](https://reteno.com/glossary/dynamic-island)
+- [Customer Touchpoint](https://reteno.com/glossary/customer-touchpoint)
+- [Qualitative Data](https://reteno.com/glossary/qualitative-data)
+- [Revenue Attribution](https://reteno.com/glossary/revenue-attribution)
+- [Mobile Attribution](https://reteno.com/glossary/mobile-attribution)
+- [Cost per Action](https://reteno.com/glossary/cost-per-action-cpa)
+- [Customer Churn](https://reteno.com/glossary/churn)
+- [Monthly Active Users](https://reteno.com/glossary/monthly-active-users-mau)
+- [Automated Messages](https://reteno.com/glossary/automated-message)
+- [User Acquisition](https://reteno.com/glossary/user-acquisition)
+- [ARPDAU](https://reteno.com/glossary/arpdau)
+- [User Engagement](https://reteno.com/glossary/user-engagement)
+- [Retention Rate](https://reteno.com/glossary/retention-rate)
+- [Product Management](https://reteno.com/glossary/product-management)
+- [User Persona](https://reteno.com/glossary/user-persona)
+- [Cross-Channel Marketing](https://reteno.com/glossary/cross-channel-marketing)
+
+## Case Studies
+
+Reteno case studies show how mobile apps, subscription services, marketplaces, and digital businesses use automated messaging, segmentation, personalization, experimentation, and omnichannel campaigns to improve engagement, conversions, retention, and revenue.
+
+- [All Reteno Case Studies](https://reteno.com/case-studies): Customer success stories featuring Reteno use cases, implementation strategies, and measurable business results.
+- [FastEasy A/B Testing](https://reteno.com/case-studies/fasteasy-improves-subscription-conversion-rates-by-29-with-innovative-a-b-testing-solution)
+- [Food Delivery Order Growth](https://reteno.com/case-studies/food-delivery-app-increased-orders-by-65-in-six-months)
+- [Food Delivery LTV and ROAS](https://reteno.com/case-studies/food-delivery-app-grew-ltv-by-12-and-reached-500-roas)
+- [Prom.ua Personalized Pushes](https://reteno.com/case-studies/prom-ua-grew-sales-by-10-by-sending-personalized-triggered-pushes)
+- [Prom.ua Messaging Strategy](https://reteno.com/case-studies/prom-ua-increased-ctr-by-26-and-boosted-conversion-by-5-with-innovative-messaging-strategy)
+- [Marketplace Mobile Push](https://reteno.com/case-studies/marketplace-increased-purchases-by-1-5x-with-mobile-push)
+- [Marketplace Omnichannel Campaign](https://reteno.com/case-studies/marketplace-gains-extra-5-of-app-installs-through-omnichannel-campaign)
+- [Workout App Reminder Campaign](https://reteno.com/case-studies/a-workout-app-increased-reminder-campaign-cvr)
+- [Yoga App Automated Messaging](https://reteno.com/case-studies/yoga-workout-app-boosts-subscriptions-with-automated-messaging)
+- [IntellectoKids User Growth](https://reteno.com/case-studies/intellectokids-got-10-more-paid-customers-and-25-more-active-users)
+- [Food Delivery Segmentation](https://reteno.com/case-studies/food-delivery-app-increased-roi-152-through-segmentation)
+- [Promova Lesson Reminders](https://reteno.com/case-studies/promova-boosted-message-ctr-and-dau-with-automated-lesson-reminders)
+- [Promova Migration to Reteno](https://reteno.com/case-studies/completed-in-1-month-promovas-quick-seamless-transition-to-reteno)
+- [Reface Sales and CTR Growth](https://reteno.com/case-studies/refac
+
+===== homepage :: https://reteno.com/
+--- SIGNALS ---
+title: Reteno | AI Messaging Platform for Retention & Growth
+meta_description: Reteno lets subscription apps boost customer retention and grow revenue with AI-powered messaging, AI agents & always-on optimization across multiple channels.
+og_description: 
+og_site_name: 
+h1: AI messaging behind app growth
+h2: Trusted by 500+ brands building intelligent lifecycle messaging | See how AI-native messaging drives measurable ROI | Expert Voices & Tips | Integrate. Design. Analyze. Improve. | Pain in the App? | Reach Users Across 8 Channels | Features | Start converting more & retaining better within hours, not weeks! | Request a demo
+jsonld_org: [{"@type": "Organization", "@id": "https://reteno.com/#organization", "name": "Reteno", "legalName": "RETENTION YES SP. Z.O.O.", "url": "https://reteno.com/", "description": "Reteno is an AI-powered messaging automation platform for mobile apps. It helps 500+ brands across 23 European countries and the US implement retention strategies through ready-made omnichannel campaigns across Mobile Push, In-App, Email, SMS, Web Push, App Inbox, and Messengers.", "logo": {"@type": "ImageObject", "url": "https://cdn.prod.website-files.com/624ff35cc641a5e86c11bd6c/64ad55d2d9cedda60659914f_logo.svg", "contentUrl": "https://cdn.prod.website-files.com/624ff35cc641a5e86c11bd6c/64ad55d2d9cedda60659914f_logo.svg"}, "sameAs": ["https://www.linkedin.com/company/reteno/", "https://www.facebook.com/retenoplatform", "https://www.youtube.com/@reteno_com", "https://www.instagram.com/reteno_platform/", "https://twitter.com/reteno_platform"], "address": {"@type": "PostalAddress", "streetAddress": "Adama Branickiego Street 21, office U3", "addressLocality": "Warsaw", "addressRegion": "Mazowieckie", "postalCode": "02-972", "addressCountry": "PL"}, "subOrganization": [{"@type": "Organization", "@id": "https://reteno.com/#us-office", "name": "Reteno US", "legalName": "Retention Yes Inc.", "address": {"@type": "PostalAddress", "streetAddress": "3524 Silverside Rd, Ste 35B", "addressLocality": "Wilmington", "addressRegion": "DE", "postalCode": "19810", "addressCountry": "US"}, "parentOrganization": {"@id": "
+--- TEXT ---
+Reteno | AI Messaging Platform for Retention & Growth
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+Channels
+Mobile Push
+In-App
+App Inbox
+Email Automation
+SMS
+Web Push Notifications
+Personalization for App & Web
+Messengers
+Features
+Events
+Segmentation
+Personalization
+Profile Unification
+Automated A/B Testing
+Case Studies
+Expert Voices & Tips
+Pricing
+Resources
+Marketer Guide
+Developer Guide
+Onboarding Screenshots Gallery
+State of App Messaging 2026
+Push Notification Previewer
+Blog
+Glossary
+Sign in
+Sign Up
+Book Demo
+Product
+Channels
+Mobile Push
+In-App
+App Inbox
+Email Automation
+SMS
+Web Push Notifications
+Personalization for App & Web
+Messengers
+Features
+Events
+Segmentation
+Personalization
+Profile Unification
+Automated A/B Testing
+Case Studies
+Expert Voices & Tips
+Pricing
+Resources
+Marketer Guide
+Developer Guide
+Onboarding Screenshots Gallery
+State of App Messaging 2026
+Push Notification Previewer
+Blog
+Glossary
+AI messaging behind app growth
+Don't let users slip away!
+Reteno brings AI-powered email & push automation for mobile apps to maximize retention and Web2App conversions
+Driven by: 
+Slack Agent
+ | 
+Claude Cowork
+ | 
+OpenAI Codex
+ | 
+AI-enabled multivariate testing
+ | 
+Generative AI
+Book Demo
+Sign Up
++29
+Conversions
++33%
+MAU
++25%
+Revenue
+Trusted by 
+500+ brands
+ building intelligent lifecycle messaging
+See how AI-native messaging drives measurable ROI
+Explore how Reteno helps subscription apps lift revenue, conversions, CTR, and customer retention – 
+and grow faster!
+Daily yoga app boosts annual revenue by 16% and increases DAU by 19% with personalized reminders
+Mobile Push | AI | Campaign Automation | Personalized Content
+Walking app for weight loss skyrockets CTR by 54% & CVR by 19% with multilingual campaigns
+Mobile Push | AI | Campaign Automation | Unified Messaging | Personalized Content | Multilanguage
+Workout app with 50+M installs boosted revenue by 14% with a quick multi-message campaign
+Web2App | Fast integration | Email | Campaign Automation | Personalized Content | AI
+Language learning platform with 2M MAU drives up CTR and DAU by 10% with automated A/B testing
+Mobile Push | AI | Automated A/B Testing | Personalized Content | Multilanguage
+View all case studies
+Expert Voices & Tips
+Hear from industry leaders and successful practitioners on AI in marketing, retention insights, and strategies 
+for app growth
+What Comes After Paywall Optimization? Lessons from Flo's Product Team
+The more mature the industry becomes, the less useful playbooks get
+Gismart: What Happens After 1 Billion Downloads?
+View all
+Integrate. Design. Analyze. Improve.
+See how Reteno's native AI turns simple requests into real work
+Book Demo
+Sign Up
+Pain in the App?
+Let AI help you tackle the marketing challenges your app faces – boost retention and revenue through 
+personalized, automated messaging
+Work simpler, yet smarter
+Manage tasks through Slack, Claude Cowork, or OpenAI Codex
+Keep campaigns learning
+Automate multivariate testing & scale it to detect best performers
+Generate better content faster
+Outperform human copy with built-in AI generator/optimizer
+Focus on marketing & growth
+Let your marketing team move fast without waiting on devs
+Abandoned
+subscriptions
++25%
+revenue
+Regular
+reminders
+Reach Users Across 8 Channels
+Turn customer retention messaging into revenue by delivering the right message, on the right channel – 
+exactly when it matters most!
+Mobile Push Notifications
+In-App Push Notifications
+Email Campaigns
+SMS Campaigns
+Web Push Notifications
+Messengers
+Personalization for Apps & Web
+App Inbox Notifications
+Build message sequences from cheap to expensive messages to optimize costs and maximize ROI
+Learn Details
+Features
+Reteno combines agent-based execution, built-in AI creation tools, and always-on optimization that let you do more and move faster 
+without lowering quality
+AI agents
+Work with Reteno through Slack, Claude Cowork, and OpenAI Codex using natural language to manage campaigns & improve performance
+AI Content Tools
+Generate push variants, translate content, correct copy, and optimize emails directly inside the workflow
+One from Many
+Run continuous A/B testing that learns from engagement and keeps improving campaign performance across the entire user journey
+Explore all Reteno’s features and learn how they let you create precision-targeted campaigns that actually work
+View All Features
+Start converting more & retaining better within hours, not weeks!
+Reteno gives you a real competitive edge. See for yourself
+Book Demo
+Sign Up
+ 
+Reteno AI messaging platform
+LinkedIn
+Facebook
+YouTube
+Pricing
+Case Studies
+User Guide
+Blog
+Onboarding Gallery
+Privacy Policy
+Terms of Use
+GDPR
+DPA
+Contact Us
+Request a demo
+Your Name
+Email
+Your app name
+Please share anything to help prepare for our meeting 
+(optional)
+By proceeding, you confirm that you have read and agree to Reteno's Terms of Use and Privacy Policy
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+===== product :: https://reteno.com/features
+--- SIGNALS ---
+title: Features - All-in-One Messaging Automation | Reteno
+meta_description: Explore Reteno’s features that enhance your app marketing: AI-powered automated A/B testing, events, segmentation, personalization, and unification.
+og_description: 
+og_site_name: 
+h1: Features
+h2: AI Agents | One from Many | Built-in Generative AI | Email Editor | Events | Segmentation | Personalization | Unification | Start converting more & retaining better within hours, not weeks! | Request a demo
+jsonld_org: [{"@type": "Organization", "@id": "https://reteno.com/#organization", "name": "Reteno", "legalName": "RETENTION YES SP. Z.O.O.", "url": "https://reteno.com/", "description": "Reteno is an AI-powered messaging automation platform for mobile apps. It helps 500+ brands across 23 European countries and the US implement retention strategies through ready-made omnichannel campaigns across Mobile Push, In-App, Email, SMS, Web Push, App Inbox, and Messengers.", "logo": {"@type": "ImageObject", "url": "https://cdn.prod.website-files.com/624ff35cc641a5e86c11bd6c/64ad55d2d9cedda60659914f_logo.svg", "contentUrl": "https://cdn.prod.website-files.com/624ff35cc641a5e86c11bd6c/64ad55d2d9cedda60659914f_logo.svg"}, "sameAs": ["https://www.linkedin.com/company/reteno/", "https://www.facebook.com/retenoplatform", "https://www.youtube.com/@reteno_com", "https://www.instagram.com/reteno_platform/", "https://twitter.com/reteno_platform"], "address": {"@type": "PostalAddress", "streetAddress": "Adama Branickiego Street 21, office U3", "addressLocality": "Warsaw", "addressRegion": "Mazowieckie", "postalCode": "02-972", "addressCountry": "PL"}, "subOrganization": [{"@type": "Organization", "@id": "https://reteno.com/#us-office", "name": "Reteno US", "legalName": "Retention Yes Inc.", "address": {"@type": "PostalAddress", "streetAddress": "3524 Silverside Rd, Ste 35B", "addressLocality": "Wilmington", "addressRegion": "DE", "postalCode": "19810", "addressCountry": "US"}, "parentOrganization": {"@id": "
+--- TEXT ---
+Features - All-in-One Messaging Automation | Reteno
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+Channels
+Mobile Push
+In-App
+App Inbox
+Email Automation
+SMS
+Web Push Notifications
+Personalization for App & Web
+Messengers
+Features
+Events
+Segmentation
+Personalization
+Profile Unification
+Automated A/B Testing
+Case Studies
+Expert Voices & Tips
+Pricing
+Resources
+Marketer Guide
+Developer Guide
+Onboarding Screenshots Gallery
+State of App Messaging 2026
+Push Notification Previewer
+Blog
+Glossary
+Sign in
+Sign Up
+Book Demo
+Product
+Channels
+Mobile Push
+In-App
+App Inbox
+Email Automation
+SMS
+Web Push Notifications
+Personalization for App & Web
+Messengers
+Features
+Events
+Segmentation
+Personalization
+Profile Unification
+Automated A/B Testing
+Case Studies
+Expert Voices & Tips
+Pricing
+Resources
+Marketer Guide
+Developer Guide
+Onboarding Screenshots Gallery
+State of App Messaging 2026
+Push Notification Previewer
+Blog
+Glossary
+Features
+Built for performance, designed for growth
+AI Agents
+Manage Reteno in natural language through AI agents
+Use Reteno through Slack, Claude Cowork, or OpenAI Codex to handle day-to-day marketing work in natural language. Pull reports, troubleshoot issues, manage contacts, segments, events, and workflows, and move from question to action much faster.
+One from Many
+Continuous testing that keeps getting smarter
+Launch one workflow block that rotates message variants, learns from CTR, limits repetition, and gradually shifts traffic away from weak options. Add AI-generated variations and translations to extend testing and improve performance without rebuilding campaigns.
+Built-in Generative AI
+AI-powered messages that outperform human copy
+Create context-aware, on-brand emails and push notifications right inside your campaigns with an AI-powered generator – and automatically translate them into various languages. Increase conversions and improve retention with easily scalable message creation.
+Email Editor
+Collaborative email creation with built-in AI
+Create responsive emails in a faster editor with AI built into text blocks, subject lines, and preheaders. Generate copy, rewrite text, translate content, fix mistakes, and refine messages inside the template instead of working across extra tools.
+Events
+Campaigns driven by true user intentions
+Power up your retention strategy with events that go beyond clicks and opens. Trigger time-sensitive journeys, build hyper-targeted segments in real time, and keep Reteno’s algorithm learning from every user action, so your offers always hit the mark.
+Segmentation
+Smart segmentation to get the most from contact data
+Unlock the full power of your contact data. Create unlimited segments – from basic filters to complex logic, adding infinity and beyond conditions. It’s easy to handle any triggered campaign setting with Reteno's dynamic duo of segments and workflows.
+Personalization
+Dynamic content & recommendations that feel 1 : 1
+Deliver unique, seamless experiences your users actually want. Reteno’s AI-based algorithms predict individual needs and automatically personalize content across channels – so every message feels relevant, timely, and frictionless.
+Unification
+A 360° view of every user activity in one profile
+Unify user IDs across all your channels and data sources into a single, comprehensive profile. No event, campaign interaction, or database record goes untracked, providing you with unmatched visibility for the deepest segmentation and tailored offers.
+Start converting more & retaining better within hours, not weeks!
+Reteno gives you a real competitive edge. See for yourself
+Book Demo
+Sign Up
+ 
+Reteno AI messaging platform
+LinkedIn
+Facebook
+YouTube
+Pricing
+Case Studies
+User Guide
+Blog
+Onboarding Gallery
+Privacy Policy
+Terms of Use
+GDPR
+DPA
+Contact Us
+Request a demo
+Your Name
+Email
+Your app name
+Please share anything to help prepare for our meeting 
+(optional)
+By proceeding, you confirm that you have read and agree to Reteno's Terms of Use and Privacy Policy
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+===== pricing_or_trust :: https://reteno.com/pricing
+--- SIGNALS ---
+title: Reteno Free Tier & All-Inclusive Pricing Plans Features
+meta_description: Start with free plan and send unlimited mobile push & web push, in-app messages. Choose the plan that best suits your business scale with our clear all-inclusive packages.
+og_description: 
+og_site_name: 
+h1: Transparent Pricingfor the Best ROI
+h2: Platform Features | Frequently Asked Questions | Request a demo
+jsonld_org: [{"@type": "Organization", "@id": "https://reteno.com/#organization", "name": "Reteno", "legalName": "RETENTION YES SP. Z.O.O.", "url": "https://reteno.com/", "description": "Reteno is an AI-powered messaging automation platform for mobile apps. It helps 500+ brands across 23 European countries and the US implement retention strategies through ready-made omnichannel campaigns across Mobile Push, In-App, Email, SMS, Web Push, App Inbox, and Messengers.", "logo": {"@type": "ImageObject", "url": "https://cdn.prod.website-files.com/624ff35cc641a5e86c11bd6c/64ad55d2d9cedda60659914f_logo.svg", "contentUrl": "https://cdn.prod.website-files.com/624ff35cc641a5e86c11bd6c/64ad55d2d9cedda60659914f_logo.svg"}, "sameAs": ["https://www.linkedin.com/company/reteno/", "https://www.facebook.com/retenoplatform", "https://www.youtube.com/@reteno_com", "https://www.instagram.com/reteno_platform/", "https://twitter.com/reteno_platform"], "address": {"@type": "PostalAddress", "streetAddress": "Adama Branickiego Street 21, office U3", "addressLocality": "Warsaw", "addressRegion": "Mazowieckie", "postalCode": "02-972", "addressCountry": "PL"}, "subOrganization": [{"@type": "Organization", "@id": "https://reteno.com/#us-office", "name": "Reteno US", "legalName": "Retention Yes Inc.", "address": {"@type": "PostalAddress", "streetAddress": "3524 Silverside Rd, Ste 35B", "addressLocality": "Wilmington", "addressRegion": "DE", "postalCode": "19810", "addressCountry": "US"}, "parentOrganization": {"@id": "
+--- TEXT ---
+Reteno Free Tier & All-Inclusive Pricing Plans Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+Channels
+Mobile Push
+In-App
+App Inbox
+Email Automation
+SMS
+Web Push Notifications
+Personalization for App & Web
+Messengers
+Features
+Events
+Segmentation
+Personalization
+Profile Unification
+Automated A/B Testing
+Case Studies
+Expert Voices & Tips
+Pricing
+Resources
+Marketer Guide
+Developer Guide
+Onboarding Screenshots Gallery
+State of App Messaging 2026
+Push Notification Previewer
+Blog
+Glossary
+Sign In
+Sign Up
+Book Demo
+Product
+Channels
+Mobile Push
+In-App
+App Inbox
+Email Automation
+SMS
+Web Push Notifications
+Personalization for App & Web
+Messengers
+Features
+Events
+Segmentation
+Personalization
+Profile Unification
+Automated A/B Testing
+Case Studies
+Expert Voices & Tips
+Pricing
+Resources
+Marketer Guide
+Developer Guide
+Onboarding Screenshots Gallery
+State of App Messaging 2026
+Push Notification Previewer
+Blog
+Glossary
+ 
+Transparent Pricing
+for the Best ROI
+Pay based on how many user profiles you have. Use all must-have features no matter the scale at which your company operates.
+ 
+Startup
+1,000 sends & 20,000 workflow launches/mo to ignite your growth
+Free
+unlimited pushes
+Unlimited Mobile Push, 1K sends in each channel per month
+Unlimited segments. 20K flow launches/mo
+Email and chat support
+Start for free
+Growth
+ 
+ 
+ 
+ 
+$
+ 
+30
+ 
+/mo
+ 
+ 
+ 
+up to 
+10
+K user profiles
+ 
+ 
+ 
+ 
+ 
+from
+ 
+10K to 250K
+ - about
+ 
+$3 per 1000
+ contacts
+ 
+ 
+Unlimited workflows, 8 channels to help you scale your success
+Everything in STARTUP
+Unlimited workflows.
+8 channels included. 
+Dedicated Customer Success manager
+Sign Up
+Enterprise
+Ultimate control and support for your business
+Custom
+over 250K user profiles
+Everything in GROWTH
+Custom Machine Learning algorithms
+Custom retention strategy
+Contact Us
+Platform Features
+Choose a suitable plan to drive the most engagement and achieve the highest ROI.
+ 
+ 
+ 
+ 
+ 
+Startup
+Free
+Select Plan
+Growth
+$3 per 1K user profiles
+Select Plan
+Enterprise
+Custom
+Select Plan
+Engagement channels
+Mobile Push
+In-App
+App Inbox
+Email
+Web Push
+SMS*
+Automation and personalization
+Automated workflows
+Unlimited Tags & User Attributes
+Advanced personalization
+Drag-and-drop email builder
+Multilanguage messages in any channel
+Promo code personalization
+А/В testing
+Export to BigQuery
+Frequency capping
+Segmentation
+By in-app activity
+By message interactions
+By custom events
+By custom event parameters
+By purchasing activity
+RFM-based segmentation
+Cohort segmentation
+Location-based segmentation
+User behavior and data import
+Behavior in the mobile app
+Profile unification: tokens, emails, phone numbers, cookies
+Firebase data import
+Message tracking
+Order and purchase tracking
+Event tracking by API
+* Additional fees apply to deliver SMS. Price depends on the country and SMS provider. Please contact support for details.
+Engagement channels
+Mobile push notifications
+In-app messages
+App inbox
+Email
+Web push
+SMS
+Automation & personalization
+Automated workflows and journeys
+Advanced personalization
+Drag & drop email builder
+AI-based product recommendations
+Multi-language messages in any channel
+Promo code personalization
+А/В testing
+Export to BigQuery
+Frequency capping
+Segmentation
+By in-app activity
+By message interactions
+By custom events
+By custom event parameters
+By purchasing activity
+RFM-based segmentation
+Cohort segmentation
+By website browsing activity
+Location-based segmentation
+Geofence-based segmentation
+User behavior & data import
+Behavior in the mobile app
+Profile unification: tokens, emails, phone numbers, cookies
+Firebase data import
+Web tracking
+Message tracking
+Order and purchase tracking
+Event tracking by API
+BigQuery data import
+PostgreSQL data import
+Startup
+Free
+Select Plan
+Growth
+about $1 per 1000 contacts
+Select Plan
+Enterprise
+Custom
+Select Plan
+Frequently Asked Questions
+How do you calculate the number of user profiles?
+The system identifies individual users across all channels of interaction and collects their data in user profiles. Each profile receives an automatically generated unique contact ID. If one customer has both a push token and email, for example, that customer counts as one user profile.
+Is STARTUP really free? Are there any limits on the number of messages?
+Yes, STARTUP is really free. You can send unlimited mobile pushes and 1,000 messages in each channel per month absolutely free of charge. The only condition is that all your contact data must be collected legally — that is, you must obtain consent from all subscribers to receive messages from your company.
+Can I use Reteno if I don’t have a mobile app?
+No, our platform is designed specifically for mobile applications. If you don’t have an app, we recommend using our other service — Yespo CDP.
+How can I pay?
+Just connect your credit card and pay via Stripe if you need the GROWTH plan.
+Can I downgrade or cancel my plan?
+To downgrade, simply reduce the number of user profiles, such as by deleting inactive users. And of course, you are free to leave at any time — you will still have full access to platform services until the end of the current billing period. To cancel or downgrade your plan, just talk to our sales team.
+My question isn’t listed here…We’re always happy to help!
+Contact Us
+Ready to gain real
+competitive advantage?
+Book Demo
+Sign Up
+ 
+ 
+Reteno AI messaging platform
+LinkedIn
+Facebook
+YouTube
+Pricing
+Case Studies
+User Guide
+Blog
+Onboarding Gallery
+Privacy Policy
+Terms of Use
+GDPR
+DPA
+Contact Us
+ 
+Request a demo
+Your Name
+Email
+Your app name
+Please share anything to help prepare for our meeting 
+(optional)
+By proceeding, you confirm that you have read and agree to Reteno's Terms of Use and Privacy Policy
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.

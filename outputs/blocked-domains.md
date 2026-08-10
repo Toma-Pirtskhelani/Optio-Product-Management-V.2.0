@@ -3,7 +3,7 @@
 Companies this pass could not reach at Rungs 1–2. **No paste was requested during the pass**
 and **no user-agent was spoofed** to get past a refusal.
 
-**38 of 210 attempted (18%).**
+**45 of 237 attempted (19%).**
 
 | Company | Cause | Best HTTP | Candidates tried |
 |---|---|---|---|
@@ -30,26 +30,33 @@ and **no user-agent was spoofed** to get past a refusal.
 | inConcert | blocked (403/401/429) | 403 | inconcert.com, www.inconcert.com, inconcert.io, inconcert.ai, www.inconcert.ai,  |
 | Intense Technologies | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | intensetechnologies.com, intensetechnologies.io, www.intensetechnologies.io, int |
 | Lob | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | lob.com, lob.io, www.lob.io, lob.ai, lob.co |
+| Longtail UX | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | longtailux.com, www.longtailux.com, longtailux.io, www.longtailux.io, longtailux |
+| Mastercard | blocked (403/401/429) | 403 | mastercard.com, www.mastercard.com, mastercard.io, www.mastercard.io, mastercard |
 | MessageGears | blocked (403/401/429) | 403 | messagegears.com, www.messagegears.com, messagegears.io, www.messagegears.io, me |
 | Mindmatrix | HTTP 503 | 503 | mindmatrix.com, www.mindmatrix.com, mindmatrix.io, www.mindmatrix.io, mindmatrix |
 | NewZapp | blocked (403/401/429) | 403 | newzapp.com, www.newzapp.com, newzapp.io, www.newzapp.io, newzapp.ai, www.newzap |
 | PAR | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | par.com, par.io, www.par.io, par.ai, www.par.ai, par.co, www.par.co |
+| PostcardMania | blocked (403/401/429) | 403 | postcardmania.com, www.postcardmania.com, postcardmania.io, www.postcardmania.io |
 | PostGrid | blocked (403/401/429) | 403 | postgrid.com, www.postgrid.com, postgrid.io, www.postgrid.io, postgrid.ai, www.p |
 | Reachdesk | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | reachdesk.com, reachdesk.io, www.reachdesk.io, reachdesk.ai, www.reachdesk.ai, r |
 | SAP | blocked (403/401/429) | 403 | sap.com, www.sap.com, sap.io, www.sap.io, sap.ai, www.sap.ai, sap.co, www.sap.co |
 | SAS | blocked (403/401/429) | 403 | sas.com, sas.io, sas.ai, www.sas.ai, sas.co, www.sas.co |
 | Spectrm | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | spectrm.com, www.spectrm.com, spectrm.io, spectrm.ai, www.spectrm.ai, spectrm.co |
 | Striker Soft Solutions | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | strikersoftsolutions.com, www.strikersoftsolutions.com, strikersoftsolutions.io, |
+| SwiftERM Hyper-Personalisation | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | swiftermhyperpersonalisation.com, www.swiftermhyperpersonalisation.com, swifterm |
 | Swrve | blocked (403/401/429) | 403 | swrve.com, www.swrve.com, swrve.io, www.swrve.io, swrve.ai, www.swrve.ai, swrve. |
+| Treasure AI | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | treasureai.com, www.treasureai.com, treasureai.io, www.treasureai.io, treasureai |
+| Veloxy IO | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | veloxyio.com, www.veloxyio.com, veloxyio.io, www.veloxyio.io, veloxyio.ai, www.v |
 | Webmaxy | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | webmaxy.com, webmaxy.io, www.webmaxy.io, webmaxy.ai, www.webmaxy.ai, webmaxy.co |
 | Wigzo | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | wigzo.com, wigzo.io, www.wigzo.io, wigzo.ai, www.wigzo.ai, wigzo.co, www.wigzo.c |
+| WILY | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | wily.com, www.wily.com, wily.io, www.wily.io, wily.ai, www.wily.ai, wily.co, www |
 | xiQ | blocked (403/401/429) | 403 | xiq.com, www.xiq.com, xiq.io, xiq.ai, www.xiq.ai, xiq.co, www.xiq.co |
 | Zeta | blocked (403/401/429) | 401 | zeta.com, www.zeta.com, zeta.io, zeta.ai, zeta.co |
 
 ## Cause breakdown
 
-- **served a page that did not identify the company (parked, for-sale, or a different owner)** — 21
-- **blocked (403/401/429)** — 14
+- **served a page that did not identify the company (parked, for-sale, or a different owner)** — 26
+- **blocked (403/401/429)** — 16
 - **HTTP 301** — 1
 - **no DNS / no response** — 1
 - **HTTP 503** — 1

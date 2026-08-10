@@ -1,0 +1,4032 @@
+===== llms.txt :: https://mapp.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+﻿# Mapp
+## Pages
+- [Press Corner](https://mapp.com/press-corner/)
+- [Fashion Decoded 2026](https://mapp.com/fashion-decoded-2026/): Join us for Fashion Decoded, the premium industry event powered by Mapp, showcasing trends, insights, and innovations in fashion decoded.
+- [Brand & Product Discovery: The Ecommerce Pulse Check](https://mapp.com/brand-product-discovery-the-ecommerce-pulse-check/): Brand & Product Discovery: The Ecommerce Pulse Check Loading...
+- [Mapp Fashion - Use Case - Themed Emails](https://mapp.com/mapp-fashion-use-case-themed-emails/)
+- [Mapp Fashion - Use Case - AEO](https://mapp.com/mapp-fashion-use-case-aeo/)
+- [Mapp Fashion – Use Case – Search & Merch](https://mapp.com/mapp-fashion-use-case-search-merch/)
+- [Mapp Fashion - Use Case - Product Recommendations](https://mapp.com/mapp-fashion-use-case-product-recommendations/)
+- [Mapp Fashion - Use Case - PPC & Google Adwords](https://mapp.com/mapp-fashion-use-case-ppc-google-adwords/)
+- [Mapp Fashion](https://mapp.com/mapp-fashion/)
+- [Mapp Fashion - Use Case - Personalized Outfits](https://mapp.com/mapp-fashion-use-case-personalized-outfits/)
+- [Fashion Decoded Replay Hub](https://mapp.com/fashion-decoded-replay-hub/): Discover the Fashion Decoded Replay Hub, your go-to source for resources and insights from Mapp's Fashion Decoded event.
+- [Mapp Fashion - Demo Request](https://mapp.com/demo-request-mapp-fashion/): Submit your request to secure a 15-minute consultation with our sales reps for a customized demo of Mapp Fashion.
+- [Partner Portal - Register a Deal](https://mapp.com/partnerportal/register-deal/)
+- [Partner Portal](https://mapp.com/partnerportal/)
+- [Event Calendar](https://mapp.com/event-calendar/)
+- [Meet Mapp Marketing Cloud](https://mapp.com/mapp-marketing-cloud-overview/): Discover the Mapp Marketing Cloud, its benefits, and practical case studies for successful marketing.
+- [AI-Powered Digital Analytics](https://mapp.com/ai-powered-digital-analytics-overview/): From known customers to anonymous visitors, our pre-built and customizable dashboards help you understand user behavior across channels. With insights into conversions, campaign performance, and funnels, you’ll have the tools to refine every step of your brand journey.
+- [Integrations](https://mapp.com/partners/integrations/): See a list of Mapp Technology Partners to learn about the different integrations and technologies that support the Mapp Marketing Cloud stack.
+- [Trust Center](https://mapp.com/trust/)
+- [Mapp Nosto integration](https://mapp.com/mapp-for-nosto/): Boost ecommerce growth with Nosto and Mapp. Deliver hyper-personalised experiences across email, mobile, and onsite channels to drive revenue.
+- [The Big MACH](https://mapp.com/the-big-mach/)
+- [10 TACTICS TO IMPROVE YOUR MARKETING PLAYBOOK](https://mapp.com/tactics-to-improve-your-marketing-playbook/): This comprehensive guide is designed to help marketers of all levels implement high-impact strategies for better engagement and increased ROI. Each tactic includes main challenges to address, implementation benefits and steps, success metrics, and practical tips.
+- [Mapp Shopware app](https://mapp.com/shopware/): Our Magento Connector seamlessly plugs in your eCommerce data into Mapp Marketing Cloud to unlock insight-led marketing.
+- [Mapp Marketing Cloud Guided Tour](https://mapp.com/mapp-marketing-cloud-guided-tour/): Take a guided tour to gain a clear understanding of Mapp Marketing Cloud while exploring the main capabilities and features.
+- [Mapp Innovate Videos](https://mapp.com/innovate-2024-video-recap-series/): Mapp Innovate was held at RSA House in London, welcoming a host of thought leaders for an event filled with discussions around AI and personalization.
+- [2024 Digital Marketing Benchmark UK - Results](https://mapp.com/2024-digital-marketing-benchmark-uk-results/)
+- [Mapp and Trbo – The Future of Personalization](https://mapp.com/mapp-and-trbo/)
+- [The Ultimate Health, Wellness, and Fitness Guide](https://mapp.com/health-wellness-fitness-guide/): Our Health, Wellness, and Fitness eGuide is made for DTC and multichannel retailers looking to master their marketing through customer experiences their audiences yearn for.
+- [Mapp Marketing Cloud Pricing](https://mapp.com/mapp-marketing-cloud-pricing/): Discover Mapp Marketing Cloud Pricing Plans to see what solution best fits your needs. Find the product features you are looking for and embark on a journey with us.
+- [Meet Mapp AI Assistant](https://mapp.com/mapp-ai-assistant/): Scale your marketing campaigns with Mapp's predictive and generative AI Assistant for smarter decisions and faster execution.
+- [Homepage](https://mapp.com/): Mapp Marketing Cloud allows you to collect and analyze your customer data with AI, and trigger personalized campaigns across email, SMS, app, and your website.
+- [Crafting Everlasting Loyalty: Mapp's Black Friday & Holiday Masterplan](https://mapp.com/mapps-black-friday-holiday-masterplan/): Our Mapp Masterplan series takes you through the marketing framework you need to grow your Black Friday sales into long-term revenue.
+- [Events](https://mapp.com/resources/events/)
+- [Mapp Marketing Cloud - Demo Request](https://mapp.com/demo-request/): Submit your request to secure a 15-minute consultation with our sales reps for a customized demo of Mapp Marketing Cloud.
+- [Insight-led Marketing Stories - Why Attend](https://mapp.com/insight-led-stories-why-attend/): Join us, in partnership with Antavo, for the next Insight-Led Marketing Stories Event, where we'll dive into the latest State of Customer Experience Survey Results and how they're shaping the future of marketin
+- [Insight-led Marketing Stories Sponsorship](https://mapp.com/insight-led-stories-sponsorship/): Join us, in partnership with Antavo, for the next Insight-Led Marketing Stories Event, where we'll dive into the latest State of Customer Experience Survey Results and how they're shaping the future of marketing.
+- [Insight-Led Marketing Stories](https://mapp.com/insight-led-marketing-stories/): Join us for the 4th Edition of our Insight-Led Marketing Stories, in partnership with FactFinder, for a casual afternoon of hearing new insight-led marketing stories to learn new ways to combat the modern marketer’s challenges and give your final quarter strategies a boost.
+- [Black Friday Campaign 2023](https://mapp.com/black-friday-campaign-2023/)
+- [Mapp Event: Insight-Led Marketing Stories | 3rd Edition](https://mapp.com/mapp-event-insight-led-marketing-stories-3rd-edition/): Join us, in partnership with Fresh Relevance, for the next Insight-Led Marketing Stories Event. In this session we will discuss
+- [Mapp Magento plugin](https://mapp.com/mapp-magento-plugin/): Our Magento Connector seamlessly plugs in your eCommerce data into Mapp Marketing Cloud to unlock insight-led marketing.
+- [Mapp Event: Insight-Led Marketing Stories | 2nd Edition | Videos](https://mapp.com/mapp-event-insight-led-marketing-stories-2nd-edition-videos/): Join us, in partnership with Antavo, for the next Insight-Led Marketing Stories Event, where we'll dive into the latest State of Customer Experience Survey Results and how they're shaping the future of marketing.
+- [State of Customer Experience 2023](https://mapp.com/state-of-customer-experience-2023/)
+- [Mapp Event: Insight-Led Marketing Stories | 2nd Edition](https://mapp.com/mapp-event-insight-led-marketing-stories-customer-loyalty/): Join us, in partnership with Antavo, for the next Insight-Led Marketing Stories Event, where we'll dive into the latest State of Customer Experience Survey Results and how they're shaping the future of marketing.
+- [Mapp + MACH Alliance](https://mapp.com/mapp-mach-alliance/): See how Mapp Marketing Cloud fits into the great network of the MACH Alliance.
+- [Success Stories](https://mapp.com/resources/success-stories/): See a list of Mapp success stories to understand how Mapp Marketing Cloud can help you achieve your goals.
+- [Mapp Shopify plugin](https://mapp.com/mapp-shopify-plugin/)
+- [Privacy Notice Mapp Marketing Cloud](https://mapp.com/privacy-mapp-cloud/): This website (the “Site”) is operated, hosted and owned by Mapp Digital US, LLC and its affiliates (collectively “Mapp,” “we,” or “us”). The Site, together with the Mapp Blog mobile application (the “Blog App”) or any other mobile applications, products, or services offered to our Clients may be referred to herein collectively as the “Services.”
+- [Product Updates - Fall 2022](https://mapp.com/product-updates-fall-2022/)
+- [9 Tips You Need For A Successful Golden Quarter](https://mapp.com/resources/digital-guides/9-tips-you-need-for-a-successful-golden-quarter/): Mapp, VTEX, Jakala, and Fact-Finder experts give you 9 tactics you need to help brands navigate in Black Friday, the Holidays, and post-peak.
+- [Forrester Report - The Total Economic Impact™ of Mapp Marketing Cloud](https://mapp.com/resources/digital-guides/forrester-report-the-total-economic-impact-of-mapp-cloud/)
+- [Mapp Learning](https://mapp.com/mapp-learning/): Develop your knowledge at your own pace with Mapp learning tools!
+- [Technical Support](https://mapp.com/technical-support/)
+- [Request a Demo](https://mapp.com/request-demo/)
+- [Product Updates - Spring 2022](https://mapp.com/product-updates-spring-2022/)
+- [Customer Spotlights](https://mapp.com/resources/customer-spotlights/)
+- [Partner Program](https://mapp.com/partners/): See how Mapp Partner Program can fit your organization strategy.
+- [Contact Us](https://mapp.com/contact-us/): Contact us if you need help and need to speak with a member of our team, or check out our offices for a face-to-face meeting.
+- [Web Marketing](https://mapp.com/multichannel-marketing-experiences/web-marketing/): Drive retention, increase repeat purchases, and turn your anonymous web users into loyal customers through Mapp's web marketing capabilities.
+- [Mobile Marketing](https://mapp.com/multichannel-marketing-experiences/mobile-marketing/): Reach your customers with Mapp's mobile marketing capabilities such as mobile push notifications, in-app messages, and SMS.
+- [Email Marketing](https://mapp.com/multichannel-marketing-experiences/email-marketing/): Mapp is a leader in email marketing, built upon a native infrastructure, offering advanced segmentation and an average 98% delivery rate.
+- [Technical Services](https://mapp.com/professional-services/technical-services/): Mapp's technical services can help you implement multichannel automations, workflows for triggered messages, and backend integrations.
+- [Strategic Data Consulting](https://mapp.com/professional-services/strategic-data-consulting/): Discover how Mapp strategic data consulting services can help you discover and act on insights about your customers to improve your marketing performance.
+- [Deliverability Services](https://mapp.com/professional-services/deliverability-services/): Discover how Mapp email deliverability services can help you improve email deliverability, email domain reputation, and conversions.
+- [Track and Optimize Marketing Campaigns with Digital Analytics](https://mapp.com/digital-analytics/): Optimize your marketing strategy with Mapp's Digital Analytics. Leverage AI-driven insights to enhance campaigns, predict customer behavior, and boost ROI.
+- [Unify Your Data with Mapp's Customer Data Platform](https://mapp.com/customer-data-platform/): Leverage Mapp's Customer Data Platform to gain actionable insights, enhance customer profiles, & drive personalized marketing with unified data.
+- [Advanced Personalization](https://mapp.com/advanced-personalization/): Use Mapp’s advanced marketing personalization to create unique customer experiences based on individual preferences and behaviours.
+- [Scale Your Business With Marketing Automation](https://mapp.com/marketing-automation/): Discover how Mapp’s Marketing Automation platform can enhance customer engagement with personalized, multichannel marketing campaigns.
+- [The Informative Guide to Direct-To-Consumer Marketing](https://mapp.com/guide-to-direct-to-consumer-d2c-marketing/): Considering going direct-to-consumer (D2C)? Don’t follow traditional retail tactics. Mapp & VTEX have compiled the must-read differences and opportunities for D2C marketing.
+- [Clients](https://mapp.com/clients/): Check out our clients and see how brands similar to yours are using Mapp Marketing Cloud to drive results.
+- [D2C vs Retail: An Informative Guide to Direct-to-Consumer Marketing](https://mapp.com/resources/digital-guides/d2c-vs-retail-an-informative-guide-to-direct-to-consumer-marketing/)
+- [Become a Partner](https://mapp.com/partners/become-a-partner/): Become a partner to work with Mapp Marketing Cloud and a great network of agencies and technology partners.
+- [Technology Partners](https://mapp.com/partners/technology-partners/): See a list of Mapp Technology Partners to learn about the different integrations and technologies that support the Mapp Marketing Cloud stack.
+- [Business and Certified Partners](https://mapp.com/partners/consulting-partners/): Our network of partners includes agencies, resellers, and strategic service providers, who will work with us to integrate or develop Mapp projects and create added value.
+- [Multichannel Marketing](https://mapp.com/multichannel-marketing-experiences/): Learn how Mapp Marketing Cloud delivers seamless, automated multichannel marketing campaigns to boost customer engagement, loyalty, and conversions.
+- [Professional Services](https://mapp.com/professional-services/): Mapp’s Professional Services team can help you with deliverability optimization, strategic data consulting and technical services.
+- [Why Mapp](https://mapp.com/why-mapp/): See why Mapp Marketing Cloud is the right platform to drive customer experiences through AI-powered digital analytics and marketing automation.
+- [Infographics](https://mapp.com/resources/infographic/)
+- [Mapp Marketing Cloud Overview](https://mapp.com/mapp-marketing-clo
+
+===== homepage :: https://mapp.com/
+--- SIGNALS ---
+title: Mapp Marketing Cloud
+meta_description: Mapp Marketing Cloud allows you to collect and analyze your customer data with AI, and trigger personalized campaigns across email, SMS, app, and your website.
+og_description: Mapp Marketing Cloud allows you to collect and analyze your customer data with AI, and trigger personalized campaigns across email, SMS, app, and your website.
+og_site_name: Mapp
+h1: Mapp Marketing Cloud | Fashion intelligence, built into every product.
+h2: Solutions for your business | DigitalAnalytics | Fashion Fluent AI For Retail | MarketingAutomation | The benefits of working with Mapp | +69% | +40% | +20% | -10% | Integrating your Martech stack | Featured now | Fashion Decoded Replay Hub 2026 | Fashion Retail Discovery Intelligence Report 2026 | Fashion Retail Operating Index 2025 | Fashion Decoded Replay Hub 2025 | Hear what our customers have to say
+jsonld_org: []
+--- TEXT ---
+Mapp Marketing Cloud
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Marketing Cloud Overview
+ 
+AI-Powered Analytics
+ 
+Digital Analytics
+ 
+Mapp AI Assistant
+ 
+ 
+ 
+ 
+ 
+Marketing Automation
+ 
+Customer Data Unification
+ 
+Advanced Segmentation
+ 
+Hyper-Personalization
+ 
+Journey Automation
+ 
+ 
+ 
+ 
+ 
+Channel Overview
+ 
+Email
+ 
+Mobile
+ 
+Web
+ 
+ 
+ 
+ 
+ 
+Mapp Fashion Overview ›
+ 
+PPC & Google Adwords
+ 
+Personalized Outfits
+ 
+Product Recommendations
+ 
+Answer Engine Optimization
+ 
+Search & Merch
+ 
+Themed Emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clients & Partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clients
+ 
+ 
+Clients
+ 
+Success Stories
+ 
+ 
+ 
+ Partners
+ 
+ 
+Partner Program
+ 
+ 
+Business and Certified Partners
+ 
+ 
+Technology Partners
+ 
+ 
+Become a Partner
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+Our latest posts on digital 
+marketing.
+ 
+ 
+ 
+Resources
+Access to guides, case studies, webinars & more.
+ 
+ 
+ 
+Learning
+Develop your knowledge at your own pace with Mapp learning tools!
+ 
+ 
+ 
+ 
+SIGN UP FOR OUR NEWSLETTER
+ 
+ 
+Submit
+ 
+By clicking the "Submit" button, you subscribe to our marketing newsletter and confirm that you accept our 
+Privacy Notice
+. We may perform statistical analysis of your engagement with us. You may withdraw your consent at any time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About us
+ 
+ 
+Why Mapp
+ 
+Events
+ 
+MACH Alliance
+-->
+ 
+ 
+ 
+ 
+ 
+Careers
+ 
+Press
+-->
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WHY MAPP
+ The Tech.
+The Company.
+The People.
+See why Mapp stands out as the wise choice.
+ 
+Read more ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EN
+ 
+ 
+ DE
+ 
+ IT
+ 
+ ES
+ 
+ FR
+-->
+ 
+ 
+Request a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get started
+ 
+ 
+ 
+Follow Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EN
+ 
+ 
+ DE
+ 
+ IT
+ 
+ ES
+ 
+ FR
+-->
+ 
+ 
+ 
+ 
+ 
+Request a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Marketing Cloud Overview ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing Automation ›
+ 
+ 
+Customer Data Unification
+ 
+Advanced Segmentation
+ 
+Hyper-Personalization
+ 
+Journey Automation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI-Powered Analytics ›
+ 
+ 
+Digital Analytics
+ 
+Mapp AI Assistant
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Channels ›
+ 
+ 
+Email
+ 
+Mobile
+ 
+Web
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Fashion Overview ›
+ 
+PPC & Google Adwords
+ 
+Personalized Outfits
+ 
+Product Recommendations
+ 
+Answer Engine Optimization
+ 
+Search & Merch
+ 
+Themed Emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clients
+ 
+ 
+Clients
+ 
+Professional Services
+ 
+Success Stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+ 
+Partner Program
+ 
+Business and Certified Partners
+ 
+Technology Partners
+ 
+Become a Partner
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Become a partner
+ Join our partner community and help your customers deliver insight-led customer experiences.
+ 
+Learn more ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Our latest posts on digital marketing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+Access to guides, case studies, webinars & more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learning
+ 
+ 
+ 
+Develop your knowledge at your own pace with Mapp learning tools!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign Up for Our Newsletter
+ 
+ 
+ 
+ 
+By clicking the "Submit" button, you subscribe to our marketing newsletter and confirm that you accept our 
+Privacy Notice
+. We may perform statistical analysis of your engagement with us. You may withdraw your consent at any time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About us
+ 
+ 
+Why Mapp
+ 
+Events
+ 
+MACH Alliance
+-->
+ 
+Careers
+ 
+Press
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Mapp
+ The Tech.
+The Company.
+The People.
+See why Mapp stands out as the wise choice.
+ 
+Read more ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp 
+Marketing Cloud
+ 
+Collect and analyze your customer data with AI to personalize your marketing messages across your website, email, SMS, push notifications, and apps, based on customer behavior.
+ 
+ 
+Guided Demo Tour ›
+ 
+Product Overview ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+Introducing Fashion Product Intelligence
+ 
+Fashion intelligence, 
+built into every product.
+ 
+Most fashion retailers lose revenue to shallow product data: poor search, weak recommendations, underperforming ads. 
+Mapp Fashion fixes this at the source, by enriching your entire catalogue with 26,000+ stylist-curated attributes so the same product intelligence powers every channel.
+ 
+ 
+Mapp Fashion →
+ 
+ 
+ 
+ 
+ 
+ 
+-->
+ 
+ 
+Trusted by over 300 leading global businesses
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions for your business
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Digital
+Analytics
+ Dig deeper into your data to map customer journeys, detect conversion drivers, and generate actionable insights to optimize your marketing activities and drive business growth across all touchpoints. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fashion Fluent AI For Retail
+ Mapp Fashion helps brands deliver AI-driven personalization and inventory insights to improve eCommerce efficiency and boost your brand’s revenue. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing
+Automation
+ Deliver personalized, cross-channel experiences across email, SMS, app, and web that adapt to each customer’s behavior and guide them seamlessly through all relevant digital touchpoints. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by 3,500+ brands
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The benefits of working with Mapp
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From cost reduction to revenue growth, see how leading brands are achieving measurable results.
+ 
+Read success stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++69%
+ orders from personalized emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++40%
+ average purchase value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++20%
+ revenue growth
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-10%
+ return rate
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrating your Martech stack
+ 
+Easily integrate Mapp Marketing Cloud with the rest of your marketing ecosystem. Data is more readily absorbed and unified with our flexible APIs.
+ 
+See all our Integrations ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Featured now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fashion Decoded Replay Hub 2026
+ 
+Watch replays of our 2026 Fashion Decoded event.
+ 
+Watch now ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fashion Retail Discovery Intelligence Report 2026
+ 
+The definitive intelligence report on fashion retail brand and product discovery. 
+397 retailers · 7 markets · 84 matched financials · Jan 2024–Feb 2026. 
+ 
+Free Download >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fashion Retail Operating Index 2025
+ 
+The definitive ranking of Quality & Health leaders. Strategic intelligence analyzing $1.285tr in revenue across luxury, sportswear, mass market, value, department stores, and resale.
+ 
+Free Download >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fashion Decoded Replay Hub 2025
+ 
+Watch replays of our 2025 Fashion Decoded event.
+ 
+Watch now ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hear what our customers have to say
+ 
+ 
+ 
+ 
+ 
+ 
+From Retail & eCommerce to Finance and Publishing, Mapp Marketing Cloud helps more than 3,000 businesses from across diverse industries.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our partnership helps us put customers at the heart of everything, delivering personalized recommendations and outfits to offer the best experience. We’ve seen strong results and I’m excited to roll it out across all brands.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrating our data and automating personalized customer journeys have significantly boosted our engagement rates and improved our email marketing performance. Insights from Mapp have enabled us to connect more deeply with our customers, increasing loyalty and growth. Now, our team can concentrate on strategic initiatives instead of manual, time-consuming tasks.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At PizzaExpress, we've been on a journey to transform the way we engage with our customers through our industry leading loyalty app, PizzaExpress Club. Our partnership with Mapp has been instrumental in achieving exceptional results, from a significant increase in app downloads and loyalty members to the valuable insights we've gained on customer behaviour. We never stand still at PizzaExpress and are working on leveraging this data to further enhance real-time personalisation, resulting in better-customised journeys to our customers.
+ 
+ 
+ 
+ 
+ 
+See our success stories ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ready to experience Mapp?
+ 
+Let's talk!
+ 
+Book a meeting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Almost there! Please fill in a few additional details to sign up.
+ 
+X
+ 
+ 
+ 
+ 
+ 
+We need your consent to load this form!
+ 
+We use a third party to perform the registration for our content. This third party may collect data about your activity. Please review the details and accept the service to complete the registration.
+ 
+ 
+ More Information 
+ 
+ Accept 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign up for our newsletter
+ 
+ 
+By registering, you agree to receive occasional Mapp marketing emails and to the analysis of individual opening and click rates. You can revoke your consent at any time with effect for the future. You can find more information in our 
+privacy notice
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+ 
+ Product Overview 
+ 
+ 
+ 
+ Customer Data Platform 
+ 
+ 
+ 
+ Artificial Intelligence 
+ 
+ 
+ 
+ Advanced Personalization 
+ 
+ 
+ 
+ Marketing Automation 
+ 
+ 
+ 
+ Digital Analytics 
+ 
+ 
+ 
+ Mapp Fashion 
+ 
+ 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ Channel Overview 
+ 
+ 
+ 
+ Email Marketing 
+ 
+ 
+ 
+ Mobile Marketing 
+ 
+ 
+ 
+ Web Marketing 
+ 
+ 
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+ 
+ Services Overview 
+ 
+ 
+ 
+ Deliverability Services 
+ 
+ 
+ 
+ Strategic Data Consulting 
+ 
+ 
+ 
+ Client Technical Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clients
+ 
+ 
+ 
+ 
+ Success Stories 
+ 
+ 
+ 
+ Logo Wall 
+ 
+ 
+ 
+Partners
+ 
+ 
+ 
+ 
+ Partner Program 
+ 
+ 
+ 
+ Business and Certified Partners 
+ 
+ 
+ 
+ Technology Partners 
+ 
+ 
+ 
+ Become a Partner 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ Mapp Learning 
+ 
+ 
+ 
+ Product Updates 
+ 
+ 
+ 
+ 
+ 
+About us
+ 
+ 
+ 
+ 
+ Why Mapp 
+ 
+ 
+ 
+ MACH Alliance 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ Press 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ Support 
+ 
+ 
+ 
+ Mapp Trust Center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+ 
+ Product Overview 
+ 
+ 
+ 
+ Customer Data Platform 
+ 
+ 
+ 
+ Artificial Intelligence 
+ 
+ 
+ 
+ Advanced Personalization 
+ 
+ 
+ 
+ Marketing Automation 
+ 
+ 
+ 
+ Digital Analytics 
+ 
+ 
+ 
+ Mapp Fashion 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ Channel Overview 
+ 
+ 
+ 
+ Email Marketing 
+ 
+ 
+ 
+ Mobile Marketing 
+ 
+ 
+ 
+ Web Marketing 
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+ 
+ Services Overview 
+ 
+ 
+ 
+ Deliverability Services 
+ 
+ 
+ 
+ Strategic Data Consulting 
+ 
+ 
+ 
+ Client Technical Services 
+ 
+ 
+ 
+Clients
+ 
+ 
+ 
+ 
+ Success Stories 
+ 
+ 
+ 
+ Logo Wall 
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+ 
+ 
+ 
+ Partner Program 
+ 
+ 
+ 
+ Business and Certified Partners 
+ 
+ 
+ 
+ Technology Partners 
+ 
+ 
+ 
+ Become a Partner 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ Mapp Learning 
+ 
+ 
+ 
+ Product Updates 
+ 
+ 
+ 
+About us
+ 
+ 
+ 
+ 
+ Why Mapp 
+ 
+ 
+ 
+ MACH Alliance 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ Press 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ Support 
+ 
+ 
+ 
+ Mapp Trust Center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Cloud Reviews
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Cloud Reviews
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright © 2026 Mapp Digital UK Ltd. All Rights Reserved.
+Support
+ / 
+Privacy
+ / 
+Legal
+ / 
+Acceptable Use Policy
+ / 
+Contracts
+
+===== product :: https://mapp.com/product-updates/
+--- SIGNALS ---
+title: Product Updates Archive - Mapp
+meta_description: 
+og_description: 
+og_site_name: Mapp
+h1: Product Updates
+h2: 
+jsonld_org: []
+--- TEXT ---
+Product Updates Archive - Mapp
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Marketing Cloud Overview
+ 
+AI-Powered Analytics
+ 
+Digital Analytics
+ 
+Mapp AI Assistant
+ 
+ 
+ 
+ 
+ 
+Marketing Automation
+ 
+Customer Data Unification
+ 
+Advanced Segmentation
+ 
+Hyper-Personalization
+ 
+Journey Automation
+ 
+ 
+ 
+ 
+ 
+Channel Overview
+ 
+Email
+ 
+Mobile
+ 
+Web
+ 
+ 
+ 
+ 
+ 
+Mapp Fashion Overview ›
+ 
+PPC & Google Adwords
+ 
+Personalized Outfits
+ 
+Product Recommendations
+ 
+Answer Engine Optimization
+ 
+Search & Merch
+ 
+Themed Emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clients & Partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clients
+ 
+ 
+Clients
+ 
+Success Stories
+ 
+ 
+ 
+ Partners
+ 
+ 
+Partner Program
+ 
+ 
+Business and Certified Partners
+ 
+ 
+Technology Partners
+ 
+ 
+Become a Partner
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+Our latest posts on digital 
+marketing.
+ 
+ 
+ 
+Resources
+Access to guides, case studies, webinars & more.
+ 
+ 
+ 
+Learning
+Develop your knowledge at your own pace with Mapp learning tools!
+ 
+ 
+ 
+ 
+SIGN UP FOR OUR NEWSLETTER
+ 
+ 
+Submit
+ 
+By clicking the "Submit" button, you subscribe to our marketing newsletter and confirm that you accept our 
+Privacy Notice
+. We may perform statistical analysis of your engagement with us. You may withdraw your consent at any time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About us
+ 
+ 
+Why Mapp
+ 
+Events
+ 
+MACH Alliance
+-->
+ 
+ 
+ 
+ 
+ 
+Careers
+ 
+Press
+-->
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WHY MAPP
+ The Tech.
+The Company.
+The People.
+See why Mapp stands out as the wise choice.
+ 
+Read more ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EN
+ 
+ 
+ DE
+ 
+ IT
+ 
+ ES
+ 
+ FR
+-->
+ 
+ 
+Request a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get started
+ 
+ 
+ 
+Follow Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EN
+ 
+ 
+ DE
+ 
+ IT
+ 
+ ES
+ 
+ FR
+-->
+ 
+ 
+ 
+ 
+ 
+Request a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Marketing Cloud Overview ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing Automation ›
+ 
+ 
+Customer Data Unification
+ 
+Advanced Segmentation
+ 
+Hyper-Personalization
+ 
+Journey Automation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI-Powered Analytics ›
+ 
+ 
+Digital Analytics
+ 
+Mapp AI Assistant
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Channels ›
+ 
+ 
+Email
+ 
+Mobile
+ 
+Web
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Fashion Overview ›
+ 
+PPC & Google Adwords
+ 
+Personalized Outfits
+ 
+Product Recommendations
+ 
+Answer Engine Optimization
+ 
+Search & Merch
+ 
+Themed Emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clients
+ 
+ 
+Clients
+ 
+Professional Services
+ 
+Success Stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+ 
+Partner Program
+ 
+Business and Certified Partners
+ 
+Technology Partners
+ 
+Become a Partner
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Become a partner
+ Join our partner community and help your customers deliver insight-led customer experiences.
+ 
+Learn more ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Our latest posts on digital marketing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+Access to guides, case studies, webinars & more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learning
+ 
+ 
+ 
+Develop your knowledge at your own pace with Mapp learning tools!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign Up for Our Newsletter
+ 
+ 
+ 
+ 
+By clicking the "Submit" button, you subscribe to our marketing newsletter and confirm that you accept our 
+Privacy Notice
+. We may perform statistical analysis of your engagement with us. You may withdraw your consent at any time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About us
+ 
+ 
+Why Mapp
+ 
+Events
+ 
+MACH Alliance
+-->
+ 
+Careers
+ 
+Press
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Mapp
+ The Tech.
+The Company.
+The People.
+See why Mapp stands out as the wise choice.
+ 
+Read more ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Updates
+ 
+ All Mapp Marketing Cloud product releases. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Marketing Cloud June Update 2023
+ 
+Explore
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Spring Update 2022
+ 
+Explore
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Almost there! Please fill in a few additional details to sign up.
+ 
+X
+ 
+ 
+ 
+ 
+ 
+We need your consent to load this form!
+ 
+We use a third party to perform the registration for our content. This third party may collect data about your activity. Please review the details and accept the service to complete the registration.
+ 
+ 
+ More Information 
+ 
+ Accept 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign up for our newsletter
+ 
+ 
+By registering, you agree to receive occasional Mapp marketing emails and to the analysis of individual opening and click rates. You can revoke your consent at any time with effect for the future. You can find more information in our 
+privacy notice
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+ 
+ Product Overview 
+ 
+ 
+ 
+ Customer Data Platform 
+ 
+ 
+ 
+ Artificial Intelligence 
+ 
+ 
+ 
+ Advanced Personalization 
+ 
+ 
+ 
+ Marketing Automation 
+ 
+ 
+ 
+ Digital Analytics 
+ 
+ 
+ 
+ Mapp Fashion 
+ 
+ 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ Channel Overview 
+ 
+ 
+ 
+ Email Marketing 
+ 
+ 
+ 
+ Mobile Marketing 
+ 
+ 
+ 
+ Web Marketing 
+ 
+ 
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+ 
+ Services Overview 
+ 
+ 
+ 
+ Deliverability Services 
+ 
+ 
+ 
+ Strategic Data Consulting 
+ 
+ 
+ 
+ Client Technical Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clients
+ 
+ 
+ 
+ 
+ Success Stories 
+ 
+ 
+ 
+ Logo Wall 
+ 
+ 
+ 
+Partners
+ 
+ 
+ 
+ 
+ Partner Program 
+ 
+ 
+ 
+ Business and Certified Partners 
+ 
+ 
+ 
+ Technology Partners 
+ 
+ 
+ 
+ Become a Partner 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ Mapp Learning 
+ 
+ 
+ 
+ Product Updates 
+ 
+ 
+ 
+ 
+ 
+About us
+ 
+ 
+ 
+ 
+ Why Mapp 
+ 
+ 
+ 
+ MACH Alliance 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ Press 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ Support 
+ 
+ 
+ 
+ Mapp Trust Center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+ 
+ Product Overview 
+ 
+ 
+ 
+ Customer Data Platform 
+ 
+ 
+ 
+ Artificial Intelligence 
+ 
+ 
+ 
+ Advanced Personalization 
+ 
+ 
+ 
+ Marketing Automation 
+ 
+ 
+ 
+ Digital Analytics 
+ 
+ 
+ 
+ Mapp Fashion 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ Channel Overview 
+ 
+ 
+ 
+ Email Marketing 
+ 
+ 
+ 
+ Mobile Marketing 
+ 
+ 
+ 
+ Web Marketing 
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+ 
+ Services Overview 
+ 
+ 
+ 
+ Deliverability Services 
+ 
+ 
+ 
+ Strategic Data Consulting 
+ 
+ 
+ 
+ Client Technical Services 
+ 
+ 
+ 
+Clients
+ 
+ 
+ 
+ 
+ Success Stories 
+ 
+ 
+ 
+ Logo Wall 
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+ 
+ 
+ 
+ Partner Program 
+ 
+ 
+ 
+ Business and Certified Partners 
+ 
+ 
+ 
+ Technology Partners 
+ 
+ 
+ 
+ Become a Partner 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ Mapp Learning 
+ 
+ 
+ 
+ Product Updates 
+ 
+ 
+ 
+About us
+ 
+ 
+ 
+ 
+ Why Mapp 
+ 
+ 
+ 
+ MACH Alliance 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ Press 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ Support 
+ 
+ 
+ 
+ Mapp Trust Center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Cloud Reviews
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Cloud Reviews
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright © 2026 Mapp Digital UK Ltd. All Rights Reserved.
+Support
+ / 
+Privacy
+ / 
+Legal
+ / 
+Acceptable Use Policy
+ / 
+Contracts
+
+===== pricing_or_trust :: https://mapp.com/trust/
+--- SIGNALS ---
+title: Trust Center - Mapp
+meta_description: 
+og_description: 
+og_site_name: Mapp
+h1: Trust Center
+h2: Our Commitment to Security and Data Protection | Key Security Measures | Data Protection Features | Responsible AI Usage | Trusted by Leading Brands | Downloads | Product Documentation | Contact information
+jsonld_org: []
+--- TEXT ---
+Trust Center - Mapp
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Marketing Cloud Overview
+ 
+AI-Powered Analytics
+ 
+Digital Analytics
+ 
+Mapp AI Assistant
+ 
+ 
+ 
+ 
+ 
+Marketing Automation
+ 
+Customer Data Unification
+ 
+Advanced Segmentation
+ 
+Hyper-Personalization
+ 
+Journey Automation
+ 
+ 
+ 
+ 
+ 
+Channel Overview
+ 
+Email
+ 
+Mobile
+ 
+Web
+ 
+ 
+ 
+ 
+ 
+Mapp Fashion Overview ›
+ 
+PPC & Google Adwords
+ 
+Personalized Outfits
+ 
+Product Recommendations
+ 
+Answer Engine Optimization
+ 
+Search & Merch
+ 
+Themed Emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clients & Partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clients
+ 
+ 
+Clients
+ 
+Success Stories
+ 
+ 
+ 
+ Partners
+ 
+ 
+Partner Program
+ 
+ 
+Business and Certified Partners
+ 
+ 
+Technology Partners
+ 
+ 
+Become a Partner
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+Our latest posts on digital 
+marketing.
+ 
+ 
+ 
+Resources
+Access to guides, case studies, webinars & more.
+ 
+ 
+ 
+Learning
+Develop your knowledge at your own pace with Mapp learning tools!
+ 
+ 
+ 
+ 
+SIGN UP FOR OUR NEWSLETTER
+ 
+ 
+Submit
+ 
+By clicking the "Submit" button, you subscribe to our marketing newsletter and confirm that you accept our 
+Privacy Notice
+. We may perform statistical analysis of your engagement with us. You may withdraw your consent at any time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About us
+ 
+ 
+Why Mapp
+ 
+Events
+ 
+MACH Alliance
+-->
+ 
+ 
+ 
+ 
+ 
+Careers
+ 
+Press
+-->
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WHY MAPP
+ The Tech.
+The Company.
+The People.
+See why Mapp stands out as the wise choice.
+ 
+Read more ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EN
+ 
+ 
+ DE
+ 
+ IT
+ 
+ ES
+ 
+ FR
+-->
+ 
+ 
+Request a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get started
+ 
+ 
+ 
+Follow Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EN
+ 
+ 
+ DE
+ 
+ IT
+ 
+ ES
+ 
+ FR
+-->
+ 
+ 
+ 
+ 
+ 
+Request a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Marketing Cloud Overview ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing Automation ›
+ 
+ 
+Customer Data Unification
+ 
+Advanced Segmentation
+ 
+Hyper-Personalization
+ 
+Journey Automation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI-Powered Analytics ›
+ 
+ 
+Digital Analytics
+ 
+Mapp AI Assistant
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Channels ›
+ 
+ 
+Email
+ 
+Mobile
+ 
+Web
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Fashion Overview ›
+ 
+PPC & Google Adwords
+ 
+Personalized Outfits
+ 
+Product Recommendations
+ 
+Answer Engine Optimization
+ 
+Search & Merch
+ 
+Themed Emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clients
+ 
+ 
+Clients
+ 
+Professional Services
+ 
+Success Stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+ 
+Partner Program
+ 
+Business and Certified Partners
+ 
+Technology Partners
+ 
+Become a Partner
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Become a partner
+ Join our partner community and help your customers deliver insight-led customer experiences.
+ 
+Learn more ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Our latest posts on digital marketing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+Access to guides, case studies, webinars & more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learning
+ 
+ 
+ 
+Develop your knowledge at your own pace with Mapp learning tools!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign Up for Our Newsletter
+ 
+ 
+ 
+ 
+By clicking the "Submit" button, you subscribe to our marketing newsletter and confirm that you accept our 
+Privacy Notice
+. We may perform statistical analysis of your engagement with us. You may withdraw your consent at any time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About us
+ 
+ 
+Why Mapp
+ 
+Events
+ 
+MACH Alliance
+-->
+ 
+Careers
+ 
+Press
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Mapp
+ The Tech.
+The Company.
+The People.
+See why Mapp stands out as the wise choice.
+ 
+Read more ›
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trust Center
+ 
+ 
+ 
+ 
+ Overview
+ 
+ Security Measures
+ 
+ Data Protection
+ 
+ AI Usage
+ 
+ 
+ 
+ 
+Our Commitment to Security and Data Protection
+ 
+At Mapp, we’re dedicated to keeping your data safe. Mapp Engage, Mapp Intelligence and Mapp Fashion are designed to help you connect with customers securely. We know that your trust is earned through transparency and robust security measures.
+ISO 27001 Certified: 
+Our information security management is certified under ISO 27001, including cloud-specific standards such as ISO 27017 (Cloud Security) and ISO 27018 (Cloud Privacy).
+Additional Standards: 
+We adhere to ISO 27701 for privacy management and ISO 22301 for business continuity, ensuring our services remain reliable even in disruptive situations.
+Compliance: 
+We meet key global regulatory standards, including GDPR, CCPA, NIS-2, and DORA.
+Certified Sender Alliance: 
+We follow the best practices in email marketing, ensuring both security and deliverability.
+Independent Audits: 
+Regular third-party audits and penetration tests help us continually strengthen our defenses and improve our security measures.
+ 
+ 
+ 
+Key Security Measures
+ 
+Hosting: 
+Mapp Engage and Intelligence run in ISO 27001 certified data centers in Germany. Mapp Fashion is hosted on AWS in EU regions by default. This keeps your data secure and ensures it resides within EU boundaries.
+Data Encryption:
+ We use AES-256 encryption to protect sensitive data at rest and TLS 1.2+ for secure data transmission, safeguarding your data per state of the art.
+Identity & Access Management:
+ Multi-Factor Authentication and Role-based Access Control, as well as the option for Single Sign-On, ensure only authorized people can access your data. We review permissions regularly.
+Vulnerability Management:
+ Regular vulnerability scans and annual penetration testing help identify and fix risks. Redacted reports available on request.
+Incident Response:
+ Our 24/7 team responds swiftly to incidents, with regular drills and breach notifications sent within 24 hours.
+ 
+ 
+ 
+Data Protection Features
+ 
+Custom Data Collection: 
+Collect only what you need for specific marketing purposes.
+First-Party Analytics:
+ 100% GDPR-compliant tracking, no reliance on third-party data.
+Flexible Web Tracking: 
+Choose between client-side (cookies) or server-side tracking for more control.
+Email Tracking: 
+Customize based on user consent – personalized, anonymized, or none.
+Manage Consent & Rights:
+ Easily handle requests for access, corrections, or opt-outs.
+Data Ownership: 
+You control your data with full legal guarantees.
+What happens in Europe will stay in Europe:
+ Upon request, we will limit access to your data to the European Union and the United Kingdom.
+Privacy by Design:
+ Privacy and security are built into our product features from the beginning using threat modelling techniques.
+ 
+ 
+ 
+Responsible AI Usage
+ 
+Customer-Specific AI Models: 
+We use machine learning models tailored to your data, ensuring you retain full control.
+AI Assistant: 
+Our optional AI Assistant helps with tasks like content creation, always prioritizing privacy and compliance.
+No Personal Data Shared: 
+We never transmit personal data to AI services.
+Full Transparency: 
+You can always see what data is shared, ensuring clarity.
+Safe AI Outputs:
+ AI outputs are regularly reviewed to ensure accuracy and prevent bias.
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by Leading Brands
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Downloads
+ 
+ 
+Our Policy on Information Security & Data Protection
+ 
+ISO 27001 Certification with ISO 27017 and ISO 27018 Add-Ons for Information Security and Cloud Privacy
+ 
+Statement of Applicability (SOA) for Security and Privacy Controls
+ 
+Data Processing Agreement (DPA) for Mapp Marketing Cloud Customer Information
+ 
+Technical and Organizational Measures (TOMs) for Protecting Customer Information in Mapp Marketing Cloud
+ 
+Confirmation of Compliance with Technical and Organizational Measures (TOMs)
+ 
+List of Sub-Processors Involved in Information Handling
+ 
+Customer Information Protection Report 2025
+ 
+Pre-filled CAIQ (Consensus Assessments Initiative Questionnaire) Security Questionnaire
+ 
+Financial Supplier Qualification System (FSQS) Certificate - Verified Supplier Compliance
+ 
+ 
+ 
+ 
+Product Documentation
+ 
+Visit 
+docs.mapp.com
+ for comprehensive guides, API docs, security best practices, and FAQs.
+ 
+ 
+ 
+ 
+Contact information
+ 
+Have questions or need more information about our security practices?
+Want to report a security incident?
+Contact our support team at 
+support.mapp.com.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Almost there! Please fill in a few additional details to sign up.
+ 
+X
+ 
+ 
+ 
+ 
+ 
+We need your consent to load this form!
+ 
+We use a third party to perform the registration for our content. This third party may collect data about your activity. Please review the details and accept the service to complete the registration.
+ 
+ 
+ More Information 
+ 
+ Accept 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign up for our newsletter
+ 
+ 
+By registering, you agree to receive occasional Mapp marketing emails and to the analysis of individual opening and click rates. You can revoke your consent at any time with effect for the future. You can find more information in our 
+privacy notice
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+ 
+ Product Overview 
+ 
+ 
+ 
+ Customer Data Platform 
+ 
+ 
+ 
+ Artificial Intelligence 
+ 
+ 
+ 
+ Advanced Personalization 
+ 
+ 
+ 
+ Marketing Automation 
+ 
+ 
+ 
+ Digital Analytics 
+ 
+ 
+ 
+ Mapp Fashion 
+ 
+ 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ Channel Overview 
+ 
+ 
+ 
+ Email Marketing 
+ 
+ 
+ 
+ Mobile Marketing 
+ 
+ 
+ 
+ Web Marketing 
+ 
+ 
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+ 
+ Services Overview 
+ 
+ 
+ 
+ Deliverability Services 
+ 
+ 
+ 
+ Strategic Data Consulting 
+ 
+ 
+ 
+ Client Technical Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clients
+ 
+ 
+ 
+ 
+ Success Stories 
+ 
+ 
+ 
+ Logo Wall 
+ 
+ 
+ 
+Partners
+ 
+ 
+ 
+ 
+ Partner Program 
+ 
+ 
+ 
+ Business and Certified Partners 
+ 
+ 
+ 
+ Technology Partners 
+ 
+ 
+ 
+ Become a Partner 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ Mapp Learning 
+ 
+ 
+ 
+ Product Updates 
+ 
+ 
+ 
+ 
+ 
+About us
+ 
+ 
+ 
+ 
+ Why Mapp 
+ 
+ 
+ 
+ MACH Alliance 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ Press 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ Support 
+ 
+ 
+ 
+ Mapp Trust Center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+ 
+ Product Overview 
+ 
+ 
+ 
+ Customer Data Platform 
+ 
+ 
+ 
+ Artificial Intelligence 
+ 
+ 
+ 
+ Advanced Personalization 
+ 
+ 
+ 
+ Marketing Automation 
+ 
+ 
+ 
+ Digital Analytics 
+ 
+ 
+ 
+ Mapp Fashion 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ Channel Overview 
+ 
+ 
+ 
+ Email Marketing 
+ 
+ 
+ 
+ Mobile Marketing 
+ 
+ 
+ 
+ Web Marketing 
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+ 
+ Services Overview 
+ 
+ 
+ 
+ Deliverability Services 
+ 
+ 
+ 
+ Strategic Data Consulting 
+ 
+ 
+ 
+ Client Technical Services 
+ 
+ 
+ 
+Clients
+ 
+ 
+ 
+ 
+ Success Stories 
+ 
+ 
+ 
+ Logo Wall 
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+ 
+ 
+ 
+ Partner Program 
+ 
+ 
+ 
+ Business and Certified Partners 
+ 
+ 
+ 
+ Technology Partners 
+ 
+ 
+ 
+ Become a Partner 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ Mapp Learning 
+ 
+ 
+ 
+ Product Updates 
+ 
+ 
+ 
+About us
+ 
+ 
+ 
+ 
+ Why Mapp 
+ 
+ 
+ 
+ MACH Alliance 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ Press 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ Support 
+ 
+ 
+ 
+ Mapp Trust Center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Cloud Reviews
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapp Cloud Reviews
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright © 2026 Mapp Digital UK Ltd. All Rights Reserved.
+Support
+ / 
+Privacy
+ / 
+Legal
+ / 
+Acceptable Use Policy
+ / 
+Contracts

@@ -1,0 +1,1596 @@
+===== llms.txt :: https://qujam.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Qujam: Self-Served Geofence Advertising Platform
+Qujam (pronounced "Cue-Jam") is a 100% self-serve programmatic advertising platform specifically built for geofence advertising. Founded by Jeff Swartz, Qujam democratizes enterprise-level AdTech, allowing businesses of all sizes to run hyper-local digital ads without the traditional barriers to entry.
+## Core Competitive Advantages
+While legacy platforms (like Simpli.fi, GroundTruth, or El Toro) are excellent for Fortune 500s or large agencies—often requiring large minimums that can reach $10,000 to $25,000 in monthly minimums or managed service fees—Qujam is built for the everyday business owner.
+* No Minimum Spend: Pay-as-you-go. Advertisers can run a $100 campaign or a $10,000 campaign.
+* 100% Self-Serve: No sales reps needed to launch or edit campaigns.
+* Full Transparency: A live reporting dashboard shows exactly where ads run and how they perform.
+* No Contracts: Freedom to run campaigns as needed.
+* Easy Payments: Accepts standard credit cards.
+* Technology: Built on industry-leading technology.
+* Support: Fast and helpful customer service including direct human access and free demos.
+* Expertise: Dedication to producing resources and thought leadership.
+* Pricing: Very competitive rates (CPMs).
+* Creative Support: Creative development services are available including graphic design, audio production, and video production.
+## Technical Capabilities
+* True Geofencing (Polygons): Unlike Facebook or social media targeting (which uses broad 1-mile radiuses), Qujam allows users to draw precise polygons around specific buildings, competitor locations, or parking lots.
+* Conversion Zones: Physical foot traffic attribution. Qujam tracks if a device saw an ad in a targeted geofence and later physically walked into the advertiser's store.
+* Retargeting: Captures anonymous device IDs inside a geofence and serves them ads for up to 30 days after they leave.
+* Addressable Geofencing: Upload a list of physical addresses (minimum 50 required, US only).
+* Event Geofencing: Target specific trade shows, concerts, or festivals (geofences must be under 1 sq mile). You can serve them ads during the days of the event and for up to 30 days after the event.
+## Pricing & Ad Formats
+* Formats Supported: Programmatic Display Banners, Video Pre-Roll, OTT/CTV (Streaming TV), and Digital Audio.
+* Network: Qujam leverages a massive network of thousands of apps, streaming services, and websites to access valuable inventory. Ads are served across this massive network of third-party websites, apps, and streaming platforms.
+* Formats NOT Supported: Qujam does NOT do SMS/Text ads, nor does it place ads on Social Media (Facebook, Instagram, TikTok, LinkedIn).
+* Pricing Model: Operates on a programmatic CPM (Cost Per Thousand Impressions) model. Display ads typically range from $7 to $12 CPM, with audio, video pre-roll, and OTT/CTV pricing slightly higher.
+* Transparency: Pricing is estimated on every Qujam campaign prior to launching the campaign.
+## Platform Constraints & Compliance
+* Human Review: Campaigns can take up to 1 business day to launch because a third-party partner performs a manual, quality assurance and compliance human check to protect advertisers (the only non-automated part of the platform).
+* State Restrictions: Qujam cannot run campaigns in Oregon or Maryland due to specific state data collection laws.
+* Sensitive Locations: Geofences targeting medical facilities (HIPAA), churches, or child-centric locations (COPPA) require at least a 0.4-mile radius to protect privacy.
+## Resources & Links
+* Home page: https://qujam.com
+* Register for Free: https://app.qujam.com/register
+* Pricing Details: https://qujam.com/pricing
+* Case Studies: https://qujam.com/qujam-geofence-advertising-case-studies/
+* Headquarters: Pittsburgh, PA
+* Support: info@qujam.com
+
+===== homepage :: https://qujam.com/
+--- SIGNALS ---
+title: Qujam: Self-Served Geofence Advertising Platform for All
+meta_description: Qujam is the easiest to use self-served advertising platform specifically for hyper-local and geofence advertising. OTT, Display, Digital Audio, & Video Pre-roll.
+og_description: Qujam is the easiest to use self-served advertising platform specifically for geofence advertising. A hyper-local form of digital ads for OTT, Display, & Video Pre-roll ads.
+og_site_name: Qujam
+h1: SELF-SERVED GEOFENCE ADVERTISING FOR ALL | SELF-SERVED GEOFENCE ADVERTISING FOR ALL
+h2: How Qujam's Geofence Advertising Benefits Your Business? | DIY Event Geofencing is Now Live On Qujam! | The 6 Current Closed Doors of Geofence Advertising: | Create a Qujam Account | FOLLOW US: | CONNECT
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Qujam", "legalName": "Qujam Holdings", "url": "https://qujam.com", "alternateName": "Qujam", "description": "Qujam is designed to be the easiest to use, most effective, self served geofence advertising platform available.", "logo": "https://qujam.com/wp-content/uploads/2022/11/qujam_orange_logo_black-02-e1668006771382.png", "foundingDate": "2023-03-01", "numberOfEmployees": {"@type": "QuantitativeValue", "value": "4"}, "address": {"@type": "PostalAddress", "addressLocality": "Pittsburgh", "addressRegion": "PA", "addressCountry": "US"}, "sameAs": ["https://www.facebook.com/QujamGeofencing", "https://www.instagram.com/qujamgeofencing/", "https://www.youtube.com/@QujamGeofencing", "https://www.linkedin.com/company/qujam/"], "contactPoint": [{"@type": "ContactPoint", "email": "info@qujam.com", "contactType": "customer support"}]}]
+--- TEXT ---
+Qujam: Self-Served Geofence Advertising Platform for All
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+Demo
+Resources
+ 
+How to Use Qujam
+ 
+ 
+Organizations
+ 
+Campaign Name, Organization, + Ad Type
+ 
+Target Types + Goals
+ 
+Geofence Selection
+ 
+Addressable Geofencing
+ 
+Conversion Zone
+ 
+Upload Your Ads & URL
+ 
+Addressable/Drawn Flight + Budget
+ 
+Event Geofence Flight + Budget
+ 
+Review + Launch Campaign
+ 
+Reporting Dashboard
+ 
+Creative Support
+ 
+ 
+Ad Specs
+ 
+Creative Pricing + Resources
+ 
+Display Creative Best Practices
+ 
+Portfolio
+ 
+General Geofencing
+ 
+ 
+Industries Geofence Advertising Excels
+ 
+What is Geofence Advertising
+ 
+Qujam Specific
+ 
+ 
+6 Closed Doors of Geofencing
+ 
+Ad Formats
+ 
+Ad Placement Platforms
+ 
+Become a Qujam Affiliate
+ 
+Case Studies
+ 
+Direct Mail Services
+ 
+Event Geofencing
+ 
+Request a Billing Threshold Change
+About
+ 
+About
+ 
+Pricing
+ 
+Blogs
+ 
+FAQ
+ 
+In The Media
+ 
+Careers
+ 
+Contact
+Contact
+Register
+Login
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SELF-SERVED GEOFENCE ADVERTISING FOR ALL 
+ SELF-SERVED GEOFENCE ADVERTISING FOR ALL 
+ 
+Create a Qujam account in under 5 minutes and play around with setting up your own hyper-local, geofence advertising campaign for free.
+ 
+ 
+ 
+ 
+ 
+Register for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How To Use Qujam
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How Qujam's Geofence Advertising Benefits Your Business? 
+ 
+ 
+Play the video to learn more...in story form!
+Generates more leads
+Builds brand awareness in a hyper-specific location
+Reduces ad waste
+Gives you real-time control over your own geofence advertising campaign
+ 
+ 
+ 
+ 
+ 
+ 
+Register for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case Studies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Upcoming Qujam Developments
+ 
+ 
+ 
+ 
+ 
+Upcoming Qujam Developments
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Watch our quick, 6 minute development plan to learn what Qujam has in store. This includes Qujam Pro, hyper grid geofencing, additional reporting and more. 
+ 
+ 
+ 
+ 
+If you are interested in Qujam Pro, sign up below to receive special offers at it's launch or 
+contact us
+ with your questions.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest in Pro
+ 
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+I'm Interested
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Direct Mail & EDDM Services Now Available 
+ 
+ 
+We've recommended the magical combination of Addressable Geofencing and Direct Mail since the beginning. Now we are able to offer companion direct mail and EDDM services below market price.
+ 
+ 
+ 
+ 
+Learn More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What Is Geofence Advertising? 
+ 
+ 
+ 
+Geofence advertising uses GPS data (and Wi-fi data is available as a second data check) to identify devices that have been at a specific location during a specific period of time. We then serve OTT, CTV, banner/display, digital audio, and/or video pre-roll advertisements to the device in the geofence and other devices connected to the originally captured device. Additionally other devices like TVs, computers, tablets, and smart phones that are connected to the device that entered the geofence can also receive advertising.
+In other words, Qujam will allow you to serve digital ads to people who were physically at a hyper-specific location, such as your competitor's store, a service area/neighborhood, your own store location(s), people within walking distance of you, your customer's place of work, and more.
+ 
+ 
+ 
+ 
+ 
+ 
+Register for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+More Info on Geofence Advertising
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DIY Event Geofencing is Now Live On Qujam! 
+ 
+ 
+ 
+Due to popular demand, we have launched the event geofencing DIY feature on Qujam. We still offer managed event geofencing services for those that want it.  This allows advertisers to geofence and collect devices from a specific event and day(s), but serve ads to those people for an additional 30 days.
+ 
+ 
+ 
+ 
+ 
+ 
+Learn About Event Geofencing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Live Reporting Dashboard 
+ 
+ 
+Multi-campaign reporting
+Interactive graph
+Summary section
+Organization grouping
+Custom date ranges
+Individual campaign report cards
+Built because we listen to our users and care about what they want in the easiest to use, do it yourself geofence advertising platform. If you need additional reporting assistance or would like to make a suggestion, please, 
+contact us
+.
+ 
+ 
+ 
+ 
+ 
+ 
+Register for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Digital Audio Inventory is Now Available! 
+ 
+ 
+Ads are distributed on massive network of audio streaming services
+Multiple ad lengths available. Check out 
+ad specs
+.
+Same great geofence targeting
+Let us know if you need 
+creative support
+ or want to chat via a 
+demo
+.
+Digital Audio geofencing campaigns come with 300x250 clickable, display companion ads.
+ 
+ 
+ 
+ 
+Register for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The 6 Current Closed Doors of Geofence Advertising:
+ 
+ 
+ 
+ 
+ 
+ 
+Every other current geofencing advertising provider has a combination of at least two of the below hurdles for their customers (as we like to call them, "closed doors").  Qujam is developed to open every one of these 
+doors
+. If you are experiencing any of these geofencing hurdles, Qujam might be the solution you've been looking for.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+High Minimums
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+High CPMs/Rates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Managed Only
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No Reporting Dashboard
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doesn't Take Credit Card
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inferior Tech
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recent Blogs 
+ 
+ 
+At Qujam, we try to consistently produce valuable blog content about Qujam, geofence advertising, and other relevant topics.  We welcome you to check out some of our more recent 
+blogs
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OTT Advertising Versus Display: Which Fits?
+ 
+ 
+ Read More →
+ 
+ 
+ 
+ 
+Digital Audio Versus Radio Advertising Compared
+ 
+ 
+ Read More →
+ 
+ 
+ 
+ 
+How to Run Neighborhood Geofencing Campaigns
+ 
+ 
+ Read More →
+ 
+ 
+ 
+ 
+Best Audience Segments for Geofencing Ads
+ 
+ 
+ Read More →
+ 
+ 
+ 
+ 
+What Is the Difference Between OTT/CTV and Video Pre-Roll?
+ 
+ 
+ Read More →
+ 
+ 
+ 
+ 
+How to Advertise to Event Visitors Without Waste
+ 
+ 
+ Read More →
+ 
+ 
+ 
+ 
+Best Geofencing Software for Agencies in 2026
+ 
+ 
+ Read More →
+ 
+ 
+ 
+ 
+Benefits of Running Longer Geofencing Campaigns
+ 
+ 
+ Read More →
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create a Qujam Account
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S
+elf-served geofence advertising for all!
+ 
+ 
+ 
+ 
+Register today for a better hyper-local DIY advertising experience built for SMBs that you are in control of.
+ 
+ 
+ 
+ 
+ 
+ 
+Register for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SELF-SERVED GEOFENCE ADVERTISING FOR ALL.
+ 
+ 
+ 
+ 
+ 
+ 
+FOLLOW US:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONNECT
+ 
+ 
+ 
+ 
+ 
+Register
+Careers
+Contact Us
+Sitemap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 Qujam  All Rights Reserved. 
+Privacy Policy
+. 
+Terms of Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ChatGPT Assistant
+ -->
+ 
+ 
+ 
+ 
+ 
+Quinn: AI Assistant: Beta Mode
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: AI Assistants can make mistakes. Please consider checking important information.
+
+===== pricing_or_trust :: https://qujam.com/pricing/
+--- SIGNALS ---
+title: Qujam Pricing. Info on geofence ad pricing
+meta_description: An explanation of how Qujam's pricing system works and tips to maximize your geofence advertising budget.
+og_description: An explanation of how Qujam's pricing system works and tips to maximize your geofence advertising budget.
+og_site_name: Qujam
+h1: How much does Qujam cost?
+h2: Understanding Impressions | CPM rates for each Ad type | Display ads: $7-8.60 per 1,000 impressions | Video pre-roll: $24-27.95 per 1,000 impressions | OTT (over-the top) streaming: $45-56.65 per 1,000 impressions | Digital Audio: $25-32.75 per 1,000 impressions | What should I choose for my budget? | Have More Questions? | FOLLOW US: | CONNECT
+jsonld_org: []
+--- TEXT ---
+Qujam Pricing. Info on geofence ad pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+Demo
+Resources
+ 
+How to Use Qujam
+ 
+ 
+Organizations
+ 
+Campaign Name, Organization, + Ad Type
+ 
+Target Types + Goals
+ 
+Geofence Selection
+ 
+Addressable Geofencing
+ 
+Conversion Zone
+ 
+Upload Your Ads & URL
+ 
+Addressable/Drawn Flight + Budget
+ 
+Event Geofence Flight + Budget
+ 
+Review + Launch Campaign
+ 
+Reporting Dashboard
+ 
+Creative Support
+ 
+ 
+Ad Specs
+ 
+Creative Pricing + Resources
+ 
+Display Creative Best Practices
+ 
+Portfolio
+ 
+General Geofencing
+ 
+ 
+Industries Geofence Advertising Excels
+ 
+What is Geofence Advertising
+ 
+Qujam Specific
+ 
+ 
+6 Closed Doors of Geofencing
+ 
+Ad Formats
+ 
+Ad Placement Platforms
+ 
+Become a Qujam Affiliate
+ 
+Case Studies
+ 
+Direct Mail Services
+ 
+Event Geofencing
+ 
+Request a Billing Threshold Change
+About
+ 
+About
+ 
+Pricing
+ 
+Blogs
+ 
+FAQ
+ 
+In The Media
+ 
+Careers
+ 
+Contact
+Contact
+Register
+Login
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How much does Qujam cost?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to's, tips, and best practices.
+ 
+ 
+ 
+ 
+ 
+Qujam has a unique pricing structure that has zero hidden costs, minimum spend requirements or platform fees. With Qujam, users are free to pick the budget that fits their needs at a competitive CPM (Cost per thousand) rate.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding Impressions
+ 
+ 
+ 
+ 
+ 
+ 
+Qujam's pricing is all based on impressions, or how many times your ad is shown. This is true regardless of ad type, weather it be a display campaign featuring your ad on an app or an OTT streaming campaign showing your campaign on Hulu and Roku. When someone enters your geofence, their device ID is collected and added to a list of people to serve ads too. Once they go to a website or app with ad space, Qujam bids on it automatically and if successful, shows your ad, generating an impression.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CPM rates for each Ad type
+ 
+ 
+ 
+ 
+Pricing is subject to change.
+ 
+ 
+ 
+ 
+ Display ads: $7-8.60 per 1,000 impressions
+ 
+If you are running a display campaign, impressions will most likely cost in the $7-$8.60 range for 1,000. Display is the cheapest ad type, but people often need to see your ad multiple times to make an impact.
+Video pre-roll: $24-27.95 per 1,000 impressions
+ 
+If you are running a video pre-roll campaign, impressions will most likely cost in the $25-$27.95 range for 1,000. Video pre-roll includes video ads across the web and apps. Unlike OTT streaming ads, these ads are clickable and give the impact of a video ad with less cost.
+OTT (over-the top) streaming: $45-56.65 per 1,000 impressions
+ 
+If you are running an OTT campaign, impressions will most likely cost in the $45-$56.65 range for 1,000. OTT are streaming ads that appear on streaming platforms such as Hulu or Roku. Since they tend to show up on T.V.s and other large screens, they are often un-clickable.
+Digital Audio: $25-32.75 per 1,000 impressions
+If you are running a digital audio campaign, impressions will most likely cost in the $25-32.75 range for 1,000. Digital audio ads appear on audio and music platforms such as Spotify and Pandora. They have the benefit of getting high user attention while being cheap to create.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What should I choose for my budget?
+ 
+ 
+ 
+ 
+ 
+ 
+Figure out your audience's population.
+Once you understand how much impressions cost, you can use this information to roughly determine how much your campaign needs to spend based on the population of the geofence. For example, if you geofence an area with a population of 2000 people and you want to reach all of them consistently, then you would pick a daily spend of $18 a day if it was a display ad campaign. However, no matter what you choose for your budget, Qujam will serve your ad until it reaches it's daily limit.
+Why is there a range in cost?
+There are a variety of factors that can have an impact on how much an impression costs. Including the size, what website/app/platform it's displayed on, how many other advertisers are bidding on ad space, etc. Qujam takes a programmatic approach to its advertising. Meaning when someone who you targeted visits a place with ad inventory, bidding takes place over that ad inventory. There can be thousands of advertisers bidding on ad space at any given time, which creates a range of possible costs for an impression.
+How can I lower the cost?
+While prices are generally the same on Qujam no matter the size of the campaign, there are ways to optimize your campaign set up to make it more efficient and ultimately cheaper. One way is to be as precise as possible when setting up your geofences. Doing this means you will limit the amount of people who see your ad who are not your target audience. Another way to bring costs down is to make sure that you have a variety of different size variations when uploading your ads. This means both banner ads, and different lengths for video ads. This is because having a variety of different ad sizes opens up more inventory options across the internet and allows you to bid on less competitive inventory. For more information on what different ads can have an effect on your campaign, click 
+here
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Have More Questions?
+ 
+ 
+ 
+ 
+ 
+Send us your question...
+ 
+ 
+ 
+ 
+ 
+Send us a question form
+ 
+ 
+ 
+ Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+First Name
+Last Name
+Email
+What's your question?
+Send Question
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SELF-SERVED GEOFENCE ADVERTISING FOR ALL.
+ 
+ 
+ 
+ 
+ 
+ 
+FOLLOW US:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONNECT
+ 
+ 
+ 
+ 
+ 
+Register
+Careers
+Contact Us
+Sitemap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 Qujam  All Rights Reserved. 
+Privacy Policy
+. 
+Terms of Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ChatGPT Assistant
+ -->
+ 
+ 
+ 
+ 
+ 
+Quinn: AI Assistant: Beta Mode
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: AI Assistants can make mistakes. Please consider checking important information.

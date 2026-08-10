@@ -1,0 +1,1607 @@
+===== llms.txt :: https://worksbuddy.ai/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# WorksBuddy
+> AI Agent Suite that automates leads, tasks, email, contracts, billing, workflows, and content. Seven specialized AI agents that connect and share data automatically.
+WorksBuddy replaces a fragmented stack of single purpose SaaS tools with one connected system. Seven AI agents run core business functions and share one data layer, so a won deal can trigger an onboarding project, an invoice, and a follow up campaign with zero manual handoffs.
+## Platform
+- [WorksBuddy Home](https://worksbuddy.ai/index.md): AI Agent Suite overview: seven connected AI agents that automate core business functions on one platform.
+- [How It Works](https://worksbuddy.ai/how-it-works.md): One login, all agents, zero switching. How the seven WorksBuddy agents connect and share one data layer.
+- [Pricing](https://worksbuddy.ai/pricing.md): Flat per user pricing: Starter $49, Growth $99, Scale $199, Enterprise custom. Free trial, no credit card.
+## Agents
+- [Lio: AI Lead Management Agent](https://worksbuddy.ai/lio.md): Captures, enriches, scores, and routes leads in real time; enriches contacts from a LinkedIn URL and predicts who is ready to sign.
+- [Lio Features](https://worksbuddy.ai/lio/features.md): Full Lio feature breakdown and capabilities.
+- [Taro: AI Task and Project Management Agent](https://worksbuddy.ai/taro.md): Creates tasks from natural language, auto prioritizes work, distributes workload, and predicts project risk across sprints, kanban, and epics.
+- [Taro Features](https://worksbuddy.ai/taro/features.md): Full Taro feature breakdown and capabilities.
+- [Evox: AI Email Marketing Agent](https://worksbuddy.ai/evox.md): Builds and sends email campaigns and behavior triggered sequences with A/B testing, personalization, send time optimization, and pre send spam checks.
+- [Evox Features](https://worksbuddy.ai/evox/features.md): Full Evox feature breakdown and capabilities.
+- [Sigi: AI E-Signature and Contracts Agent](https://worksbuddy.ai/sigi.md): Sends documents for legally valid digital signature with clause intelligence, contract risk analysis, and missing clause detection.
+- [Sigi Features](https://worksbuddy.ai/sigi/features.md): Full Sigi feature breakdown and capabilities.
+- [Inzo: AI Billing and Finance Agent](https://worksbuddy.ai/inzo.md): Automates invoicing, payment reminders, late fees, expenses, and collections, with cash flow forecasting and payment reliability scoring.
+- [Inzo Features](https://worksbuddy.ai/inzo/features.md): Full Inzo feature breakdown and capabilities.
+- [Revo: AI Workflow Automation Agent](https://worksbuddy.ai/revo.md): Connects every WorksBuddy agent and 3,000+ external tools through no code, drag and drop workflows and cross agent triggers.
+- [Revo Features](https://worksbuddy.ai/revo/features.md): Full Revo feature breakdown and capabilities.
+- [Ranko: AI SEO and GEO Content Agent](https://worksbuddy.ai/ranko.md): Plans topics, writes articles, and tracks how often your brand is mentioned by AI engines, with site inspection and one click fix tickets.
+- [Ranko Features](https://worksbuddy.ai/ranko/features.md): Full Ranko feature breakdown and capabilities.
+## Solutions
+- [Sales & Revenue](https://worksbuddy.ai/solutions/sales-revenue.md): Lio + Evox + Inzo close the loop, from first touch to paid invoice.
+- [Operations & PM](https://worksbuddy.ai/solutions/operations-pm.md): Taro + Revo run the work, from tasks and sprints to automated workflows.
+- [Finance & Legal](https://worksbuddy.ai/solutions/finance-legal.md): Inzo + Sigi for billing, invoicing, contracts, and e-signature.
+- [Marketing](https://worksbuddy.ai/solutions/marketing.md): Ranko + Evox for content, SEO, and email campaigns.
+- [HR & People](https://worksbuddy.ai/solutions/hr-people.md): Onboarding, documents, and team coordination across agents.
+## Use Cases
+- [Lead to Cash Automation](https://worksbuddy.ai/use-cases/lead-to-cash.md): From first touch to paid invoice with zero manual handoffs.
+- [Contract Lifecycle](https://worksbuddy.ai/use-cases/contract-lifecycle.md): Draft, sign, and track contracts in one connected flow.
+- [Replace Your Tool Stack](https://worksbuddy.ai/use-cases/replace-stack.md): Swap 4–5 single-purpose tools for one connected platform.
+- [Cash-Flow Visibility](https://worksbuddy.ai/use-cases/cash-flow-visibility.md): Forecast cash flow 30/60/90 days out from live billing data.
+- [AI-Native PM](https://worksbuddy.ai/use-cases/ai-native-pm.md): The project management tool that does the PM-ing for you.
+## Industries
+- [WorksBuddy for Healthcare](https://worksbuddy.ai/industry/healthcare.md): Streamline patient acquisition, appointment follow ups, team coordination, billing, and outreach with AI agents for healthcare built for clinics, medspas, telehealth providers, and healthcare practices
+- [WorksBuddy for Real Estate](https://worksbuddy.ai/industry/real-estate.md): 48% of leads go cold in an hour. WorksBuddy's AI tools for real estate agents respond instantly, qualify prospects, book visits, and close deals for
+- [WorksBuddy for IT Services](https://worksbuddy.ai/industry/it-service.md): 52% of IT leads go cold before reps open CRM. WorksBuddy fixes this: AI agents respond in 30 seconds, qualify prospects, schedule demos, and send
+- [WorksBuddy for Logistics](https://worksbuddy.ai/industry/logistics.md): Every dispatch call, customer check in, and invoice dispute costs your team time
+- [WorksBuddy for Automobile](https://worksbuddy.ai/industry/automobile.md): Never lose a lead again. WorksBuddy captures every inquiry, follows up instantly
+- [WorksBuddy for Education](https://worksbuddy.ai/industry/education.md): Students choose who replies first. WorksBuddy makes sure that's always you
+- [WorksBuddy for Finance](https://worksbuddy.ai/industry/finance.md): AI agents for finance firms that handle client acquisition, follow ups, compliance, invoicing, and outreach. Built for accounting firms, advisors, and consultancies ready to stop
+- [WorksBuddy for Food and Beverage](https://worksbuddy.ai/industry/food-beverages.md): WorksBuddy is purpose built for AI in food and beverage industry operations, automating order management, follow ups, production, invoicing, and outreach for manufacturers, cloud kitchens
+- [WorksBuddy for SaaS](https://worksbuddy.ai/industry/saas.md): The shift to AI in SaaS is changing how teams retain users and grow revenue. WorksBuddy automates onboarding, re-engagement, and renewals so your team focuses
+## Resources
+- [Customer Stories](https://worksbuddy.ai/customers.md): Real results from real teams using WorksBuddy.
+- [Templates & E-books](https://worksbuddy.ai/ebooks.md): Free downloadable templates and resources.
+## Company
+- [About WorksBuddy](https://worksbuddy.ai/about.md): Company mission and story: replace the fragmented software stack with autonomous AI agents that think, decide, and act.
+- [Partners & Affiliates](https://worksbuddy.ai/partners.md): Become a WorksBuddy Certified Partner. Solution, referral, technology, and reseller programs to build and earn with WorksBuddy.
+- [Contact WorksBuddy](https://worksbuddy.ai/contact.md): Reach WorksBuddy for sales, support, demos, and partnership enquiries. Email contact@worksbuddy.com.
+- [Privacy Policy](https://worksbuddy.ai/privacy-policy.md): How WorksBuddy collects, uses, and protects user data; SOC 2 Type II, GDPR, and CCPA compliance.
+- [Terms and Conditions](https://worksbuddy.ai/terms-and-conditions.md): Terms for using the WorksBuddy platform, including account, subscription, and acceptable use terms.
+## Optional
+- [Full Index (all pages)](https://worksbuddy.ai/llms-full.txt): Complete listing of every page: 147 agent features, 18 comparisons, 9 industries, and 408 blog posts.
+
+===== homepage :: https://worksbuddy.ai/
+--- SIGNALS ---
+title: WorksBuddy: AI Employees for Sales, Ops & Finance Teams
+meta_description: Meet your AI Employee's: 7 AI agents that handle content, leads, projects, invoices, email, e-signatures, and automation. One platform. One price. Start free.
+og_description: Meet your AI Employee's: 7 AI agents that handle content, leads, projects, invoices, email, e-signatures, and automation. One platform. One price. Start free.
+og_site_name: 
+h1: Built forLeads.Signs.Bills.Tasks.Leads.Powered by AI Agents.
+h2: Many tools999+too little Progress | Everything connected.Everyone aligned. | Enhance your workflow using powerful tools | Workflows that Think Ahead | See why customers love using Worksbuddy | Connect with the toolsyou already use
+jsonld_org: [{"@type": "Organization", "@id": "https://worksbuddy.ai/#organization", "name": "WorksBuddy", "alternateName": "WorksBuddy Inc.", "url": "https://worksbuddy.ai", "logo": {"@type": "ImageObject", "url": "https://media.worksbuddy.ai/cdn-cgi/imagedelivery/1bOHO7DoO_ZiMwyjCSodqA/ed7fb336-8c5d-4a09-24f2-3c3842bad500/w=384,quality=75,format=auto", "width": 384, "height": 80}, "image": "https://media.worksbuddy.ai/cdn-cgi/imagedelivery/1bOHO7DoO_ZiMwyjCSodqA/ec02508e-380f-47c3-1b49-7eb6e0928600/w=800", "description": "WorksBuddy is the AI employees platform automating business processes across leads, tasks, invoicing, email, and contracts in one connected system.", "foundingDate": "2024", "knowsAbout": ["AI Business Automation", "Sales Automation", "Lead Management", "Project Management", "Contract Management", "Email Marketing Automation", "Invoicing Software", "Generative Engine Optimization"], "memberOf": {"@type": "Organization", "name": "NVIDIA Inception Program", "url": "https://www.nvidia.com/en-us/startups/"}, "sameAs": ["https://www.linkedin.com/company/worksbuddy/", "https://x.com/WorksBuddy_inc", "https://www.facebook.com/worksbuddy/", "https://www.instagram.com/worksbuddyofficial/", "https://www.youtube.com/@worksbuddy", "https://www.saashub.com/worksbuddy-ai", "https://sourceforge.net/software/product/WorksBuddy/", "https://www.softwareworld.co/software/worksbuddy-reviews/"], "contactPoint": [{"@type": "ContactPoint", "url": "https://worksbuddy.ai/contact", "contactTyp
+--- TEXT ---
+WorksBuddy: AI Employees for Sales, Ops & Finance Teams
+ 
+Skip to content
+ 
+ 
+The next evolution of 
+WorksBuddy
+ is almost here featuring integrations, changelogs, and live platform status.
+Product
+ 
+Solutions
+ 
+Industries
+ 
+Resources
+ 
+Pricing
+ 
+Login
+ 
+Start free trial
+ 
+All-in-one Suite
+One AI workforce for your whole business
+Run your entire business on Worksbuddy every agent, one login, one price. No tabs to switch, no tools to sync.
+Contact Us
+→
+Capture & grow revenue
+Lio
+ · 
+Lead Manager
+Ranko
+ · 
+Visibility Strategist
+Evox
+ · 
+Email Marketer
+Run operations
+Taro
+ · 
+Project Manager
+Revo
+ · 
+Automation Builder
+Close & get paid
+Sigi
+ · 
+Contract Signer
+Inzo
+ · 
+Billing Manager
+The platform
+How it works
+Integrations
+Soon
+Security & trust
+Soon
+Watch 2-min overview
+Start 7-day free trial
+All-in-one Suite
+Solve every business challenge
+From sales and marketing to operations, finance, HR, and project management find solutions tailored to your team.
+Contact Us
+→
+By Team
+ 
+Sales & Revenue
+ 
+Operations & PM
+ 
+Finance & Legal
+ 
+Marketing
+ 
+HR & People
+By Use Case
+ 
+Lead → cash automation
+ 
+Contract lifecycle
+ 
+Replace your tool stack
+ 
+Cash-flow visibility
+ 
+AI-native PM
+Consolidate Your Stack
+See how teams replace 4-5 tools with one platform and save $37K per 500 users.
+Book a strategy call
+Start free trial
+All-in-one Suite
+Powering every industry
+AI-powered workflows designed to help businesses streamline operations, boost productivity, and drive growth.
+Contact Us
+→
+Property & Operations
+ 
+Real Estate
+ 
+Logistics
+ 
+Automobile
+People & Services
+ 
+Healthcare
+ 
+Education
+ 
+Food & Beverages
+Tech & Finance
+ 
+Finance
+ 
+IT Services
+ 
+SaaS
+Don't see yours? Talk to us
+Read customer stories
+Get Started Free
+All-in-one Suite
+Explore resources & guides
+Discover blogs, templates, e-books, API docs, and expert insights to get more from Worksbuddy.
+Contact Us
+→
+Learn
+ 
+API Docs
+ 
+Blog
+ 
+Help center & docs
+ 
+Webinars & demos
+ 
+Templates & e-books
+Company
+ 
+About us
+ 
+Customer stories
+ 
+Partners & affiliates
+ 
+Contact
+Compare all agents
+How it works
+Browse the blog
+ 
+Product 
+Lio
+ · 
+Lead Manager
+Ranko
+ · 
+Visibility Strategist
+Evox
+ · 
+Email Marketer
+Taro
+ · 
+Project Manager
+Revo
+ · 
+Automation Builder
+Sigi
+ · 
+Contract Signer
+Inzo
+ · 
+Billing Manager
+ 
+How it works
+ 
+Integrations
+Soon
+ 
+Security & trust
+Soon
+Start 7-day free trial
+→
+Solutions 
+By Team
+ 
+Sales & Revenue
+ 
+Operations & PM
+ 
+Finance & Legal
+ 
+Marketing
+ 
+HR & People
+By Use Case
+ 
+Lead → cash automation
+ 
+Contract lifecycle
+ 
+Replace your tool stack
+ 
+Cash-flow visibility
+ 
+AI-native PM
+Consolidate Your Stack
+Start free trial
+→
+Industries 
+Property & Operations
+ 
+Real Estate
+ 
+Logistics
+ 
+Automobile
+People & Services
+ 
+Healthcare
+ 
+Education
+ 
+Food & Beverages
+Tech & Finance
+ 
+Finance
+ 
+IT Services
+ 
+SaaS
+Get Started Free
+→
+Resources 
+Learn
+ 
+API Docs
+ 
+Blog
+ 
+Help center & docs
+ 
+Webinars & demos
+Soon
+ 
+Templates & e-books
+Company
+ 
+About us
+ 
+Customer stories
+ 
+Partners & affiliates
+ 
+Contact
+Browse the blog
+→
+Pricing
+Start free trial
+→
+Contact sales
+Sign in
+ 
+Built for
+Leads.
+Signs.
+Bills.
+Tasks.
+Leads.
+Powered by AI Agents.
+Bring people, AI agents, and workflows together in one intelligent platform designed for faster execution.
+ 
+Request A Demo
+Take A Tour
+WorksBuddy
+ 
+i
+s
+n
+'
+t
+ 
+j
+u
+s
+t
+ 
+a
+n
+o
+t
+h
+e
+r
+ 
+A
+I
+ 
+t
+o
+o
+l
+ 
+i
+t
+'
+s
+ 
+t
+h
+e
+ 
+o
+p
+e
+r
+a
+t
+i
+n
+g
+ 
+s
+y
+s
+t
+e
+m
+ 
+f
+o
+r
+ 
+y
+o
+u
+r
+ 
+e
+n
+t
+i
+r
+e
+ 
+b
+u
+s
+i
+n
+e
+s
+s
+,
+ 
+u
+n
+i
+f
+y
+i
+n
+g
+ 
+e
+v
+e
+r
+y
+ 
+w
+o
+r
+k
+f
+l
+o
+w
+,
+ 
+e
+m
+p
+o
+w
+e
+r
+i
+n
+g
+ 
+e
+v
+e
+r
+y
+ 
+t
+e
+a
+m
+,
+ 
+a
+n
+d
+ 
+t
+r
+a
+n
+s
+f
+o
+r
+m
+i
+n
+g
+ 
+e
+v
+e
+r
+y
+d
+a
+y
+ 
+w
+o
+r
+k
+ 
+i
+n
+t
+o
+ 
+m
+e
+a
+s
+u
+r
+a
+b
+l
+e
+ 
+b
+u
+s
+i
+n
+e
+s
+s
+ 
+g
+r
+o
+w
+t
+h
+.
+About
+Rampawan , CEO
+Many tools
+999+
+too little Progress
+Your work lives across emails, chats, documents, meetings, tasks, and dozens of apps. Teams waste valuable time switching between tools, searching for information, and repeating the same work.
+ 
+WorksBuddy
+ 
+brings everything together in one AI-powered workspace.
+But what if it will different?
+ 
+Automatic Lead Capture
+Every lead captured the moment it lands, scored 0 to 100 by real intent, and routed to the right rep in seconds, so no opportunity ever goes cold.
+Automatic Task Creation
+Turns emails, Slack, and meetings into self-updating tasks.
+Smart Email Campaigns
+Sends personalized messages at the perfect moment.
+Unified Document Hub
+Every file, note, and doc kept searchable and in sync across your team.
+Real-Time Finance Insights
+Track spend, invoices, and cash flow in one live view, so decisions never wait on a report.
+Automatic Lead Capture
+Every lead captured the moment it lands, scored 0 to 100 by real intent, and routed to the right rep in seconds, so no opportunity ever goes cold.
+Automatic Task Creation
+Turns emails, Slack, and meetings into self-updating tasks.
+Smart Email Campaigns
+Sends personalized messages at the perfect moment.
+Unified Document Hub
+Every file, note, and doc kept searchable and in sync across your team.
+Real-Time Finance Insights
+Track spend, invoices, and cash flow in one live view, so decisions never wait on a report.
+Automatic Lead Capture
+Every lead captured the moment it lands, scored 0 to 100 by real intent, and routed to the right rep in seconds, so no opportunity ever goes cold.
+Automatic Task Creation
+Turns emails, Slack, and meetings into self-updating tasks.
+Smart Email Campaigns
+Sends personalized messages at the perfect moment.
+Unified Document Hub
+Every file, note, and doc kept searchable and in sync across your team.
+Real-Time Finance Insights
+Track spend, invoices, and cash flow in one live view, so decisions never wait on a report.
+Everything connected.
+Everyone aligned.
+More pipeline, faster payments, signed contracts, shipped projects every agent built to deliver, around the clock
+ 
+Get Started
+01
+All-in-One CRM
+One click enriches any lead into a sales-ready profile with verified title, company, and contact details.
+Try Agent 
+1
+q
+2
+w
+6
+y
+7
+u
+9
+o
+0
+p
+ 
+@
+a
+€
+d
+&
+f
+*
+g
+(
+h
+)
+j
+'
+k
+ 
+ 
+%
+z
+-
+x
++
+c
+=
+v
+/
+b
+;
+n
+:
+m
+!
+,
+?
+.
+ 
+Hint : Click on the Agents to Know
+Enhance your workflow using powerful tools
+More pipeline, faster payments, signed contracts, shipped projects every agent built to deliver, around the clock.
+All-in-One CRM
+Turn any name into a sales-ready profile in a single click.
+ 
+Campaign Copilot
+ 
+Auto Invoicing
+ 
+Smart Signing 
+ 
+Task Intelligence
+ 
+AI Citation
+Ranko
+AI Citation
+See how often AI engines cite your brand, spot the gaps, and close them with generated content.
+ 
+Get Started
+Lio
+All-in-One CRM
+One click enriches any lead into a sales-ready profile with verified title, company, and contact.
+ 
+Get Started
+Evox
+Campaign Copilot
+Create, monitor, and optimize cold email campaigns with AI that writes and tunes every send.
+ 
+Get Started
+Inzo
+Auto Invoicing
+Turn won deals and finished projects into accurate invoices, then chase the payment automatically.
+ 
+Get Started
+Sigi
+Smart Signing 
+Send contracts for e-signature, track every signer, and trigger the next step automatically.
+ 
+Get Started
+Taro
+Task Intelligence
+Auto-create, assign, and prioritize tasks so the right work reaches the right person on time.
+ 
+Get Started
+Ranko
+AI Citation
+See how often AI engines cite your brand, spot the gaps, and close them with generated content.
+ 
+Get Started
+Lio
+All-in-One CRM
+One click enriches any lead into a sales-ready profile with verified title, company, and contact.
+ 
+Get Started
+ 
+ 
+Workflows that Think Ahead
+Connect every task, team, and AI agent into workflows that automate work from start to finish.
+ 
+Automate Now
+ 
+See why customers love using Worksbuddy
+Teams across industries are swapping their scattered tool stacks for one connected AI workforce. Here's what changed for them.
+MC
+Maya Collins
+Head of Sales
+Lio scores and routes every lead the second it lands. Our reps stopped chasing cold contacts and our close rate climbed almost 40%. It genuinely feels like we hired three more people.
+PN
+Priya Nair
+Marketing Manager
+Evox sends the right email at the right minute without me touching it. Open rates jumped past 60% and I got my mornings back.
+AM
+Arjun Mehta
+Engineering Manager
+Taro pulls action items straight out of our standups and assigns them before I've even closed the call. Status updates write themselves now, so I'm not chasing people on Slack every morning.
+MC
+Maya Collins
+Head of Sales
+Lio scores and routes every lead the second it lands. Our reps stopped chasing cold contacts and our close rate climbed almost 40%. It genuinely feels like we hired three more people.
+PN
+Priya Nair
+Marketing Manager
+Evox sends the right email at the right minute without me touching it. Open rates jumped past 60% and I got my mornings back.
+AM
+Arjun Mehta
+Engineering Manager
+Taro pulls action items straight out of our standups and assigns them before I've even closed the call. Status updates write themselves now, so I'm not chasing people on Slack every morning.
+TS
+Tara Simmons
+Operations Lead
+Before WorksBuddy, running operations meant juggling five tools and a dozen tabs. Now it's one login, and tasks create themselves from email and Slack, so nothing slips through.
+JW
+James Whitfield
+Finance Director
+Inzo tells me exactly when cash is coming in and who needs a nudge. We've had on-time collections for months straight, something spreadsheets never gave us.
+LV
+Lena Vogt
+Content Lead
+Ranko researches, writes, and tracks our articles end to end. We're publishing four times as much and most pieces rank within three months. It even flags a page the moment it starts slipping.
+TS
+Tara Simmons
+Operations Lead
+Before WorksBuddy, running operations meant juggling five tools and a dozen tabs. Now it's one login, and tasks create themselves from email and Slack, so nothing slips through.
+JW
+James Whitfield
+Finance Director
+Inzo tells me exactly when cash is coming in and who needs a nudge. We've had on-time collections for months straight, something spreadsheets never gave us.
+LV
+Lena Vogt
+Content Lead
+Ranko researches, writes, and tracks our articles end to end. We're publishing four times as much and most pieces rank within three months. It even flags a page the moment it starts slipping.
+DO
+Daniel Okafor
+Founder, Real Estate
+Same-day digital signing won us deals our competitors lost to paperwork delays. Sigi flagged a risky clause we would have missed entirely. That alone paid for the platform.
+SR
+Sofia Reyes
+Agency Owner
+We replaced four subscriptions with one platform and cut our software bill significantly. The agents talk to each other, so a closed deal updates billing and the campaign on its own.
+CD
+Carlos Duarte
+Operations Manager
+Revo connected our whole stack in an afternoon with no developer involved. When a deal closes, billing, the CRM, and our Slack channel all update on their own. It quietly removed hours of manual work every week.
+DO
+Daniel Okafor
+Founder, Real Estate
+Same-day digital signing won us deals our competitors lost to paperwork delays. Sigi flagged a risky clause we would have missed entirely. That alone paid for the platform.
+SR
+Sofia Reyes
+Agency Owner
+We replaced four subscriptions with one platform and cut our software bill significantly. The agents talk to each other, so a closed deal updates billing and the campaign on its own.
+CD
+Carlos Duarte
+Operations Manager
+Revo connected our whole stack in an afternoon with no developer involved. When a deal closes, billing, the CRM, and our Slack channel all update on their own. It quietly removed hours of manual work every week.
+ 
+Integrations
+Connect with the tools
+you already use
+WorksBuddy plugs straight into Google, Microsoft, HubSpot, Slack, Zoom, and Meta, so your data flows in automatically and your agents act the moment something changes. No exports, no manual syncing, no extra tabs to keep open.
+100+ integrations
+available and growing
+ 
+Humans + Agents, Working As One
+Never Sleep · Never Miss · Never Quit
+One Login · Every Agent · Zero Switching
+Run Your Business, Not Your Tools
+Humans + Agents, Working As One
+Never Sleep · Never Miss · Never Quit
+One Login · Every Agent · Zero Switching
+Run Your Business, Not Your Tools
+Go to market with unique data and the ability to act on it
+One workspace for leads, projects, billing, contracts, email, and automation.
+Start Building For Free
+→
+Contact Us
+Worksbuddy
+One workspace for leads, projects, billing, contracts, email, and automation.
+Stay in the loop, not the noise
+Email address
+Subscribe
+Company
+About
+Pricing
+Blog
+Careers
+Soon
+Contact Us
+Products
+Lio
+Taro
+Inzo
+Sigi
+Evox
+Revo
+Ranko
+Resources
+Documentation
+API Reference
+Help Center
+Integrations
+Soon
+Changelog
+Soon
+System Status
+Soon
+Comparison
+Lio vs Pipedrive
+Taro vs Monday
+Inzo vs Zoho
+Sigi vs DocuSign
+Evox vs Mailchimp
+Revo vs Zapier
+Ranko vs Writesonic
+Solutions
+Sales & Revenue
+Operations & PM
+Finance & Legal
+Marketing
+HR & People
+Verified & Recognized
+ 
+English
+ 
+ 
+Get it on
+Google Play
+ 
+ 
+ 
+ 
+ 
+All Rights Reserved © 
+2026
+ WorksBuddy.ai
+Privacy
+Refund
+Terms
+Sitemap
+
+===== product :: https://worksbuddy.ai/lio/features.md
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Lio Features
+## which leads to call.
+Lio is your AI powered lead management CRM. It works as lead capture software that enriches leads from LinkedIn in seconds, scores and ranks them against your ICP, predicts who's ready to sign, and manages your entire pipeline so your team focuses on closing, not admin
+- **10+** AI analysis features
+- **15+** Core CRM modules
+- **500 to 1k** LinkedIn URLs per batch
+- **Real time** SSE + Ably live sync
+## AI Intelligence
+LIO distributes leads the instant they're qualified no manual assignment, no wait times. Every rep gets the right volume matched to their live capacity.
+### AI Lead Scoring
+LIO scores every lead from zero to one hundred and tells you why, so you spend your day on the ones most likely to buy.
+/lio/features/ai-lead-scoring
+### AI Email Personalization
+LIO drafts a personal email for each lead using real details about them, so you sound relevant from the very first line.
+### Intent Alerts & Buying Signals
+LIO watches for the little moves that mean a lead is warming up and alerts you right away, so you reach out while they are paying attention.
+### Conversation Intelligence
+LIO records, transcribes, and summarizes every call and meeting, then turns the key points into follow-ups, so you can focus on the conversation.
+### Deal Forecasting
+LIO scores every open deal on how likely it is to close and flags the ones at risk, so you know your forecast and where to step in.
+### Ask LIO
+Ask a plain question about any lead or deal and LIO answers from your own calls, emails, and notes, with a link to the exact source.
+### Dashboards & AI Analytics
+Drag the cards you care about onto one board, pick a chart or a table, and watch it update in real time as your team works.
+## Lead Management
+A complete command center for every lead in your pipeline from lead capture to closed deal. The lead tracking software your team needs with every field, filter, and bulk action, without the bloat
+### Lead Management
+See, sort, and act on every lead from one screen, so nothing slips away and your team knows the next move.
+/lio/features/lead-management
+### Lead Workspace
+Save your favorite views, arrange your columns, and pin the tabs you use most, so your day opens the way you like it.
+### Contacts & Companies
+Keep every contact, company, and client linked in one place, so you always see who you are talking to and the whole story behind them.
+### Inbox & Email Sync
+Connect Gmail or Outlook and read, reply, and send from LIO. Each message links itself to the right lead, so the whole thread lives where you work.
+### Meetings Calendar
+See your whole calendar, pick a time that is free, and send the lead an invite with the video link, all without leaving LIO.
+### Calling & AI Voice Agent
+Call leads straight from LIO, get every call recorded and written up for you, and let an AI voice agent take the ones you cannot get to.
+### CRM Migration & Sync
+Connect HubSpot or Pipedrive, map your fields, and bring your leads, contacts, and companies into LIO clean, de-duplicated, and enriched.
+## Pipeline & Deals
+Full sales pipeline management built into your CRM. Use LIO as your pipeline management software to build any sales process, track deal value through every stage, and predict which deals will close before your forecast is due.
+### Pipeline & Deals
+Your deals live on one board that scores what is likely to close and flags the ones slipping, so you always know which one to work next.
+/lio/features/pipeline-deals
+### Workflow Automation
+Build simple if-this-then-that rules that assign, tag, email, and follow up on leads for you, so the routine work happens without you touching it.
+### Connected Apps
+Link your email, calendar, calling, meetings, and lead sources to LIO in a few clicks, so everything works together in one place.
+### Data Import & Export
+Import your leads, contacts, and companies from a spreadsheet in a few clicks, and export any list to a clean Excel file whenever you need it.
+### User Roles & Permissions
+Build roles that fit your team, decide who can see and change what, right down to their own records or everyone's, and keep the whole thing auditable.
+### Workspace Administration
+Run a guided setup, start from an industry template, and switch on only the modules you need, so LIO fits how your team sells from day one.
+### Reports & Custom Analytics
+Pick the fields and filters you need, see them as a chart or a table, and export a clean report to PDF, Excel, or CSV in seconds.
+## Lio talks to every
+other WorksBuddy agent
+Single product lead management tools stop at the deal. Lio is wired into the entire WorksBuddy OS so a won deal triggers an onboarding project in Taro, an invoice in Inzo, and a revenue update in Moni. Automatically, with zero manual handoffs.
+Deal won fires a new onboarding project in Taro tasks auto-assigned to the CS team
+Lio
+TARO
+High score leads are pushed to Evox email sequences automatically no list export.
+Lio
+Evox
+Closed deal creates a draft invoice in Inzo with deal value, client, and terms pre filled.
+Lio
+Inzo
+Support tickets from Zeni surface on the lead record reps see health before every call.
+Zeni
+Lio
+Lead scores and deal states feed Moni's revenue forecast in real time no manual sync.
+Lio
+Moni
+Booked demos from Kalo create follow-up tasks in Lio automatically lead pre linked.
+Kalo
+Lio
+## Ready to hire Lio?
+Start free and see why teams switch to LIO as their sales lead management software. Enrich your first 50 leads, score your pipeline, and find out who's actually ready to buy.
+Part of WorksBuddy the AI Business Operating System. Hire an AI team. Fire your tool stack.
+
+===== pricing_or_trust :: https://worksbuddy.ai/pricing
+--- SIGNALS ---
+title: WorksBuddy Plans - AI Automation Tool Pricing
+meta_description: Explore WorksBuddy pricing plans for AI automation business. Scale with intelligent agents that automate tasks, workflows, and operations.
+og_description: Explore WorksBuddy pricing plans for AI automation business. Scale with intelligent agents that automate tasks, workflows, and operations.
+og_site_name: 
+h1: Your whole business, one simple price.
+h2: One wallet the whole team shares | Every feature, ticked | Two agents priced on their own | Replaces a whole stack | Save time. Save money. | Kill busy work. | Good to know | One login. One wallet. Your whole business.
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://worksbuddy.ai/#organization", "name": "WorksBuddy", "url": "https://worksbuddy.ai", "logo": {"@type": "ImageObject", "url": "https://media.worksbuddy.ai/cdn-cgi/imagedelivery/1bOHO7DoO_ZiMwyjCSodqA/ed7fb336-8c5d-4a09-24f2-3c3842bad500/w=800"}, "sameAs": ["https://www.linkedin.com/company/worksbuddy", "https://twitter.com/worksbuddy"]}]
+--- TEXT ---
+WorksBuddy Plans - AI Automation Tool Pricing
+ 
+Skip to content
+ 
+Product
+ 
+Solutions
+ 
+Industries
+ 
+Resources
+ 
+Pricing
+ 
+Login
+ 
+Start free trial
+ 
+All-in-one Suite
+One AI workforce for your whole business
+Run your entire business on Worksbuddy every agent, one login, one price. No tabs to switch, no tools to sync.
+Contact Us
+→
+Capture & grow revenue
+Lio
+ · 
+Lead Manager
+Ranko
+ · 
+Visibility Strategist
+Evox
+ · 
+Email Marketer
+Run operations
+Taro
+ · 
+Project Manager
+Revo
+ · 
+Automation Builder
+Close & get paid
+Sigi
+ · 
+Contract Signer
+Inzo
+ · 
+Billing Manager
+The platform
+How it works
+Integrations
+Soon
+Security & trust
+Soon
+Watch 2-min overview
+Start 7-day free trial
+All-in-one Suite
+Solve every business challenge
+From sales and marketing to operations, finance, HR, and project management find solutions tailored to your team.
+Contact Us
+→
+By Team
+ 
+Sales & Revenue
+ 
+Operations & PM
+ 
+Finance & Legal
+ 
+Marketing
+ 
+HR & People
+By Use Case
+ 
+Lead → cash automation
+ 
+Contract lifecycle
+ 
+Replace your tool stack
+ 
+Cash-flow visibility
+ 
+AI-native PM
+Consolidate Your Stack
+See how teams replace 4-5 tools with one platform and save $37K per 500 users.
+Book a strategy call
+Start free trial
+All-in-one Suite
+Powering every industry
+AI-powered workflows designed to help businesses streamline operations, boost productivity, and drive growth.
+Contact Us
+→
+Property & Operations
+ 
+Real Estate
+ 
+Logistics
+ 
+Automobile
+People & Services
+ 
+Healthcare
+ 
+Education
+ 
+Food & Beverages
+Tech & Finance
+ 
+Finance
+ 
+IT Services
+ 
+SaaS
+Don't see yours? Talk to us
+Read customer stories
+Get Started Free
+All-in-one Suite
+Explore resources & guides
+Discover blogs, templates, e-books, API docs, and expert insights to get more from Worksbuddy.
+Contact Us
+→
+Learn
+ 
+API Docs
+ 
+Blog
+ 
+Help center & docs
+ 
+Webinars & demos
+ 
+Templates & e-books
+Company
+ 
+About us
+ 
+Customer stories
+ 
+Partners & affiliates
+ 
+Contact
+Compare all agents
+How it works
+Browse the blog
+ 
+Product 
+Lio
+ · 
+Lead Manager
+Ranko
+ · 
+Visibility Strategist
+Evox
+ · 
+Email Marketer
+Taro
+ · 
+Project Manager
+Revo
+ · 
+Automation Builder
+Sigi
+ · 
+Contract Signer
+Inzo
+ · 
+Billing Manager
+ 
+How it works
+ 
+Integrations
+Soon
+ 
+Security & trust
+Soon
+Start 7-day free trial
+→
+Solutions 
+By Team
+ 
+Sales & Revenue
+ 
+Operations & PM
+ 
+Finance & Legal
+ 
+Marketing
+ 
+HR & People
+By Use Case
+ 
+Lead → cash automation
+ 
+Contract lifecycle
+ 
+Replace your tool stack
+ 
+Cash-flow visibility
+ 
+AI-native PM
+Consolidate Your Stack
+Start free trial
+→
+Industries 
+Property & Operations
+ 
+Real Estate
+ 
+Logistics
+ 
+Automobile
+People & Services
+ 
+Healthcare
+ 
+Education
+ 
+Food & Beverages
+Tech & Finance
+ 
+Finance
+ 
+IT Services
+ 
+SaaS
+Get Started Free
+→
+Resources 
+Learn
+ 
+API Docs
+ 
+Blog
+ 
+Help center & docs
+ 
+Webinars & demos
+Soon
+ 
+Templates & e-books
+Company
+ 
+About us
+ 
+Customer stories
+ 
+Partners & affiliates
+ 
+Contact
+Browse the blog
+→
+Pricing
+Start free trial
+→
+Contact sales
+Sign in
+ 
+One platform
+one price
+Your whole business,
+ 
+one simple price.
+Four AI-native appsprojects, CRM, automation, and billing in a single login and a single shared wallet. Priced per seat, so it grows exactly as your team does.
+How it works
+One wallet the whole team shares
+Credits aren't locked to a person or an app. Everyone draws from the same pooled balance, and you only spend on real AI output.
+¢
+Credits, pooled and portable
+One credit is 
+$0.01
+. Each seat adds
+ 
+1,999 credits
+ 
+to a single shared wallet, and any teammate can spend them on any app — the credits you bought for a CRM call can just as easily power an automation run.
+ 
+Routine work is always free.
+Credits burn only on delivered AI outcomes, never on failed attempts, and unused included credits roll over one month. Run low and you top up anytime, so you're never blocked mid-task.
+Top up anytime
+$25
+2,500 credits
+$100
+12,000 credits
+$400
+60,000 credits
+What's inside
+Every feature, ticked
+Each app at its full tier from the first seat. Nothing held back behind a higher plan.
+LIO
+CRM & sales
+ 
+AI lead scoring on every contact
+ 
+Dialer + AI voice agent + transcripts
+ 
+Smart follow-up sequences
+ 
+Workflow automations & routing
+ 
+Forecasting + custom dashboards
+ 
+Account-based marketing & playbooks
+TARO
+Projects
+ 
+Unlimited projects, tasks & members
+ 
+Board, list, calendar, Timeline & Gantt
+ 
+AI task creation + overdue-risk
+ 
+Auto-prioritized backlog
+ 
+Goals / OKRs & portfolios
+ 
+Workload planning + time tracking
+SIGI
+E-signature
+ 
+Unlimited signatures, no envelope fees
+ 
+AI clause review + risk detection
+ 
+Reusable templates & signing order
+ 
+Conditional fields + bulk send
+ 
+Payment collection on documents
+ 
+Advanced ID verification
+INZO
+Invoicing
+ 
+Unlimited invoices & billable clients
+ 
+Recurring billing + multi-currency
+ 
+OCR scanning + AI cash-flow forecast
+ 
+Payment reliability scoring
+ 
+Bills & AP automation, multi-entity
+ 
+Inventory, project profit & GST
+REVO
+Automation
+ 
+Unlimited workflows · 1,000+ apps
+ 
+Multi-step + webhooks + instant triggers
+ 
+AI error resolution + failure replay
+ 
+Logic & filter steps never counted
+ 
+Version history + rollback
+ 
+Premium AI models
+Across the suite
+Every seat
+ 
+One shared credit wallet
+ 
+SSO / SAML + RBAC
+ 
+Audit logs + data residency
+ 
+API + MCP / Claude access
+ 
+99.9% uptime SLA
+ 
+Dedicated success manager
+Add-ons
+Two agents priced on their own
+EVOX and RANKO don't fit a per-seat model — their value scales with usage, not headcount. So each keeps its own plan you can add anytime.
+Why they're separate
+EVOX is priced by how many emails you send, and RANKO by how many prompts you track across AI engines. Charging those per seat would punish a small team sending big volume — and overcharge a big team sending little. They plug into the same login and the same shared wallet; you just pick the plan that matches your usage.
+EVOX · Email
+Cold outreach, warmup, unlimited mailboxes & AI Ghost Writer. Priced by sends.
+$29
+/ mo
+RANKO · AI search
+Track your Share of AI Voice across ChatGPT, Claude & more. Priced by prompts.
+$49
+/ mo
+The math
+Replaces a whole stack
+One subscription instead of four separate bills, four logins, and four vendors that don't talk to each other.
+CRM + dialer
+ 
+~$
+90
+/seat
+Project tool
+ 
+~$
+24
+/seat
+E-sign
+ 
+~$
+25
+/seat
+Invoicing
+ 
+~$
+20
+/seat
+Automation
+ 
+~$
+18
+/seat
+~$
+177
+ / seat separately
+→
+$
+19
+ / seat with WorksBuddy One
+Cost Savings Calculator
+Save time. Save money.
+Kill busy work.
+Cost savings are based on average monthly price per user for each app.
+ 
+Select your current tools
+Every tool below is covered by an agent inside the $
+19
+/seat.
+CRM & Sales
+Replaced by 
+LIO
+Salesforce
+$25/user
+ 
+HubSpot
+$15/user
+ 
+Projects & Tasks
+Replaced by 
+TARO
+Asana
+$10.99/user
+ 
+monday.com
+$12/user
+ 
+E-signature
+Replaced by 
+SIGI
+DocuSign
+$25/user
+ 
+PandaDoc
+$19/user
+ 
+Invoicing & Billing
+Replaced by 
+INZO
+QuickBooks
+$38/mo
+ 
+FreshBooks
+$33/mo
+ 
+Automation
+Replaced by 
+REVO
+Zapier
+$19.99/mo
+ 
+Make
+$10.59/mo
+ 
+Team size
+How many people work at your company?
+500
+Your comparison
+Annual cost breakdown for your stack.
+500
+ users
+← Select tools to see your comparison
+Salesforce
+$25/user
+$150,000
+/yr
+HubSpot
+$15/user
+$90,000
+/yr
+Asana
+$10.99/user
+$65,940
+/yr
+monday.com
+$12/user
+$72,000
+/yr
+DocuSign
+$25/user
+$150,000
+/yr
+PandaDoc
+$19/user
+$114,000
+/yr
+QuickBooks
+$38/mo
+$456
+/yr
+FreshBooks
+$33/mo
+$396
+/yr
+Zapier
+$19.99/mo
+$239.88
+/yr
+Make
+$10.59/mo
+$127.08
+/yr
+Total (
+5
+ 
+tools
+)
+$366,635.88
+/yr
+WorksBuddy One
+$
+19
+/seat × 
+500
+ × 12 months
+$114,000
+/yr
+You save
+69
+% less
+$252,635.88
+/yr
+WorksBuddy saves a 
+500
+-person team 
+$252,635.88
+ per year vs paying separately for 
+5
+ 
+tools
+ — every seat includes all five agents.
+ 
+Start your 
+14
+-day free trial
+Get an official quote
+ to share with your team
+Questions & Answers
+Good to know
+What counts as a "seat"?
++
+A seat is one person on your team. Every seat unlocks all four apps at their full tier and adds 1,999 credits to your shared wallet. You can add or remove seats anytime, and billing adjusts on your next cycle.
+How does the shared credit wallet work?
++
+All of your seats' credits pool into one balance. Any teammate can spend them on any app, so a busy month in the CRM and a quiet month in automation simply balance out. Routine work never costs credits — they only apply to delivered AI outcomes like a voice call, a clause review, or a cash-flow forecast.
+What happens if I run out of credits?
++
+You're never blocked mid-task. Top up anytime from $25, and unused included credits roll over for one month. You upgrade for more headroom, never to unlock a feature.
+Why are Evox and Ranko not in the Prime price?
++
+Their value scales with usage rather than headcount — by emails sent and by prompts tracked. A per-seat price would be unfair in both directions, so each keeps its own plan. They share the same login and wallet, and you add either whenever you need it.
+Is there really no card required to start?
++
+Correct. Start a 14-day free trial with no card. If WorksBuddy One isn't right for you, do nothing and it simply ends.
+One login. One wallet. Your whole business.
+Bring your team onto a single AI workforce and watch the busywork disappear.
+ 
+Start 14-day free trial
+Go to market with unique data and the ability to act on it
+One workspace for leads, projects, billing, contracts, email, and automation.
+Start Building For Free
+→
+Contact Us
+Worksbuddy
+One workspace for leads, projects, billing, contracts, email, and automation.
+Stay in the loop, not the noise
+Email address
+Subscribe
+Company
+About
+Pricing
+Blog
+Careers
+Soon
+Contact Us
+Products
+Lio
+Taro
+Inzo
+Sigi
+Evox
+Revo
+Ranko
+Resources
+Documentation
+API Reference
+Help Center
+Integrations
+Soon
+Changelog
+Soon
+System Status
+Soon
+Comparison
+Lio vs Pipedrive
+Taro vs Monday
+Inzo vs Zoho
+Sigi vs DocuSign
+Evox vs Mailchimp
+Revo vs Zapier
+Ranko vs Writesonic
+Solutions
+Sales & Revenue
+Operations & PM
+Finance & Legal
+Marketing
+HR & People
+Verified & Recognized
+ 
+English
+ 
+ 
+Get it on
+Google Play
+ 
+ 
+ 
+ 
+ 
+All Rights Reserved © 
+2026
+ WorksBuddy.ai
+Privacy
+Refund
+Terms
+Sitemap

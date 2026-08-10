@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **172 of 237**. Regenerated 2026-08-11.
+Enriched so far: **192 of 237**. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -174,29 +174,29 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | L-Soft | — | — | — | — | 1 | 12 | 1 | G | D | 3 |
 | Leadspicker | — | — | — | on-premise | 1 | — | 1 | G | D | 4 |
 | LeadSquared | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
-| LeadsRx | — | — | — | — | — | — | 1 | G | N | 0 |
+| LeadsRx | — | — | — | — | — | — | 1 | G | D | 4 |
 | lemlist | — | — | — | — | 4 | — | 1 | 2 | D | 4 |
 | Levitate | — | — | — | — | — | — | 1 | 2 | D | 2 |
 | Lob | — | — | — | — | — | — | 1 | G | U | 0 |
-| Longtail UX | — | — | — | — | — | — | 1 | G | N | 0 |
+| Longtail UX | — | — | — | — | — | — | 1 | G | U | 0 |
 | Mailgun | — | — | — | — | 2 | — | 1 | 2 | D | 4 |
-| Mapp | — | — | — | — | — | — | 1 | G | N | 0 |
+| Mapp | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | Marigold | — | — | — | — | — | — | 1 | G | D | 2 |
-| MarketingPlatform | — | — | — | — | — | — | 1 | G | N | 0 |
-| Marketplacer | — | — | — | — | — | — | 1 | G | N | 0 |
-| Mastercard | — | — | — | — | — | — | 1 | G | N | 0 |
+| MarketingPlatform | — | — | — | — | 2 | — | 1 | G | D | 4 |
+| Marketplacer | — | — | — | — | — | — | 1 | G | D | 4 |
+| Mastercard | — | — | — | — | — | — | 1 | G | U | 0 |
 | Medallia | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
-| Meiro | — | — | — | — | — | — | 1 | G | N | 0 |
+| Meiro | — | — | — | on-premise, self-hosted, private-cloud | 3 | 12 | 1 | G | D | 4 |
 | Mekari | — | 2015 | — | — | 2 | — | 1 | G | D | 3 |
 | Messangi | — | — | — | — | 6 | — | 1 | G | D | 3 |
 | Metadata | US | 2015 | — | — | 2 | — | 1 | G | D | 3 |
-| MINT | — | — | — | — | — | — | 1 | G | N | 0 |
-| MobiMesh | — | — | — | — | — | — | 1 | G | N | 0 |
+| MINT | — | — | — | — | — | — | 1 | G | D | 3 |
+| MobiMesh | — | — | — | — | — | — | 1 | G | D | 2 |
 | Mobivity | — | — | — | — | — | — | 1 | G | D | 2 |
-| NerdMonster Digital Retail | — | — | — | — | — | — | 1 | G | N | 0 |
-| OBASE | — | — | — | — | — | — | 1 | G | N | 0 |
+| NerdMonster Digital Retail | — | — | — | — | — | — | 1 | G | D | 3 |
+| OBASE | — | — | — | — | — | — | 1 | G | D | 3 |
 | Ometria | — | — | — | — | 5 | — | 1 | G | D | 4 |
-| ONLINECITY.IO | — | — | — | — | — | — | 1 | G | N | 0 |
+| ONLINECITY.IO | — | — | — | — | — | — | 1 | G | D | 2 |
 | Ortto | — | — | — | — | — | — | 1 | G | D | 2 |
 | PAR | — | — | — | — | — | — | 1 | G | U | 0 |
 | Perion | — | — | — | — | — | — | 1 | G | D | 3 |
@@ -204,19 +204,19 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Piwik PRO | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | Podium | — | — | — | — | 1 | — | 1 | 2 | D | 3 |
 | Postal | — | — | — | — | 1 | — | 1 | G | D | 4 |
-| Postalytics | — | — | — | — | — | — | 1 | G | N | 0 |
-| PostcardMania | — | — | — | — | — | — | 1 | G | N | 0 |
+| Postalytics | — | — | — | — | 2 | 12 | 1 | G | D | 3 |
+| PostcardMania | — | — | — | — | — | — | 1 | G | U | 0 |
 | PostGrid | — | — | — | — | — | — | 1 | G | U | 0 |
 | Precisely | — | — | legacy | — | 3 | 12 | 1 | G | D | 3 |
 | Printfection | — | — | — | — | — | — | 1 | G | D | 4 |
 | Pyze | — | — | — | private-cloud | — | 12 | 1 | G | D | 4 |
-| Qujam | — | — | — | — | — | — | 1 | G | N | 0 |
+| Qujam | US | 2023 | — | — | — | — | 1 | G | D | 4 |
 | Radar | USA | 2016 | — | — | — | 6 | 1 | G | D | 4 |
 | Reachdesk | — | — | — | — | — | — | 1 | G | U | 0 |
 | Redpoint | — | — | — | — | — | — | 1 | G | D | 3 |
-| Rejoiner | — | — | — | — | — | — | 1 | G | N | 0 |
+| Rejoiner | — | — | — | — | 3 | — | 1 | G | D | 4 |
 | Resulticks | — | — | — | — | — | — | 1 | G | D | 2 |
-| Reteno | — | — | — | — | — | — | 1 | G | N | 0 |
+| Reteno | PL | — | — | — | 4 | — | 1 | G | D | 4 |
 | Rocket Now | CA | 2020 | — | — | — | — | 1 | G | D | 2 |
 | SALESmanago | PL | — | — | — | — | — | 1 | G | D | 4 |
 | SAS | — | — | legacy | — | — | — | 1 | G | U | 0 |
@@ -229,28 +229,28 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Spectrm | — | — | — | — | — | — | 1 | G | U | 0 |
 | SpiceSend | — | — | legacy | — | 1 | — | 1 | G | D | 3 |
 | Splio | — | — | — | — | 1 | — | 1 | G | D | 3 |
-| Sprinklr | — | — | — | — | — | — | 1 | G | N | 0 |
-| Storyly | — | — | — | — | — | — | 1 | G | N | 0 |
+| Sprinklr | United States | — | — | — | 5 | 12 | 1 | G | D | 4 |
+| Storyly | US | 2020 | — | — | — | — | 1 | G | D | 3 |
 | Striker Soft Solutions | — | — | — | — | — | — | 1 | G | U | 0 |
 | SugarAI | — | — | — | — | — | 2 | 1 | G | D | 4 |
-| SwiftERM Hyper-Personalisation | — | — | — | — | — | — | 1 | G | N | 0 |
+| SwiftERM Hyper-Personalisation | — | — | — | — | — | — | 1 | G | U | 0 |
 | Swrve | — | — | — | — | — | — | 1 | G | U | 0 |
-| Text | — | — | — | — | — | — | 1 | G | N | 0 |
+| Text | US | 2023 | — | — | 5 | 2 | 1 | G | D | 4 |
 | Textedly | — | — | — | — | 5 | 12 | 1 | 2 | D | 4 |
 | Thryv | US | 2013 | — | — | 2 | 12 | 1 | G | D | 4 |
-| Treasure AI | — | — | — | — | — | — | 1 | G | N | 0 |
+| Treasure AI | — | — | — | — | — | — | 1 | G | U | 0 |
 | Trendemon | — | — | — | — | 3 | — | 1 | G | D | 4 |
 | Twilio | — | — | — | — | 5 | — | 1 | G | D | 4 |
-| Upaknee | — | — | — | — | — | — | 1 | G | N | 0 |
+| Upaknee | — | — | — | managed-service | 1 | — | 1 | G | D | 3 |
 | UTM.io | — | — | — | — | — | — | 1 | G | D | 4 |
 | ValueFirst | — | — | — | — | — | — | 1 | G | D | 2 |
-| Veloxy IO | — | — | — | — | — | — | 1 | G | N | 0 |
-| VeryUtils | — | — | — | — | — | — | 1 | G | N | 0 |
+| Veloxy IO | — | — | — | — | — | — | 1 | G | U | 0 |
+| VeryUtils | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | Vibes | — | — | — | — | 4 | 12 | 1 | G | D | 4 |
 | Warmy | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Webflow | US | 2013 | — | — | — | — | 1 | 2 | D | 4 |
-| WILY | — | — | — | — | — | — | 1 | G | N | 0 |
+| WILY | — | — | — | — | — | — | 1 | G | U | 0 |
 | Woosmap | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
-| WorksBuddy | — | — | — | — | — | — | 1 | G | N | 0 |
+| WorksBuddy | — | 2024 | — | — | 2 | 9 | 1 | G | D | 4 |
 | xiQ | — | — | — | — | — | — | 1 | G | U | 0 |
 | Yotpo | — | — | — | — | 4 | — | 1 | G | D | 4 |

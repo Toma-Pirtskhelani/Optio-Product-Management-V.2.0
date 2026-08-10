@@ -1,0 +1,152 @@
+===== homepage :: https://onlinecity.io/
+--- SIGNALS ---
+title: ONLINECITY.IO - We’re all about smart platforms | OnlineCity.io
+meta_description: We’re here to make technology-based communication easy. With tens of thousands of customers worldwide, ONLINECITY.IO connects people and units via messaging and IoT connectivity.
+og_description: ONLINECITY.IO boosts the standard for advanced but easy to use platforms
+og_site_name: onlinecity.io
+h1: We’re all about smart platforms | Get in touch
+h2: One company, three platforms | We are your connection point | Privacy, security, clarity | Snapshots from life at ONLINECITY.IO
+jsonld_org: []
+--- TEXT ---
+ONLINECITY.IO - We’re all about smart platforms | OnlineCity.io
+ 
+ 
+ 
+ 
+English
+ 
+Platforms
+About
+Cases
+Contact us
+Platforms
+About
+Cases
+ 
+ 
+Contact us
+We’re all about 
+smart platforms
+We’re here to make technology-based communication easy for you. 
+With tens of thousands of customers worldwide, our ONLINECITY.IO-family 
+connects people and units every day via messaging, IoT connectivity
+and virtual numbers.
+Get to know us
+Contact us
+Let’s meet the family
+One company, three platforms
+Read on to learn more about GatewayAPI, RelationCity, NexCon.io 
+and the many services we provide through each platform.
+GatewayAPI is our global CPaaS supercharged with a powerful SMS gateway. It simplifies the process of sending business messages by removing the complexity and allowing you to focus on building your projects right away with our intuitive APIs.
+ SMS APIs
+ Email API
+ Virtual number and keywords
+ Mobile Message API
+Visit GatewayAPI
+ 
+RelationCity is our advanced marketing and communication platform that fits perfectly into your omnichannel marketing strategy and lets you communicate effectively across multiple channels. In short, RelationCity makes it easy to reach your target audience – wherever they are.
+ SMS services
+ Email services
+ RCS services
+ RelationCity API
+Visit RelationCity
+ 
+NexCon.io provides professional IoT and M2M SIMs and eSIMs that connect your devices to 525+ global networks. With NexCon.io, you can manage all your SIMs in one place and handle communication via data transfer and SMS with ease.
+ IoT SIMs
+ M2M SIMs
+ Physical SIMs
+ eSIMs
+Visit NexCon.io
+ 
+We are your connection point
+At ONLINECITY.IO, we bring together our digital platforms all under one roof, connecting you to powerful solutions that strengthen your business. With us, smarter, faster and more efficient tools are just one click away.
+All about us
+Since 1999, ONLINECITY.IO has been making digital platforms to power your technology-based communication. We’ve got a rich history and love sharing our journey – take a look behind the scenes, or check out our latest updates on LinkedIn!
+Visit us on LinkedIn
+One login, full access
+All our platforms are all accessible through your OCiD login. This means that you can use one, two or all three platforms through a single account in one convenient place.
+Choose your use case
+This is how different businesses can use NexCon.io, GatewayAPI and RelationCity  as the perfect toolbox to strengthen their services and products
+Telemedicine
+Smart home
+Logistics
+Telemedicine
+A patient receives a telemedicine kit with a NexCon.io SIM card. The device securely transmits real-time health data to the provider’s system.
+GatewayAPI sends the patient an SMS with a secure link for their upcoming video consultation, plus a reminder 24 hours before.
+After the consultation, RelationCity manages ongoing communication: sending care instructions, scheduling follow-ups and gathering feedback.
+Smart home
+When a customer installs a new smart home device, NexCon.io ensures it’s connected via a reliable IoT SIM card.
+GatewayAPI sends an SMS to the customer confirming the setup. It also sends regular security alerts and maintenance reminders.
+RelationCity helps create marketing campaigns to upsell additional devices or services based on the customer’s usage patterns.
+Logistics
+All delivery vehicles are equipped with IoT devices using NexCon.io SIMs, providing real-time location and status data to the central logistics platform.
+Customers receive SMS notifications from GatewayAPI with live tracking links, estimated arrival times and updates if the delivery window changes.
+Customer service teams use RelationCity to view all shipment and communication histories, manage complaints and ensure proactive follow-ups.
+Telemedicine
+A patient receives a telemedicine kit with a NexCon.io SIM card. The device securely transmits real-time health data to the provider’s system.
+GatewayAPI sends the patient an SMS with a secure link for their upcoming video consultation, plus a reminder 24 hours before.
+After the consultation, RelationCity manages ongoing communication: sending care instructions, scheduling follow-ups and gathering feedback.
+Smart home
+When a customer installs a new smart home device, NexCon.io ensures it’s connected via a reliable IoT SIM card.
+GatewayAPI sends an SMS to the customer confirming the setup. It also sends regular security alerts and maintenance reminders.
+RelationCity helps create marketing campaigns to upsell additional devices or services based on the customer’s usage patterns.
+Logistics
+All delivery vehicles are equipped with IoT devices using NexCon.io SIMs, providing real-time location and status data to the central logistics platform.
+Customers receive SMS notifications from GatewayAPI with live tracking links, estimated arrival times and updates if the delivery window changes.
+Customer service teams use RelationCity to view all shipment and communication histories, manage complaints and ensure proactive follow-ups.
+Telemedicine
+A patient receives a telemedicine kit with a NexCon.io SIM card. The device securely transmits real-time health data to the provider’s system.
+GatewayAPI sends the patient an SMS with a secure link for their upcoming video consultation, plus a reminder 24 hours before.
+After the consultation, RelationCity manages ongoing communication: sending care instructions, scheduling follow-ups and gathering feedback.
+Smart home
+When a customer installs a new smart home device, NexCon.io ensures it’s connected via a reliable IoT SIM card.
+GatewayAPI sends an SMS to the customer confirming the setup. It also sends regular security alerts and maintenance reminders.
+RelationCity helps create marketing campaigns to upsell additional devices or services based on the customer’s usage patterns.
+Logistics
+All delivery vehicles are equipped with IoT devices using NexCon.io SIMs, providing real-time location and status data to the central logistics platform.
+Customers receive SMS notifications from GatewayAPI with live tracking links, estimated arrival times and updates if the delivery window changes.
+Customer service teams use RelationCity to view all shipment and communication histories, manage complaints and ensure proactive follow-ups.
+Privacy, security, clarity
+Your data is safe with us. All our systems are built with data compliance and security at the core, we receive annual auditor’s statements, and we keep all our policies transparent and available for all.
+ GatewayAPI
+ RelationCity
+ NexCon.io
+ 
+Snapshots
+ from life at ONLINECITY.IO
+From collaborations to celebrations, we make sure to spend time together both online and offline. Whether we’re sharing ideas during meetings or enjoying social gatherings, these moments shape our everyday experiences at ONLINECITY.IO
+Let's do something fantastic
+Get in touch
+If you have questions, need our help – or you just want to hear more about
+our platforms, services etc., you’re always welcome to contact us. And we
+will help you the best we can as fast as we can.
+Contact us
+English
+ 
+Our offices
+Buchwaldsgade 50
+5000 Odense C
+Denmark
+Sankt Gertruds Stræde 6E
+1129
+ København K
+Denmark
+Business info
+ONLINECITY.IO ApS CVR
+27364276
+Accountant
+Ernst & Young (EY)
+Bank information
+Sydbank – 6845 0001357732
+Lawyer
+Kielberg advokater A/S
+Contact us
+Phone
++45 66118311
+Mail
+info@onlinecity.io
+Our company
+Legal
+About
+ All rights reserved. Copyright © 
+ ONLINECITY.IO

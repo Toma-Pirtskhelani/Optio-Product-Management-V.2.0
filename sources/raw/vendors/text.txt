@@ -1,0 +1,4638 @@
+===== llms.txt :: https://www.text.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Text App | AI Customer Service Automation Software for Business | Text.com
+
+> Text App is an AI customer service platform designed to help companies deliver automated support experiences. By combining AI agents, live chat, and help desk features, Text App allows businesses to streamline communication, reduce response times, and improve customer satisfaction.
+
+Key Features of Text App:
+- AI-First Customer Service - Automate support with AI agents that scale to meet demand while maintaining a human touch.
+- Self-Acting AI Agents - AI experts autonomously deliver support, complete tasks, and drive sales conversions.
+- Knowledge Hub - Centralized business knowledge powers AI-generated answers and resolutions.
+- Customer Data Platform - Personalize replies using unified customer data from every source.
+- AI Live Chat - Real-time chat support where AI handles most interactions and escalates when needed.
+- Help Desk & Ticketing - Efficiently manage queries with an organized ticket system.
+- Multi-Channel Support - Engage customers across multiple platforms.
+- Workflows & Automations - Automate tasks and close conversions at scale with cross-app workflows.
+- Campaigns & Engagement - Trigger personalized messages for sales, support, or loyalty initiatives.
+- Sales & Service Optimization - AI-led support helps with lead nurturing, product onboarding, concierge care, and de-escalation.
+
+## Overview
+
+- [Text](https://www.text.com/): Automate customer service with Text App - an AI-first support platform packed with live chat, help desk, and AI agents. Deliver 24/7 service that scales with demand and handles support at scale.
+
+## Products
+
+- [Text App](https://www.text.com/app): Sign up or log in to start using the Text App web platform - automate customer service, access AI agents, and manage live chat from anywhere.
+- [Desktop app](https://www.text.com/product/desktop-app/): Download Text App for macOS or Windows to manage all your customer service in one workspace. Stay focused, work faster, and let AI help when you're away.
+
+## Features
+
+- [AI agent](https://www.text.com/features/ai-agent/): Automate customer support and sales with AI Agent in the Text App. Deliver personalized, on-brand conversations, reduce wait times, and scale with smart, responsive automation.
+- [AI live chat](https://www.text.com/features/ai-live-chat/): Text App AI live chat features help you respond instantly, personalize support, and close more deals with automation that takes care of the busywork.
+- [AI help desk](https://www.text.com/features/ai-help-desk/): Text App AI help desk features help you manage tickets, collaborate faster, and resolve issues with AI that streamlines the chaos behind customer service.
+
+## Pricing
+
+- [Pricing](https://www.text.com/pricing/): Explore Text App's flexible pricing for every stage-from $19/month for small teams to enterprise-grade AI support. Start your 14-day free trial today.
+- [Text pricing (Markdown)](https://www.text.com/pricing.md): Full pricing in plain Markdown — Essential $19, Growth $79, Enterprise custom (per user/month, annual billing), plan feature lists, AI resolution allowances and top-up packs, billing rules, and free trial details.
+
+## Industries
+
+- [Text - Customer service solution for capital markets](https://www.text.com/sales-crypto/): Empower traders with 24/7 AI-driven support from Text. Provide instant, reliable assistance to ensure smooth trading experiences and build trust in fast-paced markets.
+- [Text - Customer service solution for iGaming](https://www.text.com/igaming-and-betting/): Boost customer happiness with Text's scalable, AI-powered solutions. Deliver fast, seamless support to enhance player experience, increase retention, and raise your support standards.
+
+## Company
+
+- [Vision](https://www.text.com/vision/): We help brands provide better customer service at scale by analyzing, enriching, and automating text communication.
+- [Focus](https://www.text.com/focus/): This is how we operate. These are the rules we follow at Text.
+- [Universe | Text - AI-powered technology for customer service software](https://www.text.com/universe/): Text.com Universe offers text technology, distribution partners, and customer service apps.
+- [Team](https://www.text.com/team/): See what kind of experts and personalities stand behind Text. Learn more about each member of the Text team and see what makes us tick.
+- [Careers](https://www.text.com/careers/): Looking for career opportunities that will let you grow and learn? Check Text job openings - find your dream job and apply!
+
+## Contact
+
+- [Contact](https://www.text.com/contact/): Our commitment is to deliver outstanding customer service. For questions regarding our products, technical support, or legal matters, explore various ways to connect with Text on our contact page.
+
+## Powered-by-text
+
+- [Powered by Text App | AI-Powered Customer Service & Sales Automation](https://www.text.com/powered-by-text/): Enhance customer communication with Text App - the AI-driven platform for support and sales automation. Streamline chats, tickets, and smooth handoffs between AI and human agents to deliver faster, smarter service.
+
+## Zen-customer-care
+
+- [Let's put the 'zen' back in customer care | Text](https://www.text.com/zen-customer-care/): Discover a stress-free approach to customer care with Text. Deliver seamless support, create happier customers, and bring the 'zen' back into every interaction, especially yours.
+- [Wembley Earns $1.5M in 8 Months with AI | Text](https://www.text.com/zen-customer-care/wembley/): Learn how Wembley Stadium began delivering premium support with Text products, while driving significant revenue growth.
+- [Funded Trading Plus Boosts CSAT to 93% | Text](https://www.text.com/zen-customer-care/funded-trading-plus/): See how Funded Trading Plus used AI to deliver faster, smarter support - all while keeping their customers happy and their team focused.
+
+## Brand-assets
+
+- [Brand Assets for Text Products - Official Logos & Guidelines](https://www.text.com/brand-assets/): Access official Text assets including logos and guidelines for LiveChat, ChatBot, HelpDesk, and more. Download now for consistent branding.
+- [LiveChat Brand Assets - Official Logos & Guidelines](https://www.text.com/brand-assets/livechat/): Download official LiveChat logos and branding guidelines for consistent use in media and marketing materials. Stay true to the LiveChat brand.
+- [Chatbot Brand Assets - Logos & Branding Guidelines](https://www.text.com/brand-assets/chatbot/): Access ChatBot brand logos and guidelines for accurate representation in marketing and media. Download official assets for consistent branding.
+- [HelpDesk Brand Assets - Official Logos & Guidelines](https://www.text.com/brand-assets/helpdesk/): Download official HelpDesk brand assets, including logos and guidelines. Perfect for consistent use in media and presentations.
+- [KnowledgeBase Brand Assets - Logos & Branding Guidelines](https://www.text.com/brand-assets/knowledgebase/): Get KnowledgeBase brand logos and official guidelines for proper use in marketing, presentations, and digital channels. Download assets now.
+- [OpenWidget Brand Assets - Logos & Official Guidelines](https://www.text.com/brand-assets/openwidget/): Download OpenWidget logos and branding guidelines for consistent use in presentations, marketing, and media. Access official brand assets now.
+- [Platform Brand Assets - Official Logos & Branding Guidelines](https://www.text.com/brand-assets/platform/): Access Platform logos and branding guidelines for consistent use in marketing materials and presentations. Download official brand assets now.
+- [Text Brand Assets - Official Logos & Branding Guidelines](https://www.text.com/brand-assets/text/): Download Text brand logos and official guidelines for consistent branding in marketing and digital content. Access high-quality assets now.
+
+## Partner Program
+
+- [Join Partner Program Grow your business with Text](https://www.text.com/partners/): Join the free Text Partner Program to refer, resell, or integrate Text App, LiveChat, ChatBot, and HelpDesk. Earn lifetime commission on customer-service software trusted by 35,000+ businesses.
+- [Find a partner Team up with your Text expert](https://www.text.com/partners/find-a-partner/): Get matched with Text partners for implementation, integrations, AI automation, training, and outsourced support - everything you need to boost sales and customer satisfaction.
+- [Solution partners](https://www.text.com/partners/solution/): Resell and implement Text apps to expand your service portfolio, tap into partner directory leads, and earn up to 25% recurring revenue. Free demo account, personal onboarding, and 24/7 expert support included.
+- [Affiliate partners](https://www.text.com/partners/affiliate/): Join the Text Affiliate Program, promote Text App, LiveChat, ChatBot, and HelpDesk, and earn a 22% recurring lifetime commission. Paid ads and PPC friendly.
+- [Technology partners](https://www.text.com/partners/technology/): Join the Text Technology Program and build on powerful online communication APIs, add native chatting to your products, and monetize your apps on the partner directory.
+
+## Text.com Blog
+
+- [Text.com Blog | Insights on Customer Support & AI Agents](https://www.text.com/blog/): Learn about Customer Service, AI, Marketing, and Sales Automation to improve support, grow your business, and use smart tools.
+
+## Legal
+
+- [Legal](https://www.text.com/legal/): Legal information for Text
+- [Terms of Use](https://www.text.com/legal/terms-of-use/): Terms of use
+- [Data Processing Addendum](https://www.text.com/legal/data-processing-addendum/): Data Processing Addendum
+- [Cookie Policy](https://www.text.com/legal/cookie-policy/): Cookie and Tracking Technologies Policy
+- [Privacy Policy](https://www.text.com/legal/privacy-policy/): Privacy policy
+- [Privacy Policy | Text Shortcuts & Canned Messages Extension](https://www.text.com/legal/shortcuts-chrome-extension-privacy-policy/): Learn how Text Shortcuts & Canned Messages Chrome Extension collects, uses, and protects your data. Read our Privacy Policy to understand your privacy rights and security measures.
+
+## Press
+
+- [Press | Text - AI-powered technology for customer service software](https://www.text.com/press/): Stay up to date with Text company news and media coverage. LiveChat, ChatBot, HelpDesk, and KnowledgeBase announcements all in one place!
+- [Media Coverage | Text - AI-powered technology for customer service software](https://www.text.com/press/media-coverage/): Are you looking for media coverage about Text? We've gathered all the important mentions of our company, products, and people for you in one place.
+
+## Help center
+
+- [Help center Make the most of Text App](https://www.text.com/help/): Text Help center: Access expert guidance, detailed tutorials, and solutions to common queries. Experience unparalleled service and our dedication to clients.
+- [Enable JavaScript in Your Browser | Text.com Support Guide](https://www.text.com/help/enable-javascript-in-your-browser/): Learn how to enable JavaScript in your browser to use Text App seamlessly. Follow our simple guide to update your settings, whitelist our site, and start chatting with support through the Text App widget.
+
+## Incubator
+
+- [Incubator Grow your product with us](https://incubator.text.com/): You want to build a world without communication barriers. So do we. and we'll give you the tools to do that. Mentorship, new distribution channels, and logistics support - all of this is waiting for your project
+
+## Investors
+
+- [Investors](https://investor.text.com): Information and resources for current and prospective Text investors.
+
+## Labs
+
+- [Labs | Text - AI-powered technology for customer service software](https://www.text.com/labs/): No description
+
+## Context
+
+- [Context | 2024 Keynote Summary: New Features & Tutorials for Peak Season](https://www.text.com/context24/): Watch the Context 2024 keynote and discover new product features with setup tutorials to boost sales and customer satisfaction this peak season.
+- [Context Summary | 2024 Keynote](https://www.text.com/context24/summary/): Watch the Context 2024 keynote and discover new product features with setup tutorials to boost sales and customer satisfaction this peak season.
+
+===== homepage :: https://www.text.com/
+--- SIGNALS ---
+title: Text | AI Customer Service Engine That Drives Revenue
+meta_description: Your support team talks to more customers than anyone in your company. Text turns those conversations into revenue. Start selling through service.
+og_description: Your support team talks to more customers than anyone in your company. Text turns those conversations into revenue. Start selling through service.
+og_site_name: 
+h1: Great service sells
+h2: Everyone's racing to cut costs. We're racing to create profit. | Monitor | Engage | Convert | Measure | Works with | Works for | Dare service to be your profit engine. | Enterprise-grade security & compliance
+jsonld_org: [{"@context": "https://schema.org", "@type": "Corporation", "@id": "https://www.text.com/#organization", "name": "Text, Inc.", "legalName": "Text, Inc.", "alternateName": ["Text", "Text HQ", "LiveChat, Inc."], "description": "Text, Inc. develops AI-powered customer service software, including LiveChat, ChatBot, HelpDesk, KnowledgeBase, OpenWidget, and Text. Used by tens of thousands of businesses worldwide to automate support and turn service into revenue.", "slogan": "Start selling through service.", "url": "https://www.text.com/", "foundingDate": "2023", "naics": "513210", "areaServed": "Worldwide", "knowsLanguage": ["en", "pl"], "numberOfEmployees": {"@type": "QuantitativeValue", "minValue": 250, "maxValue": 350}, "knowsAbout": ["Customer service software", "AI agents", "Live chat software", "AI chatbots", "Help desk software", "Knowledge base software", "Customer communication", "Conversational AI", "Customer experience", "SaaS"], "address": {"@type": "PostalAddress", "streetAddress": "101 Arch Street, 8th Floor", "addressLocality": "Boston", "addressRegion": "Massachusetts", "postalCode": "02110", "addressCountry": "US"}, "founder": [{"@type": "Person", "@id": "https://www.text.com/#person-mariusz-cieply", "name": "Mariusz Ciepły", "jobTitle": "Co-founder", "description": "Co-founder of Text S.A. (2002, formerly LiveChat Software) and co-founder of Text, Inc.", "sameAs": ["https://www.linkedin.com/in/mariuszcieply/"]}, {"@type": "Person", "@id": "https://www.text.com/#pe
+--- TEXT ---
+Text | AI Customer Service Engine That Drives Revenue
+ 
+ 
+ 
+ 
+ 
+AI Agent 
+Delivering 266% higher conversion rates
+Help desk 
+Boosting team efficiency by 40%
+Inbox 
+Keeping your team focused on revenue
+Live chat 
+Generating up to 5× more sales
+See all features
+Wembley 
+$1.5M in eight months
+Fuse 
+63% faster resolution, same team
+FT+ 
+93% CSAT through 15x traffic
+Text 
+74% chats resolved by AI Agent
+Help 
+Docs, guides, and answers
+Blog 
+AI, service, and sales, explained
+Security 
+Enterprise-ready with SOC 2 Type 2
+About 
+20+ years in customer service
+Find a partner
+API docs
+ 
+Product 
+Customers 
+Resources 
+Pricing
+Log in
+Sign up free
+ 
+Product 
+AI Agent 
+Delivering 266% higher conversion rates
+Help desk 
+Boosting team efficiency by 40%
+Inbox 
+Keeping your team focused on revenue
+Live chat 
+Generating up to 5× more sales
+See all features
+Customers 
+Wembley 
+$1.5M in eight months
+Fuse 
+63% faster resolution, same team
+FT+ 
+93% CSAT through 15x traffic
+Text 
+74% chats resolved by AI Agent
+Resources 
+Help 
+Docs, guides, and answers
+Blog 
+AI, service, and sales, explained
+Security 
+Enterprise-ready with SOC 2 Type 2
+About 
+20+ years in customer service
+Find a partner
+API docs
+Pricing
+Log in
+Sign up free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Great service sells
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start trial
+ 
+ 
+Turn your support team into your best closer with AI that spots
+ buying signals in every conversation.
+ 
+ 
+Start free trial
+ 
+Start 14-day free trial
+ 
+Start 14-day free trial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $1.5M 
+ 
+ Revenue after 8 months 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +25% 
+ 
+ Average order value 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 80% 
+ 
+ AI resolution rate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Everyone's racing to cut costs. We're racing to create profit.
+ 
+ 
+Start selling through service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P
+ 
+ 
+ 
+ 
+ 
+R
+ 
+ 
+ 
+ 
+ 
+O
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F
+ 
+ 
+ 
+ 
+ 
+I
+ 
+ 
+ 
+ 
+ 
+T
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P
+ 
+ 
+ 
+ 
+ 
+R
+ 
+ 
+ 
+ 
+ 
+O
+ 
+ 
+ 
+ 
+ 
+F
+ 
+ 
+ 
+ 
+ 
+I
+ 
+ 
+ 
+ 
+ 
+T
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P
+ 
+ 
+ 
+ 
+ 
+R
+ 
+ 
+ 
+ 
+ 
+O
+ 
+ 
+ 
+ 
+ 
+F
+ 
+ 
+ 
+ 
+ 
+I
+ 
+ 
+ 
+ 
+ 
+T
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From the first click to the loyal buyer, Text turns every conversation
+ into revenue. Here's how it works.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Monitor
+ 
+Text reads your customers' intent in real time — pages they visit,
+ products they compare, moments they hesitate.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chatting
+ 
+ 
+ 
+3
+ 
+ 
+ 
+ 
++$783
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chatting
+ 
+ 
+ 
+3
+ 
+ 
+ 
+ 
++$820
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chatting
+ 
+ 
+ 
+4
+ 
+ 
+ 
+ 
++$3,247
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Browsing
+ 
+ 
+ 
+0
+ 
+ 
+ 
+ 
+$0.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chatting
+ 
+ 
+ 
+1
+ 
+ 
+ 
+ 
++$999
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chatting
+ 
+ 
+ 
+2
+ 
+ 
+ 
+ 
++$1,421
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text is working
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engage
+ 
+The chat starts proactively, engaging your customer
+ in a conversation about the product they're looking at.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+ 
+ 
+ 
+ 
+$0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Convert
+ 
+AI recommends, qualifies, and closes — on its own. When the
+ conversation needs a human, your team picks up with full context.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+ 
+ 
+ 
+ 
+$2,449
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Measure
+ 
+Dollars, leads, retained customers. You see exactly how much revenue
+ your conversations generate.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI agent sales
+ 
+ 
+ 
+$0.00
+ 
+ 
+$0
+ 
+ 
+ 
+vs $1,799 for
+ previous period
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++$2,449 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++$1,721 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++$999 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Works with
+ 
+ 
+ 
+ 
+Messenger
+ 
+ 
+ 
+Email
+ 
+ 
+ 
+Shopify
+ 
+ 
+ 
+SMS
+ 
+ 
+ 
+Salesforce
+ 
+ 
+ 
+OpenAI
+ 
+ 
+ 
+HubSpot
+ 
+ 
+ 
+Website
+ 
+ 
+ 
+Slack
+ 
+ 
+ 
+Mailchimp
+ 
+ 
+ 
+WhatsApp
+ 
+ 
+ 
+WordPress
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Works for
+ 
+ 
+ 
+ 
+Unilever
+ 
+ 
+ 
+Atos
+ 
+ 
+ 
+Wembley
+ 
+ 
+ 
+Kayak
+ 
+ 
+ 
+Massachusetts Institute of Technology
+ 
+ 
+ 
+Stanford University
+ 
+ 
+ 
+Flight Centre
+ 
+ 
+ 
+University of Liverpool
+ 
+ 
+ 
+Graduate Center
+ 
+ 
+ 
+Parkdean Resorts
+ 
+ 
+ 
+The Lanesborough London
+ 
+ 
+ 
+Coop Travel
+ 
+ 
+ 
+Visions Electronics
+ 
+ 
+ 
+University of Greenwich
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dare service
+to be your profit engine. 
+ 
+ 
+ 
+Start selling through service
+ 
+ 
+ 
+Start selling through service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise-grade security & compliance
+ 
+ 
+ 
+ 
+ 
+ CCPA 
+ 
+ 
+ 
+ WCAG 2.2 
+ 
+ 
+ 
+ SOC2 
+ 
+ 
+ 
+ GDPR 
+ 
+ 
+ 
+ PCI DSS - SAQ A 
+ 
+ 
+ 
+ BBB Accredited Business 
+ 
+ 
+ 
+ Data Privacy Framework 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 Text, Inc. All rights reserved.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product 
+ 
+ 
+ 
+ 
+ AI Agent 
+ 
+ 
+ Inbox 
+ 
+ 
+ Help desk 
+ 
+ 
+ Live chat 
+ 
+ 
+ Features 
+ 
+ 
+ Shopify integration 
+ 
+ 
+ WordPress integration 
+ 
+ 
+ API docs 
+ 
+ 
+ Security 
+ 
+ 
+ Help Center 
+ 
+ 
+ Pricing 
+ 
+ 
+ 
+ 
+ 
+ For Partners 
+ 
+ 
+ 
+ 
+ Solution partners 
+ 
+ 
+ Affiliate partners 
+ 
+ 
+ Technology partners 
+ 
+ 
+ Become a partner 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ 
+ 
+ 
+ About 
+ 
+ 
+ Investors 
+ 
+ 
+ Legal 
+ 
+ 
+ Careers 
+ 
+ 
+ Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product 
+ 
+ 
+ 
+ AI Agent 
+ 
+ 
+ Inbox 
+ 
+ 
+ Help desk 
+ 
+ 
+ Live chat 
+ 
+ 
+ Features 
+ 
+ 
+ Shopify integration 
+ 
+ 
+ WordPress integration 
+ 
+ 
+ API docs 
+ 
+ 
+ Security 
+ 
+ 
+ Help Center 
+ 
+ 
+ Pricing 
+ 
+ 
+ 
+ 
+ For Partners 
+ 
+ 
+ 
+ Solution partners 
+ 
+ 
+ Affiliate partners 
+ 
+ 
+ Technology partners 
+ 
+ 
+ Become a partner 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ 
+ 
+ About 
+ 
+ 
+ Investors 
+ 
+ 
+ Legal 
+ 
+ 
+ Careers 
+ 
+ 
+ Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start selling through service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign up free
+Start selling through service
+Start selling through service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 Text, Inc.
+All
+ rights reserved.
+ 
+We use cookies and similar technologies to enhance your interactions
+ with our website and Services, including when you reach out to us on
+ chat. This comprises traffic analysis, delivering personalized
+ content, and supporting our marketing efforts. By accessing our
+ website, interacting with our Services, you agree to let us and our
+ partners employ cookies and similar technologies on your computer or
+ devices. Click the
+Cookie Policy
+to check how you can control the use of them through your device. To
+ understand how we process your data, including through cookies, and
+ different forms of interactions with us, please read our
+Privacy Policy
+.
+
+===== product :: https://www.text.com/features/
+--- SIGNALS ---
+title: Text Features: AI Customer Service Software & Support Tools
+meta_description: AI Agent, live chat, helpdesk, ticketing, workflows, and more. Every Text feature in one place — customer service software built to grow revenue.
+og_description: AI Agent, live chat, helpdesk, ticketing, workflows, and more. Every Text feature in one place — customer service software built to grow revenue.
+og_site_name: 
+h1: Customer service software that helps you grow.
+h2: AI Agent | Live chat | Help desk | Inbox | Every chatis a chance to close. | More features that make support a sales channel. | Use Text with the toolsyou already run | Every chat is a checkoutwaiting to happen. | Frequently asked questions
+jsonld_org: [{"@context": "https://schema.org", "@type": "Corporation", "@id": "https://www.text.com/#organization", "name": "Text, Inc.", "legalName": "Text, Inc.", "alternateName": ["Text", "Text HQ", "LiveChat, Inc."], "description": "Text, Inc. develops AI-powered customer service software, including LiveChat, ChatBot, HelpDesk, KnowledgeBase, OpenWidget, and Text. Used by tens of thousands of businesses worldwide to automate support and turn service into revenue.", "slogan": "Start selling through service.", "url": "https://www.text.com/", "foundingDate": "2023", "naics": "513210", "areaServed": "Worldwide", "knowsLanguage": ["en", "pl"], "numberOfEmployees": {"@type": "QuantitativeValue", "minValue": 250, "maxValue": 350}, "knowsAbout": ["Customer service software", "AI agents", "Live chat software", "AI chatbots", "Help desk software", "Knowledge base software", "Customer communication", "Conversational AI", "Customer experience", "SaaS"], "address": {"@type": "PostalAddress", "streetAddress": "101 Arch Street, 8th Floor", "addressLocality": "Boston", "addressRegion": "Massachusetts", "postalCode": "02110", "addressCountry": "US"}, "founder": [{"@type": "Person", "@id": "https://www.text.com/#person-mariusz-cieply", "name": "Mariusz Ciepły", "jobTitle": "Co-founder", "description": "Co-founder of Text S.A. (2002, formerly LiveChat Software) and co-founder of Text, Inc.", "sameAs": ["https://www.linkedin.com/in/mariuszcieply/"]}, {"@type": "Person", "@id": "https://www.text.com/#pe
+--- TEXT ---
+Text Features: AI Customer Service Software & Support Tools
+ 
+ 
+ 
+ 
+ 
+AI Agent 
+Delivering 266% higher conversion rates
+Help desk 
+Boosting team efficiency by 40%
+Inbox 
+Keeping your team focused on revenue
+Live chat 
+Generating up to 5× more sales
+See all features
+Wembley 
+$1.5M in eight months
+Fuse 
+63% faster resolution, same team
+FT+ 
+93% CSAT through 15x traffic
+Text 
+74% chats resolved by AI Agent
+Help 
+Docs, guides, and answers
+Blog 
+AI, service, and sales, explained
+Security 
+Enterprise-ready with SOC 2 Type 2
+About 
+20+ years in customer service
+Find a partner
+API docs
+ 
+Product 
+Customers 
+Resources 
+Pricing
+Log in
+Sign up free
+ 
+Product 
+AI Agent 
+Delivering 266% higher conversion rates
+Help desk 
+Boosting team efficiency by 40%
+Inbox 
+Keeping your team focused on revenue
+Live chat 
+Generating up to 5× more sales
+See all features
+Customers 
+Wembley 
+$1.5M in eight months
+Fuse 
+63% faster resolution, same team
+FT+ 
+93% CSAT through 15x traffic
+Text 
+74% chats resolved by AI Agent
+Resources 
+Help 
+Docs, guides, and answers
+Blog 
+AI, service, and sales, explained
+Security 
+Enterprise-ready with SOC 2 Type 2
+About 
+20+ years in customer service
+Find a partner
+API docs
+Pricing
+Log in
+Sign up free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text features
+ 
+ 
+ 
+ 
+ 
+ Text Features 
+ 
+ 
+ 
+ 
+ 
+ Customer service software that helps you grow. 
+ 
+ 
+ 
+Most service tools manage tickets. Text turns them into revenue. One app, with AI Agent, live chat, and help desk built to close.
+ 
+ 
+Start trial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI Agent 
+ 
+ Handles the repetitive conversations so your team focuses on the ones that close. Spots buying signals, recommends products, acts on intent. 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Live chat 
+ 
+ The moment a visitor hesitates is the moment a sale is won or lost. Live chat puts your team there in real time. 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Help desk 
+ 
+ Every ticket is a customer making a decision: spend more, or walk away. Help desk hands your team the context to swing it the right way. 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inbox 
+ 
+ Customers can reach out from numerous channels. In Text, it's just one inbox, so your team stays focused on the conversations that drive revenue. 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Every chat
+is a chance to close.
+ 
+Try Text for 14 days
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+More features that make support a sales channel.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copilot 
+ 
+ 
+ 
+Copilot
+ 
+ 
+ 
+ Ticketing system 
+ 
+ 
+ 
+Ticketing system
+ 
+ 
+ 
+ Chat widget 
+ 
+ 
+ 
+Chat widget
+ 
+ 
+ 
+ Customer list 
+ 
+ 
+ 
+Customer list
+ 
+ 
+ 
+ Knowledge base 
+ 
+ 
+ 
+Knowledge base
+ 
+ 
+ 
+ Service desk 
+ 
+ 
+ 
+Service desk
+ 
+ 
+ 
+ Customer analytics 
+ 
+ 
+ 
+Customer analytics
+ 
+ 
+ 
+ MCP 
+ 
+ 
+ 
+MCP
+ 
+ 
+ 
+ Customer service management 
+ 
+ 
+ 
+Customer service management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copilot
+ 
+ 
+Copilot
+ 
+ 
+ 
+ 
+Ticketing system
+ 
+ 
+Ticketing system
+ 
+ 
+ 
+ 
+Chat widget
+ 
+ 
+Chat widget
+ 
+ 
+ 
+ 
+Customer list
+ 
+ 
+Customer list
+ 
+ 
+ 
+ 
+Knowledge base
+ 
+ 
+Knowledge base
+ 
+ 
+ 
+ 
+Service desk
+ 
+ 
+Service desk
+ 
+ 
+ 
+ 
+Customer analytics
+ 
+ 
+Customer analytics
+ 
+ 
+ 
+ 
+MCP
+ 
+ 
+MCP
+ 
+ 
+ 
+ 
+Customer service management
+ 
+ 
+Customer service management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use Text with the tools
+you already run
+ 
+ 
+ 
+ 
+Messenger
+ 
+ 
+ 
+Email
+ 
+ 
+ 
+Shopify
+ 
+ 
+ 
+SMS
+ 
+ 
+ 
+Salesforce
+ 
+ 
+ 
+OpenAI
+ 
+ 
+ 
+Hubspot
+ 
+ 
+ 
+Website
+ 
+ 
+ 
+Slack
+ 
+ 
+ 
+Mailchimp
+ 
+ 
+ 
+WhatsApp
+ 
+ 
+ 
+WordPress
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Harri Hyvärinen
+, 
+ 
+Customer Service Manager at Nuvoo
+ 
+ 
+ 
+ 
+ Extremely well made application for customer service & sales with nice price point. 
+ 
+Harri Hyvärinen, Customer Service Manager at Nuvoo
+ 
+ 
+ 
+ 
+Harri Hyvärinen,
+ 
+Customer Service Manager at Nuvoo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Harri Hyvärinen
+, 
+ 
+Customer Service Manager at Nuvoo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Every chat is a checkout
+waiting to happen.
+ 
+ 
+Try Text for free
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequently asked questions 
+ 
+ 
+ 
+ 
+ 
+ 
+ What is Text? 
+ 
+ 
+ 
+ 
+Text is customer service software that turns support conversations into revenue. It combines an AI agent that spots buying signals, live chat that closes deals, and a help desk that turns tickets into repeat customers — all in one workspace, built for ecommerce and SaaS teams.
+ 
+ 
+ 
+ 
+ 
+ What features are included in Text? 
+ 
+ 
+ 
+ 
+Text gives you a full customer service platform in one place, not a pile of add-ons bolted together. Your team gets a shared space for live chat and email, a ticketing system for everything that needs follow-up, and an AI agent that can carry a conversation all the way to a sale on its own. Behind the scenes, Copilot helps your agents draft replies and surface answers fast, while workflows quietly handle the repetitive steps no one wants to do twice. You also get a chat widget for your site, a self-serve knowledge base, customer profiles and analytics, and MCP to connect Text to the AI tools your team already uses. And because every one of these works from the same shared view of the customer, your team is never piecing the story back together from scratch.
+ 
+ 
+ 
+ 
+ 
+ Do all Text features share the same customer data? 
+ 
+ 
+ 
+ 
+Yes. Every feature in Text works from the same customer data – chats, tickets, orders, history - so your team always sees one customer picture, with no tool-switching and no manual syncing. What you can split is the knowledge each AI runs on: train Copilot on one set to guide your team behind the scenes, and feed the AI agent a separate set for the conversations it runs directly with customers. Same customer record everywhere, two AI brains you shape on your own terms – one source of truth running through your whole customer service platform.
+ 
+ 
+ 
+ 
+ 
+ What does the AI agent in Text actually do? 
+ 
+ 
+ 
+ 
+The AI agent in Text doesn't just answer questions — it reads a chat and acts on it. It knows your catalog, voice, and rules, so it can recognise a ready-to-buy customer and nudge them toward checkout, win back an abandoned cart, or quietly resolve a support request while you sleep. That's what makes it one of the few ai customer service tools built to close sales, not just deflect tickets. And when a conversation really needs a person, the agent hands it off warm, full context already in hand — so your team never starts cold.
+ 
+ 
+ 
+ 
+ 
+ Is Text GDPR compliant, and how does it handle data security? 
+ 
+ 
+ 
+ 
+Yes, Text is GDPR compliant and supports CCPA, SOC 2 Type 2, and PCI DSS. Customer data lives in your workspace with role-based access, encryption in transit and at rest, audit logs, and configurable retention. The AI agent only uses your own data — it doesn't train shared models on your conversations.
+ 
+ 
+ 
+ 
+ 
+ How much does Text cost? 
+ 
+ 
+ 
+ 
+Text pricing starts at $19/user/month (Essential), $79/user/month (Growth), and a custom quote for Enterprise — billed yearly. Annual billing saves up to 24%. Every plan includes the AI agent, live chat, and help desk — higher tiers add more AI resolutions, seats, and enterprise features like SSO and SLAs.
+ 
+ 
+ 
+ 
+ 
+ What is MCP in Text? 
+ 
+ 
+ 
+ 
+MCP (Model Context Protocol) is a secure way to connect AI assistants like Claude and ChatGPT to your Text data. Point them at your tickets, chats, and transcripts, and ask questions in plain language. Your support history stops being something you dig through and becomes something you can interrogate — right inside the AI tools your team already works in.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Which apps does Text integrate with? 
+ 
+ 
+ 
+ 
+Text integrates with Shopify, Messenger, email, SMS, Salesforce, OpenAI, HubSpot, Slack, Mailchimp, and any website. More integrations are available through the API and MCP, so you can connect Text to the tools your team already uses without custom development.
+ 
+ 
+ 
+ 
+ 
+ Do I need a developer to set up Text? 
+ 
+ 
+ 
+ 
+No, you don't need a developer to set up Text. The chat widget, knowledge base, and most integrations install without code — usually in under an hour. For deeper customisation, Workflows, MCP, and the API are available when you need them.
+ 
+ 
+ 
+ 
+ 
+ Does Text offer a free trial? 
+ 
+ 
+ 
+ 
+Yes, Text offers a 14-day free trial with no credit card required. You get full access to a paid plan during the trial, and your data stays in your workspace if you decide to continue. Pricing starts at $19/user/month after the trial ends.
+ 
+ 
+ 
+ 
+ 
+ Can I migrate from another help desk to Text? 
+ 
+ 
+ 
+ 
+Yes. Through guided migration, your tickets, contacts, tags, and canned responses move over from major help desk software like Zendesk, Intercom, and Freshdesk. Those historical conversations feed the AI agent's context, so it gets sharper the moment your real data lands in the workspace — and you get a working customer service ticketing system without starting from a blank slate.
+ 
+ 
+ 
+ 
+ 
+ Can I use Text without the AI agent? 
+ 
+ 
+ 
+ 
+Yes, you can use Text without the AI agent. The AI agent and Copilot are optional layers — Text works as a pure human live chat and help desk too. Routing rules let you decide exactly when AI steps in and when every conversation goes straight to a person.
+ 
+ 
+ 
+ 
+ 
+ How does Text compare to other AI customer service software? 
+ 
+ 
+ 
+ 
+Most AI customer service tools are built to deflect tickets — they answer simple questions and end there. Text treats AI as one feature inside a full customer service platform, so conversations flow from AI agent to live chat to ticketing without losing context, and success is measured in revenue, not just deflection rate.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 Text, Inc. All rights reserved.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product 
+ 
+ 
+ 
+ 
+ AI Agent 
+ 
+ 
+ Inbox 
+ 
+ 
+ Help desk 
+ 
+ 
+ Live chat 
+ 
+ 
+ Features 
+ 
+ 
+ Shopify integration 
+ 
+ 
+ WordPress integration 
+ 
+ 
+ API docs 
+ 
+ 
+ Security 
+ 
+ 
+ Help Center 
+ 
+ 
+ Pricing 
+ 
+ 
+ 
+ 
+ 
+ For Partners 
+ 
+ 
+ 
+ 
+ Solution partners 
+ 
+ 
+ Affiliate partners 
+ 
+ 
+ Technology partners 
+ 
+ 
+ Become a partner 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ 
+ 
+ 
+ About 
+ 
+ 
+ Investors 
+ 
+ 
+ Legal 
+ 
+ 
+ Careers 
+ 
+ 
+ Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product 
+ 
+ 
+ 
+ AI Agent 
+ 
+ 
+ Inbox 
+ 
+ 
+ Help desk 
+ 
+ 
+ Live chat 
+ 
+ 
+ Features 
+ 
+ 
+ Shopify integration 
+ 
+ 
+ WordPress integration 
+ 
+ 
+ API docs 
+ 
+ 
+ Security 
+ 
+ 
+ Help Center 
+ 
+ 
+ Pricing 
+ 
+ 
+ 
+ 
+ For Partners 
+ 
+ 
+ 
+ Solution partners 
+ 
+ 
+ Affiliate partners 
+ 
+ 
+ Technology partners 
+ 
+ 
+ Become a partner 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ 
+ 
+ About 
+ 
+ 
+ Investors 
+ 
+ 
+ Legal 
+ 
+ 
+ Careers 
+ 
+ 
+ Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start selling through service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sign up free
+Start selling through service
+Start selling through service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 Text, Inc.
+All
+ rights reserved.
+ 
+We use cookies and similar technologies to enhance your interactions
+ with our website and Services, including when you reach out to us on
+ chat. This comprises traffic analysis, delivering personalized
+ content, and supporting our marketing efforts. By accessing our
+ website, interacting with our Services, you agree to let us and our
+ partners employ cookies and similar technologies on your computer or
+ devices. Click the
+Cookie Policy
+to check how you can control the use of them through your device. To
+ understand how we process your data, including through cookies, and
+ different forms of interactions with us, please read our
+Privacy Policy
+.
+
+===== pricing_or_trust :: https://www.text.com/pricing/
+--- SIGNALS ---
+title: Text's Pricing: AI Customer Service That Sells | Plans From $19/mo
+meta_description: Flexible pricing for every stage—from $19/month for small teams to enterprise AI that sells more. Try Text free for 14 days, no card required.
+og_description: Flexible pricing for every stage—from $19/month for small teams to enterprise AI that sells more. Try Text free for 14 days, no card required.
+og_site_name: 
+h1: Service that sells, not just supports.
+h2: Essential | Growth | Enterprise | Service that shows up in the numbers | Pick the plan that matches your revenue goal | Wired into your revenue stack | Frequently asked questions | Let's talk revenue | Let's talk revenue | Your next chat can close a sale
+jsonld_org: [{"@context": "https://schema.org", "@type": "Corporation", "@id": "https://www.text.com/#organization", "name": "Text, Inc.", "legalName": "Text, Inc.", "alternateName": ["Text", "Text HQ", "LiveChat, Inc."], "description": "Text, Inc. develops AI-powered customer service software, including LiveChat, ChatBot, HelpDesk, KnowledgeBase, OpenWidget, and Text. Used by tens of thousands of businesses worldwide to automate support and turn service into revenue.", "slogan": "Start selling through service.", "url": "https://www.text.com/", "foundingDate": "2023", "naics": "513210", "areaServed": "Worldwide", "knowsLanguage": ["en", "pl"], "numberOfEmployees": {"@type": "QuantitativeValue", "minValue": 250, "maxValue": 350}, "knowsAbout": ["Customer service software", "AI agents", "Live chat software", "AI chatbots", "Help desk software", "Knowledge base software", "Customer communication", "Conversational AI", "Customer experience", "SaaS"], "address": {"@type": "PostalAddress", "streetAddress": "101 Arch Street, 8th Floor", "addressLocality": "Boston", "addressRegion": "Massachusetts", "postalCode": "02110", "addressCountry": "US"}, "founder": [{"@type": "Person", "@id": "https://www.text.com/#person-mariusz-cieply", "name": "Mariusz Ciepły", "jobTitle": "Co-founder", "description": "Co-founder of Text S.A. (2002, formerly LiveChat Software) and co-founder of Text, Inc.", "sameAs": ["https://www.linkedin.com/in/mariuszcieply/"]}, {"@type": "Person", "@id": "https://www.text.com/#pe
+--- TEXT ---
+Text's Pricing: AI Customer Service That Sells | Plans From $19/mo
+ 
+ 
+ 
+ 
+ 
+AI Agent 
+Delivering 266% higher conversion rates
+Help desk 
+Boosting team efficiency by 40%
+Inbox 
+Keeping your team focused on revenue
+Live chat 
+Generating up to 5× more sales
+See all features
+Wembley 
+$1.5M in eight months
+Fuse 
+63% faster resolution, same team
+FT+ 
+93% CSAT through 15x traffic
+Text 
+74% chats resolved by AI Agent
+Help 
+Docs, guides, and answers
+Blog 
+AI, service, and sales, explained
+Security 
+Enterprise-ready with SOC 2 Type 2
+About 
+20+ years in customer service
+Find a partner
+API docs
+ 
+Product 
+Customers 
+Resources 
+Pricing
+Log in
+Sign up free
+ 
+Product 
+AI Agent 
+Delivering 266% higher conversion rates
+Help desk 
+Boosting team efficiency by 40%
+Inbox 
+Keeping your team focused on revenue
+Live chat 
+Generating up to 5× more sales
+See all features
+Customers 
+Wembley 
+$1.5M in eight months
+Fuse 
+63% faster resolution, same team
+FT+ 
+93% CSAT through 15x traffic
+Text 
+74% chats resolved by AI Agent
+Resources 
+Help 
+Docs, guides, and answers
+Blog 
+AI, service, and sales, explained
+Security 
+Enterprise-ready with SOC 2 Type 2
+About 
+20+ years in customer service
+Find a partner
+API docs
+Pricing
+Log in
+Sign up free
+ 
+ 
+ 
+ 
+ 
+ 
+Service that sells, not just supports.
+ 
+ 
+ 
+ 
+Pricing for teams ready to make chats earn.
+Free to start. No card needed.
+ 
+ 
+ 
+Billed yearly
+Save up to 24%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Essential
+ 
+ 
+ For small teams earning their first revenue from chat. 
+ 
+ 
+$
+ 
+ 19 
+ 
+monthly per user
+ 
+ 
+ 
+ 
+ 
+ 
+Start free trial
+ 
+ 
+ 
+ 
+Plan includes:
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 AI Agent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 AI resolutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 Reply suggestions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 AI text edits 
+ 
+ 
+ 
+ 
+ 
+ 
+ 50 live visitors tracked 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10,000 API calls 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 Proactive campaigns 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 custom skills 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI Copilot 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inbox and ticketing system 
+ 
+ 
+ 
+ 
+ 
+ 
+ Workflow automation 
+ 
+ 
+ 
+ 
+ 
+ 
+ Business channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling through Shopify 
+ 
+ 
+ 
+ 
+ 
+See all features
+ 
+ 
+ 
+ 
+ 
+ 
+Growth
+ 
+ 
+ For scaling teams that want chat to drive revenue. 
+ 
+ 
+$
+ 
+ 79 
+ 
+monthly per user
+ 
+ 
+ 
+ 
+ 
+ 
+Start free trial
+ 
+ 
+ 
+ 
+Everything in 
+Essential
+, plus:
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 AI Agents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 200 AI resolutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 50 Reply suggestions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 AI text edits 
+ 
+ 
+ 
+ 
+ 
+ 
+ 400 Live visitors tracked 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20,000 API calls 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 Proactive campaigns 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat topics insights 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat supervision and takeover 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat and ticket summaries 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shared canned responses 
+ 
+ 
+ 
+ 
+ 
+ 
+ Team performance reports 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unlimited chat history 
+ 
+ 
+ 
+ 
+ 
+See all features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enterprise 
+ 
+ CUSTOM OFFER 
+ 
+ 
+ Custom AI, built and run for you. Backed by a team focused on your revenue goals. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Expert
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+An expert team in your corner
+ 
+Our engineers work inside your team. The expert we assign you has run support at a business like yours. We build the AI together and keep tuning it as you grow.
+ 
+ 
+ 
+ 
+ 
+ 
+Adapts to how you work
+ 
+Custom AI Agents, resolution logic, data pipelines, and workflow automation. No hard limits on volume, seats, or integrations — sized to how you actually run.
+ 
+ 
+ 
+ 
+ 
+ 
+No procurement surprises
+ 
+SOC 2 Type 2, SLAs, legal and compliance review, white-label widget, SSO, and audit logs.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See all features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Service that shows up in the numbers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +25% 
+ 
+ Average order value 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $1.5M 
+ 
+ Revenue after 8 months 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +30% 
+ 
+ Sales growth 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pick the plan that matches your revenue goal
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Feature
+ 
+ 
+Billed yearly
+Save up to 24%
+ 
+ 
+ 
+ 
+ 
+ Essential 
+ 
+ 
+$
+ 
+ 19 
+ 
+mo/ user
+ 
+ 
+ 
+Start free trial
+ 
+ 
+ 
+ Growth 
+ 
+ 
+$
+ 
+ 79 
+ 
+mo/ user
+ 
+ 
+ 
+Start free trial
+ 
+ 
+ 
+ Enterprise 
+ 
+ Custom offer 
+ 
+ 
+Contact Expert
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+ 
+ Price per user (billed monthly) 
+ 
+$25
+$99
+custom
+ 
+ 
+ Price per user (billed yearly) 
+ 
+$19
+$79
+custom
+ 
+ 
+ 
+ 
+ 
+AI Agent
+ 
+ 
+ 
+ 
+ 
+ 
+ AI Agent 
+ 
+ 
+ 
+1
+10
+custom
+ 
+ 
+ 
+ 
+ Included AI resolutions 
+ 
+ 
+ 
+ 
+• 10 resolutions per month
+• 120 resolutions per year
+ 
+ 
+ 
+ 
+ 
+• 200 resolutions per month
+• 2,400 resolutions per year
+ 
+ 
+ 
+ 
+custom
+ 
+ 
+ 
+ 
+ 50 AI resolutions package (auto-refill) 
+ 
+ 
+ 
+$49.50
+$49.50
+custom
+ 
+ 
+ 
+ 
+ Custom skills 
+ 
+ 
+ 
+10
+10
+custom
+ 
+ 
+ 
+ 
+ Tone of voice 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Personalized replies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Multilingual 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Human takeover 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Conversation history 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Knowledge base management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Knowledge sources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI productivity tools
+ 
+ 
+ 
+ 
+ 
+ 
+ AI Copilot 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reply suggestions 
+ 
+ 
+ 
+5 monthly per user
+50 monthly per user
+custom
+ 
+ 
+ 
+ 
+ AI text edits 
+ 
+ 
+ 
+5 monthly per user
+100 monthly per user
+custom
+ 
+ 
+ 
+ 
+ Similar ticket suggestions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ticket language detection 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI avatars 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI canned reply suggestions (coming soon) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat summaries 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ticket summaries 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat topics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tag suggestions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sell through service
+ 
+ 
+ 
+ 
+ 
+ 
+ AI sales skill 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Live Shopify catalog 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cart recovery campaigns 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales reports tied to chats 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Live cart preview in chat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Checkout chat widget 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Proactive chat invitations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Buying intent detection 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Live visitors tracked 
+ 
+ 
+ 
+50
+400
+custom
+ 
+ 
+ 
+ 
+ Proactive campaigns 
+ 
+ 
+ 
+3
+30
+custom
+ 
+ 
+ 
+ 
+ Proactive campaigns impressions 
+ 
+ 
+ 
+1,000
+10,000
+custom
+ 
+ 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ 
+ 
+ Website 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In-app 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Messenger 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shopify 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS (Twilio) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inbox and chats
+ 
+ 
+ 
+ 
+ 
+ 
+ Message sneak peek 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Smart chat assignment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manual chat assignment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat routing rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat transfer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email transcripts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Download transcript 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ File sharing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ User roles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat availability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat inactivity message 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat tags 
+ 
+ 
+ 
+5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Teams 
+ 
+ 
+ 
+1
+10
+custom
+ 
+ 
+ 
+ 
+ Private canned responses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Internal notes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shared canned responses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Team member takeover 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat supervision 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat inactivity timeout 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tickets
+ 
+ 
+ 
+ 
+ 
+ 
+ Automated assignment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact form 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Statuses & priorities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Canned responses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Message delivery tracking 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Conversation rating 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ File sharing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ticket tags 
+ 
+ 
+ 
+5 default
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Custom fields 
+ 
+ 
+ 
+5
+20
+custom
+ 
+ 
+ 
+ 
+ Ticketing rules 
+ 
+ 
+ 
+3
+10
+custom
+ 
+ 
+ 
+ 
+ Forwarding addresses 
+ 
+ 
+ 
+1
+10
+custom
+ 
+ 
+ 
+ 
+ Email templates 
+ 
+ 
+ 
+1
+10
+custom
+ 
+ 
+ 
+ 
+ Teams 
+ 
+ 
+ 
+1
+10
+custom
+ 
+ 
+ 
+ 
+ 
+Workflows and automation
+ 
+ 
+ 
+ 
+ 
+ 
+ Workflows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Included workflow rules 
+ 
+ 
+ 
+3
+10
+custom
+ 
+ 
+ 
+ 
+ Included workflow executions 
+ 
+ 
+ 
+300
+1,000
+custom
+ 
+ 
+ 
+ 
+ Automated tags 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat canned response suggestions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reporting
+ 
+ 
+ 
+ 
+ 
+ 
+ Chat metrics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ticket metrics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Metrics breakdown 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI Agent sales report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Agent activity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Agent performance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ On-demand reporting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Website widget
+ 
+ 
+ 
+ 
+ 
+ 
+ Multiple website support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Website widget translations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Live editor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Right-to-left support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accessibility compliance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dark mode 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Custom logo in website widget 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Multilingual support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customization
+ 
+ 
+ 
+ 
+ 
+ 
+ Customizable automated ticket reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Visual email template builder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ticket user signatures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Custom customer segments (coming soon) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ White label 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Custom roles (coming soon) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Multiple brands (coming soon) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data and storage
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Conversation & file history 
+ 
+ 
+ 
+60 days
+unlimited
+unlimited
+ 
+ 
+ 
+ 
+ Files & data storage 
+ 
+ 
+ 
+ 
+2 GB + 50 MB per user
+ 
+ 
+ 
+ 
+ 
+15 GB + 100 MB per user
+ 
+ 
+ 
+ 
+custom
+ 
+ 
+ 
+ 
+ 
+Access and developer tools
+ 
+ 
+ 
+ 
+ 
+ 
+ Web app 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Desktop app (macOS and Windows) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MCP server 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Included API calls 
+ 
+ 
+ 
+10,000 per month
+20,000 per month
+custom
+ 
+ 
+ 
+ 
+ 100,000 API calls package 
+ 
+ 
+ 
+$29.50
+$29.50
+custom
+ 
+ 
+ 
+ 
+ 
+Security
+ 
+ 
+ 
+ 
+ 
+ 
+ Secure TLS connection 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Log in with Google / Apple / Microsoft 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Two-factor authentication (2FA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tickets built-in antispam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Block chat users 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Security assistance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Audit logs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Custom SSO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product support
+ 
+ 
+ 
+ 
+ 
+ 
+ Self-service help center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24/7/365 support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise services
+ 
+ 
+ 
+ 
+ 
+ 
+ Service level agreements (SLAs) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Legal assistance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Software engineer support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Alternative payment terms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Crypto payment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product training 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Expert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HIPAA compliance (coming soon) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Multibrand support (coming soon) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wired into your revenue stack
+ 
+ 
+ 
+ 
+Messenger
+ 
+ 
+ 
+Email
+ 
+ 
+ 
+Shopify
+ 
+ 
+ 
+SMS
+ 
+ 
+ 
+Salesforce
+ 
+ 
+ 
+OpenAI
+ 
+ 
+ 
+HubSpot
+ 
+ 
+ 
+Website
+ 
+ 
+ 
+Slack
+ 
+ 
+ 
+Mailchimp
+ 
+ 
+ 
+WhatsApp
+ 
+ 
+ 
+WordPress
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Duncan Andrews
+, 
+ 
+CRM & Digital Manager at Experiences by Wembley Stadium
+ 
+ 
+ 
+ 
+ We added over $1.5M in revenue in the first eight months. All from sales that started in the chat. 
+ 
+Duncan Andrews, CRM & Digital Manager at Experiences by Wembley Stadium
+ 
+ 
+ 
+ 
+Duncan Andrews,
+ 
+CRM & Digital Manager at Experiences by Wembley Stadium
+ 
+ 
+Read customer story
+ 
+ 
+ 
+ 
+ 
+ 
+Duncan Andrews
+, 
+ 
+CRM & Digital Manager at Experiences by Wembley Stadium
+ 
+ 
+Read customer story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequently asked questions 
+ 
+ 
+ 
+ 
+ 
+ 
+ How much does Text cost? 
+ 
+ 
+ 
+ 
+Text pricing is based on your team size and the level of AI automation you need. There is no fixed one-size-fits-all plan. You start with a free 14-day trial to experience the full platform before committing, and after that, plans are structured around the number of agents and conversation volume your business handles. Contact our team or start your free trial to get a quote matched to your needs.
+ 
+ 
+ 
+ 
+ 
+ Is there a free trial? Do I need a credit card? 
+ 
+ 
+ 
+ 
+Yes. Every Text plan starts with a 14-day free trial, and no credit card is required to get started. During the trial you get full access to 
+Text AI Agents
+, live chat, 
+help desk tools
+, and AI Copilot so your team can run real conversations and see results before making any decision.
+ 
+ 
+ 
+ 
+ 
+ How is help desk software priced? 
+ 
+ 
+ 
+ 
+Help desk software
+ is usually priced per user per month, ranging from $10 to $200 depending on features and AI capabilities. Text's help desk pricing follows the same per-user model and includes unlimited tickets in every plan:
+Essential:
+ $19/user/month — shared inbox, ticketing, AI ticket classification, 3 workflows (300 monthly executions)
+Growth:
+ $79/user/month — adds tag suggestions, ticket summaries, advanced reporting, 10 workflows (1,000 executions)
+Enterprise:
+ Custom offer — adds SLAs, a dedicated team that deploys for you, on-demand reporting, audit logs, and custom workflow limits
+We don't charge per ticket or per resolution, so scaling support doesn't trigger surprise bills — your costs stay tied to team size, not volume. Yearly billing saves up to 24%. Start free, no credit card required.
+ 
+ 
+ 
+ 
+ 
+ What is the pricing for an AI chatbot in customer service? 
+ 
+ 
+ 
+ 
+AI chatbot
+ pricing ranges from free (basic rule-based bots) to $500+/month (enterprise AI platforms). With Text, the AI chatbot — what we call the AI Agent — is included in every paid plan and priced per license, per month:
+Essential:
+ $19/user/month — 1 AI Agent, 10 resolutions
+Growth:
+ $79/user/month — 10 AI Agents, 200 resolutions
+Enterprise:
+ Custom offer — 50 AI Agents, custom resolutions, built and run for you
+We charge per resolution, not per conversation. A resolution counts only when the AI Agent solves at least one customer question — and there's just one charge per co

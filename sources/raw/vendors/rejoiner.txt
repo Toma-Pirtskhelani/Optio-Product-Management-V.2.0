@@ -1,0 +1,667 @@
+===== homepage :: https://www.rejoiner.com/
+--- SIGNALS ---
+title: Retention Marketing Software for Ecommerce - Rejoiner
+meta_description: Rejoiner provides software & services to power email, SMS & direct mail for brands like Peak Design, Triumph Lingerie, Humanscale, and Shout Factory.
+og_description: 
+og_site_name: 
+h1: Tired of the one-size-fits-all approach to email & SMS marketing tools?
+h2: Achieve 30X ROAS with Rejoiner | Retention marketing isn’t a one-person job, and many marketers feel overwhelmed trying to do it all | See how our partnership driven approach boosts retention and revenue | Retention marketing across every channel — with expert support to drive results | Built-in lifecycle triggers that convert, creative you’ll love building, and segmentation that hits the mark every time | Convert 15%+ of abandoned carts into customers | Convert 10% of window shoppers into customers | Activate new subscribers and drive first purchase | Connect purchase intent with price change events | Use purchase data to prevent customer churn | Recognize and retain your best customers | Drive repeat purchase and increase LTV | Predict when it’s time to reorder | Retain high value subscribers | A drag-and-drop email builder connected to your product catalog and powered by your sales data | Find the exact customersyou’re looking for with segments | Why brands switch to Rejoiner | Find hidden revenue with a FREE retention audit - results delivered in 48 hours
+jsonld_org: []
+--- TEXT ---
+Retention Marketing Software for Ecommerce - Rejoiner
+ 
+ 
+ 
+ 
+ 
+ 
+Tour
+Results
+Pricing
+Resources
+What do you need help with?
+Email Marketing
+Email Deliverability
+SMS Marketing
+Marketing Strategy
+View All
+Editor's Picks
+The Data-Driven Abandoned Cart Email Guide
+Abandoned Cart Email Statistics & Strategy 
+Email Deliverability Best Practices
+Email Segmentation: A Practical Framework
+Latest
+How to Create High-Converting Abandoned Cart Flows
+No items found.
+Resources
+Log in
+24/7 Sales & Support: 
+(800) 284-4603
+ Schedule your FREE session 
+What do you need help with?
+Email Marketing
+Email Deliverability
+SMS Marketing
+Software Research
+Editor's Picks
+How to Design Emails for Dark Mode
+How to Check and Improve Your Domain Reputation
+Email Deliverability Best Practices
+How to Send Price Drop Emails
+Expert Guides
+SMS Marketing: 9 Examples of SMS Marketing for Ecommerce
+Tired of the one-size-fits-all approach to email & SMS marketing tools?
+With Rejoiner, you’re not getting do-it-yourself software; you're gaining an intelligent platform that evolves with your needs and a team of retention marketing experts who are committed to your success.
+Take a platform tour (no email required) »
+Schedule your FREE strategy session
+Achieve 30X ROAS with Rejoiner
+Join top ecommerce brands driving 
+over
+ 
+$63M in revenue
+ this year.
+ 
+Retention marketing isn’t a one-person job, and many marketers feel overwhelmed trying to do it all
+Tired of doing it all yourself?
+With self-service platforms, you're stuck managing segmentation, automations, and creative alone—without expert help.
+Not seeing engagement you expected?
+You need better insights into customer interests and engagement to boost your click-through rates.
+Overwhelmed by disconnected tools?
+When email, text, and pop-ups are spread across different tools, data falls through the cracks, making it hard to connect with customers where they want.
+Rejoiner combines a powerful platform with hands-on expert support to help you understand your customers, create engaging content, and consistently hit your revenue goals—so you can focus on growth.
+See how our partnership driven approach boosts retention and revenue
+AuthenTEAK boosts revenue by 22% to over $2M and increases click volume by 105% in 2024.
+Read their story →
+Ketone-IQ boosts subscription revenue with Rejoiner, 70% of new orders as subscriptions and 41.4% longer terms.
+Read their story →
+Email has become Triumph's top source of last-click revenue, increasing by 40% YoY.
+Read their story →
+Retention marketing across every channel — with expert support to drive results
+Email
+Pop-ups
+Text
+Postcards
+Account Management
+Built-in lifecycle triggers that convert, creative you’ll love building, and segmentation that hits the mark every time
+Abandoned Cart
+Abandoned Browse
+New Subscriber
+Price Drop
+Win Back
+VIP
+Anniversary
+Replenishment
+Subscription
+ABANDONED CART
+Convert 15%+ of abandoned carts into customers
+Convert this high intent audience into customers with segmented, multi-stage abandonment journeys.
+Learn more about our cart abandonment features →
+Browse Abandonment
+Convert 10% of window shoppers into customers
+Identify product page abandoners and send personalized, multi-stage browse abandonment journeys.
+New Subscriber
+Activate new subscribers and drive first purchase
+Deliver perfectly executed welcome series that roll out the red carpet for new subscribers and prime them for their first purchase.
+PRICE DROP
+Connect purchase intent with price change events
+Automatically send price drop alerts to the customers who are most likely to act on them.
+WIN BACK
+Use purchase data to prevent customer churn
+Recognize and react to churn signals — using your customer data to deliver an offer at the perfect moment.
+VIP
+Recognize and retain your best customers
+Trigger special offers for your best customers when they cross thresholds for total spend, purchase frequency, or RFM score.
+Anniversary
+Drive repeat purchase and increase LTV
+Trigger post purchase journeys that automatically recommend a perfect set of complementary items.
+REPLENISHMENT
+Predict when it’s time to reorder
+Trigger perfectly timed reorder emails when a customer is about to run out of a consumable SKU.
+SUBSCRIPTION
+Retain high value subscribers
+Trigger based on subscriber lifetime milestones, renewal dates, new subscription events, cancellation and more.
+A drag-and-drop email builder connected to your product catalog and powered by your sales data
+Create stunning, on-brand emails with our intuitive drag-and-drop builder. No coding skills required.
+Saved modules
+Build reusable elements like headers, footers, and CTAs. Create once, use anywhere. Streamline your workflow by applying these modules across different email templates and campaigns.
+Product recommendations
+Boost engagement with pre-built components that automatically inject top sellers, new arrivals, complementary items, and products frequently purchased together, directly from your catalog.
+Browse recommendations 
+Personalize each email by automatically injecting items customers have added to their cart, browsed, or viewed alongside similar products during their session, keeping engagement high and driving conversions.
+Product catalog integration
+Seamlessly connect your entire product catalog to dynamically pull in product suggestions, ensuring your emails stay relevant and up to date with your latest offerings.
+Find the exact customers
+you’re looking for with segments
+Use our intuitive segment builder to assemble the perfect group of customers—no matter what your criteria are. Dynamic segments ensure that things are kept up-to-date automatically.
+Segment based on:
+Purchase history
+On-site browsing behavior
+Email engagement
+Custom list fields
+Customer demographics
+RFM scoring
+Partner data
+Custom metadata
+Use segments for:
+Targeting
+Exclusion
+Triggering journeys
+Sunsetting
+Ad audience sync
+Explore the platform »
+No contracts. No long-term commitments. 
+Why brands switch to Rejoiner
+Rejoiner
+vs. Competitors
+Platform
+A unified platform with all essential tools—email, SMS, postcards—working seamlessly together. No silos.
+Disjointed tools from multiple vendors. Data silos make it hard to align campaigns. You pay for unused features.
+Day-to-Day Campaign Management
+Fully managed campaigns—Rejoiner handles everything, from setup to optimization, so you can focus on growth.
+Requires full-time staff or external agencies to manage campaigns effectively.
+Strategic Guidance
+Ongoing expert-led strategy tailored to your business, with insights from 10+ years of retention marketing.
+DIY strategy—you’re on your own unless you hire external help.
+Migration Support
+Full migration handled in-house—zero downtime, no lost data, no headaches, clean list.
+Minimal support—manual migration, often outsourced to agencies.
+Ongoing Optimization
+Bi-weekly performance reviews with continuous adjustments by our team.
+Optimizations are your responsibility—hire help or do it yourself.
+Customer Support
+Direct access to experts and fast responses—no waiting. White glove service for everyone.
+Limited to community forums or long chat queues. Faster, premium support costs extra.
+Total Cost of Ownership
+Lower cost overall
+—no need for agencies or additional full-time hires. Predictable, transparent pricing. Unlimited emails.
+Higher cost
+—platform fees plus hidden costs from agencies or staffing. Surprise price hikes you’ll need to watch out for.
+Find hidden revenue with a FREE retention audit - 
+results delivered in 48 hours
+Discover how we outperform your current solution - without the headaches.
+Get Your FREE Audit
+Rejoiner's audit was extremely helpful in pointing our attention to potential upside in areas that were thus far unexplored in our program. Rejoiner acknowledged the things that are working well in the program and focused on the untapped potential projects that exist deeper below the surface. With a mature and successful program like ours many of the basics are already covered, deeper analysis is needed to continue to scale and Rejoiner provided a plan to support that growth.
+Chris Gordon
+Retention Lead
+PRODUCTS
+Email Marketing
+Text Marketing
+Postcard Marketing
+Cart Abandonment
+Professional Services
+Resources
+API Documentation
+User Guide
+Newsletter
+Blog
+COMPANY
+About
+Contact
+Pricing
+Partners
+Results
+Careers  
+We're Hiring!
+Privacy Policy
+Terms of Service
+Security
+© 
+2022
+ Rejoiner. All rights reserved
+
+===== product :: https://www.rejoiner.com/products/direct-mail
+--- SIGNALS ---
+title: Direct Mail - Rejoiner
+meta_description: Rejoiner's direct mail solution enables businesses to send targeted, personalized mail campaigns that drive revenue growth. Powerful segmentation, triggered mail automation, and deep analytics to help you optimize every aspect of your direct mail strategy
+og_description: 
+og_site_name: 
+h1: Turn online signals of purchase intent into offline marketing
+h2: Increase response rates with direct mail informed by customer data | Design, printing & fulfillment are done-for-you | Market to segments of your customer file that were previously unreachable | Measure revenue incrementality with hold out testing | Get product samples into the hands of your future customers | Direct mail + email are better together | Our team thinks about direct mail all day, every day, so you don’t have to.
+jsonld_org: []
+--- TEXT ---
+Direct Mail - Rejoiner
+ 
+ 
+ 
+ 
+Tour
+Results
+Pricing
+Resources
+What do you need help with?
+Email Marketing
+Email Deliverability
+SMS Marketing
+Marketing Strategy
+View All
+Editor's Picks
+The Data-Driven Abandoned Cart Email Guide
+Abandoned Cart Email Statistics & Strategy 
+Email Deliverability Best Practices
+Email Segmentation: A Practical Framework
+Latest
+How to Create High-Converting Abandoned Cart Flows
+No items found.
+Resources
+Log in
+24/7 Sales & Support: 
+(800) 284-4603
+Schedule your FREE session
+What do you need help with?
+Email Marketing
+Email Deliverability
+SMS Marketing
+Software Research
+Editor's Picks
+How to Design Emails for Dark Mode
+How to Check and Improve Your Domain Reputation
+Email Deliverability Best Practices
+How to Send Price Drop Emails
+Expert Guides
+SMS Marketing: 9 Examples of SMS Marketing for Ecommerce
+Turn online signals of purchase intent into 
+offline marketing
+Increase response rates with direct mail informed by customer data
+Automated campaigns can achieve significantly higher response rates than traditional direct mail, thanks to our ability to trigger sends using browsing signals, recency segmentation and historical purchase data.
+Profitability is greatly increased by not marketing to customers who are unlikely to respond.
+Design, printing & fulfillment are done-for-you
+Work with our full-service design team to create beautiful, on-brand direct mail pieces. Choose from a variety of paper stocks, sizes, and formats that align perfectly with your brand standards.
+Market to segments of your customer file that were previously unreachable
+A significant percentage of your customer file isn’t opted-in for email or SMS. And even the customers who are may only engage 20-30% of the time.
+Deliver timely direct mail pieces to customers you can’t reach via digital marketing channels. Use built-in address verification tools to make sure your postcards reach their intended audience.
+Measure revenue incrementality with hold out testing
+What would customers have done had you not marketed to them? Did we actually alter customer behavior from what would have happened anyway?
+That’s where hold out testing comes in.
+Rejoiner helps you answer these important questions in order to gauge the true incremental return of your postcard marketing efforts.
+Get product samples into the hands of your future customers
+Automate the delivery of sample packs to prospects demonstrating a strong interest in your products.
+Direct mail + email are better together
+Customer attention is precious. That’s why you need one system of record for your customer data and the ability to control your email and direct mail programs from a single platform. 
+With Rejoiner, you can easily segment your customers, prioritize channels, send hyper-personalized messages, and track engagement all in one place.
+Our team thinks about direct mail all day, every day, so you don’t have to.
+Schedule your FREE strategy session
+PRODUCTS
+Email Marketing
+Text Marketing
+Postcard Marketing
+Cart Abandonment
+Professional Services
+Resources
+API Documentation
+User Guide
+Newsletter
+Blog
+COMPANY
+About
+Contact
+Pricing
+Partners
+Results
+Careers  
+We're Hiring!
+Privacy Policy
+Terms of Service
+Security
+© 
+2022
+ Rejoiner. All rights reserved
+
+===== pricing_or_trust :: https://www.rejoiner.com/pricing
+--- SIGNALS ---
+title: Rejoiner | Email Marketing Platform & Services Pricing
+meta_description: Rejoiner's simple, transparent pricing has no hidden fees and no contract lock-in. Request a free strategy session today!
+og_description: 
+og_site_name: 
+h1: Send unlimited emails. No surprises.
+h2: Calculate My Price | Optional Professional Services Packages | Platform Features | Frequently Asked Questions
+jsonld_org: []
+--- TEXT ---
+Rejoiner | Email Marketing Platform & Services Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+Tour
+Results
+Pricing
+Resources
+What do you need help with?
+Email Marketing
+Email Deliverability
+SMS Marketing
+Marketing Strategy
+View All
+Editor's Picks
+The Data-Driven Abandoned Cart Email Guide
+Abandoned Cart Email Statistics & Strategy 
+Email Deliverability Best Practices
+Email Segmentation: A Practical Framework
+Latest
+How to Create High-Converting Abandoned Cart Flows
+No items found.
+Resources
+Log in
+24/7 Sales & Support: 
+(800) 284-4603
+Schedule your FREE session
+What do you need help with?
+Email Marketing
+Email Deliverability
+SMS Marketing
+Software Research
+Editor's Picks
+How to Design Emails for Dark Mode
+How to Check and Improve Your Domain Reputation
+Email Deliverability Best Practices
+How to Send Price Drop Emails
+Expert Guides
+SMS Marketing: 9 Examples of SMS Marketing for Ecommerce
+marketing automation for Ecommerce Businesses
+Send unlimited emails. 
+No surprises.
+Calculate My Price
+Platform pricing starts at up to 1,000 contacts. Select your list size to calculate your price.
+ 
+ 
+ 
+Up to
+ 
+1,000
+ 
+Contacts
+ 
+ 
+ 
+0
+30k
+60k
+90k
+120k
+150k+
+Rejoiner Platform
+$25/month
+Includes:
+ 
+Unlimited emails 
+ 
+All platform features
+ 
+Email, chat and phone support
+Schedule your FREE session 
+No long-term contracts
+Only pay for active contacts
+See all features »
+Optional Professional Services Packages
+Unlock the full potential of Rejoiner with our team of experts. We handle the heavy lifting, so you can focus on growth.
+Strategy Partner
+expert guidance 
+Navigate the complexities of email marketing by tapping into 11+ years of our team’s experience.
+Starting at
+$1,500 per month
+Includes:
+ 
+Bi-weekly account reviews
+ 
+Performance reporting
+ 
+Deliverability monitoring
+ 
+Optimization recommendations
+Ideal for brands that:
+Require ongoing expertise to refine and scale their email strategies
+Creative Partner
+we handle everything
+From planning and content to design and reporting, we manage your entire email marketing channel.
+Custom pricing tailored to your budget
+Includes everything in Strategy, plus:
+ 
+Content strategy
+ 
+Copywriting & design
+ 
+Email development & QA
+ 
+Campaign deployment
+Ideal for brands that:
+Require a hands-off, expertly managed email marketing solution.
+Schedule your FREE strategy session »
+I'm not really sure what we would have done without Rejoiner these past 2.5 years as a business. 
+We have leaned heavily on them for their incredibly easy-to-use platform and team of experts. Their team truly feels like an extension of our own.
+- Sara Hendershot, Director of Marketing
+Read their story
+→
+Platform Features
+Explore the Rejoiner platform feature by feature.
+Usage
+Included Email Sends
+ 
+Number of included emails each month.
+Unlimited
+Included Text Messages
+ 
+SMS cost per message, plus applicable carrier fees.
+0.015 per SMS + Fees
+Postcards
+ 
+Send physical postcards to customers.
+$0.92 per card
+Email, Chat and Phone Support
+ 
+Comprehensive support via email, chat, and phone.
+Segments
+ 
+Group your customers based on shared characteristics.
+Dynamic Segments
+ 
+Automatically update segments based on 150+ customer datapoints.
+20
+Sync to Facebook & Google Ads
+ 
+Sync segments to your advertising platforms.
+Growth Reporting
+ 
+Track the growth of your customer segments.
+RFM Percentiles
+ 
+Rank customers based on Recency, Frequency, and Monetary value.
+List Growth
+ 
+Tools to grow your email list.
+Email Capture Overlays
+ 
+Pop-ups to capture emails on your site.
+5
+Multi-stage Forms
+ 
+Progressive forms to capture more data.
+Embedded Forms
+ 
+Add forms directly into your website.
+Exit Intent
+ 
+Capture emails when visitors intend to leave.
+Broadcasts
+Audience Builder
+ 
+Combine lists/segments and auto-deduplicate.
+Automated Resends
+ 
+Schedule resends to non-openers automatically.
+Control-based A/B Testing
+ 
+Run small tests, then deliver the winner.
+Drag and Drop Email Builder
+ 
+Create beatiful emails without code.
+Automated Journeys
+ 
+Build automated marketing flows.
+Visual Journey Builder
+ 
+Drag and drop customer journeys visually.
+Segmented Audiences
+ 
+Branch journeys based on 150+ dimensions of customer data.
+Product Recommendations
+ 
+Suggest products based on customer behavior.
+Timezone Based Sending
+ 
+Send based on subscriber's timezones.
+Unique Coupon Codes
+ 
+Generate individualized coupons.
+A/B Testing
+ 
+Test different email variations.
+Webhooks
+ 
+Connect to other apps and services.
+Deliverability
+ 
+Ensure your emails reach recipients' inboxes.
+Custom Sending Domain
+ 
+Use your own domain for sending.
+Dedicated IP
+ 
+Have a dedicated IP address for sending emails.
+Frequency Capping
+ 
+Limit how often emails are sent.
+Email Authentication
+ 
+Secure your emails with authentication methods.
+Preference Center
+ 
+Let subscribers manage email preferences.
+Included Triggers
+ 
+Events that can trigger journeys.
+Abandoned Cart
+ 
+Convert cart abandoners into customers.
+Abandoned Browse
+ 
+Nudge customers who looked but didn't buy.
+Segment Entry/Exit
+ 
+Trigger when customer move in/out of segments.
+New Subscriber
+ 
+Welcome new subscribers.
+First Purchase
+ 
+Celebrate the first purchase.
+Nth Purchase
+ 
+Reward repeat customers.
+Total Spend
+ 
+Target customers based on spend thresholds.
+Review Request
+ 
+Encourage customers to leave reviews.
+MVP Customer
+ 
+Recognize valuable customers.
+Post Purchase
+ 
+Follow up after a purchase.
+Win Back
+ 
+Re-engage inactive customers.
+Birthday
+ 
+Send birthday wishes and offers.
+Anniversary
+ 
+Celebrate customer milestones.
+Price Drop
+ 
+Alert customers about price reductions.
+Replenishment
+ 
+Remind customers to reorder.
+Webhooks
+ 
+Trigger based on events from external systems and apps.
+Reporting
+Revenue & KPI Dashboards
+ 
+Real-time revenue and KPI insights.
+Creative Reports
+ 
+Detailed reports on your email creatives to see what's resonating.
+Custom Attribution
+ 
+Set custom rules for attributing revenue.
+Data Export
+ 
+Export your data for further analysis or to integrate with other tools and platforms.
+APIs & Integration
+ 
+Connect Rejoiner with your ecom platform and other tools.
+Custom Ecommerce Platforms
+ 
+Use our APIs to integrate with custom ecommerce platforms.
+Hosted Ecommerce Platforms
+ 
+Shopify, Magento 2, Bigcommerce, Cart.com, Foxycart and more.
+Google Analytics
+ 
+Track campaign performance in GA4.
+Zapier
+ 
+Connect with hundreds of apps via Zapier.
+Take an interactive tour »
+No long-term contracts. No hassle cancellation.
+Frequently Asked Questions
+What makes Rejoiner different from other email platforms on the market?
+ 
+Rejoiner isn't just software. We offer a dedicated team of professionals to assist you with every step of your email marketing, ensuring optimized execution.
+What factors influence pricing: contacts, emails, features? Are there any hidden fees?
+ 
+Pricing for our platform is determined by the number of active contacts you have in your customer file. 
+All the core platform features, including Email Capture Overlays, Broadcasts, Automated Journeys, Lifecycle Triggers, Segments, and Revenue Reporting, are included.
+There are no hidden fees. 
+However, if you're interested in our optional professional services, such as the Strategy Partner and Creative Partner packages, those are priced separately based on your scope of work.
+Is there a minimum contract period? What is the cancellation policy?
+ 
+No, there isn't a minimum contract period for our products or services. We believe in the value we offer, and we don't tie you down with long-term contracts. However, if you choose to commit to an annual plan, we do offer a 10% discount for that commitment.
+As for the cancellation policy, we simply ask for a 30-day notice if you decide to cancel your subscription. This ensures a smooth transition and gives us a chance to assist with any data migration or other needs you might have.
+What kind of support is available with my plan? Is there any training or onboarding included?
+ 
+Every plan we offer comes with comprehensive onboarding support to ensure you get the most out of our platform. This includes email, chat, and phone support.
+‍
+Our overarching goal is to equip you with every tool and insight you need to immediately boost your email revenue.
+Do you offer a free trial? If so, for how long, and what features are included?
+ 
+Yes. We offer a 30 day free trial with all features included. 
+PRODUCTS
+Email Marketing
+Text Marketing
+Postcard Marketing
+Cart Abandonment
+Professional Services
+Resources
+API Documentation
+User Guide
+Newsletter
+Blog
+COMPANY
+About
+Contact
+Pricing
+Partners
+Results
+Careers  
+We're Hiring!
+Privacy Policy
+Terms of Service
+Security
+© 
+2022
+ Rejoiner. All rights reserved

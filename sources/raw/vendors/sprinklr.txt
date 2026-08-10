@@ -1,0 +1,1655 @@
+===== llms.txt :: https://www.sprinklr.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Sprinklr
+> Sprinklr is the definitive AI-native platform for Unified Customer Experience Management (Unified-CXM), unifying customer-facing teams across marketing, service, insights and social on one governed platform, on 30+ digital, social, voice and messaging channels.
+Sprinklr builds products for social media management, customer service, consumer intelligence, customer feedback, marketing and customer experience operations. Sprinklr's product portfolio is organized into four suites: Sprinklr Social for social media management; Sprinklr Service for customer service and contact centers; Sprinklr Insights for social listening, consumer intelligence, customer feedback, and voice of the customer; and Sprinklr Marketing for content marketing, campaign management and advertising. Together, these suites are built on the Sprinklr Unified-CXM platform, which connects customer data, AI, workflows, analytics, governance, security and integrations across customer-facing teams. Organizations can use an individual suite for a specific business need or combine multiple suites on the same platform.
+Key terms: Unified Customer Experience Management, Unified-CXM, social media management, social media scheduling and publishing, social listening, social media analytics, social media monitoring, consumer intelligence, customer feedback management, Voice of the Customer, customer service software, contact center software, CCaaS, campaign management, social advertising, conversational analytics, enterprise AI, AI agents and workflow automation.
+## About Sprinklr
+- [Sprinklr Homepage](https://www.sprinklr.com/): Main company and platform overview.
+- [Sprinklr Products: Unified-CXM Platform and Product Suites](https://www.sprinklr.com/products/): Overview of Sprinklr's shared platform, four product suites and the products available across social media management, consumer intelligence, customer service and marketing.
+- [Sprinklr Company Story](https://www.sprinklr.com/our-story/): Company history, mission and development of the Unified-CXM platform.
+- [Sprinklr Leadership](https://www.sprinklr.com/leadership/): Executive leadership and board information.
+- [Sprinklr Newsroom](https://www.sprinklr.com/newsroom/): Company announcements, product news and media coverage.
+- [Culture & Talent](https://www.sprinklr.com/culture-talent/): Sprinklr's culture, values ("The Sprinklr Way"), DE&I and what it's like to work at Sprinklr.
+## Sprinklr Unified-CXM Platform & Integrations
+Sprinklr's Unified-CXM platform consolidates 33 products across four AI-native product suites (Sprinklr Service, Sprinklr Social, Sprinklr Insights and Sprinklr Marketing), powered by Sprinklr AI (including Sprinklr AI Agents, Sprinklr Copilot and AI+ Studio) trained on 10+ years of enterprise CX data. Sprinklr replaces siloed point solutions with one governed platform that connects data, teams and workflows across marketing, care, insights and social, so enterprises can break silos, act on real-time signals, and turn every interaction into loyalty.
+- [Sprinklr Unified-CXM Platform](https://www.sprinklr.com/products/platform/): AI-native customer experience management platform that brings marketing, service, insights and social together on one scalable architecture. Connects customer data, channels, teams and workflows with shared AI, governance, security and analytics.
+- [Sprinklr Integrations](https://www.sprinklr.com/products/platform/integrations/): Connects Sprinklr with existing enterprise applications through 200+ pre-built integrations across CRM (Salesforce, MS Dynamics), CDP, BI (Power BI, Tableau), telephony (Twilio), CMS, and productivity (Slack, Teams, Outlook).
+## Sprinklr Products
+- [Sprinklr Service](https://www.sprinklr.com/products/customer-service/): AI-native contact center platform for managing customer service across voice, social and digital channels. Supports self-service, intelligent routing, agent assistance, workforce operations and interaction analytics.
+- [Sprinklr Social](https://www.sprinklr.com/products/social-media-management/): AI-native social media management platform for global brands and teams. Centralizes content planning, publishing, engagement, analytics, employee advocacy and governance across social and messaging channels.
+- [Sprinklr Insights](https://www.sprinklr.com/products/consumer-intelligence/): AI-native consumer intelligence platform for understanding customers, competitors, products and markets. Analyzes social conversations, digital signals, surveys and feedback to uncover sentiment, trends and decision-ready insights.
+- [Sprinklr Marketing](https://www.sprinklr.com/products/marketing-and-advertising/): AI-native campaign management platform for coordinating global marketing operations. Connects campaign planning, content production, approvals, publishing, social advertising and performance analytics across teams, markets and channels.
+## Sprinklr Service Capabilities
+- [Customer Service and Contact Center Software](https://www.sprinklr.com/products/customer-service/): Connects customer support across voice, digital, messaging and social channels with AI, automation, agent tools and contact center analytics.
+- [Inbound Contact Center Software](https://www.sprinklr.com/products/customer-service/inbound-contact-center/): Manages incoming customer interactions with self-service, intelligent routing and agent assistance across voice and digital channels.
+- [Outbound Contact Center Software](https://www.sprinklr.com/products/customer-service/outbound-contact-center/): Runs proactive voice and digital campaigns using dialing workflows and coordinated follow-up across customer channels.
+- [Social Customer Service Software](https://www.sprinklr.com/products/customer-service/social-media-channels/): Identifies, routes and resolves customer service conversations across social networks and messaging channels.
+- [Live Chat Software](https://www.sprinklr.com/products/customer-service/livechat/): Delivers real-time customer support through websites, mobile applications and other digital experiences.
+- [Omnichannel Routing](https://www.sprinklr.com/products/customer-service/omnichannel-routing/): Assigns interactions using customer intent, priority, agent skills, availability and configurable business rules.
+- [Unified Agent Desktop](https://www.sprinklr.com/products/customer-service/agent-console/): Brings customer context, interaction history, communication channels and service tools into a single agent workspace.
+- [Agent Assist Software](https://www.sprinklr.com/products/customer-service/agent-assist/): Provides agents with real-time guidance, relevant knowledge, response recommendations and workflow support during customer interactions.
+- [Supervisor Console](https://www.sprinklr.com/products/customer-service/supervisor-console/): Gives supervisors real-time visibility into queues, customer interactions, agent performance and contact center operations.
+- [Conversational IVR](https://www.sprinklr.com/products/customer-service/conversational-ivr/): Uses natural-language voice self-service to understand requests and route callers to the appropriate workflow or agent.
+- [Knowledge Base Platform](https://www.sprinklr.com/products/customer-service/knowledge-base/): Centralizes and delivers relevant knowledge to customers, agents, bots and digital support channels.
+- [Community Forum Software](https://www.sprinklr.com/products/customer-service/community-forum/): Creates moderated customer communities for peer support, self-service, knowledge sharing and ongoing engagement.
+- [Guided Workflows](https://www.sprinklr.com/products/customer-service/guided-workflow/): Builds step-by-step service processes across bots, live chat, agent desktops and connected business systems.
+- [Omnichannel Survey Software](https://www.sprinklr.com/products/customer-service/omnichannel-survey/): Collects and analyzes post-interaction feedback across voice, digital, social and messaging channels.
+- [Workforce Management Software](https://www.sprinklr.com/products/customer-service/workforce-management/): Forecasts demand, plans staffing, schedules agents and monitors adherence across customer service operations.
+- [Quality Management Software](https://www.sprinklr.com/products/customer-service/quality-management/): Evaluates customer interactions, monitors compliance, scores service quality and supports targeted agent coaching.
+- [Conversational Analytics](https://www.sprinklr.com/products/customer-service/conversational-analytics/): Analyzes voice and text interactions to surface sentiment, contact drivers, recurring themes and root causes.
+- [Contact Center Analytics and Reporting Software](https://www.sprinklr.com/products/customer-service/analytics-and-reporting/): Measures customer journeys, agent activity, service levels, satisfaction and operational performance through contact center reporting and analytics.
+- [Service Command Center](https://www.sprinklr.com/products/customer-service/service-command-center/): Displays real-time customer service demand, agent availability, alerts and contact center performance metrics.
+## Sprinklr Social Capabilities
+- [Social Media Management and Analytics Tool](https://www.sprinklr.com/products/social-media-management/): Brings publishing, engagement, analytics, automation and governance together for social operations spanning multiple brands, teams and markets.
+- [Social Scheduling and Publishing Tool](https://www.sprinklr.com/products/social-media-management/social-media-publishing-platform/): Streamlines content planning, approvals, scheduling, publishing and performance measurement across social and messaging channels.
+- [Employee Advocacy Platform](https://www.sprinklr.com/products/social-media-management/employee-advocacy-platform/): Helps employees discover and share approved content while preserving brand standards, compliance and visibility into program performance.
+- [Social Marketing for Distributed Teams](https://www.sprinklr.com/products/social-media-management/distributed-marketing-platform/): Gives regional and local teams the flexibility to run relevant social programs within centralized access, approval and brand controls.
+## Sprinklr Insights Capabilities
+- [Consumer Intelligence Platform](https://www.sprinklr.com/products/consumer-intelligence/): Converts social conversations, customer feedback and competitive signals into intelligence for brand, product and market decisions.
+- [Social Listening Platform](https://www.sprinklr.com/products/consumer-intelligence/social-listening/): Monitor brand-relevant conversations across social and digital channels, analyze sentiment and trends, identify emerging risks and turn unstructured data into actionable insights.
+- [Competitive Insights and Benchmarking](https://www.sprinklr.com/products/consumer-intelligence/competitive-benchmarking/): Compare brand performance, share of voice, content strategy, audience behavior and influencer activity against competitors using pre-built dashboards and reports.
+- [Customer Feedback Management Platform](https://www.sprinklr.com/products/consumer-intelligence/surveys/): Create surveys, collect direct customer feedback and use AI to identify themes, root causes and experience drivers across survey and non-survey data.
+- [Product Insights](https://www.sprinklr.com/products/consumer-intelligence/product-insights/): Capture and analyze customer feedback about products across the product lifecycle to identify trends, improve offerings and compare performance against competitors.
+- [Location Insights](https://www.sprinklr.com/products/consumer-intelligence/location-insights/): Analyze location-level reviews and customer feedback, monitor store performance, manage local reputation and identify issues across regions and locations.
+- [Visual Insights](https://www.sprinklr.com/products/consumer-intelligence/visual-insights/): Detect logos and visual brand mentions in images and videos to uncover customer conversations and brand activity that text-based monitoring may miss.
+## Sprinklr Marketing Capabilities
+- [Campaign Management and Advertising Platform](https://www.sprinklr.com/products/marketing-and-advertising/): Orchestrates campaigns from planning and content production through activation and measurement. Gives global teams shared workflows, governance and performance visibility across channels.
+- [Content Marketing Platform](https://www.sprinklr.com/products/marketing-and-advertising/content-marketing/): Streamlines content planning, production, approvals, distribution and measurement through governed workflows shared across teams and channels.
+- [Social Advertising Platform](https://www.sprinklr.com/products/marketing-and-advertising/social-advertising/): Centralizes paid social planning, execution and optimization with coordinated creative workflows, budget controls, governance and cross-channel reporting.
+- [Unified Marketing Analytics Platform](https://www.sprinklr.com/products/marketing-and-advertising/unified-analytics/): Combines paid, owned and earned data to reveal campaign performance, audience response and opportunities to improve content, channels and spend.
+- [Ad Comment Moderation](https://www.sprinklr.com/products/marketing-and-advertising/ad-comment/): Uses AI to categorize, prioritize and route comments on paid social posts while supporting moderation, response workflows and governance.
+## Sprinklr AI
+Sprinklr AI brings purpose-built intelligence into customer experience workflows across the Unified-CXM platform. It combines specialized AI models, AI Agents, conversational assistance and centralized governance to analyze customer data, automate work and support customer-facing teams.
+- [Sprinklr AI](https://www.sprinklr.com/products/platform/ai/): Purpose-built AI for customer experience management that applies specialized models to text, images, video and speech for more relevant insights, personalization and automation.
+
+
+===== homepage :: https://www.sprinklr.com/
+--- SIGNALS ---
+title: Sprinklr: The Definitive AI-Native Customer Experience Platform
+meta_description: Unify customer journeys with Sprinklr’s AI-native platform. Connect every touchpoint, empower teams, and elevate conversations to earn lasting loyalty.
+og_description: Unify customer journeys with Sprinklr’s AI-native platform. Connect every touchpoint, empower teams, and elevate conversations to earn lasting loyalty.
+og_site_name: 
+h1: The definitive AI‑native platform for extraordinary customer experiences
+h2: Four AI-native product suites. One Unified-CXM platform. | Enable every team to create measurable CX impact
+jsonld_org: [{"@context": "http://schema.org", "@type": "Organization", "name": "Sprinklr", "description": "The Sprinklr Unified-CXM platform enables thousands of the world's largest enterprises use to market, advertise, research, care, and engage consumers.", "logo": "https://www.sprinklr.com/images/sprinklr-logo.jpg", "url": "https://www.sprinklr.com/", "telephone": "+1 917-933-7800", "sameAs": ["https://twitter.com/Sprinklr", "https://www.linkedin.com/company/sprinklr/", "https://www.facebook.com/sprinklr", "https://www.youtube.com/c/sprinklr", "https://www.instagram.com/sprinklr/", "https://en.wikipedia.org/wiki/Sprinklr", "https://www.wikidata.org/wiki/Q18636409", "https://www.crunchbase.com/organization/sprinklr"], "address": {"@type": "PostalAddress", "streetAddress": "29 W 35th St", "addressLocality": "New York City", "postalCode": "10001", "addressCountry": "United States"}, "contactPoint": [{"@type": "ContactPoint", "telephone": "+1 917-933-7800", "contactType": "New York (HQ)"}]}]
+--- TEXT ---
+Sprinklr: The Definitive AI-Native Customer Experience Platform
+ 
+ 
+Demo
+ 
+ 
+Login
+Support
+English (US)
+ 
+English (US)
+Deutsch
+Français
+Español
+العربية
+日本語
+ 
+ 
+Sprinklr
+Products
+ 
+Product Suites
+Sprinklr Service
+ 
+Sprinklr Social
+ 
+Sprinklr Insights
+ 
+Sprinklr Marketing
+ 
+Platform
+Unified-CXM
+ 
+ 
+Sprinklr Service
+Overview
+ 
+Inbound Contact Center
+Outbound Contact Center
+Social Customer Service
+Live Chat Support
+Sprinklr VoiceConnect
+Omnichannel Routing
+Unified Agent Desktop
+Supervisor Console
+Conversational IVR
+Workforce Management
+Community Software
+AI Agent Platform
+Agent Copilot
+Quality Management
+Conversational Analytics
+Knowledge Base Platform
+Guided Workflows
+Omnichannel Surveys
+Reporting and Analytics
+Service Command Center
+ 
+Sprinklr Social
+Overview
+ 
+Social Publishing and Engagement
+Social Marketing for Distributed Teams
+Employee Advocacy
+Works Best With
+Social Listening
+Social Advertising
+Conversational Commerce
+Social Customer Service
+ 
+Sprinklr Insights
+Overview
+ 
+Social Listening
+Competitive Insights and Benchmarking
+Product Insights
+Location Insights
+Visual Insights
+Sprinklr Surveys
+LLM Insights
+NEW
+Video Intelligence
+NEW
+ 
+Sprinklr Marketing
+Overview
+ 
+Content Marketing and Campaign Planning
+Social Advertising
+Unified Analytics
+Ad Comment Moderation
+Unified-CXM
+Overview
+ 
+Integrations
+Sandbox
+Security
+APIs
+Active Data Retention
+Display
+Presentations
+SPOTLIGHT
+Sprinklr named a Leader in The Forrester Wave™: Social Suites, Q4 2024
+ 
+ 
+Read full report
+Sprinklr named a Strong Performer in The Forrester Wave™: CCaaS Platforms, Q2 2025
+ 
+ 
+Read full report
+Solutions
+ 
+For Industries
+ 
+For Teams
+ 
+CPG
+Financial Services
+Government
+Retail
+Technology
+Telecommunications
+Travel & Hospitality
+Marketing Teams
+ 
+Customer Service Teams
+ 
+CX Teams
+ 
+Marketing Teams
+Overview
+ 
+Content Lifecycle Management
+Social Media Management
+Social Advertising
+Customer Service Teams
+Overview
+ 
+Omnichannel Contact Center
+Customer Self-Service
+Digital Customer Service
+Outbound Campaign Management
+Contact Center Intelligence
+CX Teams
+Overview
+ 
+Customer Feedback Management
+Contact Center Intelligence
+SPOTLIGHT
+Aramex delivers world-class CX with AI-powered CCaaS and 24/7 customer care
+ 
+ 
+Read full story
+Acer streamlines workflows across global markets and transforms the customer experience
+ 
+ 
+Read full story
+Sprinklr AI
+ 
+Overview
+ 
+Sprinklr AI Agents
+Sprinklr Copilot
+AI+ Studio
+SPOTLIGHT
+Check your AI maturity in minutes and get a free report with strategies to improve your AI readiness
+ 
+ 
+Get started
+Northwestern Mutual uses Sprinklr AI to power its most successful social campaign ever
+ 
+ 
+Read full story
+Customers
+ 
+Customer Stories
+Sprinklr Champions
+Sprinklr Community
+CXUnifier Awards
+SPOTLIGHT
+Uber achieves industry-leading SLA and response times
+ 
+ 
+Read full story
+Deutsche Telekom rings in the future of CX with AI-powered CCaaS
+ 
+ 
+Read full story
+Company
+ 
+Our Story
+Leadership
+Newsroom
+Partners
+Careers
+Investor Relations
+Security & Data Privacy
+Sustainability
+SPOTLIGHT
+Sprinklr wins Cloud-Based CX Solution of the Year at the 2025 CCW Excellence Awards
+ 
+ 
+Learn more
+Join a culture where kindness and customer obsession defines everything we do
+ 
+ 
+Learn more
+Resources
+ 
+Learn
+ 
+Services
+ 
+Support
+ 
+Release
+ 
+AI Maturity Assessment
+CX-WISE
+CX Connect
+Analyst Reports
+Forbes Influential CMOs 2026
+Sprinklr Demo Center
+eBooks & Reports
+Events & Webinars
+Blog
+Videos
+Our Services
+Training
+For Agencies
+Help Center
+Release Notes
+Contact Us
+Latest release
+ 
+Release library
+ 
+Latest release
+Overview
+ 
+Release Webinars
+Release library
+Spring '26
+ 
+Winter'26
+Fall '25
+SPOTLIGHT
+Aramex delivers world-class CX with AI-powered CCaaS and 24/7 customer care
+ 
+ 
+Read full story
+Acer streamlines workflows across global markets and transforms the customer experience
+ 
+ 
+Read full story
+Demo
+ 
+ 
+The definitive AI‑native platform for extraordinary customer experiences
+Unify customer journeys and empower customer‑facing teams by breaking down silos and connecting conversations across every touchpoint. Elevate every interaction with AI to deliver extraordinary experiences that build lasting loyalty.
+Contact us
+TRUSTED BY THE WORLD’S MOST ICONIC BRANDS 
+ 
+Four AI-native product suites. One Unified-CXM platform.
+ 
+Sprinklr Insights Logo
+Sprinklr Insights
+Uncover real-time consumer, product and market insights to build great products, drive loyalty, and deliver extraordinary customer experiences. 
+ 
+Explore Insights
+ 
+Sprinklr Marketing Logo
+Sprinklr Marketing
+Orchestrate on-brand global marketing campaigns across social and digital channels, and boost marketing ROI. 
+ 
+Explore Marketing
+ 
+Sprinklr Social Logo
+Sprinklr Social
+Reach, engage and listen to your audience across 30+ digital and social channels to maximize engagement, build trust and drive revenue. 
+ 
+Explore Social
+ 
+Sprinklr Service Logo
+Sprinklr Service
+Give your customer service teams the insights they need to connect with context and empathy, and deliver delightful experiences consistently at every touchpoint.
+ 
+Explore Service
+ 
+Over a decade of AI innovation built into every experience 
+Infuse every workflow, action, decision and interaction with AI purpose-built for customer experience management. Automate engagement and boost productivity with AI Agents for customers and customer-facing teams.
+Intelligence
+Copilot
+AI Agents
+Workflows
+Spot what matters, effortlessly
+Extract actionable intelligence from unstructured data across millions of conversations online to power informed decisions and meaningful actions. 
+Simplify work with an always-on AI companion 
+Automate workflows, surface insights, and get real-time conversational assistance across the Sprinklr platform. 
+Engage with empathy at scale 
+Deploy intelligent AI Agents built for your industry to ensure consistent, compliant and high-quality experiences across touchpoints.
+Improve efficiency with intelligent automation 
+Manage, route, assign, configure and govern with ease across the Sprinklr platform to scale automation and drive team efficiency. 
+ 
+Enable every team to create measurable CX impact
+Marketing Teams
+Unlock marketing’s full potential
+Break down silos
+, reimagine brand reach, power personalized campaigns, and deliver compliant, AI-powered brand experiences globally.
+ 
+Explore solutions
+CX Teams
+Make every customer feel seen, heard and valued
+Capture 360-degree customer feedback to uncover business-critical insights in real time, and act with empathy and precision.
+ 
+Explore solutions
+Customer Service Teams
+Transform your contact center into an experience center
+Deliver omnichannel customer support with agentic workflows, always-on AI assistants, and intelligent human-AI collaboration.
+ 
+Explore solutions
+Marketing Teams
+Unlock marketing’s full potential
+Break down silos
+, reimagine brand reach, power personalized campaigns, and deliver compliant, AI-powered brand experiences globally.
+ 
+Explore solutions
+CX Teams
+Make every customer feel seen, heard and valued
+Capture 360-degree customer feedback to uncover business-critical insights in real time, and act with empathy and precision.
+ 
+Explore solutions
+Customer Service Teams
+Transform your contact center into an experience center
+Deliver omnichannel customer support with agentic workflows, always-on AI assistants, and intelligent human-AI collaboration.
+ 
+Explore solutions
+Marketing Teams
+Unlock marketing’s full potential
+Break down silos
+, reimagine brand reach, power personalized campaigns, and deliver compliant, AI-powered brand experiences globally.
+ 
+Explore solutions
+CX Teams
+Make every customer feel seen, heard and valued
+Capture 360-degree customer feedback to uncover business-critical insights in real time, and act with empathy and precision.
+ 
+Explore solutions
+Customer Service Teams
+Transform your contact center into an experience center
+Deliver omnichannel customer support with agentic workflows, always-on AI assistants, and intelligent human-AI collaboration.
+ 
+Explore solutions
+ 
+Trusted by global brands. Chosen for real results. 
+Microsoft analyzed 8.6 billion mentions and turned them into actionable VoC insights
+"We can say, ‘Here's your score for Microsoft Teams in comparison to the competitive set.' This has been really informative for product marketing teams who are looking to understand how they're doing against a competitive set. We are able to uncover those new features that are landing well in the competitive conversation, so that they can prioritize their product road map.” 
+Allie Webster 
+Market Research Manager 
+ 
+Read full story
+Dow identified 125K more mentions to analyze global consumer trends and drive strategic decisions 
+"I don’t think I could provide the same results without Sprinklr. The solution saves me time, enables me to research a global customer base, and helps me deliver actionable reports to my colleagues and our clients." 
+Beatriz Lima
+Global Consumer & Market Insight
+ 
+Read full story
+Cdiscount increased CSAT by 15% by analyzing 2M+ voice calls and 75K+ conversations using Sprinklr AI 
+“We want our customers to feel heard and supported. Sprinklr provides us with a unique platform that allows us to improve each customer experience while giving our agents the opportunity to become top performers.” 
+Louis Brun-Ney 
+Director of Customer Service
+ 
+Read full story
+3M reduced case response time by 90% and improved CSAT with Sprinklr's scalable, AI-enhanced approach 
+"Sprinklr has given us additional capacity and driven results we couldn’t have achieved internally. We connect more with our customers and learn from them daily, and that makes 3M a better company."
+Kirsten Salmanowicz
+Sr. Manager, Global Media Tech & Governance
+ 
+Read full story
+Umniah reduced average handling time by 91% using Sprinklr's AI-powered chatbots 
+“Our Sprinklr-powered chatbot is light years ahead of what we had before. It’s not just informative — it’s action-oriented. Customers can troubleshoot service issues, check their balances, make changes, and more. That kind of functionality has exceeded even our expectations.” 
+Khaldoun Sweidan 
+Chief Commercial Officer
+ 
+Read full story
+Microsoft analyzed 8.6 billion mentions and turned them into actionable VoC insights
+"We can say, ‘Here's your score for Microsoft Teams in comparison to the competitive set.' This has been really informative for product marketing teams who are looking to understand how they're doing against a competitive set. We are able to uncover those new features that are landing well in the competitive conversation, so that they can prioritize their product road map.” 
+Allie Webster 
+Market Research Manager 
+ 
+Read full story
+Dow identified 125K more mentions to analyze global consumer trends and drive strategic decisions 
+"I don’t think I could provide the same results without Sprinklr. The solution saves me time, enables me to research a global customer base, and helps me deliver actionable reports to my colleagues and our clients." 
+Beatriz Lima
+Global Consumer & Market Insight
+ 
+Read full story
+View all customer stories
+ 
+Get the Sprinklr Advantage 
+Unified Platform
+Empower your customer-facing teams with a unified platform to deliver frictionless, omnichannel customer experiences — while staying on-brand every time, everywhere. 
+AI-Native Foundation 
+AI is seamlessly infused across the Sprinklr platform, enabling you to scale effortlessly while powering continuous innovation for your customer-facing teams. 
+Enterprise-Grade Scale
+Equip your global teams with extensive customizability and seamless integration with your existing tech stack. Built for enterprises, our Unified-CXM platform scales effortlessly as your needs evolve. 
+ 
+Dissolve silos. Create seamless experiences. Scale with Unified-CXM. 
+ Unify global teams, tools, data and channels
+Consolidate disconnected tools, data and channels on one AI-native platform. Unify your customer-facing teams — from marketing and service to CX — to enable seamless collaboration and deliver connected experiences at scale.
+ Elevate every interaction with human-AI collaboration 
+Sprinklr natively infuses specialized, generative and agentic AI into the platform to effortlessly function alongside your teams — automating journeys and powering personalized interactions that customers value. 
+ Transform CX into your competitive edge 
+Set the benchmark with every touchpoint, so your brand becomes the last best experience your customers have anywhere. Sprinklr’s AI-native solutions help you craft experiences that feel personal, unforgettable, and worth coming back for. 
+ 
+Winning in every CX category. Recognized by leading analysts. 
+STRONG PERFORMER
+The Forrester Wave™
+Conversation AI for Customer Service, Q2 2024
+ 
+Explore
+LEADER
+G2 Summer ’24 rankings
+Contact Center Leader, Summer 2024
+ 
+Explore
+TOP RATED
+TrustRadius
+Top Rated Awards, 2023
+ 
+Explore
+LEADER
+Gartner® Magic Quadrant™
+Sprinklr named a Leader in the 2026 Gartner® Magic Quadrant™ for Social Media Management and Listening
+ 
+Explore
+LEADER
+Gartner® Magic Quadrant™ 
+Sprinklr named a Leader in the 2026 Gartner® Magic Quadrant™ for Voice of Customer Platforms
+ 
+Explore
+LEADER
+IDC MarketScape
+Worldwide Voice of the Customer Applications 2025-2026 Vendor Assessment
+ 
+Explore
+STRONG PERFORMER
+The Forrester Wave™
+Contact-Center-As-A-Service Platforms, Q2 2025
+ 
+Explore
+LEADER
+The Forrester Wave™
+Social Suites, Q4 2024
+ 
+Explore
+LEADER
+The Forrester Wave™
+Digital Customer Interaction Solutions, Q2 2024
+ 
+Explore
+STRONG PERFORMER
+The Forrester Wave™
+Conversation AI for Customer Service, Q2 2024
+ 
+Explore
+LEADER
+G2 Summer ’24 rankings
+Contact Center Leader, Summer 2024
+ 
+Explore
+TOP RATED
+TrustRadius
+Top Rated Awards, 2023
+ 
+Explore
+LEADER
+Gartner® Magic Quadrant™
+Sprinklr named a Leader in the 2026 Gartner® Magic Quadrant™ for Social Media Management and Listening
+ 
+Explore
+LEADER
+Gartner® Magic Quadrant™ 
+Sprinklr named a Leader in the 2026 Gartner® Magic Quadrant™ for Voice of Customer Platforms
+ 
+Explore
+LEADE
+
+===== product :: https://www.sprinklr.com/products/
+--- SIGNALS ---
+title: Product Suites - See our 4 Suites and 33 Products | Sprinklr
+meta_description: With 33 products across 4 robust suite of products, Sprinklr is the only Unified-CXM platform purpose-built for enterprises. Learn more.
+og_description: With 33 products across 4 robust suite of products, Sprinklr is the only Unified-CXM platform purpose-built for enterprises. Learn more.
+og_site_name: 
+h1: .css-14us1xl{box-sizing:border-box;margin:0;min-width:0;white-space:pre-wrap;}Product Menu
+h2: Sprinklr Service | Sprinklr Insights | Sprinklr Social | Sprinklr Marketing | Unified Platform
+jsonld_org: []
+--- TEXT ---
+Product Suites - See our 4 Suites and 33 Products | Sprinklr
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Demo
+ 
+ 
+ 
+Login
+ 
+Support
+English (US)
+ 
+ 
+English (US)
+ 
+Deutsch
+ 
+Français
+ 
+Español
+ 
+العربية
+ 
+日本語
+ 
+ 
+ 
+Sprinklr
+Products
+ 
+Product Suites
+Sprinklr Service
+ 
+Sprinklr Social
+ 
+Sprinklr Insights
+ 
+Sprinklr Marketing
+ 
+Platform
+Unified-CXM
+ 
+ 
+Sprinklr Service
+ 
+Overview
+ 
+ 
+Inbound Contact Center
+ 
+Outbound Contact Center
+ 
+Social Customer Service
+ 
+Live Chat Support
+ 
+Sprinklr VoiceConnect
+ 
+Omnichannel Routing
+ 
+Unified Agent Desktop
+ 
+Supervisor Console
+ 
+Conversational IVR
+ 
+Workforce Management
+ 
+Community Software
+ 
+AI Agent Platform
+ 
+Agent Copilot
+ 
+Quality Management
+ 
+Conversational Analytics
+ 
+Knowledge Base Platform
+ 
+Guided Workflows
+ 
+Omnichannel Surveys
+ 
+Reporting and Analytics
+ 
+Service Command Center
+ 
+Sprinklr Social
+ 
+Overview
+ 
+ 
+Social Publishing and Engagement
+ 
+Social Marketing for Distributed Teams
+ 
+Employee Advocacy
+Works Best With
+ 
+Social Listening
+ 
+Social Advertising
+ 
+Conversational Commerce
+ 
+Social Customer Service
+ 
+Sprinklr Insights
+ 
+Overview
+ 
+ 
+Social Listening
+ 
+Competitive Insights and Benchmarking
+ 
+Product Insights
+ 
+Location Insights
+ 
+Visual Insights
+ 
+Sprinklr Surveys
+ 
+LLM Insights
+ 
+Sprinklr Marketing
+ 
+Overview
+ 
+ 
+Content Marketing and Campaign Planning
+ 
+Social Advertising
+ 
+Unified Analytics
+ 
+Ad Comment Moderation
+Unified-CXM
+ 
+Overview
+ 
+ 
+Integrations
+ 
+Sandbox
+ 
+Security
+ 
+APIs
+ 
+Active Data Retention
+ 
+Display
+ 
+Presentations
+SPOTLIGHT
+ 
+Sprinklr named a Leader in The Forrester Wave™: Social Suites, Q4 2024
+ 
+ 
+Read full report
+ 
+Sprinklr named a Strong Performer in The Forrester Wave™: CCaaS Platforms, Q2 2025
+ 
+ 
+Read full report
+Solutions
+ 
+For Industries
+ 
+For Teams
+ 
+ 
+CPG
+ 
+Financial Services
+ 
+Government
+ 
+Retail
+ 
+Technology
+ 
+Telecommunications
+ 
+Travel & Hospitality
+Marketing Teams
+ 
+Customer Service Teams
+ 
+CX Teams
+ 
+Marketing Teams
+ 
+Overview
+ 
+ 
+Content Lifecycle Management
+ 
+Social Media Management
+ 
+Social Advertising
+Customer Service Teams
+ 
+Overview
+ 
+ 
+Omnichannel Contact Center
+ 
+Customer Self-Service
+ 
+Digital Customer Service
+ 
+Outbound Campaign Management
+ 
+Contact Center Intelligence
+CX Teams
+ 
+Overview
+ 
+ 
+Customer Feedback Management
+ 
+Contact Center Intelligence
+SPOTLIGHT
+ 
+Aramex delivers world-class CX with AI-powered CCaaS and 24/7 customer care
+ 
+ 
+Read full story
+ 
+Acer streamlines workflows across global markets and transforms the customer experience
+ 
+ 
+Read full story
+Sprinklr AI
+ 
+ 
+Overview
+ 
+ 
+Sprinklr AI Agents
+ 
+Sprinklr Copilot
+ 
+AI+ Studio
+SPOTLIGHT
+ 
+Check your AI maturity in minutes and get a free report with strategies to improve your AI readiness
+ 
+ 
+Get started
+ 
+Northwestern Mutual uses Sprinklr AI to power its most successful social campaign ever
+ 
+ 
+Read full story
+Customers
+ 
+ 
+Customer Stories
+ 
+Sprinklr Champions
+ 
+Sprinklr Community
+ 
+CXUnifier Awards
+SPOTLIGHT
+ 
+Uber achieves industry-leading SLA and response times
+ 
+ 
+Read full story
+Deutsche Telekom rings in the future of CX with AI-powered CCaaS
+ 
+ 
+Read full story
+Company
+ 
+ 
+Our Story
+ 
+Leadership
+ 
+Newsroom
+ 
+Partners
+ 
+Careers
+ 
+Investor Relations
+ 
+Security & Data Privacy
+ 
+Sustainability
+SPOTLIGHT
+Sprinklr wins Cloud-Based CX Solution of the Year at the 2025 CCW Excellence Awards
+ 
+ 
+Learn more
+Join a culture where kindness and customer obsession defines everything we do
+ 
+ 
+Learn more
+Resources
+ 
+Learn
+ 
+Services
+ 
+Support
+ 
+Release
+ 
+ 
+AI Maturity Assessment
+ 
+CX-WISE
+ 
+CX Connect
+ 
+Analyst Reports
+ 
+Forbes Influential CMOs 2026
+ 
+Sprinklr Demo Center
+ 
+eBooks & Reports
+ 
+Events & Webinars
+ 
+Blog
+ 
+Videos
+ 
+Our Services
+ 
+Training
+ 
+For Agencies
+ 
+Help Center
+ 
+Release Notes
+ 
+Contact Us
+Latest release
+ 
+Release library
+ 
+Latest release
+ 
+Overview
+ 
+ 
+Release Webinars
+Release library
+ 
+Spring '26
+ 
+ 
+Winter'26
+ 
+Fall '25
+SPOTLIGHT
+ 
+Aramex delivers world-class CX with AI-powered CCaaS and 24/7 customer care
+ 
+ 
+Read full story
+ 
+Acer streamlines workflows across global markets and transforms the customer experience
+ 
+ 
+Read full story
+ 
+Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Menu
+ 
+ 
+ 
+Sprinklr is the unified platform for customer-facing functions. With 33 products across 4 robust product suites and the only unified customer experience management (Unified-CXM) platform, we help the world’s biggest companies make customers happier — by leveraging the most advanced proprietary AI engine built for enterprises to become human at scale on 30+ digital and social channels.
+ 
+ 
+ 
+ 
+ 
+ 
+Request Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sprinklr Service
+Sprinklr Insights
+Sprinklr Social
+Sprinklr Marketing
+ 
+Unified Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sprinklr Service
+The world’s leading digital-first, proactive customer experience solution.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sprinklr Voice
+ 
+Deliver digital care that’s one step ahead — across 30+ channels with Sprinklr Voice: a Contact Center as a Service (CCaaS) solution that’s powered by AI, fueled by real-time insights, and built on the world’s only unified customer experience management platform.
+ 
+ 
+ 
+ 
+Learn More 
+Self-Service Community
+Improve cross-platform customer experiences and reduce agent caseloads by letting customers share knowledge in digital communities — which you can customize and quickly moderate, all in a single application.
+Learn More 
+Live Chat
+Connect with your customers quickly, provide personalized 1:1 support to resolve incoming requests, and collect valuable data to inform better agent-led resolutions.
+Learn More 
+Conversational AI & Bots
+Shift customers from IVR to cost-effective digital channels like web chat, SMS, email, and WhatsApp — where conversational AI bots create faster and more reliable experiences.
+Learn More 
+Contact Center Intelligence
+Unlock AI-powered, real-time contact center analytics — and uncover the actionable insights to trigger improvements in proactive customer care and reduce inbound contact volume.
+Learn More 
+Contact Center Automation
+Access powerful tools that let you automate contact center workflows and processes, making it easier to solve customer conversations during the first contact.
+Learn More 
+Agent Assist
+Analyze every conversation instantly to surface the best suggestions, predictions, and warnings agents need to improve productivity — and solve customer issues faster.
+Learn More 
+Knowledge Base
+Help agents find the right knowledge articles and reduce handle time with AI intents that surface the most relevant directly within the Agent Console — or use it on your website, mobile app, or community to offer customers quick, direct access to the right information.
+Learn More 
+Customer Service
+A simple to use and deploy, yet premium, customer service solution for channel unification across 13+ of the most widely used channels - social, messaging, chat, email, and voice.
+Learn More 
+ 
+Request Demo
+Sprinklr Insights
+Make decisions based on proactive, AI-powered research, based on the most complete set of customer experience data.
+Social Listening
+Hear the real-time voice of your customers and listen to topics of interest across social, digital, and traditional channels — then use AI to enrich that data and surface actionable insights.
+Learn More 
+Competitive Insights and Benchmarking
+Analyze the performance of posts, engagement of audiences, and key characteristics of content against competitors or other best-in-class brands — including which of your competitors’ messages lead the pack and why.
+Learn More 
+Product Insights
+Leverage AI to gather actionable data on how customers feel about your products — surfacing insights from reviews, social channels, or any data source with SKU- or brand-level feedback.
+Learn More 
+Location Insights
+Discover what brings in-store customers back — or drives them away — at everything from individual locations to global regions with real-time feedback that spotlights how customers feel when they meet your brand face-to-face.
+Learn More 
+Visual Insights
+Reveal exactly how consumers interact with your brand and act immediately on visual intelligence (including tracking and detecting any misuse of brand logos or likeness) to power more meaningful communication across digital channels.
+Learn More 
+Media Monitoring & Analytics
+Gain a comprehensive measure of your earned media — and connect stories across social and news channels — by using Sprinklr’s proprietary AI engine to monitor and analyze media coverage.
+Learn More 
+Request Demo
+Sprinklr Social
+Deliver a positive experience that’s true to your brand — no matter where your customers are digitally.
+Social Publishing & Engagement
+Plan, publish, and manage brand content across multiple channels from a single platform —then measure and respond to customer engagement efficiently with automated workflows, intuition moderation, and engagement dashboards that can be shared across teams.
+Learn More 
+Distributed
+Empower Distributed teams (Sales, Location Managers, Field Agents) with a lightweight yet powerful branded experience to engage customers on the digital and social channels they prefer.
+Learn More 
+Conversational Commerce
+Help agents or bots lead customers from intent to purchase — and transform social into a revenue driver — with a 1:1 chat-based commerce experience that drives product selection and evaluation with AI, integrated product catalogs, and a unified commerce connector.
+Learn More 
+Ratings & Review
+Capture reviews for content and monitor ratings for additional consumer insights — then integrate Ratings and Reviews at the point of purchase on your website or mobile app to drive even more conversions.
+Learn More 
+Local Social
+Personalize customer experiences at scale — and keep all messaging on-brand across 30+ digital channels — with dynamic asset templates, integrated listening, and unified insights that help distributed teams scale and localize content marketing campaigns.
+Learn More 
+Request Demo
+Sprinklr Marketing
+Build and protect your brand’s reputation, and take action at every point in the marketing lifecycle.
+ 
+Campaign Planning & Content Marketing
+Increase the ROI of your content with AI-powered integrated insights and reuse; save time by enabling agile marketing with automated workflows; and manage brand risk with enterprise governance.
+Learn More 
+Marketing Analytics
+Get a comprehensive view of your campaign performance across 30+ digital channels, including social, web, email, and more. Integrate third-party data to unlock powerful full-funnel insights in a single, consolidated view.
+Learn More 
+Advocacy
+Encourage employees to share and affirm your brand positioning with an advocacy site featuring exclusive content and experiences — then measure your program performance and optimize with reporting insights.
+Learn More 
+Social Advertising
+Increase ROAS against business outcomes and across siloed teams using integrations, AI, and automation that fuel collaboration, unify reporting, and manage brand risk via approval processes, structured roles, and enterprise governance.
+Learn More 
+ 
+ 
+Request Demo
+ 
+Unified Platform
+The first platform purpose-built for unified customer experience management (Unified-CXM) and trusted by the enterprise.
+AI Studio
+Create and deploy custom artificial intelligence models, validate predictions of existing models, and retrain them accordingly. Build and refine all AI models with zero coding.
+Learn More 
+Sandbox
+Sprinklr Sandbox offers an isolated test environment that mimics your live production environment, allowing you to practice with precision, create without consequences, and change with confidence.
+Learn More 
+Integrations
+Sprinklr marketplace integrations include 70+ OOTB connectors with CRMs, CDPs, DAMs, Data Visualization, and with other enterprise platforms like Microsoft, Salesforce, Adobe, Google, Oracle, SAP, and ServiceNow.
+Learn More 
+APIs
+Sprinklr provides a robust list of RESTful web service APIs to integrate data and execute processes with any external system. Developers can also create applications to interact directly with Sprinklr by signing up on the 
+ 
+developer portal
+.
+ 
+Learn More 
+Active Data Retention
+Customers have the ability to store Sprinklr’s platform data for a rolling 12-, 36-, or 84-months to meet operational or regulatory compliance needs for Account or Listening data.
+Learn More 
+Display
+Display transforms data and content into insightful, impactful experiences through an interactive digital signage solution for retail, DooH (digital out-of-home), stadium, broadcast TV, and command centers. Display can even be embedded on websites.
+Learn More 
+Presentations
+Our Live Slide™ technology helps you quickly create slides of live, real-time social and business data and content that are easily accessible for all stakeholders, empowering you to tell your story in a visually compelling way.
+Learn More 
+Request Demo
+ 
+How can we help you?
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+Sprinklr AI
+ 
+Solutions
+ 
+Company
+ 
+Resources
+ 
+Products
+ 
+Sprinklr Service
+ 
+Sprinklr Insights
+ 
+Sprinklr Marketing
+ 
+Sprinklr Social
+ 
+Unified-CXM Platform
+Sprinklr AI
+ 
+Overview
+ 
+Sprinklr AI+
+ 
+Sprinklr AI Agents
+ 
+AI+ Studio
+Solutions
+Industries
+ 
+CPG
+ 
+Financial Services
+ 
+Government
+ 
+Retail
+ 
+Technology
+ 
+Telecommunication
+ 
+Travel & Hospitality
+Teams
+ 
+Marketing
+ 
+Customer Service
+ 
+CX Teams
+Company
+ 
+Our Story
+ 
+Newsroom
+ 
+Partners
+ 
+Careers
+ 
+Investor Relations
+ 
+Security & Privacy
+ 
+Customer Stories
+Support
+ 
+Developer Portal
+ 
+Integrations
+ 
+Help Center
+ 
+Contact Us
+Resources
+ 
+Analyst Reports
+ 
+Demo Center
+ 
+Podcasts
+ 
+Blog
+ 
+Videos
+ 
+eBooks
+ 
+Events & Webinars
+ 
+Masterclass
+ 
+Services
+ 
+Training
+Trending Topics
+ 
+Agentic AI
+ 
+Voice of the Customer
+ 
+Social Listening
+ 
+Contact Center as a Service 
+ 
+Social Media Management
+ 
+Contact Center Intelligence
+ 
+Customer Feedback Management
+ 
+AI in Content Marketing
+ 
+Campaign Management
+ 
+ 
+Sprinklr Website Home
+ 
+Supplier Code of Conduct
+ 
+Privacy
+ 
+Legal
+ 
+Do Not Sell or Share My Info
+ 
+Cookies
+ 
+Modern Slavery Statement
+ 
+Index Egal
+
+===== pricing_or_trust :: https://www.sprinklr.com/trust/
+--- SIGNALS ---
+title: Sprinklr Trust Center
+meta_description: A security resource center which provides details on Sprinklr’s extensive security and privacy program.
+og_description: A security resource center which provides details on Sprinklr’s extensive security and privacy program.
+og_site_name: 
+h1: SPRINKLR SECURITY & PRIVACY
+h2: A relentless commitment to security and privacy. | Sprinklr’s Data Protection Principles
+jsonld_org: []
+--- TEXT ---
+Sprinklr Trust Center
+ 
+ 
+Demo
+ 
+ 
+Login
+Support
+English (US)
+ 
+English (US)
+Deutsch
+Français
+Español
+العربية
+日本語
+ 
+ 
+Sprinklr
+Products
+ 
+Product Suites
+Sprinklr Service
+ 
+Sprinklr Social
+ 
+Sprinklr Insights
+ 
+Sprinklr Marketing
+ 
+Platform
+Unified-CXM
+ 
+ 
+Sprinklr Service
+Overview
+ 
+Inbound Contact Center
+Outbound Contact Center
+Social Customer Service
+Live Chat Support
+Sprinklr VoiceConnect
+Omnichannel Routing
+Unified Agent Desktop
+Supervisor Console
+Conversational IVR
+Workforce Management
+Community Software
+AI Agent Platform
+Agent Copilot
+Quality Management
+Conversational Analytics
+Knowledge Base Platform
+Guided Workflows
+Omnichannel Surveys
+Reporting and Analytics
+Service Command Center
+ 
+Sprinklr Social
+Overview
+ 
+Social Publishing and Engagement
+Social Marketing for Distributed Teams
+Employee Advocacy
+Works Best With
+Social Listening
+Social Advertising
+Conversational Commerce
+Social Customer Service
+ 
+Sprinklr Insights
+Overview
+ 
+Social Listening
+Competitive Insights and Benchmarking
+Product Insights
+Location Insights
+Visual Insights
+Sprinklr Surveys
+LLM Insights
+NEW
+Video Intelligence
+NEW
+ 
+Sprinklr Marketing
+Overview
+ 
+Content Marketing and Campaign Planning
+Social Advertising
+Unified Analytics
+Ad Comment Moderation
+Unified-CXM
+Overview
+ 
+Integrations
+Sandbox
+Security
+APIs
+Active Data Retention
+Display
+Presentations
+SPOTLIGHT
+Sprinklr named a Leader in The Forrester Wave™: Social Suites, Q4 2024
+ 
+ 
+Read full report
+Sprinklr named a Strong Performer in The Forrester Wave™: CCaaS Platforms, Q2 2025
+ 
+ 
+Read full report
+Solutions
+ 
+For Industries
+ 
+For Teams
+ 
+CPG
+Financial Services
+Government
+Retail
+Technology
+Telecommunications
+Travel & Hospitality
+Marketing Teams
+ 
+Customer Service Teams
+ 
+CX Teams
+ 
+Marketing Teams
+Overview
+ 
+Content Lifecycle Management
+Social Media Management
+Social Advertising
+Customer Service Teams
+Overview
+ 
+Omnichannel Contact Center
+Customer Self-Service
+Digital Customer Service
+Outbound Campaign Management
+Contact Center Intelligence
+CX Teams
+Overview
+ 
+Customer Feedback Management
+Contact Center Intelligence
+SPOTLIGHT
+Aramex delivers world-class CX with AI-powered CCaaS and 24/7 customer care
+ 
+ 
+Read full story
+Acer streamlines workflows across global markets and transforms the customer experience
+ 
+ 
+Read full story
+Sprinklr AI
+ 
+Overview
+ 
+Sprinklr AI Agents
+Sprinklr Copilot
+AI+ Studio
+SPOTLIGHT
+Check your AI maturity in minutes and get a free report with strategies to improve your AI readiness
+ 
+ 
+Get started
+Northwestern Mutual uses Sprinklr AI to power its most successful social campaign ever
+ 
+ 
+Read full story
+Customers
+ 
+Customer Stories
+Sprinklr Champions
+Sprinklr Community
+CXUnifier Awards
+SPOTLIGHT
+Uber achieves industry-leading SLA and response times
+ 
+ 
+Read full story
+Deutsche Telekom rings in the future of CX with AI-powered CCaaS
+ 
+ 
+Read full story
+Company
+ 
+Our Story
+Leadership
+Newsroom
+Partners
+Careers
+Investor Relations
+Security & Data Privacy
+Sustainability
+SPOTLIGHT
+Sprinklr wins Cloud-Based CX Solution of the Year at the 2025 CCW Excellence Awards
+ 
+ 
+Learn more
+Join a culture where kindness and customer obsession defines everything we do
+ 
+ 
+Learn more
+Resources
+ 
+Learn
+ 
+Services
+ 
+Support
+ 
+Release
+ 
+AI Maturity Assessment
+CX-WISE
+CX Connect
+Analyst Reports
+Forbes Influential CMOs 2026
+Sprinklr Demo Center
+eBooks & Reports
+Events & Webinars
+Blog
+Videos
+Our Services
+Training
+For Agencies
+Help Center
+Release Notes
+Contact Us
+Latest release
+ 
+Release library
+ 
+Latest release
+Overview
+ 
+Release Webinars
+Release library
+Spring '26
+ 
+Winter'26
+Fall '25
+SPOTLIGHT
+Aramex delivers world-class CX with AI-powered CCaaS and 24/7 customer care
+ 
+ 
+Read full story
+Acer streamlines workflows across global markets and transforms the customer experience
+ 
+ 
+Read full story
+Demo
+SPRINKLR SECURITY & PRIVACY
+A relentless commitment to security and privacy.
+At Sprinklr, security, compliance, and privacy are foundational to our customer and investor trust. We are fiercely dedicated to safeguarding information assets and continuously enhancing the security and privacy of our customers' data.
+Talk to an expert
+ 
+ 
+Security & Data Privacy
+Explore Sprinklr’s certifications, assessments, and industry compliance status and dive deeper into the processes and features behind our platform and product security and privacy features. Discover how Sprinklr processes and safeguards information provided to us by our customers and get more details on our data transfer mechanisms, subprocessors, and find answers to frequently asked questions.
+ 
+Sprinklr Platform Security
+Safeguarding our customer information is of the utmost importance to Sprinklr. To demonstrate that commitment — and reduce customer exposure to risk — we’ve implemented the most comprehensive security standards, including web applications, optimized infrastructure, governance across all modern channels, network security, and more.
+Visit Trust Portal
+Product Security Features
+We offer a number of features and support industry-standard controls in order to help protect your brand. Security features include role-based access permissions, access controls, single sign-on, two-factor authentication, IP restricted access, and more.
+Secure Development Lifecycle Process
+Our platform is developed internally by Sprinklr employees who receive annual 
+training on secure coding practices. Sprinklr follows a Secure Development Lifecycle (“SDL”) process based on industry standard guidelines and practices. When we create a product, our security team works closely with engineering to inject security throughout the development process.
+ 
+Sprinklr follows a risk-based approach to identify security issues in SDL for major code releases utilizing a combination of periodic static testing, dynamic testing, and other techniques as appropriate.
+Detection & Response
+Sprinklr’s dedicated Detection & Response team is focused on threat detection, vulnerability management, incident response and crisis communication management in order to support our customers in security incidents and beyond. Within scope are product operations, business system, and all corporate assets. 
+Cloud Security
+Sprinklr’s production environments run in Infrastructure-as-a-Service (IaaS) cloud environments from AWS, Microsoft, and Google.  We utilize security tools, such as CNAPP (Cloud Native Application Protection Platform), to manage the security posture of our cloud environments.  We harden our environments using Cloud CIS (Center for Internet Security) benchmarks. 
+Network Security
+Sprinklr has implemented both reactive and proactive network security controls. We monitor network activity for anomalies 24/7 and respond to security events.
+ 
+Proactive controls such as firewalls, cloud security posture management, and network penetration tests ensure a very high degree of protection.
+ 
+Sensitive data is encrypted during transit. 
+Security Awareness & Training
+At Sprinklr, we believe our employees are our first 
+line of
+ and strongest defense against cyber threats.
+ 
+All employees, interns and eligible contractors undergo mandatory security training at time of hire and annually thereafter. They are regularly presented with security education and best practices in order to drive awareness, reduce risk and remain vigilant against potential threats. Annual tabletop exercises are also conducted to test our incident response plans. 
+Vulnerability Disclosure Program
+Sprinklr utilizes a third-party Vulnerability Disclosure Program (VDP) for managing security vulnerabilities reported by the security community. For more information, please visit 
+Sprinklr’s Vulnerability Disclosure Program
+For more information and to request access to view compliance reports and more, visit and subscribe to the Sprinklr Trust Portal.
+Visit Trust Portal
+ 
+Security Governance
+Sprinklr has aligned configuration, policies, procedures, and processes in place, which are reviewed annually, to help our organization achieve business objectives, address uncertainty, and act with integrity.
+Visit Trust Portal
+ 
+Security Certifications & Assessments
+ Security Certifications & Assessments
+Sprinklr is regularly audited by third-party assessments, evaluating internal controls that protect the security, confidentiality, integrity, availability, and privacy of the information entrusted to us by our customers. Sprinklr maintains SOC1 Type II, SOC2 Type II, PCI-DSS, and ISO 27001 certifications as well as FedRAMP authorization.
+ Service Availability
+For high-level Sprinklr availability information and any known issues affecting Sprinklr products, please visit the 
+Sprinklr Status page
+. Potential service interruptions may vary from customer to customer, depending on the systems or services impacted.
+ 
+Security FAQs
+ Where can I find more information about Sprinklr’s security program?
+Visit our Security & Privacy Trust Portal at 
+trust.sprinklr.com
+ How do you monitor for security threats?
+Sprinklr has a dedicated Security Team chartered to define, supervise implementation, and monitor all relevant security and privacy policies, standards, and controls. We have a dedicated detection and response team who is tasked with 24/7 monitoring of our platform, and we abide by industry best practices, compliance regulations and all applicable laws. Periodic tests by independent third parties (such as third-party auditors, assessors, penetration testers, etc.) are organized and conducted under the guidance of the Security Team. Remediation of any material findings is tracked and validated. These tests include the validation of administrative, procedural, and technical controls.
+ How can Sprinklr Users Protect their Accounts?
+While we continue to invest significant resources in order to ensure the continued security of our Sprinklr services and our user’s data, we also believe it’s important that Sprinklr users better understand not only the security options we offer, but also how they can best protect their devices from malware and other threats. Combined with our efforts securing Sprinklr, and users following online best practices, users can ensure the security of their information. Please see our recommended best practices 
+here.
+ How does Sprinklr protect customer data privacy?
+At Sprinklr, we recognize the importance of safeguarding the personal information we handle, including the information provided to us by customers, personal information we leverage from various sources to provide our products, as well as customer information. We are committed to protecting this data and not using it for any reason beyond what was initially agreed upon.
+We use appropriate technical, organizational and administrative security measures to protect any information we hold in our records from loss, misuse, and unauthorized access. Our engineering teams proactively incorporate privacy into Sprinklr products and ensure the collection, use, retention, and disclosure of data is tailored and limited to the purposes necessary to provide our products to customers. We also take all reasonable precautions to ensure that our employees who have access to personal data about customers are limited and receive adequate training.
+ 
+Build stronger customer trust on a foundation of robust data privacy measures
+Sprinklr prioritizes safeguarding the personal information we handle — information provided to us by customers, the personal information we leverage from various sources to power our products, and the information we gather about consumers. We’re committed to protecting this data and using it solely to provide our services. Our 
+Data Processing Addendum
+ and 
+Privacy Policy
+ provide additional information.
+Visit Trust Portal
+ 
+Our compliance with privacy laws
+At Sprinklr, data protection and information security are integral to our culture and values, fostering strong customer relationships. As a service provider and data processor, we view privacy as fundamental and support our customers in meeting data protection requirements. Our legal and compliance team, alongside security and product teams, closely monitors evolving data privacy regulations to ensure ongoing compliance with laws such as GDPR, CCPA, CPRA, and LGPD.
+ 
+Sprinklr’s Data Protection Principles
+Proportionality and Accountability
+As a processor and service provider for our customers, Sprinklr processes customer data only as needed to provide our services. Sprinklr has internal policies, processes, and controls to manage data processing activities in accordance with applicable global data protection laws. You can read more about Sprinklr’s approach to data protection 
+here
+.
+Contractual Commitments
+Sprinklr’s 
+Data Processing Addendum
+ (DPA) governs how we process data on behalf of our customers. It defines Sprinklr’s role as a processor, incorporates data transfer mechanisms, and outlines the technical & organizational measures in place to protect data from unauthorized access or loss.
+Privacy Training
+Sprinklr is committed to ensuring all of our employees understand their obligations under applicable data privacy laws. All new hires that join Sprinklr are trained on privacy and security during onboarding, and Sprinklr conducts annual refresher training, as well as tailored training for specific teams throughout the year.
+Data Transfer Mechanisms
+Sprinklr is committed to securing data transferred across geographic borders and leverages Standard Contractual Clauses, as well as additional technical and organizational measures, for such transfers. For more details, please refer to our White Paper on Data Transfers, available 
+here
+, which you can use to inform your Data Transfer Impact Assessment.
+Sharing Data
+Sprinklr conducts careful due diligence on the privacy and security practices of third parties we engage to help us provide our services. All of our sub-processors must agree to and sign data protection agreements that include terms that are at least as protective as those that Sprinklr commits to with its cus

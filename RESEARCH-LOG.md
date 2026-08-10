@@ -160,13 +160,31 @@ a marketing visitor sees, which is a finding about disclosure rather than a fail
 Caveat that governs the 25%-at-60 rule: these 10 are the **broadest** companies in the set, so
 these rates are an optimistic ceiling, not a sample mean.
 
+**17 · 2026-08-11 · All 237 companies enriched**
+Twelve batches under a fixed four-fetch budget, 1,344 HTTP requests, mean 3.4 fetches per
+reachable company. **192 enriched, 45 unreachable (19%).** Verification passes on all eleven
+checks: no original field mutated, budget never exceeded, every populated cell carries
+provenance, every quoted value present in its own capture, no company enriched from an
+unconfirmed domain.
+Fill rates split sharply by position, so they are reported split: **head (1–60) vs tail
+(61–237)** — website 85/80, description 83/75, value proposition 83/68, functionality 68/51,
+channels 65/49. The first ten were the broadest companies in the set and their 90% was a
+ceiling, exactly as flagged at the checkpoint.
+**`solution_type` finished at 13 of 237 (5%), every one `INFERRED`, none defaulted.** Vendors do
+not publish deployment models on public marketing pages. That is a finding about disclosure.
+Two defects caught by verification rather than by luck: a relaxed identity rule filed
+`constant.com` (a cloud provider) under Constant Contact, and four domain-parking pages passed
+identity by carrying the company name in their title. Both fixed, the bad record purged with its
+capture, and every earlier resolution re-audited.
+
 ---
 
 ## Where it stands
 
 All 10 IN classifications accepted and exported. Canonical store is **`outputs/companies.jsonl`**
-(237 companies, one per line) with `outputs/companies-index.md` (16.1 KB) as the context anchor.
-**10 companies enriched; 227 awaiting schema approval at the checkpoint.**
+(237 companies, one per line) with `outputs/companies-index.md` (16 KB) as the context anchor.
+**All 237 enriched from vendor sites: 192 reachable, 45 unreachable and listed in
+`outputs/blocked-domains.md` for a later human-transport pass.**
 
 **The binding constraint is G2 coverage: 65 of 1,810 listings (3.6%).** The Gartner half is
 complete at 352 of 352. Closing the G2 half needs ~111 paginated pastes; nothing else in the

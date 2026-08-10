@@ -90,6 +90,34 @@ like an oversight.** That is why this table is in the repository rather than in 
 
 ---
 
+## 5a. What the extractor actually does (as run)
+
+Every field comes from a defined element, so all 237 records are produced by one method:
+
+| Field | Source element |
+|---|---|
+| `website` | final URL of the confirmed homepage |
+| `published_address_country` · `founded_year` | JSON-LD `PostalAddress` / `foundingDate` |
+| `description_own` | `meta description`, verbatim |
+| `value_proposition` | first `<h1>`, verbatim |
+| `functionality` | product-page `<h2>` list — **section headings, not a vetted capability list** |
+| `channels[]` | controlled vocabulary matched in positioning text + product-page body. **Homepage body excluded** — its navigation produces false positives |
+| `solution_type[]` | deployment terms matched **only** on product/pricing/trust pages, and only inside a sentence. Grade `INFERRED`, never defaulted |
+| `pricing_*` · `has_free_tier` · `has_contact_sales_tier` | price tokens and free/contact detection on the pricing page |
+| `vertical_focus` | computed from `industries_served`, never researched |
+
+**Domain resolution** builds candidates from the company name and accepts one only if the served
+page identifies the company in its `title`, `og:site_name` or JSON-LD `name`. Partial and
+shortened-brand matches additionally require the full company name in the page body, with the
+proof snippet stored on the record. Domain-parking and for-sale pages are rejected before
+identity is considered. **This costs recall and buys correctness** — an early relaxed version
+resolved `constant.com` for Constant Contact, an unrelated cloud provider.
+
+**Two invariants, verified across all 237 by `scripts/verify_all.py`:**
+1. Extraction reads exactly the text that gets committed — truncate first, then extract.
+2. Every quoted value appears in its own capture file (compared whitespace-normalised, since
+   tag-stripping inserts newlines mid-sentence).
+
 ## 6. Grading
 
 Every field carries `value`, `source_url`, `rung`, `grade`, `retrieved_date`. **Per-cell
