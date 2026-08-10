@@ -290,9 +290,17 @@ Written here so no future session mistakes them for gaps to be closed by clevern
 - Commit at logical checkpoints — not per file, not one dump at the end.
 - Maintain `.gitignore` for OS junk, editor files, scratch work.
 - **Never commit** secrets, credentials, large binaries, or regenerable artifacts.
+- **Commit pasted content ON ARRIVAL — before reading, moving, renaming or parsing it.**
+  This is the first action of any turn in which a paste arrives, and it is its own commit.
+  Reorganisation happens in a *later* commit, never the same one. Human-transported content
+  is irreplaceable without asking the user to do the work again; an uncommitted paste is one
+  shell command away from gone. See `logs/incidents.md` I-0001, where exactly that happened
+  to 13 files.
 - **Always commit** raw pasted source content (`sources/raw/`) and the logs (`logs/`).
   That material is the audit trail — the most valuable thing in this repository, not
   clutter.
+- **Never `rm -rf` a directory under `sources/`.** Move files out, verify the move, then
+  remove only what is provably empty. `git status` before any destructive step.
 - Git history is never rewritten. The record of a false start is part of the audit trail.
 
 ---

@@ -98,6 +98,12 @@ precisely.
 **Batch requests.** A single message with 6 URLs, each with its instruction, beats six
 messages. Never trickle requests one at a time.
 
+**WHEN A PASTE ARRIVES: commit it first.** Before reading it, before moving it, before
+renaming or parsing it. Its own commit, as the first action of the turn. Human-transported
+content cannot be re-fetched — replacing it means asking the user to do the work again. See
+`logs/incidents.md` I-0001, where 13 pasted pages were destroyed by a reorganisation that ran
+before the commit did.
+
 **While waiting:** continue any work that does not depend on the blocked page. Do not
 guess the page's contents as a placeholder. A placeholder written in the shape of a result
 will be read as a result.
