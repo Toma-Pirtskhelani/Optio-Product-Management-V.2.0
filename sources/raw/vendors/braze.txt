@@ -1,4 +1,13 @@
 ===== llms.txt :: https://braze.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
 # Braze
 > Rewrite the rules of customer engagement with AI
 > From cross-channel messaging and journey orchestration to Al-powered decisioning and optimization, Braze is a customer engagement platform that empowers brands to Be Absolutely Engaging.™
@@ -74,6 +83,15 @@
 [What is the Braze Creative Studio?](https://www.braze.com/product/creat
 
 ===== homepage :: https://www.braze.com/
+--- SIGNALS ---
+title: Braze Customer Engagement Platform
+meta_description: Power customer-centric interactions between consumers and brands in real-time.
+og_description: Power customer-centric interactions between consumers and brands in real-time.
+og_site_name: 
+h1: Rewrite the rules of customer engagement with AI | Forrester
+h2: MADE TO SCALE WITH COMPANIES OF ALL SIZES | When technology moves fast, marketers move faster | The only customer engagement platform you’ll ever need | Understand your audience with Segment Builder | Understand your audience with Segment Builder | Your brand has a message, how you deliver it matters. | See our industry and customer recognitions. | Check out the resources. | There's never been a better time to be a better marketer.™
+jsonld_org: []
+--- TEXT ---
 Braze Customer Engagement Platform
  
  
@@ -449,6 +467,15 @@ Get Started
 See How Braze Works
 
 ===== product :: https://www.braze.com/product
+--- SIGNALS ---
+title: What Does Braze Do? How it Works
+meta_description: Discover how Braze works, the ultimate customer engagement platform. Unify data, personalize journeys, and optimize campaigns with AI-powered insights.
+og_description: Discover how Braze works, the ultimate customer engagement platform. Unify data, personalize journeys, and optimize campaigns with AI-powered insights.
+og_site_name: 
+h1: See how our tech stacks up.
+h2: From data activation and cross-channel journey orchestration, to 1:1 personalization and relevance with AI decisioning, this is how Braze works: | There's never been a better time to be a better marketer.™
+jsonld_org: []
+--- TEXT ---
 What Does Braze Do? How it Works
  
  
@@ -839,6 +866,15 @@ Get Started
 See How Braze Works
 
 ===== pricing_or_trust :: https://www.braze.com/pricing
+--- SIGNALS ---
+title: Explore pricing and packaging options at Braze
+meta_description: Whether you're sending your first campaign or orchestrating engagement at global scale, Braze Platform Editions are designed to grow with you.​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌‍​‍‌﻿​‍‌‍​‌‌﻿‍‍‌‍‌‌​‍﻿‌‌‍‌​‌‍‌‌‌﻿‌‍​‍﻿‍‌‍​﻿‌‍﻿﻿‌‍﻿‌​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍​‌​﻿​﻿​﻿‌‍‌‍​﻿‌‍​‌​﻿​​​﻿​﻿​‍﻿‌​﻿‍‌​﻿​‌​﻿‌﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‌​﻿‌​​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌‌‌‍‌‌‌‍‌‍​‍﻿‌​﻿​‌​﻿‍‌‌‍​‍​﻿‍‌‌‍​﻿​﻿‌​​﻿​​​﻿‌‌‌‍​‌​﻿‌‍​﻿‍​​﻿‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌‍‌﻿‌‍‌‌​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍​‍‌‍﻿﻿‌‍‌​‌﻿‍‌​‍‌‌​﻿‌‌‌​​‍‌‌﻿﻿‌‍‍﻿‌‍‌‌‌﻿‍‌​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​‍​﻿​‍​﻿​​‌‍‌‌​﻿‌​​﻿‌﻿​﻿‌​​﻿​​​﻿‌‍‌‍‌​​﻿‌‌‌‍‌‍​﻿​﻿​﻿‌‌​‍‌‌​﻿​‍​﻿​‍​‍‌‌​﻿‌‌‌​‌​​‍﻿‍‌﻿​﻿‌﻿‌‌‌‍​‍‌‍‍​‌‍‌‌‌‍​‌‌‍‌​‌‍‍‌‌‍﻿‍‌‍‌﻿​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌‍​‍‌﻿​‍‌‍​‌‌﻿‍‍‌‍‌‌​‍﻿‌‌‍‌​‌‍‌‌‌﻿‌‍​‍﻿‍‌‍​﻿‌‍﻿﻿‌‍﻿‌​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍​‌​﻿​﻿​﻿‌‍‌‍​﻿‌‍​‌​﻿​​​﻿​﻿​‍﻿‌​﻿‍‌​﻿​‌​﻿‌﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‌​﻿‌​​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌‌‌‍‌‌‌‍‌‍​‍﻿‌​﻿​‌​﻿‍‌‌‍​‍​﻿‍‌‌‍​﻿​﻿‌​​﻿​​​﻿‌‌‌‍​‌​﻿‌‍​﻿‍​​﻿‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌‍‌﻿‌‍‌‌​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍​‍‌‍﻿﻿‌‍‌​‌﻿‍‌​‍‌‌​﻿‌‌‌​​‍‌‌﻿﻿‌‍‍﻿‌‍‌‌‌﻿‍‌​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​‍​﻿​‍​﻿​​‌‍‌‌​﻿‌​​﻿‌﻿​﻿‌​​﻿​​​﻿‌‍‌‍‌​​﻿‌‌‌‍‌‍​﻿​﻿​﻿‌‌​‍‌‌​﻿​‍​﻿​‍​‍‌‌​﻿‌‌‌​‌​​‍﻿‍‌﻿​﻿‌﻿‌‌‌‍​‍‌‍‍​‌‍‌‌‌‍​‌‌‍‌​‌‍‍‌‌‍﻿‍‌‍‌﻿​‍​‍‌﻿﻿‌
+og_description: Whether you're sending your first campaign or orchestrating engagement at global scale, Braze Platform Editions are designed to grow with you.​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌‍​‍‌﻿​‍‌‍​‌‌﻿‍‍‌‍‌‌​‍﻿‌‌‍‌​‌‍‌‌‌﻿‌‍​‍﻿‍‌‍​﻿‌‍﻿﻿‌‍﻿‌​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍​‌​﻿​﻿​﻿‌‍‌‍​﻿‌‍​‌​﻿​​​﻿​﻿​‍﻿‌​﻿‍‌​﻿​‌​﻿‌﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‌​﻿‌​​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌‌‌‍‌‌‌‍‌‍​‍﻿‌​﻿​‌​﻿‍‌‌‍​‍​﻿‍‌‌‍​﻿​﻿‌​​﻿​​​﻿‌‌‌‍​‌​﻿‌‍​﻿‍​​﻿‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌‍‌﻿‌‍‌‌​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍​‍‌‍﻿﻿‌‍‌​‌﻿‍‌​‍‌‌​﻿‌‌‌​​‍‌‌﻿﻿‌‍‍﻿‌‍‌‌‌﻿‍‌​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​‍​﻿​‍​﻿​​‌‍‌‌​﻿‌​​﻿‌﻿​﻿‌​​﻿​​​﻿‌‍‌‍‌​​﻿‌‌‌‍‌‍​﻿​﻿​﻿‌‌​‍‌‌​﻿​‍​﻿​‍​‍‌‌​﻿‌‌‌​‌​​‍﻿‍‌﻿​﻿‌﻿‌‌‌‍​‍‌‍‍​‌‍‌‌‌‍​‌‌‍‌​‌‍‍‌‌‍﻿‍‌‍‌﻿​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌‍​‍‌﻿​‍‌‍​‌‌﻿‍‍‌‍‌‌​‍﻿‌‌‍‌​‌‍‌‌‌﻿‌‍​‍﻿‍‌‍​﻿‌‍﻿﻿‌‍﻿‌​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍​‌​﻿​﻿​﻿‌‍‌‍​﻿‌‍​‌​﻿​​​﻿​﻿​‍﻿‌​﻿‍‌​﻿​‌​﻿‌﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‌​﻿‌​​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌‌‌‍‌‌‌‍‌‍​‍﻿‌​﻿​‌​﻿‍‌‌‍​‍​﻿‍‌‌‍​﻿​﻿‌​​﻿​​​﻿‌‌‌‍​‌​﻿‌‍​﻿‍​​﻿‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍​‌‌‍‌﻿‌‍‌‌​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍​‍‌‍﻿﻿‌‍‌​‌﻿‍‌​‍‌‌​﻿‌‌‌​​‍‌‌﻿﻿‌‍‍﻿‌‍‌‌‌﻿‍‌​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​﻿‌​‌​​‍‌‌​﻿​‍​﻿​‍​﻿​​‌‍‌‌​﻿‌​​﻿‌﻿​﻿‌​​﻿​​​﻿‌‍‌‍‌​​﻿‌‌‌‍‌‍​﻿​﻿​﻿‌‌​‍‌‌​﻿​‍​﻿​‍​‍‌‌​﻿‌‌‌​‌​​‍﻿‍‌﻿​﻿‌﻿‌‌‌‍​‍‌‍‍​‌‍‌‌‌‍​‌‌‍‌​‌‍‍‌‌‍﻿‍‌‍‌﻿​‍​‍‌﻿﻿‌
+og_site_name: 
+h1: Explore pricing and packaging options and get started with Braze
+h2: Platform Editions purpose-built for your stage | Features included in every tier | Fuel your reach with Action Credits | Frequently Asked Questions | Engage every customer
+jsonld_org: []
+--- TEXT ---
 Explore pricing and packaging options at Braze 
  
  

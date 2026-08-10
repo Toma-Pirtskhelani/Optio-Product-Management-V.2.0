@@ -1,4 +1,13 @@
 ===== llms.txt :: https://iterable.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
 # Iterable - AI Customer Engagement Platform
 > Iterable is an American software company that develops an AI-powered customer engagement platform. Founded in 2013 and headquartered in San Francisco, California, Iterable provides technology that enables organizations to unify customer data and orchestrate personalized marketing campaigns across email, mobile push, SMS, in-app messaging, and web. The platform's Nova Intelligence layer applies agentic AI to prediction, decisioning, and campaign optimization. Iterable serves organizations across consumer applications and services, fintech, online marketplaces, retail and ecommerce industries, news and publishing, sports entertainment, and broadcast media and streaming. Iterable competes in the customer engagement platform market alongside brands such as Braze, MoEngage, Salesforce Marketing Cloud, and Klaviyo.
 ## Company Facts
@@ -106,6 +115,15 @@ Q: What communication channels does Iterable support?
 A
 
 ===== homepage :: https://iterable.com/
+--- SIGNALS ---
+title: AI Customer Engagement Platform for Real-Time, Personalized Experiences
+meta_description: Iterable is an AI customer engagement platform built for how customers behave today, helping brands respond in real time with unified data and optimization.
+og_description: Iterable is an AI customer engagement platform built for how customers behave today, helping brands respond in real time with unified data and optimization.
+og_site_name: Iterable
+h1: Most platforms react. Iterable adapts intelligently and in real time.
+h2: For brands that want to set the standard. | Built to drive measurable growth. | See Iterable in action. | CONNECT WITH US
+jsonld_org: [{"@type": "Organization", "@id": "https://iterable.com/#organization", "name": "Iterable", "url": "https://iterable.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://iterable.com/#/schema/logo/image/", "url": "https://iterable.com/wp-content/uploads/2026/04/iterable-logo-light.svg", "contentUrl": "https://iterable.com/wp-content/uploads/2026/04/iterable-logo-light.svg", "caption": "Iterable"}, "image": {"@id": "https://iterable.com/#/schema/logo/image/"}}]
+--- TEXT ---
 AI Customer Engagement Platform for Real-Time, Personalized Experiences
  
  
@@ -686,6 +704,15 @@ Terms
 Your Privacy Choices
 
 ===== product :: https://iterable.com/product/
+--- SIGNALS ---
+title: Iterable Platform Overview: AI Customer Engagement Platform
+meta_description: Stop letting data sit idle. See how Iterable's AI customer engagement platform turns real-time signals into personalized experiences that drive growth.
+og_description: Stop letting data sit idle. See how Iterable's AI customer engagement platform turns real-time signals into personalized experiences that drive growth.
+og_site_name: Iterable
+h1: The AI customer engagement platform built for real-time relevance.
+h2: Expectations are rising. The reliability of proven strategies is falling. | A unified system for global relevance. | Built for campaigns that move at the speed of your business. | Turn your entire stack into an engagement engine. | The new standard for enterprise engagement. | The modern framework for AI engagement. | CONNECT WITH US
+jsonld_org: [{"@type": "Organization", "@id": "https://iterable.com/#organization", "name": "Iterable", "url": "https://iterable.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://iterable.com/#/schema/logo/image/", "url": "https://iterable.com/wp-content/uploads/2026/04/iterable-logo-light.svg", "contentUrl": "https://iterable.com/wp-content/uploads/2026/04/iterable-logo-light.svg", "caption": "Iterable"}, "image": {"@id": "https://iterable.com/#/schema/logo/image/"}}]
+--- TEXT ---
 Iterable Platform Overview: AI Customer Engagement Platform
  
  

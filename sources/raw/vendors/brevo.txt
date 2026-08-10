@@ -1,4 +1,13 @@
 ===== homepage :: https://www.brevo.com/
+--- SIGNALS ---
+title: Brevo: Email & SMS Marketing, CRM & Automation Platform
+meta_description: Brevo is the most intuitive all-in-one customer engagement platform: email and SMS marketing, automation, CRM, live chat, and transactional email. Try it free.
+og_description: Brevo is the most intuitive all-in-one customer engagement platform: email and SMS marketing, automation, CRM, live chat, and transactional email. Try it free.
+og_site_name: 
+h1: Turn Every EmailSMSOrderInteractioninto a Lifetime Customer
+h2: Join 600,000+ customers around the world who trust Brevo | Engage your audience your way | AI agents that work with you, and for you | Built for every business — from the first send to enterprise | Awarded for excellence | Real stories, real success | Ready to grow with Brevo? | Brevo connects to the tools you already use
+jsonld_org: [{"@type": "Organization", "@id": "https://www.brevo.com/#organization", "name": "Brevo", "url": "https://www.brevo.com/", "logo": {"@type": "ImageObject", "@id": "https://www.brevo.com/#logo", "url": "https://corp-backend.brevo.com/wp-content/uploads/2025/07/Brevo_logo.svg"}, "sameAs": ["https://www.linkedin.com/company/brevo/", "https://x.com/brevo_official", "https://www.instagram.com/brevo/", "https://www.youtube.com/@brevo_official", "https://www.facebook.com/brevo.official"], "address": {"@type": "PostalAddress", "streetAddress": "823 Congress Avenue Suite 300", "addressLocality": "Austin", "postalCode": "TX 78701", "addressCountry": "United States"}, "hasCredential": {"@type": "EducationalOccupationalCredential", "credentialCategory": "certification", "name": "B Corp Certification", "image": {"@type": "ImageObject", "url": "https://corp-backend.brevo.com/wp-content/uploads/2025/03/bcorp-1024x456-1.webp"}}}]
+--- TEXT ---
 Brevo: Email & SMS Marketing, CRM & Automation Platform
  
  
@@ -238,6 +247,15 @@ Brevo runs alongside more than 150 leading digital tools, from CRM to CMS, ecomm
 See integrations
 
 ===== product :: https://www.brevo.com/features/
+--- SIGNALS ---
+title: Explore our features | Brevo
+meta_description: Brevo helps you grow your business. Connect with customers, run campaigns, and get results. No matter your goals, Brevo has all the tools you need.
+og_description: Brevo helps you grow your business. Connect with customers, run campaigns, and get results. No matter your goals, Brevo has all the tools you need.
+og_site_name: 
+h1: Explore all features
+h2: Ready to get started? | Ready to get started? | One platform, endless ways to grow
+jsonld_org: [{"@type": "Organization", "@id": "https://www.brevo.com/#organization", "name": "Brevo", "url": "https://www.brevo.com/", "logo": {"@type": "ImageObject", "@id": "https://www.brevo.com/#logo", "url": "https://corp-backend.brevo.com/wp-content/uploads/2025/07/Brevo_logo.svg"}, "sameAs": ["https://www.linkedin.com/company/brevo/", "https://x.com/brevo_official", "https://www.instagram.com/brevo/", "https://www.youtube.com/@brevo_official", "https://www.facebook.com/brevo.official"], "address": {"@type": "PostalAddress", "streetAddress": "823 Congress Avenue Suite 300", "addressLocality": "Austin", "postalCode": "TX 78701", "addressCountry": "United States"}, "hasCredential": {"@type": "EducationalOccupationalCredential", "credentialCategory": "certification", "name": "B Corp Certification", "image": {"@type": "ImageObject", "url": "https://corp-backend.brevo.com/wp-content/uploads/2025/03/bcorp-1024x456-1.webp"}}}]
+--- TEXT ---
 Explore our features | Brevo
  
  
@@ -460,6 +478,11 @@ Find out more
  
  
  
+ 
+ 
+ 
+ 
+ 
 PRODUCT
 Email marketing
 Transactional email
@@ -517,6 +540,15 @@ Responsible Disclosure
 © Brevo 2026. All rights reserved
 
 ===== pricing_or_trust :: https://www.brevo.com/pricing/
+--- SIGNALS ---
+title: Pricing Plans | Brevo
+meta_description: Discover Brevo's pricing plans for marketing, sales, and transactional emails. Brevo has the tools you need to grow your business.
+og_description: Discover Brevo's pricing plans for marketing, sales, and transactional emails. Brevo has the tools you need to grow your business.
+og_site_name: 
+h1: 
+h2: Free forever, no credit card needed | Join 600,000+ customers around the world who trust Brevo | Awarded for excellence | Loved by users everywhere | Don’t see your question answered here? | Frequently asked questions
+jsonld_org: [{"@type": "Organization", "@id": "https://www.brevo.com/#organization", "name": "Brevo", "url": "https://www.brevo.com/", "logo": {"@type": "ImageObject", "@id": "https://www.brevo.com/#logo", "url": "https://corp-backend.brevo.com/wp-content/uploads/2025/07/Brevo_logo.svg"}, "sameAs": ["https://www.linkedin.com/company/brevo/", "https://x.com/brevo_official", "https://www.instagram.com/brevo/", "https://www.youtube.com/@brevo_official", "https://www.facebook.com/brevo.official"], "address": {"@type": "PostalAddress", "streetAddress": "823 Congress Avenue Suite 300", "addressLocality": "Austin", "postalCode": "TX 78701", "addressCountry": "United States"}, "hasCredential": {"@type": "EducationalOccupationalCredential", "credentialCategory": "certification", "name": "B Corp Certification", "image": {"@type": "ImageObject", "url": "https://corp-backend.brevo.com/wp-content/uploads/2025/03/bcorp-1024x456-1.webp"}}}]
+--- TEXT ---
 Pricing Plans | Brevo 
  
  
@@ -591,8 +623,7 @@ See all features
  
 Monthly
 Yearly (-10%)
-Loading content...
-‌
+ 
 Starter
 Best for single users starting with email and multi-channel marketing.
 ‌
@@ -602,13 +633,37 @@ Features included in Starter:
  
 From 5,000 emails per month
  
+Email & SMS
  
+Send email & transactional messages. SMS credit sold separately.
  
+Drag & Drop email editor
  
+Craft polished emails fast—just drag, drop, and send.
  
+Email templates
  
+Jumpstart campaigns with responsive templates tailored to your industry and use case.
  
+AI content generator
  
+Draft subject lines and email copy, adjust tone, and more.
+ 
+Advanced segmentation
+ 
+Search, save, and manage contacts with filters like demographics, website activity, campaign engagement, and custom events. Create as many segments as you need.
+ 
+Forms
+ 
+Create branded forms to capture leads and grow your list. Automatically trigger follow-up emails as soon as someone signs up.
+ 
+Basic reporting & analytics
+ 
+Track opens and clicks to measure campaign performance.
+ 
+Email support
+ 
+Get help via email from our customer care team. Support available in 6 languages. 
  
 No Brevo logo
  per month
@@ -626,14 +681,35 @@ Sign up
  
 Everything in Starter, plus:
  
+Marketing automation
  
+Create an unlimited number of automated, multi-step workflows to engage users at key moments along their journey.
  
+A/B testing
+ 
+Test subject lines or content variants to improve opens and clicks.
+ 
+Advanced email reporting
+ 
+See where and how contacts engage to optimize future campaigns.
 Click heatmaps, geography & device reports
  
+AI send time optimization
  
+Automatically send emails when each contact is most likely to engage.
  
+Web & event tracking
+ 
+Track on‑site behavior and custom events to trigger messages and segment with precision. 
+ 
+Landing pages
+ 
+Create standalone campaign pages without a developer. 
 1 page included
  
+No Brevo logo
+ 
+Remove the “Sent with Brevo” footer to keep emails strictly professional. 
  
 Sales Essentials
  
@@ -657,11 +733,29 @@ WhatsApp, Popups, Mobile & Web Push
 Multi-user access
 10 seats included
  
+Contact scoring
  
+Get contact scores based on engagement, purchases, and behaviors to trigger automations or create targeted segments. Includes RFM, CLV and more.
  
+Advanced ecommerce features
  
+Drive sales with AI recommendations, back-in-stock alerts, and coupons.
  
+AI segmentation
  
+Let Aura AI suggest audience groups based on behavior and attributes to accelerate targeting.
+ 
+AI Data Analyst
+ 
+Ask plain‑language questions and get instant answers from your data with Aura AI.
+ 
+Phone support
+ 
+Speak directly with our team when you need faster resolution.
+ 
+Deliverability Specialist support
+ 
+Work with a specialist to improve email deliverability and inbox placement. 3 hours per year included.
  
 Sales Advanced 
  
@@ -675,14 +769,41 @@ Talk to sales
  
 Everything in Professional, plus:
  
+Multi-account management
  
+Manage multiple business units & brands under one master account. 
  
+Custom objects
  
+Import all your unique data—like subscription dates or store locations—and use it to create more personalized customer journeys.
  
+Brevo Mobile Wallet
  
+Digitize loyalty cards, vouchers, tickets, and more—then send mobile wallet notifications to drive repeat sales and visits.
  
+Custom loyalty engine
  
+Create and manage a fully integrated loyalty program with customizable points, tiers, and rewards—natively connected to your customer data to boost retention and LTV.
  
+Custom data integrations 
+ 
+Sync customer data across your warehouse, POS, ERP, and other systems with Brevo via direct connectors or secure SFTP — ensuring accurate, up-to-date information everywhere.
+ 
+Dedicated IP
+ 
+Maintain full control of your sending reputation with a dedicated IP.
+ 
+SSO & SAML
+ 
+Secure, enterprise‑grade single sign‑on for centralized access management.
+ 
+Tailored onboarding
+ 
+Receive personalized setup support, hands-on training, integration assistance, and strategic guidance to launch faster.
+ 
+CSM support
+ 
+Recurring strategic support to build campaigns, analyze performance, and reach your goals (limited time).
  
 Sales Advanced
  
@@ -695,9 +816,21 @@ Awarded for excellence
 Loved by users everywhere
 2500+ reviews
  
+ 
+ 
+ 
+ 
 3300+ reviews
  
+ 
+ 
+ 
+ 
 150+ reviews
+ 
+ 
+ 
+ 
  
  
 Don’t see your question answered here?
@@ -766,152 +899,6 @@ Terms of service
 Legal notice
 Responsible Disclosure
 © Brevo 2026. All rights reserved
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Email & SMS
- 
-Send email & transactional messages. SMS credit sold separately.
- 
-Drag & Drop email editor
- 
-Craft polished emails fast—just drag, drop, and send.
- 
-Email templates
- 
-Jumpstart campaigns with responsive templates tailored to your industry and use case.
- 
-AI content generator
- 
-Draft subject lines and email copy, adjust tone, and more.
- 
-Advanced segmentation
- 
-Search, save, and manage contacts with filters like demographics, website activity, campaign engagement, and custom events. Create as many segments as you need.
- 
-Forms
- 
-Create branded forms to capture leads and grow your list. Automatically trigger follow-up emails as soon as someone signs up.
- 
-Basic reporting & analytics
- 
-Track opens and clicks to measure campaign performance.
- 
-Email support
- 
-Get help via email from our customer care team. Support available in 6 languages. 
- 
-Marketing automation
- 
-Create an unlimited number of automated, multi-step workflows to engage users at key moments along their journey.
- 
-A/B testing
- 
-Test subject lines or content variants to improve opens and clicks.
- 
-Advanced email reporting
- 
-See where and how contacts engage to optimize future campaigns.
- 
-AI send time optimization
- 
-Automatically send emails when each contact is most likely to engage.
- 
-Web & event tracking
- 
-Track on‑site behavior and custom events to trigger messages and segment with precision. 
- 
-Landing pages
- 
-Create standalone campaign pages without a developer. 
- 
-No Brevo logo
- 
-Remove the “Sent with Brevo” footer to keep emails strictly professional. 
- 
-Contact scoring
- 
-Get contact scores based on engagement, purchases, and behaviors to trigger automations or create targeted segments. Includes RFM, CLV and more.
- 
-Advanced ecommerce features
- 
-Drive sales with AI recommendations, back-in-stock alerts, and coupons.
- 
-AI segmentation
- 
-Let Aura AI suggest audience groups based on behavior and attributes to accelerate targeting.
- 
-AI Data Analyst
- 
-Ask plain‑language questions and get instant answers from your data with Aura AI.
- 
-Phone support
- 
-Speak directly with our team when you need faster resolution.
- 
-Deliverability Specialist support
- 
-Work with a specialist to improve email deliverability and inbox placement. 3 hours per year included.
- 
-Multi-account management
- 
-Manage multiple business units & brands under one master account. 
- 
-Custom objects
- 
-Import all your unique data—like subscription dates or store locations—and use it to create more personalized customer journeys.
- 
-Brevo Mobile Wallet
- 
-Digitize loyalty cards, vouchers, tickets, and more—then send mobile wallet notifications to drive repeat sales and visits.
- 
-Custom loyalty engine
- 
-Create and manage a fully integrated loyalty program with customizable points, tiers, and rewards—natively connected to your customer data to boost retention and LTV.
- 
-Custom data integrations 
- 
-Sync customer data across your warehouse, POS, ERP, and other systems with Brevo via direct connectors or secure SFTP — ensuring accurate, up-to-date information everywhere.
- 
-Dedicated IP
- 
-Maintain full control of your sending reputation with a dedicated IP.
- 
-SSO & SAML
- 
-Secure, enterprise‑grade single sign‑on for centralized access management.
- 
-Tailored onboarding
- 
-Receive personalized setup support, hands-on training, integration assistance, and strategic guidance to launch faster.
- 
-CSM support
- 
-Recurring strategic support to build campaigns, analyze performance, and reach your goals (limited time).
  
  
 Frequently asked questions

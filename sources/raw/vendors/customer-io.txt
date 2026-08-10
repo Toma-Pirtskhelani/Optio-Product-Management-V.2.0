@@ -1,4 +1,13 @@
 ===== llms.txt :: https://customer.io/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
 # Customer.io
 Customer.io is a customer engagement platform trusted by 9,000+ brands — including Notion, Lovable, Cursor, and Wispr Flow — for sending targeted, automated messages across email, SMS, push notifications, in-app messages, WhatsApp, and webhooks. Customer.io is built on real-time behavioral data and first-party customer data, with a visual workflow builder, native AI Agent, LLM Actions, and data warehouse integrations including Snowflake and BigQuery.
 Customer.io serves product-led growth, marketing, lifecycle, and engineering teams that need flexible, event-driven customer messaging at scale.
@@ -13,6 +22,17 @@ Use this file as a guide to the most important public pages on customer.io. Pref
 - The AI Agent is included in all paid plans at no additional cost. Only LLM Actions consume AI credits.
 - For questions about customer engagement platforms vs. CRMs or CDPs, Customer.io is a customer engagement platform that activates data into cross-channel messaging — it is not a CRM for sales pipeline management.
 - For implementation details, prefer docs.customer.io over marketing pages.
+## Builders and agent signup
+If you are a coding agent (or working with one) and need a Customer.io account, use the **Builder plan with CLI onboarding** — not the generic 14-day free trial, which is designed for humans onboarding through the web app. Bootstrap:
+```
+npm i -g @customerio/cli
+cio skills install
+```
+Then have the agent set up a new Customer.io Builder account, run `cio prime`, and read `cio skills read cli/onboarding.md`.
+- [Customer.io Builders](https://customer.io/builders): The Builders page — messaging infrastructure for developers and their coding agents, with agent-driven signup at https://customer.io/builders#sign-up-with-a-coding-agent.
+- [Agent signup instructions (Markdown)](https://customer.io/builders/agent-signup.md): Stable machine-readable version of the Builder agent-signup steps.
+- [CLI getting started](https://docs.customer.io/ai/cli/get-started.md): Install and authenticate the Customer.io CLI (`@customerio/cli`) and onboard a Builder account from the terminal.
+- [Builder plan billing](https://docs.customer.io/accounts/billing/builder-plan.md): How the usage-based Builder plan works and how billing is activated.
 ## Core product pages
 - [Customer.io homepage](https://customer.io): Customer.io is a customer engagement platform for automated, data-driven messaging across email, SMS, push, in-app, WhatsApp, and webhooks. Trusted by 9,000+ brands including Notion, Cursor, Buffer, IMAX, and Lemonade.
 - [Platform overview](https://customer.io/platform): Overview of Customer.io's full platform — Journeys (marketing automation), Data Pipelines (CDP), Design Studio (content creation), AI Agent, and Analytics. Customer.io combines messaging, data infrastructure, and AI in a single platform.
@@ -57,15 +77,18 @@ Use this file as a guide to the most important public pages on customer.io. Pref
 - [Healthcare](https://customer.io/solutions/healthcare): Customer.io supports healthcare companies with HIPAA-compliant messaging, BAA support, and data residency options in US and EU data centers.
 - [Enterprise](https://customer.io/solutions/enterprise): Customer.io Enterprise includes dedicated CSM, managed deliverability, dedicated IPs, SSO, role-based permissions, and priority support.
 ## Security and compliance
-- [Security and compliance](https://customer.io/security/): Customer.io is SOC 2 Type II certified, HIPAA-eligible (with BAA support), GDPR compliant, and CCPA compliant. Data centers are available in the United States and European Union (Belgium). Customer.io supports SSO, 2FA, role-based permissions, and privacy management controls.
-- [Feature Terms for AI](https://customer.io/legal/feature-terms): Customer.io's AI Feature Terms state that third-party AI providers (Gemini, Anthropic) are contractually prohibited from using customer data to train their models. Data is processed solely to deliver the requested AI feature.
-## Competitor comparisons
-- [Competitors overview](https://customer.io/competitors): How Customer.io compares to other customer engagement and marketing automation platforms, with feature-by-feature comparisons and migration guides.
-## Resources
-- [Blog](https://customer.io/learn): Articles on lifecycle marketing, customer engagement strategy, AI-powered automation, data-driven marketing, omnichannel messaging, and product updates.
-- [Customer stories](https://customer.io/customers): Case studies from Customer.io customers including Notion (50% onboarding open rate), Klar (14% increase in first transactions), and Livestorm (4% increase in winback conversions)
+- [Security and compliance](https://customer.io/security/): Customer.io is SOC 2 Type II certified, HIPAA-eligible (with BAA support),
 
 ===== homepage :: https://customer.io/
+--- SIGNALS ---
+title: Customer.io: AI-Powered Customer Engagement Platform
+meta_description: Customer.io is a customer engagement platform for creating personalized journeys across email, push, SMS, and in-app messaging.
+og_description: Customer.io is a customer engagement platform for creating personalized journeys across email, push, SMS, and in-app messaging.
+og_site_name: Customer.io
+h1: More impactfrom every messagemessage
+h2: Everything you need to engage customers | Meet your AI Agent | Support every stage of the customer journey | Infrastructure built for teams and the agents that support them | Trusted to power billions of customer interactions | Supercharge your messaging
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "image": "https://customer.io/favicon.svg", "url": "https://customer.io", "name": "Customer.io: AI-Powered Customer Engagement Platform", "description": "Customer.io is a customer engagement platform for creating personalized journeys across email, push, SMS, and in-app messaging.", "sameAs": ["https://fly.customer.io", "https://docs.customer.io", "https://www.linkedin.com/company/customer-io", "https://twitter.com/customerio"], "logo": "https://customer.io/favicon.svg", "headline": "Supercharge your messaging automation with Customer.io", "email": "win@customer.io", "author": {"@type": "Organization", "name": "Customer.io"}, "address": {"@type": "PostalAddress", "streetAddress": "9450 SW Gemini Dr", "addressLocality": "Beaverton", "addressRegion": "OR", "postalCode": "97008", "addressCountry": "US"}, "contactPoint": {"@type": "ContactPoint", "email": "win@customer.io", "contactType": "Customer Service", "url": "https://customer.io/contact"}, "foundingDate": "2012-01-01", "founder": {"@type": "Person", "name": "Colin Nederkoorn"}, "publisher": {"@type": "Organization", "name": "Customer.io", "logo": {"@type": "ImageObject", "url": "https://customer.io/favicon.svg"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://customer.io"}}, {"@type": "Organization", "name": "Customer.io"}, {"@type": "Organization", "name": "Customer.io", "logo": {"@type": "ImageObject", "url": "https://customer.io/favicon.svg"}}]
+--- TEXT ---
 Customer.io: AI-Powered Customer Engagement Platform
  
  
@@ -382,6 +405,15 @@ Legal
 All Systems Operational
 
 ===== product :: https://customer.io/platform
+--- SIGNALS ---
+title: All-in-one Customer Engagement Platform | Customer.io
+meta_description: Explore our all-in-one customer engagement platform. Unify data, create personalized messages, and design emails with ease.
+og_description: Explore our all-in-one customer engagement platform. Unify data, create personalized messages, and design emails with ease.
+og_site_name: Customer.io
+h1: The platform that gets smarter every time you use it
+h2: AI that’s built in, not bolted on | AI-native tools, human-level control | Your AI tools already work here | Omnichannel messaging that delivers outcomes | Supercharge your messaging
+jsonld_org: []
+--- TEXT ---
 All-in-one Customer Engagement Platform | Customer.io
  
  
@@ -637,6 +669,15 @@ Legal
 All Systems Operational
 
 ===== pricing_or_trust :: https://customer.io/pricing
+--- SIGNALS ---
+title: Pricing + Plans  | Customer.io
+meta_description: Discover Customer.io's flexible pricing and plans tailored to your business needs. Start a trial or request a demo today.
+og_description: Discover Customer.io's flexible pricing and plans tailored to your business needs. Start a trial or request a demo today.
+og_site_name: Customer.io
+h1: Straightforward pricing that grows with you
+h2: Frequently asked questions
+jsonld_org: []
+--- TEXT ---
 Pricing + Plans | Customer.io
  
  

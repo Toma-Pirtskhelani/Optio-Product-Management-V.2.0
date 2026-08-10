@@ -1,4 +1,13 @@
 ===== llms.txt :: https://netmera.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
 ## netmera.com
 Netmera is an AI-powered customer data and engagement platform. It gives marketing, CX, and product teams the tools to collect customer data, run personalized campaigns across every digital channel, and measure the results, without routing every task through IT. 
 The platform combines three capabilities that are often handled by separate tools: 1) Customer data ingestion and collection 2) Omnichannel campaign execution 3) Analytics and reporting
@@ -46,6 +55,15 @@ For structured, machine-readable information about Netmera's platform, capabilit
 https://netmera.com/page-sitemap.xml
 
 ===== homepage :: https://netmera.com/
+--- SIGNALS ---
+title: AI-powered Customer Engagement Platform
+meta_description: Netmera helps marketing, CX, and product teams reduce churn, grow revenue, and personalize every interaction across mobile, web, push, SMS, and WhatsApp.
+og_description: Netmera is an AI-powered Customer Engagement Platform that helps marketing, CX, and product teams reduce churn, grow revenue, and personalize every interaction across mobile, web, push, SMS, and WhatsApp.
+og_site_name: Netmera - Mobile First Growth Platform
+h1: Customer Data & Engagement Platform
+h2: Reach every customer with AI that never slows down | Proven. Tested. Trusted. | Overall Score | Everything your team needs for engagement & growth. In one place. | Data Management | Analytics | Journeys | Segmentation | Personalization | Omnichannel Messaging | AI | CTR increase | Growth Metric | bounce rate reduction | Efficiency | loan utilization rate | Performance | The only AI built to obsess over your customers 24/7. | Be present in every meaningful moment | Mobile Push | Email | SMS | WhatsApp | In-App Messages | Live Activities | Web Messaging | AI Site Search & Browse | Stories behind successful customer experiences | 30+ Billion Notifications. Zero Failures. | Designed to connect
+jsonld_org: [{"@type": "Organization", "@id": "https://netmera.com/#organization", "name": "Netmera", "url": "https://netmera.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://netmera.com/#/schema/logo/image/", "url": "https://netmera.com/wp-content/uploads/2022/07/IMG-20220701-WA0007.jpg", "contentUrl": "https://netmera.com/wp-content/uploads/2022/07/IMG-20220701-WA0007.jpg", "width": 2048, "height": 2048, "caption": "Netmera"}, "image": {"@id": "https://netmera.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/Netmera/", "https://x.com/netmera", "https://www.linkedin.com/company/netmera/"]}]
+--- TEXT ---
 AI-powered Customer Engagement Platform
  
  
@@ -2527,6 +2545,15 @@ What we considered as criteria: native channels, a built-in CDP, and analytics t
 
 
 ===== product :: https://netmera.com/customer-data-platform/
+--- SIGNALS ---
+title: Customer Data Platform
+meta_description: Netmera CDP collects and unifies customer data, enabling real-time analytics, segmentation, and personalized campaigns to boost engagement.
+og_description: Netmera CDP collects and unifies customer data, enabling real-time analytics, segmentation, and personalized campaigns to boost engagement.
+og_site_name: Netmera - Mobile First Growth Platform
+h1: Advanced Customer Data Platform
+h2: What is CDP (Customer Data Platform)? | Customer Data Enrichment | Secure Data Integration & Data Storage | Unified Customer Profile | Real-Time Customer Data Analytics & Insights | Segmentation and Targeting | Privacy and Compliance | Automated or Bulk Campaign Messaging | Create Unified Customer Profiles With Leveraging Data From Online and Offline Touchpoints | Unified Profiles for Enhanced Personalization and Targeted Interactions | Leverage Real-Time Data for Automated User Segmentation | Transform Your Marketing Campaigns with Seamless User Creation and Personalization | Resources | Automatic data capture: skip the ticket queue, launch campaigns same day | CDP vs engagement platform: A breakdown of combined capabilities | Netmera is awarded the Best Marketing Automation Technology by MarTech Awards
+jsonld_org: [{"@type": "Organization", "@id": "https://netmera.com/#organization", "name": "Netmera", "url": "https://netmera.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://netmera.com/#/schema/logo/image/", "url": "https://netmera.com/wp-content/uploads/2022/07/IMG-20220701-WA0007.jpg", "contentUrl": "https://netmera.com/wp-content/uploads/2022/07/IMG-20220701-WA0007.jpg", "width": 2048, "height": 2048, "caption": "Netmera"}, "image": {"@id": "https://netmera.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/Netmera/", "https://x.com/netmera", "https://www.linkedin.com/company/netmera/"]}]
+--- TEXT ---
 Customer Data Platform
  
  

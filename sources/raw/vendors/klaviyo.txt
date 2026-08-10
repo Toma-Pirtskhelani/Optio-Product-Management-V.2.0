@@ -1,4 +1,13 @@
 ===== llms.txt :: https://www.klaviyo.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
 # Klaviyo – AI Content Guidance File
 > Klaviyo is a B2C CRM platform for email, SMS, WhatsApp, marketing automation, customer data, and analytics. This file points LLMs to the most reliable Klaviyo pages for product info, pricing, developer documentation, support content, and legal/trust details.
 Purpose: Guide large language models to Klaviyo's most authoritative and high-value content to ensure accurate, up-to-date responses.
@@ -71,6 +80,15 @@ Freshness Warning: The following topics change frequently and should be verified
 - [SG](https://www.klaviyo.com/sg/)
 
 ===== homepage :: https://www.klaviyo.com/uk/
+--- SIGNALS ---
+title: Klaviyo: AI Marketing Platform & B2C CRM | Email, SMS, WhatsApp
+meta_description: Klaviyo unifies AI-powered email marketing and SMS to drive growth, retention, and measurable results. Build personalised, omnichannel experiences across WhatsApp, ecommerce, and more with K:AI Agents.
+og_description: 
+og_site_name: Klaviyo UK
+h1: 
+h2: The AI marketing and service platform for ambitious consumer brands | Agents built for unstoppable growth | Your data, intelligence, and AI agents working as one | Fueling growth for brands that don’t settle | 350+ pre-built integrations | Join the 205,000+ customers growing with Klaviyo | Frequently asked questions
+jsonld_org: [{"@type": "Organization", "@id": "https://www.klaviyo.com/#organization", "name": "Klaviyo, Inc.", "legalName": "Klaviyo, Inc.", "url": "https://www.klaviyo.com/", "foundingDate": "2012", "founders": [{"@type": "Person", "name": "Andrew Bialecki"}, {"@type": "Person", "name": "Ed Hallen"}], "address": [{"@type": "PostalAddress", "streetAddress": "125 Summer St", "addressLocality": "Boston", "addressRegion": "MA", "postalCode": "02110", "addressCountry": "US"}, {"@type": "PostalAddress", "name": "Klaviyo - London Office", "streetAddress": "The Hallmark Building, 106 Fenchurch Street, 5th Floor", "addressLocality": "London", "postalCode": "EC3M 5JD", "addressCountry": "GB"}], "logo": {"@id": "https://www.klaviyo.com/#logo"}, "sameAs": ["https://www.linkedin.com/company/klaviyo/", "https://twitter.com/klaviyo", "https://www.facebook.com/klaviyo/", "https://www.instagram.com/klaviyo/", "https://www.youtube.com/channel/UCLLurTBYufj95_5zTnJISnA"], "contactPoint": [{"@type": "ContactPoint", "contactType": "sales", "email": "sales@klaviyo.com", "availableLanguage": ["en-GB", "en"]}, {"@type": "ContactPoint", "contactType": "media relations", "email": "press@klaviyo.com", "availableLanguage": ["en-GB", "en"]}, {"@type": "ContactPoint", "contactType": "partnerships", "email": "partners@klaviyo.com", "availableLanguage": ["en-GB", "en"]}, {"@type": "ContactPoint", "contactType": "security", "email": "security@klaviyo.com", "availableLanguage": ["en-GB", "en"]}]}]
+--- TEXT ---
 Klaviyo: AI Marketing Platform & B2C CRM | Email, SMS, WhatsApp
  
  
@@ -1125,6 +1143,15 @@ enterprise brands
 , Klaviyo is the unified B2C CRM built to replace fragmented legacy stacks — consolidating data, execution, and analytics into one secure, scalable platform. Unlike rigid suites that require constant developer intervention and data syncing, Klaviyo gives marketing teams th
 
 ===== product :: https://www.klaviyo.com/uk/platform
+--- SIGNALS ---
+title: B2C CRM Platform: Customer Interaction Management at Scale - Klaviyo UK
+meta_description: Klaviyo is the first CRM built for B2C businesses to create scalable customer relationships and drive revenue with data and insights at each stage of the journey.
+og_description: 
+og_site_name: Klaviyo UK
+h1: The AI-first B2C CRM built for you | The B2C CRM for relationship-driven brands
+h2: B2C CRM | B2C CRM | What is B2C CRM? | Meet K:AI, AI that does the work | Klaviyo Marketing | Klaviyo Service | Klaviyo Analytics | Klaviyo Data Platform | Learn more about B2C CRM | B2C CRM FAQs
+jsonld_org: []
+--- TEXT ---
 B2C CRM Platform: Customer Interaction Management at Scale - Klaviyo UK
  
  
@@ -1637,6 +1664,15 @@ Klaviyo AI
 Klavi
 
 ===== pricing_or_trust :: https://www.klaviyo.com/uk/pricing
+--- SIGNALS ---
+title: Klaviyo Pricing - Klaviyo UK
+meta_description: Explore Klaviyo pricing and start free. Get email marketing sends, text message credits, Customer Hub, and reporting—all in one platform.
+og_description: 
+og_site_name: Klaviyo UK
+h1: Klaviyo pricing: Start with a free plan
+h2: Platform | Free plan highlights | Get to know the Klaviyo platform | Marketing | Analytics + Data | Service | Support | Start growing your business | Frequently asked questions
+jsonld_org: []
+--- TEXT ---
 Klaviyo Pricing - Klaviyo UK
  
  

@@ -1,4 +1,13 @@
 ===== llms.txt :: https://www.salesforce.com/llms.txt?bc=OTH
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
 - [AI Agent Course: Free Online Training](https://www.salesforce.com/agentforce/ai-agent-course/): Explore AI agent courses designed to enhance your skills in artificial intelligence and machine learning. Start learning with free online training today.
 - [What Is Agentic Architecture?](https://www.salesforce.com/agentforce/agentic-architecture/): Explore the capabilities and benefits of agentic RAG, a next-generation AI model that enhances content generation with autonomous, adaptable AI agents.
 - [AgentExchange - AI Agent Marketplace](https://www.salesforce.com/agentforce/agentexchange/): AgentExchange is a marketplace designed to empower businesses to harness the power of agentic AI. Try it today!
@@ -62,6 +71,15 @@
 - [Human-AI Collaboration: The Futur
 
 ===== homepage :: https://www.salesforce.com/?bc=OTH
+--- SIGNALS ---
+title: Salesforce: The #1 Agentic AI CRM | Salesforce
+meta_description: Salesforce is the #1 AI CRM, helping companies become Agentic Enterprises where humans and agents drive success together through a unified AI, data, and Customer 360 platform.
+og_description: Salesforce is the #1 AI CRM, helping companies become Agentic Enterprises where humans and agents drive success together through a unified AI, data, and Customer 360 platform.
+og_site_name: Salesforce
+h1: Get started with the #1 Agentic CRM
+h2: Products | Agentforce | Sales | Service | Marketing | Commerce | Analytics | Slack | Small Business | Data | Headless 360 platform | Net Zero | Customer Success | Partners and AgentExchange | Pricing | Industries | Automotive | Communications | Engineering, Construction & Real Estate | Consumer Goods | Education | Energy & Utilities | Financial Services | Healthcare | Life Sciences | Manufacturing | Media | Nonprofit | Professional Services | Public Sector
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Salesforce", "url": "https://www.salesforce.com/", "address": {"@type": "PostalAddress", "streetAddress": "415 Mission Street", "name": "Salesforce Tower", "addressLocality": "San Francisco", "addressRegion": "CA", "postalCode": "94105", "addressCountry": "US"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.salesforce.com/#WebPage", "url": "https://www.salesforce.com/", "description": "Salesforce is the #1 AI CRM, helping companies become Agentic Enterprises where humans and agents drive success together through a unified AI, data, and Customer 360 platform.", "datePublished": "2022-12-05", "dateModified": "2026-08-07", "primaryImageOfPage": {"@type": "ImageObject", "url": "https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2022/11/salesforce-logo.jpg"}}, "logo": {"@type": "ImageObject", "url": "https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2022/11/salesforce-logo.jpg"}, "makesOffer": [{"@type": "Offer", "name": "Get started", "url": "https://iis.digital.salesforce.com/services/auth/login?client_id=BbJrTZE7ZEre8FIZJt1gWkJ8x5ps6wNWheOWdV1qKsaM6rlrygniAO2KQp0yZiwi0YebkVaRnS3fvJvY1nqKH&amp;offerId=free-trial-00005820&amp;offerType=free-trial&amp;locale=EN_US&amp;offerStatus=PUBLISHED", "price": "0", "priceCurrency": "USD", "availability": "https://schema.org/InStock", "category": "Free Trial"}], "subjectOf": {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name":
+--- TEXT ---
 Salesforce: The #1 Agentic AI CRM | Salesforce
  
  
@@ -621,6 +639,15 @@ Trailblazer Workforce Partner Programs
 Find expert-led training programs to build Salesfo
 
 ===== product :: https://www.salesforce.com/platform/?bc=OTH
+--- SIGNALS ---
+title: Headless 360 platform (Formerly Salesforce Platform) | Salesforce
+meta_description: Headless 360 platform (Formerly Salesforce Platform) powers the Agentic Enterprise, combining metadata, governance, MuleSoft and Data Cloud.
+og_description: Headless 360 platform (Formerly Salesforce Platform) powers the Agentic Enterprise, combining metadata, governance, MuleSoft and Data Cloud.
+og_site_name: Salesforce
+h1: Build your Agentic Enterprise on a trusted, open, and unified platform.
+h2: Meet the Headless 360 platform | AI Agents | Metadata & Data | Integration & Automation | Security, Privacy & Compliance | Analytics & Insights | Applications | DevOps | Websites & Custom Apps | Ecosystem | Infrastructure | See why CIOs trust Salesforce. | The world’s most innovative companies use Salesforce. | Why your architecture will define your agentic enterprise: The CIO's guide for building an enterprise where AI agents can act across the business. | A survey of over 4,000 global IT leaders reveals trends, priorities, and challenges shaping business and IT. | Give your developers what they need to supercharge productivity. | Learn about Salesforce development from the experts. | Discover Salesforce APIs & put them to work. | Explore reference code with our collection of open-source sample apps. | Get a head start on building your agentic enterprise. | Collaborate with Salesforce customers, partners, and product experts. | Skill up for the future from anywhere with Trailhead. | Catch up on all the innovation from Dreamforce. | Start your free trial.
+jsonld_org: []
+--- TEXT ---
 Headless 360 platform (Formerly Salesforce Platform) | Salesforce
  
  
@@ -4144,6 +4171,15 @@ Get started with Salesforce Development in a secure, non-production environment.
  Learn more
 
 ===== pricing_or_trust :: https://www.salesforce.com/pricing/?bc=OTH
+--- SIGNALS ---
+title: Salesforce Pricing: See Pricing Plans for All Salesforce Products | Salesforce
+meta_description: Explore the full range of Salesforce product pricing, made to fit businesses of all sizes and industries.
+og_description: Explore the full range of Salesforce product pricing, made to fit businesses of all sizes and industries.
+og_site_name: Salesforce
+h1: Salesforce Product Pricing
+h2: Products | Agentforce | Sales | Service | Marketing | Commerce | Analytics | Slack | Small Business | Data | Headless 360 platform | Net Zero | Customer Success | Partners and AgentExchange | Pricing | Industries | Automotive | Communications | Engineering, Construction & Real Estate | Consumer Goods | Education | Energy & Utilities | Financial Services | Healthcare | Life Sciences | Manufacturing | Media | Nonprofit | Professional Services | Public Sector
+jsonld_org: []
+--- TEXT ---
 Salesforce Pricing: See Pricing Plans for All Salesforce Products | Salesforce
  
  
