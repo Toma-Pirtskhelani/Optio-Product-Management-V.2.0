@@ -20,7 +20,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Salesforce | US | — | — | — | — | — | 7 | B | D | 4 |
 | Braze | — | — | — | — | 6 | 8 | 6 | B | D | 4 |
 | Dotdigital | — | — | — | — | 2 | — | 6 | B | D | 3 |
-| Adobe | — | — | — | — | — | — | 5 | B | U | 0 |
+| Adobe | — | — | — | — | — | — | 5 | B | P | 0 |
 | Brevo | United States | — | — | — | 5 | — | 5 | B | D | 4 |
 | Customer.io | US | 2012 | — | — | 6 | 6 | 5 | B | D | 4 |
 | Iterable | — | — | — | — | 4 | — | 5 | B | D | 3 |
@@ -37,7 +37,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | SAP | — | — | legacy | — | — | — | 4 | G | U | 0 |
 | WebEngage | — | — | — | — | 7 | — | 4 | B | D | 4 |
 | Zoho | — | — | — | — | 1 | — | 4 | B | D | 3 |
-| Constant Contact | — | — | — | — | — | — | 3 | B | U | 0 |
+| Constant Contact | — | — | — | — | — | — | 3 | B | P | 0 |
 | Conversion | — | — | — | — | — | — | 3 | G | D | 3 |
 | Cordial | US | 2014 | — | — | 4 | — | 3 | G | D | 4 |
 | Epsilon | — | 1968 | — | — | 1 | 12 | 3 | B | D | 3 |
@@ -73,7 +73,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Maestra.io | US | 2022 | — | — | 6 | — | 2 | G | D | 4 |
 | MailerLite | — | — | — | — | 1 | — | 2 | B | D | 4 |
 | Maropost | — | — | — | — | 3 | — | 2 | G | D | 4 |
-| MessageGears | — | — | — | — | — | — | 2 | G | U | 0 |
+| MessageGears | — | — | — | — | — | — | 2 | G | P | 0 |
 | Microsoft | — | — | legacy | — | — | — | 2 | G | D | 4 |
 | Mindmatrix | — | — | — | — | — | — | 2 | G | U | 0 |
 | NewZapp | — | — | — | — | — | — | 2 | G | U | 0 |
@@ -97,7 +97,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | ZEPIC | — | — | — | — | 5 | 12 | 2 | G | D | 4 |
 | adnymics | — | — | — | — | — | — | 1 | G | D | 2 |
 | AEvent | — | — | — | — | — | — | 1 | G | D | 4 |
-| AfterShip | — | — | — | — | — | — | 1 | G | U | 0 |
+| AfterShip | — | — | — | — | — | — | 1 | G | P | 0 |
 | Agillic | — | — | — | on-premise | 1 | — | 1 | G | D | 4 |
 | Aislelabs | — | — | — | — | 2 | 12 | 1 | G | D | 4 |
 | Alterian | — | — | — | — | — | — | 1 | G | D | 4 |
@@ -148,7 +148,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Foursquare | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Free Stand Sampling Solutions | — | — | — | — | — | — | 1 | G | U | 0 |
 | Fresh Relevance | — | — | — | — | — | — | 1 | G | U | 0 |
-| Freshworks | — | — | — | — | — | — | 1 | G | U | 0 |
+| Freshworks | — | — | — | — | — | — | 1 | G | P | 0 |
 | Frizbit | — | — | — | — | 5 | — | 1 | G | D | 4 |
 | GetResponse | PL | 1998 | — | — | 6 | — | 1 | 2 | D | 4 |
 | GMass | — | — | — | — | 3 | — | 1 | 2 | D | 4 |
@@ -184,7 +184,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Marigold | — | — | — | — | — | — | 1 | G | D | 2 |
 | MarketingPlatform | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | Marketplacer | — | — | — | — | — | — | 1 | G | D | 4 |
-| Mastercard | — | — | — | — | — | — | 1 | G | U | 0 |
+| Mastercard | — | — | — | — | — | — | 1 | G | P | 0 |
 | Medallia | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | Meiro | — | — | — | on-premise, self-hosted, private-cloud | 3 | 12 | 1 | G | D | 4 |
 | Mekari | — | 2015 | — | — | 2 | — | 1 | G | D | 3 |
@@ -205,8 +205,8 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Podium | — | — | — | — | 1 | — | 1 | 2 | D | 3 |
 | Postal | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Postalytics | — | — | — | — | 2 | 12 | 1 | G | D | 3 |
-| PostcardMania | — | — | — | — | — | — | 1 | G | U | 0 |
-| PostGrid | — | — | — | — | — | — | 1 | G | U | 0 |
+| PostcardMania | — | — | — | — | — | — | 1 | G | P | 0 |
+| PostGrid | — | — | — | — | — | — | 1 | G | P | 0 |
 | Precisely | — | — | legacy | — | 3 | 12 | 1 | G | D | 3 |
 | Printfection | — | — | — | — | — | — | 1 | G | D | 4 |
 | Pyze | — | — | — | private-cloud | — | 12 | 1 | G | D | 4 |
@@ -234,7 +234,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Striker Soft Solutions | — | — | — | — | — | — | 1 | G | U | 0 |
 | SugarAI | — | — | — | — | — | 2 | 1 | G | D | 4 |
 | SwiftERM Hyper-Personalisation | — | — | — | — | — | — | 1 | G | U | 0 |
-| Swrve | — | — | — | — | — | — | 1 | G | U | 0 |
+| Swrve | — | — | — | — | — | — | 1 | G | P | 0 |
 | Text | US | 2023 | — | — | 5 | 2 | 1 | G | D | 4 |
 | Textedly | — | — | — | — | 5 | 12 | 1 | 2 | D | 4 |
 | Thryv | US | 2013 | — | — | 2 | 12 | 1 | G | D | 4 |

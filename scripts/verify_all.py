@@ -18,7 +18,7 @@ for r in recs:
         if r.get(k)!=v: diffs.append((r["company_id"],k))
 chk("no original G2/Gartner field mutated", not diffs, diffs[:6])
 
-done=[r for r in recs if r["enrichment"]["enrichment_status"] in ("done","unreachable")]
+done=[r for r in recs if r["enrichment"]["enrichment_status"] in ("done","unreachable","partially_recovered")]
 chk("every company attempted", len(done)==237, len(done))
 
 over=[(r["company"],r["enrichment"]["fetches_used"]) for r in done if r["enrichment"]["fetches_used"]>4]
@@ -58,16 +58,24 @@ chk("every quoted value appears verbatim in its own capture", not viol, viol[:8]
 
 # no enrichment without a confirmed domain
 unconf=[r["company"] for r in done
-        if not r["enrichment"].get("unreachable") and not r["enrichment"].get("domain_confirmed_by")]
+        if not r["enrichment"].get("unreachable")
+        and not r["enrichment"].get("domain_confirmed_by")
+        and not r["enrichment"].get("recovery_evidence")]
 chk("no company enriched from an unconfirmed domain", not unconf, unconf[:8])
 
 # capture exists for every reachable company
 nocap=[r["company"] for r in done if not r["enrichment"].get("unreachable")
+       and r["enrichment"]["enrichment_status"]=="done"
        and not (r["enrichment"].get("raw_capture") and os.path.exists(r["enrichment"]["raw_capture"]))]
 chk("every reachable company has a committed capture", not nocap, nocap[:8])
 
 # unreachable records still carry a reason
 noreason=[r["company"] for r in done if r["enrichment"].get("unreachable") and not r["enrichment"].get("unreachable_reason")]
+# a partially recovered record must never carry marketing-page fields
+leak=[r["company"] for r in done if r["enrichment"]["enrichment_status"]=="partially_recovered"
+      and any((r["enrichment"].get(f) or {}).get("value") not in (None,"",[])
+              for f in ("description_own","value_proposition","functionality","channels"))]
+chk("partially-recovered records carry no marketing-page fields", not leak, leak[:6])
 chk("every unreachable record states a reason", not noreason, noreason[:8])
 
 # solution_type never silently defaulted
