@@ -105,16 +105,34 @@ Proofread fixed section numbering, stale totals, and moved `(Legacy)` counts and
 requirement-free categories are also its three smallest (11, 15, 22) against 45–122 for every
 governed Market.
 
+**13 · 2026-08-10 · Company export for all 10 IN classifications**
+Deterministic parsers over the raw captures, reconciled against each source's declared total —
+all six Gartner categories match exactly (**352 of 352**), so absence there is `ABSENT-ENUMERATED`.
+G2 yields **102 of 1,810 (5.6%)**, visible page only; that half is `ABSENT-IN-VISIBLE-PAGE` and
+carries the flag per row.
+Deduplicated to **237 unique companies** with 7 conservative merges, no fuzzy matching. **27 are
+listed by both sources** — still not corroboration, since both are self-declared. 7 carry a
+Gartner `(Legacy)` product; G2 sponsored placements are flagged.
+Gartner's parenthetical vendor form turned out to encode two different things, now split by a
+computed test: **acquisitions** (CleverTap–Leanplum, Constant Contact–SharpSpring,
+Upland–Localytics, Mastercard–Dynamic Yield, Capillary–SessionM, Tech Mahindra–Comviva,
+Soprano–Whispir, HCLTech–HCLSoftware) versus mere **abbreviations** (AWS, HPE, ITG).
+Output: `outputs/companies-IN.json` + `outputs/companies-IN.md`.
+
 ---
 
 ## Where it stands
 
-`outputs/classification-menu.md` — **19 rows, 8 IN.** Gartner 6 IN (352 products, 6 pastes);
-G2 4 IN (1,810 listings, ~75 pastes). One BOUNDARY (Conversational Marketing). One OUT that
-could flip (Account Data Management, on whether *"facilitate communication"* means outbound).
+All 10 IN classifications accepted and exported. `outputs/companies-IN.json` holds **237 unique
+companies**; `outputs/companies-IN.md` is the readable companion.
 
-**Awaiting:** your ticks, and one page — G2 Mobile Marketing Software, the only G2 counterpart
-to Gartner's Mobile Marketing Platforms.
+**The binding constraint is G2 coverage: 102 of 1,810 listings (5.6%).** The Gartner half is
+complete. Closing the G2 half needs ~71 more paginated pastes; nothing else in the pipeline is
+blocked.
+
+**Also open:** G2 Mobile Marketing Software (the only G2 counterpart to Gartner's Mobile
+Marketing Platforms), Conversational Marketing Solutions still BOUNDARY, and Account Data
+Management an OUT that could flip.
 
 **Open structural gaps, not tasks:** demand-side evidence exists for none of competitor classes
 2–7. No funding data from any source. Russian, Turkish and Georgian are excluded from Gartner by
