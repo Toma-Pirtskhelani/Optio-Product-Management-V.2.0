@@ -1,0 +1,6613 @@
+===== homepage :: https://microsoft.ai/
+--- SIGNALS ---
+title: Home | Microsoft AI
+meta_description: 
+og_description: 
+og_site_name: Microsoft AI
+h1: HumanistSuperintelligence
+h2: Latest models | MAI-Image-2.5 | MAI-Voice-2 | MAI-Thinking-1 | MAI-Code-1-Flash | MAI-Transcribe-1.5 | Featured stories | Optimizing the frontier performance curve | Introducing MAI-Cyber-1-Flash inside MDASH | Introducing MAI-Image-2.5-Pro and MAI-Voice-2-Flash | Introducing MAI-Cyber-1-Flash inside MDASH | Discover and build with the latest MAI models | At MAI, we’re building the world’s most capable AI systems, with humanity at the center of every decision. | Our Values | Join us | Key Locations
+jsonld_org: [{"@type": "Organization", "@id": "https://microsoft.ai/#organization", "name": "Microsoft AI", "url": "https://microsoft.ai/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://microsoft.ai/#/schema/logo/image/", "url": "https://maiv3dev.wpenginepowered.com/wp-content/uploads/2025/10/image-1.jpeg", "contentUrl": "https://maiv3dev.wpenginepowered.com/wp-content/uploads/2025/10/image-1.jpeg", "width": 1201, "height": 628, "caption": "Microsoft AI"}, "image": {"@id": "https://microsoft.ai/#/schema/logo/image/"}}]
+--- TEXT ---
+Home | Microsoft AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+Source
+ 
+ 
+ 
+Signal blog
+ 
+Official Microsoft Blog
+ 
+Command Line
+ 
+Microsoft On The Issues
+ 
+Asia
+ 
+Canada
+ 
+Europe, Middle East and Africa
+ 
+Latin America
+ 
+The Code of Us
+ 
+What's new today
+ 
+AI
+ 
+Innovation
+ 
+Digital Transformation
+ 
+Sustainability
+ 
+Security
+ 
+Work & Life
+ 
+Diversity & Inclusion
+ 
+Unlocked
+ 
+ 
+ 
+ 
+ 
+Microsoft 365
+ 
+Azure
+ 
+Copilot
+ 
+Windows
+ 
+Surface
+ 
+XBOX
+ 
+Deals
+ 
+Small Business
+ 
+Support
+ 
+ 
+ 
+Windows Apps
+ 
+Outlook
+ 
+OneDrive
+ 
+Microsoft Teams
+ 
+OneNote
+ 
+Microsoft Edge
+ 
+Moving from Skype to Teams
+ 
+ 
+ 
+Computers
+ 
+Shop XBOX
+ 
+Accessories
+ 
+VR & mixed reality
+ 
+Certified Refurbished
+ 
+Trade-in for cash
+ 
+ 
+ 
+XBOX Game Pass Ultimate
+ 
+PC Game Pass
+ 
+XBOX games
+ 
+PC games
+ 
+ 
+ 
+Microsoft AI
+ 
+Microsoft Security
+ 
+Dynamics 365
+ 
+Microsoft 365 for business
+ 
+Microsoft Power Platform
+ 
+Windows 365
+ 
+Small Business
+ 
+Digital Sovereignty
+ 
+ 
+ 
+Azure
+ 
+Microsoft Developer
+ 
+Microsoft Learn
+ 
+Support for AI marketplace apps
+ 
+Microsoft Tech Community
+ 
+Microsoft Marketplace
+ 
+Software companies
+ 
+Visual Studio
+ 
+ 
+ 
+Microsoft Rewards
+ 
+Free downloads & security
+ 
+Education
+ 
+Gift cards
+ 
+Licensing
+ 
+Unlocked stories
+ 
+ 
+ 
+View Sitemap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Models 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Latest models 
+ 
+ Discover the latest MAI models, designed for real-world intelligence 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MAI-Image-2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MAI-Voice-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MAI-Thinking-1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MAI-Code-1-Flash 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MAI-Transcribe-1.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All models 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MAI-Image-2.5 
+ 
+ 
+ 
+ Create stunning, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MAI-Voice-2 
+ 
+ 
+ 
+ Delivers expressive, low-latency speech that holds up across long generations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MAI-Thinking-1 
+ 
+ 
+ 
+ Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MAI-Code-1-Flash 
+ 
+ 
+ 
+ Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MAI-Transcribe-1.5 
+ 
+ 
+ 
+ Turn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Featured stories 
+ 
+ 
+ The latest breakthroughs and updates from within our team 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Optimizing the frontier performance curve 
+ 
+ 
+ 
+ 
+ 
+ 4 min read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Introducing MAI-Cyber-1-Flash inside MDASH 
+ 
+ 
+ 
+ 
+ 
+ 5 min read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Introducing MAI-Image-2.5-Pro and MAI-Voice-2-Flash 
+ 
+ 
+ 
+ 
+ 
+ 5 min read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ THE HUMANIST REVIEW OF AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ THE HUMANIST REVIEW OF AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact
+Privacy & Cookies
+Terms
+Trademarks
+Microsoft.com
+ 
+ 
+ 
+LinkedIn
+Instagram
+X
+ 
+ 
+ 
+ 
+ 
+ 
+Off
+ 
+ 
+ 
+Accessibility Mode
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Off
+ 
+ 
+ 
+ 
+Accessibility Mode
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Humanist
+Superintelligence
+ 
+ 
+ Responsible AI to empower humanity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Introducing MAI-Cyber-1-Flash inside MDASH 
+ 
+ 
+ 
+ models 
+ 
+ 
+ 
+ 5 min read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Optimizing the frontier performance curve 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 min read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hill-climbing MAI models for GitHub Copilot and Excel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 min read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Introducing MAI-Image-2.5-Pro and MAI-Voice-2-Flash 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 min read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discover and build with the latest MAI models 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Foundational model 
+ 
+ 
+ 
+ 
+ MAI-Image-2.5 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ Create stunning, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Foundational model 
+ 
+ 
+ 
+ 
+ MAI-Voice-2 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ Delivers expressive, low-latency speech that holds up across long generations. 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Foundational model 
+ 
+ 
+ 
+ 
+ MAI-Thinking-1 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Foundational model 
+ 
+ 
+ 
+ 
+ MAI-Code-1-Flash 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Foundational model 
+ 
+ 
+ 
+ 
+ MAI-Transcribe-1.5 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ Turn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores. 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All models
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At MAI, we’re building the world’s most capable AI systems, with humanity at the center of every decision.
+ 
+ 
+ 
+ 
+ Humanist Superintelligence means building the world’s most advanced AI systems designed to stay controllable, aligned, and firmly in service of humanity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Values 
+ 
+ 
+ 
+ 
+ 
+ Kindness 
+ 
+ Trust 
+ 
+ Quality 
+ 
+ Simplicity 
+ 
+ Safety & Security 
+ 
+ Evaluation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How we work shapes what we build. A team that communicates with care and makes space for different perspectives builds better.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trust is earned through consistency and honesty. We’re as clear about our limits as we are about our strengths.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We aspire to create the very best models in the world: accurate, reliable, and genuinely useful across the work that matters most.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We design for clarity so you can focus on the work, not the technology.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We believe responsible and capable AI aren’t in tension. We build with privacy, security, and human rights in mind.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We test rigorously, listen closely, and improve constantly. Our models get better because we never stop measuring.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kindness 
+ 
+ 
+ How we work shapes what we build. A team that communicates with care and makes space for different perspectives builds better. 
+ 
+ 
+ 
+ 
+ Trust 
+ 
+ 
+ Trust is earned through consistency and honesty. We’re as clear about our limits as we are about our strengths. 
+ 
+ 
+ 
+ 
+ Quality 
+ 
+ 
+ We aspire to create the very best models in the world: accurate, reliable, and genuinely useful across the work that matters most. 
+ 
+ 
+ 
+ 
+ Simplicity 
+ 
+ 
+ We design for clarity so you can focus on the work, not the technology. 
+ 
+ 
+ 
+ 
+ Safety & Security 
+ 
+ 
+ We believe responsible and capable AI aren’t in tension. We build with privacy, security, and human rights in mind. 
+ 
+ 
+ 
+ 
+ Evaluation 
+ 
+ 
+ We test rigorously, listen closely, and improve constantly. Our models get better because we never stop measuring. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join us
+ 
+ 
+ 
+We’re a lean, talent-dense team of explorers, researchers, and full-stack engineers. We move fast, sweat the details, and operate at frontier scale with a roadmap to build the world’s most powerful AI models. Most importantly, we’re united by the belief that doing this right is the only way to do it at all.
+ 
+If our mission resonates with you, we’d love to talk.
+ 
+ 
+ Explore jobs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key Locations
+ 
+ 
+ We have offices in cities across the globe. 
+Where will you join? 
+ 
+ 
+ 
+ 
+ 
+ Mountain View 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sunlit sprawl between the bay and the coastal hills, in the restless heart of the technology industry, where founders, bold ideas, and ambition are never in short supply. 
+ 
+ Explore Jobs
+ 
+ 
+ 
+ 
+ 
+ 
+ Redmond 
+ 
+ 
+ 
+ 
+ 
+ 
+ Where Microsoft began – set among the evergreen forests, lakes, and mountains of the Pacific Northwest, a calm and grounded place built for deep work and the long view. 
+ 
+ Explore Jobs
+ 
+ 
+ 
+ 
+ 
+ 
+ New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ Positioned among landmark architecture, tree-lined plazas, and one of Manhattan’s liveliest creative quarters. With the city’s culture right at its doorstep, it’s a hub of innovation and energy. 
+ 
+ Explore Jobs
+ 
+ 
+ 
+ 
+ 
+ 
+ London 
+ 
+ 
+ 
+ 
+ 
+ 
+ A global capital where centuries of history meet a thriving AI scene, alive with the talent and ideas shaping what comes next. 
+ 
+ Explore Jobs
+ 
+ 
+ 
+ 
+ 
+ 
+ Zurich 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lake Zurich, the Alps, and Swiss precision, home to some of Europe’s sharpest engineering minds and a deep belief in doing things exactly right. 
+ 
+ Explore Jobs
+ 
+ 
+ 
+ 
+ 
+ 
+ Paris 
+ 
+ 
+ 
+ 
+ 
+ 
+ Centuries of art, philosophy, and scientific ambition along the Seine, now one of the world’s fastest-growing AI hubs. A city that has always believed the most powerful ideas should also be the most human. 
+ 
+ Explore Jobs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We are building a practical superintelligence, rooted in the challenges of real people and businesses. This is the world’s most advanced AI designed to address our biggest problems and always remain under human control.  
+ 
+ 
+ 
+ 
+ Mustafa Suleyman
+CEO Microsoft AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Models
+Blog
+Careers
+Playground
+ 
+ 
+ 
+LinkedIn
+Instagram
+X
+ 
+ 
+ 
+Contact
+Privacy & Cookies
+Terms
+Trademarks
+Microsoft.com
+ 
+ 
+ 
+ © Microsoft 2026 
+ 
+ This site runs Microsoft Clarity for behavioral insights. By using this site, you consent to the collection and use of your data, such as how you interact with this website, by Microsoft for product improvements. Learn more 
+here
+ and at our 
+Privacy Statement
+. 
+ 
+ 
+ 
+ 
+ 
+
+ English (United States)
+ 
+ 
+ 
+ 
+Your Privacy Choices
+ 
+ 
+ 
+Consumer Health Privacy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Surface Pro
+ 
+ 
+Surface Laptop
+ 
+ 
+Surface Laptop Ultra
+ 
+ 
+Surface RTX Spark Dev Box
+ 
+ 
+Copilot for organizations
+ 
+ 
+Copilot for personal use
+ 
+ 
+Explore Microsoft products
+ 
+ 
+Windows 11 apps
+ 
+ 
+ 
+ 
+Account profile
+ 
+ 
+Download Center
+ 
+ 
+Microsoft Store support
+ 
+ 
+Returns
+ 
+ 
+Order tracking
+ 
+ 
+Certified Refurbished
+ 
+ 
+Microsoft Store Promise
+ 
+ 
+Flexible Payments
+ 
+ 
+ 
+ 
+Microsoft in education
+ 
+ 
+Devices for education
+ 
+ 
+Microsoft Teams for Education
+ 
+ 
+Microsoft 365 Education
+ 
+ 
+How to buy for your school
+ 
+ 
+Educator training and development
+ 
+ 
+Deals for students and parents
+ 
+ 
+AI for education
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft AI
+ 
+ 
+Microsoft Security
+ 
+ 
+Dynamics 365
+ 
+ 
+Microsoft 365
+ 
+ 
+Microsoft Power Platform
+ 
+ 
+Microsoft Teams
+ 
+ 
+Microsoft 365 Copilot
+ 
+ 
+Small Business
+ 
+ 
+ 
+ 
+Azure
+ 
+ 
+Microsoft Developer
+ 
+ 
+Microsoft Learn
+ 
+ 
+Support for AI marketplace apps
+ 
+ 
+Microsoft Tech Community
+ 
+ 
+Microsoft Marketplace
+ 
+ 
+Software companies
+ 
+ 
+Visual Studio
+ 
+ 
+ 
+ 
+Careers
+ 
+ 
+About Microsoft
+ 
+ 
+Company news
+ 
+ 
+Privacy at Microsoft
+ 
+ 
+Investors
+ 
+ 
+Diversity and inclusion
+ 
+ 
+Accessibility
+ 
+ 
+Sustainability
+ 
+ 
+ 
+ 
+English (United States)
+ 
+ 
+ 
+ 
+Your Privacy Choices
+ 
+ 
+ 
+Consumer Health Privacy
+ 
+ 
+Sitemap
+ 
+Contact Microsoft
+ 
+Privacy 
+ 
+Manage cookies
+ 
+Terms of use
+ 
+Trademarks
+ 
+Safety & eco
+ 
+Recycling
+ 
+About our ads
+
+===== product :: https://www.microsoft.com/en-us/power-platform
+--- SIGNALS ---
+title: AI-Powered Development Tools | Microsoft Power Platform
+meta_description: Improve enterprise workflow automation with low-code development tools in Power Platform—Power Apps, Power Automate, Power Pages, and Microsoft Copilot Studio.
+og_description: Improve enterprise workflow automation with low-code development tools in Power Platform—Power Apps, Power Automate, Power Pages, and Microsoft Copilot Studio.
+og_site_name: 
+h1: Accelerate innovation
+h2: AI-powered assistant | Turn business intent into impact | What can you do with Power Platform? | Powerful alone, better together | Explore industry research and insights | How customers are innovating with Power Platform | More about Power Platform | Contact us | Frequently asked questions | Follow Power Platform
+jsonld_org: []
+--- TEXT ---
+AI-Powered Development Tools | Microsoft Power Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This is the Trace Id: 3c0e33d34e302c4185ed632be9040a5d 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+Power Platform
+ 
+ 
+ 
+Build an agentic enterprise
+ 
+Get Started
+ 
+Guided Tours
+ 
+Security & Governance
+ 
+Dataverse
+ 
+Connectors
+ 
+ 
+Power BI
+ 
+Desktop
+ 
+Pro
+ 
+Premium
+ 
+Embedded
+ 
+Report Server
+ 
+Power Apps
+ 
+Power Automate
+ 
+Power Pages
+ 
+Copilot Studio
+ 
+Pricing
+ 
+ 
+Resources by Product
+ 
+Power Platform Learn
+ 
+Power Platform Blog
+ 
+Documentation
+ 
+Power Platform Topics
+ 
+Contact us
+ 
+Start free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Microsoft Power Platform 
+ 
+ 
+Accelerate innovation</h1> "> 
+ 
+Accelerate innovation
+ 
+ 
+ 
+ 
+ Build and scale intelligent apps, agents, and automation with an AI platform that maintains enterprise-grade control, security, and trust. 
+ 
+ 
+ 
+ 
+ 
+Try for free
+ 
+ 
+ 
+Contact Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Why Power Platform 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Why Power Platform 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Use cases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reports and research 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get started 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FAQ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Try for free
+ 
+ 
+ 
+Contact Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Try for free
+ 
+ 
+ 
+Contact Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI-powered assistant
+ 
+ 
+ 
+ 
+ 
+ Need help with Power Platform? Try the AI-powered assistant. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What is Power Platform? 
+ 
+ 
+ 
+ How can I try Power Platform? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Why Power Platform 
+ 
+ 
+Turn business intent into impact</h2> "> 
+ 
+Turn business intent into impact
+ 
+ 
+ 
+ 
+ Bring apps, agents, data, and automation together to build smarter, secure solutions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Start with intent, not technical constraints 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Empower teams to move from idea to impact with clarity, speed, and control. Describe the outcome, and Power Platform uses AI to guide the development of apps and workflows, connect to your data, and stay governed and secure. 
+ 
+ 
+ 
+ 
+ 
+ 
+Start with intent, not technical constraints
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unified data across apps and agents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ When data is unified and governed, apps lead with relevance, agents act with awareness, and automation runs reliably. Microsoft Dataverse delivers the secure, shared foundation that makes this possible. 
+ 
+ 
+ 
+ 
+ 
+See how Dataverse powers solutions
+ 
+ 
+ 
+ 
+ 
+ 
+Unified data across apps and agents
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Built-in security for enterprise trust, governance, and control 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get the security and governance you need to adopt AI with confidence. IT maintains oversight across every solution, while developers and makers build faster within approved guardrails, ensuring solutions scale consistently and securely across the business. 
+ 
+ 
+ 
+ 
+ 
+Explore governance and security
+ 
+ 
+ 
+ 
+ 
+ 
+Built-in security for enterprise trust, governance, and control
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connected across your ecosystem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Build the way you want—from low-code to pro-code—with AI-assistance and code-first extensibility. Over 1,500 connectors work across the services and systems where your business already runs, providing a foundation that lets solutions grow without costly rebuilds. You’ll unify data and processes across apps, use agents to recommend next best actions, and automate end-to-end workflows to remove friction. 
+ 
+ 
+ 
+ 
+ 
+Browse connectors and integrations
+ 
+ 
+ 
+ 
+ 
+ 
+Connected across your ecosystem
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Use cases 
+ 
+ 
+What can you do with Power Platform?</h2> "> 
+ 
+What can you do with Power Platform?
+ 
+ 
+ 
+ 
+ Move faster with better results by unifying apps, agents, and Microsoft Copilot to coordinate tasks and automate work—across daily tasks to core business processes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Onboarding</p> " data-bi-compnm="Interactive Demo" data-bi-view="Use cases | What can you do with Power Platform?"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Onboarding 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing</p> " data-bi-compnm="Interactive Demo" data-bi-view="Use cases | What can you do with Power Platform?"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Marketing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Finance</p> " data-bi-compnm="Interactive Demo" data-bi-view="Use cases | What can you do with Power Platform?"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Finance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operations</p> " data-bi-compnm="Interactive Demo" data-bi-view="Use cases | What can you do with Power Platform?"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Frontline</p> " data-bi-compnm="Interactive Demo" data-bi-view="Use cases | What can you do with Power Platform?"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frontline 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Previous
+ 
+ 
+ 
+ 
+Next
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Streamline onboarding</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Streamline onboarding
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Replace scattered onboarding steps with one secure hub where Power Apps organizes tasks and data, and Copilot agents guide users, automate actions, and keep work moving. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Move content from draft to publish</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Move content from draft to publish
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A workspace built in Power Apps keeps every post visible from idea to approval, with Copilot drafting and agents flagging gaps before reviews stall. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Orchestrate service cases across channels</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Orchestrate service cases across channels
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidate and track inquiries in a single app built in Power Apps. Agents monitor and triage requests across channels, and Copilot drafts responses to speed resolution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Speed up finance approvals</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Speed up finance approvals
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Approvers track every request in a hub built in Power Apps, with agents flagging anomalies and Copilot adding policy context at the point of decision. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stay ahead of inventory disruptions</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Stay ahead of inventory disruptions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Power Apps brings all inventory data into one view. From there, agents forecast shortages early, and Copilot turns signals into clear next steps. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coordinate field service in real time</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Coordinate field service in real time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dispatchers run a live command center in Power Apps, while agents predict issues early and Copilot guides technicians in the field. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Back to tabs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+Powerful alone, better together</h2> "> 
+ 
+Powerful alone, better together
+ 
+ 
+ 
+ 
+ When teams build apps, agents, and automations on a shared foundation, they can streamline work, accelerate outcomes, and scale with confidence. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+How they work together
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Previous
+ 
+ 
+ 
+ 
+Next
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power Platform</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Power Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Create apps and workflows across your organization with low-code tools. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Power Apps
+ 
+ 
+ 
+ 
+ 
+ Build intelligent, custom business apps fast with enterprise-ready controls. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Power Automate
+ 
+ 
+ 
+ 
+ 
+ Boost productivity by automating repetitive work and workflows across your organization. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Power BI
+ 
+ 
+ 
+ 
+ 
+ Make better decisions with real-time insights and scalable reporting. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Power Pages
+ 
+ 
+ 
+ 
+ 
+ Create data-driven websites fast, using trusted data and governance to keep experiences secure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Dataverse
+ 
+ 
+ 
+ 
+ 
+ Unify and govern enterprise data so your apps, automation, and AI run securely at scale. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Copilot Studio
+ 
+ 
+ 
+ 
+ 
+ Build and manage agents at scale with built-in security, compliance, and administrative oversight. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get faster, more reliable results with interconnected solutions on a single platform</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Get faster, more reliable results with interconnected solutions on a single platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore proven solution patterns that combine apps, agents, and automation to solve real business needs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Streamline business processes with apps and agents that work together
+ 
+ 
+ 
+ 
+ 
+ Create custom apps with Power Apps and automate the work behind them with Power Automate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Embed agents into apps to expedite work
+ 
+ 
+ 
+ 
+ 
+ Create agents with Copilot Studio that guide users and answer questions directly in apps built in Power Apps. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Move work forward automatically
+ 
+ 
+ 
+ 
+ 
+ Connect structured workflows to your intelligent agents in a composable system. They work together to modernize automation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scale solutions without costly rework across the Microsoft Cloud
+ 
+ 
+ 
+ 
+ 
+ Extend Power Platform solutions across Microsoft 365, Azure, and Dynamics 365—and to other systems—using prebuilt connectors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Build pro-code, AI, and scalable services
+ 
+ 
+ 
+ 
+ 
+ Connect Power Platform to Azure services and data. Build custom APIs and scale with enterprise-grade security. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Extend Microsoft Dynamics 365 with apps, automation, and AI
+ 
+ 
+ 
+ 
+ 
+ Dynamics 365 runs your operations. Power Platform customizes, automates, and enhances them with AI. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Back to tabs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reports and research 
+ 
+ 
+Explore industry research and insights</h2> "> 
+ 
+Explore industry research and insights
+ 
+ 
+ 
+ 
+ Analysts and customers trust Power Platform to securely scale, innovate, and deliver measurable business impact. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Previous
+ 
+ 
+ 
+ 
+Next
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn why Microsoft is a Leader in the 2025 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms.
+1
+ 
+ 
+ 
+ 
+ 
+ 
+Read the report
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discover why Microsoft was named a Leader in the 2025 Forrester Wave™ for Low-Code Platforms for Professional Developers.
+2
+ 
+ 
+ 
+ 
+ 
+ 
+Read the report
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn how AI-driven Frontier Firms achieve greater business impact in this global IDC study commissioned by Microsoft.
+3
+ 
+ 
+ 
+ 
+ 
+ 
+Read the study
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See how customers rate Microsoft Power Platform in Gartner Peer Insights™ based on verified enterprise reviews.
+4
+ 
+ 
+ 
+ 
+ 
+ 
+Read customer reviews
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Back to ANALYST REPORTS section's tabs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer stories 
+ 
+ 
+How customers are innovating with Power Platform</h2> "> 
+ 
+How customers are innovating with Power Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore all customer stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Previous Slide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Next Slide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hertz built a workforce scheduling app and an agent to streamline enterprise planning and speed roadside assistance.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ faster roadside issue resolution 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+Power Apps</a>"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power Apps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copilot Studio</a>"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copilot Studio
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power Automate</a>"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power Automate
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power BI</a>"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power BI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dataverse</a>"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dataverse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Read the story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Evri created a customer service app to streamline support and a centralized fleet-management system to reduce manual work and improve daily operations.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+£9 million
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ annualized cost savings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+102%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ increase in successful answer rate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+Power Apps</a>"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power Apps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copilot Studio</a>"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copilot Studio
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power Automate</a>"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power Automate
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power BI</a>"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power BI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Read the sto
+
+===== pricing_or_trust :: https://www.microsoft.com/en-us/security
+--- SIGNALS ---
+title: Cloud Security Solutions | Microsoft Security
+meta_description: Defend your data from cyberattacks using cloud data security solutions. Safeguard your infrastructure, apps, and data with Microsoft Security solutions.
+og_description: Defend your data from cyberattacks using cloud data security solutions. Safeguard your infrastructure, apps, and data with Microsoft Security solutions.
+og_site_name: 
+h1: Defend continuously with Project Perception
+h2: Secure from end to end | Comprehensive, cost-effective security | Get the latest from Microsoft Security | Microsoft Security events | A recognized security leader | Agile security for a connected world | Protect everything | Follow Microsoft Security
+jsonld_org: []
+--- TEXT ---
+Cloud Security Solutions | Microsoft Security
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This is the Trace Id: 7ece98d4c829331813b22d4d6e5cfa23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+Security
+ 
+ 
+ 
+Microsoft Defender
+ 
+Microsoft Entra
+ 
+Microsoft Intune
+ 
+Microsoft Purview
+ 
+Microsoft Security Copilot
+ 
+Microsoft Sentinel SIEM
+ 
+Microsoft Sentinel platform
+ 
+View all products
+ 
+ 
+AI-powered cybersecurity
+ 
+Cloud security
+ 
+Data security & governance
+ 
+Identity & network access
+ 
+Security for AI
+ 
+Small and medium business
+ 
+Unified SecOps
+ 
+Zero Trust
+ 
+Pricing
+ 
+Services
+ 
+Partners
+ 
+Why Microsoft Security
+ 
+ 
+ 
+Cybersecurity awareness
+ 
+Customer stories
+ 
+Security 101
+ 
+Product trials
+ 
+How we protect Microsoft
+ 
+ 
+ 
+Industry recognition
+ 
+Microsoft Security Insider
+ 
+Microsoft Digital Defense Report
+ 
+Security Response Center
+ 
+ 
+ 
+Microsoft Security Blog
+ 
+Microsoft Security Events
+ 
+Microsoft Tech Community
+ 
+ 
+ 
+Documentation
+ 
+Technical Content Library
+ 
+Training & certifications
+ 
+ 
+ 
+Compliance Program for Microsoft Cloud
+ 
+Microsoft Trust Center
+ 
+Security Engineering Portal
+ 
+Service Trust Portal
+ 
+Microsoft Secure Future Initiative
+ 
+Business Solutions Hub
+ 
+ 
+Contact Sales
+ 
+Start free trial
+ 
+ 
+ 
+ 
+ 
+Microsoft Security
+ 
+Azure
+ 
+Dynamics 365
+ 
+Microsoft 365
+ 
+Microsoft Teams
+ 
+Windows 365
+ 
+ 
+ 
+Microsoft AI
+ 
+Azure Space
+ 
+Mixed reality
+ 
+Microsoft HoloLens
+ 
+Microsoft Viva
+ 
+Quantum computing
+ 
+Sustainability
+ 
+ 
+ 
+Education
+ 
+Automotive
+ 
+Financial services
+ 
+Government
+ 
+Healthcare
+ 
+Manufacturing
+ 
+Retail
+ 
+ 
+ 
+Find a partner
+ 
+Become a partner
+ 
+Partner Network
+ 
+Microsoft Marketplace
+ 
+Software companies
+ 
+ 
+ 
+Blog
+ 
+Microsoft Advertising
+ 
+Developer Center
+ 
+Documentation
+ 
+Events
+ 
+Licensing
+ 
+Microsoft Learn
+ 
+Microsoft Research
+ 
+ 
+ 
+View Sitemap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get the roadmap, skills, and connections to move faster at Microsoft Ignite, Nov 17-20, 2026.</strong>" close-title="Dismiss" close-label="Dismiss" theme="dark" sr-close-text="Closed" data-oc="oc03f1" id="announcement-oc03f1"> 
+ 
+ 
+Get the roadmap, skills, and connections to move faster at Microsoft Ignite, Nov 17-20, 2026.
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AGENTIC SECURITY 
+ 
+ 
+Defend continuously with Project Perception</h1> "> 
+ 
+Defend continuously with Project Perception
+ 
+ 
+ 
+ 
+ Bring security data, tools, and workflows together in an agentic system that helps your team find, investigate, and respond to risk at machine speed. 
+ 
+ 
+ 
+ 
+ 
+See how it works
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For enterprise 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For business 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For home 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Industry recognition 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Sales
+ 
+ 
+ 
+Start free trial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Sales
+ 
+ 
+ 
+Start free trial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Microsoft Security
+ 
+ 
+ 
+Secure from end to end</h2> "> 
+ 
+Secure from end to end
+ 
+ 
+ 
+ 
+ Safeguard your AI, clouds, apps, data, devices, and identities. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Protect with agentic AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get powerful protection with security agents that defend with speed, scale, and intelligence.  
+ 
+ 
+ 
+ 
+ 
+Watch video
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Safeguard your AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Drive innovation by strengthening AI environments with security and governance across your apps, agents, platforms, and clouds. 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Empower your team to detect threats faster
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Multiply your teams’ productivity and accuracy with agents that use unified graph analytics and 100 trillion daily signals to surface threats early and guide precise responses. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lower total cost of ownership
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simplify your security operations with seamless end-to-end protection that cuts costs and increases productivity.
+1
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+Comprehensive, cost-effective security</h2> "> 
+ 
+Comprehensive, cost-effective security
+ 
+ 
+ 
+ 
+ Built to support your Zero Trust strategy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Previous
+ 
+ 
+ 
+ 
+Next
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Security Copilot</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Security Copilot
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Empower teams to manage and protect at the speed and scale of AI. 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Defender</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Defender
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Detect and respond to attacks against your devices, identities, apps, email, and clouds with leading extended detection and response (XDR) products. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Sentinel SIEM</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Sentinel SIEM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Run a faster, leaner SOC with a cloud-native SIEM built for AI. Detect threats across your entire environment, investigate incidents in minutes, and cut SIEM costs with a built-in data lake, without adding tools or analysts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Sentinel platform</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Sentinel platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ An AI-ready platform that delivers industry-leading security information, unified data lake, enriched graph-powered visibility, and a collection of intelligent reasoning tools. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Entra</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Entra
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Verify every identity and access request across your clouds, platforms, and devices with a collection of identity and access products. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Purview</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Purview
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Safeguard data wherever it lives with a collection of unified information protection, governance, and compliance products. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Intune</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Intune
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Strengthen device security and enable seamless hybrid work experiences with endpoint management products. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Secure your AI</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Secure your AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Use AI confidently, with security and governance solutions built for a new era. 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Protect with AI</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Protect with AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Outpace cyberattackers with the speed and scale of industry-leading generative AI. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stop threats with integrated tools&nbsp;<b></b></h3> "> 
+ 
+ 
+ 
+ 
+ 
+Stop threats with integrated tools 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain visibility and disrupt attacks across your multicloud, multiplatform environment with unified SecOps in Defender. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Secure and govern data</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Secure and govern data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Foster AI innovation and safeguard data with a solution that unifies data security and governance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Protect identities and access</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Protect identities and access
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Securely connect all of your users, apps, and devices with a complete identity solution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Secure your entire cloud estate</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Secure your entire cloud estate
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Safeguard all of your apps and resources with complete visibility and comprehensive protection across workloads. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Identify and remediate risks</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Identify and remediate risks
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Prevent, investigate, and remediate risks across your organization with adaptive solutions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Security Experts</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Security Experts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comprehensive expert-led services to help defend against threats, build cyber resilience, and modernize security operations. 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Defender Experts MDR</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Defender Experts MDR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stop attackers with always-on, AI-accelerated managed extended detection and response that’s expert-led and natively integrated in Microsoft Defender. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Defender Experts Hunting</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Defender Experts Hunting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stay ahead of emerging cyberthreats with around-the clock, AI-powered threat hunting across endpoints, identities, emails, cloud apps, and cloud workloads. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Defender Experts Threat Intelligence</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Defender Experts Threat Intelligence
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our experts help you understand how evolving threats might affect your organization - and what you can do about them.​ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Defender Experts Cybersecurity Incident Response (CIR)</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Defender Experts Cybersecurity Incident Response (CIR)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your first call before, during, and after a cybersecurity incident. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Back to tabs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get the latest from Microsoft Security</h2> "> 
+ 
+Get the latest from Microsoft Security
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Build secure and stay secure with new innovations for devs</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Build secure and stay secure with new innovations for devs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read the latest updates from Build that help devs shift left and make security a priority without disrupting workflow. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn what's new
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Secure Future Initiative July 2026 Update: Lessons from security at scale</h4> "> 
+ 
+ 
+ 
+ Report 
+ 
+ 
+ 
+ 
+ 
+Secure Future Initiative July 2026 Update: Lessons from security at scale
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Strengthen your security posture with practical guidance on reducing risk, accelerating defense, and preparing for emerging threats—drawn from Microsoft's latest security progress. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Read the report
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cyber Pulse: An AI Security Report</h4> "> 
+ 
+ 
+ 
+ Report 
+ 
+ 
+ 
+ 
+ 
+Cyber Pulse: An AI Security Report
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get insights into how quickly organizations are adopting AI agents and learn why observability, governance, and security are key to responsible adoption. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Digital Defense Report 2025&nbsp;</h4> "> 
+ 
+ 
+ 
+ Report 
+ 
+ 
+ 
+ 
+ 
+Microsoft Digital Defense Report 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get insights into the latest cyberthreat landscape trends, including cybercrime as a service and the rise of hybrid ransomware and phishing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Read the report
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Events 
+ 
+ 
+Microsoft Security events</h2> "> 
+ 
+Microsoft Security events
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Previous Slide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Next Slide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect with us at Black Hat at the Microsoft Security Mixer</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Connect with us at Black Hat at the Microsoft Security Mixer
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Continue the conversation beyond the conference. Connect with Microsoft specialists and fellow practitioners. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Register now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ On demand | Global 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microsoft Build 2026</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Microsoft Build 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Catch up on keynotes, technical sessions, and the latest announcements from Microsoft Build 2026. Sessions are available on demand so you can learn at your own pace. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Watch on demand
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore all upcoming events</h3> "> 
+ 
+ 
+ 
+ 
+ 
+Explore all upcoming events
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Whether you’re looking for an executive roundtable discussion or a hands-on workshop, find events that inspire you. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Find events
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Back to Events section
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Industry recognition 
+ 
+ 
+A recognized security leader</h2> "> 
+ 
+A recognized security leader
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A Leader in five Gartner® Magic Quadrant™ reports.
+2
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A Leader in two Forrester Wave™ categories.
+3
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A Leader in four IDC MarketScape reports.
+4
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A Leader in ten KuppingerCole reports. 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CUSTOMER STORIES 
+ 
+ 
+Agile security for a connected world</h2> "> 
+ 
+Agile security for a connected world
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See all customer stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

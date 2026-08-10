@@ -1,0 +1,5196 @@
+===== llms.txt :: https://www.pushwoosh.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Pushwoosh
+> Pushwoosh is an omnichannel customer engagement platform for mobile-first products. It unifies mobile and web push notifications, in-app messaging, email, SMS, WhatsApp, and Apple/Google Wallet passes with a visual Customer Journey Builder, real-time behavioral and RFM segmentation, an actionable customer data platform (CDP), campaign and revenue analytics, and ManyMoneyAI — an autonomous AI marketing copilot. Trusted by 80,000+ brands. Free up to 1,000 MAU.
+Key facts:
+- Category: customer engagement platform. Also answers queries for: mobile marketing automation, omnichannel messaging platform, push notification service, push notification API, actionable CDP, Braze/OneSignal/Firebase alternative.
+- Channels: mobile push (iOS, Android, Huawei, Fire OS), web push (Chrome, Safari, Firefox, Edge), in-app messaging, email, SMS (187 countries), WhatsApp Business, wallet passes, iOS Live Activities; Telegram, LINE, and KakaoTalk available via the Messaging MCP (beta).
+- Scale and reliability: up to 500,000 pushes per second (~1M in 3 seconds), 99.9% uptime SLA, sub-100 ms API responses; media clients send 5–12M pushes daily (wetter.com: 5M daily alerts to 10.3M subscribers).
+- Security and compliance: SOC 2, ISO 27001:2022, HIPAA, GDPR and ePrivacy. Data is stored on privately owned servers (Pushwoosh Enterprise Cloud) in the US and Germany; EU data residency guaranteed for European clients; dedicated isolated infrastructure available (Private Offering).
+- Pricing: pay-as-you-go; free up to 1,000 MAU; Omnichannel plan from $13 per 1,000 MAU; email-only plan from $5 per 1,000 recipients; unlimited push and in-app messages on all plans; no feature gating between plans; no minimum annual spend. Details: https://www.pushwoosh.com/pricing/
+- Implementation: SDK integrates in ~15 minutes; typical production rollout takes 2–10 days. SDKs: native iOS and Android, Flutter, React Native, Unity, Cordova, Expo, MAUI .NET, OutSystems.
+- Best fit: product, growth, and CRM teams at mobile apps in e-commerce, gaming, fintech, telecom, media, and delivery; API-first engineering teams that need a marketing automation layer on top of raw FCM/APNs delivery.
+- Named customers: Telepizza, GB News, AvaTrade, Bantoa, HungryNaki, Bladestorm, G5 Games, justDice, wetter.com, FIBA, SPORT1, Ankama, Peoplefun.
+- The site is available in 14 languages: English (default, no URL prefix) plus /es/, /fr/, /de/, /ru/, /zh/, /hi/, /ar/, /bn/, /pt/, /th/, /ko/, /he/, /ja/ prefixes.
+## Messaging channels
+- [Mobile Push Notifications](https://www.pushwoosh.com/products/mobile-push-notifications/): iOS/Android push with CDP-level segmentation, Dynamic Content and Liquid templates, Best Time to Send, and per-message analytics.
+- [Web Push Notifications](https://www.pushwoosh.com/products/web-push-notifications/): browser push for desktop and mobile web (Chrome, Safari, Firefox, Edge, PWA) with segmentation and conversion tracking.
+- [High-Speed Push Notifications](https://www.pushwoosh.com/products/high-speed-push-notifications/): up to 500,000 notifications per second for breaking news, sports scores, and time-critical alerts.
+- [In-App Messaging](https://www.pushwoosh.com/products/in-app-messaging/): no-code in-app messages reaching 100% of active users without opt-in; drag-and-drop editor, event triggers, A/B/n testing.
+- [Email](https://www.pushwoosh.com/products/emails/): email marketing with drag-and-drop builder, template library, HTML mode, and journey automation coordinated with push and SMS.
+- [SMS](https://www.pushwoosh.com/products/sms/): SMS campaigns in 187 countries with cost optimization — cheaper channels are tried first to reduce SMS spend.
+- [WhatsApp](https://www.pushwoosh.com/products/whatsapp/): WhatsApp Business API messaging for two-way conversations, rich media, and automation; strongest reach in LATAM and MENA (96% coverage in Brazil).
+- [Wallet Passes](https://www.pushwoosh.com/products/wallet-passes/): native Apple Wallet and Google Wallet cards (loyalty, membership, coupons, tickets) that update remotely after install.
+## Platform capabilities
+- [Customer Journey Builder](https://www.pushwoosh.com/products/customer-journey/): visual omnichannel journey orchestration combining messaging, segmentation, and analytics in one drag-and-drop canvas.
+- [Marketing Segmentation](https://www.pushwoosh.com/products/marketing-segmentation/): behavioral, location-based, and AI-powered RFM segmentation with 365-day historical data and a visual segment builder.
+- [Real-Time Segmentation](https://www.pushwoosh.com/products/real-time-segmentation/): segments that update instantly on user behavior with compound AND/OR logic, time windows, and live audience counters.
+- [Behavioral Segmentation](https://www.pushwoosh.com/products/behavioral-segmentation/): tag-, event-, and filter-based targeting; case study: 9.4x CTR vs industry benchmark (AvaTrade).
+- [Actionable CDP](https://www.pushwoosh.com/products/cdp/): customer data platform that synchronizes and activates user data for segmentation and omnichannel messaging.
+- [Analytics](https://www.pushwoosh.com/products/analytics/): campaign and per-message stats, conversion funnels, D1/D7/D30 retention, RFM grid, custom dashboards, event streaming, data export.
+- [Predictive Marketing Analytics](https://www.pushwoosh.com/products/predictive-marketing-analytics/): ML scoring for churn (85% precision, 30 days ahead), conversion, and LTV — no data science team required.
+- [AI-Powered Personalization](https://www.pushwoosh.com/products/ai-powered-personalization/): purchase-intent scoring, churn prediction 72 hours ahead, autonomous segmentation, dynamic content across all channels.
+- [ManyMoneyAI Marketing Copilot](https://www.pushwoosh.com/products/ai-marketer/): autonomous AI that detects underperforming campaigns, finds high-intent customers, launches and optimizes campaigns; included in every plan, activates in ~30 minutes.
+- [Omnichannel Personalization](https://www.pushwoosh.com/products/personalization/): AI-built segments from plain-language descriptions, Liquid templates, Connected Content pulling live backend data.
+- [A/B Testing](https://www.pushwoosh.com/products/marketing-ab-testing/): variant testing across push, email, in-app, and SMS with automatic statistical significance and multi-armed bandit optimization.
+- [Multi-Channel Orchestration](https://www.pushwoosh.com/products/multi-channel-orchestration/): cross-channel journeys with fallback logic, frequency capping, and AI channel selection.
+- [Event-Triggered Marketing](https://www.pushwoosh.com/products/event-triggered-marketing/): any tracked event launches multi-channel campaigns in milliseconds; 3–5x higher conversion vs scheduled sends.
+## Solutions by industry
+- [E-commerce](https://www.pushwoosh.com/products/e-commerce-solution/): cart abandonment recovery, behavioral segmentation, and lifecycle messaging; case studies report +70% sales from cart recovery and +40% AOV from personalization.
+- [Gaming](https://www.pushwoosh.com/products/gaming/): player engagement and monetization — event-based segmentation, LiveOps messaging, recurring deals; clients include G5 Games, Ankama, Peoplefun.
+- [Mobile Games (retention focus)](https://www.pushwoosh.com/products/pushwoosh-for-mobile-games/): behavioral triggers, tournament Live Activities, win-back automation; justDice cut churn 26% across 20+ apps.
+- [Fintech & Banking](https://www.pushwoosh.com/products/fintech-banking/): secure transactional and marketing messaging with SOC 2/ISO 27001/GDPR compliance; AvaTrade converted 12% of anonymous users to registered accounts.
+- [Neo-banks & Digital Wallets](https://www.pushwoosh.com/products/pushwoosh-for-finance-apps/): API-first delivery, 99.9% transactional delivery rate, 10M+ banking alerts daily, Live Activities for balances and transfers.
+- [Trading Platforms](https://www.pushwoosh.com/products/pushwoosh-for-trading-apps/): real-time trade alerts (15M+ daily), portfolio-personalized signals, API triggers from trading engines.
+- [Telecom](https://www.pushwoosh.com/products/telecom/): subscriber lifecycle messaging; reported results: −25% churn, +18% ARPU, +45% self-service app engagement.
+- [News & Media](https://www.pushwoosh.com/products/media/): high-speed delivery, iOS Live Activities, CMS/API content flows; GB News sends 12M daily pushes with 72.2% opt-in; EU (Germany) data center.
+- [Mobility & Delivery](https://www.pushwoosh.com/products/mobility-delivery/): geo-based segmentation, order status via Live Activities and in-app; Telepizza attributes $2,400–3,600 revenue per targeted push send.
+- [Delivery Apps & Quick Commerce](https://www.pushwoosh.com/products/pushwoosh-for-delivery-apps/): reorder automation, geo-triggered alerts, AI campaigns; case: +47% campaign revenue in 90 days.
+- [Subscription Apps](https://www.pushwoosh.com/products/subscription-based-apps/): conversion-path tracking and paywall nudges; reported up to 67% conversion to subscription and +34% MRR.
+- [EdTech & Learning Apps](https://www.pushwoosh.com/products/pushwoosh-for-e-learning/): streak reminders, onboarding journeys, assignment Live Activities; 3x higher course completion with streak campaigns.
+## Use cases
+- [Cart Abandonment Recovery](https://www.pushwoosh.com/products/cart-abandonment-recovery/): automated reminders and incentives across push, email, and in-app.
+- [Increase User Retention](https://www.pushwoosh.com/products/increase-user-retention/): AI churn prediction 72 hours ahead plus lifecycle campaigns from onboarding to win-back.
+- [Churn Prevention Campaigns](https://www.pushwoosh.com/products/churn-prevention-campaigns/): early disengagement detection and automated retention offers; 35% fewer cancellations in case data.
+- [Reduce Churn Rate](https://www.pushwoosh.com/products/reduce-churn-rate/): predictive churn management for subscription products with risk thresholds and dunning sequences.
+- [Win Back Dormant Users](https://www.pushwoosh.com/products/win-back-dormant-users/): reactivation campaigns; case: 16% dormant-user reactivation, 2.6x MAU.
+- [Customer Onboarding Journeys](https://www.pushwoosh.com/products/customer-onboarding-journey/): multi-channel onboarding; 2x Day-1 activation, 75% completion in case data.
+- [First Purchase Onboarding](https://www.pushwoosh.com/products/first-purchase-onboarding/): purchase-triggered welcome flows that drive repeat purchases.
+- [Post-Purchase Communication](https://www.pushwoosh.com/products/post-purchase-communication/): order confirmations, shipping updates, review requests, cross-sell with live order data.
+- [Boost App Engagement](https://www.pushwoosh.com/products/boost-app-engagement/): behavioral triggers that grow DAU and feature adoption (case: DAU 15%→28% in 60 days).
+- [Drive Revenue Growth](https://www.pushwoosh.com/products/drive-revenue-growth/): AI campaign optimization targeting ARPU, LTV, and conversions; case: +43% quarterly revenue.
+- [Player Re-engagement](https://www.pushwoosh.com/products/player-reengagement/): win-back for lapsed players with at-risk scoring and channel escalation.
+- [Player Monetization Journeys](https://www.pushwoosh.com/products/player-monetization-journey/): spending-tier segmentation (non-spenders to whales) with triggers on in-game events.
+- [VIP / Whale Management](https://www.pushwoosh.com/products/vip-player-management/): retention automation for top spenders who drive ~70% of mobile game revenue.
+- [In-Game Events Promotion](https://www.pushwoosh.com/products/in-game-events-promotion/): countdown sequences and behavioral targeting for LiveOps events.
+- [Smart Coupon Journeys](https://www.pushwoosh.com/products/smart-coupons-journey/): behavior-triggered coupon campaigns with margin-protecting discount logic.
+- [Replenishment Reminders](https://www.pushwoosh.com/products/replenishment-reminders/): reorder reminders timed to product lifecycle.
+- [Birthday & Anniversary Campaigns](https://www.pushwoosh.com/products/birthday-anniversary-campaigns/): automated milestone sequences; typical results 52% open rate, 22% conversion.
+- [Plan Upgrade Campaigns](https://www.pushwoosh.com/products/plan-upgrade-campaigns/): usage-milestone triggers and in-app prompts for subscription upgrades.
+- [Telecom: Bill Payment Reminders](https://www.pushwoosh.com/products/bill-payment-reminders/): multi-touch dunning with one-tap payment links (+40% on-time payments).
+- [Telecom: Roaming Notifications](https://www.pushwoosh.com/products/roaming-notifications/): border-crossing alerts and roaming package promotion.
+- [Telecom: Data Usage Alerts](https://www.pushwoosh.com/products/data-usage-alerts/): real-time threshold alerts preventing bill shock.
+- [Telecom: Network Outage Communications](https://www.pushwoosh.com/products/network-outage-communications/): API-triggered, geo-targeted incident alerts with SMS failsafe (−65% support calls during outages).
+- [Healthcare: Seasonal Campaigns](https://www.pushwoosh.com/products/seasonal-health-marketing/): HIPAA-compliant patient reminders (flu shots, screenings, wellness visits).
+- [For Marketing Teams](https://www.pushwoosh.com/products/marketing-team-solution/): no-code campaign and journey building with approval workflows and role-based permissions.
+- [For Product Managers](https://www.pushwoosh.com/products/product-manager-solution/): in-app onboarding tours, checklists, and feature-discovery tooltips for product-led growth.
+## Compare Pushwoosh
+- [Pushwoosh vs Braze](https://www.pushwoosh.com/products/pushwoosh-vs-braze/): device-based pricing from $0 vs data-point billing (Braze typically $60K–100K+/yr); 2–10 day integration vs 6+ week onboarding; no minimum spend.
+- [Pushwoosh vs OneSignal](https://www.pushwoosh.com/products/pushwoosh-vs-onesignal/): unlimited journeys (OneSignal caps at 3–20), full RFM and event-based segmentation, 1-year+ data retention (OneSignal deletes API/Journeys data after 30 days), WhatsApp and walle
+
+===== homepage :: https://www.pushwoosh.com/
+--- SIGNALS ---
+title: Customer engagement platform: push, email, in-app | Pushwoosh
+meta_description: All-in-one customer engagement platform: omnichannel messaging, actionable CDP, advanced segmentation & automation. Turn customer data into high-converting campaigns.
+og_description: All-in-one customer engagement platform: omnichannel messaging, actionable CDP, advanced segmentation & automation. Turn customer data into high-converting campaigns.
+og_site_name: Pushwoosh
+h1: One platform for complete user journey
+h2: Reach the right users — and your revenue goals | Their success is our track record | Precision targeting, fail-proof omnichannel delivery | Everything you need for data-driven engagement | Our customers see success | Customer success stories | You can trust our stability & support | Advance to the next level
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Pushwoosh", "legalName": "Pushwoosh Inc.", "url": "https://www.pushwoosh.com", "logo": {"@type": "ImageObject", "url": "https://www.pushwoosh.com/logo.png", "width": 512, "height": 512}, "description": "Customer engagement platform for mobile and web apps. Push notifications, in-app messages, email, SMS, WhatsApp, and more.", "foundingDate": "2014", "sameAs": ["https://www.linkedin.com/company/pushwoosh/", "https://x.com/Pushwoosh", "https://www.facebook.com/Pushwoosh", "https://www.youtube.com/channel/UCXL3AVQUxECljGI8vVCBPpQ", "https://github.com/Pushwoosh"], "contactPoint": [{"@type": "ContactPoint", "contactType": "sales", "url": "https://www.pushwoosh.com/demo/"}, {"@type": "ContactPoint", "contactType": "customer service", "url": "https://help.pushwoosh.com/hc/en-us/requests/new"}]}]
+--- TEXT ---
+Customer engagement platform: push, email, in-app | Pushwoosh
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mobile push notifications
+ 
+Efficient, proven by customers
+ 
+ 
+ 
+ 
+ 
+ 
+Customer journey builder
+ 
+Visual tool for cross-channel journeys
+ 
+ 
+ 
+ 
+ 
+ 
+In-app messaging
+ 
+Best-in-class no-code builder
+ 
+ 
+ 
+ 
+ 
+ 
+Emails
+ 
+Visual email builder for richer messaging
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+Web push notifications
+ 
+ 
+Audience segmentation
+ 
+ 
+ManyMoney MCP
+New
+ 
+ 
+SMS
+ 
+ 
+WhatsApp
+ 
+ 
+Wallet passes
+New
+ 
+ 
+Actionable CDP
+ 
+ 
+Analytics
+ 
+ 
+Omnichannel personalization
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+Gaming
+ 
+ 
+Fintech & Banking
+ 
+ 
+Mobility & Delivery
+ 
+ 
+Media
+ 
+ 
+Subscription-Based Apps
+ 
+ 
+E-commerce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ManyMoney AI
+ 
+Fully autonomous AI marketing copilot, grinding and earning 24/7. Catches performance leaks, finds ready-to-buy customers, and optimizes for revenue.
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+Pricing
+ 
+ 
+ Company 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Pushwoosh
+ 
+Advanced capacities. User-centric approach
+ 
+ 
+ 
+ 
+ 
+ 
+Data safety
+ 
+Security-first, built for peace of mind
+ 
+ 
+ 
+ 
+ 
+ 
+About us
+ 
+Helping businesses thrive in mobile-first
+ 
+ 
+ 
+ 
+ 
+ 
+Success stories
+ 
+How leading apps grow with Pushwoosh
+ 
+ 
+ 
+ 
+ 
+ 
+Testimonials
+ 
+What customers say about using Pushwoosh
+ 
+ 
+ 
+ 
+ 
+ 
+Reseller program
+ 
+Resell Pushwoosh in your region — own your pricing and margin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+Best practices, data insights, and news
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing guides & Insights
+ 
+Proven strategies and insights
+ 
+ 
+ 
+ 
+ 
+ 
+Product Documentation
+ 
+How-to guides and campaign tips
+ 
+ 
+ 
+ 
+ 
+ 
+Developer Documentation
+ 
+SDK guides and API references
+ 
+ 
+ 
+ 
+ 
+ 
+Tutorials
+ 
+Step-by-step video tutorials
+ 
+ 
+ 
+ 
+ 
+ 
+Webinars
+ 
+Live and on-demand webinars
+ 
+ 
+ 
+ 
+ 
+ 
+Get help
+ 
+Contact our Support team
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compare Pushwoosh
+ 
+ 
+ 
+Pushwoosh vs. Customer.io
+ 
+ 
+Pushwoosh vs. MoEngage
+ 
+ 
+Pushwoosh vs. CleverTap
+ 
+ 
+Pushwoosh vs. Braze
+ 
+ 
+Pushwoosh vs. OneSignal
+ 
+ 
+Pushwoosh vs. Firebase
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40% revenue growth in 90 days with autonomous ManyMoney AI: Case study
+ 
+Dec 11, 2025 • 7 min read
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+EN
+ 
+English
+ 
+ 
+ES
+ 
+Español
+ 
+ 
+FR
+ 
+Français
+ 
+ 
+DE
+ 
+Deutsch
+ 
+ 
+RU
+ 
+Русский
+ 
+ 
+ZH
+ 
+中文
+ 
+ 
+HI
+ 
+हिन्दी
+ 
+ 
+AR
+ 
+العربية
+ 
+ 
+BN
+ 
+বাংলা
+ 
+ 
+PT
+ 
+Português
+ 
+ 
+TH
+ 
+ไทย
+ 
+ 
+KO
+ 
+한국어
+ 
+ 
+HE
+ 
+עברית
+ 
+ 
+JA
+ 
+日本語
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact sales 
+ 
+ 
+ 
+ 
+ 
+Contact sales
+ 
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+EN
+ 
+English
+ 
+ 
+ES
+ 
+Español
+ 
+ 
+FR
+ 
+Français
+ 
+ 
+DE
+ 
+Deutsch
+ 
+ 
+RU
+ 
+Русский
+ 
+ 
+ZH
+ 
+中文
+ 
+ 
+HI
+ 
+हिन्दी
+ 
+ 
+AR
+ 
+العربية
+ 
+ 
+BN
+ 
+বাংলা
+ 
+ 
+PT
+ 
+Português
+ 
+ 
+TH
+ 
+ไทย
+ 
+ 
+KO
+ 
+한국어
+ 
+ 
+HE
+ 
+עברית
+ 
+ 
+JA
+ 
+日本語
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+One platform
+ for complete user journey
+ 
+Turn customer data into high-converting campaigns with advanced segmentation and omnichannel messaging.
+ 
+ 
+ Contact sales 
+ Start for free 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reach the right users — and your 
+revenue
+ goals
+ 
+ 
+ 
+ 
+ 
+Convert new users
+Retain high-value clients
+Recover churn
+Maximize ARPU
+Secure recurring revenue
+ 
+ 
+ 
+ 
+ 
+ 
+Boost app adoption with personalized onboarding informed by user acquisition data. Drive ROI faster with targeted offers based on initial in-app behavior and preferences.
+“Pushwoosh’s targeting is precise, effective, and as easy as sending broadcasts and scheduled pushes.”
+Javier Bosque
+, Head of E-Commerce & Media, Telepizza
+ 
+ 
+ 
+ 
+ 
+ 
+Boost CLV with tailored offers, exclusive content, and in-game rewards. Provide value and drive revenue through omnichannel message delivery.
+“Pushwoosh works flawlessly. We haven’t had any issues since we launched. We’re happy with the way it works.”
+Marcus Olovsson
+, CIO, Ryde
+ 
+ 
+ 
+ 
+ 
+ 
+Win back lapsed users with personalized re-engagement offers and revenue-driving incentives that bring them back—and keep them spending.
+“Pushwoosh benefits the entire business, providing actionable insights into what users want and how they will react to push notifications.”
+Paul Mabb
+, Senior Analytics Manager, GB News
+ 
+ 
+ 
+ 
+ 
+ 
+Increase purchases and upgrades with highly relevant upsell and cross-sell offers, delivered at the perfect moment to maximize revenue impact.
+“Personalized push campaigns had a noticeable impact on our monetary metrics: average order value, customer lifetime value, and orders per push.”
+Zahidul Alam Chowdhury
+, Head of Product, Hungrynaki
+ 
+ 
+ 
+ 
+ 
+ 
+Keep app users subscribed with timely, personalized reminders, content updates, and new feature announcements. Ensure consistent revenue through renewals.
+“We were looking for a solution that would scale our app growth at a reasonable price. Pushwoosh met our needs perfectly!”
+Eugene Cherdantshev
+, UA & Product Marketing Manager, Bladestorm
+ 
+ 
+ 
+ 
+ 
+ 
+Their success is our 
+track
+ record
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Precision targeting, fail-proof 
+omnichannel
+ delivery
+ 
+ 
+ 
+ 
+ 
+ 
+Unify customer data
+ 
+Turn fragmented data into a revenue engine—track user behavior, preferences, and history in one place.
+ 
+ 
+ 
+ 
+ 
+ 
+Activate targeted campaigns
+ 
+Reach the right user at the right moment—boost retention, reduce churn, and increase monetization.
+ 
+ 
+ 
+ 
+ 
+ 
+Optimize for growth
+ 
+Scale engagement without scaling costs. Track impact, A/B/n test, and continuously improve conversions.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Everything you need for 
+data-driven
+ engagement
+ 
+ 
+ 
+Flexible segmentation
+Reach high-value, revenue-driving audiences with minimal effort. Define segments based on real-time user behavior, historical data, and RFM criteria—more accurately than ever!
+Tags & attributes
+ — segment by user profile data
+Events
+ — target based on in-app or on-site actions
+Uploaded lists
+ — import audiences from external sources
+Grouped filters
+ — build nested groups with AND / OR logic inside and between them
+ 
+ 
+Personalized messaging
+Deliver relevant content and offers that engage and convert. Dynamically insert names, preferences, product recommendations, and localized content to increase purchase intent and long-term customer loyalty.
+Personal data
+ — e.g. customer name or products from an abandoned cart
+Event attributes
+ — e.g. delivery tracking number or order details
+Any channel
+ — personalize push, in-app, email, SMS, or messengers
+ 
+ 
+Omnichannel campaigns
+Design seamless customer journeys that drive revenue across every touchpoint. Leverage the most effective and efficient channels:
+Push notifications
+Emails
+In-app messaging
+SMS
+WhatsApp
+ and more messengers
+ 
+ 
+Automation at scale
+Reach millions, deliver instantly. Pushwoosh handles high volumes with speed and efficiency, consistently driving conversions and minimizing your workload.
+ 
+ 
+Actionable analytics
+See what works, optimize for growth. Track user behavior and campaign performance in real-time to gain actionable insights that drive engagement, conversions, and higher revenue.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our customers see success
+ 
+ 
+ 
+ 7x 
+ 
+ higher engagement with push notifications 
+ 
+ 
+ 25x 
+ 
+ higher conversion into target action 
+ 
+ 
+ 30x 
+ 
+ higher in-app activity 
+ 
+ 
+ 
+ 
+ 
+Customer success stories
+Read more stories →
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-Commerce
+ 
+Bantoa drives up to 91.9% CTRs with personalized push, keeping 94% of subscribers active monthly.
+ 
+ 
+ 
+Bantoa's Case
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fintech
+ 
+AvaTrade has converted 12% of anonymous users to real account registration through omnichannel messaging.
+ 
+ 
+ 
+AvaTrade's Case
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+News
+ 
+GB News engages 1.2M users with targeted real-time push notifications, achieving an 8.55% retention on Day 30.
+ 
+ 
+ 
+GB News's Case
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaming
+ 
+Bladestorm has boosted revenue by 4.58% using automated flows in Pushwoosh Customer Journey Builder.
+ 
+ 
+ 
+Bladestorm's Case
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Seamless 
+integration
+ with your data ecosystem
+ 
+Get a complete view of your customer by seamlessly integrating data from your favorite platforms. Pushwoosh connects effortlessly with tools like Adjust, Amplitude, Appsflyer, Mixpanel, Segment, and Shopify, empowering advanced segmentation and highly targeted messaging that maximizes retention and monetization.
+ 
+ How to become partner 
+ 
+ 
+ 
+ 
+You can 
+trust
+ our stability & support
+We work on privately owned enterprise-grade server hardware and don’t use any third-party cloud hosting solutions. We offer detection and prevention system, anti-DDoS protection, and isolated dedicated infrastructure for Private Offering setup. Our infrastructure is built in a way to ensure continuous availability and highest-level performance.
+ 
+ 
+ 
+ 
+ 
+99.9%
+ service uptime
+ 
+Pushwoosh Enterprise Cloud employs state-of-the-art supercomputer technologies used by the companies like CERN and NASA. The cloud is fully redundant to prevent and minimize downtime.
+ 
+ 
+ 
+ 
+ 
+GDPR
+ compliance
+ 
+For European clients, we guarantee our datacenter location within EU (Germany), as well as compliance with GDPR, Bundesdatenschutzgesetz (Data Protection Acts), and ISO 27 001. 
+More details
+ 
+ 
+ 
+ 
+ 
+24/7
+ available support
+ 
+Let your developers take care of your product, and we will help you integrate it with Pushwoosh and provide a full technical review of the software.
+ 
+ 
+ 
+ 
+ 
+Available on 
+all platforms
+One tool to collect data and deliver messages across all known platforms.
+ 
+ 
+15 minutes to 
+integrate
+ our SDK
+One tool to collect data and deliver messages across all known platforms.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advance to the 
+next level
+ 
+Learn how to build effective cross-channel communications and drive conversions. See the platform in action for different marketing cases. Our experienced team will answer your questions and offer the best plan for your business needs.
+ 
+ 
+ Contact sales 
+ Start for free 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Messaging
+ 
+ 
+ 
+Customer Journey Builder
+ 
+ 
+Mobile push notifications
+ 
+ 
+Web push notifications
+ 
+ 
+In-App Messaging
+ 
+ 
+Email
+ 
+ 
+SMS
+ 
+ 
+WhatsApp
+ 
+ 
+Wallet passes
+New
+ 
+ 
+ 
+ 
+ 
+ 
+Customer data platform
+ 
+ 
+ 
+Pushwoosh API
+ 
+ 
+ManyMoney MCP
+New
+ 
+ 
+Actionable CDP
+ 
+ 
+Audience segmentation
+ 
+ 
+Campaign analytics
+ 
+ 
+Integrations
+ 
+ 
+Data safety
+ 
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+Gaming
+ 
+ 
+Fintech & banking
+ 
+ 
+Mobility & delivery
+ 
+ 
+Media
+ 
+ 
+Subscription-based apps
+ 
+ 
+E-commerce
+ 
+ 
+ 
+ 
+ 
+ 
+Compare Pushwoosh
+ 
+ 
+ 
+Pushwoosh vs. Customer.io
+ 
+ 
+Pushwoosh vs. MoEngage
+ 
+ 
+Pushwoosh vs. CleverTap
+ 
+ 
+Pushwoosh vs. Braze
+ 
+ 
+Pushwoosh vs. OneSignal
+ 
+ 
+Pushwoosh vs. Firebase
+ 
+ 
+ 
+ 
+ 
+ 
+Best Tools
+ 
+ 
+ 
+Best omnichannel messaging platforms
+ 
+ 
+Best customer engagement tools
+ 
+ 
+Best user segmentation tools
+ 
+ 
+Best mobile push notification services
+ 
+ 
+Best email automation software
+ 
+ 
+Best in-app messaging platforms
+ 
+ 
+Best WhatsApp marketing tools
+ 
+ 
+ 
+ 
+ 
+ 
+Email marketing hub
+ 
+ 
+ 
+Email marketing templates
+ 
+ 
+Drag-and-drop email builder
+ 
+ 
+Promotional emails
+ 
+ 
+Transactional emails
+ 
+ 
+Email deliverability
+ 
+ 
+HIPAA-compliant emails
+ 
+ 
+GDPR-compliant emails
+ 
+ 
+ 
+ 
+ 
+ 
+For users & developers
+ 
+ 
+ 
+Product documentation
+ 
+ 
+Developer documentation
+ 
+ 
+Status page
+ 
+ 
+Help center
+ 
+ 
+Support
+ 
+ 
+GitHub
+ 
+ 
+ 
+ 
+ 
+ 
+Get in touch
+ 
+ 
+ 
+About Pushwoosh
+ 
+ 
+Pricing
+ 
+ 
+Contact sales
+ 
+ 
+Talk to support
+ 
+ 
+Reseller program
+New
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 Pushwoosh Inc. All rights reserved.
+ 
+ 
+ 
+Terms of service
+ 
+ 
+Privacy policy
+
+===== product :: https://docs.pushwoosh.com/product
+--- SIGNALS ---
+title: User guides | Pushwoosh Documentation
+meta_description: Set up Pushwoosh, manage content, and send messages via push, in-app, email, SMS, WhatsApp, and more with easy-to-follow guides.
+og_description: Set up Pushwoosh, manage content, and send messages via push, in-app, email, SMS, WhatsApp, and more with easy-to-follow guides.
+og_site_name: Pushwoosh Documentation
+h1: User guides
+h2: Table of contents | First steps | Send automated and one-time campaigns | Target the right audience | Create and manage content | Measure and optimize your campaigns | Connect Pushwoosh with your tools | Learn more and troubleshoot
+jsonld_org: [{"@type": "Organization", "name": "Pushwoosh", "url": "https://pushwoosh.com", "logo": {"@type": "ImageObject", "url": "docs.pushwoosh.com/logo.png"}}]
+--- TEXT ---
+User guides | Pushwoosh Documentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ User guides 
+ 
+ Developer documentation 
+ 
+Support
+ 
+Request demo
+ 
+Sign in
+ 
+ 
+ 
+ 
+ User guides 
+ 
+ 
+ Developer documentation 
+ 
+Support
+ 
+Request demo
+ 
+Sign in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushwoosh.com
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+Ctrl
+K
+ 
+ 
+ 
+ 
+ 
+ Cancel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Select theme
+ 
+ 
+Dark
+Light
+Auto
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Select language
+ 
+ 
+English
+中文
+Español
+Français
+Deutsch
+Русский
+हिन्दी
+العربية
+বাংলা
+Português
+한국어
+ไทย
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ User guides 
+ 
+ 
+ 
+Release notes
+ 
+ 
+ 
+ 
+ 
+ 
+First steps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What is Pushwoosh?
+ 
+ 
+ 
+ 
+Navigating Pushwoosh
+ 
+ 
+ 
+ 
+ 
+ 
+Start with your project
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get started with your project
+ 
+ 
+ 
+ 
+Create your project
+ 
+ 
+ 
+ 
+ 
+ 
+Configure platforms
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Configure platforms
+ 
+ 
+ 
+ 
+Email platform configuration
+ 
+ 
+ 
+ 
+WhatsApp platform configuration
+ 
+ 
+ 
+ 
+SMS platform configuration
+ 
+ 
+ 
+ 
+KakaoTalk platform configuration
+ 
+ 
+ 
+ 
+Telegram platform configuration
+ 
+ 
+ 
+ 
+Viber platform configuration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Register devices and synchronize data
+ 
+ 
+ 
+ 
+Set custom User IDs
+ 
+ 
+ 
+ 
+ 
+ 
+Test your Integration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send a test communication
+ 
+ 
+ 
+ 
+Test devices
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushwoosh glossary
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushwoosh AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushwoosh AI overview
+ 
+ 
+ 
+ 
+ManyMoney AI
+ 
+new
+ 
+ 
+ 
+ 
+ManyMoney AI MCP server
+ 
+new
+ 
+ 
+ 
+ 
+ManyMoney Messaging MCP Server
+ 
+new
+ 
+ 
+ 
+ 
+Troubleshoot with ManyMoney AI
+ 
+ 
+ 
+ 
+Generate push content with AI composer
+ 
+ 
+ 
+ 
+Translate push content with AI
+ 
+ 
+ 
+ 
+Use AI tools in the Drag & drop editor
+ 
+ 
+ 
+ 
+Build segments with AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Journey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushwoosh Customer Journey overview
+ 
+ 
+ 
+ 
+Create a test journey
+ 
+ 
+ 
+ 
+Prepare your project
+ 
+ 
+ 
+ 
+Create a customer journey for your project
+ 
+ 
+ 
+ 
+ 
+ 
+Journey elements
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with Journey elements
+ 
+ 
+ 
+ 
+ 
+ 
+Entry elements
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding entry elements
+ 
+ 
+ 
+ 
+Trigger-based entry
+ 
+ 
+ 
+ 
+API-based entry
+ 
+ 
+ 
+ 
+Audience-based entry
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Channel elements overview
+ 
+ 
+ 
+ 
+Push
+ 
+ 
+ 
+ 
+Multi-Armed Bandit
+ 
+ 
+ 
+ 
+Email
+ 
+ 
+ 
+ 
+In-app
+ 
+ 
+ 
+ 
+SMS
+ 
+ 
+ 
+ 
+WhatsApp
+ 
+ 
+ 
+ 
+Viber
+ 
+ 
+ 
+ 
+Kakao
+ 
+ 
+ 
+ 
+Telegram
+ 
+ 
+ 
+ 
+LINE
+ 
+ 
+ 
+ 
+Data to app
+ 
+ 
+ 
+ 
+Webhook
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Flow controls
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with flow controls
+ 
+ 
+ 
+ 
+Condition split
+ 
+ 
+ 
+ 
+Wait for Trigger
+ 
+ 
+ 
+ 
+A/B/n Split
+ 
+ 
+ 
+ 
+Reachability check
+ 
+ 
+ 
+ 
+Time delay
+ 
+ 
+ 
+ 
+Update user profile
+ 
+ 
+ 
+ 
+Audience sync
+ 
+ 
+ 
+ 
+Exit from journey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dynamic Content and Liquid Templates in journeys
+ 
+ 
+ 
+ 
+Using webhook response data in your journey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Journey settings
+ 
+ 
+ 
+ 
+Journey editing
+ 
+ 
+ 
+ 
+Journeys list
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Audience data & segmentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with audience data and segmentation
+ 
+ 
+ 
+ 
+ 
+ 
+Segmentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding segments
+ 
+ 
+ 
+ 
+ 
+ 
+Create segments
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to create segments
+ 
+ 
+ 
+ 
+Build segments by tags
+ 
+ 
+ 
+ 
+Build segments by events
+ 
+ 
+ 
+ 
+Build segments by existing segments
+ 
+ 
+ 
+ 
+Build segments by User ID
+ 
+ 
+ 
+ 
+Build segments by geolocation
+ 
+ 
+ 
+ 
+Build segments with compound filters
+ 
+ 
+ 
+ 
+Create anniversary segments
+ 
+ 
+ 
+ 
+Import a segment
+ 
+ 
+ 
+ 
+Build segments with AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Calculate segment size
+ 
+ 
+ 
+ 
+RFM segmentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User data (Tags)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding user data (Tags) in Pushwoosh
+ 
+ 
+ 
+ 
+Manage user data with tags
+ 
+ 
+ 
+ 
+Update tags via CSV
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Events
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding events in Pushwoosh
+ 
+ 
+ 
+ 
+Default events
+ 
+ 
+ 
+ 
+Custom events
+ 
+ 
+ 
+ 
+Conversion events
+ 
+ 
+ 
+ 
+Recommended events for e-commerce
+ 
+ 
+ 
+ 
+Recommended events for gaming apps
+ 
+ 
+ 
+ 
+Recommended events for media
+ 
+ 
+ 
+ 
+Recommended events for mobile apps
+ 
+ 
+ 
+ 
+Recommended events for subscription management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Global control group
+ 
+ 
+ 
+ 
+User Explorer
+ 
+ 
+ 
+ 
+ 
+ 
+Subscription forms
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding subscription forms
+ 
+ 
+ 
+ 
+Create and embed a subscription form
+ 
+ 
+ 
+ 
+Confirm subscribers with double opt-in
+ 
+ 
+ 
+ 
+View form performance and export subscribers
+ 
+ 
+ 
+ 
+Customize the subscription form widget
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Messaging channels
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding messaging channels in Pushwoosh
+ 
+ 
+ 
+ 
+Marketing vs. transactional messages
+ 
+ 
+ 
+ 
+ 
+ 
+Push notifications
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with push notifications
+ 
+ 
+ 
+ 
+Managing your push subscriber base
+ 
+ 
+ 
+ 
+ 
+ 
+Send push notifications
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to send push notifications
+ 
+ 
+ 
+ 
+One-time push
+ 
+ 
+ 
+ 
+One-time push via Customer Journey
+ 
+ 
+ 
+ 
+Recurring push
+ 
+ 
+ 
+ 
+Scheduled push
+ 
+ 
+ 
+ 
+Targeted push
+ 
+ 
+ 
+ 
+Send push to all user devices
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Geo campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+Advanced push features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding advanced push features
+ 
+ 
+ 
+ 
+Silent push notifications
+ 
+ 
+ 
+ 
+iOS interactive push
+ 
+ 
+ 
+ 
+Deep links
+ 
+ 
+ 
+ 
+Using Custom Data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subscription Prompt
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding subscription prompts
+ 
+ 
+ 
+ 
+Default widget
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Message Inbox
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with Message inbox
+ 
+ 
+ 
+ 
+Mobile message inbox
+ 
+ 
+ 
+ 
+Web message inbox
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-apps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with in-apps
+ 
+ 
+ 
+ 
+ 
+ 
+Send in-apps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to send in-app messages
+ 
+ 
+ 
+ 
+Send instant in-apps
+ 
+ 
+ 
+ 
+Send in-apps via Customer Journey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with emails
+ 
+ 
+ 
+ 
+Email deliverability
+ 
+ 
+ 
+ 
+Set up the email subscription preference center
+ 
+ 
+ 
+ 
+Get email subscribers
+ 
+ 
+ 
+ 
+ 
+ 
+Sending emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to send emails
+ 
+ 
+ 
+ 
+Send one-time emails
+ 
+ 
+ 
+ 
+Send emails via Customer Journey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WhatsApp Messages
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with WhatsApp messages
+ 
+ 
+ 
+ 
+Register phone numbers for WhatsApp
+ 
+ 
+ 
+ 
+ 
+ 
+Send WhatsApp messages
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to send WhatsApp messages
+ 
+ 
+ 
+ 
+Send one-time WhatsApp messages
+ 
+ 
+ 
+ 
+Send WhatsApp messages via Customer Journey
+ 
+ 
+ 
+ 
+Send promo codes via WhatsApp
+ 
+ 
+ 
+ 
+Send catalog messages via WhatsApp
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web popups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding Web popups
+ 
+ 
+ 
+ 
+Create Web popup campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with SMS messages
+ 
+ 
+ 
+ 
+Import SMS contacts
+ 
+ 
+ 
+ 
+ 
+ 
+Send SMS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to send SMS
+ 
+ 
+ 
+ 
+Send one-time SMS
+ 
+ 
+ 
+ 
+Send SMS messages via Customer Journey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LINE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with LINE messages
+ 
+ 
+ 
+ 
+Send LINE messages
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Telegram
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with Telegram
+ 
+ 
+ 
+ 
+Send Telegram messages in Customer Journey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kakao
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with Kakao messages
+ 
+ 
+ 
+ 
+Send Kakao messages
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Viber
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with Viber messages
+ 
+ 
+ 
+ 
+Register Viber contacts
+ 
+ 
+ 
+ 
+Send Viber messages
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Apple Wallet passes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with Apple Wallet passes
+ 
+ 
+ 
+ 
+Design passes in the pass builder
+ 
+ 
+ 
+ 
+Message Apple Wallet pass holders
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Google Wallet passes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with Google Wallet passes
+ 
+ 
+ 
+ 
+Design Google Wallet passes in the pass builder
+ 
+ 
+ 
+ 
+Message Google Wallet pass holders
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Message delivery settings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Content creation and organization in Pushwoosh
+ 
+ 
+ 
+ 
+ 
+ 
+Email content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to create and manage email content
+ 
+ 
+ 
+ 
+ 
+ 
+Drag and drop email editor
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get started with the Drag & drop editor
+ 
+ 
+ 
+ 
+Set up your email in the editor
+ 
+ 
+ 
+ 
+Create email content with Drag & drop editor
+ 
+ 
+ 
+ 
+Email content blocks reference
+ 
+ 
+ 
+ 
+Show content to specific recipients
+ 
+ 
+ 
+ 
+Configure email-wide styling and footer
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HTML code editor
+ 
+ 
+ 
+ 
+Reuse email content blocks across campaigns
+ 
+ 
+ 
+ 
+Email templates library
+ 
+ 
+ 
+ 
+Use AI tools in the Drag & drop editor
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Push presets
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create push presets
+ 
+ 
+ 
+ 
+Push AI composer
+ 
+ 
+ 
+ 
+View and manage push presets
+ 
+ 
+ 
+ 
+Translate with AI
+ 
+ 
+ 
+ 
+Legacy push preset form
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-apps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to create and manage in-app content
+ 
+ 
+ 
+ 
+ 
+ 
+No-code in-app editor
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get started with the no-code in-app editor
+ 
+ 
+ 
+ 
+Create in-app messages in the built-in editor
+ 
+ 
+ 
+ 
+In-app editor blocks reference
+ 
+ 
+ 
+ 
+Show in-app content to specific users
+ 
+ 
+ 
+ 
+Configure in-app template settings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create native in-app messages
+ 
+ 
+ 
+ 
+Create opt-in and opt-out popups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create a Brand book
+ 
+ 
+ 
+ 
+Web popup content
+ 
+ 
+ 
+ 
+LINE presets
+ 
+ 
+ 
+ 
+SMS presets
+ 
+ 
+ 
+ 
+Vouchers
+ 
+ 
+ 
+ 
+Product catalog
+ 
+ 
+ 
+ 
+Kakao templates
+ 
+ 
+ 
+ 
+Media store
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud pages
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Pages overview
+ 
+ 
+ 
+ 
+Create a Cloud Page
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with personalization
+ 
+ 
+ 
+ 
+Dynamic content
+ 
+ 
+ 
+ 
+Liquid templates
+ 
+ 
+ 
+ 
+Multi-language messaging
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How-to guides
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction to How-to guides
+ 
+ 
+ 
+ 
+ 
+ 
+How to create campaigns in Pushwoosh
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding campaigns in Pushwoosh
+ 
+ 
+ 
+ 
+How to send a segmented campaign
+ 
+ 
+ 
+ 
+How to send transactional messages
+ 
+ 
+ 
+ 
+How to schedule a message
+ 
+ 
+ 
+ 
+How to run A/B/n tests in customer journeys
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lifecycle marketing campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lifecycle marketing campaigns in Pushwoosh
+ 
+ 
+ 
+ 
+How to onboard users with Pushwoosh
+ 
+ 
+ 
+ 
+How to set up a user activation campaign with Pushwoosh
+ 
+ 
+ 
+ 
+How to set up a user engagement campaign in Pushwoosh
+ 
+ 
+ 
+ 
+How to set up a retention campaign in Pushwoosh
+ 
+ 
+ 
+ 
+How to create a re-engagement campaign in Pushwoosh
+ 
+ 
+ 
+ 
+How to create anniversary campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email marketing campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email marketing campaigns in Pushwoosh
+ 
+ 
+ 
+ 
+How to create a double opt-in email campaign
+ 
+ 
+ 
+ 
+How to set up an abandoned cart campaign
+ 
+ 
+ 
+ 
+How to send an email with products from your catalog
+ 
+ 
+ 
+ 
+How to set up an email sunset flow
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to send a personalized message
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with personalized messages
+ 
+ 
+ 
+ 
+How to send a personalized push notification
+ 
+ 
+ 
+ 
+How to send a personalized in-app message
+ 
+ 
+ 
+ 
+How to send a personalized email
+ 
+ 
+ 
+ 
+How to send a personalized SMS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Statistics & analytics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with statistics & analytics
+ 
+ 
+ 
+ 
+ 
+ 
+Dashboards
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dashboards overview
+ 
+ 
+ 
+ 
+Dashboard metrics and data retention
+ 
+ 
+ 
+ 
+Creating and customizing dashboards
+ 
+ 
+ 
+ 
+Building and managing charts in dashboards
+ 
+ 
+ 
+ 
+Refine analytics with filters
+ 
+ 
+ 
+ 
+Gain deeper insights with data breakdowns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project statistics
+ 
+ 
+ 
+ 
+ 
+ 
+Journey statistics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding Customer Journey statistics
+ 
+ 
+ 
+ 
+Overall journey statistics
+ 
+ 
+ 
+ 
+Journey element statistics
+ 
+ 
+ 
+ 
+Analyze user path in a customer journey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Messaging statistics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Understanding messaging statistics in Pushwoosh
+ 
+ 
+ 
+ 
+Push notification statistics
+ 
+ 
+ 
+ 
+In-app statistics
+ 
+ 
+ 
+ 
+Email statistics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Message history
+ 
+ 
+ 
+ 
+User retention statistics
+ 
+ 
+ 
+ 
+Aggregated messages
+ 
+ 
+ 
+ 
+Statistics FAQ
+ 
+ 
+ 
+ 
+Metrics glossary
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Account management & security
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting started with account management and security
+ 
+ 
+ 
+ 
+Account settings
+ 
+ 
+ 
+ 
+Manage projects
+ 
+ 
+ 
+ 
+Manage user access and permissions
+ 
+ 
+ 
+ 
+Set up passkeys
+ 
+ 
+ 
+ 
+Set up two-factor authentication
+ 
+ 
+ 
+ 
+Billing page
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3rd-party integrations
+ 
+ 
+ 
+ 
+Adapty integration
+ 
+ 
+ 
+ 
+Adjust integration
+ 
+ 
+ 
+ 
+Amplitude integration
+ 
+ 
+ 
+ 
+App Store subscription tracking
+ 
+ 
+ 
+ 
+AppsFlyer integration
+ 
+ 
+ 
+ 
+AppsFlyer ESP 2.0 integration
+ 
+ 
+ 
+ 
+Crashlytics integration
+ 
+ 
+ 
+ 
+Event streaming integration
+ 
+ 
+ 
+ 
+Google Analytics integration
+ 
+ 
+ 
+ 
+Google BigQuery integration
+ 
+ 
+ 
+ 
+Google Play subscription tracking
+ 
+ 
+ 
+ 
+HubSpot integration
+ 
+ 
+ 
+ 
+Inbound webhook integration
+ 
+ 
+ 
+ 
+Magento integration
+ 
+ 
+ 
+ 
+Marketo integration
+ 
+ 
+ 
+ 
+Meta Ads integration
+ 
+ 
+ 
+ 
+Mixpanel integration
+ 
+ 
+ 
+ 
+mParticle integration
+ 
+ 
+ 
+ 
+Piano Analytics integration
+ 
+ 
+ 
+ 
+Qonversion integration
+ 
+ 
+ 
+ 
+RevenueCat integration
+ 
+ 
+ 
+ 
+Segment integration
+ 
+ 
+ 
+ 
+Shopify integration
+ 
+ 
+ 
+ 
+Singular integration
+ 
+ 
+ 
+ 
+Solitics integration
+ 
+ 
+ 
+ 
+Stripe integration
+ 
+ 
+ 
+ 
+WebViewGold integration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushwoosh knowledge hub
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction to Knowledge hub
+ 
+ 
+ 
+ 
+Device identifiers
+ 
+ 
+ 
+ 
+Types of registered devices
+ 
+ 
+ 
+ 
+Users (User IDs)
+ 
+ 
+ 
+ 
+Omnichannel campaigns
+ 
+ 
+ 
+ 
+Data collected by Pushwoosh
+ 
+ 
+ 
+ 
+Security certifications and compliance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Troubleshooting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sending errors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About notification sending errors
+ 
+ 
+ 
+ 
+iOS, Mac OS X, Safari errors
+ 
+ 
+ 
+ 
+Android, Chrome, Firefox errors
+ 
+ 
+ 
+ 
+Huawei errors
+ 
+ 
+ 
+ 
+Windows errors
+ 
+ 
+ 
+ 
+Amazon errors
+ 
+ 
+ 
+ 
+Email errors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Drop-offs in Customer Journey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Select theme
+ 
+ 
+Dark
+Light
+Auto
+ 
+ 
+ 
+ 
+ 
+ 
+Select language
+ 
+ 
+English
+中文
+Español
+Français
+Deutsch
+Русский
+हिन्दी
+العربية
+বাংলা
+Português
+한국어
+ไทย
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Table of contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+First steps
+ 
+ 
+ 
+ 
+Send automated and one-time campaigns
+ 
+ 
+ 
+ 
+ 
+Messaging channels
+ 
+ 
+ 
+ 
+Customer Journey
+ 
+ 
+ 
+ 
+ 
+ 
+Target the right audience
+ 
+ 
+ 
+ 
+Create and manage content
+ 
+ 
+ 
+ 
+Measure and optimize your campaigns
+ 
+ 
+ 
+ 
+Connect Pushwoosh with your tools
+ 
+ 
+ 
+ 
+Learn more and troubleshoot
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of contents
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+First steps
+ 
+ 
+ 
+ 
+Send automated and one-time campaigns
+ 
+ 
+ 
+ 
+ 
+Messaging channels
+ 
+ 
+ 
+ 
+Customer 
+
+===== pricing_or_trust :: https://www.pushwoosh.com/pricing/
+--- SIGNALS ---
+title: Pushwoosh pricing
+meta_description: One simple metric. All features included. Start free, scale with pay-as-you-go pricing from $13/1K MAU.
+og_description: One simple metric. All features included. Start free, scale with pay-as-you-go pricing from $13/1K MAU.
+og_site_name: Pushwoosh
+h1: Pushwoosh pricing
+h2: ManyMoneyAI — your autonomous revenue copilot | Everything you need. Nothing you don’t. | Trusted by 80,000+ brands worldwide | Frequently asked questions | Advance to the next level
+jsonld_org: []
+--- TEXT ---
+Pushwoosh pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mobile push notifications
+ 
+Efficient, proven by customers
+ 
+ 
+ 
+ 
+ 
+ 
+Customer journey builder
+ 
+Visual tool for cross-channel journeys
+ 
+ 
+ 
+ 
+ 
+ 
+In-app messaging
+ 
+Best-in-class no-code builder
+ 
+ 
+ 
+ 
+ 
+ 
+Emails
+ 
+Visual email builder for richer messaging
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+Web push notifications
+ 
+ 
+Audience segmentation
+ 
+ 
+ManyMoney MCP
+New
+ 
+ 
+SMS
+ 
+ 
+WhatsApp
+ 
+ 
+Wallet passes
+New
+ 
+ 
+Actionable CDP
+ 
+ 
+Analytics
+ 
+ 
+Omnichannel personalization
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+Gaming
+ 
+ 
+Fintech & Banking
+ 
+ 
+Mobility & Delivery
+ 
+ 
+Media
+ 
+ 
+Subscription-Based Apps
+ 
+ 
+E-commerce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ManyMoney AI
+ 
+Fully autonomous AI marketing copilot, grinding and earning 24/7. Catches performance leaks, finds ready-to-buy customers, and optimizes for revenue.
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+Pricing
+ 
+ 
+ Company 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Pushwoosh
+ 
+Advanced capacities. User-centric approach
+ 
+ 
+ 
+ 
+ 
+ 
+Data safety
+ 
+Security-first, built for peace of mind
+ 
+ 
+ 
+ 
+ 
+ 
+About us
+ 
+Helping businesses thrive in mobile-first
+ 
+ 
+ 
+ 
+ 
+ 
+Success stories
+ 
+How leading apps grow with Pushwoosh
+ 
+ 
+ 
+ 
+ 
+ 
+Testimonials
+ 
+What customers say about using Pushwoosh
+ 
+ 
+ 
+ 
+ 
+ 
+Reseller program
+ 
+Resell Pushwoosh in your region — own your pricing and margin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+Best practices, data insights, and news
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing guides & Insights
+ 
+Proven strategies and insights
+ 
+ 
+ 
+ 
+ 
+ 
+Product Documentation
+ 
+How-to guides and campaign tips
+ 
+ 
+ 
+ 
+ 
+ 
+Developer Documentation
+ 
+SDK guides and API references
+ 
+ 
+ 
+ 
+ 
+ 
+Tutorials
+ 
+Step-by-step video tutorials
+ 
+ 
+ 
+ 
+ 
+ 
+Webinars
+ 
+Live and on-demand webinars
+ 
+ 
+ 
+ 
+ 
+ 
+Get help
+ 
+Contact our Support team
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compare Pushwoosh
+ 
+ 
+ 
+Pushwoosh vs. Customer.io
+ 
+ 
+Pushwoosh vs. MoEngage
+ 
+ 
+Pushwoosh vs. CleverTap
+ 
+ 
+Pushwoosh vs. Braze
+ 
+ 
+Pushwoosh vs. OneSignal
+ 
+ 
+Pushwoosh vs. Firebase
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40% revenue growth in 90 days with autonomous ManyMoney AI: Case study
+ 
+Dec 11, 2025 • 7 min read
+ 
+ 
+ 
+Read more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+EN
+ 
+English
+ 
+ 
+ES
+ 
+Español
+ 
+ 
+FR
+ 
+Français
+ 
+ 
+DE
+ 
+Deutsch
+ 
+ 
+RU
+ 
+Русский
+ 
+ 
+ZH
+ 
+中文
+ 
+ 
+HI
+ 
+हिन्दी
+ 
+ 
+AR
+ 
+العربية
+ 
+ 
+BN
+ 
+বাংলা
+ 
+ 
+PT
+ 
+Português
+ 
+ 
+TH
+ 
+ไทย
+ 
+ 
+KO
+ 
+한국어
+ 
+ 
+HE
+ 
+עברית
+ 
+ 
+JA
+ 
+日本語
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact sales 
+ 
+ 
+ 
+ 
+ 
+Contact sales
+ 
+ 
+Log in
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+EN
+ 
+English
+ 
+ 
+ES
+ 
+Español
+ 
+ 
+FR
+ 
+Français
+ 
+ 
+DE
+ 
+Deutsch
+ 
+ 
+RU
+ 
+Русский
+ 
+ 
+ZH
+ 
+中文
+ 
+ 
+HI
+ 
+हिन्दी
+ 
+ 
+AR
+ 
+العربية
+ 
+ 
+BN
+ 
+বাংলা
+ 
+ 
+PT
+ 
+Português
+ 
+ 
+TH
+ 
+ไทย
+ 
+ 
+KO
+ 
+한국어
+ 
+ 
+HE
+ 
+עברית
+ 
+ 
+JA
+ 
+日本語
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushwoosh pricing
+ 
+One simple metric. All features included. AI that guarantees +40% revenue growth. Start free, scale effortlessly — pay only for what you use.
+ 
+ 
+ 
+ 
+ 
+Omnichannel
+ 
+ 
+ 
+ 
+ 
+$13 / 1,000 
+MAU
+ 
+ 
+ 
+ 
+Email only
+ 
+ 
+ 
+ 
+ 
+$5 / 1,000 
+monthly unique recipients
+ 
+ 
+ 
+ 
+ 
+ 
+Monthly active users
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MAU
+ 
+ 
+ 
+ 
+ 
+ 
+0
+1k
+10k
+100k
+1M
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All channels included:
+ 
+ Mobile push 
+ Mobile in-apps 
+ Web push 
+ Emails 
+ SMS 
+ 
+ WhatsApp 
+ 
+ Kakao Talk 
+ 
+ Telegram 
+ 
+ LINE 
+ 
+ 
+ 
+ 
+Monthly email bundle:
+ 
+ 
+20,000
+ included sends /mo
+ 
+ 
++ Add extra sends
+ 
+ 
++
+ 
+ 
+ 
+extra sends
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Everything included:
+ 
+ ManyMoneyAI: marketing copilot 
+ Campaign orchestration 
+ Smart segmentation 
+ Personalization 
+ Advanced analytics 
+ Journey A/B testing 
+ Full API access 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pay-as-you-go:
+ 
+ 
+$
+ 
+0
+ 
+/month
+ 
+ 
+Full access to all features
+ 
+ 
+ 
+ 
+ 
+Up to 
+1,000
+ 
+MAU
+ 
+$0
+ 
+ 
+ 
+ 
+ 
+5
+ AI requests per day
+ 
+ 
+$0
+ 
+ 
+ 
+20,000
+ 
+email sends included /mo
+ 
+$0
+ 
+ 
+ 
+0
+ extra email sends /mo
+ 
+$0
+ 
+ 
+ 
+Unlimited push notifications
+ 
+$0
+ 
+ 
+ 
+Unlimited in-app impressions
+ 
+$0
+ 
+ 
+ 
+WhatsApp, SMS and messengers billed by third-party providers at their prices
+ 
+ 
+ 
+ 
+ 
+ 
+Custom billing terms and cycle
+3,000 ManyMoneyAI requests /month
+Personal onboarding program
+24/7 priority support
+Dedicated manager
+SLA and guaranteed uptime
+MSA, DPA, Commercial agreement
+SSO, Dedicated private cloud
+Ultra high-speed push delivery option
+ 
+ 
+ 
+ 
+ Start for free 
+ 
+ Book demo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ManyMoneyAI — 
+your
+ autonomous revenue copilot
+It doesn’t optimize for opens or clicks. It hunts for revenue — 24/7, autonomously. Activates in 30 minutes, no technical integration needed.
+ 
+ 
+ 
+ +47% 
+ 
+ Average Order Value 
+ 
+ 
+ +72% 
+ 
+ ARPU 
+ 
+ 
+ +400% 
+ 
+ Campaign ROI 
+ 
+ 
+ +74% 
+ 
+ ROAS 
+ 
+ 
+ 
+Everything you need. Nothing you don’t.
+No feature gating. No “Enterprise only” limitations. Every capability is available on both plans from day one.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ManyMoneyAI
+ 
+Autonomous AI copilot that hunts for revenue 24/7, optimizes content, timing, and channels automatically.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Journey Builder
+ 
+Visual no-code tool for omnichannel flows. AI suggests optimal paths and next-best actions.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A/B Testing
+ 
+AI analyzes in real-time, auto-scales winners, kills underperformers without manual monitoring.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segmentation
+ 
+AI discovers high-value segments humans miss. Targeting strategies that deliver 9.4x CTR.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+1-to-1 experiences across channels. AI picks content, time, and channel for each user individually.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaigns
+ 
+Unlimited push, in-app, email, SMS, WhatsApp. AI generates copy, optimizes send time, auto-launches for ready buyers.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+API Access
+ 
+Unified API for all channels. AI capabilities available via API. Minimal dev effort, maximum automation.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analytics
+ 
+Comprehensive analytics with AI insights. Finds anomalies, predicts trends, recommends optimizations.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by 80,000+ brands worldwide
+ 
+ 
+”
+One perfectly targeted push notification brings us $2,400–$3,600 per send.
+ 
+ 
+ 
+ 
+Javier Bosque
+ 
+Head of E-Commerce & Media, Telepizza
+ 
+ 
+ 
+ 
+”
+From setup to execution, everything feels streamlined and efficient.
+ 
+ 
+ 
+ 
+Petro Wells
+ 
+Head of Marketing, Clarity by Investec
+ 
+ 
+ 
+ 
+”
+We've been able to convert an impressive 12% of users.
+ 
+ 
+ 
+ 
+Ori Matarasso
+ 
+CMO, AvaTrade
+ 
+ 
+ 
+ 
+”
+Noticeable increase in AOV, CLV, and orders from a single push notification.
+ 
+ 
+ 
+ 
+Zahidul Alam Chowdhury
+ 
+Head of Product, HungryNaki
+ 
+ 
+ 
+ 
+Frequently asked questions
+ 
+ 
+ 
+ 
+ 
+Does Pushwoosh have a free plan?
+ 
+ 
+ 
+ 
+ 
+Pushwoosh works on a pay-as-you-go model. Your subscription is free as long as your project stays within 1,000 MAU (monthly active users). Beyond this limit, you pay $13 per 1,000 MAU for the Omnichannel plan or $5 per 1,000 recipients for Email only. 
+See detailed pricing
+ 
+ 
+ 
+ 
+ 
+ 
+What's included in all plans?
+ 
+ 
+ 
+ 
+ 
+Every plan includes the full platform: unlimited push notifications, unlimited in-app messages, unlimited campaigns and journeys, full segmentation, A/B testing, API access, analytics, and ManyMoneyAI — our autonomous revenue copilot. There are no feature gates or 'Enterprise only' limitations.
+ 
+ 
+ 
+ 
+ 
+ 
+What is ManyMoneyAI?
+ 
+ 
+ 
+ 
+ 
+ManyMoneyAI is an autonomous AI copilot built into every Pushwoosh plan. It optimizes content, timing, and channels automatically — hunting for revenue 24/7. It activates in 30 minutes with no technical integration needed, and comes with a +40% revenue growth guarantee.
+ 
+ 
+ 
+ 
+ 
+ 
+How does email pricing work?
+ 
+ 
+ 
+ 
+ 
+Every MAU includes 20 email sends per month. For the Omnichannel plan with 10,000 MAU, that means 200,000 emails included. Need more? Extra sends cost $1.50 per 1,000 emails. Push notifications and in-app messages are always unlimited at no extra cost.
+ 
+ 
+ 
+ 
+ 
+ 
+How much does it cost to send a WhatsApp message?
+ 
+ 
+ 
+ 
+ 
+WhatsApp pricing depends on whether you use it as part of an Omnichannel plan or on its own.
+As part of an Omnichannel plan
+: If your plan includes other channels — push, in-app, email, SMS — WhatsApp is covered by your plan's MAU, calculated the same way as the rest of your channels. There's no separate WhatsApp charge from Pushwoosh.
+WhatsApp only
+: If WhatsApp is the only channel you use, you're billed on WhatsApp MAU. A WhatsApp MAU is a unique user you contacted at least once during the billing period. Users you don't message aren't counted, no matter how many are stored in your audience.
+Meta's charges are separate
+: In both cases, Pushwoosh MAU pricing covers the platform. Meta bills its own fees for messages sent through the WhatsApp Business API, charged separately to the payment card linked to your WhatsApp Business Account, in addition to your Pushwoosh plan. Rates are set by Meta and vary by message category and recipient country — see 
+Meta's official pricing
+ for current rates.
+ 
+ 
+ 
+ 
+ 
+ 
+Do I need the SDK if I only send email, SMS, or WhatsApp?
+ 
+ 
+ 
+ 
+ 
+No. If you don't need push notifications, you can skip the SDK entirely — just import your users' emails, phone numbers, or WhatsApp numbers, manually or via API. Note that MAU billing isn't limited to push: any user who receives a message on any channel (push, email, SMS, WhatsApp, etc.) counts toward your MAU for that month, even without a push token or app/website activity. Users are deduplicated by their unique User ID, so a user who gets both an email and an SMS in the same month is still counted once.
+ 
+ 
+ 
+ 
+ 
+ 
+What's the difference between Omnichannel and Email only?
+ 
+ 
+ 
+ 
+ 
+The Omnichannel plan ($13/1K MAU) includes all channels: push notifications, in-app messages, email, SMS, WhatsApp, and more. The Email only plan ($5/1K recipients) is for teams that only need email. Both plans include every platform feature, including ManyMoneyAI.
+ 
+ 
+ 
+ 
+ 
+ 
+How long does it take to integrate Pushwoosh?
+ 
+ 
+ 
+ 
+ 
+It takes 2 to 10 days to integrate the Pushwoosh SDK, import users, and start gathering push subscribers. ManyMoneyAI activates in just 30 minutes. 
+Contact us
+ if you need help migrating from another platform.
+ 
+ 
+ 
+ 
+ 
+ 
+What happens when I reach the custom pricing threshold?
+ 
+ 
+ 
+ 
+ 
+When your estimated cost exceeds $3,000/month, we offer a custom plan with dedicated support, SLA guarantees, and volume-based discounts. Our team will tailor the plan to your specific needs.
+ 
+ 
+ 
+ 
+ 
+ 
+Is Pushwoosh GDPR and ePrivacy compliant?
+ 
+ 
+ 
+ 
+ 
+Pushwoosh is fully compliant with GDPR and ePrivacy regulations. We are ISO 27001:2022 certified, SOC 2 Type 1 audited, and HIPAA compliant. 
+Learn more
+ about how Pushwoosh meets the highest industry standards for data security and privacy.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advance to the 
+next level
+ 
+Learn how to build effective cross-channel communications and drive conversions. See the platform in action for different marketing cases. Our experienced team will answer your questions and offer the best plan for your business needs.
+ 
+ 
+ Contact sales 
+ Start for free 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Messaging
+ 
+ 
+ 
+Customer Journey Builder
+ 
+ 
+Mobile push notifications
+ 
+ 
+Web push notifications
+ 
+ 
+In-App Messaging
+ 
+ 
+Email
+ 
+ 
+SMS
+ 
+ 
+WhatsApp
+ 
+ 
+Wallet passes
+New
+ 
+ 
+ 
+ 
+ 
+ 
+Customer data platform
+ 
+ 
+ 
+Pushwoosh API
+ 
+ 
+ManyMoney MCP
+New
+ 
+ 
+Actionable CDP
+ 
+ 
+Audience segmentation
+ 
+ 
+Campaign analytics
+ 
+ 
+Integrations
+ 
+ 
+Data safety
+ 
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+Gaming
+ 
+ 
+Fintech & banking
+ 
+ 
+Mobility & delivery
+ 
+ 
+Media
+ 
+ 
+Subscription-based apps
+ 
+ 
+E-commerce
+ 
+ 
+ 
+ 
+ 
+ 
+Compare Pushwoosh
+ 
+ 
+ 
+Pushwoosh vs. Customer.io
+ 
+ 
+Pushwoosh vs. MoEngage
+ 
+ 
+Pushwoosh vs. CleverTap
+ 
+ 
+Pushwoosh vs. Braze
+ 
+ 
+Pushwoosh vs. OneSignal
+ 
+ 
+Pushwoosh vs. Firebase
+ 
+ 
+ 
+ 
+ 
+ 
+Best Tools
+ 
+ 
+ 
+Best omnichannel messaging platforms
+ 
+ 
+Best customer engagement tools
+ 
+ 
+Best user segmentation tools
+ 
+ 
+Best mobile push notification services
+ 
+ 
+Best email automation software
+ 
+ 
+Best in-app messaging platforms
+ 
+ 
+Best WhatsApp marketing tools
+ 
+ 
+ 
+ 
+ 
+ 
+Email marketing hub
+ 
+ 
+ 
+Email marketing templates
+ 
+ 
+Drag-and-drop email builder
+ 
+ 
+Promotional emails
+ 
+ 
+Transactional emails
+ 
+ 
+Email deliverability
+ 
+ 
+HIPAA-compliant emails
+ 
+ 
+GDPR-compliant emails
+ 
+ 
+ 
+ 
+ 
+ 
+For users & developers
+ 
+ 
+ 
+Product documentation
+ 
+ 
+Developer documentation
+ 
+ 
+Status page
+ 
+ 
+Help center
+ 
+ 
+Support
+ 
+ 
+GitHub
+ 
+ 
+ 
+ 
+ 
+ 
+Get in touch
+ 
+ 
+ 
+About Pushwoosh
+ 
+ 
+Pricing
+ 
+ 
+Contact sales
+ 
+ 
+Talk to support
+ 
+ 
+Reseller program
+New
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 Pushwoosh Inc. All rights reserved.
+ 
+ 
+ 
+Terms of service
+ 
+ 
+Privacy policy

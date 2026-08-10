@@ -1,0 +1,1603 @@
+===== homepage :: https://conversion.com/
+--- SIGNALS ---
+title: Conversion | The World's Leading Dedicated CRO Agency
+meta_description: Conversion is a global CRO agency. We work with forward-thinking brands to improve their websites and businesses. Trusted by Microsoft, Meta, Dominos, Tommy Hilfiger, Enterprise, Vodafone, and Dollar Shave Club.
+og_description: Conversion is a global CRO agency. We work with forward-thinking brands to improve their websites and businesses. Trusted by Microsoft, Meta, Dominos, Tommy Hilfiger, Enterprise, Vodafone, and Dollar Shave Club.
+og_site_name: Conversion
+h1: The World’s Leading Dedicated CRO Agency
+h2: Better results with evidence | Our data-driven experimentation services | Why our clients choose us | Find out how we’ve helped other brands just like yours
+jsonld_org: [{"@type": "Organization", "@id": "https://conversion.com/#organization", "name": "Conversion", "url": "https://conversion.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-GB", "@id": "https://conversion.com/#/schema/logo/image/", "url": "https://conversion.com/wp-content/uploads/2022/12/Colour-Logo.png", "contentUrl": "https://conversion.com/wp-content/uploads/2022/12/Colour-Logo.png", "width": 1821, "height": 193, "caption": "Conversion"}, "image": {"@id": "https://conversion.com/#/schema/logo/image/"}}]
+--- TEXT ---
+Conversion | The World's Leading Dedicated CRO Agency
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+ 
+ 
+ 
+Conversion rate optimization
+ 
+ 
+ 
+Effective personalization
+ 
+ 
+ 
+Conversion centered design
+ 
+ 
+ 
+Enterprise program consulting
+ 
+ 
+ 
+User experience research
+ 
+ 
+ 
+Product and pricing experimentation
+ 
+ 
+ 
+Liftmap
+ 
+ 
+ 
+UX competitor benchmarking
+ 
+ 
+ 
+ 
+ 
+Case Studies
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Whitepapers & eBooks
+ 
+ 
+ 
+Podcast & Webinars
+ 
+ 
+ 
+Statistical Calculator
+ 
+ 
+ 
+CRO Primer
+ 
+What marketing executives need to know about A/B Testing and CRO.
+ 
+ 
+ 
+ 
+Most Popular Frameworks
+ 
+ 
+ 
+ 
+The Lift Model
+ 
+ 
+ 
+The Lever Framework
+ 
+ 
+ 
+Experimentation Framework
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+Case Studies
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The World’s Leading Dedicated CRO Agency
+ 
+Better results with evidence
+ 
+Conversion, a GAIN specialist, is the world’s leading CRO agency. We use a unique blend of A/B testing, UX research, and personalization to improve our clients’ websites and businesses.
+By experimenting on new messaging, design and functionality (and even pricing and products) we’ve helped our clients generate over $2 billion in additional revenue. 
+ 
+ 
+See what we do
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our data-driven experimentation services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advanced conversion rate optimization (CRO)
+ 
+Our core product – we’ll create an effective optimization strategy and roadmap, then design, build and analyze every experiment.
+ 
+More Details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+With personalization, we can go beyond A/B testing to targeting segments and individual users – generating even higher returns.
+ 
+More Details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product and pricing experimentation
+ 
+We’ll use experimentation – rather than focus groups – to help you discover the most effective product and pricing strategies.
+ 
+More Details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise program consulting
+ 
+We work with you to design and implement a high-impact experimentation function tailored to your organization.
+ 
+More Details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data and analytics
+ 
+Our analytics audit enables you to know exactly where your analytics is failing so you can have complete trust in your data.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conversion centered design
+ 
+We work with you to design website experiences that convert from the start.
+ 
+More Details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User experience research
+ 
+Unearth deep insights about your website visitors to create better website experiences and products. 
+ 
+More Details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Liftmap
+ 
+Our proprietary experimentation application provides a centralized repository where you can store, record, report, and share your experiments.
+ 
+More Details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Who we are
+ 
+With over 100 CRO specialists across the UK and North America, we’re the world’s leading dedicated conversion rate optimization agency. 
+From creating better website experiences to building better products and informing overarching strategy, we use our cutting edge experimentation methodology to help you make better decisions in every area of your business.
+ 
+More details
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why our clients choose us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by start-ups and enterprises
+ 
+For the last fifteen years, start-ups and enterprises alike have trusted us with their growth – including clients like Dollar Shave Club, Meta and Microsoft. That’s why you can be confident that we’ll deliver high-impact experimentation programs. 
+ 
+ 
+ 
+ 
+ 
+Over $2 billion in additional revenue 
+ 
+Your performance is our priority. Our clients have benefited from more than $2 billion in additional revenue. That’s why brands like Domino’s Pizza, HP and Unity have renewed and scaled their CRO programs with us many times over.
+ 
+ 
+ 
+ 
+ 
+Experienced in all sectors
+ 
+Our clients cover ecommerce, financial services, media, non-profit, SaaS, and more. By tapping into our black box of experiment insights – containing the results of every experiment we’ve ever run – you’ll see results right from the get-go 
+ 
+ 
+ 
+ 
+ 
+Automation makes us faster
+ 
+Our continual investment in R&D – developing frameworks and new technology – means we can serve you better. We’ve automated a lot of the manual work that other agencies either charge you for or simply don’t do. That means our team can focus instead on your experimentation strategy – better for them, and better for you too.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Find out how we’ve helped other brands just like yours
+ 
+See more case studies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From a one off project to an ongoing, multi-team experimentation program
+ 
+View the case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Groomed for success: Building an experimentation program for a high growth business
+ 
+View the case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Delivering an 18x return on investment for Gousto by kick-starting their CRO program
+ 
+View the case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By harnessing Conversion’s proven methodology towards mixed methods experimentation, Whirlpool is now equipped with critical new customer insights and experimentation lift.
+ 
+View the case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How testing SaaS pricing and the user journey helped Wistia double sales
+ 
+View the case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Increasing Unicef’s average one-off donation size by more than 50%
+ 
+View the case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Immediate results: How we generated £2.8 million for Clarks with our first experiment alone
+ 
+View the case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We partner with the leading technologies for customer insights
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CRO agency FAQs
+ 
+ 
+ 
+ 
+ 
+What is a CRO agency?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A conversion rate optimization agency, otherwise known as a CRO agency, is a marketing agency whose primary purpose is to improve your website’s conversion rate. 
+For example, maybe you run an ecommerce website and you’re looking to increase the number of orders you receive through your website each month. Using a range of techniques – such as UX research and a/b testing – a CRO agency like ours will be able to progressively optimize your website to increase the number of orders you receive month-on-month. (If you’d like to see an example of this kind of CRO, take a look at the work we did with 
+Clarks
+ and 
+Buyagift
+).
+Alternatively, maybe you run a media website and you’re looking to increase engagement and retention rates on your platform. Using advanced CRO techniques, an agency like ours will be able to progressively optimise your website to generate consistent uplifts in these metrics. (In fact, this is the exact kind of work we’ve done with 
+The Times
+ and 
+The Guardian
+)
+.
+ 
+ 
+ 
+ 
+What does a CRO agency do?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As discussed in the answer above, CRO agencies are responsible for improving a website’s conversion rate, but how they achieve this can vary quite widely from one agency to the next.
+ 
+Having said this, most data-driven CRO processes share a number of commonalities:
+ 
+Using a variety of research methods – including competitor analyses, data analytics, UX research, user testing, heuristic reviews, and others – CRO teams attempt to diagnose the issues that are limiting the number of conversions you receive on your website. 
+ 
+Once these issues have been diagnosed, CRO teams will then ideate, design, and develop solutions that are geared towards solving these issues. 
+ 
+Without testing, it’s impossible to know which solutions are going to be successful. That’s why all serious CRO programs place a/b testing at the heart of their process. By testing the solutions developed in the previous stage, you can gain a scientific understanding of precisely what works on your website and what doesn’t.
+ 
+With the information and insights gleaned from a/b testing, your CRO team will then be able to develop further a/b test concepts and flesh out an experiment roadmap that deliver results long into the future. 
+ 
+ 
+ 
+ 
+Why should you hire a CRO agency?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Investment in a good CRO agency will often provide a stronger return on investment than any other kind of marketing or product spend. 
+ 
+For example, we were able to provide an 18x ROI for Gousto (case study 
+here
+), we tripled Buyagift’s revenue target with only our first experiment (case study 
+here
+) and we helped Shaw Academy increase their revenue by 500% (case study 
+here
+). 
+ 
+These results are far from out of the ordinary. 
+ 
+In fact, we’ve even worked with clients who have had to temporarily suspend their CRO programs because their warehouses couldn’t handle the increase in demand generated by our work. 
+ 
+How does this work? 
+To oversimplify things somewhat,
+ 
+Traffic x conversion rate = revenue
+ 
+If you increase your conversion rate, you improve the efficiency of all of your marketing channels. Your Google ads become more effective, as do your Facebook ads, your Linkedin ads, your organic traffic, your direct traffic, etc. 
+ 
+By investing in a CRO agency, you are effectively improving the performance of every other channel at the same time.
+ 
+ 
+ 
+ 
+What differentiates Conversion from its competitors?
+ 
+ 
+ 
+ 
+ 
+ 
+ While many agencies include CRO as one service among many that they offer, we’ve made the conscious decision to put all of our efforts exclusively into CRO.
+ 
+This specialization, paired with our focus on continuous R&D, has allowed us to develop a number of game-changing, value-adding innovations that put us far ahead of our competition:
+ 
+We’ve implemented a system for storing and categorizing experiments that allows us to draw upon past experiment results to inspire and inform current programs.
+ 
+We’ve developed an approach to behavioral science that combines eye-tracking and biofeedback – among other techniques – to unearth profound insights about your users’ motivations.
+ 
+We’ve evolved a mixed-methods approach to CRO that blends the qualitative depth of UX research with the scientific rigor of a/b testing.
+ 
+We’ve developed and optimized frameworks that allow us to take a structured, iterative approach to CRO that delivers compounding results with startling consistency.
+ 
+We’ve automated many of our processes, allowing our team to spend more of their time focussing on what matters – the success of your program.
+Combined, these innovations are allowing us to hit targets that only a couple of years ago would have seemed unthinkable.
+ 
+ 
+ 
+ 
+How quickly can Conversion generate a positive return on your investment?
+ 
+ 
+ 
+ 
+ 
+ 
+ Though this can vary a little from one program to the next, we’re typically able to achieve a positive ROI for our clients within the first 12 weeks of a program’s start date.
+ 
+ 
+ 
+ 
+Can Conversion work effectively alongside your internal CRO & product teams?
+ 
+ 
+ 
+ 
+ 
+ 
+ Absolutely. We regularly work alongside our clients’ internal teams to help maximize the impact of their existing experimentation programs. In fact, we often find that the synergies arising from this kind of collaborative effort allow us to achieve some of our best results. 
+Click here
+ 
+to read about the work we did with The Times’s internal optimization team.
+ 
+ 
+ 
+ 
+Should you hire an agency or build out your own in-house team?
+ 
+ 
+ 
+ 
+ 
+ 
+ Deciding whether to hire a CRO agency or to build out an in-house team is a complex and nuanced problem. To help you solve it, we decided to interview our consultants, many of whom have worked in both settings, to try and give an honest an impartial comparison of the two approaches. 
+Cli
+ck
+ here to read the full comparison.
+ 
+ 
+ 
+ 
+How can you get in touch?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If you’re interested in our services and would like to see if we’re a good fit for your business, you can get in touch by visiting our 
+contact us
+ 
+page and submitting a form. We’ll do our best to respond as soon as possible – usually within no more than a couple of hours. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Want to work with us?
+ 
+We work with everyone from small startups to some of the biggest brands in the world.
+Get in touch and see how we can help you.
+ 
+Contact us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+Careers
+ 
+ 
+ 
+About
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+Work
+ 
+ 
+ 
+ 
+ 
+Stay up to date
+ 
+ 
+ 
+Newsletter Signup Page
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+All Resources
+ 
+ 
+ 
+Whitepapers & eBooks
+ 
+ 
+ 
+Statistical Calculator
+ 
+ 
+ 
+Podcast & Webinars
+ 
+ 
+ 
+CRO Primer
+ 
+ 
+ 
+ 
+ 
+Get in touch
+ 
+ 
+ 
+ 
+ 
+ 
++44 020 7803 3400
+ 
+ 
+ 
++1(604) 800-6450
+ 
+ 
+ 
+hello@conversion.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All rights reserved. Copyright© 2007-2026. Conversion Factory Ltd. Company number 6176814. Part of 
+GAIN
+.
+ 
+ 
+ 
+ 
+Terms & Conditions
+ 
+ 
+ 
+Privacy Policy
+
+===== product :: https://conversion.com/service/product-and-pricing-experimentation/
+--- SIGNALS ---
+title: Product and pricing experimentation | Conversion
+meta_description: 
+og_description: Launch new products and make pricing changes while limiting risk.
+og_site_name: Conversion
+h1: 
+h2: Create better products and pricing strategies with experimentation. | How you’ll benefit from our product and pricing testing approach | Find out how we’ve helped other brands just like yours
+jsonld_org: [{"@type": "Organization", "@id": "https://conversion.com/#organization", "name": "Conversion", "url": "https://conversion.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-GB", "@id": "https://conversion.com/#/schema/logo/image/", "url": "https://conversion.com/wp-content/uploads/2022/12/Colour-Logo.png", "contentUrl": "https://conversion.com/wp-content/uploads/2022/12/Colour-Logo.png", "width": 1821, "height": 193, "caption": "Conversion"}, "image": {"@id": "https://conversion.com/#/schema/logo/image/"}}]
+--- TEXT ---
+Product and pricing experimentation | Conversion
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+ 
+ 
+ 
+Conversion rate optimization
+ 
+ 
+ 
+Effective personalization
+ 
+ 
+ 
+Conversion centered design
+ 
+ 
+ 
+Enterprise program consulting
+ 
+ 
+ 
+User experience research
+ 
+ 
+ 
+Product and pricing experimentation
+ 
+ 
+ 
+Liftmap
+ 
+ 
+ 
+UX competitor benchmarking
+ 
+ 
+ 
+ 
+ 
+Case Studies
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Whitepapers & eBooks
+ 
+ 
+ 
+Podcast & Webinars
+ 
+ 
+ 
+Statistical Calculator
+ 
+ 
+ 
+CRO Primer
+ 
+What marketing executives need to know about A/B Testing and CRO.
+ 
+ 
+ 
+ 
+Most Popular Frameworks
+ 
+ 
+ 
+ 
+The Lift Model
+ 
+ 
+ 
+The Lever Framework
+ 
+ 
+ 
+Experimentation Framework
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+Case Studies
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Contact us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create better products and pricing strategies with experimentation.
+ 
+We’ve experimented on new pizzas with Dominos, on new pricing strategies with Wistia – now we want to work with you to develop your next game-changing idea.
+ 
+ 
+Get in touch
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our approach
+ 
+ 
+ 
+The traditional approach to product development relies on expensive and unreliable research methods like focus groups and customer surveys. Only after resources have been invested and products developed is rigorous testing finally done. 
+With our product and pricing experimentation service, we reverse this process, allowing you to base your product and pricing decisions on one of the strongest forms of evidence possible: online controlled experiments. 
+Which new products will your customers actually buy? Which pricing strategy will they actually respond to? By running online controlled experiments on a large sample of your real-life website visitors, we give you the means to answer these questions definitively.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our approach
+ 
+ 
+ 
+The traditional approach to product development relies on expensive and unreliable research methods like focus groups and customer surveys. Only after resources have been invested and products developed is rigorous testing finally done. 
+With our product and pricing experimentation service, we reverse this process, allowing you to base your product and pricing decisions on one of the strongest forms of evidence possible: online controlled experiments. 
+Which new products will your customers actually buy? Which pricing strategy will they actually respond to? By running online controlled experiments on a large sample of your real-life website visitors, we give you the means to answer these questions definitively.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How you’ll benefit from our product and pricing testing approach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Minimize risk
+ 
+Our product and pricing experiments allow you to test ideas at the ideation stage of their development, rather than further down the line when huge sums of money have already been invested.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Test more ideas
+ 
+By significantly reducing the cost associated with testing your product ideas, you’ll be able to test more of them, filtering out the bad ones and doubling down on the good ones. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trial revolutionary ideas
+ 
+Normally, the huge cost associated with developing new products prevents the possibility of exploring high-risk, high-reward ideas. Our experimentation methodology changes that, providing a framework within which you can test your boldest ideas at minimal cost and risk.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Collect valuable customer insights
+ 
+Our experiments are run on your real-world customers, in an organic purchasing environment, at scale. This means that the customers insights our experiments generate are likely to be some of the most valuable that your internal team will ever have access to.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why choose us?
+ 
+We’re passionate about experimentation, and believe that important decisions should always be backed by empirical evidence rather than intuition, committee, or bias. That’s why we’re so determined to help you incorporate experimentation into everything you do. 
+From creating better website experiences to building better products and informing overarching strategy, we use experimentation to help you make better decisions in every area of your business.
+What’s more, better decisions make a real, quantifiable difference to your bottom-line: we’ve used experimentation to generate well over $2 billion in additional revenue for our clients, and we’re often able to achieve a positive return on investment within the first twelve weeks of a program’s start date. 
+Now we want to work with you to unlock the power of experimentation within your organization. 
+ 
+ 
+ 
+ 
+ 
+ 
+Find out how we’ve helped other brands just like yours
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How testing SaaS pricing and the user journey helped Wistia double sales
+ 
+View the case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From a one off project to an ongoing, multi-team experimentation program
+ 
+View the case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Back to Basics… Disrupting the ‘offline’ shopping experience for Tommy Hilfiger.
+ 
+View the case study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“We constantly found ourselves saying things like “Thank God for Conversion””
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Andrew Capland
+ 
+Director of Growth
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“A team of experts with a passion for improving customer experience through A/B testing. They feel like an extension to our internal team”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Charles Dyke
+ 
+Ecommerce Product Manager
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“I’ve been really impressed with Conversion.com and how involved they got with the business…they even came on a training course that’s given for new starters, which is a level of commitment you don’t usually get.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cormac Folan
+ 
+Director of Online
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product and pricing experimentation FAQs
+ 
+ 
+ 
+ 
+ 
+What is a pricing experiment?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A pricing experiment is an experiment run on a business’s real-world website users, with the goal of identifying the pricing strategies – such as product pricing, plan length, or promotions – that are most likely to help the business achieve its goals. 
+ 
+ 
+ 
+ 
+How do you run a pricing experiment?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These days, pricing experiments are often run on a company’s website in the form of an a/b test. This method allows companies to trial different pricing strategies under controlled conditions, giving them the ability to scientifically determine which pricing approaches are optimal for their business.
+ 
+ 
+ 
+ 
+Why is price testing important?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing experiments allow businesses to understand which pricing strategies their users will actually respond to. This is beneficial for a number of reasons. First, because businesses can learn more about their customers and find pricing strategies that work for them. Second, because pricing experimentation can be the solution to certain deep-rooted business challenges, e.g. 
+see how we helped Wistia double sales with pricing experimentation.
+ And thirdly, because pricing experiments allow businesses to identify revenue-maximizing pricing strategies that they can use to hit their targets and grow.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+Careers
+ 
+ 
+ 
+About
+ 
+ 
+ 
+Services
+ 
+ 
+ 
+Work
+ 
+ 
+ 
+ 
+ 
+Stay up to date
+ 
+ 
+ 
+Newsletter Signup Page
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+All Resources
+ 
+ 
+ 
+Whitepapers & eBooks
+ 
+ 
+ 
+Statistical Calculator
+ 
+ 
+ 
+Podcast & Webinars
+ 
+ 
+ 
+CRO Primer
+ 
+ 
+ 
+ 
+ 
+Get in touch
+ 
+ 
+ 
+ 
+ 
+ 
++44 020 7803 3400
+ 
+ 
+ 
++1(604) 800-6450
+ 
+ 
+ 
+hello@conversion.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All rights reserved. Copyright© 2007-2026. Conversion Factory Ltd. Company number 6176814. Part of 
+GAIN
+.
+ 
+ 
+ 
+ 
+Terms & Conditions
+ 
+ 
+ 
+Privacy Policy

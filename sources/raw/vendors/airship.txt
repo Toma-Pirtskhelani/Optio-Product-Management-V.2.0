@@ -1,0 +1,1421 @@
+===== llms.txt :: https://www.airship.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+﻿# Airship
+> Cross-Channel Customer Experiences for the Mobile Era
+## Overview
+Airship delivers personalized messages and interactions that convert across mobile, web, email, SMS, wallet and more—fueled by real-time data, AI and unified orchestration.
+## Customer Experience Platform
+### Platform
+- [**Orchestrate with customer journeys** - Unify cross-channel messages with app and web destinations where customers convert.](https://www.airship.com/platform/orchestrate-customer-journeys/)
+- [**Fine tune with experimentation** - Transform experiments into measurable growth with robust testing that validates concepts and automatically scales what works.](https://www.airship.com/platform/fine-tune-with-experimentation/)
+- [**Collect customer data** - Collect, enrich, and activate customer insights instantly to drive conversion with personalized, cross-channel experiences.](https://www.airship.com/platform/collect-customer-data/)
+- [**Accelerate results with Airship AI** - Empower your team with collaborative agents that turn your strategies into dynamic, personalized experiences at scale.](https://www.airship.com/platform/accelerate-results-with-ai/)
+- [**Build no-code experiences** - Build cross-channel experiences without limits](https://www.airship.com/platform/build-no-code-experiences/)
+- [**Hyper personalize experiences** - Make every customer interaction uniquely theirs](https://www.airship.com/platform/hyper-personalize-experiences/)
+- [**Boost customer acquisition** - Elevate visibility in app stores while converting web visitors into identified, opted-in customers.](https://www.airship.com/platform/boost-customer-acquisition/)
+### Channels
+- [**Push notifications** - Reach customers instantly on mobile](https://www.airship.com/channels/push-notifications/)
+- [**SMS/RCS/MMS** - Build connections with smarter, richer messaging](https://www.airship.com/channels/rich-communication-services/)
+- [**Email** - Email that powers the entire customer lifecycle](https://www.airship.com/channels/email/)
+- [**Mobile wallet** - Turn mobile wallets into daily touchpoints](https://www.airship.com/channels/mobile-wallet/)
+### Capabilities
+- [**Customer data management** - Activate, collect, and unify customer data](https://www.airship.com/capabilities/customer-data-management/)
+- [**Surveys** - Understand your audiences with robust surveys and forms ](https://www.airship.com/capabilities/surveys/)
+- [**Recommendations & audience pulse** - Turn user-activity into actionable insights with tier-based reports and AI-powered recommendations.](https://www.airship.com/capabilities/recommendations-audience-pulse/)
+- [**Scenes** - Build powerful app and website experiences instantly](https://www.airship.com/capabilities/scenes/)
+- [**Performance analytics** - Unlock real-time, user-level insights to optimize journeys, improve customer experiences, and prove measurable business impact.](https://www.airship.com/capabilities/performance-analytics/)
+- [**Integrations** - Ensure seamless data flow with Airship integrations](https://www.airship.com/capabilities/integrations/)
+- [**Real-time data streams** - Transform live behaviors into immediate triggers for highly relevant, personalized experiences.](https://www.airship.com/capabilities/real-time-data-streams/)
+### Conversion Destinations
+- [**App** - Create dynamic, unified app experiences to accelerate acquisition, activation, engagement, and loyalty across the customer lifecycle.](https://www.airship.com/conversion-destinations/app/)
+- [**Web** - Boost conversion with hyper-personalized web experiences](https://www.airship.com/conversion-destinations/web/)
+## Use Cases
+- [**Acquisition**](https://www.airship.com/use-case/acquisition/)
+- [**Onboarding**](https://www.airship.com/use-case/onboarding/)
+- [**Upsell & Cross-sell**](https://www.airship.com/use-case/upsell-cross-sell/)
+- [**Retargeting**](https://www.airship.com/use-case/retargeting/)
+- [**Churn prevention**](https://www.airship.com/use-case/churn-prevention/)
+- [**Win back**](https://www.airship.com/use-case/win-back/)
+## Industries Served
+- [Media & Entertainment](https://www.airship.com/industry/media-entertainment/)
+- [Retail](https://www.airship.com/industry/retail/)
+- [Travel & Hospitality](https://www.airship.com/industry/travel-hospitality/)
+- [Sports](https://www.airship.com/industry/sports/)
+- [Financial & Insurance](https://www.airship.com/industry/finance-insurance/)
+- [Telecom](https://www.airship.com/industry/telecom/)
+## Company Information
+- **Founded**: 2009 (as Urban Airship)
+- **Rebranded**: To Airship
+- **Headquarters**: San Francisco
+- **Global Offices**: As of November 2025, Airship has offices in San Francisco, Portland, Santa Barbara, New York City, London, Paris, New Delhi, Munich, and Singapore.
+- **CEO**: Brett Caine (formerly president of Citrix Online)
+## Key Customers
+- Ulta Beauty
+- Vodafone
+- Alaska Airlines
+- Accuweather
+- Ace Hardware
+- Sky
+- ASDA
+- Orange France
+- Various enterprise brands across retail, media, sports, and financial services
+## Documentation & Resources
+- [Resource Hub](https://www.airship.com/resources/)
+- [Documentation: Available for developers integrating SDKs](https://www.airship.com/docs/)
+- [Blog: Everything you need to know about CX](https://www.airship.com/blog/)
+- [Partners](https://www.airship.com/partners/)
+- [Newsroom](https://www.airship.com/company/newsroom/)
+- [Careers: Do great work with great people](https://www.airship.com/company/careers/)
+- [Support: Get help from our expert team whenever you need it](https://support.airship.com/hc/en-us)
+## Privacy & Compliance
+- [Trust center - Your hub for data security, privacy, compliance, and system status for all things Airship.](https://www.airship.com/legal/trust-center/)
+- [System Status](https://status.airship.com/)
+- [Terms of use](https://www.airship.com/legal/terms-of-use/)
+- [Security](https://security.airship.com/)
+- [Privacy statement](https://www.airship.com/legal/privacy/)
+- [California privacy rights notice](https://www.airship.com/legal/california-privacy-rights-notice/)
+
+===== homepage :: https://www.airship.com/
+--- SIGNALS ---
+title: Customer Experience Platform | Airship
+meta_description: Airship is the only mobile-first customer experience platform that delivers measurable results through AI-powered, unified cross-channel experiences.
+og_description: Airship is the only mobile-first customer experience platform that delivers measurable results through AI-powered, unified cross-channel experiences.
+og_site_name: Airship
+h1: Accelerate mobile-first customer growth | Your brand at the center of their world | Total Economic Impact™ of Airship: 476% ROI | The first live AI agents purpose-built for customer experience
+h2: The mobile way to grow | The mobile way to grow
+jsonld_org: [{"@type": ["Organization", "Brand", "OnlineBusiness"], "@id": "https://www.airship.com/#organization", "name": "Airship", "url": "https://www.airship.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.airship.com/#/schema/logo/image/", "url": "https://www.airship.com/wp-content/uploads/2026/02/logo-airship-blue.svg", "contentUrl": "https://www.airship.com/wp-content/uploads/2026/02/logo-airship-blue.svg", "caption": "Airship"}, "image": {"@id": "https://www.airship.com/#/schema/logo/image/"}, "foundingDate": "2019-06-01", "slogan": "Cross-Channel Customer Experiences for the Mobile Era", "description": "Deliver personalized messages and interactions that convert across mobile, web, email, SMS, wallet and more—fueled by real-time data, AI and unified orchestration.", "sameAs": ["https://www.facebook.com/airshipsocial/", "https://x.com/airship", "https://www.linkedin.com/company/airship-social/", "https://bsky.app/profile/airshipsocial.bsky.social", "https://www.youtube.com/@airshipsocial"], "contactPoint": [{"@type": "ContactPoint", "telephone": "+1-(855)-385-3155", "contactType": "Sales", "areaServed": "US"}, {"@type": "ContactPoint", "telephone": "+44-(0)300-303-8796", "contactType": "Sales", "areaServed": "UK"}, {"@type": "ContactPoint", "telephone": "+33 1 88 88 82 88", "contactType": "Sales", "areaServed": "FR"}, {"@type": "ContactPoint", "telephone": "+49 69 566085755", "contactType": "Sales", "areaServed": "DE"}, {"@type": "ContactPoint"
+--- TEXT ---
+Customer Experience Platform | Airship
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+Skip to footer
+ 
+Total Economic Impact™ of Airship: 476% ROI.
+Total Economic Impact™ of Airship: 476% ROI.
+Let’s talk guaranteed results
+Let’s talk results 
+ 
+Why Airship
+Platform
+ 
+Customer Experience Platform
+Orchestrate customer journeys
+Seamless cross-channel experiences that guide customers to conversions
+Fine-tune with experimentation
+Simple testing and measurement solutions that optimize for specific goals
+Collect customer data
+In-session surveys, forms, and preference centers that capture customers insights
+Accelerate results with AI
+Industry-first AI agents that automate continuous improvements
+Build no-code experiences
+Truly code-free tools to create and launch rich experiences without developers
+Hyper-personalize experiences
+AI-powered interactions that deliver personalization at scale
+Boost customer acquisition
+Robust app store optimization, unified opt-ins, and personalized onboarding
+Capabilities
+Customer data management
+Surveys
+Recommendations & audience pulse
+Scenes
+Performance analytics
+Integrations
+Real-time data streams
+Channels
+Push notifications
+SMS/RCS/MMS
+Email
+Mobile Wallet
+Conversion Destinations
+App
+Web
+Solutions
+ 
+Use Cases
+Acquisition
+Attract, engage, and convert new customers at scale
+Onboarding
+Guide new customers to their first and next valuable experience
+Upsell & cross-sell
+Drive incremental revenue with relevant, personalized offers
+Retargeting
+Re-engage customers with relevant, timely experiences
+Churn prevention
+Identify and retain at-risk customers with proactive strategies
+Win back
+Reactivate lapsed customers and rebuild engagement
+Industries
+Retail
+Media & entertainment
+Finance & insurance
+Travel & hospitality
+Sports
+Telecom
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Resources
+ 
+Learn with Airship
+Resource hub
+Playbooks, insights, and best practices for CX success
+Blog
+Expert insights on mobile-first, cross-channel customer experiences
+Events
+Exclusive learning opportunities from the Airship community
+discover
+Customer success stories
+See how top global brands get results with Airship
+Documentation
+Access technical resources and implementation guides
+Partners
+Integrate with the tools and platforms you already use
+Support
+Get help from our expert team whenever you need it
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Pricing
+Company
+ 
+Contact Us
+Get in touch with our team
+FAQs
+Get quick answers to common queries
+Press releases
+Read our official announcements
+In the news
+See our latest media coverage
+Trust center
+Review our security, compliance, and privacy standards
+Careers
+Join our team, and help shape the future of customer experiences
+Legal
+Browse our terms of service and policies
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+ 
+ 
+ 
+ 
+ 
+Why Airship
+Platform
+ 
+Customer Experience Platform
+Orchestrate customer journeys
+Seamless cross-channel experiences that guide customers to conversions
+Fine-tune with experimentation
+Simple testing and measurement solutions that optimize for specific goals
+Collect customer data
+In-session surveys, forms, and preference centers that capture customers insights
+Accelerate results with AI
+Industry-first AI agents that automate continuous improvements
+Build no-code experiences
+Truly code-free tools to create and launch rich experiences without developers
+Hyper-personalize experiences
+AI-powered interactions that deliver personalization at scale
+Boost customer acquisition
+Robust app store optimization, unified opt-ins, and personalized onboarding
+Capabilities
+Customer data management
+Surveys
+Recommendations & audience pulse
+Scenes
+Performance analytics
+Integrations
+Real-time data streams
+Channels
+Push notifications
+SMS/RCS/MMS
+Email
+Mobile Wallet
+Conversion Destinations
+App
+Web
+Solutions
+ 
+Use Cases
+Acquisition
+Attract, engage, and convert new customers at scale
+Onboarding
+Guide new customers to their first and next valuable experience
+Upsell & cross-sell
+Drive incremental revenue with relevant, personalized offers
+Retargeting
+Re-engage customers with relevant, timely experiences
+Churn prevention
+Identify and retain at-risk customers with proactive strategies
+Win back
+Reactivate lapsed customers and rebuild engagement
+Industries
+Retail
+Media & entertainment
+Finance & insurance
+Travel & hospitality
+Sports
+Telecom
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Resources
+ 
+Learn with Airship
+Resource hub
+Playbooks, insights, and best practices for CX success
+Blog
+Expert insights on mobile-first, cross-channel customer experiences
+Events
+Exclusive learning opportunities from the Airship community
+discover
+Customer success stories
+See how top global brands get results with Airship
+Documentation
+Access technical resources and implementation guides
+Partners
+Integrate with the tools and platforms you already use
+Support
+Get help from our expert team whenever you need it
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Pricing
+Company
+ 
+Contact Us
+Get in touch with our team
+FAQs
+Get quick answers to common queries
+Press releases
+Read our official announcements
+In the news
+See our latest media coverage
+Trust center
+Review our security, compliance, and privacy standards
+Careers
+Join our team, and help shape the future of customer experiences
+Legal
+Browse our terms of service and policies
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Search
+ 
+Helpful links
+Mobile-first strategy
+Learn why a mobile-first strategy drives results
+Cross-channel experiences
+Orchestrate experiences across channels for mobile-first customers
+No-code advantage
+Gain speed and scale with experiences built without developers
+popular searches
+What are cross-channel experiences?
+Why are mobile wallets important?
+What is Airship AI?
+ 
+Search
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+Helpful links
+Mobile-first strategy
+Learn why a mobile-first strategy drives results
+Cross-channel experiences
+Orchestrate experiences across channels for mobile-first customers
+No-code advantage
+Gain speed and scale with experiences built without developers
+popular searches
+What are cross-channel experiences?
+Why are mobile wallets important?
+What is Airship AI?
+ 
+Search
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ English 
+ 
+ Français 
+book a meeting 
+ 
+ 
+Accelerate mobile-first customer 
+growth
+The only cross-channel, mobile-first customer experience platform with outcome-led AI
+Let's talk results 
+ 
+ 
+Retail
+ 
+ 
+ 
+Travel & Hospitality
+ 
+ 
+ 
+Media & Entertainment
+ 
+The world's leading brands grow with Airship
+2x
+faster weather alerts
+Case study 
+35%
+growth in wallet adoption
+Case study 
+30x
+higher response rates
+Case study 
+25%
+increase in pass distribution
+Case study 
+Trusted by the world’s leading brands
+explore case studies 
+Your brand at the center of their world
+Mobile isn’t a channel. It’s the remote control to your customers’ lives. Design unified cross-channel experiences — across push, SMS, email, in-app, web, wallet, and more — that match the way today’s consumers discover, decide, and convert.
+build
+orchestrate
+optimize
+ 
+ 
+Build
+From idea to launch without a single line of code
+Create rich, native experiences across app and web, including forms, surveys, and branching layouts powered by AI agents. Do it truly no-code, with no custom HTML or JavaScript overlays. Simply build, preview, and deploy in a matter of moments — not months.
+learn more 
+80%
+faster alerts
+AccuWeather relies on Airship to launch breaking weather alerts consistently faster than competitors, achieving near-instant delivery when seconds count.
+“Airship’s no-code editor made it possible for our entire team to create and optimize several multi-screen app onboarding experiences in minutes not months, without developer resources or app updates, which is absolutely critical for apps like SXSW GO...”
+Michael Brown
+Vice President of Innovation, SXSW
+ 
+ 
+ORCHESTRATE
+Cross-channel journeys in perfect rhythm
+Say goodbye to disjointed message blasts. Use Airship AI to build goal-based roadmaps in seconds, then deliver seamless experiences that exceed customer expectations. We orchestrate the entire journey to meet customers on the channels they choose — from web to email to mobile wallet and more — and ensure every interaction is personalized.
+learn more 
+6.5x
+lift in registrations
+With Airship’s cross-channel approach, Hawaiian Airlines saw a double-digit YoY boost in audience engagement and a 6.5x lift in registrations upon first app opening.
+“Mobile banking experiences require a high-touch strategy that keeps customers informed, engaged, and reassured. Airship empowered us to deliver it.”
+Merlyn Tsai
+Head of Consumer Banking & Digital, CIMB Singapore
+ 
+ 
+optimize
+Real-time intelligence that drives real results
+Understand your customers. Learn what works. Then do more of it. With Airship, you can collect zero-party data, have Airship AI predict when your customers are ready to act, and test multiple variants at once. No friction, no guesswork — just enriched customer insights that fuel deeper personalization at scale.
+learn more 
+800x
+higher response rates
+With Airship’s adaptable experiences and A/B testing, Orange received 800x more survey responses in 24 hours and 30x higher monthly rates, boosting their NPS by 9 points.
+“Our team was able to build a new and innovative experience for our guests when they were actively engaged with our app, capturing valuable insights to deliver more tailored recommendations.”
+Jodi Williams
+Vice President of E-Commerce, Ulta Beauty
+Total Economic Impact™ of Airship: 476% ROI
+A commissioned study conducted by Forrester Consulting on behalf of Airship found that Airship delivered 476% ROI for a composite organization made of six real enterprise customers.
+ACCESS THE STUDY 
+ 
+AIRSHIP AGENTS
+The first live AI agents purpose-built for customer experience
+While other platforms are still piloting AI features in beta, Airship’s agents are already elevating and accelerating workflows — from strategy recommendations through campaign creation and optimization.
+You set the goals and approve the outputs. They handle the complexity.
+learn more 
+ 
+From prompt to live experience in minutes
+Describe what you need, upload an image, or just have a simple conversation. Airship’s Scenes Agent builds native, on-brand, deeply embedded app and web experiences quickly without a single line of code.
+ 
+Proactive strategy recommendations tied to your needs
+Airship’s Recommendation Agent works from your real-time audience data, analyzing customer movement over time and surfacing actionable next steps that match your specific conversion goals.
+ 
+Agents designed to work together with you in the loop
+Our Campaign, Journey, Scenes, Accessibility, and Brand Guideline Agents are built to collaborate — so you get a unified output you can review and approve at every step.
+ 
+ 
+ 
+Leading Brands
+Proven across industries
+Retail
+ 
+Drive purchases without overwhelming your team.
+ Turn browsers into repeat buyers and grow basket size with personalized experiences, AI-powered orchestration, and loyalty programs that keep customers coming back.
+LEARN MORE 
+ 
+With Airship, our team was able to build a new and innovative experience for our guests when they were actively engaged with our app, capturing valuable insights to deliver more tailored recommendations.
+Jodi Williams
+Vice President of Ecommerce, Ulta Beauty
+2.8x
+higher conversions from in-app Scene
+2.5x
+higher conversions from push vs. average
+2x
+faster weather alerts
+Case study 
+35%
+growth in wallet adoption
+Case study 
+30x
+higher response rates
+Case study 
+25%
+increase in pass distribution
+Case study 
+Media & Entertainment
+ 
+Break through content overload and keep subscribers tuning in.
+ Surface breaking news stories, send the right content at the right time, and fight subscription fatigue with personalized experiences that prove your value.
+LEARN MORE 
+ 
+With Airship Mobile Wallet, we’ve started to move away from the dependency on physical Guest Passes, leading to a smaller footprint in terms of both cost and sustainability, all while gaining more Guest Pass participants.
+Michael Brown
+Vice President of Technology Solutions
+25%
+Increase in credentials distributed
+54%
+Reduction in credential costs vs. physical-only passes
+2x
+faster weather alerts
+Case study 
+35%
+growth in wallet adoption
+Case study 
+30x
+higher response rates
+Case study 
+25%
+increase in pass distribution
+Case study 
+Finance & Insurance
+ 
+Build digital trust while driving product adoption.
+ Protect customers with instant fraud alerts and security notifications, and grow your share of wallet with timely, actionable guidance that drives customers to personalized value at scale.
+LEARN MORE 
+ 
+Airship empowered us to transform the CIMB Clicks app into a virtual branch that balances the tailored service that customers expect from in-person interactions with the convenience of online operations.
+Merlyn Tsai
+Head of Consumer Banking & Digital, CIMB Singapore
+162%
+YoY increase in monthly active users
+49%
+app user growth in just two months
+2x
+faster weather alerts
+Case study 
+35%
+growth in wallet adoption
+Case study 
+30x
+higher response rates
+Case study 
+25%
+increase in pass distribution
+Case study 
+Travel & Hospitality
+ 
+Execute flawlessly when it matters most.
+ Deliver real-time gate changes, instant flight alerts, room updates, and more to build trust in critical moments while maximizing direct bookings and revenue per traveler.
+LEARN MORE 
+ 
+We set out to help customers get more from
+
+===== product :: https://www.airship.com/platform/collect-customer-data/
+--- SIGNALS ---
+title: Customer Data Collection Platform | Airship
+meta_description: Airship data collection tools help brands gather zero- and first-party data through in-app surveys, preference centers, and direct mobile interactions at scale.
+og_description: Airship data collection tools help brands gather zero- and first-party data through in-app surveys, preference centers, and direct mobile interactions at scale.
+og_site_name: Airship
+h1: Turn data into real action | Ready to unlock real results?
+h2: Real impact from real customer insights | Real voices on data-driven growth | The mobile way to grow | The mobile way to grow
+jsonld_org: [{"@type": ["Organization", "Brand", "OnlineBusiness"], "@id": "https://www.airship.com/#organization", "name": "Airship", "url": "https://www.airship.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.airship.com/#/schema/logo/image/", "url": "https://www.airship.com/wp-content/uploads/2026/02/logo-airship-blue.svg", "contentUrl": "https://www.airship.com/wp-content/uploads/2026/02/logo-airship-blue.svg", "caption": "Airship"}, "image": {"@id": "https://www.airship.com/#/schema/logo/image/"}, "foundingDate": "2019-06-01", "slogan": "Cross-Channel Customer Experiences for the Mobile Era", "description": "Deliver personalized messages and interactions that convert across mobile, web, email, SMS, wallet and more—fueled by real-time data, AI and unified orchestration.", "sameAs": ["https://www.facebook.com/airshipsocial/", "https://x.com/airship", "https://www.linkedin.com/company/airship-social/", "https://bsky.app/profile/airshipsocial.bsky.social", "https://www.youtube.com/@airshipsocial"], "contactPoint": [{"@type": "ContactPoint", "telephone": "+1-(855)-385-3155", "contactType": "Sales", "areaServed": "US"}, {"@type": "ContactPoint", "telephone": "+44-(0)300-303-8796", "contactType": "Sales", "areaServed": "UK"}, {"@type": "ContactPoint", "telephone": "+33 1 88 88 82 88", "contactType": "Sales", "areaServed": "FR"}, {"@type": "ContactPoint", "telephone": "+49 69 566085755", "contactType": "Sales", "areaServed": "DE"}, {"@type": "ContactPoint"
+--- TEXT ---
+Customer Data Collection Platform | Airship
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+Skip to footer
+ 
+Why Airship
+Platform
+ 
+Customer Experience Platform
+Orchestrate customer journeys
+Seamless cross-channel experiences that guide customers to conversions
+Fine-tune with experimentation
+Simple testing and measurement solutions that optimize for specific goals
+Collect customer data
+In-session surveys, forms, and preference centers that capture customers insights
+Accelerate results with AI
+Industry-first AI agents that automate continuous improvements
+Build no-code experiences
+Truly code-free tools to create and launch rich experiences without developers
+Hyper-personalize experiences
+AI-powered interactions that deliver personalization at scale
+Boost customer acquisition
+Robust app store optimization, unified opt-ins, and personalized onboarding
+Capabilities
+Customer data management
+Surveys
+Recommendations & audience pulse
+Scenes
+Performance analytics
+Integrations
+Real-time data streams
+Channels
+Push notifications
+SMS/RCS/MMS
+Email
+Mobile Wallet
+Conversion Destinations
+App
+Web
+Solutions
+ 
+Use Cases
+Acquisition
+Attract, engage, and convert new customers at scale
+Onboarding
+Guide new customers to their first and next valuable experience
+Upsell & cross-sell
+Drive incremental revenue with relevant, personalized offers
+Retargeting
+Re-engage customers with relevant, timely experiences
+Churn prevention
+Identify and retain at-risk customers with proactive strategies
+Win back
+Reactivate lapsed customers and rebuild engagement
+Industries
+Retail
+Media & entertainment
+Finance & insurance
+Travel & hospitality
+Sports
+Telecom
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Resources
+ 
+Learn with Airship
+Resource hub
+Playbooks, insights, and best practices for CX success
+Blog
+Expert insights on mobile-first, cross-channel customer experiences
+Events
+Exclusive learning opportunities from the Airship community
+discover
+Customer success stories
+See how top global brands get results with Airship
+Documentation
+Access technical resources and implementation guides
+Partners
+Integrate with the tools and platforms you already use
+Support
+Get help from our expert team whenever you need it
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Pricing
+Company
+ 
+Contact Us
+Get in touch with our team
+FAQs
+Get quick answers to common queries
+Press releases
+Read our official announcements
+In the news
+See our latest media coverage
+Trust center
+Review our security, compliance, and privacy standards
+Careers
+Join our team, and help shape the future of customer experiences
+Legal
+Browse our terms of service and policies
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+ 
+ 
+ 
+ 
+ 
+Why Airship
+Platform
+ 
+Customer Experience Platform
+Orchestrate customer journeys
+Seamless cross-channel experiences that guide customers to conversions
+Fine-tune with experimentation
+Simple testing and measurement solutions that optimize for specific goals
+Collect customer data
+In-session surveys, forms, and preference centers that capture customers insights
+Accelerate results with AI
+Industry-first AI agents that automate continuous improvements
+Build no-code experiences
+Truly code-free tools to create and launch rich experiences without developers
+Hyper-personalize experiences
+AI-powered interactions that deliver personalization at scale
+Boost customer acquisition
+Robust app store optimization, unified opt-ins, and personalized onboarding
+Capabilities
+Customer data management
+Surveys
+Recommendations & audience pulse
+Scenes
+Performance analytics
+Integrations
+Real-time data streams
+Channels
+Push notifications
+SMS/RCS/MMS
+Email
+Mobile Wallet
+Conversion Destinations
+App
+Web
+Solutions
+ 
+Use Cases
+Acquisition
+Attract, engage, and convert new customers at scale
+Onboarding
+Guide new customers to their first and next valuable experience
+Upsell & cross-sell
+Drive incremental revenue with relevant, personalized offers
+Retargeting
+Re-engage customers with relevant, timely experiences
+Churn prevention
+Identify and retain at-risk customers with proactive strategies
+Win back
+Reactivate lapsed customers and rebuild engagement
+Industries
+Retail
+Media & entertainment
+Finance & insurance
+Travel & hospitality
+Sports
+Telecom
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Resources
+ 
+Learn with Airship
+Resource hub
+Playbooks, insights, and best practices for CX success
+Blog
+Expert insights on mobile-first, cross-channel customer experiences
+Events
+Exclusive learning opportunities from the Airship community
+discover
+Customer success stories
+See how top global brands get results with Airship
+Documentation
+Access technical resources and implementation guides
+Partners
+Integrate with the tools and platforms you already use
+Support
+Get help from our expert team whenever you need it
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Pricing
+Company
+ 
+Contact Us
+Get in touch with our team
+FAQs
+Get quick answers to common queries
+Press releases
+Read our official announcements
+In the news
+See our latest media coverage
+Trust center
+Review our security, compliance, and privacy standards
+Careers
+Join our team, and help shape the future of customer experiences
+Legal
+Browse our terms of service and policies
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Search
+ 
+Helpful links
+Mobile-first strategy
+Learn why a mobile-first strategy drives results
+Cross-channel experiences
+Orchestrate experiences across channels for mobile-first customers
+No-code advantage
+Gain speed and scale with experiences built without developers
+popular searches
+What are cross-channel experiences?
+Why are mobile wallets important?
+What is Airship AI?
+ 
+Search
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+Helpful links
+Mobile-first strategy
+Learn why a mobile-first strategy drives results
+Cross-channel experiences
+Orchestrate experiences across channels for mobile-first customers
+No-code advantage
+Gain speed and scale with experiences built without developers
+popular searches
+What are cross-channel experiences?
+Why are mobile wallets important?
+What is Airship AI?
+ 
+Search
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ English 
+ 
+ Français 
+book a meeting 
+ 
+ 
+Turn data into real action
+Collect, enrich, and activate customer insights instantly to drive conversion with personalized, cross-channel experiences.
+BOOK A MEETING 
+Capture insights directly from customers
+Gather consent, preferences, and intent at scale using no-code workflows, forms, and interactive experiences.
+Unify customer data in real time
+Unlock deeper segmentation and personalization by enriching customer profiles with first- and zero-party data in real time.
+Activate data across your tech stack
+Unlock smarter insights and precise activation by combining Airship’s enriched customer data with your preferred CDP or analytics tools.
+Real impact from real customer insights
+91
+%
+increase in purchases when brands use zero-party preference data in targeting
+43
+%
+higher purchase frequency from identified users versus anonymous users
+59
+%
+lift in purchase conversion when campaigns use customer preferences
+Real voices on data-driven growth
+162%
+increase in MAUs
+Case study 
+40%
+abandoned cart conversion rate
+Case study 
+25%
+increase in pass distribution
+Case study 
+11%
+increase in app revenue
+Case study 
+30x
+higher response rates
+Case study 
+2.8x
+higher purchase conversion rate
+Case study 
+ 
+With Airship, our team built a new and innovative experience for our guests when they were actively engaged with our app, capturing valuable insights to deliver more 
+tailored recommendations.
+Jodi Williams
+Vice President of Ecommerce
+ 
+Since moving to Airship’s no-code native app experiences, we now get as many customer survey responses in a day as we used to receive in a month.
+Laurent Claramonte
+Head of Data Analytics for Products and Mobile Apps
+Ready to unlock real results?
+Drive incremental revenue and loyalty with the mobile-first platform trusted by leading global brands. See what Airship can do for you.
+Book a meeting 
+Company
+Why Airship
+Newsroom
+FAQs
+Careers
+Airship for AI
+Get Started
+Contact Us
+Pricing
+Book a Demo
+ 
+ 
+ 
+ 
+ 
+Contact Us
+Pricing
+Book a Demo
+Use Cases
+Acquisition
+Onboarding
+Upsell & Cross-Sell
+Retargeting
+Churn Prevention
+Win Back
+Resources
+Resource Hub
+Blog
+Events
+Customer Success Stories
+Partners
+Documentation
+Support
+Learn
+Push Notifications
+SMS/RCS/MMS
+Email
+Mobile Wallet
+App
+Web
+ 
+Facebook
+ 
+Threads
+ 
+Bsky
+ 
+LinkedIn
+ 
+YouTube
+ 
+Instagram
+Login 
+Company
+Why Airship
+Newsroom
+FAQs
+Careers
+Airship for AI
+Get Started
+Contact Us
+Pricing
+Book a Demo
+Use Cases
+Acquisition
+Onboarding
+Upsell & Cross-Sell
+Retargeting
+Churn Prevention
+Win Back
+Resources
+Resource Hub
+Blog
+Events
+Customer Success Stories
+Partners
+Documentation
+Support
+Learn
+Push Notifications
+SMS/RCS/MMS
+Email
+Mobile Wallet
+App
+Web
+Trust Center
+Terms of Use
+Security
+Privacy Statement
+California Privacy Rights Notice
+Cookie Settings
+ 
+Facebook
+ 
+Threads
+ 
+Bsky
+ 
+LinkedIn
+ 
+YouTube
+ 
+Instagram
+Login 
+The mobile way to grow
+™
+The mobile way to grow
+™
+© 2026 Airship. All Rights Reserved.
+© 2026 Airship. All Rights Reserved.
+© 2026 Airship. All Rights Reserved.
+Trust Center
+Terms of Use
+Security
+Privacy Statement
+California Privacy Rights Notice
+Cookie Settings
+
+===== pricing_or_trust :: https://www.airship.com/pricing/
+--- SIGNALS ---
+title: Pricing Plans | Airship
+meta_description: Airship pricing designed for results, not vanity metrics. Request a custom quote tailored to your goals and business needs.
+og_description: Airship pricing designed for results, not vanity metrics. Request a custom quote tailored to your goals and business needs.
+og_site_name: Airship
+h1: Platform pricing designed for results | Airship Experience Platform (AXP) | Airship Essentials | Airship guarantees results
+h2: Thank you | The mobile way to grow | The mobile way to grow
+jsonld_org: [{"@type": ["Organization", "Brand", "OnlineBusiness"], "@id": "https://www.airship.com/#organization", "name": "Airship", "url": "https://www.airship.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.airship.com/#/schema/logo/image/", "url": "https://www.airship.com/wp-content/uploads/2026/02/logo-airship-blue.svg", "contentUrl": "https://www.airship.com/wp-content/uploads/2026/02/logo-airship-blue.svg", "caption": "Airship"}, "image": {"@id": "https://www.airship.com/#/schema/logo/image/"}, "foundingDate": "2019-06-01", "slogan": "Cross-Channel Customer Experiences for the Mobile Era", "description": "Deliver personalized messages and interactions that convert across mobile, web, email, SMS, wallet and more—fueled by real-time data, AI and unified orchestration.", "sameAs": ["https://www.facebook.com/airshipsocial/", "https://x.com/airship", "https://www.linkedin.com/company/airship-social/", "https://bsky.app/profile/airshipsocial.bsky.social", "https://www.youtube.com/@airshipsocial"], "contactPoint": [{"@type": "ContactPoint", "telephone": "+1-(855)-385-3155", "contactType": "Sales", "areaServed": "US"}, {"@type": "ContactPoint", "telephone": "+44-(0)300-303-8796", "contactType": "Sales", "areaServed": "UK"}, {"@type": "ContactPoint", "telephone": "+33 1 88 88 82 88", "contactType": "Sales", "areaServed": "FR"}, {"@type": "ContactPoint", "telephone": "+49 69 566085755", "contactType": "Sales", "areaServed": "DE"}, {"@type": "ContactPoint"
+--- TEXT ---
+Pricing Plans | Airship
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+ 
+Skip to footer
+ 
+Why Airship
+Platform
+ 
+Customer Experience Platform
+Orchestrate customer journeys
+Seamless cross-channel experiences that guide customers to conversions
+Fine-tune with experimentation
+Simple testing and measurement solutions that optimize for specific goals
+Collect customer data
+In-session surveys, forms, and preference centers that capture customers insights
+Accelerate results with AI
+Industry-first AI agents that automate continuous improvements
+Build no-code experiences
+Truly code-free tools to create and launch rich experiences without developers
+Hyper-personalize experiences
+AI-powered interactions that deliver personalization at scale
+Boost customer acquisition
+Robust app store optimization, unified opt-ins, and personalized onboarding
+Capabilities
+Customer data management
+Surveys
+Recommendations & audience pulse
+Scenes
+Performance analytics
+Integrations
+Real-time data streams
+Channels
+Push notifications
+SMS/RCS/MMS
+Email
+Mobile Wallet
+Conversion Destinations
+App
+Web
+Solutions
+ 
+Use Cases
+Acquisition
+Attract, engage, and convert new customers at scale
+Onboarding
+Guide new customers to their first and next valuable experience
+Upsell & cross-sell
+Drive incremental revenue with relevant, personalized offers
+Retargeting
+Re-engage customers with relevant, timely experiences
+Churn prevention
+Identify and retain at-risk customers with proactive strategies
+Win back
+Reactivate lapsed customers and rebuild engagement
+Industries
+Retail
+Media & entertainment
+Finance & insurance
+Travel & hospitality
+Sports
+Telecom
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Resources
+ 
+Learn with Airship
+Resource hub
+Playbooks, insights, and best practices for CX success
+Blog
+Expert insights on mobile-first, cross-channel customer experiences
+Events
+Exclusive learning opportunities from the Airship community
+discover
+Customer success stories
+See how top global brands get results with Airship
+Documentation
+Access technical resources and implementation guides
+Partners
+Integrate with the tools and platforms you already use
+Support
+Get help from our expert team whenever you need it
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Pricing
+Company
+ 
+Contact Us
+Get in touch with our team
+FAQs
+Get quick answers to common queries
+Press releases
+Read our official announcements
+In the news
+See our latest media coverage
+Trust center
+Review our security, compliance, and privacy standards
+Careers
+Join our team, and help shape the future of customer experiences
+Legal
+Browse our terms of service and policies
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+ 
+ 
+ 
+ 
+ 
+Why Airship
+Platform
+ 
+Customer Experience Platform
+Orchestrate customer journeys
+Seamless cross-channel experiences that guide customers to conversions
+Fine-tune with experimentation
+Simple testing and measurement solutions that optimize for specific goals
+Collect customer data
+In-session surveys, forms, and preference centers that capture customers insights
+Accelerate results with AI
+Industry-first AI agents that automate continuous improvements
+Build no-code experiences
+Truly code-free tools to create and launch rich experiences without developers
+Hyper-personalize experiences
+AI-powered interactions that deliver personalization at scale
+Boost customer acquisition
+Robust app store optimization, unified opt-ins, and personalized onboarding
+Capabilities
+Customer data management
+Surveys
+Recommendations & audience pulse
+Scenes
+Performance analytics
+Integrations
+Real-time data streams
+Channels
+Push notifications
+SMS/RCS/MMS
+Email
+Mobile Wallet
+Conversion Destinations
+App
+Web
+Solutions
+ 
+Use Cases
+Acquisition
+Attract, engage, and convert new customers at scale
+Onboarding
+Guide new customers to their first and next valuable experience
+Upsell & cross-sell
+Drive incremental revenue with relevant, personalized offers
+Retargeting
+Re-engage customers with relevant, timely experiences
+Churn prevention
+Identify and retain at-risk customers with proactive strategies
+Win back
+Reactivate lapsed customers and rebuild engagement
+Industries
+Retail
+Media & entertainment
+Finance & insurance
+Travel & hospitality
+Sports
+Telecom
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Resources
+ 
+Learn with Airship
+Resource hub
+Playbooks, insights, and best practices for CX success
+Blog
+Expert insights on mobile-first, cross-channel customer experiences
+Events
+Exclusive learning opportunities from the Airship community
+discover
+Customer success stories
+See how top global brands get results with Airship
+Documentation
+Access technical resources and implementation guides
+Partners
+Integrate with the tools and platforms you already use
+Support
+Get help from our expert team whenever you need it
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Pricing
+Company
+ 
+Contact Us
+Get in touch with our team
+FAQs
+Get quick answers to common queries
+Press releases
+Read our official announcements
+In the news
+See our latest media coverage
+Trust center
+Review our security, compliance, and privacy standards
+Careers
+Join our team, and help shape the future of customer experiences
+Legal
+Browse our terms of service and policies
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Search
+ 
+Helpful links
+Mobile-first strategy
+Learn why a mobile-first strategy drives results
+Cross-channel experiences
+Orchestrate experiences across channels for mobile-first customers
+No-code advantage
+Gain speed and scale with experiences built without developers
+popular searches
+What are cross-channel experiences?
+Why are mobile wallets important?
+What is Airship AI?
+ 
+Search
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+Helpful links
+Mobile-first strategy
+Learn why a mobile-first strategy drives results
+Cross-channel experiences
+Orchestrate experiences across channels for mobile-first customers
+No-code advantage
+Gain speed and scale with experiences built without developers
+popular searches
+What are cross-channel experiences?
+Why are mobile wallets important?
+What is Airship AI?
+ 
+Search
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ English 
+ 
+ Français 
+book a meeting 
+ 
+ 
+ 
+AIRSHIP PRICING
+Platform pricing designed for results
+Our pricing reflects what makes us different: an intelligent, cross-channel platform that's built to deliver real business outcomes, not vanity metrics
+ 
+Thank you
+A team member will be in touch shortly.
+Airship Experience Platform (AXP)
+Orchestrate the entire customer lifecycle — from data capture to lasting loyalty — on one unified platform built for scale, so you can deliver ROI and increase your speed to market with experiences that convert. Leverage Airship AI to deliver personalized experiences at scale through a human-led approach that keeps your team in total control.
+Core platform capabilities include:
+get a quote 
+Unified cross-channel experiences
+across email, SMS/RCS/MMS, push notifications, web notifications, mobile wallet, app, and web
+Customer data management
+that activates existing data and captures zero-party preferences in real time for richer customer profiles
+Personalization and segmentation
+that create dynamic customer segments based on real-time behaviors, preferences, and context
+Journey orchestration
+that connects messaging, app, and web experiences into unified flows that guide customers to where they convert
+Testing and optimization
+solutions that continuously learn and automatically improve timing, content, and channels to maximize business results
+Partner integrations
+that connect to your existing stack — including leading CRMs, CDPs, and commerce platforms — with no custom development required
+Reporting analytics
+that track what matters — conversions, revenue, and retention — with customizable dashboards and clear attribution
+Strategic services
+from an expert team that helps you maximize value from implementation to optimization with tailored onboarding, training, and guidance
+get a quote 
+Airship Essentials
+A self-service platform with no code required — best for growth-focused teams building high-impact app and web experiences with native UI, automation, and real-time orchestration
+START WITH ESSENTIALS 
+Airship guarantees results
+Partner with the only cross-channel customer experience platform that guarantees results
+LET’S TALK RESULTS 
+Company
+Why Airship
+Newsroom
+FAQs
+Careers
+Airship for AI
+Get Started
+Contact Us
+Pricing
+Book a Demo
+ 
+ 
+ 
+ 
+ 
+Contact Us
+Pricing
+Book a Demo
+Use Cases
+Acquisition
+Onboarding
+Upsell & Cross-Sell
+Retargeting
+Churn Prevention
+Win Back
+Resources
+Resource Hub
+Blog
+Events
+Customer Success Stories
+Partners
+Documentation
+Support
+Learn
+Push Notifications
+SMS/RCS/MMS
+Email
+Mobile Wallet
+App
+Web
+ 
+Facebook
+ 
+Threads
+ 
+Bsky
+ 
+LinkedIn
+ 
+YouTube
+ 
+Instagram
+Login 
+Company
+Why Airship
+Newsroom
+FAQs
+Careers
+Airship for AI
+Get Started
+Contact Us
+Pricing
+Book a Demo
+Use Cases
+Acquisition
+Onboarding
+Upsell & Cross-Sell
+Retargeting
+Churn Prevention
+Win Back
+Resources
+Resource Hub
+Blog
+Events
+Customer Success Stories
+Partners
+Documentation
+Support
+Learn
+Push Notifications
+SMS/RCS/MMS
+Email
+Mobile Wallet
+App
+Web
+Trust Center
+Terms of Use
+Security
+Privacy Statement
+California Privacy Rights Notice
+Cookie Settings
+ 
+Facebook
+ 
+Threads
+ 
+Bsky
+ 
+LinkedIn
+ 
+YouTube
+ 
+Instagram
+Login 
+The mobile way to grow
+™
+The mobile way to grow
+™
+© 2026 Airship. All Rights Reserved.
+© 2026 Airship. All Rights Reserved.
+© 2026 Airship. All Rights Reserved.
+Trust Center
+Terms of Use
+Security
+Privacy Statement
+California Privacy Rights Notice
+Cookie Settings

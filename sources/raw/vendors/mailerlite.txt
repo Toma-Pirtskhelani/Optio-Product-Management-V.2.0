@@ -1,0 +1,5807 @@
+===== llms.txt :: https://www.mailerlite.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# llms.txt for MailerLite.com
+# Last updated: 2026-06-22
+# Purpose: To enable large language models to accurately comprehend and articulate information about MailerLite.
+## Website overview
+Project name: MailerLite
+Website: https://www.mailerlite.com
+Description: MailerLite is an intuitive email marketing and website building platform, designed to help businesses of all sizes grow their audience faster, drive revenue smarter, and automate their marketing efforts, all backed by 24/7 award-winning support.
+User count: More than 2,300,000 as of June 2026
+## Testimonials
+### Creators
+- “MailerLite makes everything easy with no surprises.” — Lynda M., author, Lynda McDaniels Books
+ Saves time and reduces frustration while running newsletters and email marketing.
+- “My list health has improved dramatically.” — Jordan B., founder, The Mental Health Update
+ Deliverability and engagement improved, with a newsletter landing page converting at 40%+.
+- “It has the necessary features creators need to run a profitable newsletter.” — Matt, entrepreneur, Matt Giaro
+ Reliable autoresponder and automation capabilities for creator-led newsletters.
+### Small businesses
+- “MailerLite was the perfect fit.” — Gillian, Breve Films
+ Makes it easy to manage contacts, grow subscribers, and organize audiences.
+- “We couldn’t be happier with what you offer.” — Nikki D., director, Frankly Social & Hello Carts
+ Creates simple, well-formatted emails quickly, without the usual friction.
+- “Available even for small startups using one of the cheaper paid plans.” — Eloy G., founder/owner, self-employed
+ Customizable templates plus analytics for testing what resonates with readers.
+---
+## Key concepts
+- Email & marketing automation for growth
+- Intuitive drag-and-drop builders for emails, forms, pop-ups, landing pages, and websites
+- Advanced audience segmentation and personalization
+- Comprehensive e-commerce tools for monetization
+- High email deliverability focus
+- Pre-built automation workflows (welcome, abandoned cart, link triggers)
+- A/B testing and performance tracking
+- Forms, popups, and quizzes for lead generation
+- Extensive integrations with popular platforms
+- Hosted MCP server for AI tool integration (Claude, Gemini, ChatGPT, etc.)
+- Educational resources and expert support
+---
+Primary audience: Businesses of all sizes, including creators, small businesses, authors, nonprofits, and agencies, seeking intuitive email marketing and website building solutions.
+Quotes from clients: 
+---
+## Core content sections
+# Homepage
+https://www.mailerlite.com
+# Product overview
+https://www.mailerlite.com/features/email-marketing
+# Pricing
+https://www.mailerlite.com/pricing
+https://www.mailerlite.com/pricing.md
+# Customers / Case studies
+https://www.mailerlite.com/case-studies
+# Blog
+https://www.mailerlite.com/blog
+# Help Center / Documentation
+https://www.mailerlite.com/help
+# API docs
+https://developers.mailerlite.com
+# MCP
+https://developers.mailerlite.com/mcp
+---
+## Features
+- [Email Marketing Features](https://www.mailerlite.com/features/email-marketing)
+ Leverage MailerLite’s advanced email marketing features to collect subscribers, nurture relationships, and monetize your audience.
+- [Email Automation - Email Marketing Workflow](https://www.mailerlite.com/features/automation)
+ Create sophisticated email automation campaigns in minutes with MailerLite's intuitive workflow builder.
+- [Free Landing Page Builder](https://www.mailerlite.com/features/landing-pages)
+ Design stunning and effective landing pages effortlessly using MailerLite's free builder, templates, and generate pages with AI.
+- [E-Commerce Email Marketing](https://www.mailerlite.com/features/email-marketing-for-ecommerce)
+ Boost your e-commerce sales and build lasting customer relationships with MailerLite’s integrated tools.
+- [Free Website Builder with Emails: Create Website in Just 1 Day](https://www.mailerlite.com/features/website-builder)
+ Build beautiful websites quickly with our drag & drop builder, no coding required, and integrate marketing tools.
+- [Craft Beautiful Newsletters - Drag & Drop, Simple email and HTML Editors](https://www.mailerlite.com/features/newsletter-editors)
+ Design emails with three editors: a distraction-free Simple editor for newsletter-style writing, an AI-powered drag & drop editor, and a rebuilt Custom HTML editor with live preview and syntax highlighting.
+- [Selling Digital Products and Subscriptions](https://www.mailerlite.com/features/sell-digital-products)
+ Monetize your audience by selling digital products and subscriptions directly from your landing pages.
+- [Paid Newsletter Subscriptions](https://www.mailerlite.com/features/paid-newsletter-subscriptions)
+ Manage lead collection, payments, and automated delivery for your paid newsletter subscriptions all in one platform.
+- [Email Signup Forms](https://www.mailerlite.com/features/signup-forms)
+ Grow your audience with highly effective, custom email marketing forms designed to drive signups and conversions.
+- [Hosted Email Marketing MCP Server](https://www.mailerlite.com/features/mcp)
+ Connect MailerLite directly to AI tools like Claude or Gemini and ask it to automate tasks, analyze campaigns, and so much more.
+- [Integrations directory](https://www.mailerlite.com/integrations)
+ Connect MailerLite to top CRM, E-commerce and 150+ tools. 
+- [Email List Verifier: MailerCheck](https://www.mailerlite.com/features/email-verifier)
+ Clean and optimize your email list instantly with MailerCheck to protect deliverability.
+- [Create a Beautiful Blog](https://www.mailerlite.com/features/create-a-blog)
+ Easily build a blog with our drag & drop builder and integrate marketing tools to grow your business.
+- [Transactional Email Service: MailerSend](https://www.mailerlite.com/features/transactional-emails)
+ Utilize MailerSend for a powerful transactional email service with an intuitive interface for team collaboration.
+- [Forms App for iPad - Collect your Leads Offline](https://www.mailerlite.com/features/ipad-app)
+ Transform your iPad into an offline lead collection tool for events and stores.
+- [Free Online Quiz Maker: Create Fun Quizzes in Minutes](https://www.mailerlite.com/features/quiz-maker)
+ Engage your audience with fun quizzes created quickly using our intuitive quiz maker, free to set up and publish.
+- [Popups - Design Your Email Subscription Popup](https://www.mailerlite.com/features/popups)
+ Boost subscribers with customizable newsletter popups, including slidebox, floating bar, and exit-intent options.
+- [Email Newsletter Templates](https://www.mailerlite.com/features/templates)
+ Choose from a variety of pre-designed email newsletter templates to create professional, branded content.
+- [Appointment Booking and Scheduling](https://www.mailerlite.com/features/appointment-booking-and-scheduling-software)
+ Schedule free and paid 1:1 or group sessions, sync with Google or Outlook calendars, accept payments via Stripe, and automatically trigger email sequences the moment a client books.
+- [Custom Reports and Analytics](https://www.mailerlite.com/features/performance-reports) Build flexible reports with "Group by" and filtering functions to analyze campaign performance by audience or timeframe and identify growth trends.
+---
+## Support & Migration
+- [Customer Support Self-Service Center](https://www.mailerlite.com/support)
+ Access a wealth of resources for quick and efficient customer support, including a comprehensive knowledge base.
+- [Contact Us](https://www.mailerlite.com/contact-us)
+ Reach out to MailerLite for support or inquiries through our comprehensive contact resources.
+- [Email Marketing Knowledge Base](https://www.mailerlite.com/help)
+ Access a comprehensive knowledge base with step-by-step articles and videos to optimize your MailerLite experience.
+- [Getting Started - Help](https://www.mailerlite.com/help/c/getting-started)
+ A comprehensive manual for new MailerLite users, covering account setup, contact import, and first campaign creation.
+- [Dashboard - Help](https://www.mailerlite.com/help/c/dashboard)
+ Learn how to navigate and utilize your MailerLite dashboard effectively.
+- [Integrations & API - Help](https://www.mailerlite.com/help/c/integrations)
+ Maximize MailerLite's potential with detailed documentation on e-commerce, WordPress, and other integrations.
+- [Troubleshooting - Help](https://www.mailerlite.com/help/c/troubleshooting)
+ Find solutions to common issues and roadblocks with MailerLite's troubleshooting articles.
+- [Create and Send Campaigns - Help](https://www.mailerlite.com/help/c/create-and-send)
+ Master email campaigns with guides on types, creation, and using the drag & drop builder.
+- [Sign Up Forms - Help](https://www.mailerlite.com/help/c/forms)
+ Get assistance with pop-ups, creating, and embedding sign-up forms to grow your audience.
+- [Reports - Help](https://www.mailerlite.com/help/c/reports)
+ Understand and leverage MailerLite's reporting features to track key metrics like unsubscribes and link activity.
+- [Account Settings - Help](https://www.mailerlite.com/help/c/account-settings)
+ Manage all aspects of your MailerLite account, including users, billing, and security settings.
+- [Confirmation - Help](https://www.mailerlite.com/help/c/approval)
+ Learn about the account approval process before sending emails with MailerLite.
+- [Email Automation - Help](https://www.mailerlite.com/help/c/automation)
+ Discover how to set up triggers, e-commerce tracking, and abandoned cart emails with MailerLite automation.
+- [Billing and Upgrades - Help](https://www.mailerlite.com/help/c/billing)
+ Manage your MailerLite subscription plans, upgrades, and billing details.
+- [Create your first campaign - Help](https://www.mailerlite.com/help/c/create-your-first-campaign)
+ A step-by-step guide to launching your very first email campaign with MailerLite.
+- [Email Deliverability - Help](https://www.mailerlite.com/help/c/deliverability)
+ Become an expert in email deliverability with tips on domain authentication and list hygiene.
+- [Domain authentication - Help](https://www.mailerlite.com/help/c/domain-authentication)
+ Understand the importance and process of authenticating your domain for improved email deliverability.
+- [Domains - Help](https://www.mailerlite.com/help/c/domains)
+ Manage and configure your domains within the MailerLite platform.
+- [E-commerce Automation triggers - Help](https://www.mailerlite.com/help/c/e-commerce-automation-triggers)
+ Set up powerful e-commerce automation triggers to enhance your marketing workflows.
+- [Ecommerce - Help](https://www.mailerlite.com/help/c/ecommerce)
+ Explore MailerLite's e-commerce features to integrate and optimize your online store.
+- [Get started with automations - Help](https://www.mailerlite.com/help/c/get-started-with-automations)
+ A quick guide to initiating and setting up your first email automations.
+- [Groups and segments - Help](https://www.mailerlite.com/help/c/groups-and-segments)
+ Learn how to organize your subscribers into groups and segments for targeted campaigns.
+- [Landing pages - Help](https://www.mailerlite.com/help/c/landing-pages)
+ Comprehensive guidance on creating and optimizing landing pages within MailerLite.
+- [Migration - Help](https://www.mailerlite.com/help/c/migration)
+ Smoothly transition from MailerLite Classic to the new MailerLite platform.
+- [Landing Pages and Websites - Help](https://www.mailerlite.com/help/c/sites)
+ Detailed instructions for creating landing pages and websites, including Stripe integration and A/B testing.
+- [Subscriber Information - Help](https://www.mailerlite.com/help/c/subscriber-information)
+ Manage subscriber data, custom fields, and understand various subscriber statuses.
+- [Subscriber management - Help](https://www.mailerlite.com/help/c/subscriber-management)
+ Effectively manage your subscriber lists, including importing and organizing contacts.
+- [How to verify and authenticate your domain](https://www.mailerlite.com/help/how-to-verify-and-authenticate-your-domain)
+ Learn the critical steps to verify and authenticate your domain for optimal email deliverability across various hosting providers.
+- [Where to find the MailerLite API key, Group ID, and Documentation](https://www.mailerlite.com/help/where-to-find-the-mailerlite-api-key-groupid-and-documentation)
+ Find your MailerLite API key and access documentation for building custom integrations or utilizing pre-developed ones.
+- [How to confirm your account](https://www.mailerlite.com/help/how-to-get-approved)
+ Understand the information required for MailerLite account approval before you start sending emails.
+- [I Can't Log In to my account](https://www.mailerlite.com/help/i-can-t-login-to-my-account)
+ Troubleshoot login issues, including forgotten passwords, reset email problems, and two-factor authentication (2FA) challenges.
+- [Everything About Test Emails](https://www.mailerlite.com/help/everything-about-test-emails)
+ Learn how to send test emails to preview your newsletters and ensure perfect layout and content before sending to subscribers.
+- [How To Use MailerLite With WordPress](https://www.mailerlite.com/help/how-to-use-mailerlite-with-wordpress)
+ Integrate MailerLite seamlessly with your WordPress site using the plugin to collect subscribers directly.
+- [How To Import Subscribers](https://www.mailerlite.com/help/how-to-import-subscribers)
+ Explore five different methods to efficiently import your subscribers into MailerLite.
+- [How To Clear Caches And Cookies In Different Browsers](https://www.mailerlite.com/help/how-to-clear-caches-and-cookies-in-different-browsers)
+ Improve web application performance by learning how to clear browser caches and cookies.
+- [Everything About Subscription Plan And Billing](https://www.mailerlite.com/help/plan-and-billing)
+ A comprehensive guide to managing your MailerLite subscription, including plan selection, upgrades, and payment options.
+- [How To Get Started With MailerLite](https://www.maile
+
+===== homepage :: https://www.mailerlite.com/
+--- SIGNALS ---
+title: Create Email Marketing Your Audience Will Love - MailerLite
+meta_description: Digital marketing tools to grow your audience faster and drive revenue smarter. Backed by 24/7 award-winning support. Check it out now!
+og_description: Digital marketing tools to grow your audience faster and drive revenue smarter. Backed by 24/7 award-winning support. Check it out now!
+og_site_name: 
+h1: Create email marketing automations landing pages signup forms websites your audience will love
+h2: You're in good company | Customer support is always here to help you | Integrations | Templates that work | Keeping it Lite
+jsonld_org: [{"@type": "Organization", "@id": "https://mailerlite.com#organization", "name": "MailerLite", "url": "https://mailerlite.com", "sameAs": ["https://www.facebook.com/profile.php?id=61557135009171", "https://x.com/MailerLite", "https://www.instagram.com/mailerliteofficial", "https://www.youtube.com/channel/UCRWH1lQlbnqCrrYTfacklIQ", "https://www.linkedin.com/company/mailerlite-international/", "https://www.wikidata.org/wiki/Q54860002", "https://lt.wikipedia.org/wiki/MailerLite", "https://www.threads.com/@mailerliteofficial"]}, {"@context": "https://schema.org", "@type": "Organization", "@id": "https://mailerlite.com#organization", "name": "MailerLite", "description": "Digital marketing tools to grow your audience faster and drive revenue smarter. Backed by 24/7 award-winning support.", "url": "https://mailerlite.com", "image": "https://storage.googleapis.com/mailerlite-website-bucket/SEO/mailerlite.png", "logo": {"@type": "ImageObject", "url": "https://storage.googleapis.com/mailerlite-website-bucket/SEO/mailerlite.png", "width": 600, "height": 200}, "email": "info@mailerlite.com", "brand": {"@type": "Thing", "name": "MailerLite"}, "contactPoint": {"@type": "ContactPoint", "url": "https://www.mailerlite.com/support", "email": "info@mailerlite.com", "contactType": "technical support", "availableLanguage": "English"}, "sameAs": ["https://www.facebook.com/profile.php?id=61557135009171", "https://x.com/MailerLite", "https://www.instagram.com/mailerliteofficial", "https://www.youtub
+--- TEXT ---
+Create Email Marketing Your Audience Will Love - MailerLite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send emails
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+ 
+ 
+Grow your audience and build stronger relationships.
+ 
+ 
+ 
+ 
+Automation
+ 
+ 
+ 
+Send perfectly-timed and targeted emails automatically.
+ 
+ 
+ 
+ 
+Newsletter editors
+ 
+ 
+ 
+Design emails yourself with an ai-powered drag & drop editor.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email notifications
+ 
+ 
+ 
+ 
+ 
+Send timely emails triggered by activity on your website or app.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Build websites
+ 
+ 
+ 
+ 
+ 
+Website builder
+ 
+ 
+ 
+Build stunning websites on your own and let your business shine.
+ 
+ 
+ 
+ 
+Create a blog
+ 
+ 
+ 
+Drive traffic and engage visitors with an easy-to-build blog.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Collect leads
+ 
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+ 
+Create pages to collect leads, sell products and more.
+ 
+ 
+ 
+ 
+Signup forms
+ 
+ 
+ 
+Invite people from across the web to become subscribers.
+ 
+ 
+ 
+ 
+iPad Subscribe App
+ 
+ 
+ 
+Collect subscribers at your event or store - even offline!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email verifier
+ 
+ 
+ 
+ 
+ 
+Clean and optimize email lists to improve deliverability.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grow revenue
+ 
+ 
+ 
+ 
+ 
+Appointment booking
+ 
+New
+ 
+ 
+ 
+All you need to schedule free and paid 1:1 or group calls.
+ 
+ 
+ 
+ 
+Digital products
+ 
+ 
+ 
+Sell e-books, downloads and more to grow your income.
+ 
+ 
+ 
+ 
+E-commerce
+ 
+ 
+ 
+Integrate your e-store with email marketing to boost sales.
+ 
+ 
+ 
+ 
+Paid newsletter subscriptions
+ 
+ 
+ 
+Easily set up recurring payments to offer paid subscriptions.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Gallery
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Examples
+ 
+ 
+ 
+ 
+ 
+Newsletters
+ 
+ 
+ 
+See designs for various occasions and industries.
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+ 
+Get inspired by examples made by customers like you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automations
+ 
+ 
+ 
+ 
+ 
+Automation examples
+ 
+ 
+ 
+Check out these email automation ideas to inspire your own.
+ 
+ 
+ 
+ 
+Automation templates
+ 
+ 
+ 
+Build professional email workflows quickly using pre-built templates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ 
+ Use these expertly-designed templates to quickly build effective newsletters, web pages and forms.
+ 
+ 
+ 
+Newsletters
+ 
+Websites
+ 
+Landing pages
+ 
+Pop-ups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use cases
+ 
+ 
+ Tell us what kind of business you have and we'll tell you how best to use MailerLite.
+ 
+ 
+ 
+Solopreneurs
+ 
+Small business
+ 
+E-commerce
+ 
+Creators
+ 
+Agencies
+ 
+Enterprise
+ 
+Authors
+ 
+ 
+ 
+ 
+ 
+ 
+Case studies
+ 
+ 
+ 
+Get inspired by email marketing case studies
+ 
+See how MailerLiters are growing their business with email.
+ 
+ 
+View all case studies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+Lite is our philosophy
+ 
+Making the complex simple is what we do best.
+ 
+ 
+Learn more about going Lite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Knowledge base
+ 
+ 
+ 
+Get quick answers to the most common MailerLite questions.
+ 
+ 
+ 
+ 
+Video tutorials
+ 
+ 
+ 
+Learn at your own pace with short and sweet instructional videos.
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Read stories and how-to articles to level up your strategies.
+ 
+ 
+ 
+ 
+Best practices by industry
+ 
+ 
+ 
+Discover the best email marketing practices for your industry.
+ 
+ 
+ 
+ 
+Email marketing guide
+ 
+ 
+ 
+Explore the email essentials for a successful campaign.
+ 
+ 
+ 
+ 
+Live learning sessions
+ 
+ 
+ 
+Boost your email skills with live webinars, workshops and Q&As.
+ 
+ 
+ 
+ 
+Free resources and tools
+ 
+ 
+ 
+Access free tools and resources designed to help your business succeed.
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+Integrate MailerLite with all your favorite apps to streamline your workflows.
+ 
+ 
+ 
+ 
+ 
+ 
+Stripe
+ 
+ 
+ 
+ 
+ 
+ 
+Make
+ 
+ 
+ 
+ 
+ 
+ 
+Zapier
+ 
+ 
+ 
+ 
+ 
+ 
+Shopify
+ 
+ 
+ 
+ 
+ 
+ 
+WordPress
+ 
+ 
+ 
+ 
+ 
+ 
+WooCommerce
+ 
+ 
+ 
+ 
+All integrations
+ 
+ 
+ 
+ 
+ 
+ 
+For developers
+ 
+ 
+Build and integrate with MailerLite.
+ 
+ 
+API Docs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check out our newest how-to guides: 
+ 
+Migrating from Classic to the new MailerLite
+ 
+|
+ 
+Authenticating your domain to maintain deliverability
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ en
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'en');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 pointer-events-none bg-gray-100 text-gray-500 font-medium">
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'es');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Español
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'pl');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Polski
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ setTimeout(() => {
+ document.querySelector('input').focus();
+ });
+ });"
+ class="hover:opacity-50" title="Search">
+ 
+ 
+ 
+Log in
+ 
+Sign up
+ 
+ 
+ 
+ 
+ 
+ 
+ en
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'en');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 pointer-events-none bg-gray-100 text-gray-500 font-medium">
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'es');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Español
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'pl');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Polski
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ setTimeout(() => {
+ document.querySelector('input').focus();
+ });
+ });"
+ class="hover:opacity-50" title="Search MailerLite">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send emails
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+ 
+Grow your audience and build stronger relationships.
+ 
+ 
+ 
+ 
+Automation
+ 
+ 
+Send perfectly-timed and targeted emails automatically.
+ 
+ 
+ 
+ 
+Newsletter editors
+ 
+ 
+Design emails yourself with an ai-powered drag & drop editor.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email notifications
+ 
+ 
+ 
+ 
+Send timely emails triggered by activity on your website or app.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Build websites
+ 
+ 
+ 
+ 
+ 
+Website builder
+ 
+ 
+Build stunning websites on your own and let your business shine.
+ 
+ 
+ 
+ 
+Create a blog
+ 
+ 
+Drive traffic and engage visitors with an easy-to-build blog.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Collect leads
+ 
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+Create pages to collect leads, sell products and more.
+ 
+ 
+ 
+ 
+Signup forms
+ 
+ 
+Invite people from across the web to become subscribers.
+ 
+ 
+ 
+ 
+iPad Subscribe App
+ 
+ 
+Collect subscribers at your event or store - even offline!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email verifier
+ 
+ 
+ 
+ 
+Clean and optimize email lists to improve deliverability.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grow revenue
+ 
+ 
+ 
+ 
+ 
+Appointment booking
+ 
+New
+ 
+ 
+All you need to schedule free and paid 1:1 or group calls.
+ 
+ 
+ 
+ 
+Digital products
+ 
+ 
+Sell e-books, downloads and more to grow your income.
+ 
+ 
+ 
+ 
+E-commerce
+ 
+ 
+Integrate your e-store with email marketing to boost sales.
+ 
+ 
+ 
+ 
+Paid newsletter subscriptions
+ 
+ 
+Easily set up recurring payments to offer paid subscriptions.
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Gallery
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Examples
+ 
+ 
+ 
+ 
+ 
+Newsletters
+ 
+ 
+See designs for various occasions and industries.
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+Get inspired by examples made by customers like you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automations
+ 
+ 
+ 
+ 
+ 
+Automation examples
+ 
+ 
+Check out these email automation ideas to inspire your own.}
+ 
+ 
+ 
+ 
+Automation templates
+ 
+ 
+Build professional email workflows quickly using pre-built templates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ 
+Use these expertly-designed templates to quickly build effective newsletters, web pages and forms.
+ 
+ 
+ 
+ Newsletters
+ 
+ 
+ 
+ 
+ Websites
+ 
+ 
+ 
+ 
+ Landing pages
+ 
+ 
+ 
+ 
+ Pop-ups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use cases
+ 
+ 
+Tell us what kind of business you have and we'll tell you how best to use MailerLite.
+ 
+ 
+ 
+ Solopreneurs
+ 
+ 
+ 
+ 
+ Small business
+ 
+ 
+ 
+ 
+ E-commerce
+ 
+ 
+ 
+ 
+ Creators
+ 
+ 
+ 
+ 
+ Agencies
+ 
+ 
+ 
+ 
+ Enterprise
+ 
+ 
+ 
+ 
+ Authors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case studies
+ 
+ 
+ 
+ 
+ 
+Get inspired by email marketing case studies
+ 
+ 
+See how MailerLiters are growing their business with email.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+ 
+ 
+Lite is our philosophy
+ 
+ 
+Making the complex simple is what we do best.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Knowledge base
+ 
+ 
+Get quick answers to the most common MailerLite questions.
+ 
+ 
+ 
+ 
+Video tutorials
+ 
+ 
+Learn at your own pace with short and sweet instructional videos.
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+Read stories and how-to articles to level up your strategies.
+ 
+ 
+ 
+ 
+Best practices by industry
+ 
+ 
+Discover the best email marketing practices for your industry.
+ 
+ 
+ 
+ 
+Email marketing guide
+ 
+ 
+Explore the email essentials for a successful campaign.
+ 
+ 
+ 
+ 
+Live learning sessions
+ 
+ 
+Boost your email skills with live webinars, workshops and Q&As.
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+Integrate MailerLite with all your favorite apps to streamline your workflows.
+ 
+ 
+ 
+ 
+ 
+ 
+Stripe
+ 
+ 
+ 
+ 
+ 
+ 
+Make
+ 
+ 
+ 
+ 
+ 
+ 
+Zapier
+ 
+ 
+ 
+ 
+ 
+ 
+Shopify
+ 
+ 
+ 
+ 
+ 
+ 
+WordPress
+ 
+ 
+ 
+ 
+ 
+ 
+WooCommerce
+ 
+ 
+ 
+ 
+All integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For developers
+ 
+ 
+Build and integrate with MailerLite.
+ 
+ 
+API Docs
+ 
+ 
+ 
+ 
+ 
+Check out our newest how-to guides:
+ 
+Migrating from Classic to the new MailerLite
+ 
+Authenticating your domain to maintain deliverability
+ 
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+Sign up
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Close
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0" @click="query= ''
+ $nextTick(() => $refs.input.focus())
+ " title="Clear the query"
+ class="pr-5 absolute inset-y-0 right-0 flex items-center focus:outline-none focus:shadow-outline fill-current text-gray-400 text-opacity-60 hover:text-gray-600">
+ 
+ 
+ 
+ 
+ 
+ 
+ 0"
+ class="mt-1.5 bg-white rounded-md sm:max-h-[600px] sm:overflow-y-scroll">
+ 
+ No results were found...
+ 
+ 
+ 0'>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create
+ 
+ 
+ 
+email marketing
+ 
+ 
+automations
+ 
+ 
+landing pages
+ 
+ 
+signup forms
+ 
+ 
+websites
+ 
+ 
+ 
+ 
+your audience will love
+ 
+ 
+ 
+Digital marketing tools to grow your audience faster and drive revenue smarter. Backed by 24/7 award-winning support.
+ 
+ 
+Sign up free
+ 
+ 
+Watch demo
+ 
+ 
+ 
+Get a free 
+14-day
+ trial of premium features | No credit card required
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Track your results
+ 
+ 
+ 
+Monitor performance to find what works best for your business.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sell digital products
+ 
+ 
+ 
+Sell ebooks, downloads, or whatever else will help subscribers.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automations
+ 
+ 
+ 
+Send perfectly-timed and targeted emails automatically.
+ 
+ 
+ 
+ The anniversary of a date in 
+ field 
+Birthday
+ 
+ 
+ 
+ 
+ 
+ 
+ Grab your birthday discount
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email campaigns
+ 
+ 
+ 
+Create engaging, dynamic emails in minutes with our intuitive drag & drop email editor.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Track your results
+ 
+ 
+ 
+Monitor performance to find what works best for your business.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sell digital products
+ 
+ 
+ 
+Sell ebooks, downloads, or whatever else will help subscribers.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automations
+ 
+ 
+ 
+Send perfectly-timed and targeted emails automatically.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email campaigns
+ 
+ 
+ 
+Create engaging, dynamic emails in minutes with our intuitive drag & drop email editor.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Websites
+ 
+ 
+ 
+Build stunning websites on your own and let your business shine.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signup forms
+ 
+ 
+ 
+Grow your audience with highly-effective subscribe forms.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paid newsletter subscriptions
+ 
+ 
+ 
+Easily set up recurring payments to offer paid subscriptions.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+And many more features to
+ grow your business
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You're in good company
+ 
+ 
+ 
+ 
+ Join
+ 1M+
+ creators and businesses using MailerLite to grow.
+ 
+ 
+ 
+ 
+ 
+ 
+Read more stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Today, most email marketing services offer automation and landing pages, but MailerLite is truly distinguished by its simple, beautiful UI and attentive customer service. Since making the switch, the Notion VIP email list has exploded, much thanks to the dependability and ease-of-use of MailerLite.
+ 
+ 
+ 
+ 
+William Nutt
+ 
+ 
+Founder, 
+Nutt Labs
+ and 
+Notion VIP
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer support is always here to help you
+ 
+We work around the clock to assist you. Drop us a message any time, and one of us will be happy to get back to you quickly!
+ 
+ 
+ 
+24/7
+ 
+always available
+ 
+ 
+ 
+97%
+ 
+satisfaction rate
+ 
+ 
+ 
+5 min
+ 
+avg. response time on live chat
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+Easily connect other web apps with MailerLite so they seamlessly work together to share information, automate workflows and enhance your customer experience.
+ 
+ 
+ 
+ 
+ 
+Stripe
+ 
+ 
+ 
+ 
+Zapier
+ 
+ 
+ 
+ 
+Shopify
+ 
+ 
+ 
+ 
+WordPress
+ 
+ 
+ 
+ 
+WooCommerce
+ 
+ 
+ 
+ 
+Canva
+ 
+ 
+ 
+ 
+ 
+All integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates that work
+ 
+Get a jumpstart on building your web pages and newsletters! Choose a design that fits your business needs and make it your own. Our drag & drop editors make it super easy for anyone to customize templates like a pro.
+ 
+ 
+ 
+Newsletters
+ 
+Landing pages
+ 
+Websites
+ 
+Pop-ups
+ 
+ 
+ 
+Explore all templates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+ Preview template
+ 
+ 
+ 
+ 
+ 
+
+
+===== product :: https://www.mailerlite.com/features/mcp
+--- SIGNALS ---
+title: MCP Server for Email Marketing - MailerLite
+meta_description: Connect your AI tools to MailerLite with our Model Context Protocol (MCP) server. Automate tasks, analyze campaigns and create content. Set it up free.
+og_description: Connect your AI tools to MailerLite with our Model Context Protocol (MCP) server. Automate tasks, analyze campaigns and create content. Set it up free.
+og_site_name: 
+h1: Create your personal AI assistant
+h2: Turn your LLM into an AI email marketing workhorse | Join 1M+ MailerLiters | Automate tasks and get recommendations for optimization | How it works | Ready for an Email Marketing Renaissance? | Find answers to all your questions here!
+jsonld_org: [{"@type": "Organization", "@id": "https://mailerlite.com#organization", "name": "MailerLite", "url": "https://mailerlite.com", "sameAs": ["https://www.facebook.com/profile.php?id=61557135009171", "https://x.com/MailerLite", "https://www.instagram.com/mailerliteofficial", "https://www.youtube.com/channel/UCRWH1lQlbnqCrrYTfacklIQ", "https://www.linkedin.com/company/mailerlite-international/", "https://www.wikidata.org/wiki/Q54860002", "https://lt.wikipedia.org/wiki/MailerLite", "https://www.threads.com/@mailerliteofficial"]}, {"@context": "https://schema.org", "@type": "Organization", "@id": "https://mailerlite.com#organization", "name": "MailerLite", "description": "Digital marketing tools to grow your audience faster and drive revenue smarter. Backed by 24/7 award-winning support.", "url": "https://mailerlite.com", "image": "https://storage.googleapis.com/mailerlite-website-bucket/SEO/mailerlite.png", "logo": {"@type": "ImageObject", "url": "https://storage.googleapis.com/mailerlite-website-bucket/SEO/mailerlite.png", "width": 600, "height": 200}, "email": "info@mailerlite.com", "brand": {"@type": "Thing", "name": "MailerLite"}, "contactPoint": {"@type": "ContactPoint", "url": "https://www.mailerlite.com/support", "email": "info@mailerlite.com", "contactType": "technical support", "availableLanguage": "English"}, "sameAs": ["https://www.facebook.com/profile.php?id=61557135009171", "https://x.com/MailerLite", "https://www.instagram.com/mailerliteofficial", "https://www.youtub
+--- TEXT ---
+MCP Server for Email Marketing - MailerLite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send emails
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+ 
+ 
+Grow your audience and build stronger relationships.
+ 
+ 
+ 
+ 
+Automation
+ 
+ 
+ 
+Send perfectly-timed and targeted emails automatically.
+ 
+ 
+ 
+ 
+Newsletter editors
+ 
+ 
+ 
+Design emails yourself with an ai-powered drag & drop editor.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email notifications
+ 
+ 
+ 
+ 
+ 
+Send timely emails triggered by activity on your website or app.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Build websites
+ 
+ 
+ 
+ 
+ 
+Website builder
+ 
+ 
+ 
+Build stunning websites on your own and let your business shine.
+ 
+ 
+ 
+ 
+Create a blog
+ 
+ 
+ 
+Drive traffic and engage visitors with an easy-to-build blog.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Collect leads
+ 
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+ 
+Create pages to collect leads, sell products and more.
+ 
+ 
+ 
+ 
+Signup forms
+ 
+ 
+ 
+Invite people from across the web to become subscribers.
+ 
+ 
+ 
+ 
+iPad Subscribe App
+ 
+ 
+ 
+Collect subscribers at your event or store - even offline!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email verifier
+ 
+ 
+ 
+ 
+ 
+Clean and optimize email lists to improve deliverability.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grow revenue
+ 
+ 
+ 
+ 
+ 
+Appointment booking
+ 
+New
+ 
+ 
+ 
+All you need to schedule free and paid 1:1 or group calls.
+ 
+ 
+ 
+ 
+Digital products
+ 
+ 
+ 
+Sell e-books, downloads and more to grow your income.
+ 
+ 
+ 
+ 
+E-commerce
+ 
+ 
+ 
+Integrate your e-store with email marketing to boost sales.
+ 
+ 
+ 
+ 
+Paid newsletter subscriptions
+ 
+ 
+ 
+Easily set up recurring payments to offer paid subscriptions.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Gallery
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Examples
+ 
+ 
+ 
+ 
+ 
+Newsletters
+ 
+ 
+ 
+See designs for various occasions and industries.
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+ 
+Get inspired by examples made by customers like you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automations
+ 
+ 
+ 
+ 
+ 
+Automation examples
+ 
+ 
+ 
+Check out these email automation ideas to inspire your own.
+ 
+ 
+ 
+ 
+Automation templates
+ 
+ 
+ 
+Build professional email workflows quickly using pre-built templates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ 
+ Use these expertly-designed templates to quickly build effective newsletters, web pages and forms.
+ 
+ 
+ 
+Newsletters
+ 
+Websites
+ 
+Landing pages
+ 
+Pop-ups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use cases
+ 
+ 
+ Tell us what kind of business you have and we'll tell you how best to use MailerLite.
+ 
+ 
+ 
+Solopreneurs
+ 
+Small business
+ 
+E-commerce
+ 
+Creators
+ 
+Agencies
+ 
+Enterprise
+ 
+Authors
+ 
+ 
+ 
+ 
+ 
+ 
+Case studies
+ 
+ 
+ 
+Get inspired by email marketing case studies
+ 
+See how MailerLiters are growing their business with email.
+ 
+ 
+View all case studies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+Lite is our philosophy
+ 
+Making the complex simple is what we do best.
+ 
+ 
+Learn more about going Lite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Knowledge base
+ 
+ 
+ 
+Get quick answers to the most common MailerLite questions.
+ 
+ 
+ 
+ 
+Video tutorials
+ 
+ 
+ 
+Learn at your own pace with short and sweet instructional videos.
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Read stories and how-to articles to level up your strategies.
+ 
+ 
+ 
+ 
+Best practices by industry
+ 
+ 
+ 
+Discover the best email marketing practices for your industry.
+ 
+ 
+ 
+ 
+Email marketing guide
+ 
+ 
+ 
+Explore the email essentials for a successful campaign.
+ 
+ 
+ 
+ 
+Live learning sessions
+ 
+ 
+ 
+Boost your email skills with live webinars, workshops and Q&As.
+ 
+ 
+ 
+ 
+Free resources and tools
+ 
+ 
+ 
+Access free tools and resources designed to help your business succeed.
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+Integrate MailerLite with all your favorite apps to streamline your workflows.
+ 
+ 
+ 
+ 
+ 
+ 
+Stripe
+ 
+ 
+ 
+ 
+ 
+ 
+Make
+ 
+ 
+ 
+ 
+ 
+ 
+Zapier
+ 
+ 
+ 
+ 
+ 
+ 
+Shopify
+ 
+ 
+ 
+ 
+ 
+ 
+WordPress
+ 
+ 
+ 
+ 
+ 
+ 
+WooCommerce
+ 
+ 
+ 
+ 
+All integrations
+ 
+ 
+ 
+ 
+ 
+ 
+For developers
+ 
+ 
+Build and integrate with MailerLite.
+ 
+ 
+API Docs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check out our newest how-to guides: 
+ 
+Migrating from Classic to the new MailerLite
+ 
+|
+ 
+Authenticating your domain to maintain deliverability
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ en
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'en');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 pointer-events-none bg-gray-100 text-gray-500 font-medium">
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'es');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Español
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'pl');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Polski
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ setTimeout(() => {
+ document.querySelector('input').focus();
+ });
+ });"
+ class="hover:opacity-50" title="Search">
+ 
+ 
+ 
+Log in
+ 
+Sign up
+ 
+ 
+ 
+ 
+ 
+ 
+ en
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'en');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 pointer-events-none bg-gray-100 text-gray-500 font-medium">
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'es');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Español
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'pl');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Polski
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ setTimeout(() => {
+ document.querySelector('input').focus();
+ });
+ });"
+ class="hover:opacity-50" title="Search MailerLite">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send emails
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+ 
+Grow your audience and build stronger relationships.
+ 
+ 
+ 
+ 
+Automation
+ 
+ 
+Send perfectly-timed and targeted emails automatically.
+ 
+ 
+ 
+ 
+Newsletter editors
+ 
+ 
+Design emails yourself with an ai-powered drag & drop editor.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email notifications
+ 
+ 
+ 
+ 
+Send timely emails triggered by activity on your website or app.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Build websites
+ 
+ 
+ 
+ 
+ 
+Website builder
+ 
+ 
+Build stunning websites on your own and let your business shine.
+ 
+ 
+ 
+ 
+Create a blog
+ 
+ 
+Drive traffic and engage visitors with an easy-to-build blog.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Collect leads
+ 
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+Create pages to collect leads, sell products and more.
+ 
+ 
+ 
+ 
+Signup forms
+ 
+ 
+Invite people from across the web to become subscribers.
+ 
+ 
+ 
+ 
+iPad Subscribe App
+ 
+ 
+Collect subscribers at your event or store - even offline!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email verifier
+ 
+ 
+ 
+ 
+Clean and optimize email lists to improve deliverability.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grow revenue
+ 
+ 
+ 
+ 
+ 
+Appointment booking
+ 
+New
+ 
+ 
+All you need to schedule free and paid 1:1 or group calls.
+ 
+ 
+ 
+ 
+Digital products
+ 
+ 
+Sell e-books, downloads and more to grow your income.
+ 
+ 
+ 
+ 
+E-commerce
+ 
+ 
+Integrate your e-store with email marketing to boost sales.
+ 
+ 
+ 
+ 
+Paid newsletter subscriptions
+ 
+ 
+Easily set up recurring payments to offer paid subscriptions.
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Gallery
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Examples
+ 
+ 
+ 
+ 
+ 
+Newsletters
+ 
+ 
+See designs for various occasions and industries.
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+Get inspired by examples made by customers like you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automations
+ 
+ 
+ 
+ 
+ 
+Automation examples
+ 
+ 
+Check out these email automation ideas to inspire your own.}
+ 
+ 
+ 
+ 
+Automation templates
+ 
+ 
+Build professional email workflows quickly using pre-built templates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ 
+Use these expertly-designed templates to quickly build effective newsletters, web pages and forms.
+ 
+ 
+ 
+ Newsletters
+ 
+ 
+ 
+ 
+ Websites
+ 
+ 
+ 
+ 
+ Landing pages
+ 
+ 
+ 
+ 
+ Pop-ups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use cases
+ 
+ 
+Tell us what kind of business you have and we'll tell you how best to use MailerLite.
+ 
+ 
+ 
+ Solopreneurs
+ 
+ 
+ 
+ 
+ Small business
+ 
+ 
+ 
+ 
+ E-commerce
+ 
+ 
+ 
+ 
+ Creators
+ 
+ 
+ 
+ 
+ Agencies
+ 
+ 
+ 
+ 
+ Enterprise
+ 
+ 
+ 
+ 
+ Authors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case studies
+ 
+ 
+ 
+ 
+ 
+Get inspired by email marketing case studies
+ 
+ 
+See how MailerLiters are growing their business with email.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+ 
+ 
+Lite is our philosophy
+ 
+ 
+Making the complex simple is what we do best.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Knowledge base
+ 
+ 
+Get quick answers to the most common MailerLite questions.
+ 
+ 
+ 
+ 
+Video tutorials
+ 
+ 
+Learn at your own pace with short and sweet instructional videos.
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+Read stories and how-to articles to level up your strategies.
+ 
+ 
+ 
+ 
+Best practices by industry
+ 
+ 
+Discover the best email marketing practices for your industry.
+ 
+ 
+ 
+ 
+Email marketing guide
+ 
+ 
+Explore the email essentials for a successful campaign.
+ 
+ 
+ 
+ 
+Live learning sessions
+ 
+ 
+Boost your email skills with live webinars, workshops and Q&As.
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+Integrate MailerLite with all your favorite apps to streamline your workflows.
+ 
+ 
+ 
+ 
+ 
+ 
+Stripe
+ 
+ 
+ 
+ 
+ 
+ 
+Make
+ 
+ 
+ 
+ 
+ 
+ 
+Zapier
+ 
+ 
+ 
+ 
+ 
+ 
+Shopify
+ 
+ 
+ 
+ 
+ 
+ 
+WordPress
+ 
+ 
+ 
+ 
+ 
+ 
+WooCommerce
+ 
+ 
+ 
+ 
+All integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For developers
+ 
+ 
+Build and integrate with MailerLite.
+ 
+ 
+API Docs
+ 
+ 
+ 
+ 
+ 
+Check out our newest how-to guides:
+ 
+Migrating from Classic to the new MailerLite
+ 
+Authenticating your domain to maintain deliverability
+ 
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+Sign up
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Close
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0" @click="query= ''
+ $nextTick(() => $refs.input.focus())
+ " title="Clear the query"
+ class="pr-5 absolute inset-y-0 right-0 flex items-center focus:outline-none focus:shadow-outline fill-current text-gray-400 text-opacity-60 hover:text-gray-600">
+ 
+ 
+ 
+ 
+ 
+ 
+ 0"
+ class="mt-1.5 bg-white rounded-md sm:max-h-[600px] sm:overflow-y-scroll">
+ 
+ No results were found...
+ 
+ 
+ 0'>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create your personal AI assistant
+ 
+ 
+ 
+Connect MailerLite directly to AI tools like Claude or Gemini and ask it to automate tasks, analyze campaigns, and so much more!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Try it free for 14 days
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn your LLM into an AI email marketing workhorse
+ 
+ 
+Your new AI assistant can analyze campaigns and create content based on real-time data in MailerLite! Just connect our new Model Context Protocol (MCP) server with your AI tool and off you go.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automate the mind-numbing work
+ 
+Get reports and optimization ideas based on real-time data without the tedious manual work.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI assistant that works for you
+ 
+Ask AI tools like Claude to do tasks for you—like sending out campaigns or creating segments.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Set it up in a few clicks
+ 
+It’s super easy to connect an AI tool: No downloads, no code, and no API keys required (aka the clunky stuff).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join 1M+ MailerLiters
+ 
+ 
+Who are growing their business together with MailerLite.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automate tasks and get recommendations for optimization
+ 
+ 
+ 
+Want a glimpse into how your new AI assistant can save you time, uncover hidden opportunities, and maximize your email list potential?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Repurpose content at scale:
+ 
+Easily turn blog posts or other long-form content into email campaigns. What’s more, your AI assistant can create a draft email campaign for you in seconds, ready for you to review.
+ 
+ 
+ 
+ 
+ 
+Keep your list healthy and engaged:
+ 
+Your AI assistant provides insights to your list and an action plans like: “2,500 subscribers haven’t opened an email in 9 months. I’ve drafted a ’ re-engagement campaign for them. Create the automation?”
+ 
+ 
+ 
+ 
+ 
+Gather social proof and drive sales:
+ 
+Ask your assistant to, “Identify a segment of ‘brand evangelists’ who frequently open, click, and share content.” You can then target this group with requests for reviews or with early access to new products.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How it works
+ 
+ 
+It’s super easy to connect your AI tool: No downloads, no code, and no API keys required (aka technical and clunky stuff).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get MailerLite MCP server URL
+ 
+Access your unique, secure MailerLite MCP server URL – the bridge between your AI and your MailerLite account.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect your AI tool
+ 
+Paste the MCP URL into your AI tool (like Claude or Cursor). We provide detailed guides for popular platforms.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Authorize & start prompting!
+ 
+Once authorized, your AI is ready to receive commands and execute tasks within your MailerLite account.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ready for an Email Marketing Renaissance?
+ 
+ 
+Offload all the manual work to your AI assistant and free your mind up to think about what's next for your business! MailerLite's AI assistant performs time-consuming tasks in seconds. Give it a try!
+ 
+ 
+ 
+ 
+ Start free trial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a free 14-day trial of premium features | No credit card required
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Find answers to all your questions here!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Frequently asked questions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What exactly is MailerLite MCP?
+ 
+ 
+ 
+MCP stands for Model Context Protocols.
+At its core, it's a standardized set of rules that allows AI assistants (Models) to communicate with external services like MailerLite.
+Normally, for an AI to use a service, a developer has to write custom code to connect them. MCP eliminates this need by creating a universal language. It lets MailerLite advertise its functions like add_subscriber or create_campaign as a standard set of "tools." Any AI that understands the MCP standard can then automatically see and use these tools to carry out your requests.
+ 
+ 
+ 
+ 
+ 
+Do I need coding skills to use MCP?
+ 
+ 
+ 
+No! MailerLite has made its MCP cloud-based, meaning the technical complexity is handled by us. Connecting is typically a simple click-and-authorize process.
+ 
+ 
+ 
+ 
+ 
+What does the MCP server for MailerLite do?
+ 
+ 
+ 
+The MCP server acts as a secure bridge between your AI tool and your MailerLite account. It translates the standard commands from your AI into specific actions within MailerLite, like ad
+
+===== pricing_or_trust :: https://www.mailerlite.com/pricing
+--- SIGNALS ---
+title: Simple, Transparent Pricing - MailerLite
+meta_description: MailerLite
+og_description: MailerLite
+og_site_name: 
+h1: Pricing
+h2: All you need to grow your business online | Keeping it Lite
+jsonld_org: [{"@type": "Organization", "@id": "https://mailerlite.com#organization", "name": "MailerLite", "url": "https://mailerlite.com", "sameAs": ["https://www.facebook.com/profile.php?id=61557135009171", "https://x.com/MailerLite", "https://www.instagram.com/mailerliteofficial", "https://www.youtube.com/channel/UCRWH1lQlbnqCrrYTfacklIQ", "https://www.linkedin.com/company/mailerlite-international/", "https://www.wikidata.org/wiki/Q54860002", "https://lt.wikipedia.org/wiki/MailerLite", "https://www.threads.com/@mailerliteofficial"]}, {"@context": "https://schema.org", "@type": "Organization", "@id": "https://mailerlite.com#organization", "name": "MailerLite", "description": "Digital marketing tools to grow your audience faster and drive revenue smarter. Backed by 24/7 award-winning support.", "url": "https://mailerlite.com", "image": "https://storage.googleapis.com/mailerlite-website-bucket/SEO/mailerlite.png", "logo": {"@type": "ImageObject", "url": "https://storage.googleapis.com/mailerlite-website-bucket/SEO/mailerlite.png", "width": 600, "height": 200}, "email": "info@mailerlite.com", "brand": {"@type": "Thing", "name": "MailerLite"}, "contactPoint": {"@type": "ContactPoint", "url": "https://www.mailerlite.com/support", "email": "info@mailerlite.com", "contactType": "technical support", "availableLanguage": "English"}, "sameAs": ["https://www.facebook.com/profile.php?id=61557135009171", "https://x.com/MailerLite", "https://www.instagram.com/mailerliteofficial", "https://www.youtub
+--- TEXT ---
+Simple, Transparent Pricing - MailerLite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send emails
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+ 
+ 
+Grow your audience and build stronger relationships.
+ 
+ 
+ 
+ 
+Automation
+ 
+ 
+ 
+Send perfectly-timed and targeted emails automatically.
+ 
+ 
+ 
+ 
+Newsletter editors
+ 
+ 
+ 
+Design emails yourself with an ai-powered drag & drop editor.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email notifications
+ 
+ 
+ 
+ 
+ 
+Send timely emails triggered by activity on your website or app.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Build websites
+ 
+ 
+ 
+ 
+ 
+Website builder
+ 
+ 
+ 
+Build stunning websites on your own and let your business shine.
+ 
+ 
+ 
+ 
+Create a blog
+ 
+ 
+ 
+Drive traffic and engage visitors with an easy-to-build blog.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Collect leads
+ 
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+ 
+Create pages to collect leads, sell products and more.
+ 
+ 
+ 
+ 
+Signup forms
+ 
+ 
+ 
+Invite people from across the web to become subscribers.
+ 
+ 
+ 
+ 
+iPad Subscribe App
+ 
+ 
+ 
+Collect subscribers at your event or store - even offline!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email verifier
+ 
+ 
+ 
+ 
+ 
+Clean and optimize email lists to improve deliverability.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grow revenue
+ 
+ 
+ 
+ 
+ 
+Appointment booking
+ 
+New
+ 
+ 
+ 
+All you need to schedule free and paid 1:1 or group calls.
+ 
+ 
+ 
+ 
+Digital products
+ 
+ 
+ 
+Sell e-books, downloads and more to grow your income.
+ 
+ 
+ 
+ 
+E-commerce
+ 
+ 
+ 
+Integrate your e-store with email marketing to boost sales.
+ 
+ 
+ 
+ 
+Paid newsletter subscriptions
+ 
+ 
+ 
+Easily set up recurring payments to offer paid subscriptions.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Gallery
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Examples
+ 
+ 
+ 
+ 
+ 
+Newsletters
+ 
+ 
+ 
+See designs for various occasions and industries.
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+ 
+Get inspired by examples made by customers like you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automations
+ 
+ 
+ 
+ 
+ 
+Automation examples
+ 
+ 
+ 
+Check out these email automation ideas to inspire your own.
+ 
+ 
+ 
+ 
+Automation templates
+ 
+ 
+ 
+Build professional email workflows quickly using pre-built templates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ 
+ Use these expertly-designed templates to quickly build effective newsletters, web pages and forms.
+ 
+ 
+ 
+Newsletters
+ 
+Websites
+ 
+Landing pages
+ 
+Pop-ups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use cases
+ 
+ 
+ Tell us what kind of business you have and we'll tell you how best to use MailerLite.
+ 
+ 
+ 
+Solopreneurs
+ 
+Small business
+ 
+E-commerce
+ 
+Creators
+ 
+Agencies
+ 
+Enterprise
+ 
+Authors
+ 
+ 
+ 
+ 
+ 
+ 
+Case studies
+ 
+ 
+ 
+Get inspired by email marketing case studies
+ 
+See how MailerLiters are growing their business with email.
+ 
+ 
+View all case studies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+Lite is our philosophy
+ 
+Making the complex simple is what we do best.
+ 
+ 
+Learn more about going Lite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Knowledge base
+ 
+ 
+ 
+Get quick answers to the most common MailerLite questions.
+ 
+ 
+ 
+ 
+Video tutorials
+ 
+ 
+ 
+Learn at your own pace with short and sweet instructional videos.
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+Read stories and how-to articles to level up your strategies.
+ 
+ 
+ 
+ 
+Best practices by industry
+ 
+ 
+ 
+Discover the best email marketing practices for your industry.
+ 
+ 
+ 
+ 
+Email marketing guide
+ 
+ 
+ 
+Explore the email essentials for a successful campaign.
+ 
+ 
+ 
+ 
+Live learning sessions
+ 
+ 
+ 
+Boost your email skills with live webinars, workshops and Q&As.
+ 
+ 
+ 
+ 
+Free resources and tools
+ 
+ 
+ 
+Access free tools and resources designed to help your business succeed.
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+Integrate MailerLite with all your favorite apps to streamline your workflows.
+ 
+ 
+ 
+ 
+ 
+ 
+Stripe
+ 
+ 
+ 
+ 
+ 
+ 
+Make
+ 
+ 
+ 
+ 
+ 
+ 
+Zapier
+ 
+ 
+ 
+ 
+ 
+ 
+Shopify
+ 
+ 
+ 
+ 
+ 
+ 
+WordPress
+ 
+ 
+ 
+ 
+ 
+ 
+WooCommerce
+ 
+ 
+ 
+ 
+All integrations
+ 
+ 
+ 
+ 
+ 
+ 
+For developers
+ 
+ 
+Build and integrate with MailerLite.
+ 
+ 
+API Docs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check out our newest how-to guides: 
+ 
+Migrating from Classic to the new MailerLite
+ 
+|
+ 
+Authenticating your domain to maintain deliverability
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ en
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'en');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 pointer-events-none bg-gray-100 text-gray-500 font-medium">
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'es');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Español
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'pl');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Polski
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ setTimeout(() => {
+ document.querySelector('input').focus();
+ });
+ });"
+ class="hover:opacity-50" title="Search">
+ 
+ 
+ 
+Log in
+ 
+Sign up
+ 
+ 
+ 
+ 
+ 
+ 
+ en
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'en');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 pointer-events-none bg-gray-100 text-gray-500 font-medium">
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'es');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Español
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {window.localStorage.setItem('selectedLanguage', 'pl');}" class="flex items-center justify-start gap-x-2.5 w-full px-4 py-2.5 text-left text-sm hover:bg-gray-50 ">
+ 
+ 
+ 
+Polski
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ setTimeout(() => {
+ document.querySelector('input').focus();
+ });
+ });"
+ class="hover:opacity-50" title="Search MailerLite">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send emails
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+ 
+Grow your audience and build stronger relationships.
+ 
+ 
+ 
+ 
+Automation
+ 
+ 
+Send perfectly-timed and targeted emails automatically.
+ 
+ 
+ 
+ 
+Newsletter editors
+ 
+ 
+Design emails yourself with an ai-powered drag & drop editor.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email notifications
+ 
+ 
+ 
+ 
+Send timely emails triggered by activity on your website or app.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Build websites
+ 
+ 
+ 
+ 
+ 
+Website builder
+ 
+ 
+Build stunning websites on your own and let your business shine.
+ 
+ 
+ 
+ 
+Create a blog
+ 
+ 
+Drive traffic and engage visitors with an easy-to-build blog.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Collect leads
+ 
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+Create pages to collect leads, sell products and more.
+ 
+ 
+ 
+ 
+Signup forms
+ 
+ 
+Invite people from across the web to become subscribers.
+ 
+ 
+ 
+ 
+iPad Subscribe App
+ 
+ 
+Collect subscribers at your event or store - even offline!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email verifier
+ 
+ 
+ 
+ 
+Clean and optimize email lists to improve deliverability.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grow revenue
+ 
+ 
+ 
+ 
+ 
+Appointment booking
+ 
+New
+ 
+ 
+All you need to schedule free and paid 1:1 or group calls.
+ 
+ 
+ 
+ 
+Digital products
+ 
+ 
+Sell e-books, downloads and more to grow your income.
+ 
+ 
+ 
+ 
+E-commerce
+ 
+ 
+Integrate your e-store with email marketing to boost sales.
+ 
+ 
+ 
+ 
+Paid newsletter subscriptions
+ 
+ 
+Easily set up recurring payments to offer paid subscriptions.
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+Gallery
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Examples
+ 
+ 
+ 
+ 
+ 
+Newsletters
+ 
+ 
+See designs for various occasions and industries.
+ 
+ 
+ 
+ 
+Landing pages
+ 
+ 
+Get inspired by examples made by customers like you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automations
+ 
+ 
+ 
+ 
+ 
+Automation examples
+ 
+ 
+Check out these email automation ideas to inspire your own.}
+ 
+ 
+ 
+ 
+Automation templates
+ 
+ 
+Build professional email workflows quickly using pre-built templates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ 
+Use these expertly-designed templates to quickly build effective newsletters, web pages and forms.
+ 
+ 
+ 
+ Newsletters
+ 
+ 
+ 
+ 
+ Websites
+ 
+ 
+ 
+ 
+ Landing pages
+ 
+ 
+ 
+ 
+ Pop-ups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use cases
+ 
+ 
+Tell us what kind of business you have and we'll tell you how best to use MailerLite.
+ 
+ 
+ 
+ Solopreneurs
+ 
+ 
+ 
+ 
+ Small business
+ 
+ 
+ 
+ 
+ E-commerce
+ 
+ 
+ 
+ 
+ Creators
+ 
+ 
+ 
+ 
+ Agencies
+ 
+ 
+ 
+ 
+ Enterprise
+ 
+ 
+ 
+ 
+ Authors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case studies
+ 
+ 
+ 
+ 
+ 
+Get inspired by email marketing case studies
+ 
+ 
+See how MailerLiters are growing their business with email.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why Lite
+ 
+ 
+ 
+ 
+ 
+Lite is our philosophy
+ 
+ 
+Making the complex simple is what we do best.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Knowledge base
+ 
+ 
+Get quick answers to the most common MailerLite questions.
+ 
+ 
+ 
+ 
+Video tutorials
+ 
+ 
+Learn at your own pace with short and sweet instructional videos.
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+Read stories and how-to articles to level up your strategies.
+ 
+ 
+ 
+ 
+Best practices by industry
+ 
+ 
+Discover the best email marketing practices for your industry.
+ 
+ 
+ 
+ 
+Email marketing guide
+ 
+ 
+Explore the email essentials for a successful campaign.
+ 
+ 
+ 
+ 
+Live learning sessions
+ 
+ 
+Boost your email skills with live webinars, workshops and Q&As.
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+Integrate MailerLite with all your favorite apps to streamline your workflows.
+ 
+ 
+ 
+ 
+ 
+ 
+Stripe
+ 
+ 
+ 
+ 
+ 
+ 
+Make
+ 
+ 
+ 
+ 
+ 
+ 
+Zapier
+ 
+ 
+ 
+ 
+ 
+ 
+Shopify
+ 
+ 
+ 
+ 
+ 
+ 
+WordPress
+ 
+ 
+ 
+ 
+ 
+ 
+WooCommerce
+ 
+ 
+ 
+ 
+All integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For developers
+ 
+ 
+Build and integrate with MailerLite.
+ 
+ 
+API Docs
+ 
+ 
+ 
+ 
+ 
+Check out our newest how-to guides:
+ 
+Migrating from Classic to the new MailerLite
+ 
+Authenticating your domain to maintain deliverability
+ 
+ 
+ 
+ 
+ 
+ 
+Log in
+ 
+Sign up
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Close
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0" @click="query= ''
+ $nextTick(() => $refs.input.focus())
+ " title="Clear the query"
+ class="pr-5 absolute inset-y-0 right-0 flex items-center focus:outline-none focus:shadow-outline fill-current text-gray-400 text-opacity-60 hover:text-gray-600">
+ 
+ 
+ 
+ 
+ 
+ 
+ 0"
+ class="mt-1.5 bg-white rounded-md sm:max-h-[600px] sm:overflow-y-scroll">
+ 
+ No results were found...
+ 
+ 
+ 0'>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+We believe pricing should be straightforward, fair and affordable for all businesses.
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing
+ 
+Email, audience & automation
+ 
+ 
+ 
+ 
+ 
+ 
+Transactional
+ 
+Email, SMS & inbound routing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All you need to grow your business online
+ 
+MailerLite helps you easily create newsletters, email automations, landing pages, websites, and more. Affordable and backed by 24/7 award-winning support.
+ 
+ 
+ 
+How many subscribers do you have?
+ 
+ 
+ 
+500
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 }" class="pt-5 pl-14 flex items-center">
+ 
+ 
+ 
+ 
+Use the slider above
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Billed yearly
+ 
+ 
+ Billed monthly
+ 
+ 
+ 
+ 
+Save 10% by paying yearly
+ 
+ 
+ 
+ 
+ 
+ USD
+ 
+ 
+ EUR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Best value
+ 
+ 
+ 
+ 
+ 
+Power
+ 
+ 
+ 
+ 
+$1
+') : '')">
+ 
+/ month
+ 
+ 
+ 
+ 
+ 
+ 
+' + plans[range]['advanced'][currency][0] + parseFloat(plans[range]['advanced'][currency][2] * 12).toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ',') + '
+' + ' billed yearly' + ' for up to ' + '
+' + plans[range]['tooltip'] + '
+' + ' subscribers'">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/ month
+ 
+ 
+ 
+ 
+ 
+' + plans[range]['tooltip'] + '
+' + ' subscribers'">
+ 
+ 
+ 
+ 
+ 
+ 
+Taxes may apply, 
+learn more
+.
+ 
+ 
+ 
+Start free trial
+ 
+ 
+Try premium features for 14 days.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unlimited
+ monthly emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unlimited
+ user seats
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24/7
+ Live chat & email support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power up your plan with:
+ 
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaign sending
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unlimited visual automations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unlimited landing pages & websites
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unlimited digital products & bookings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unlimited signup forms & pop-ups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Multiple automation triggers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Partner discounts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15% off Google Workspace
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dedicated IP*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comfort
+ 
+ 
+ 
+ 
+ 
+$1
+') : '')">
+ 
+$1
+') : '')">
+ 
+/ month
+ 
+ 
+ 
+ 
+ 
+ 
+' + plans[range]['growing'][currency][0] + parseFloat(plans[range]['growing'][currency][2] * 12).toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ',') + '
+' + ' billed yearly' + ' for up to ' + '
+' + plans[range]['tooltip'] + '
+' + ' subscribers'">
+ 
+ 
+ 
+' + plans[13]['growing'][currency][0] + parseFloat(plans[13]['growing'][currency][2] * 12).toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ',') + '
+' + ' billed yearly' + ' for up to ' + '
+' + plans[13]['tooltip'] + '
+' + ' subscribers'">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/ month
+ 
+ 
+ 
+ 
+ 
+' + plans[range]['tooltip'] + '
+' + ' subscribers'">
+ 
+ 
+ 
+' + plans[13]['tooltip'] + '
+' + ' subscribers'">
+ 
+ 
+ 
+ 
+ 
+ 
+Taxes may apply, 
+learn more
+.
+ 
+ 
+ 
+Start free trial
+ 
+ 
+Try premium features for 14 days.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ monthly emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+ user seats
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24/7
+ Email support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Level up to Comfort with:
+ 
+ 
+ 
+ 
+ 
+ 
+ Unlimited templates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 50 visual automations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 websites & landing pages
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 digital products & bookings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 signup forms & pop-ups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Remove MailerLite logo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscriber preference center
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subject line generator
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI writing assistant
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dynamic emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Smart sending
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free
+ 
+ 
+0
+ 
+ 
+For up to 
+250
+ subscribers
+ 
+ 
+ 
+Sign up free
+ 
+ 
+Try premium features for 14 days.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2,500
+ monthly emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+ user seats
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24/7 email & chat support for up to 14 days
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Core features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Send email campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Setup visual automations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Launch websites and landing pages
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sell digital products or services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Build signup forms
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100+ integrations, including Claude and ChatGPT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Track performance with reports
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Campaign A/B testing
+ 
+ 
+ 

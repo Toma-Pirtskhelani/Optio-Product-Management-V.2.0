@@ -6,7 +6,10 @@ cum=[r for r in recs if r['enrichment']['enrichment_status'] in ('done','unreach
 F=["website","hq_country","founded_year","description_own","value_proposition","functionality",
    "channels","solution_type","industries_served","vertical_focus","pricing_url","pricing_published",
    "pricing_detail","has_free_tier","has_contact_sales_tier"]
-def rate(rs,f): return sum(1 for r in rs if (r['enrichment'].get(f) or {}).get('value') not in (None,"",[],False))
+def filled(v):
+    # False is a real answer for the boolean fields (no free tier), not an empty cell.
+    return v is not None and v != "" and v != []
+def rate(rs,f): return sum(1 for r in rs if filled((r['enrichment'].get(f) or {}).get('value')))
 un=[r['company'] for r in sl if r['enrichment']['unreachable']]
 print(f"BATCH {lo}-{hi-1}: done={len(sl)} unreachable={len(un)} mean_fetches={sum(r['enrichment']['fetches_used'] for r in sl)/max(1,len(sl)):.1f}")
 if un: print("  unreachable:", ", ".join(un))

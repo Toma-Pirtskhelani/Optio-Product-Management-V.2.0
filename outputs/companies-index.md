@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **27 of 237**. Regenerated 2026-08-11.
+Enriched so far: **45 of 237**. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -38,24 +38,24 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | WebEngage | — | — | — | — | 7 | — | 4 | B | D | 4 |
 | Zoho | — | — | — | — | 1 | — | 4 | B | D | 3 |
 | Constant Contact | — | — | — | — | — | — | 3 | B | U | 0 |
-| Conversion | — | — | — | — | — | — | 3 | G | N | 0 |
+| Conversion | — | — | — | — | — | — | 3 | G | D | 3 |
 | Cordial | US | 2014 | — | — | 4 | — | 3 | G | D | 4 |
 | Epsilon | — | 1968 | — | — | 1 | 12 | 3 | B | D | 3 |
 | HubSpot | US | 2006 | — | — | — | — | 3 | B | D | 4 |
 | Netcore | — | — | — | — | 8 | — | 3 | G | D | 4 |
 | Omnisend | — | — | — | — | 4 | — | 3 | B | D | 4 |
-| Pushwoosh | — | — | — | — | — | — | 3 | G | N | 0 |
-| Smart Communications | — | — | — | — | — | — | 3 | G | N | 0 |
+| Pushwoosh | — | 2014 | — | — | 8 | — | 3 | G | D | 4 |
+| Smart Communications | — | — | — | — | — | 11 | 3 | G | D | 3 |
 | Tech Mahindra | IN | — | — | — | 1 | 12 | 3 | G | D | 3 |
 | Upland | — | — | legacy | — | — | — | 3 | G | D | 2 |
-| Wigzo | — | — | — | — | — | — | 3 | G | N | 0 |
+| Wigzo | — | — | — | — | — | — | 3 | G | U | 0 |
 | Xtremepush | IE | 2015 | — | — | — | — | 3 | G | D | 3 |
 | Zeta | — | — | — | — | — | — | 3 | G | D | 2 |
-| Acquia | — | — | — | — | — | — | 2 | G | N | 0 |
-| Act-On | — | — | — | — | — | — | 2 | G | N | 0 |
-| Airship | — | — | — | — | — | — | 2 | G | N | 0 |
+| Acquia | US | 2007 | — | api-platform | — | — | 2 | G | D | 4 |
+| Act-On | — | — | — | — | 1 | 12 | 2 | G | D | 4 |
+| Airship | — | 2019 | — | — | 4 | 12 | 2 | G | D | 4 |
 | Bird | — | — | — | — | — | — | 2 | G | N | 0 |
-| Bloomreach | — | — | — | — | — | — | 2 | B | N | 0 |
+| Bloomreach | — | — | — | — | 5 | 12 | 2 | B | D | 4 |
 | Bluecore | — | — | — | — | — | — | 2 | G | N | 0 |
 | Capillary Technologies | — | — | — | — | — | — | 2 | G | N | 0 |
 | Cisco Systems | — | — | — | — | — | — | 2 | G | N | 0 |
@@ -64,29 +64,29 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Corefactors | — | — | — | — | — | — | 2 | G | N | 0 |
 | D-engage | — | — | — | — | — | — | 2 | G | N | 0 |
 | Diennea | — | — | — | — | — | — | 2 | G | N | 0 |
-| EVAM | — | — | — | — | — | — | 2 | B | N | 0 |
-| HighLevel | — | — | — | — | — | — | 2 | 2 | N | 0 |
+| EVAM | — | — | — | — | 4 | 12 | 2 | B | D | 3 |
+| HighLevel | — | — | — | — | 2 | — | 2 | 2 | D | 3 |
 | inConcert | — | — | — | — | — | — | 2 | G | N | 0 |
 | indigitall | — | — | — | — | — | — | 2 | G | N | 0 |
 | iPresso | — | — | — | — | — | — | 2 | G | N | 0 |
-| Listrak | — | — | — | — | — | — | 2 | G | N | 0 |
+| Listrak | — | — | — | — | 4 | — | 2 | G | D | 3 |
 | Maestra.io | — | — | — | — | — | — | 2 | G | N | 0 |
-| MailerLite | — | — | — | — | — | — | 2 | B | N | 0 |
-| Maropost | — | — | — | — | — | — | 2 | G | N | 0 |
+| MailerLite | — | — | — | — | 1 | — | 2 | B | D | 4 |
+| Maropost | — | — | — | — | 3 | — | 2 | G | D | 4 |
 | MessageGears | — | — | — | — | — | — | 2 | G | N | 0 |
-| Microsoft | — | — | legacy | — | — | — | 2 | G | N | 0 |
+| Microsoft | — | — | legacy | — | — | — | 2 | G | D | 4 |
 | Mindmatrix | — | — | — | — | — | — | 2 | G | N | 0 |
 | NewZapp | — | — | — | — | — | — | 2 | G | N | 0 |
 | Nvecta | — | — | — | — | — | — | 2 | G | N | 0 |
 | OneSignal | — | — | — | — | — | — | 2 | G | N | 0 |
 | OptiKPI | — | — | — | — | — | — | 2 | G | N | 0 |
-| Optimove | — | — | — | — | — | — | 2 | G | N | 0 |
-| Pegasystems | — | — | — | — | — | — | 2 | G | N | 0 |
-| Pipedrive | — | — | — | — | — | — | 2 | B | N | 0 |
+| Optimove | — | — | — | — | 6 | 12 | 2 | G | D | 3 |
+| Pegasystems | — | — | — | — | — | — | 2 | G | U | 0 |
+| Pipedrive | — | 2010 | — | on-premise | 2 | — | 2 | B | D | 4 |
 | Rapidops | — | — | — | — | — | — | 2 | G | N | 0 |
-| Salesmsg | — | — | — | — | — | — | 2 | B | N | 0 |
-| Sender | — | — | — | — | — | — | 2 | B | N | 0 |
-| Sinch | — | — | — | — | — | — | 2 | B | N | 0 |
+| Salesmsg | — | — | — | — | 1 | — | 2 | B | D | 2 |
+| Sender | — | 2012 | — | — | 2 | — | 2 | B | D | 4 |
+| Sinch | — | — | — | saas-single-tenant | 6 | — | 2 | B | D | 4 |
 | SproutLoud | — | — | — | — | — | — | 2 | G | N | 0 |
 | Tidio | — | — | — | — | — | — | 2 | G | N | 0 |
 | Touchdown | — | — | — | — | — | — | 2 | G | N | 0 |

@@ -1,0 +1,4517 @@
+===== homepage :: https://www.smartcommunications.com/
+--- SIGNALS ---
+title: Home - Smart Communications
+meta_description: Modernize customer communications and streamline data collection processes across your organization with the Conversation Cloud from Smart Communications.
+og_description: Modernize customer communications and streamline data collection processes across your organization with the Conversation Cloud from Smart Communications.
+og_site_name: Smart Communications
+h1:  | Customer Engagement, Built for Regulated Enterprises
+h2: Our Solutions | Industries | Resources | Company | Solutions | Industries | Resources | Company | Trusted Engagement Starts Here | Powered by Innovation | Seamless Connections, Endless Possibilities | Independent Recognition. Proven Leadership. | Trusted by the World’s Leading Enterprises | Ready to Turn Complexity into Confidence?
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://www.smartcommunications.com#organization", "name": "Smart Communications - Scale the Conversation", "url": "https://www.smartcommunications.com", "logo": "/wp-content/uploads/2017/03/Nav_logo_color_lores.png", "sameAs": ["https://twitter.com/CCMInnovators", "https://www.linkedin.com/company/smart-communications."]}, {"@context": "https://schema.org", "@type": "Organization", "name": "Smart Communications", "url": "https://www.smartcommunications.com", "logo": "https://www.smartcommunications.com//wp-content/uploads/2017/03/Nav_logo_white_lores.png", "sameAs": ["https://twitter.com/CCMInnovators", "https://www.linkedin.com/company/smart-communications."]}]
+--- TEXT ---
+-->
+-->
+ 
+ 
+ 
+ 
+ 
+Home - Smart Communications
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GO 
+ 
+ 
+ 
+ 
+ 
+EN
+DE
+ 
+ 
+ 
+ 
+ 
+Language
+ 
+ 
+ 
+ EN 
+ 
+ English 
+ 
+ 
+ 
+ DE 
+ 
+ German / Deutsch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Request a Demo 
+ 
+ Locations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore our Solution Suite 
+ 
+ 
+ 
+ 
+ 
+Purpose-built for regulated enterprises to create, orchestrate, govern, and optimize the interactions that matter most.
+ 
+ 
+ 
+ 
+ 
+Our Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create and deliver personalized, compliant customer communications at scale.
+ 
+ 
+ 
+ 
+ 
+ Why SmartCOMM 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ Communications Compliance 
+ 
+ 
+ 
+ Consolidate CCM Systems 
+ 
+ 
+ 
+ Document Generation 
+ 
+ 
+ 
+ Go Paperless 
+ 
+ 
+ 
+ Migrate CCM Systems 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn static forms into guided, conversational digital experiences.
+ 
+ 
+ 
+ 
+ 
+ Why SmartIQ 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ Automate Data-Centric Business Processes 
+ 
+ 
+ 
+ Consolidate Forms Tools 
+ 
+ 
+ 
+ Enhance Data Quality 
+ 
+ 
+ 
+ Reduce Forms Abandonment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Archive and retrieve communications securely with cloud-native speed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Orchestrate real-time, compliant interactions across every channel.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Simplify and standardize trade and relationship documentation workflows.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 Customer Experience Benchmark Research
+ 
+ 
+Data from 4,000+ customers on strengthening trust, reducing friction, and optimizing CX.
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Insurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Improve customer engagement across policy, billing, and claims.
+ 
+ 
+ 
+ 
+ 
+ Digital P&C Claims 
+ 
+ 
+ 
+ Life & Annuity 
+ 
+ 
+ 
+ P&C Policy Administration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engage in faster, frictionless financial interactions.
+ 
+ 
+ 
+ 
+ 
+ Digital Lending 
+ 
+ 
+ 
+ Investment Banking  & Capital Markets 
+ 
+ 
+ 
+ Wealth & Asset Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Healthcare Payers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transform the healthcare experience with digital and interactive conversations.
+ 
+ 
+ 
+ 
+ 
+ Member Communications 
+ 
+ 
+ 
+ Claims Management 
+ 
+ 
+ 
+ Enrollment Solutions 
+ 
+ 
+ 
+ Medicare Star Ratings 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Healthcare Providers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create and deliver personalized, compliant customer communications at scale.
+ 
+ 
+ 
+ 
+ 
+ Back End Cycle Management 
+ 
+ 
+ 
+ Front End Cycle Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Government 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Heighten citizen experience with digital transformation.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Utility 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Improve customer engagement across utilities.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 Customer Experience Benchmark Research
+ 
+ 
+Data from 4,000+ customers on strengthening trust, reducing friction, and optimizing CX.
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resource Center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Browse popular market research, articles, videos, written guides and more in one convenient location.
+ 
+ 
+ 
+ 
+ 
+ Analyst & Research Reports 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ Case Studies 
+ 
+ 
+ 
+ FAQs 
+ 
+ 
+ 
+ Solution Briefs / Data Sheets 
+ 
+ 
+ 
+ Ultimate Guides 
+ 
+ 
+ 
+ White Paper / Ebook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Access everything you need to support, manage, and maximize your Smart Communications solutions.
+ 
+ 
+ 
+ 
+ 
+ API Documentation 
+ 
+ 
+ 
+ Download Center 
+ 
+ 
+ 
+ Customer Community 
+ 
+ 
+ 
+ Learning Academy 
+ 
+ 
+ 
+ Production Documentation 
+ 
+ 
+ 
+ Professional Services 
+ 
+ 
+ 
+ Service Status 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Events 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore upcoming events, webinars, and customer experiences shaping the future of customer conversations.
+ 
+ 
+ 
+ 
+ 
+ Upcoming Events 
+ 
+ 
+ 
+ On Demand Webinars 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get the latest updates on Smart Communications, including product news, and industry recognition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 Customer Experience Benchmark Research
+ 
+ 
+Data from 4,000+ customers on strengthening trust, reducing friction, and optimizing CX.
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more about our company, our leadership and how were growing the team!
+ 
+ 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ ESG Commitment 
+ 
+ 
+ 
+ Leadership Team 
+ 
+ 
+ 
+ Our Story 
+ 
+ 
+ 
+ Security & Trust 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrate seamlessly with the best in the industry.
+ 
+ 
+ 
+ 
+ 
+ Integration Marketplace 
+ 
+ 
+ 
+ Partner Directory 
+ 
+ 
+ 
+ Duck Creek 
+ 
+ 
+ 
+ Pega 
+ 
+ 
+ 
+ Guidewire 
+ 
+ 
+ 
+ Onespan 
+ 
+ 
+ 
+ Salesforce 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Analysts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Access analyst research, market reports, and industry recognitions featuring Smart Communications.
+ 
+ 
+ 
+ 
+ 
+ Analyst Accolades 
+ 
+ 
+ 
+ Analyst Reports 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 Customer Experience Benchmark Research
+ 
+ 
+Data from 4,000+ customers on strengthening trust, reducing friction, and optimizing CX.
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore our Solution Suite 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create and deliver personalized, compliant customer communications at scale.
+ 
+ 
+ 
+ 
+ 
+ Why SmartCOMM 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ Communications Compliance 
+ 
+ 
+ 
+ Consolidate CCM Systems 
+ 
+ 
+ 
+ Document Generation 
+ 
+ 
+ 
+ Go Paperless 
+ 
+ 
+ 
+ Migrate CCM Systems 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn static forms into guided, conversational digital experiences.
+ 
+ 
+ 
+ 
+ 
+ Why SmartIQ 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ Automate Data-Centric Business Processes 
+ 
+ 
+ 
+ Consolidate Forms Tools 
+ 
+ 
+ 
+ Enhance Data Quality 
+ 
+ 
+ 
+ Reduce Forms Abandonment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Archive and retrieve communications securely with cloud-native speed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Orchestrate real-time, compliant interactions across every channel.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Simplify and standardize trade and relationship documentation workflows.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Insurance 
+ 
+ 
+ 
+ 
+ 
+Improve customer engagement across policy, billing, and claims.
+ 
+ 
+ 
+ 
+ 
+ Digital P&C Claims 
+ 
+ 
+ 
+ Life & Annuity 
+ 
+ 
+ 
+ P&C Policy Administration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial Services 
+ 
+ 
+ 
+ 
+ 
+Engage in faster, frictionless financial interactions.
+ 
+ 
+ 
+ 
+ 
+ Digital Lending 
+ 
+ 
+ 
+ Investment Banking  & Capital Markets 
+ 
+ 
+ 
+ Wealth & Asset Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Healthcare Payers 
+ 
+ 
+ 
+ 
+ 
+Transform the healthcare experience with digital and interactive conversations.
+ 
+ 
+ 
+ 
+ 
+ Member Communications 
+ 
+ 
+ 
+ Claims Management 
+ 
+ 
+ 
+ Enrollment Solutions 
+ 
+ 
+ 
+ Medicare Star Ratings 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Healthcare Providers 
+ 
+ 
+ 
+ 
+ 
+Create and deliver personalized, compliant customer communications at scale.
+ 
+ 
+ 
+ 
+ 
+ Back End Cycle Management 
+ 
+ 
+ 
+ Front End Cycle Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Government 
+ 
+ 
+ 
+ 
+ 
+Heighten citizen experience with digital transformation.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Utility 
+ 
+ 
+ 
+ 
+ 
+Improve customer engagement across utilities.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resource Center 
+ 
+ 
+ 
+ 
+ 
+Browse popular market research, articles, videos, written guides and more in one convenient location.
+ 
+ 
+ 
+ 
+ 
+ Analyst & Research Reports 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ Case Studies 
+ 
+ 
+ 
+ FAQs 
+ 
+ 
+ 
+ Solution Briefs / Data Sheets 
+ 
+ 
+ 
+ Ultimate Guides 
+ 
+ 
+ 
+ White Paper / Ebook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer Resources 
+ 
+ 
+ 
+ 
+ 
+Access everything you need to support, manage, and maximize your Smart Communications solutions.
+ 
+ 
+ 
+ 
+ 
+ API Documentation 
+ 
+ 
+ 
+ Download Center 
+ 
+ 
+ 
+ Customer Community 
+ 
+ 
+ 
+ Learning Academy 
+ 
+ 
+ 
+ Production Documentation 
+ 
+ 
+ 
+ Professional Services 
+ 
+ 
+ 
+ Service Status 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Events 
+ 
+ 
+ 
+ 
+ 
+Explore upcoming events, webinars, and customer experiences shaping the future of customer conversations.
+ 
+ 
+ 
+ 
+ 
+ Upcoming Events 
+ 
+ 
+ 
+ On Demand Webinars 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ 
+ 
+ 
+ 
+Get the latest updates on Smart Communications, including product news, and industry recognition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About us 
+ 
+ 
+ 
+ 
+ 
+Learn more about our company, our leadership and how were growing the team!
+ 
+ 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ ESG Commitment 
+ 
+ 
+ 
+ Leadership Team 
+ 
+ 
+ 
+ Our Story 
+ 
+ 
+ 
+ Security & Trust 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Partners 
+ 
+ 
+ 
+ 
+ 
+Integrate seamlessly with the best in the industry.
+ 
+ 
+ 
+ 
+ 
+ Integration Marketplace 
+ 
+ 
+ 
+ Partner Directory 
+ 
+ 
+ 
+ Duck Creek 
+ 
+ 
+ 
+ Pega 
+ 
+ 
+ 
+ Guidewire 
+ 
+ 
+ 
+ Onespan 
+ 
+ 
+ 
+ Salesforce 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Analysts 
+ 
+ 
+ 
+ 
+Access analyst research, market reports, and industry recognitions featuring Smart Communications.
+ 
+ 
+ 
+ 
+ 
+ Analyst Accolades 
+ 
+ 
+ 
+ Analyst Reports 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Language
+ 
+ 
+ 
+ EN 
+ 
+ English 
+ 
+ 
+ 
+ DE 
+ 
+ German / Deutsch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Engagement, Built for
+Regulated Enterprises
+Simplify complex interactions, adapt with confidence, and build trust through every interaction.
+ 
+ 
+ 
+ 
+ 
+ 
+Start a Conversation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by over 700 of the largest enterprises worldwide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted Engagement Starts Here
+Built on decades of Customer Communications Management leadership, Smart Communications helps regulated enterprises simplify complex customer interactions by creating, orchestrating, governing, and optimizing every engagement. The result is greater agility, stronger compliance, and more trusted customer experiences.
+ 
+ 
+ 
+ 
+ 
+ 
+Explore the Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Powered by Innovation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Engagement Platform
+ 
+ 
+ 
+With compliance-ready AI built in, our customer engagement platform unifies how enterprises create, deliver, manage and store customer interactions—helping teams move faster, work smarter, and deliver more connected experiences.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Collect with Intelligence 
+ 
+ 
+ 
+Transform static, error-prone forms into guided digital experiences that capture data accurately, automate workflows, and give customers an effortless way to engage.
+ 
+ 
+ 
+ Discover SmartIQ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compose with Confidence 
+ 
+ 
+ 
+Create personalized, compliant communications across channels — faster and with less IT involvement. From correspondence to complex documents, every communication builds trust and strengthens relationships. 
+ 
+ 
+ 
+ Discover SmartCOMM 
+ 
+ 
+ 
+ 
+ 
+ 
+New
+ 
+ 
+ 
+ 
+Orchestrate with Precision 
+ 
+ 
+ 
+Unify digital delivery and engagement across channels with intelligent routing, automated failover, and real-time orchestration, so every message reaches the right person and drives completion.
+ 
+ 
+ 
+ Discover SmartPATH 
+ 
+ 
+ 
+ 
+ 
+ 
+New
+ 
+ 
+ 
+ 
+Archive with Control 
+ 
+ 
+ 
+Securely store, retrieve, and govern documents and data in a centralized digital archive built for the AI era — enabling self-service access and high-volume retrieval, all with compliance and continuity built in. 
+ 
+ 
+ 
+ Discover SmartHUB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Together, these solutions connect every stage of the customer journey — enabling greater speed, consistency, and compliance across the enterprise.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTEGRATIONS
+Seamless Connections,
+Endless Possibilities
+Maximize your existing tech investments and get results fast with over 30 pre-built connectors and accelerators for the world's most popular applications.
+ 
+ 
+ 
+ 
+ 
+ 
+Explore Marketplace
+Partner Directory
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Independent Recognition. Proven Leadership.
+See how leading industry analysts recognize Smart Communications for its innovation, market leadership, and deep expertise serving regulated enterprises.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FEATURED ANALYST 
+ 
+ 
+ 
+ 
+#1 Leader for Vendor Hosted SaaS CCM
+ 
+ 
+Aspire recognizes that our Cloud strategy is a strong differentiator among CCM vendors. We were the first in the industry to move toward SaaS and have embraced a cloud-native product strategy that keeps us ahead of our competitors.
+ 
+ 
+ Download Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RECENT ACCOLADES 
+ 
+ 
+ 
+ 
+ 
+ 
+ View All 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FEATURED ANALYST 
+ 
+ 
+ 
+ 
+Named a Worldwide EIA Leader in QKS Group SPARK Matrix™
+ 
+ 
+Strength: Native integration enables seamless archiving of omnichannel interactions with full lifecycle traceability and compliance alignment, without relying on external connectors.
+ 
+ 
+ Read Now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CUSTOMER AND INDUSTRY TRUST
+Trusted by the World’s Leading Enterprises
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join 700+ enterprises worldwide, including top insurers, financial institutions, and healthcare leaders, that rely on Smart Communications to modernize customer engagement.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Problem
+ 
+Overwhelming catastrophe communications during claims
+ 
+ 
+ 
+ 
+Products Used
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impact
+ 
+Faster support with compassionate communication
+ 
+ 
+ 
+Watch Now 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INSURANCE
+ 
+ 
+ 
+“Smart Communications has allowed us to be with our members more.”
+ 
+ 
+ Johnny Thornton | Natural Catastrophe Manager
+
+===== product :: https://www.smartcommunications.com/products/smartiq/
+--- SIGNALS ---
+title: SmartIQ™| Enterprise Forms Automation and Data Collection
+meta_description: Discover SmartIQ, a low-code forms automation solution for enterprises designed to streamline data intake, reduce form abandonment, and more.
+og_description: Discover SmartIQ, a low-code forms automation solution for enterprises designed to streamline data intake, reduce form abandonment, and more.
+og_site_name: Smart Communications
+h1: Evolve Communications with Enterprise Forms Automation and Digital Process Software
+h2: Our Solutions | Industries | Resources | Company | Solutions | Industries | Resources | Company | Integrations Made Easy
+jsonld_org: [{"@type": "Organization", "@id": "https://www.smartcommunications.com/#organization", "name": "Smart Communications - Scale the Conversation", "logo": {"@type": "ImageObject", "url": "/wp-content/uploads/2017/03/Nav_logo_color_lores.png", "width": 600, "height": 60}}, {"@context": "https://schema.org", "@type": "Organization", "name": "Smart Communications", "url": "https://www.smartcommunications.com", "logo": "https://www.smartcommunications.com//wp-content/uploads/2017/03/Nav_logo_white_lores.png", "sameAs": ["https://twitter.com/CCMInnovators", "https://www.linkedin.com/company/smart-communications."]}]
+--- TEXT ---
+-->
+-->
+ 
+ 
+ 
+ 
+ 
+SmartIQ™| Enterprise Forms Automation and Data Collection
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GO 
+ 
+ 
+ 
+ 
+ 
+EN
+DE
+ 
+ 
+ 
+ 
+ 
+Language
+ 
+ 
+ 
+ EN 
+ 
+ English 
+ 
+ 
+ 
+ DE 
+ 
+ German / Deutsch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Request a Demo 
+ 
+ Locations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore our Solution Suite 
+ 
+ 
+ 
+ 
+ 
+Purpose-built for regulated enterprises to create, orchestrate, govern, and optimize the interactions that matter most.
+ 
+ 
+ 
+ 
+ 
+Our Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create and deliver personalized, compliant customer communications at scale.
+ 
+ 
+ 
+ 
+ 
+ Why SmartCOMM 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ Communications Compliance 
+ 
+ 
+ 
+ Consolidate CCM Systems 
+ 
+ 
+ 
+ Document Generation 
+ 
+ 
+ 
+ Go Paperless 
+ 
+ 
+ 
+ Migrate CCM Systems 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn static forms into guided, conversational digital experiences.
+ 
+ 
+ 
+ 
+ 
+ Why SmartIQ 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ Automate Data-Centric Business Processes 
+ 
+ 
+ 
+ Consolidate Forms Tools 
+ 
+ 
+ 
+ Enhance Data Quality 
+ 
+ 
+ 
+ Reduce Forms Abandonment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Archive and retrieve communications securely with cloud-native speed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Orchestrate real-time, compliant interactions across every channel.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Simplify and standardize trade and relationship documentation workflows.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 Customer Experience Benchmark Research
+ 
+ 
+Data from 4,000+ customers on strengthening trust, reducing friction, and optimizing CX.
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Insurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Improve customer engagement across policy, billing, and claims.
+ 
+ 
+ 
+ 
+ 
+ Digital P&C Claims 
+ 
+ 
+ 
+ Life & Annuity 
+ 
+ 
+ 
+ P&C Policy Administration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engage in faster, frictionless financial interactions.
+ 
+ 
+ 
+ 
+ 
+ Digital Lending 
+ 
+ 
+ 
+ Investment Banking  & Capital Markets 
+ 
+ 
+ 
+ Wealth & Asset Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Healthcare Payers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transform the healthcare experience with digital and interactive conversations.
+ 
+ 
+ 
+ 
+ 
+ Member Communications 
+ 
+ 
+ 
+ Claims Management 
+ 
+ 
+ 
+ Enrollment Solutions 
+ 
+ 
+ 
+ Medicare Star Ratings 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Healthcare Providers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create and deliver personalized, compliant customer communications at scale.
+ 
+ 
+ 
+ 
+ 
+ Back End Cycle Management 
+ 
+ 
+ 
+ Front End Cycle Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Government 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Heighten citizen experience with digital transformation.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Utility 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Improve customer engagement across utilities.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 Customer Experience Benchmark Research
+ 
+ 
+Data from 4,000+ customers on strengthening trust, reducing friction, and optimizing CX.
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resource Center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Browse popular market research, articles, videos, written guides and more in one convenient location.
+ 
+ 
+ 
+ 
+ 
+ Analyst & Research Reports 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ Case Studies 
+ 
+ 
+ 
+ FAQs 
+ 
+ 
+ 
+ Solution Briefs / Data Sheets 
+ 
+ 
+ 
+ Ultimate Guides 
+ 
+ 
+ 
+ White Paper / Ebook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Access everything you need to support, manage, and maximize your Smart Communications solutions.
+ 
+ 
+ 
+ 
+ 
+ API Documentation 
+ 
+ 
+ 
+ Download Center 
+ 
+ 
+ 
+ Customer Community 
+ 
+ 
+ 
+ Learning Academy 
+ 
+ 
+ 
+ Production Documentation 
+ 
+ 
+ 
+ Professional Services 
+ 
+ 
+ 
+ Service Status 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Events 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore upcoming events, webinars, and customer experiences shaping the future of customer conversations.
+ 
+ 
+ 
+ 
+ 
+ Upcoming Events 
+ 
+ 
+ 
+ On Demand Webinars 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get the latest updates on Smart Communications, including product news, and industry recognition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 Customer Experience Benchmark Research
+ 
+ 
+Data from 4,000+ customers on strengthening trust, reducing friction, and optimizing CX.
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more about our company, our leadership and how were growing the team!
+ 
+ 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ ESG Commitment 
+ 
+ 
+ 
+ Leadership Team 
+ 
+ 
+ 
+ Our Story 
+ 
+ 
+ 
+ Security & Trust 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrate seamlessly with the best in the industry.
+ 
+ 
+ 
+ 
+ 
+ Integration Marketplace 
+ 
+ 
+ 
+ Partner Directory 
+ 
+ 
+ 
+ Duck Creek 
+ 
+ 
+ 
+ Pega 
+ 
+ 
+ 
+ Guidewire 
+ 
+ 
+ 
+ Onespan 
+ 
+ 
+ 
+ Salesforce 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Analysts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Access analyst research, market reports, and industry recognitions featuring Smart Communications.
+ 
+ 
+ 
+ 
+ 
+ Analyst Accolades 
+ 
+ 
+ 
+ Analyst Reports 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 Customer Experience Benchmark Research
+ 
+ 
+Data from 4,000+ customers on strengthening trust, reducing friction, and optimizing CX.
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore our Solution Suite 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create and deliver personalized, compliant customer communications at scale.
+ 
+ 
+ 
+ 
+ 
+ Why SmartCOMM 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ Communications Compliance 
+ 
+ 
+ 
+ Consolidate CCM Systems 
+ 
+ 
+ 
+ Document Generation 
+ 
+ 
+ 
+ Go Paperless 
+ 
+ 
+ 
+ Migrate CCM Systems 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn static forms into guided, conversational digital experiences.
+ 
+ 
+ 
+ 
+ 
+ Why SmartIQ 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ Automate Data-Centric Business Processes 
+ 
+ 
+ 
+ Consolidate Forms Tools 
+ 
+ 
+ 
+ Enhance Data Quality 
+ 
+ 
+ 
+ Reduce Forms Abandonment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Archive and retrieve communications securely with cloud-native speed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Orchestrate real-time, compliant interactions across every channel.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Simplify and standardize trade and relationship documentation workflows.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Insurance 
+ 
+ 
+ 
+ 
+ 
+Improve customer engagement across policy, billing, and claims.
+ 
+ 
+ 
+ 
+ 
+ Digital P&C Claims 
+ 
+ 
+ 
+ Life & Annuity 
+ 
+ 
+ 
+ P&C Policy Administration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial Services 
+ 
+ 
+ 
+ 
+ 
+Engage in faster, frictionless financial interactions.
+ 
+ 
+ 
+ 
+ 
+ Digital Lending 
+ 
+ 
+ 
+ Investment Banking  & Capital Markets 
+ 
+ 
+ 
+ Wealth & Asset Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Healthcare Payers 
+ 
+ 
+ 
+ 
+ 
+Transform the healthcare experience with digital and interactive conversations.
+ 
+ 
+ 
+ 
+ 
+ Member Communications 
+ 
+ 
+ 
+ Claims Management 
+ 
+ 
+ 
+ Enrollment Solutions 
+ 
+ 
+ 
+ Medicare Star Ratings 
+ 
+ 
+ 
+ ROI Calculator 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Healthcare Providers 
+ 
+ 
+ 
+ 
+ 
+Create and deliver personalized, compliant customer communications at scale.
+ 
+ 
+ 
+ 
+ 
+ Back End Cycle Management 
+ 
+ 
+ 
+ Front End Cycle Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Government 
+ 
+ 
+ 
+ 
+ 
+Heighten citizen experience with digital transformation.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Utility 
+ 
+ 
+ 
+ 
+ 
+Improve customer engagement across utilities.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resource Center 
+ 
+ 
+ 
+ 
+ 
+Browse popular market research, articles, videos, written guides and more in one convenient location.
+ 
+ 
+ 
+ 
+ 
+ Analyst & Research Reports 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ Case Studies 
+ 
+ 
+ 
+ FAQs 
+ 
+ 
+ 
+ Solution Briefs / Data Sheets 
+ 
+ 
+ 
+ Ultimate Guides 
+ 
+ 
+ 
+ White Paper / Ebook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer Resources 
+ 
+ 
+ 
+ 
+ 
+Access everything you need to support, manage, and maximize your Smart Communications solutions.
+ 
+ 
+ 
+ 
+ 
+ API Documentation 
+ 
+ 
+ 
+ Download Center 
+ 
+ 
+ 
+ Customer Community 
+ 
+ 
+ 
+ Learning Academy 
+ 
+ 
+ 
+ Production Documentation 
+ 
+ 
+ 
+ Professional Services 
+ 
+ 
+ 
+ Service Status 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Events 
+ 
+ 
+ 
+ 
+ 
+Explore upcoming events, webinars, and customer experiences shaping the future of customer conversations.
+ 
+ 
+ 
+ 
+ 
+ Upcoming Events 
+ 
+ 
+ 
+ On Demand Webinars 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ 
+ 
+ 
+ 
+Get the latest updates on Smart Communications, including product news, and industry recognition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About us 
+ 
+ 
+ 
+ 
+ 
+Learn more about our company, our leadership and how were growing the team!
+ 
+ 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ ESG Commitment 
+ 
+ 
+ 
+ Leadership Team 
+ 
+ 
+ 
+ Our Story 
+ 
+ 
+ 
+ Security & Trust 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Partners 
+ 
+ 
+ 
+ 
+ 
+Integrate seamlessly with the best in the industry.
+ 
+ 
+ 
+ 
+ 
+ Integration Marketplace 
+ 
+ 
+ 
+ Partner Directory 
+ 
+ 
+ 
+ Duck Creek 
+ 
+ 
+ 
+ Pega 
+ 
+ 
+ 
+ Guidewire 
+ 
+ 
+ 
+ Onespan 
+ 
+ 
+ 
+ Salesforce 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Analysts 
+ 
+ 
+ 
+ 
+Access analyst research, market reports, and industry recognitions featuring Smart Communications.
+ 
+ 
+ 
+ 
+ 
+ Analyst Accolades 
+ 
+ 
+ 
+ Analyst Reports 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Language
+ 
+ 
+ 
+ EN 
+ 
+ English 
+ 
+ 
+ 
+ DE 
+ 
+ German / Deutsch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Evolve Communications with Enterprise Forms Automation and Digital Process Software
+Request a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Forms Automation Will Make Your Business SMARTER
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Companies are re-evaluating their non-digital processes in a race to support more online form capabilities, meet customer expectations, and create an outstanding experience. SmartIQ is a low-code enterprise forms automation solution that transforms traditional, one-directional paper forms and manual data entry processes into digital, two-way conversations. Empower your entire organization with a centrally-managed solution featuring secure automation tool integrations, advanced data and approval workflows, and robust branding capabilities for your form templates and digital forms.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How SmartIQ Benefits Enterprises
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Improve Data Accuracy 
+ 
+ Connect to existing data sources to pre-fill known information and validate or update collected data in real-time. 
+ 
+ 
+ 
+ 
+ 
+ Expedite Processing Time 
+ 
+ SmartIQ's form automation capabilities allow for near-instant delivery of form data and updates to approvers and stakeholders. 
+ 
+ 
+ 
+ 
+ 
+ Create Truly Digital Experiences 
+ 
+ Allow users to digitally submit the required data and supporting documentation on their preferred device. Make it simple for them to begin, pause and resume seamlessly from where they left off. 
+ 
+ 
+ 
+ 
+ 
+ Use Throughout the Enterprise 
+ 
+ User-friendly form automation tool lets any non-coder design and maintain forms projects, whether they are within a line of business or part of an enterprise automation team. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Improve Data Accuracy 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connect to existing data sources to pre-fill known information and validate or update collected data in real-time. 
+ 
+ 
+ 
+ 
+ 
+ Expedite Processing Time 
+ 
+ 
+ 
+ 
+ 
+ 
+ SmartIQ's form automation capabilities allow for near-instant delivery of form data and updates to approvers and stakeholders. 
+ 
+ 
+ 
+ 
+ 
+ Create Truly Digital Experiences 
+ 
+ 
+ 
+ 
+ 
+ 
+ Allow users to digitally submit the required data and supporting documentation on their preferred device. Make it simple for them to begin, pause and resume seamlessly from where they left off. 
+ 
+ 
+ 
+ 
+ 
+ Use Throughout the Enterprise 
+ 
+ 
+ 
+ 
+ 
+ 
+ User-friendly form automation tool lets any non-coder design and maintain forms projects, whether they are within a line of business or part of an enterprise automation team. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Many Ways to Harness the Power of SmartIQ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Services
+ 
+ 
+ 
+ 
+ 
+ 
+ New Account Opening 
+ 
+ 
+ 
+ 
+ Credit Applications 
+ 
+ 
+ 
+ 
+ Investment Client Onboarding 
+ 
+ 
+ 
+ 
+ Account Servicing Requests 
+ 
+ 
+ 
+ 
+ Complaints and Disputes Processing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Insurance
+ 
+ 
+ 
+ 
+ 
+ 
+ Beneficiary Management 
+ 
+ 
+ 
+ 
+ Commercial Insurance Applications 
+ 
+ 
+ 
+ 
+ Life Insurance Applications 
+ 
+ 
+ 
+ 
+ Property and Casualty Claims 
+ 
+ 
+ 
+ 
+ Underwriting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Healthcare
+ 
+ 
+ 
+ 
+ 
+ 
+ CAHPS Predictor Surveys 
+ 
+ 
+ 
+ 
+ Health Risk Assessments 
+ 
+ 
+ 
+ 
+ Member-Submitted Claims 
+ 
+ 
+ 
+ 
+ Claims Appeals 
+ 
+ 
+ 
+ 
+ Prior Authorizations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore Real-World Demos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supporting Your Technology Requirements
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Identifying a form automation tool that can convert traditional paper form processes into streamlined digital forms is the first step towards enhancing employee and customer experiences. The second step is ensuring the automation software complies with IT standards and introduces no risk to business processes.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Multi-Tenant SaaS Architecture
+ 
+ 
+ 
+ Our robust multi-tenant SaaS architecture simplifies forms automation and data capture, allowing for seamless updates and scalability across your enterprise. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bi-weekly Maintenance Releases and Two Milestone Releases per Year
+ 
+ 
+ 
+ A managed release scheduled means your form automation software is always at the cutting edge, with the latest features and security enhancements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Flexible Data Outputs
+ 
+ 
+ 
+ Take advantage of collected information with a variety of options for data outpu

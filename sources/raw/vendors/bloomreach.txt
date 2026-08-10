@@ -1,0 +1,5150 @@
+===== homepage :: https://www.bloomreach.com/en
+--- SIGNALS ---
+title: The AI Platform for Personalization | Bloomreach
+meta_description: Loomi AI, Bloomreach's agentic platform, understands each customer to personalize their experience in real time — across email, web, mobile, and search.
+og_description: Loomi AI, Bloomreach's agentic platform, understands each customer to personalize their experience in real time — across email, web, mobile, and search.
+og_site_name: Bloomreach
+h1: One Prompt for a Full Campaign | AI That Converts Email Sends Into Revenue
+h2: The Value Only Loomi Delivers | The Intelligence | Behind Personalization | Shape Your Growth With Loomi | Email Drives Interest, Intelligence Drives Impact | It Starts With Email and Follows the Whole Journey | Every Channel and Every Agent on One AI Platform | 3 Ways To Put Loomi To Work | Brands Like Yours — Already Ahead | Connect to 175+ Tools | Loomi Puts the AI in Email
+jsonld_org: [{"@type": "Organization", "@id": "https://www.bloomreach.com/en#organization/", "name": "Bloomreach", "url": "https://www.bloomreach.com/", "logo": {"@type": "ImageObject", "@id": "https://www.bloomreach.com/en#logo/", "url": "https://www.bloomreach.com/wp-content/uploads/2024/06/logo-bloomreach.svg", "contentUrl": "https://www.bloomreach.com/wp-content/uploads/2024/06/logo-bloomreach.svg", "caption": "Bloomreach", "inLanguage": "en-US"}, "description": "We unify real-time customer and product data so businesses understand what customers really want. By connecting that understanding to every channel, the ecommerce experience becomes limitless, continuously reflecting a changing customer as they shop. With the scale of AI, this creates endless new paths to purchase, greater profitability, and fast business growth."}]
+--- TEXT ---
+The AI Platform for Personalization | Bloomreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BFCM is closer than it looks.
+  
+Watch a real BFCM email journey built live — no slides, no roadmap pitch. Sept 2. 
+  
+Register Now 
+ 
+ 
+ 
+Partners
+ 
+RFP/RFI
+ 
+ Company 
+ 
+ 
+ 
+Our Story
+ 
+Why Bloomreach
+ 
+Leadership Team
+ 
+ESG at Bloomreach
+ 
+News
+ 
+Careers 
+73
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ APAC
+ 
+ EU
+ 
+ US
+ 
+ UK
+ 
+ Canada
+ 
+ 
+ 
+ 
+ 
+ EN 
+ 
+ 
+ 
+FR
+ Français
+DE
+ Deutsch
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+FR
+ Français
+DE
+ Deutsch
+ 
+ 
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+APAC
+ 
+EU
+ 
+US
+ 
+UK
+ 
+Canada
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+Loomi
+ 
+ 
+Industries
+ 
+ 
+ 
+Customers
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+RFP/RFI
+ 
+Our Story
+ 
+News
+ 
+Careers
+73
+ 
+Contact Us
+ 
+ 
+ 
+ 
+Product Tours
+ 
+Schedule a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back
+ 
+ 
+Solutions
+ 
+ 
+ 
+Email (ESP) 
+POPULAR
+ 
+Bring your email into the AI future with intent-driven personalization.
+ 
+Learn More
+ 
+ 
+ 
+Marketing Automation
+ 
+AI-powered personalization across email, SMS, and more.
+ 
+Learn More
+ 
+ 
+ 
+Ecommerce Search    
+ 
+AI-native commerce search that maximizes revenue per visitor.
+ 
+Learn More
+ 
+ 
+ 
+AI Agents
+ 
+ 
+ 
+ 
+Marketing Agent 
+LIVE
+ 
+Agent that converts a single prompt into a fully built workflow.
+ 
+Learn More
+ 
+ 
+ 
+ 
+Shopping Agent 
+2.0
+ 
+Increase conversion rates with autonomous, end-to-end shopping companion.
+ 
+Learn More
+ 
+ 
+ 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ 
+Email Marketing
+ 
+ 
+ 
+ 
+SMS, RCS and WhatsApp
+ 
+ 
+ 
+ 
+Web Personalization
+ 
+ 
+ 
+ 
+Mobile App
+ 
+ 
+ 
+ 
+Ads & Retargeting
+ 
+ 
+ 
+ 
+ 
+ 
+Ecommerce Search
+ 
+ 
+ 
+ 
+Ecommerce Categories
+ 
+ 
+ 
+ 
+Product Recommendations
+ 
+ 
+ 
+ 
+Enterprise CMS
+ 
+ 
+ 
+ 
+A/B Testing
+ 
+ 
+ 
+ 
+Loomi Connect
+ 
+ 
+ 
+ 
+Loomi Connect 
+NEW
+ 
+Build custom agents and workflows powered by Loomi intelligence.
+ 
+ 
+ 
+ 
+Connects to:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++ 175 more 
+integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+ 
+Retail & Brands
+ 
+ 
+ 
+ 
+iGaming
+ 
+ 
+ 
+ 
+Food & Beverages
+ 
+ 
+ 
+ 
+Home & Furniture
+ 
+ 
+ 
+ 
+B2B
+ 
+ 
+ 
+ 
+ 
+ 
+Hospitality & Restaurants
+ 
+ 
+ 
+ 
+Travel & Transportation
+ 
+ 
+ 
+ 
+Sporting Organizations
+ 
+ 
+ 
+ 
+Financial Services
+ 
+ 
+ 
+ 
+Automotive
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+Use Cases 
+NEW
+ 
+Explore real-world use cases to drive results.
+ 
+Get Inspired
+ 
+ 
+ 
+Case Studies
+ 
+See how brands like yours solve real challenges with Bloomreach.
+ 
+Explore Customer Stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back
+ 
+ 
+Product Resources
+ 
+ 
+ 
+ 
+Product Tours
+ 
+ 
+ 
+ 
+Use Cases 
+NEW
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+ 
+ 
+Documentation
+ 
+ 
+ 
+ 
+Bloomreach Academy
+ 
+ 
+ 
+ 
+Roadmap & Product Updates
+ 
+ 
+ 
+ 
+ 
+Grow with Bloomreach
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+ 
+Resource Hub
+ 
+ 
+ 
+ 
+Events & Webinars
+ 
+ 
+ 
+ 
+Analyst Reports
+ 
+ 
+ 
+ 
+Rewards Program
+ 
+ 
+ 
+ 
+Get Our Emails
+ 
+ 
+ 
+ 
+Partners
+ 
+ 
+ 
+ 
+ 
+Boost Your Emails
+ 
+ 
+ 
+AI Email Resources
+ 
+ 
+ 
+Interactive Tour: Build an Email
+ 
+ 
+ 
+ESP RFP Template
+ 
+ 
+ 
+SFMC Migration Guide
+ 
+ 
+ 
+Top Email Articles
+ 
+ 
+ 
+Email Case Studies
+ 
+ 
+ 
+Email Use Cases
+ 
+ 
+ 
+ 
+ 
+Trending resources 
+ HOT
+ 
+ 
+BFCM Webinar: Join Live Email Demo
+Marketing Benchmarks for 2026
+Three-Times a Leader in Gartner® Report
+New Extension in Loomi for Shopify Available
+Bloomreach Is a Launch Partner for Databricks CustomerLake
+260 Sample Sale Doubles CVR With Loomi Agent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loomi Marketing Agent
+ 
+ 
+ 
+ 
+ 
+One Prompt for a Full Campaign
+ 
+ 
+ 
+ 
+ 
+Loomi Marketing Agent builds complete email lifecycle campaigns from a single prompt — the ones your team never had time to build.
+ 
+ 
+ 
+ 
+ 
+ 
+Explore Marketing Agent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Trusted by 1,400+ Brands Across Retail, Travel, Beauty, and More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Value Only Loomi Delivers
+ 
+ 
+ 
+ 
+ 
+Launch faster and scale smarter — no custom dev required.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+Messaging
+Search
+App
+ 
+ 
+ 
+Grow Launch Revenue 40% with Personalized Email
+ 
+ 
+ 
+Benefit Cosmetics used Loomi to coordinate its Blush launch across email, web, and search, achieving 40% higher revenue per email and +50% CTR.
+ 
+ 
+ 
+Read More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+Messaging
+Web
+App
+ 
+ 
+ 
+Connect Online↔ Offline to Grow CLTV 3-5x
+ 
+ 
+ 
+With 75% of orders happening at kiosks, Popeyes UK couldn't track loyalty. Loomi unified brand's online and offline data, driving 3x more repeat visits.
+ 
+ 
+ 
+Read More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+Messaging
+Web
+App
+ 
+ 
+ 
+Increase RPV by 362% With Intelligent Reengagement
+ 
+ 
+ 
+On the Beach used Loomi to trigger campaigns when prices dropped or availability changed, achieving 362% RPV lift and a 587% higher CR.
+ 
+ 
+ 
+Read More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+Ads
+ 
+ 
+ 
+Boost Revenue by 14% While Optimizing Acquisition Costs
+ 
+ 
+ 
+HMV used Loomi to target high-value customer lookalikes while suppressing low-value segments, achieving 14% revenue lift and 425% more landing page views.
+ 
+ 
+ 
+Read More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+Web
+Categories
+Search
+ 
+ 
+ 
+Boost Conversion 89% With Targeted Discounts
+ 
+ 
+ 
+84% of price promotions are unprofitable, eroding margin. New York Pizza used Loomi to identify discount-sensitive customers and trigger targeted offers, achieving 89% higher CR.
+ 
+ 
+ 
+Read More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Intelligence
+ 
+ 
+ 
+ 
+ 
+Behind Personalization
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Meet Loomi, the intelligence platform that powers it all. It connects your data, channels, and teams to tailor every customer journey in real time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⁠First-Party 
+Context
+ 
+ 
+ 
+ 
+ 
+Loomi connects first-party customer and product data with business metrics and campaign performance to understand every customer in the context of your business.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Real-Time 
+Decisioning
+ 
+ 
+ 
+ 
+ 
+Customer intent changes in milliseconds. Loomi processes data and adapts the experience instantly (in 5ms–2s), so you never miss a moment.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⁠Connected Orchestration
+ 
+ 
+ 
+ 
+ 
+⁠From email and ads to search and shopping agents, Loomi connects seamlessly across channels, apps, and agents.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Meet Loomi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shape Your Growth 
+With Loomi 
+ 
+ 
+ 
+ 
+ 
+See how our intelligence platform drives magical and measurable experiences for over 1,400 global brands.
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI That Converts Email Sends Into Revenue
+ 
+ 
+ 
+ 
+ 
+Loomi builds every email around the customer — the product they’ll want, the moment they’ll open, and the offer that pays. Not one blast for everyone.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See How AI Email Works
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule a 30-Minute Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+drives 
++40% revenue per email
+ with Loomi AI.
+ 
+ 
+ 
+ 
+ 
+drives 
+3x more repeat visits
+ to its restaurants.
+ 
+ 
+ 
+ 
+ 
+boosts 
+conversion rate by +89%.
+ 
+ 
+ 
+ 
+ 
+increases its 
+open rate by +40%.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TRUSTED BY 1400+ BRANDS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Drives Interest, 
+Intelligence Drives Impact
+ 
+ 
+ 
+ 
+ 
+Loomi reads every signal, from customer behavior and loyalty to your live catalog and store stock, to recommend the next best product for each person — not just in email, but across every channel. And, it’s self-learning: Every open, click, and purchase sharpens the next send.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Driven by Intelligence
+ 
+Batch & Blast
+ 
+ 
+ 
+ 
+ 
+01
+ 
+Send-time AI
+ 
+ 
+ 
+Delivered at her usual open moment, not a 9 a.m. blast.
+ 
+ 
+ 
+ 
+02
+ 
+Intent
+ 
+ 
+ 
+Subject written based on her trail-running behavior.
+ 
+ 
+ 
+ 
+03
+ 
+Live catalog + store stock
+ 
+ 
+ 
+Personalized to match her size, her color, and what’s in stock near her.
+ 
+ 
+ 
+ 
+04
+ 
+Behavioral history
+ 
+ 
+ 
+Her runs and mileage shape the recommendation.
+ 
+ 
+ 
+ 
+05
+ 
+Neural-net recs
+ 
+ 
+ 
+The next products for someone with her stride.
+ 
+ 
+ 
+ 
+ 
+ 
+01
+ 
+No timing
+ 
+ 
+ 
+Blasted at 9 a.m. to all 2.4M customers — no matter when anyone actually opens.
+ 
+ 
+ 
+ 
+02
+ 
+No intent
+ 
+ 
+ 
+One subject line for everyone. It has no idea what a single shopper wants.
+ 
+ 
+ 
+ 
+03
+ 
+No catalog, no stock
+ 
+ 
+ 
+"20% off sitewide" — the same offer for all. No size, no color, and nothing near you.
+ 
+ 
+ 
+ 
+04
+ 
+A first name isn't personalization
+ 
+ 
+ 
+A merged first name is the only thing it personalizes. It has no idea what the customer browsed, bought, or when — so your VIP and a first-timer get the identical send.
+ 
+ 
+ 
+ 
+05
+ 
+Best-seller recs
+ 
+ 
+ 
+Only features the store's top sellers — the same block everyone sees. It's blind to what customers actually browsed, so the recs never change.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It Starts With Email and Follows the Whole Journey
+ 
+ 
+ 
+ 
+ 
+The email is just the first move. From there, Loomi decides the next best step across web, SMS, and ads — and knows when to stay quiet.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Day 1
+ 3:30 p.m.
+ 
+ 
+Email
+ 
+The AI email lands at Riley's typical open time — "Time for the Cloud Runner 3." She taps through.
+ 
+ 
+ 
+ 
+Day 1
+ 3:34 p.m.
+ 
+ 
+Website
+ 
+She browses the shoe, checks her size, and buys the Cloud Runner 3.
+ 
+ 
+ 
+ 
+Day 2
+ 
+Supressed
+ 
+ 
+Decisioning
+ 
+She bought — so Loomi suppresses the retargeting ad. No paying to chase a customer you already won.
+ 
+ 
+ 
+ 
+Day 3
+ 
+ 
+Decisioning
+ 
+Loomi lines up her next best action: gel packs, timed for when she'll run low.
+ 
+ 
+ 
+ 
+Day 9
+ 
+ 
+SMS · Ideal Channel
+ 
+Her gel packs run low (~9 days). Riley receives one SMS nudge since that's her favored channel. She doesn't buy — Loomi only nudges once and never nags.
+ 
+ 
+ 
+ 
+Day 12
+ 
+ 
+Website
+ 
+Riley returns on her own, and the homepage already features her gel-pack offer, ready when she is.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Channel interaction
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-session signal
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI decisioning
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Every Channel and Every Agent on One AI Platform
+ 
+ 
+ 
+ 
+ 
+Personalization isn’t a campaign. It’s a decision made the instant your customer engages.
+ 
+ 
+ 
+ 
+ 
+Most platforms orchestrate messages. Loomi orchestrates decisions — 
+in real time
+.
+ 
+ 
+ 
+ 
+ 
+Meet Loomi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+01
+ 
+ 
+ 
+ 
+ 
+INTELLIGENCE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grounded in Your Data
+ 
+ 
+ 
+ 
+ 
+Every decision runs on your live data. Loomi acts on what your business actually knows — not a generic model.
+ 
+ 
+ 
+ 
+ 
+Data warehouse · Orders & inventory · POS · Internal systems
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+02
+ 
+ 
+ 
+ 
+ 
+DECISIONING
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Next Best Action
+ 
+ 
+ 
+ 
+ 
+Loomi weighs every signal — behavior, context, and intent — and continuously picks the next best action for each customer.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+03
+ 
+ 
+ 
+ 
+ 
+ACTIVATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In the Moment
+ 
+ 
+ 
+ 
+ 
+The decision goes live the instant it’s made — on whatever channel your customer is on — with no lag. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Every open, click, and purchase feeds back in to make each cycle sharper.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 Ways To Put Loomi To Work
+ 
+ 
+ 
+ 
+ 
+Apps —
+ the same AI behind your email runs all of it: 17 channels, every customer
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Popular
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+ 
+ 
+ 
+ 
+ 
+More revenue from fewer sends. Every one personalized.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS, RCS, and WhatsApp
+ 
+ 
+ 
+ 
+ 
+Send fewer texts, cut costs, and convert more with personalized messages.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mobile App
+ 
+ 
+ 
+ 
+ 
+Engage, convert, and retain app users with personalized push and in-app. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ecommerce Search
+ 
+ 
+ 
+ 
+ 
+Self-learning search that reads intent, not keywords.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ads & Retargeting
+ 
+ 
+ 
+ 
+ 
+Lower CAC with the data you already have. 
+Reach segments
+ that convert and come back.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web
+ 
+ 
+ 
+ 
+ 
+Personalize every page in real time, from homepage to checkout.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agents —
+ run on your behalf
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Live
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOOMI MARKETING AGENT
+ 
+ 
+ 
+ 
+ 
+One Prompt, A Full Campaign
+ 
+ 
+ 
+ 
+ 
+Turns one prompt into a complete email workflow 
+that’s
+ on-brand and built on your data.
+ 
+ 
+ 
+ 
+ 
+Explore the Agent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOOMI SHOPPING AGENT
+ 
+ 
+ 
+ 
+ 
+The Smartest Associate on Your Site
+ 
+ 
+ 
+ 
+ 
+Guides each shopper to the right purchase with real-time conversation.
+ 
+ 
+ 
+ 
+ 
+Explore the Agent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect —
+ wired to anything you run
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOOMI CONNECT
+ 
+ 
+ 
+ 
+ 
+Build on Loomi
+ 
+ 
+ 
+ 
+ 
+Build custom agents and workflows, and plug Loomi into any tool or surface through an open MCP layer.
+ 
+ 
+ 
+ 
+ 
+Connect Your Data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brands Like Yours — Already Ahead
+ 
+ 
+ 
+ 
+ 
+From beauty and fashion to travel and hospitality (and more), see the results Loomi is already driving for leading brands.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+Messaging
+Search
+App
+ 
+ 
+ 
+Increase Revenue With Personalized Marketing Campaigns
+ 
+ 
+ 
+Benefit Cosmetics used Loomi to coordinate their new product line launch across email, web, and search, achieving 40% higher revenue per email and +50% CTR.
+ 
+ 
+ 
+See How
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+Messaging
+Search
+App
+ 
+ 
+ 
+Increase Customer Loyalty With Data-Driven Marketing
+ 
+ 
+ 
+With 75% of orders happening at kiosks, Popeyes UK couldn't track loyalty. Loomi unified their online and offline data, driving 3x more repeat visits.
+ 
+ 
+ 
+See How
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+Messaging
+Web
+App
+ 
+ 
+ 
+Increase RPV by 362% With Intelligent Reengagement
+ 
+ 
+ 
+On the Beach used Loomi to trigger campaigns when prices dropped or availability changed, achieving 362% RPV lift and a 587% higher CR.
+ 
+ 
+ 
+See How
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+Ads
+ 
+ 
+ 
+Boost Revenue by 14% While Optimizing Acquisition Costs
+ 
+ 
+ 
+HMV used Loomi to target high-value customer lookalikes while suppressing low-value segments, achieving 14% revenue lift and 425% more landing page views.
+ 
+ 
+ 
+See How
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+Web
+Categories
+Sea
+
+===== product :: https://www.bloomreach.com/en/products/tours
+--- SIGNALS ---
+title: Tours | Bloomreach
+meta_description: Take a guided tour of Bloomreach's powerful digital commerce products. See how our solutions can enhance your business and improve customer experiences.
+og_description: Take a guided tour of Bloomreach's powerful digital commerce products. See how our solutions can enhance your business and improve customer experiences.
+og_site_name: Bloomreach
+h1: See Loomi in Action
+h2: Unlock the Bloomreach demo library | 
+jsonld_org: [{"@type": "Organization", "@id": "https://www.bloomreach.com/en#organization/", "name": "Bloomreach", "url": "https://www.bloomreach.com/", "logo": {"@type": "ImageObject", "@id": "https://www.bloomreach.com/en#logo/", "url": "https://www.bloomreach.com/wp-content/uploads/2024/06/logo-bloomreach.svg", "contentUrl": "https://www.bloomreach.com/wp-content/uploads/2024/06/logo-bloomreach.svg", "caption": "Bloomreach", "inLanguage": "en-US"}, "description": "We unify real-time customer and product data so businesses understand what customers really want. By connecting that understanding to every channel, the ecommerce experience becomes limitless, continuously reflecting a changing customer as they shop. With the scale of AI, this creates endless new paths to purchase, greater profitability, and fast business growth."}]
+--- TEXT ---
+Tours | Bloomreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BFCM is closer than it looks.
+  
+Watch a real BFCM email journey built live — no slides, no roadmap pitch. Sept 2. 
+  
+Register Now 
+ 
+ 
+ 
+Partners
+ 
+RFP/RFI
+ 
+ Company 
+ 
+ 
+ 
+Our Story
+ 
+Why Bloomreach
+ 
+Leadership Team
+ 
+ESG at Bloomreach
+ 
+News
+ 
+Careers 
+73
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ APAC
+ 
+ EU
+ 
+ US
+ 
+ UK
+ 
+ Canada
+ 
+ 
+ 
+ 
+ 
+ EN 
+ 
+ 
+ 
+FR
+ Français
+DE
+ Deutsch
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+FR
+ Français
+DE
+ Deutsch
+ 
+ 
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+APAC
+ 
+EU
+ 
+US
+ 
+UK
+ 
+Canada
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+Loomi
+ 
+ 
+Industries
+ 
+ 
+ 
+Customers
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+RFP/RFI
+ 
+Our Story
+ 
+News
+ 
+Careers
+73
+ 
+Contact Us
+ 
+ 
+ 
+ 
+Product Tours
+ 
+Schedule a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back
+ 
+ 
+Solutions
+ 
+ 
+ 
+Email (ESP) 
+POPULAR
+ 
+Bring your email into the AI future with intent-driven personalization.
+ 
+Learn More
+ 
+ 
+ 
+Marketing Automation
+ 
+AI-powered personalization across email, SMS, and more.
+ 
+Learn More
+ 
+ 
+ 
+Ecommerce Search    
+ 
+AI-native commerce search that maximizes revenue per visitor.
+ 
+Learn More
+ 
+ 
+ 
+AI Agents
+ 
+ 
+ 
+ 
+Marketing Agent 
+LIVE
+ 
+Agent that converts a single prompt into a fully built workflow.
+ 
+Learn More
+ 
+ 
+ 
+ 
+Shopping Agent 
+2.0
+ 
+Increase conversion rates with autonomous, end-to-end shopping companion.
+ 
+Learn More
+ 
+ 
+ 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ 
+Email Marketing
+ 
+ 
+ 
+ 
+SMS, RCS and WhatsApp
+ 
+ 
+ 
+ 
+Web Personalization
+ 
+ 
+ 
+ 
+Mobile App
+ 
+ 
+ 
+ 
+Ads & Retargeting
+ 
+ 
+ 
+ 
+ 
+ 
+Ecommerce Search
+ 
+ 
+ 
+ 
+Ecommerce Categories
+ 
+ 
+ 
+ 
+Product Recommendations
+ 
+ 
+ 
+ 
+Enterprise CMS
+ 
+ 
+ 
+ 
+A/B Testing
+ 
+ 
+ 
+ 
+Loomi Connect
+ 
+ 
+ 
+ 
+Loomi Connect 
+NEW
+ 
+Build custom agents and workflows powered by Loomi intelligence.
+ 
+ 
+ 
+ 
+Connects to:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++ 175 more 
+integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+ 
+Retail & Brands
+ 
+ 
+ 
+ 
+iGaming
+ 
+ 
+ 
+ 
+Food & Beverages
+ 
+ 
+ 
+ 
+Home & Furniture
+ 
+ 
+ 
+ 
+B2B
+ 
+ 
+ 
+ 
+ 
+ 
+Hospitality & Restaurants
+ 
+ 
+ 
+ 
+Travel & Transportation
+ 
+ 
+ 
+ 
+Sporting Organizations
+ 
+ 
+ 
+ 
+Financial Services
+ 
+ 
+ 
+ 
+Automotive
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+Use Cases 
+NEW
+ 
+Explore real-world use cases to drive results.
+ 
+Get Inspired
+ 
+ 
+ 
+Case Studies
+ 
+See how brands like yours solve real challenges with Bloomreach.
+ 
+Explore Customer Stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back
+ 
+ 
+Product Resources
+ 
+ 
+ 
+ 
+Product Tours
+ 
+ 
+ 
+ 
+Use Cases 
+NEW
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+ 
+ 
+Documentation
+ 
+ 
+ 
+ 
+Bloomreach Academy
+ 
+ 
+ 
+ 
+Roadmap & Product Updates
+ 
+ 
+ 
+ 
+ 
+Grow with Bloomreach
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+ 
+Resource Hub
+ 
+ 
+ 
+ 
+Events & Webinars
+ 
+ 
+ 
+ 
+Analyst Reports
+ 
+ 
+ 
+ 
+Rewards Program
+ 
+ 
+ 
+ 
+Get Our Emails
+ 
+ 
+ 
+ 
+Partners
+ 
+ 
+ 
+ 
+ 
+Boost Your Emails
+ 
+ 
+ 
+AI Email Resources
+ 
+ 
+ 
+Interactive Tour: Build an Email
+ 
+ 
+ 
+ESP RFP Template
+ 
+ 
+ 
+SFMC Migration Guide
+ 
+ 
+ 
+Top Email Articles
+ 
+ 
+ 
+Email Case Studies
+ 
+ 
+ 
+Email Use Cases
+ 
+ 
+ 
+ 
+ 
+Trending resources 
+ HOT
+ 
+ 
+BFCM Webinar: Join Live Email Demo
+Marketing Benchmarks for 2026
+Three-Times a Leader in Gartner® Report
+New Extension in Loomi for Shopify Available
+Bloomreach Is a Launch Partner for Databricks CustomerLake
+260 Sample Sale Doubles CVR With Loomi Agent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See Loomi in Action
+ 
+ 
+ 
+ 
+ 
+ 
+Watch product demos and click through interactive tours for an in-depth look at Loomi’s capabilities.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+View Demos
+ 
+Unlock the Bloomreach demo library
+ 
+Share a few details to watch on-demand demos and click through interactive tours.
+ 
+Trusted by 1,400+ brands across retail, travel, finance and more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+★★★★★
+ 
+4.6/5
+ 
+ 
+Rated on G2 by verified users
+ 
+ 
+ 
+ 
+ 
+ 
+By continuing you agree to Bloomreach's privacy policy.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Demo library
+ 
+8 demos
+ 
+ 
+APPS & AGENTS OVERVIEW
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email
+ 
+ 
+Video
+ 
+2 min
+ 
+Tour
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing automation
+ 
+ 
+Video
+ 
+4 min
+ 
+Tour
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+Tour
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loomi conversational agent
+ 
+ 
+Tour
+ 
+ 
+ 
+ 
+GO DEEPER
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email: win-back campaign
+ 
+ 
+Video
+ 
+7 min
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing automation: abandoned search
+ 
+ 
+Video
+ 
+2 min
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email: contextual personalization
+ 
+ 
+Tour
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loomi: single customer view
+ 
+ 
+Tour
+ 
+ 
+ 
+ 
+ 
+ 
+Prefer a guided walkthrough?
+ 
+See how Bloomreach fits your stack — with an expert on the call.
+ 
+Talk to Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Watch the Video 
+ 
+ 
+ 
+ 
+Launch Tour
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Talk to Sales
+ 
+Watch Next →
+ 
+ 
+Replay
+ 
+ 
+ 
+ 
+ 
+Video
+ 
+Interactive tour
+ 
+ 
+ 
+ 
+ 
+ 
+?
+ 
+Questions about this? Talk to Sales →
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+73
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BFCM Is Closer Than It Looks
+ 
+ 
+ 
+ 
+ 
+Live Demo, September 2.
+Legacy platforms saw deliverability delays of up to 3 hours at peak volume last BFCM. See how Loomi solves it. Join 30-min email live demo.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Register Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+Loomi AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing Automation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ecommerce Search
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loomi Connect
+ 
+ 
+ 
+ 
+ 
+ 
+NEW
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Channels & Agents
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing Agent
+ 
+ 
+ 
+ 
+ 
+ 
+LIVE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shopping Agent
+ 
+ 
+ 
+ 
+ 
+ 
+LIVE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS, RCS & WhatsApp
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web Personalization
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mobile App
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ads & Retargeting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ecommerce Search
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ecommerce Categories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise CMS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A/B Testing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+ 
+ 
+Retail & Brands
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iGaming
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hospitality & Restaurants
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Travel & Transportation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Food & Beverage
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sport Organizations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B2B
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+ 
+ 
+ 
+ 
+175
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Documentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Tours
+ 
+ 
+ 
+ 
+ 
+ 
+NEW
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bloomreach Academy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analyst Reports
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bloomreach vs. Salesforce
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn
+ 
+ 
+ 
+ 
+ 
+ 
+Use Cases
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case Studies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resource Library
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Roadmap & Product Updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get Our Emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+Why Bloomreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Request 30-min Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our Story
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Leadership Team
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+News Releases
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Careers
+ 
+ 
+ 
+ 
+ 
+ 
+73
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Privacy at Bloomreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Security at Bloomreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our Impact
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Facebook
+ 
+ 
+ 
+ 
+ 
+ 
+Instagram
+ 
+ 
+ 
+ 
+ 
+ 
+Linkedin-in
+ 
+ 
+ 
+ 
+ 
+ 
+Spotify
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ © 2026 Bloomreach, Inc. 
+ 
+ 
+ 
+ 
+Privacy Policy
+Contact DPO
+Control Your Data
+Cookie Settings
+UK Modern Slavery Act
+
+===== pricing_or_trust :: https://www.bloomreach.com/en/pricing
+--- SIGNALS ---
+title: Request Pricing | Bloomreach
+meta_description: Join +500 of the world’s leading brands and retailers using Bloomreach’s commerce-specific products. Get a quote based on your unique needs.
+og_description: Join +500 of the world’s leading brands and retailers using Bloomreach’s commerce-specific products. Get a quote based on your unique needs.
+og_site_name: Bloomreach
+h1: 
+h2: Request Pricing | Three Products To Help You Grow | Need a Proof? Validate Our Impact on Real-world Data | Bloomreach Pricing FAQs | Award Winning Technology | Bloomreach Pricing FAQs | Hey, find the package that’s right for you | 1,400+ happy brands
+jsonld_org: [{"@type": "Organization", "@id": "https://www.bloomreach.com/en#organization/", "name": "Bloomreach", "url": "https://www.bloomreach.com/", "logo": {"@type": "ImageObject", "@id": "https://www.bloomreach.com/en#logo/", "url": "https://www.bloomreach.com/wp-content/uploads/2024/06/logo-bloomreach.svg", "contentUrl": "https://www.bloomreach.com/wp-content/uploads/2024/06/logo-bloomreach.svg", "caption": "Bloomreach", "inLanguage": "en-US"}, "description": "We unify real-time customer and product data so businesses understand what customers really want. By connecting that understanding to every channel, the ecommerce experience becomes limitless, continuously reflecting a changing customer as they shop. With the scale of AI, this creates endless new paths to purchase, greater profitability, and fast business growth."}]
+--- TEXT ---
+Request Pricing | Bloomreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BFCM is closer than it looks.
+  
+Watch a real BFCM email journey built live — no slides, no roadmap pitch. Sept 2. 
+  
+Register Now 
+ 
+ 
+ 
+Partners
+ 
+RFP/RFI
+ 
+ Company 
+ 
+ 
+ 
+Our Story
+ 
+Why Bloomreach
+ 
+Leadership Team
+ 
+ESG at Bloomreach
+ 
+News
+ 
+Careers 
+73
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ APAC
+ 
+ EU
+ 
+ US
+ 
+ UK
+ 
+ Canada
+ 
+ 
+ 
+ 
+ 
+ EN 
+ 
+ 
+ 
+FR
+ Français
+DE
+ Deutsch
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN
+ 
+ 
+ 
+ 
+FR
+ Français
+DE
+ Deutsch
+ 
+ 
+ 
+ 
+ 
+Login
+ 
+ 
+ 
+ 
+ 
+APAC
+ 
+EU
+ 
+US
+ 
+UK
+ 
+Canada
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+Loomi
+ 
+ 
+Industries
+ 
+ 
+ 
+Customers
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+Partners
+ 
+RFP/RFI
+ 
+Our Story
+ 
+News
+ 
+Careers
+73
+ 
+Contact Us
+ 
+ 
+ 
+ 
+Product Tours
+ 
+Schedule a Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back
+ 
+ 
+Solutions
+ 
+ 
+ 
+Email (ESP) 
+POPULAR
+ 
+Bring your email into the AI future with intent-driven personalization.
+ 
+Learn More
+ 
+ 
+ 
+Marketing Automation
+ 
+AI-powered personalization across email, SMS, and more.
+ 
+Learn More
+ 
+ 
+ 
+Ecommerce Search    
+ 
+AI-native commerce search that maximizes revenue per visitor.
+ 
+Learn More
+ 
+ 
+ 
+AI Agents
+ 
+ 
+ 
+ 
+Marketing Agent 
+LIVE
+ 
+Agent that converts a single prompt into a fully built workflow.
+ 
+Learn More
+ 
+ 
+ 
+ 
+Shopping Agent 
+2.0
+ 
+Increase conversion rates with autonomous, end-to-end shopping companion.
+ 
+Learn More
+ 
+ 
+ 
+ 
+ 
+ 
+Channels
+ 
+ 
+ 
+ 
+ 
+Email Marketing
+ 
+ 
+ 
+ 
+SMS, RCS and WhatsApp
+ 
+ 
+ 
+ 
+Web Personalization
+ 
+ 
+ 
+ 
+Mobile App
+ 
+ 
+ 
+ 
+Ads & Retargeting
+ 
+ 
+ 
+ 
+ 
+ 
+Ecommerce Search
+ 
+ 
+ 
+ 
+Ecommerce Categories
+ 
+ 
+ 
+ 
+Product Recommendations
+ 
+ 
+ 
+ 
+Enterprise CMS
+ 
+ 
+ 
+ 
+A/B Testing
+ 
+ 
+ 
+ 
+Loomi Connect
+ 
+ 
+ 
+ 
+Loomi Connect 
+NEW
+ 
+Build custom agents and workflows powered by Loomi intelligence.
+ 
+ 
+ 
+ 
+Connects to:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++ 175 more 
+integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back
+ 
+ 
+Industries
+ 
+ 
+ 
+ 
+ 
+Retail & Brands
+ 
+ 
+ 
+ 
+iGaming
+ 
+ 
+ 
+ 
+Food & Beverages
+ 
+ 
+ 
+ 
+Home & Furniture
+ 
+ 
+ 
+ 
+B2B
+ 
+ 
+ 
+ 
+ 
+ 
+Hospitality & Restaurants
+ 
+ 
+ 
+ 
+Travel & Transportation
+ 
+ 
+ 
+ 
+Sporting Organizations
+ 
+ 
+ 
+ 
+Financial Services
+ 
+ 
+ 
+ 
+Automotive
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+Use Cases 
+NEW
+ 
+Explore real-world use cases to drive results.
+ 
+Get Inspired
+ 
+ 
+ 
+Case Studies
+ 
+See how brands like yours solve real challenges with Bloomreach.
+ 
+Explore Customer Stories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back
+ 
+ 
+Product Resources
+ 
+ 
+ 
+ 
+Product Tours
+ 
+ 
+ 
+ 
+Use Cases 
+NEW
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+ 
+ 
+Documentation
+ 
+ 
+ 
+ 
+Bloomreach Academy
+ 
+ 
+ 
+ 
+Roadmap & Product Updates
+ 
+ 
+ 
+ 
+ 
+Grow with Bloomreach
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+ 
+Resource Hub
+ 
+ 
+ 
+ 
+Events & Webinars
+ 
+ 
+ 
+ 
+Analyst Reports
+ 
+ 
+ 
+ 
+Rewards Program
+ 
+ 
+ 
+ 
+Get Our Emails
+ 
+ 
+ 
+ 
+Partners
+ 
+ 
+ 
+ 
+ 
+Boost Your Emails
+ 
+ 
+ 
+AI Email Resources
+ 
+ 
+ 
+Interactive Tour: Build an Email
+ 
+ 
+ 
+ESP RFP Template
+ 
+ 
+ 
+SFMC Migration Guide
+ 
+ 
+ 
+Top Email Articles
+ 
+ 
+ 
+Email Case Studies
+ 
+ 
+ 
+Email Use Cases
+ 
+ 
+ 
+ 
+ 
+Trending resources 
+ HOT
+ 
+ 
+BFCM Webinar: Join Live Email Demo
+Marketing Benchmarks for 2026
+Three-Times a Leader in Gartner® Report
+New Extension in Loomi for Shopify Available
+Bloomreach Is a Launch Partner for Databricks CustomerLake
+260 Sample Sale Doubles CVR With Loomi Agent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Request Pricing
+ 
+ 
+ 
+ 
+ 
+Ready to get a quote based on your unique needs? Meet our expert advisors and get a pricing based on your business needs.
+ 
+ 
+ 
+ 
+ 
+Bloomreach pricing is customized to:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the number of customers you serve
+ 
+ 
+ 
+ 
+ 
+ 
+the size of your product catalog
+ 
+ 
+ 
+ 
+ 
+ 
+the number of events you execute – such as how many emails or SMS messages you send.
+ 
+ 
+ 
+ 
+ 
+ 
+Loomi AI is built into every one of our products at no extra charge, regardless of what package you buy.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Three Products To Help You Grow
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Autonomous Marketing
+ 
+ 
+ 
+ 
+ 
+AI-driven marketing automation with 251% ROI over a 3-year period
+ 
+ 
+ 
+ 
+ 
+Annual Plan
+ 
+ 
+ 
+ 
+ 
+ 
+Request Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+ 
+ 
+ 
+ 
+ 
+SMS and mobile marketing
+ 
+ 
+ 
+ 
+ 
+ 
+Ad optimization
+ 
+ 
+ 
+ 
+ 
+ 
+Intelligence and orchestration
+ 
+ 
+ 
+ 
+ 
+ 
+Web and app personalization
+ 
+ 
+ 
+ 
+ 
+ 
+Loomi Analytics agent and Autosegments
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Autonomous 
+Search
+ 
+ 
+ 
+ 
+ 
+Search and merchandising that boosts RPV by 20%
+ 
+ 
+ 
+ 
+ 
+Annual Plan
+ 
+ 
+ 
+ 
+ 
+ 
+Request Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI-driven site search
+ 
+ 
+ 
+ 
+ 
+ 
+Insights for merchandisers
+ 
+ 
+ 
+ 
+ 
+ 
+Product recommendations
+ 
+ 
+ 
+ 
+ 
+ 
+Long-tail SEO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conversational Shopping
+ 
+ 
+ 
+ 
+ 
+The AI shopping agent that increases your conversions by 9%
+ 
+ 
+ 
+ 
+ 
+Annual Plan
+ 
+ 
+ 
+ 
+ 
+ 
+Request Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Behavior-based triggering
+ 
+ 
+ 
+ 
+ 
+ 
+Embedded website experiences
+ 
+ 
+ 
+ 
+ 
+ 
+Personalized recommendations
+ 
+ 
+ 
+ 
+ 
+ 
+Deep product catalog expertise
+ 
+ 
+ 
+ 
+ 
+ 
+Customized look & feel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Your Bloomreach subscription consists of two parts: 
+a module fee
+ and 
+a usage fee
+. You only pay for the modules (e.g., email marketing) you wish to access. After choosing the module, your pricing is usage-based. The more the usage, the lower your per-unit price, so growing with Bloomreach is a win-win. Your base plan also comes with 
+Loomi AI
+, 
+Bloomreach support
+ and access to our 
+documentation
+ and 
+best practice sessions
+.
+An annual subscription gives you flexibility and 
+challenges Bloomreach to demonstrate our value
+ year after year. 
+We only win when our customers win.
+ 
+ 
+ 
+ 
+ 
+ 
+Frequently Asked Questions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Need a Proof? 
+Validate Our Impact on Real-world Data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Live Demo 
+ in 3 Days
+ 
+ 
+ 
+ 
+ 
+See how AI shopping agent transforms your site with a custom-built Chrome Extension
+ 
+ 
+ 
+ 
+ 
+ 
+Request Live Demo
+ 
+ 
+ 
+ 
+ 
+ 
+How it works
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Submit a quick form
+ 
+ 
+ 
+ 
+ 
+ 
+Meet with our team
+ 
+ 
+ 
+ 
+ 
+ 
+Share your product catalog
+ 
+ 
+ 
+ 
+ 
+ 
+ Get your custom Clarity Chrome Extension—ready to test in as little as 3 days
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get ROI Estimate
+ 
+ 
+ 
+ 
+ 
+See exactly how much RPV and ROI you can get with Autonomous Search, incl. recommendations
+ 
+ 
+ 
+ 
+ 
+ 
+Get ROI Estimate
+ 
+ 
+ 
+ 
+ 
+ 
+How it works
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fill out the form
+ 
+ 
+ 
+ 
+ 
+ 
+Share your product catalog
+ 
+ 
+ 
+ 
+ 
+ 
+We’ll drop a pixel to your website
+ 
+ 
+ 
+ 
+ 
+ 
+See Bloomreach in action on a live store with your products
+ 
+ 
+ 
+ 
+ 
+ 
+In 10 days, get your projected revenue lift
+ 
+ 
+ 
+ 
+ 
+ 
+On top, get report showing top revenue-driving opportunities across your site
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Economic Impact​
+ 
+ 
+ 
+ 
+ 
+Get Forrester Study on Total Economic Impact™ of Bloomreach Autonomous Marketing
+ 
+ 
+ 
+ 
+ 
+ 
+Get the Report
+ 
+ 
+ 
+ 
+ 
+ 
+Key metrics for you
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+251% ROI over a 3-year period and ROI payback in <6 months
+ 
+ 
+ 
+ 
+ 
+ 
+$2.3M cost savings from retiring legacy tech
+ 
+ 
+ 
+ 
+ 
+ 
+$9.4M revenue generated over 3 years
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 
+ Studies
+ 
+ 
+ 
+ 
+ 
+Get inspired by the largest database of success stories for marketing tools
+ 
+ 
+ 
+ 
+ 
+ 
+Read Case Studies
+ 
+ 
+ 
+ 
+ 
+ 
+Find your industry
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beauty, fashion and Home goods
+ 
+ 
+ 
+ 
+ 
+ 
+Grocery, Food and Beverages
+ 
+ 
+ 
+ 
+ 
+ 
+Travel, Hospitality and Restaurants
+ 
+ 
+ 
+ 
+ 
+ 
+Fintech, Telco and Media
+ 
+ 
+ 
+ 
+ 
+ 
+Outdoor Equipment and Pets
+ 
+ 
+ 
+ 
+ 
+ 
+Manufacturing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bloomreach Pricing FAQs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing 
+ 
+ 
+ 
+ 
+ 
+ Implementation 
+ 
+ 
+ 
+ Support 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ 
+ 
+ Product 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How much does Bloomreach cost? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Your Bloomreach subscription consists of two parts: 
+a module fee
+ and 
+a usage fee
+. You only pay for the modules (e.g., email marketing) you wish to access. After choosing the module, your pricing is usage-based. The more the usage, the lower your per-unit price, so growing with Bloomreach is a win-win. Your base plan also comes with 
+Loomi AI
+, 
+Bloomreach support
+ and access to our 
+documentation
+ and 
+best practice sessions
+.
+An annual subscription gives you flexibility and 
+challenges Bloomreach to demonstrate our value
+ year after year. We only win when our customers win.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can I only buy the channels and features I want? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+With Bloomreach, you start anywhere and build as you grow. All of our base plans are channel or module specific so you get the most out of the platform to solve for your immediate pain points. You only pay for the modules you want. Additional modules and upgrades can be purchased separately.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What happens if I have higher usage than I expect? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The product continues to work without upgrading, meaning there is no interruption to your marketing activities. Excess usage is charged separately. You can upgrade your contracted usage amount for better rates by contacting your rep.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can I add other modules at any time? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yes! Our pricing is structured to allow you to grow at your own pace. As a customer, you will have a representative you can contact to get started with other modules as soon as you’re ready — without interruption to your current marketing activities.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Do you charge on a monthly or annual basis? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We bill on an annual basis to give you flexibility and challenge Bloomreach to demonstrate our value year after year. 99% of our customers continue to renew each year, leaning on Bloomreach to help them grow. If we aren’t providing value, we should lose your business 
+—
+ we only win when our customers win. We believe a year is an adequate amount of time for us to prove our value, although you can unlock even better rates with longer term agreements.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How quickly can I get started? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It depends on a product and your unique needs. Our platform allows you to scale your operations so you can start small, stay focused, and grow without having to add complexity to your tech stack.
+For 
+Marketing Automation
+, our goal is to enable you to send hyper-targeted and personalized campaigns as soon as possible. It all depends on your unique needs and situation. For example, we’ve had customers get started in as little as a few weeks setting up a single channel, 
+like our customer
+ 
+Woolworths Metro60
+. On average, our customers are actively using Bloomreach Engagement within 3 months as attested in the G2 2023 Comparisons and Ratings Report. Based on 
+Forrester study from August 2024
+, customers get ROI payback in less than 6 months. To help you get started and continue to grow, we offer a variety of services and support, including:
+Support via phone, live chat, Slack, or a dedicated Customer Service Manager
+In-depth product documentation
+GDPR, TCPA, CTIA compliance support
+Best practice webinars and community platforms
+Onboarding and implementation support
+Email list validation service
+Plug & Play Use Cases
+Bloomreach Academy educational course
+Bloomreach 
+Autonomous Search
+’s implementation takes an average of six weeks total to complete and under four weeks for you to start seeing the business impact on your site. Our implementation takes a little longer because we have more advanced capabilities built into the product that get you to value sooner. With other solutions you need to invest the effort of creating rules or time waiting for the pixel to learn from your customers before you start seeing any lift.
+Here’s what we recommend asking yourself  — at the end of the year, how much more 
+RPV lift
+ does Bloomreach need to achieve in order to justify the extra couple of weeks it might take us to implement? We’re confident we can hit that number for you because we’ve been doing it for over a decade for the biggest brands in the world that stay with us year after year.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How much manual set-up is required? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We’ve served customers across every industry and have solutions for the most common challenges baked into our product, so tuning Bloomreach for your exact needs is a matter of configuration, rather than time-consuming (and expensive) customization.
+Stop waiting around for a pixel to learn your customers’ behavior or for your merchandising team to diagnose and test rules. Take advantage of the largest ecommerce dataset out there to get an 
+immediate edge over your competitors
+ and generate more revenue, faster.  Due to the massive dataset we’ve built up over the last decade, our search engine and marketing automation already knows how to adapt to your customers’ behavior. 
+Then, maintain that edge to keep improving revenue per visitor year-over-year.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What kind of support is available? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get support when you need it. We provide support spanning from implementation to practical use to strategic consulting.
+Help is always a few keystrokes away and available through multiple channels, ensuring your team gets guidance during critical times. When you use Bloomreach Engagement (Marketing Automation platform), you can contact support directly in the app. With an average 2-minute response time, our support team provides prompt front-line support.
+Our Strategic Experts and Business Consultants offer more than just standard support. They work closely with your business to identify new growth opportunities, help set up experiments and solutions, and provide tailored recommendations based on our extensive experience with other clients in your industry. This ensures you not only get the most out of our platform but also continue to scale and evolve.
+Bloomreach also offers a number of valuable resources, including access to educational content on 
+Bloo

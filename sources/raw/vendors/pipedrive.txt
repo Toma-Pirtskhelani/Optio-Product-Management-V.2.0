@@ -1,0 +1,1156 @@
+===== llms.txt :: https://www.pipedrive.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Pipedrive
+> Pipedrive is the easy, intelligent CRM loved by growing sales teams. It is a cloud-based, sales-first CRM built on the philosophy of Activity-Based Selling — shifting focus from the unpredictable end result (the sale) to the controllable actions (calls, meetings, emails) that drive it. Unlike traditional CRMs that act as passive databases, Pipedrive is built for closing: a proactive productivity tool that uses a visual pipeline, automation and AI to eliminate "rotting" deals and administrative friction. It centralizes the full revenue lifecycle — lead capture, deal management, email and calendar sync, proposals and e-signatures, reporting and forecasting, project delivery and hundreds of integrations — in one workspace that is simple from day one and scales as teams grow. Best fit: B2B, sales-led small and mid-sized businesses (11–250 employees) with a defined sales process and a growing sales team. Key concepts: Pipeline, Stage, Deal, Lead, Activity, Contact (Person), Organization, Insights, Automation, Workflow, Marketplace, Add-on.
+## Product
+- [Products & features overview](https://www.pipedrive.com/en/products): The full feature set across the sales process.
+- [What is CRM](https://www.pipedrive.com/en/crm/fundamentals/what-is-crm): How Pipedrive defines CRM and the problems it solves.
+- [Homepage](https://www.pipedrive.com): Core positioning, product tour and free 14-day trial (no credit card required).
+- [About Pipedrive](https://www.pipedrive.com/en/about): Company background, awards and newsroom.
+## Sales features
+- [Sales software (all features)](https://www.pipedrive.com/en/products/sales): Visual, drag-and-drop pipeline and deal management with customizable stages and "rotting" deal alerts.
+- [Lead management](https://www.pipedrive.com/en/products/sales/leads): Capture, qualify and organize leads before they enter the pipeline.
+- [Email and communications](https://www.pipedrive.com/en/products/sales/email-and-communications): Two-way email sync, open/click tracking, group emailing and a shared sales inbox.
+- [Sales automation](https://www.pipedrive.com/en/products/sales/automations): Trigger-based workflows for lead assignment, follow-ups and deal updates.
+- [Insights and reports](https://www.pipedrive.com/en/features/insights-and-reports): Visual dashboards for goal tracking, win/loss rates and revenue forecasting.
+- [Pulse](https://www.pipedrive.com/en/products/sales-prospecting-software): Real-time, focused prospecting workspace to track follow-ups and surface new opportunities.
+- [Onboarding support](https://www.pipedrive.com/en/products/sales/onboarding): Guided setup to get teams started quickly.
+## AI-powered features
+- [AI CRM (overview)](https://www.pipedrive.com/en/products/ai-crm): Pipedrive's AI capabilities across the sales workflow.
+- [AI Sales Assistant](https://www.pipedrive.com/en/features/ai-sales-assistant): Performance nudges and actionable suggestions to keep deals moving.
+- [AI email writer](https://www.pipedrive.com/en/products/ai-crm/ai-email-writer): Draft and improve sales emails in seconds.
+## Add-ons
+- [LeadBooster](https://www.pipedrive.com/en/features/lead-generation-software): Lead generation suite — Chatbot, Live Chat, Web Forms and Prospector (outbound leads from a large GDPR-compliant database).
+- [Web Visitors](https://www.pipedrive.com/en/features/web-visitors-add-on): Identify which companies are visiting your website and how they engage.
+- [Smart Docs](https://www.pipedrive.com/en/features/smart-docs): Create, share and track proposals and documents from templates, with native e-signatures.
+- [Projects](https://www.pipedrive.com/en/crm/resources/crm-project-management): Manage delivery after the deal is won — turn won deals into kanban project boards with tasks and progress tracking.
+## Apps & integrations
+- [WhatsApp Integration](https://www.pipedrive.com/en/features/crm-for-whatsapp): Pipedrive's WhatsApp Business integration lets sales teams send, receive, and manage WhatsApp conversations directly inside the CRM.
+- [Pipedrive Marketplace](https://www.pipedrive.com/en/marketplace): Hundreds of apps and integrations across the revenue lifecycle (e.g. Zapier, Slack, Zoom, Microsoft Teams, Gmail/Google Workspace, QuickBooks, Xero, PandaDoc, Mailchimp).
+- [About the Marketplace](https://www.pipedrive.com/en/marketplace/about): How integrations map to each stage of the revenue cycle, with guided recommendations.
+## Who Pipedrive is for
+- **Company profile** — B2B, sales-led SMBs with a defined sales process, a growing sales team and an existing tech stack (typically 6+ business tools); sweet spot ~11–50 employees, scaling toward 51–250.
+- **Primary users** — Sales reps, SDRs, Account Executives, Sales Managers, founders/leaders and RevOps/GTM admins.
+- **Common industries** — Consulting and agencies, IT and information technology, manufacturing, finance and insurance.
+- **Jobs it solves** — (1) Get organized and never miss a follow-up; (2) standardize and optimize the sales process; (3) gain visibility into team performance; (4) orchestrate collaboration across a larger team and connected tools.
+## Pricing
+- [Pricing plans](https://www.pipedrive.com/en/pricing): Per-seat pricing across four plans — Lite, Growth, Premium and Ultimate — with monthly or annual billing (annual is cheaper per seat). Higher tiers unlock deeper automation, reporting, permissions and support; add-ons are billed separately or bundled into higher tiers. All plans include unlimited contacts and deals, an open API and a 14-day free trial. *Prices are shown in the visitor's local currency and vary by region, so consult the live page for current figures.*
+## Why Pipedrive (comparisons)
+- [All CRM comparisons](https://www.pipedrive.com/en/crm/compare): Pipedrive's own side-by-side comparisons with other CRMs.
+- [Pipedrive vs. HubSpot](https://www.pipedrive.com/en/crm-comparison/pipedrive-vs-hubspot)
+- [Pipedrive vs. Salesforce](https://www.pipedrive.com/en/crm-comparison/pipedrive-vs-salesforce)
+- [Pipedrive vs. monday.com](https://www.pipedrive.com/en/crm-comparison/pipedrive-vs-monday)
+## Trust & security
+- [Trust Center](https://trustcenter.pipedrive.com/): Security, privacy and compliance resources, certifications and FAQs.
+- [Privacy & security (Knowledge Base)](https://support.pipedrive.com/en/category/privacy-and-security): Data security measures and security-related features.
+- Compliance posture includes GDPR, SOC 3 and ISO/IEC 27001 (confirm current certifications in the Trust Center).
+## Developer platform
+- [Developer hub](https://developers.pipedrive.com): Build apps and integrations and reach companies through the Marketplace; includes a free Sandbox account.
+- [API reference (v1)](https://developers.pipedrive.com/docs/api/v1): RESTful, JSON-based, token-authenticated API available on every plan, with webhooks and official Node.js and PHP clients.
+- [Documentation](https://pipedrive.readme.io/docs/getting-started): Developer guides and tutorials.
+- [Developer community](https://devcommunity.pipedrive.com): Q&A and feedback for builders.
+## Learn & resources
+- [CRM Hub](https://www.pipedrive.com/en/crm): Central hub of CRM guidance and resources (expanding; future home for Sales and Marketing hubs).
+- [Resources](https://www.pipedrive.com/en/resources): Articles, tools, templates and downloads.
+- [Blog](https://www.pipedrive.com/en/blog): Sales, marketing and product insights.
+- [Pipedrive Academy](https://learn.pipedrive.com/app): Free courses and video tutorials.
+- [Knowledge Base](https://support.pipedrive.com/en): Setup guides, troubleshooting and FAQs.
+## Locales
+The pages above are also published in four additional priority locales. Replace `/en/` with the locale subdirectory in any URL.
+- German: `https://www.pipedrive.com/de/...`
+- French: `https://www.pipedrive.com/fr/...`
+- Portuguese: `https://www.pipedrive.com/pt/...`
+- Spanish: `https://www.pipedrive.com/es/...`
+## Optional
+- [Case studies](https://www.pipedrive.com/en/case-studies): How real teams use Pipedrive (customer proof and outcomes).
+- [Industries](https://www.pipedrive.com/en/industries): Pipedrive by industry (e.g. real estate, travel, nonprofit).
+- [Roles](https://www.pipedrive.com/en/roles): Pipedrive by role (e.g. contact managers, lead managers).
+- [General FAQ](https://www.pipedrive.com/en/general-faq): Common questions on plans, API access, security and accounts.
+
+===== homepage :: https://www.pipedrive.com/
+--- SIGNALS ---
+title: Sales CRM & Pipeline Management Software | Pipedrive
+meta_description: Pipedrive is the easy-to-use, #1 user-rated CRM tool. Get more qualified leads and grow your business with our sales CRM. Sign up for a 14-day free trial.
+og_description: 
+og_site_name: Pipedrive
+h1: The easy and effective CRM for closing deals
+h2: CRM software sales teams will love | See how Pipedrive is helping customers | Say hello to Pipedrive AI | Connect your tech stack and discover tools with Pipedrive’s Marketplace | Optimize your sales process | Popular blog posts | CRM FAQs | Driving business growth
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "url": "https://www.pipedrive.com", "logo": "https://cdn.lon-2.pipedriveassets.com/www-main-renderer/_next/static/media/logo_1920x1080.593db9da.jpg", "name": "Pipedrive", "description": "Sales CRM & Pipeline Management Software", "foundingDate": "2010", "keywords": "crm, sales crm, workflow automation, lead management software", "knowsAbout": [{"@type": "DefinedTerm", "name": "Customer Relationship Management (CRM)", "sameAs": ["https://www.wikidata.org/wiki/Q485643", "https://en.wikipedia.org/wiki/Customer_relationship_management"]}, {"@type": "DefinedTerm", "name": "Lead management", "sameAs": "https://www.wikidata.org/wiki/Q420700"}], "potentialAction": {"@type": "SubscribeAction", "name": "Try Pipedrive for free", "url": "https://www.pipedrive.com/en/register", "@id": "https://www.pipedrive.com/#TryPipedrive"}, "sameAs": ["https://en.wikipedia.org/wiki/Pipedrive", "https://www.linkedin.com/company/pipedrive", "https://x.com/pipedrive", "https://www.instagram.com/pipedrive", "https://www.facebook.com/pipedrive", "https://www.youtube.com/@pipedrive"], "@id": "https://www.pipedrive.com/#Organization"}]
+--- TEXT ---
+Sales CRM & Pipeline Management Software | Pipedrive
+ 
+ 
+Skip to main content
+ 
+ 
+Features 
+Pipeline management
+Lead management
+Sales inbox
+Sales automation
+Projects
+Reporting and analytics
+Email sync and tracking
+Pipedrive AI
+LeadBooster
+Integrations and Marketplace
+Mobile CRM app
+Email marketing
+Security and permissions management
+Why Pipedrive 
+HubSpot
+Salesforce
+Monday.com
+See all comparisons
+Tiffany Largie
+AI Bees
+Big Dog Solar
+See all case studies
+Real estate
+Travel agency
+Information technology
+See all industries
+Contact managers
+Lead managers
+Designers
+See all roles
+Resources 
+About us
+Jobs
+Newsroom
+Partner
+Status
+Contact support
+Onboarding
+Knowledge base
+Blog
+Learn
+CRM Hub
+Developers
+Downloadable
+Contact sales
+Pricing
+ 
+ 
+ 
+All categories
+ 
+Marketplace apps
+ 
+Blog
+ 
+Knowledge Base
+ 
+Academy
+All results
+: 
+0
+ 
+No results found.
+ 
+English
+Čeština
+Deutsch
+Eesti
+Español
+Français
+Magyar
+Bahasa Indonesia
+Italiano
+Japanese (日本語)
+Korean (한국어)
+Latviešu valoda
+Nederlands
+Norsk
+Polski
+Português (BR)
+Română
+Русский
+Suomi
+Svenska
+ภาษาไทย
+Türkçe
+Українська
+Chinese (繁體中文)
+Log in
+Try it free
+The easy and effective CRM for closing deals
+Pipedrive lets you track your sales pipeline, optimize leads, manage deals with AI and automate your entire sales process so you can focus on selling.
+14-day free trial, no credit card required
+Trusted by over 100,000 companies
+500+ integrations to boost workflows
+Built-in AI to close deals faster
+GDPR compliant and secure
+Try it free
+Contact sales
+Enter your work email
+Try it free
+By signing up, you agree to our 
+Terms of Service
+ 
+Opens in new window
+ and 
+Privacy Notice
+ 
+Opens in new window
+. You'll get product updates and offers, and you can unsubscribe anytime.
+Full access. No credit card required. Used by over 100,000 companies.
+Trusted by 100,000+ companies in 179 countries
+ 
+CRM software sales teams will love
+I’ve used a CRM before
+I haven’t used a CRM before
+Save hours with automated lead nurturing
+Never miss a follow-up with automated sales conversations and AI-powered prompts to focus on the right leads.
+ Pipedrive is the best tool I’ve ever found! From email tracking to workflow automations and game-changing integrations, Pipedrive has plenty of features that help us go beyond our sales targets.
+Nirmal Gyanwali
+Managing Director, Nirmal Web Studio
+Harness sales insights to drive your strategy
+Dive into real-time sales reports and grasp the ins and outs of your sales funnel with AI suggestions. Pipedrive’s forecasting, goal-setting, team monitoring and advanced sales metrics tools help you to make swift, informed decisions.
+ Pipedrive has enabled us to have instant access to that data, so it’s not just quadrupling our revenue but ensuring that we have predictable revenue.
+Suds Singh
+Founder and MD, Interesting Content
+The CRM tailored to your business
+Seamlessly switch to a sales tool that matches every step of your buyer’s journey. Pipedrive is more than just a pipeline.
+ Pipedrive adapts well to what we need, and I like that. Unlike other CRM solutions, it fits our needs and doesn’t force us to simply conform to what it can provide.
+Franziska Palumbo-Seidel
+CEO and Founder, Key Search
+See all features
+Compare CRMs
+Unlock sales success
+Simplify your workflow and unite your sales tasks in one workspace. Get AI-powered, personalized tips to help you focus on winning deals. 
+ Pipedrive has made me a salesperson with good habits. And without a doubt I am much more organized than before.
+Luis Carlos Rojas
+Sales Manager, Saleslatam México
+Refine your strategy with real-time performance insights
+Leverage real-time, visual data to easily make tough decisions and identify what works.
+ Pipedrive has enabled us to have instant access to that data, so it’s not just quadrupling our revenue but ensuring that we have predictable revenue.
+Suds Singh
+Founder and MD, Interesting Content
+Customize Pipedrive to your unique sales process
+Discover the power of a CRM that adapts to your sales strategy, giving you the tools and tips you need to succeed.
+ By customizing and automating the customer journey, we were able to remove so much clutter, bottlenecking, manual admin and confusion.
+Karl Brown
+Founder and CEO, Instyle Solar
+See all features
+Compare CRMs
+Join 100,000+ companies using Pipedrive to gain real-time insights and more!
+Less time managing, more time closing deals.
+Watch demo
+See how Pipedrive is helping customers
+Pipedrive is recognized as a top-rated CRM and, this year alone, has earned over 6 industry-leading awards
+Say hello to Pipedrive AI
+Boost your sales success with our AI-powered features. Phase out manual processes, streamline communication and make data-driven decisions for smarter, faster sales.
+Find out more
+ 
+Opens in new window
+Connect your tech stack and discover tools with Pipedrive’s Marketplace
+Integrate Pipedrive with the apps that drive your business. Seamlessly connect your favorite software or find new tools with tailored recommendations.
+Browse all apps
+Optimize your sales process
+Supercharge every step of your sales cycle and empower your team to win deals.
+Easily manage leads and deals
+One space for all your sales activities
+Automate and scale
+Instant sales insights
+Enhance your CRM experience
+Easily manage leads and deals
+Organize customer data and interactions in one simple tool and act fast when opportunity strikes.
+Customize your pipelines
+Pipedrive’s kanban-style dashboard lets you visualize your sales funnel. Adjust your pipelines to your sales process and move deals along as they progress. We’ll notify you when you need to follow up.
+Centralize your sales data and contact history
+Import data from spreadsheets or other pipeline management software in just a few clicks. Link products or services to deals to track negotiations and see the bigger picture.
+Add custom fields
+Shape your CRM to your business with custom fields. Capture must-have info for your sales team and automate calculations with smart formulas.
+Learn more
+One space for all your sales activities
+Easily track sales conversations and tasks in one tool, giving your salespeople the context they need to follow up faster.
+Your one-stop sales inbox
+Speed up response time and never miss an opportunity again with two-way email sync. Connect up to five email accounts and keep prospects hooked with customizable templates.
+Calendar sync and task reminders
+Manage your schedule from the comfort of your CRM. Calendar sync lets you link your business calendar to Pipedrive and reminds you of upcoming deadlines, helping you stay focused.
+Easy call scheduling
+Share your availability with leads and let them book calls on their schedule. Instantly generate meeting links for Google Meet, Zoom or Microsoft Teams.
+Learn more
+Automate and scale
+Streamline your sales process and use AI – get more done with less work.
+Automate your entire sales cycle
+Cut admin time in half and let reps focus on closing deals. Easily set up workflow automations for your team or choose from ready-made templates.
+Automate lead routing and increase conversion
+Automatically assign
+ leads while they’re hot with custom rules. As they move through your sales funnel, Pipedrive will hand them off from one sales rep to the next so you can keep the ball rolling.
+Boost productivity with automated follow-ups
+Keep leads and prospects engaged with sales automation. Set up auto-sequences that trigger based on email interactions or use AI prompts to quickly respond to leads.
+Learn more
+Instant sales insights
+Take advantage of Pipedrive’s precise, real-time data analytics to track sales metrics and fine-tune your strategy.
+Monitor sales performance
+Set goals and measure progress with visual reports and dashboards. Quickly identify bottlenecks to keep your pipeline running smoothly.
+Forecast and track revenue
+Confidently predict earnings based on past performance, from recurring revenue to one-off deals. Gain a comprehensive view of predicted income, allowing for quick, tactical adjustments.
+Get smarter, actionable insights
+Pipedrive’s AI Sales Assistant predicts which deals you’re most likely to win, or lose. Get suggestions on which leads to pursue, along with daily snapshots of your sales team’s performance.
+Learn more
+Enhance your CRM experience
+Pipedrive’s simple, secure and flexible ecosystem helps you stay on track for sales success. Enrich your CRM tool with integrations, manage your pipeline on the go and onboard teammates without the learning curve.
+Discover 500+ integrations
+Optimize your revenue cycle with 500+ apps for lead generation, video calls, project management, marketing and more. Connect your favorite software in minutes and get tailored add-on suggestions with Pipedrive Marketplace.
+World-class security and robust account controls
+Keep your data safe with AES-256 encryption, full SOC 2 compliance and leading hosting infrastructure in Rackspace and AWS. Tailor your account permissions and security settings and receive instant alerts for peace of mind.
+Sell on the go
+With Pipedrive’s mobile apps for Android and iOS, sales efficiency is always at your fingertips, wherever you are. Access your data on the move, finalize meeting prep and impress leads with instant follow-ups.
+Learn more
+Popular blog posts
+CRM evaluations: How to choose the perfect system
+In this CRM evaluation guide, you’ll learn what to look for when selecting a CRM system and how to extract the most useful information from vendors.
+ 
+Opens in new window
+How to write a response worthy follow-up email (with 15 templates)
+We’ve compiled 15 of the best follow-up email samples you can use to cover almost any sales situation.
+ 
+Opens in new window
+Sales presentations: templates, examples and ideas on how to present like a pro
+In this guide, you’ll learn how to use the power of storytelling to drive decision-making and close more deals.
+ 
+Opens in new window
+CRM FAQs
+What is Pipedrive?
+ 
+Pipedrive is a sales pipeline CRM designed to help small businesses manage leads, track sales activities and close more deals.
+How does Pipedrive work?
+ 
+In a nutshell, Pipedrive enables sales teams in small businesses to:
+Streamline processes and consolidate sales data in one unified CRM sales tool.
+Automate follow-ups and ensure timely responses to leads.
+Keep an eye on sales achievements and assess team performance for ongoing improvement.
+How to set up Pipedrive?
+ 
+Setting up Pipedrive is straightforward. To get up and running with our CRM 
+pipeline management
+ tool, here’s a brief guide:
+Begin by importing existing data or building your leads database within Pipedrive’s sales CRM software. Explore our Marketplace integrations to infuse your pipeline with even more quality leads.
+Define your sales pipeline, create active deals, synchronize your business email and calendar and start scheduling your next activities.
+If collaboration is key, set up team access. Pipedrive offers granular permissions, allowing you to fine-tune who can view or modify your CRM data.
+As you progress, keep a close eye on your sales outcomes by creating real-time reports and dashboards. This will help you adapt and refine your strategies for even greater success.
+How will Pipedrive’s CRM solution help me improve sales?
+ 
+Pipedrive’s CRM sales pipeline makes customer relationship management a breeze by allowing you to track leads, spot opportunities, measure key activities, streamline sales workflows and focus on sales success.
+Automated reminders and follow-ups increase your productivity, eliminating repetitive, time-consuming tasks. Real-time reports show your sales reps and sales managers which business processes to prioritize.
+Will Pipedrive work for a big team?
+ 
+Yes! Pipedrive’s sales CRM software is well-suited for startups and larger teams alike.
+Our pipeline CRM helps large sales and marketing teams streamline their customer interactions. Sales managers and their teams can benefit from a progress tracker, sales automation, procession forecasting, an activity-based planner and top security.
+In addition, large teams have access to a dedicated account manager to help them make the most of Pipedrive. Your account manager can also help you onboard other team members to your sales CRM system and guide you on 
+pipeline management
+ best practices.
+What does CRM stand for in sales?
+ 
+“CRM“ in sales stands for “Customer relationship management.” Although the “C” in “CRM” stands for “customer,” the best CRM tools can help teams enhance every stage in the sales cycle.
+What is a CRM in sales?
+ 
+A CRM, or sales CRM tool, is a system sales teams use to manage customer data and nurture customer relationships. Several popular CRM and sales tools exist on the market, including Pipedrive.
+How does CRM help sales?
+ 
+A CRM for sales enables you and your reps to centralize contact information, track ongoing activities and boost customer retention. Pipedrive’s visual sales pipeline lets you see your entire sales cycle at a glance, highlighting key opportunities. Get notified when you need to follow up, helping you enhance your customer experience and drive more deals than ever.
+What is CRM software?
+ 
+CRM software is the technology organizations use to manage relationships and business processes. Typically, CRM software for sales teams lets users track their activities, manage communications with other parties, measure individual and team progress and forecast revenue. The top CRM sales software integrates with other business tools, such as email marketing, document management and website tracking software.
+How do I choose a CRM?
+ 
+Choosing a good CRM sales tool for your business requires research and testing. Many companies, including Pipedrive, offer new users a 14-day free CRM trial to see if the software suits their needs. When searching for the best CRM software, consider ease of use, onboarding and results orientation. You should also look for the best pipeline management software and 
+sales management software
+ to ensure your CRM has all the
+
+===== product :: https://www.pipedrive.com/en/products
+--- SIGNALS ---
+title: Best CRM Products From Pipedrive | Pipedrive
+meta_description: Pipedrive’s CRM features focus on activity-based selling. Find out how our CRM product can help your business succeed.
+og_description: 
+og_site_name: Pipedrive
+h1: Pipedrive’s features and products
+h2: Join over 100,000 companies | Sales software features | AI features | Email marketing software features | Project management features | Security and privacy features | Marketplace integrations | Work anywhere, anytime with the Pipedrive app | Pipedrive products and features FAQs | See how Pipedrive works for your business
+jsonld_org: []
+--- TEXT ---
+Best CRM Products From Pipedrive | Pipedrive
+ 
+ 
+Skip to main content
+ 
+ 
+Features 
+Pipeline management
+Lead management
+Sales inbox
+Sales automation
+Projects
+Reporting and analytics
+Email sync and tracking
+Pipedrive AI
+LeadBooster
+Integrations and Marketplace
+Mobile CRM app
+Email marketing
+Security and permissions management
+Why Pipedrive 
+HubSpot
+Salesforce
+Monday.com
+See all comparisons
+Tiffany Largie
+AI Bees
+Big Dog Solar
+See all case studies
+Real estate
+Travel agency
+Information technology
+See all industries
+Contact managers
+Lead managers
+Designers
+See all roles
+Resources 
+About us
+Jobs
+Newsroom
+Partner
+Status
+Contact support
+Onboarding
+Knowledge base
+Blog
+Learn
+CRM Hub
+Developers
+Downloadable
+Contact sales
+Pricing
+ 
+ 
+ 
+All categories
+ 
+Marketplace apps
+ 
+Blog
+ 
+Knowledge Base
+ 
+Academy
+All results
+: 
+0
+ 
+No results found.
+ 
+English
+Čeština
+Deutsch
+Eesti
+Español
+Français
+Magyar
+Bahasa Indonesia
+Italiano
+Japanese (日本語)
+Korean (한국어)
+Latviešu valoda
+Nederlands
+Norsk
+Polski
+Português (BR)
+Română
+Русский
+Suomi
+Svenska
+ภาษาไทย
+Türkçe
+Українська
+Chinese (繁體中文)
+Log in
+Try it free
+Pipedrive’s features and products
+We’ve developed Pipedrive’s customer relationship management (CRM) products and features around activity-based selling. We believe that in the sales and marketing lifecycle, you can’t control results, but you can control the actions that close deals. 
+Our products include:
+Sales software
+Discover how Pipedrive’s all-in-one sales software can help your business grow
+Email marketing software
+Create and send customizable email campaigns with pro templates, built to get more clicks
+Project management software
+Conceptualize, manage and deliver your next big project from one place to reach your goals faster
+Marketplace integrations
+Sync your CRM with over 500 tools, including Google, Quickbooks, Asana, Slack, Kixie and more
+AI CRM features
+Save time, improve performance and make smarter decisions with AI-powered CRM
+Privacy and security
+Safeguard your data and use permission and visibility features to manage who has access
+Lead generation software
+Generate more high-quality leads with the LeadBooster add-on’s four powerful tools
+Web visitor tracking
+Discover which companies are visiting your site with Pipedrive’s Web Visitors add-on
+Documents and templates
+Create shareable, trackable documents and templates with Smart Docs to strike while the deal is hot
+Join over 100,000 companies
+Try it free
+Or 
+sign up with Google
+Full access. No credit card needed. 
+By signing up, you accept our 
+Terms of Service
+ and 
+Privacy Policy
+.
+4.5
+/5
+4.5 of 5
+ 
+4.2
+/5
+4.2 of 5
+ 
+4.3
+/5
+4.3 of 5
+ 
+4.5
+/5
+4.5 of 5
+ 
+4.5
+/5
+4.5 of 5
+ 
+4.7
+/5
+4.7 of 5
+ 
+Sales software features
+Companies need to adapt quickly, so your sales software should offer functionality at several pricing options to serve sales teams and individuals at every touchpoint. Pipedrive features include everything your sales department and business needs.
+Automation
+Eliminate sales reps’ busywork and data entry with task automation, one-click contact management, webhooks and an open API
+CRM
+Choose the Pipedrive CRM platform to improve your workflows, increase sales productivity and scale your business
+Customization
+Customize pipelines, tailor business processes to customer needs and keep your team on the right track
+Email and communications
+Use innovative features to create centralized communication efforts, connect with your target audience and move leads through the sales funnel
+Insights and reports
+Spot winning patterns, simplify sales forecasting and optimize your entire workflow with customizable reports
+Integrations
+Sync Pipedrive with your favorite tools across different categories, including video calls, lead generation, phone solutions and customer support
+Leads
+Make the most of each opportunity with dedicated features that help with lead management, qualification and prioritization
+Prospecting software
+Identify, research and engage with potential customers by finding promising deals and best-fit leads
+Processes, pipeline and activities
+Create and implement your ideal sales pipeline process using CRM features like goal setting, activity tracking and insights
+View all
+AI features
+Artificial intelligence is transforming sales and speeding up outreach while improving customer satisfaction and increasing success rates. Here’s how Pipedrive is leading the way.
+AI sales assistant
+Focus on the right deals thanks to personalized recommendations from your AI-powered assistant
+AI email writer and summarizer
+Streamline sales outreach by turning prompts into emails and summarize lengthy threads quickly
+AI reporting
+Generate sales reports instantly by typing what you need or choose from 15+ available prompts
+View all
+Email marketing software features
+Marketing teams can win your prospects’ attention with our Campaigns add-on’s beautiful, customizable layouts and keep their attention with the email software’s tracking, analytics and filtering features.
+Email builder
+Create stunning emails with templates and a simple drag-and-drop builder
+Email analytics
+Discover which marketing campaigns drive results with real-time reporting
+Email segmentation
+Segment your audience and reach each customer with the right message
+Email marketing automation
+Set up automated lead qualification flows and customer relationship nurturing sequences
+View all
+Project management features
+Map out complex projects simply and intuitively, making task management and team collaboration a breeze. Visualize the customer journey across industries, from e-commerce to software as a service (SaaS).
+Project management automation
+Enable your team members to streamline time-consuming project processes and focus on the more challenging tasks required to finish complex projects
+Email project management
+Manage all your important emails in one place, never miss a notification and keep a clear overview of the projects you’re managing
+View all
+Security and privacy features
+Make sure your company’s data is secure with Pipedrive’s security and privacy features. Provide access to the team members who need it and monitor who uses your CRM and when.
+Security center
+Monitor your account and tackle suspect user and account activities instantly with Pipedrive’s monitoring features and audit logs, then set up SSO and 2FA for further security
+Permissions and visibility
+Define which members of your team can see what data and access which Pipedrive features – admins have role-based access control to manage other users
+Data encryption
+Each company’s data in Pipedrive is stored in a separate, encrypted database to prevent the risk of others accessing your data
+Marketplace integrations
+It’s important to make sure your sales process uses your business’s existing tools and resources to their full potential. Pipedrive’s Marketplace offers hundreds of seamless integrations to perfect your workflow and win more customers.
+Accounting and invoicing
+Find sales CRM integrations to automate your finance processes and pipeline management
+Chatbots
+Automate communication with website visitors, leads and customers with customer relationship apps
+Email marketing
+Integrate with Gmail and other apps to manage opt-in email lists and send targeted emails to large groups
+Lead generation
+Fill your pipeline with new leads from websites, social media and events by using marketing and sales force automation
+Phone solutions
+Place incoming and outgoing calls with leads and customers, then record, track and analyze them
+Proposal contracts
+Create, manage and send pricing proposals and contracts to prospects, then track engagement within these documents
+Remote work
+Communicate with remote team members and contacts through video calls, meetings and conferences with Zoom, Microsoft Teams and more
+Resource management
+Back up and export your business and sales management data and merge or remove duplicates in your Pipedrive account
+Task management
+Assist salespeople and sales teams by keeping track of goals, projects and individual tasks
+View all
+Work anywhere, anytime with the Pipedrive app
+Our Android and iOS apps turn your Pipedrive sales hub into a 
+mobile CRM
+ that keeps leads, contact information and deals at your fingertips.
+ 
+Access all customer information from anywhere, anytime
+ 
+Take notes while on the go, during a call or a meeting
+ 
+Make calls directly from the app and automatically track them in Pipedrive
+ 
+Schedule sales activities wherever you are, even when offline
+ 
+Use the search option to recap before a follow-up
+ 
+Plan your day with the Focus View to zero in on the most pressing tasks
+ 
+Snap a picture with your phone and add it to a deal or contact
+ 
+Use the “Nearby” feature to see which clients are close and schedule customer interactions
+ 
+Opens in new window
+ 
+Opens in new window
+ Pipedrive has been invaluable in helping us keep our clients happy. It's a really intuitive tool that's easy to use and quick to master. Perhaps the most useful feature for us is the flexibility and level of integrations it has. It's not just our CRM, it's part of our whole sales and account management process, so the ability to talk with the other tools we use is critical.
+Guy Thornton
+Managing Director, Picked Group Ltd
+ Easy to use, reasonably priced, and ensures I don't drop the ball on following up with my leads!
+Christine Luken
+Author & Speaker, Financial Lifeguard
+ The workflow is perfect for our event management business, recording all booking information and giving reminder alerts. Being able to email clients via the app is great too.
+Graeme Smith
+Area Manager, Wedding Jam
+Pipedrive products and features FAQs
+What are CRM products?
+ 
+CRM products refer to the sales software platform, features belonging to higher tier plans, any other add-ons that give the CRM additional features and Marketplace integrations that sync your CRM data with third-party products.
+What features should a CRM have?
+ 
+A good CRM solution allows large and small businesses to easily track their deals, offer a foundation for marketing activities and generate leads for the 
+sales pipeline
+. It also simplifies document and contract creation, with the flexibility to customize the CRM around the organization’s unique sales processes.
+Why are products so important in CRM?
+ 
+Without a good selection of helpful products, a CRM is little better than a spreadsheet.
+Businesses that split CRM features into different product plans only need to pay for uses, making a sales cloud CRM system like Pipedrive a more affordable option than on-premises products.
+Does Pipedrive have free features and products?
+ 
+Pipedrive offers a 14-day free trial of its plans, and while there isn’t a free version, Pipedrive has done away with arbitrary feature limitations that hinder growth with expensive upgrades.
+With over 500 free third-party apps designed to integrate with Pipedrive, you don’t need to pay extra for additional functionality that improves the customer experience, increases profitability and improves retention.
+See how Pipedrive works for your business
+Try it free
+Full access. No credit card required.
+Skip footer navigation links
+Product
+Features
+Pipedrive AI
+Pricing
+Integrations
+API
+MCP
+Product updates
+Discover
+Partner program
+Referral program
+Case studies
+Sales pipeline course
+What is CRM?
+Resources
+Sales calculator
+Help Center
+Knowledge Base
+Academy
+FAQs
+Status
+ 
+Support
+(Available now)
+Company
+About
+Jobs
+Blog
+Newsroom
+Get our newsletter
+Trust center
+Legal hub
+Sub-processors
+ 
+English
+ 
+English
+Čeština
+Deutsch
+Eesti
+Español
+Français
+Magyar
+Bahasa Indonesia
+Italiano
+Japanese (日本語)
+Korean (한국어)
+Latviešu valoda
+Nederlands
+Norsk
+Polski
+Português (BR)
+Română
+Русский
+Suomi
+Svenska
+ภาษาไทย
+Türkçe
+Українська
+Chinese (繁體中文)
+ 
+ 
+ 
+ 
+© 
+2026
+ Pipedrive
+Pipedrive 
+Terms of Service
+Pipedrive 
+Privacy Notice
+Site map
+Cookie Notice
+Pipedrive is a Web-based Sales CRM.
+
+===== pricing_or_trust :: https://www.pipedrive.com/en/pricing
+--- SIGNALS ---
+title: CRM Pricing Plans | Affordable CRM Software Costs | Pipedrive
+meta_description: Discover Pipedrive's CRM pricing plans. Find the right fit for your business with competitive CRM software costs. Get started today.
+og_description: 
+og_site_name: Pipedrive
+h1: Plans built to help you close more deals, faster
+h2: Enrich your plan with more features | 500+ integrations to boost workflows | Already a Pipedrive user? | Trusted by over 100,000 sales teams around the world | Frequently asked questions | Join the sales experts
+jsonld_org: []
+--- TEXT ---
+CRM Pricing Plans | Affordable CRM Software Costs | Pipedrive
+ 
+ 
+Skip to main content
+ 
+ 
+Features 
+Pipeline management
+Lead management
+Sales inbox
+Sales automation
+Projects
+Reporting and analytics
+Email sync and tracking
+Pipedrive AI
+LeadBooster
+Integrations and Marketplace
+Mobile CRM app
+Email marketing
+Security and permissions management
+Why Pipedrive 
+HubSpot
+Salesforce
+Monday.com
+See all comparisons
+Tiffany Largie
+AI Bees
+Big Dog Solar
+See all case studies
+Real estate
+Travel agency
+Information technology
+See all industries
+Contact managers
+Lead managers
+Designers
+See all roles
+Resources 
+About us
+Jobs
+Newsroom
+Partner
+Status
+Contact support
+Onboarding
+Knowledge base
+Blog
+Learn
+CRM Hub
+Developers
+Downloadable
+Contact sales
+Pricing
+ 
+ 
+ 
+All categories
+ 
+Marketplace apps
+ 
+Blog
+ 
+Knowledge Base
+ 
+Academy
+All results
+: 
+0
+ 
+No results found.
+ 
+English
+Čeština
+Deutsch
+Eesti
+Español
+Français
+Magyar
+Bahasa Indonesia
+Italiano
+Japanese (日本語)
+Korean (한국어)
+Latviešu valoda
+Nederlands
+Norsk
+Polski
+Português (BR)
+Română
+Русский
+Suomi
+Svenska
+ภาษาไทย
+Türkçe
+Українська
+Chinese (繁體中文)
+Log in
+Try it free
+Plans built to help you close more deals, faster
+Free 14-day trial. No commitment – you can make changes anytime.
+Billed monthly
+Billed annually
+(Save up to 26%)
+Lite
+Now with AI
+ 
+Organize your sales in one simple, intuitive workspace
+US$
+14
+ 
+One payment of US$ 168 per seat/year
+Per seat per month, billed annually
+Try it free
+Free 14-day trial. No credit card required.
+Key features
+ 
+View and manage leads, deals, contacts, calendar events and more in one place.
+Lead, calendar and pipeline management
+ 
+Generate reports using text input or choose from pre-written prompts
+AI-powered report creation
+ 
+Track follow-ups and identify overdue tasks and new opportunities in a smart, focused workspace.
+Real-time sales feed
+ 
+Easily import data from a spreadsheet or CRM. Integrate with 500+ apps, including Zapier, Zoom and Lemlist.
+500+ integrations
+See all features
+Growth
+Now with AI
+ 
+Automate emails and follow-ups so you can focus on closing
+US$
+24
+ 
+One payment of US$ 288 per seat/year
+Per seat per month, billed annually
+Try it free
+Free 14-day trial. No credit card required.
+Lite plan +
+ 
+Fully sync Gmail, Outlook or your company email. Send bulk emails and track opens and link clicks in real time.
+Full email sync with tracking
+ 
+Automate repetitive tasks and complex workflows. Create sequences of personalized emails and follow-ups to nurture deals over time.
+Automations and nurturing sequences
+ 
+Sell and track products billed as subscriptions or installments, and anticipate revenue with built-in forecasts.
+Subscriptions and forecast reports
+ 
+Let customers pick a meeting time that works for you both, and view a full history of interactions in the contacts timeline.
+Meeting scheduler and contacts timeline
+See all features
+MOST POPULAR
+Premium
+Now with AI
+ 
+Drive success from lead to close with full-cycle sales tools
+US$
+49
+ 
+One payment of US$ 588 per seat/year
+Per seat per month, billed annually
+Try it free
+Free 14-day trial. No credit card required.
+Growth plan +
+ 
+Capture high-quality inbound and outbound leads with LeadBooster, then route them automatically to the right reps for faster follow-ups.
+Lead generation and routing
+ 
+Create custom scoring models tailored to your sales process and enrich company data with fields like industry, size and revenue.
+Custom scoring and company data enrichment
+ 
+Write, summarize, and reply to emails instantly with AI. Collaborate through shared team inboxes and sync multiple email accounts at once.
+AI-powered multi-email tools
+ 
+Send and track quotes, proposals, and contracts directly in Pipedrive with built-in e-signatures.
+Contracts and e-signatures
+ 
+Improve data quality with required and pipeline-specific fields, automate deal calculations with formula fields and build reports with custom data. Control visibility and access with flexible permissions at group and individual levels.
+Enhanced customization for teams, reports and data fields
+See all features
+Ultimate
+Now with AI
+ 
+Optimize performance with our complete suite of capabilities
+US$
+69
+ 
+One payment of US$ 828 per seat/year
+Per seat per month, billed annually
+Try it free
+Free 14-day trial. No credit card required.
+Premium plan +
+ 
+Secure your account with alerts for suspicious account activity. Add password security requirements and IP- and time-based access restrictions.
+Fortified account security with rules and alerts
+ 
+Quickly enrich contact data with email and phone number info for more personalized outreach.
+Phone and email data enrichment
+ 
+Test setups and workflows safely in a sandbox account, without risk to your live environment.
+Sandbox testing account
+ 
+Enjoy longer phone support hours and request calls from Monday to Friday, 7:00 am to 11:00 pm (CET/CEST).
+Extended phone support
+ 
+Save 20% on PandaDoc and CloudTalk subscriptions, and 15% on Surfe.
+Partnership discounts
+See all features
+Need help choosing the right plan?
+Compare plans
+Enrich your plan with more features
+LeadBooster add-on
+Capture more leads
+Starting from
+ 
+$32.50
+ 
+Opens in new window
+Projects add-on
+Deliver projects and reach goals faster
+Starting from
+ 
+$16
+ 
+Opens in new window
+Campaigns add-on
+Send awesome email marketing campaigns
+Starting from
+ 
+$13.33
+ 
+Opens in new window
+Web Visitors add-on
+See who’s browsing your site
+Starting from
+ 
+$41
+ 
+Opens in new window
+Smart Docs add-on
+Manage all your documents in one place
+Starting from
+ 
+$32.50
+ 
+Opens in new window
+500+ integrations to boost workflows
+Seamlessly integrate the apps your business relies on, or find new ones with tailored recommendations to enrich your CRM and help your business flourish.
+Browse all apps
+Already a Pipedrive user?
+Upgrade your plan
+Please note that our prices are VAT exclusive. VAT will be billed to EU customers in line with the applicable rates of their member state unless a valid VAT number is provided.
+4.5
+/5
+4.5 of 5
+ 
+4.2
+/5
+4.2 of 5
+ 
+4.3
+/5
+4.3 of 5
+ 
+4.5
+/5
+4.5 of 5
+ 
+4.5
+/5
+4.5 of 5
+ 
+4.7
+/5
+4.7 of 5
+ 
+Trusted by over 100,000 sales teams around the world
+ Pipedrive mixes features and design that allows our team to streamline our operations. It was very easy to get up and running with Pipedrive compared to Salesforce.
+Michael Liedtke
+Engineering Manager, Escrow.com
+ It’s the best sales tracking software that’s so easy to customise as we go!
+Treasha Lim
+Director, Klear Picture Pty Ltd
+ Pipedrive has helped visualize our sales landscape in realtime, and has become an integral component of our process. My favorite features are the reports and activity notifications. Pipedrive ensures no rock goes unturned.
+Garrett Winder
+Managing Partner, Good Work
+Frequently asked questions
+What is CRM pricing and how is it determined? What factors affect CRM software cost?
+ 
+CRM pricing refers to the cost of implementing and using 
+customer relationship management software
+. The price is determined by factors like number of users, features included in the software, integrations and level of support provided by CRM companies.
+How much does a CRM cost on average?
+ 
+CRM costs vary widely depending on the CRM company and features included. On average, the typical cost of CRM software ranges from less than a hundred to several hundred dollars per user per year, with some enterprise-level solutions costing even more. To find the best CRM software prices, research and compare CRM providers based on their pricing plans and features. Pipedrive offers different solutions at price points to match users’ requirements. Learn more on our 
+CRM price comparison
+ pages.
+Can my co-workers join my free trial?
+ 
+Yes, you can invite as many people as you want to join your Pipedrive trial. Simply click on your profile in the top right corner of your screen and select “Add more users” from the drop-down menu.
+Will my data be safe?
+ 
+Protecting your business data is one of our highest priorities. Learn more about our rigorous 
+security and privacy 
+standards.
+What is an add-on?
+ 
+Add-ons are additional Pipedrive tools that you can add to any plan.
+What’s the difference between annual and monthly billing?
+ 
+The difference is 
+how often you pay
+ your subscription fee. With monthly billing, you will be charged on the same day each month. With annual billing, you are charged once for the whole year.
+Which payment methods do you accept?
+ 
+There are 
+different ways
+ to pay for Pipedrive including major credit cards, debit cards and PayPal. Your payment options depend on the country you live in.
+How can I contact customer support?
+ 
+Our friendly support team is ready to help out. 
+Here’s how to get in touch.
+What are the prices associated with CRM?
+ 
+As well as the cost of the customer relationship management software itself, which differs based on pricing tier, some providers also charge users for implementation, setup, training, data migration, support and more. You may also be able to purchase credits to get access to more features or more access to the features already on your plan. Try to find a CRM that’s transparent about its pricing. Pipedrive has no hidden costs, making it an excellent choice for anyone with a fixed budget.
+What does it cost to implement a CRM?
+ 
+The cost of implementing a CRM varies based on factors such as business size, software choice, user count, customization and integration needs. On-premises setups usually have higher upfront costs. Some CRM providers charge users for implementation. If you choose Pipedrive, implementation is free when you sign up for a pricing plan that’s over $400 a year. Costs differ widely, so a thorough evaluation is essential for an accurate estimate.
+Join the sales experts
+Try it free
+Free 14-day trial. Full access. No credit card required.
+Skip footer navigation links
+Product
+Features
+Pipedrive AI
+Pricing
+Integrations
+API
+MCP
+Product updates
+Discover
+Partner program
+Referral program
+Case studies
+Sales pipeline course
+What is CRM?
+Resources
+Sales calculator
+Help Center
+Knowledge Base
+Academy
+FAQs
+Status
+ 
+Support
+(Available now)
+Company
+About
+Jobs
+Blog
+Newsroom
+Get our newsletter
+Trust center
+Legal hub
+Sub-processors
+ 
+English
+ 
+English
+Čeština
+Deutsch
+Eesti
+Español
+Français
+Magyar
+Bahasa Indonesia
+Italiano
+Japanese (日本語)
+Korean (한국어)
+Latviešu valoda
+Nederlands
+Norsk
+Polski
+Português (BR)
+Română
+Русский
+Suomi
+Svenska
+ภาษาไทย
+Türkçe
+Українська
+Chinese (繁體中文)
+ 
+ 
+ 
+ 
+© 
+2026
+ Pipedrive
+Pipedrive 
+Terms of Service
+Pipedrive 
+Privacy Notice
+Site map
+Cookie Notice
+Pipedrive is a Web-based Sales CRM.
