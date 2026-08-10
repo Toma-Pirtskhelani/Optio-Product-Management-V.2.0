@@ -41,6 +41,20 @@ repeated. It does not get to happen here.
 - **Category counts are not comparable across taxonomies.** The category cluster is the unit
   of analysis.
 
+## Rank everything, cut nothing
+
+Per `CLAUDE.md` §2.1, outputs in this phase **include every enumerated category and exclude
+none.** Ranking is by measures the sources actually publish, **within a source only**.
+
+- **No output filters, shortlists, or highlights.** No "top N", no "most promising", no
+  emphasis that functions as a shortlist.
+- **No recommendations.** Which categories are interesting depends on deal size and cost to
+  serve — client facts, withheld by design. That selection is the user's, made unblinded,
+  later.
+- **Beside every ranked table**, state plainly that counts are not comparable across
+  categories with different bar heights, nor across sources with different construction rules.
+- **Done = every category in the relevant branches enumerated**, never *enough found*.
+
 ## Blinding
 
 Every output is written blind. No finding is shaped by, ordered by, or filtered for relevance

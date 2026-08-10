@@ -76,6 +76,32 @@ customers, say so immediately and stop using that file. It does not belong here.
 **Unblinding** happens only on the user's explicit instruction, after the research passes
 are complete and committed. Not before, not partially, not "just to sanity-check."
 
+### 2.1 Materiality — rank everything, cut nothing
+
+**"Is this category thick enough to matter" has no evidence-only answer.** Thick relative to
+what deal size, what cost to serve, what existing capability? Those are client facts, withheld
+by design. Applying a materiality threshold while blind means substituting an implicit one —
+and the failure mode is that it gets substituted *without being noticed*, which reproduces
+prohibition 1 in a subtler form: a filtered list mistaken for the universe.
+
+**So no threshold is applied. This phase performs no cutting whatsoever.**
+
+- **Enumerate every category** in scope-relevant branches. Every one.
+- **Rank** by the measures the sources actually publish — not by inferred importance.
+- **Rank within a source only.** Never across sources. Never across categories with different
+  bar heights.
+- **Hand over the complete ordered map.** Include everything. Cut nothing. **Recommend
+  nothing.**
+
+**Selection happens later, by the user, unblinded**, when deal size and cost to serve are
+knowable. Recommending which categories are interesting is not this study's job and cannot be
+done from this study's information.
+
+**This also defines DONE.** Done is **every category in the relevant branches enumerated** —
+never *enough found*. "Enough" is a materiality judgment wearing a schedule's clothing. A pass
+that stops early because the remaining categories looked unpromising has applied the exact
+threshold this section forbids.
+
 ---
 
 ## 3. The six prohibitions
