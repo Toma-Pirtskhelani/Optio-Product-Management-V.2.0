@@ -1,0 +1,727 @@
+===== homepage :: https://ometria.com/
+--- SIGNALS ---
+title: Ometria | Home
+meta_description: The customer data and experience platform for retail
+og_description: The customer data and experience platform for retail
+og_site_name: 
+h1: The customer data & experienceplatform for retail
+h2: Meet Architect: the agentic AI at the core of Ometria | Precision-built for retailmarketing teams
+jsonld_org: []
+--- TEXT ---
+Ometria | Home
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ometria
+Platform
+Why Ometria?
+Architect AI
+Customers
+Company
+Partners
+Blog
+Book a demo
+The customer 
+data & experience
+platform for retail
+Explore the platform
+ 
+Create unforgettable customer experiences on every channel, powered by AI. Meet Ometria: the CDXP tailor-made for retail brands.
+Explore the platform
+ 
+Powering 
+best-in-class brands
+Architect AI
+Meet Architect: the agentic AI at the core of Ometria
+Architect AI™ powers a suite of specialist agents, unlocking a new era of personalization.
+Learn more
+ 
+Play video
+Precision-built for retail
+marketing teams
+Ometria combines a specialist retail customer data platform with cross-channel experience orchestration and delivery, for teams to move fast and grow revenue faster.
+Explore the Platform
+ 
+Customer Data Platform
+Ecomm Platform
+ 
+Data Warehouse / ERP
+ 
+Website
+ 
+Mobile App
+ 
+POS
+ 
+Loyalty
+ 
+Customer Support
+ 
+Campaign Data
+ 
+Ecomm Platform
+Data Warehouse / ERP
+Website
+Mobile App
+POS
+Loyalty
+Customer Support
+Campaign Data
+Ometria Data Ingestion Engine
+Data Consolidation
+Customer Profiles
+Identity Resolution
+Consent Management
+Data Insight
+Advanced Segmentation
+Customer Insight & Analytics
+Predictive Insight
+Marketing Reporting
+Customer experience platform
+Experience Orchestration
+Real-time customer audiences
+Broadcast builder
+Personalization & dynamic content
+Smart templates & content creation
+Cross-channel journey builder
+Experience Delivery
+Email
+SMS
+Ads & Retargeting
+Mobile Push
+Website
+Direct Mail
+In store & Customer service
+Customer Loyalty
+Architect AI
+Steve Madden x Ometria
+"On day zero we were able to unlock insights that our business has never had before”
+– Hannah Sinclair
+Director of DTC Retention Marketing & CRM
+27
+%
+increase in
+repeat rate
+15
+%
+increase in customer
+win-back
+33
+%
+increase in lead conversion
+Play video
+Individually personalized experiences on every channel
+From email to SMS, on-site to in-store, social audiences to app push and beyond – Ometria powers experiences that customers love across every touchpoint.
+Explore the Platform
+ 
+The customer experience 
+engine powering industry-leading retail brands
+18
+%
+Repurchase rate 
+increase
+430
+%
+ROI
+$3.5
+M
+Net present 
+value
+25
+%
+Team 
+efficiency
+ 
+gained
+Aggregate figures taken from Total Economic Impact
+(TEI) report by Forrester 
+Case studies
+Find out why retail brands love us
+ 
+Marni Dasanjh
+Head of Social Commerce, Fred Perry
+"The insight we gained from Ometria really is gold dust to us. The commercial results we’re seeing are really pleasing to see, and show that we are on the right track.”
+18%
+increase in 12-month customer repeat rate
+View full case study
+ 
+Brooke Camarda
+Head of Ecommerce Analytics
+"As soon as we got the keys to the platform, we were just able to immediately manage, execute and sync audiences across our email, SMS, push and even social campaigns."
+27%
+Repeat Rate
+View full case study
+ 
+Nicola Young
+Head of CRM
+"Ometria's predictive segmentation tool has allowed us to enhance segmentation based on a complex algorithm, and these results are very exciting to see!"
+10.8%
+uplift in AOV from email channel
+View full case study
+ 
+Amy Harman
+Head of CRM, Loyalty & Subscriptions, Hotel Chocolat
+"Ometria are very much part of the CRM team. We work with them on our strategies, we work with them on new ideas and opportunities, and frankly, without them we wouldn’t be able to deliver what we do."
+56%
+growth in email contribution to online revenue year over year
+View full case study
+ 
+Laura Hickey
+Senior CRM Manager, Interflora
+"Using Ometria has had a significant impact on our ability to send relevant marketing messages to our customers and allowed us to make the business case for further investment in the CRM strategy.”
+4x
+increase in revenue from automated campaigns
+View full case study
+ 
+Marni Dasanjh
+Head of Social Commerce, Fred Perry
+"The insight we gained from Ometria really is gold dust to us. The commercial results we’re seeing are really pleasing to see, and show that we are on the right track.”
+18%
+increase in 12-month customer repeat rate
+View full case study
+ 
+Brooke Camarda
+Head of Ecommerce Analytics
+"As soon as we got the keys to the platform, we were just able to immediately manage, execute and sync audiences across our email, SMS, push and even social campaigns."
+27%
+Repeat Rate
+View full case study
+ 
+Nicola Young
+Head of CRM
+"Ometria's predictive segmentation tool has allowed us to enhance segmentation based on a complex algorithm, and these results are very exciting to see!"
+10.8%
+uplift in AOV from email channel
+View full case study
+ 
+Amy Harman
+Head of CRM, Loyalty & Subscriptions, Hotel Chocolat
+"Ometria are very much part of the CRM team. We work with them on our strategies, we work with them on new ideas and opportunities, and frankly, without them we wouldn’t be able to deliver what we do."
+56%
+growth in email contribution to online revenue year over year
+View full case study
+ 
+Laura Hickey
+Senior CRM Manager, Interflora
+"Using Ometria has had a significant impact on our ability to send relevant marketing messages to our customers and allowed us to make the business case for further investment in the CRM strategy.”
+4x
+increase in revenue from automated campaigns
+View full case study
+ 
+Marni Dasanjh
+Head of Social Commerce, Fred Perry
+"The insight we gained from Ometria really is gold dust to us. The commercial results we’re seeing are really pleasing to see, and show that we are on the right track.”
+18%
+increase in 12-month customer repeat rate
+View full case study
+ 
+Brooke Camarda
+Head of Ecommerce Analytics
+"As soon as we got the keys to the platform, we were just able to immediately manage, execute and sync audiences across our email, SMS, push and even social campaigns."
+27%
+Repeat Rate
+View full case study
+ 
+Nicola Young
+Head of CRM
+"Ometria's predictive segmentation tool has allowed us to enhance segmentation based on a complex algorithm, and these results are very exciting to see!"
+10.8%
+uplift in AOV from email channel
+View full case study
+ 
+Amy Harman
+Head of CRM, Loyalty & Subscriptions, Hotel Chocolat
+"Ometria are very much part of the CRM team. We work with them on our strategies, we work with them on new ideas and opportunities, and frankly, without them we wouldn’t be able to deliver what we do."
+56%
+growth in email contribution to online revenue year over year
+View full case study
+ 
+Laura Hickey
+Senior CRM Manager, Interflora
+"Using Ometria has had a significant impact on our ability to send relevant marketing messages to our customers and allowed us to make the business case for further investment in the CRM strategy.”
+4x
+increase in revenue from automated campaigns
+View full case study
+ 
+Marni Dasanjh
+Head of Social Commerce, Fred Perry
+"The insight we gained from Ometria really is gold dust to us. The commercial results we’re seeing are really pleasing to see, and show that we are on the right track.”
+18%
+increase in 12-month customer repeat rate
+View full case study
+ 
+Brooke Camarda
+Head of Ecommerce Analytics
+"As soon as we got the keys to the platform, we were just able to immediately manage, execute and sync audiences across our email, SMS, push and even social campaigns."
+27%
+Repeat Rate
+View full case study
+ 
+Nicola Young
+Head of CRM
+"Ometria's predictive segmentation tool has allowed us to enhance segmentation based on a complex algorithm, and these results are very exciting to see!"
+10.8%
+uplift in AOV from email channel
+View full case study
+ 
+Amy Harman
+Head of CRM, Loyalty & Subscriptions, Hotel Chocolat
+"Ometria are very much part of the CRM team. We work with them on our strategies, we work with them on new ideas and opportunities, and frankly, without them we wouldn’t be able to deliver what we do."
+56%
+growth in email contribution to online revenue year over year
+View full case study
+ 
+Laura Hickey
+Senior CRM Manager, Interflora
+"Using Ometria has had a significant impact on our ability to send relevant marketing messages to our customers and allowed us to make the business case for further investment in the CRM strategy.”
+4x
+increase in revenue from automated campaigns
+View full case study
+ 
+The industry-leading customer data and experience platform
+Ometria is recognized as a leader in retail technology
+G2 high performer 
+spring 2024
+G2 easiest to do business with spring 
+2024
+G2 high performer 
+Europe spring 2024
+“We are so happy to be working with Ometria. We needed a future-proof solution that would allow us to innovate and could keep up with our scaling business.”
+Courtney Conway
+Director of Retention
+Speak to our expert team about your customer experience growth journey
+Join industry leaders in choosing Ometria to 
+power your customer marketing.
+Book a demo
+ 
+Sign up for product updates, thought leadership and expert resources
+Platform
+Product & Solution
+Why Ometria?
+Architect AI
+Use Cases
+Data Ingestion
+Data Consolidation
+Data Insight
+Experience Orchestration
+Retail AI
+Security
+Enterprise scalability
+Partners
+Channels
+Email
+SMS
+Ads & retargeting
+Mobile push
+Website
+Direct mail
+In store & customer service
+Customer loyalty
+Company
+About Ometria
+Careers
+Advisory board
+Customers
+Blog
+Privacy & Legal
+Security
+Privacy Policy
+Cookie Settings
+Terms of Use
+Acceptable Use Policy
+Report Abuse
+2026
+ © Ometria Ltd. All Rights Reserved
+
+===== product :: https://ometria.com/solution
+--- SIGNALS ---
+title: Ometria | Solution
+meta_description: The customer data and experience platform for retail
+og_description: The customer data and experience platform for retail
+og_site_name: 
+h1: The customer data and experience platform for retail
+h2: 
+jsonld_org: []
+--- TEXT ---
+Ometria | Solution
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ometria
+Platform
+Why Ometria?
+Architect AI
+Customers
+Company
+Partners
+Blog
+Book a demo
+The customer 
+data and experience platform for retail
+Ometria is the only CDXP built exclusively for retail. Our specialist platform combines the data consolidation and insight of a customer data platform with comprehensive cross-channel experience delivery.
+Explore platform capabilities
+Full CDXP capabilities
+Single customer view
+Segmentation and insight
+Cross-channel orchestration
+Marketing personalization
+AI
+Full CDXP capabilities
+Full CDXP capabilities
+Single customer view
+Segmentation and insight
+Cross-channel orchestration
+Marketing personalization
+AI
+Customer Data Platform
+Ecomm Platform
+ 
+Data Warehouse / ERP
+ 
+Website
+ 
+Mobile App
+ 
+POS
+ 
+Loyalty
+ 
+Customer Support
+ 
+Campaign Data
+ 
+Ecomm Platform
+Data Warehouse / ERP
+Website
+Mobile App
+POS
+Loyalty
+Customer Support
+Campaign Data
+Ometria Data Ingestion Engine
+Data Consolidation
+Customer Profiles
+Identity Resolution
+Consent Management
+Data Insight
+Advanced Segmentation
+Customer Insight & Analytics
+Predictive Insight
+Marketing Reporting
+Customer experience platform
+Experience Orchestration
+Real-time customer audiences
+Broadcast builder
+Personalization & dynamic content
+Smart templates & content creation
+Cross-channel journey builder
+Experience Delivery
+Email
+SMS
+Ads & Retargeting
+Mobile Push
+Website
+Direct Mail
+In store & Customer service
+Customer Loyalty
+Architect AI
+Why a CDXP?
+Real-time data for marketing teams
+Immediately accessible customer data for insight, segmentation and personalization.
+Adaptable to your existing tech stack
+Seamlessly integrate with your current marketing technology and data sources.
+All channels managed from one place
+Orchestrate the end-to-end customer journey in one single interface.
+Underpinned by retail-trained AI
+Supported by a single, consistent source of predictive insight, trained on retail data.
+Explore channels 
+and customer touchpoints
+Email
+ 
+SMS
+ 
+Mobile push
+ 
+Direct mail
+ 
+In-store & customer service
+ 
+Ads & retargeting
+ 
+Website personalization
+ 
+Loyalty
+ 
+01
+Security
+Learn more about Ometria’s enterprise-level security culture and practises
+Learn more about Ometria’s enterprise-level security culture and practises
+02
+Enterprise scaleability
+Learn more about the scalability, reliability and interoperability of the Ometria platform.
+Learn more about the scalability, reliability and interoperability of the Ometria platform.
+Ometria Architect
+Discover your next big growth opportunity
+Explore Architect – an AI-powered strategic insights product for retail marketing leaders.
+Find out more about Architect
+ 
+“It was really important for us to find not just a platform but a partner that emulated our culture, enabling us to get our campaigns to market with speed and efficiency, while also remaining true to our brand. We can’t wait to move with agility in the coming months while working with true retail experts.”
+Abbie Battershill
+Digital Marketing Manager
+Speak to our expert team about your customer experience growth journey
+Join industry leaders in choosing Ometria to power your customer marketing.
+Book a demo
+ 
+Sign up for product updates, thought leadership and expert resources
+Platform
+Product & Solution
+Why Ometria?
+Architect AI
+Use Cases
+Data Ingestion
+Data Consolidation
+Data Insight
+Experience Orchestration
+Retail AI
+Security
+Enterprise scalability
+Partners
+Channels
+Email
+SMS
+Ads & retargeting
+Mobile push
+Website
+Direct mail
+In store & customer service
+Customer loyalty
+Company
+About Ometria
+Careers
+Advisory board
+Customers
+Blog
+Privacy & Legal
+Security
+Privacy Policy
+Cookie Settings
+Terms of Use
+Acceptable Use Policy
+Report Abuse
+2026
+ © Ometria Ltd. All Rights Reserved
+
+===== pricing_or_trust :: https://ometria.com/use-cases/security
+--- SIGNALS ---
+title: Ometria | Security
+meta_description: The customer data and experience platform for retail
+og_description: The customer data and experience platform for retail
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+Ometria | Security
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ometria
+Platform
+Why Ometria?
+Architect AI
+Customers
+Company
+Partners
+Blog
+Book a demo
+Security 
+at Ometria
+At Ometria, we're serious about the trust our clients have in us to protect their data, and are committed to upholding the highest standards of data protection and security.
+Our security culture
+"Respecting the trust we've been given" is one of Ometria's core values, and we embed data security and compliance as an integral part of our everyday practices and processes.
+Our leadership is committed to security, promoting security initiatives as a core organisational value. Employees are continuously educated on the latest threats and best practices, fostering an environment where security is seamlessly integrated into daily operations and personal responsibility is emphasised.
+Team-wide training
+Comprehensive training for each team member, with access based on principle of least privilege.
+Gold standard 
+security policies
+Robust technical and operational security practices in line with global standards.
+Dedicated in-house security expertise; backed up by third party experts
+In-house legal and technical specialists supported by world-class external lawyers and privacy professionals.
+Security credentials
+Ometria's systematic approach to managing customer data, risk management, cyber-resilience and operational excellence, ensures customer data remains secure. By incorporating CSA's cloud-specific security controls and leveraging IAPP’s privacy management expertise, Ometria not only meets, but exceeds the requirements set by ISO 27001.
+Information Security Management ISO
+27001 & 27701
+Cloud Security 
+Alliance (CSA)
+International Association of Privacy 
+Professionals (IAPP)
+Technical & Organisational
+Security Measures
+Ensuring the highest standards of security practices is a central pillar of our commitment to protecting clients' data.
+Global data privacy
+We're committed to supporting our clients to operate in line with global data privacy standards to offer their customers compliant experiences.
+01
+UK & Europe
+Enabling clients to operate in a way that satisfies GDPR and other European security standards.
+Enabling clients to operate in a way that satisfies GDPR and other European security standards.
+02
+US & Canada
+Enabling clients to operate in a way that
+satisfies North American security standards, including CCPA and more.
+Enabling clients to operate in a way that
+satisfies North American security standards, including CCPA and more.
+Sign up for product updates, thought leadership and expert resources
+Platform
+Product & Solution
+Why Ometria?
+Architect AI
+Use Cases
+Data Ingestion
+Data Consolidation
+Data Insight
+Experience Orchestration
+Retail AI
+Security
+Enterprise scalability
+Partners
+Channels
+Email
+SMS
+Ads & retargeting
+Mobile push
+Website
+Direct mail
+In store & customer service
+Customer loyalty
+Company
+About Ometria
+Careers
+Advisory board
+Customers
+Blog
+Privacy & Legal
+Security
+Privacy Policy
+Cookie Settings
+Terms of Use
+Acceptable Use Policy
+Report Abuse
+2026
+ © Ometria Ltd. All Rights Reserved

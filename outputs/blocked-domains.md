@@ -3,7 +3,7 @@
 Companies this pass could not reach at Rungs 1–2. **No paste was requested during the pass**
 and **no user-agent was spoofed** to get past a refusal.
 
-**30 of 170 attempted (18%).**
+**33 of 190 attempted (17%).**
 
 | Company | Cause | Best HTTP | Candidates tried |
 |---|---|---|---|
@@ -12,6 +12,8 @@ and **no user-agent was spoofed** to get past a refusal.
 | Amazing Mail | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | amazingmail.com, amazingmail.io, www.amazingmail.io, amazingmail.ai, www.amazing |
 | AT Internet | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | atinternet.com, atinternet.io, www.atinternet.io, atinternet.ai, www.atinternet. |
 | Beaconsmind | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | beaconsmind.com, beaconsmind.io, www.beaconsmind.io, beaconsmind.ai, www.beacons |
+| BrandOps | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | brandops.com, www.brandops.com, brandops.io, www.brandops.io, brandops.ai, brand |
+| BSI Software | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | bsisoftware.com, www.bsisoftware.com, bsisoftware.io, www.bsisoftware.io, bsisof |
 | Capillary Technologies | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | capillarytechnologies.com, capillarytechnologies.io, www.capillarytechnologies.i |
 | Cisco Systems | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | ciscosystems.com, www.ciscosystems.com, ciscosystems.io, www.ciscosystems.io, ci |
 | ClickDimensions | blocked (403/401/429) | 403 | clickdimensions.com, www.clickdimensions.com, clickdimensions.io, www.clickdimen |
@@ -31,6 +33,7 @@ and **no user-agent was spoofed** to get past a refusal.
 | Reachdesk | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | reachdesk.com, reachdesk.io, www.reachdesk.io, reachdesk.ai, www.reachdesk.ai, r |
 | SAP | blocked (403/401/429) | 403 | sap.com, www.sap.com, sap.io, www.sap.io, sap.ai, www.sap.ai, sap.co, www.sap.co |
 | SAS | blocked (403/401/429) | 403 | sas.com, sas.io, sas.ai, www.sas.ai, sas.co, www.sas.co |
+| Spectrm | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | spectrm.com, www.spectrm.com, spectrm.io, spectrm.ai, www.spectrm.ai, spectrm.co |
 | Striker Soft Solutions | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | strikersoftsolutions.com, www.strikersoftsolutions.com, strikersoftsolutions.io, |
 | Swrve | blocked (403/401/429) | 403 | swrve.com, www.swrve.com, swrve.io, www.swrve.io, swrve.ai, www.swrve.ai, swrve. |
 | Webmaxy | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | webmaxy.com, webmaxy.io, www.webmaxy.io, webmaxy.ai, www.webmaxy.ai, webmaxy.co |
@@ -40,8 +43,8 @@ and **no user-agent was spoofed** to get past a refusal.
 
 ## Cause breakdown
 
+- **served a page that did not identify the company (parked, for-sale, or a different owner)** — 17
 - **blocked (403/401/429)** — 14
-- **served a page that did not identify the company (parked, for-sale, or a different owner)** — 14
 - **HTTP 301** — 1
 - **HTTP 503** — 1
 

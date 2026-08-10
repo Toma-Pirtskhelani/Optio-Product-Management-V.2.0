@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **140 of 237**. Regenerated 2026-08-11.
+Enriched so far: **157 of 237**. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -96,11 +96,11 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Webmecanik | — | — | — | — | — | — | 2 | G | D | 2 |
 | ZEPIC | — | — | — | — | 5 | 12 | 2 | G | D | 4 |
 | adnymics | — | — | — | — | — | — | 1 | G | D | 2 |
-| AEvent | — | — | — | — | — | — | 1 | G | N | 0 |
+| AEvent | — | — | — | — | — | — | 1 | G | D | 4 |
 | AfterShip | — | — | — | — | — | — | 1 | G | U | 0 |
 | Agillic | — | — | — | on-premise | 1 | — | 1 | G | D | 4 |
-| Aislelabs | — | — | — | — | — | — | 1 | G | N | 0 |
-| Alterian | — | — | — | — | — | — | 1 | G | N | 0 |
+| Aislelabs | — | — | — | — | 2 | 12 | 1 | G | D | 4 |
+| Alterian | — | — | — | — | — | — | 1 | G | D | 4 |
 | Amazing Mail | — | — | — | — | — | — | 1 | G | U | 0 |
 | Amazon Web Services | — | — | — | — | — | 6 | 1 | G | D | 3 |
 | Appier | — | — | — | — | 1 | 12 | 1 | G | D | 3 |
@@ -112,16 +112,16 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Beaconsmind | — | — | — | — | — | — | 1 | G | U | 0 |
 | Benchmark Email | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Birdeye | — | — | — | — | — | — | 1 | 2 | D | 2 |
-| BiteSpeed | — | — | — | — | — | — | 1 | G | N | 0 |
+| BiteSpeed | — | — | — | — | 4 | — | 1 | G | D | 2 |
 | Blueshift | — | — | — | private-cloud | 5 | 12 | 1 | G | D | 4 |
-| BrandOps | — | — | — | — | — | — | 1 | G | N | 0 |
-| Bridgeline Digital | — | — | — | — | — | — | 1 | G | N | 0 |
-| BSI Software | — | — | — | — | — | — | 1 | G | N | 0 |
+| BrandOps | — | — | — | — | — | — | 1 | G | U | 0 |
+| Bridgeline Digital | — | — | — | — | — | — | 1 | G | D | 3 |
+| BSI Software | — | — | — | — | — | — | 1 | G | U | 0 |
 | BUSINESSNEXT | — | — | — | — | — | — | 1 | G | D | 3 |
 | CAKE | — | — | — | — | 2 | — | 1 | G | D | 4 |
-| Campaigner | — | — | — | — | — | — | 1 | G | N | 0 |
+| Campaigner | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | CentraHub | — | — | — | — | 2 | — | 1 | G | D | 4 |
-| ChannelMix | — | — | — | — | — | — | 1 | G | N | 0 |
+| ChannelMix | — | — | — | — | — | — | 1 | G | D | 2 |
 | ClickDimensions | — | — | — | — | — | — | 1 | G | U | 0 |
 | Close | — | 2013 | — | — | — | — | 1 | 2 | D | 4 |
 | Creatio | — | — | — | — | — | 12 | 1 | G | D | 4 |
@@ -195,12 +195,12 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Mobivity | — | — | — | — | — | — | 1 | G | D | 2 |
 | NerdMonster Digital Retail | — | — | — | — | — | — | 1 | G | N | 0 |
 | OBASE | — | — | — | — | — | — | 1 | G | N | 0 |
-| Ometria | — | — | — | — | — | — | 1 | G | N | 0 |
+| Ometria | — | — | — | — | 5 | — | 1 | G | D | 4 |
 | ONLINECITY.IO | — | — | — | — | — | — | 1 | G | N | 0 |
 | Ortto | — | — | — | — | — | — | 1 | G | D | 2 |
 | PAR | — | — | — | — | — | — | 1 | G | U | 0 |
-| Perion | — | — | — | — | — | — | 1 | G | N | 0 |
-| Pitney Bowes | — | — | — | — | — | — | 1 | G | N | 0 |
+| Perion | — | — | — | — | — | — | 1 | G | D | 3 |
+| Pitney Bowes | — | — | — | — | 1 | 12 | 1 | G | D | 3 |
 | Piwik PRO | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | Podium | — | — | — | — | 1 | — | 1 | 2 | D | 3 |
 | Postal | — | — | — | — | 1 | — | 1 | G | D | 4 |
@@ -208,17 +208,17 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | PostcardMania | — | — | — | — | — | — | 1 | G | N | 0 |
 | PostGrid | — | — | — | — | — | — | 1 | G | U | 0 |
 | Precisely | — | — | legacy | — | 3 | 12 | 1 | G | D | 3 |
-| Printfection | — | — | — | — | — | — | 1 | G | N | 0 |
+| Printfection | — | — | — | — | — | — | 1 | G | D | 4 |
 | Pyze | — | — | — | private-cloud | — | 12 | 1 | G | D | 4 |
 | Qujam | — | — | — | — | — | — | 1 | G | N | 0 |
-| Radar | — | — | — | — | — | — | 1 | G | N | 0 |
+| Radar | USA | 2016 | — | — | — | 6 | 1 | G | D | 4 |
 | Reachdesk | — | — | — | — | — | — | 1 | G | U | 0 |
 | Redpoint | — | — | — | — | — | — | 1 | G | D | 3 |
 | Rejoiner | — | — | — | — | — | — | 1 | G | N | 0 |
 | Resulticks | — | — | — | — | — | — | 1 | G | D | 2 |
 | Reteno | — | — | — | — | — | — | 1 | G | N | 0 |
 | Rocket Now | CA | 2020 | — | — | — | — | 1 | G | D | 2 |
-| SALESmanago | — | — | — | — | — | — | 1 | G | N | 0 |
+| SALESmanago | PL | — | — | — | — | — | 1 | G | D | 4 |
 | SAS | — | — | legacy | — | — | — | 1 | G | U | 0 |
 | Sendoso | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | SendPulse | — | 2015 | — | — | 7 | — | 1 | G | D | 4 |
@@ -226,7 +226,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Sitecore | US | 2001 | — | — | 1 | — | 1 | G | D | 3 |
 | SlickText | — | 2012 | — | — | 4 | — | 1 | 2 | D | 4 |
 | Soprano | — | — | — | — | — | — | 1 | G | D | 2 |
-| Spectrm | — | — | — | — | — | — | 1 | G | N | 0 |
+| Spectrm | — | — | — | — | — | — | 1 | G | U | 0 |
 | SpiceSend | — | — | legacy | — | 1 | — | 1 | G | D | 3 |
 | Splio | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | Sprinklr | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -239,18 +239,18 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Textedly | — | — | — | — | 5 | 12 | 1 | 2 | D | 4 |
 | Thryv | US | 2013 | — | — | 2 | 12 | 1 | G | D | 4 |
 | Treasure AI | — | — | — | — | — | — | 1 | G | N | 0 |
-| Trendemon | — | — | — | — | — | — | 1 | G | N | 0 |
+| Trendemon | — | — | — | — | 3 | — | 1 | G | D | 4 |
 | Twilio | — | — | — | — | 5 | — | 1 | G | D | 4 |
 | Upaknee | — | — | — | — | — | — | 1 | G | N | 0 |
-| UTM.io | — | — | — | — | — | — | 1 | G | N | 0 |
+| UTM.io | — | — | — | — | — | — | 1 | G | D | 4 |
 | ValueFirst | — | — | — | — | — | — | 1 | G | D | 2 |
 | Veloxy IO | — | — | — | — | — | — | 1 | G | N | 0 |
 | VeryUtils | — | — | — | — | — | — | 1 | G | N | 0 |
 | Vibes | — | — | — | — | 4 | 12 | 1 | G | D | 4 |
-| Warmy | — | — | — | — | — | — | 1 | G | N | 0 |
+| Warmy | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Webflow | US | 2013 | — | — | — | — | 1 | 2 | D | 4 |
 | WILY | — | — | — | — | — | — | 1 | G | N | 0 |
-| Woosmap | — | — | — | — | — | — | 1 | G | N | 0 |
+| Woosmap | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | WorksBuddy | — | — | — | — | — | — | 1 | G | N | 0 |
 | xiQ | — | — | — | — | — | — | 1 | G | U | 0 |
 | Yotpo | — | — | — | — | 4 | — | 1 | G | D | 4 |

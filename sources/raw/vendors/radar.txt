@@ -1,0 +1,613 @@
+===== llms.txt :: https://radar.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+﻿# Radar
+
+
+> Radar provides location infrastructure and intelligence to the Fortune 500 and high growth startups. From fighting fraud and optimizing operations to engaging customers at scale, Radar has the location layer that makes everything work better. By using real-time location and device signals, Radar helps brands meet their customers where they are, and create frictionless experiences. The core infrastructure falls into two groups: Geofencing and Maps. The geofencing platform lets you create circle, polygon, and isochrone geofences, and trigger events when people enter, exit, or dwell in a defined area. The maps platform is composed of search, geocoding, and routing APIs, as well as customizable base maps. Radar's solutions (Protect, Optimize, and Engage) are built on top of the infrastructure. Innovative businesses across verticals, like bet365, Foot Locker, Abercrombie & Fitch, Pizza Hut, RBC, and hundreds more, trust Radar.
+
+
+## Products 
+
+
+- [Geofencing](https://radar.com/product/geofencing): SDK for detecting when users enter or leave defined locations, built for high accuracy and battery efficiency. With Radar, you can create unlimited circle, polygon, and isochrone geofences. The meter-level accuracy is what separates Radar from competitors. With the platform, businesses can power every location moment, from engaging customers and tracking trips to running operations and detecting fraud.
+
+
+- [Maps](https://radar.com/product/maps): Map tiles, styles, and APIs as an alternative to Google Maps and Mapbox. Radar Maps is trusted by hundreds of enterprises. Businesses looking for pinpoint accuracy at an affordable price tend to switch to Radar. With a suite of APIs and base maps that include classic, light, dark, and satellite styles, it has all the features you need to customize a user-friendly maps experience for your brand.
+
+
+## Industries 
+
+
+- [Retail](https://radar.com/industries/retail): Radar can power every moment in the customer journey, that's why retailers like DICK'S, Abercrombie & Fitch, and Victoria's Secret trust Radar. Whether you're sending location-based messages, detecting location spoofers for product releases, or creating in-store experiences, location is at the core of the customer experience. 
+
+
+- [Financial Services](https://radar.com/industries/financial-services): Radar is trusted by financial services to drive traffic to partner merchants, stop fraud like account takeover, reduce friction at signup with address autocomplete, and build base maps that help users find branches.
+
+
+- [Restaurants](https://radar.com/industries/restaurants): Restaurants that want to save on their maps bill, create engaging location-based experiences, and optimize their kitchen operations, switch to Radar. Dozens of enterprises like Inspire Brands, Pizza Hut, Panera, Dairy Queen, and more all use Radar to create better location-based experiences. This might mean a store locator that matches their brand, or sending location-based messages to drive incremental foot traffic and same-store sales.
+
+
+- [Gaming](https://radar.com/industries/gaming): From geo-compliance to fraud prevention, Radar is the platform of choice for gaming operators ensuring they stay compliant. With Radar, you can verify every user is where they need to be, stop bad actors in their tracks, and even use maps APIs to onboard users faster at signup. Many of the top 10 operators, like bet365, trust Radar to power compliant gameplay across every market they operate in.
+
+
+- [Travel](https://radar.com/industries/travel-and-hospitality): At the core of all travel experiences lies location. Whether a traveler is running to their gate for takeoff or checking into their hotel, location makes those experiences more frictionless and smoother. Leading airlines choose Radar to help customers find exactly where they need to go, reach them with relevant notifications, and provide customers with real-time location updates.
+
+
+- [Logistics](https://radar.com/industries/logistics): Real-time location intelligence makes logistics operations run smoother. Whether you're tracking your workforce or monitoring delivery ETAs, Radar gives logistics teams like ShiftSmart and Taskrabbit complete visibility across every route, every worker, and shipment. Typically, logistics businesses choose Radar for satellite maps to visualize routes, workforce management for tracking teams, fraud detection to stop bad actors, and route optimization.
+
+
+## Solutions
+
+
+- [Protect](https://radar.com/solutions/protect): Radar Protect is a fraud detection and geo-compliance product that gives fraud and compliance teams real-time location and device signals to verify where a user physically is, not just who they claim to be. It works at the SDK level on iOS and Android, combining GPS, Wi-Fi, IP, Bluetooth, and sensor data into a single signal that is much harder to fake than IP geolocation, which a VPN or proxy can defeat. Teams use it to catch location spoofing and VPN use, detect account takeovers through signals like impossible travel and multi-device jumping, stop bonus and promo abuse from the same physical location or device across different user IDs, confirm physical presence for geo-compliance before a wager or transaction, and flag cloned devices, device farms, and emulators through environment fingerprinting.
+
+
+- [Engage](https://radar.com/solutions/engage): Radar Engage is a location-based marketing and engagement product that gives marketing and product teams real-time location signals to reach a customer with the right message at the right moment. It collects location data through the standard Radar SDK, so there is nothing extra to install, then triggers push notifications or in-app messages when a user enters a geofence, visits a place, or reaches a high-intent location. Teams use it to send proximity-based offers while a customer is still deciding where to go, prompt loyalty redemptions and location-specific offers once someone is inside a store, and run competitor conquesting by detecting when a customer enters a rival location and reaching them with an offer. It can also build audience segments from real-world location history, including past visits, time spent at a place, and competitor visits. Engage works standalone or alongside an existing marketing stack like Braze, Airship, or Salesforce Marketing Cloud, firing location events those platforms use to trigger messages, and it can push events and segments into hundreds of marketing and analytics tools.
+
+
+- [Optimize](https://radar.com/solutions/optimize): Radar Optimize is a location product for operations teams that handles pickup, delivery, workforce management, and fleet tracking. It tracks trips, workers, and vehicles in real time with high accuracy and battery efficiency, then uses real-time ETAs and arrival signals to automate workflows like order prep and automated check-in. Teams use it to catch anomalies such as no-shows, long wait times, and delays, and act before those problems reach the customer. Radar lets users build custom geofences, reports, and rules, and push or pull data between Radar and their own systems. The platform runs at large scale, processing billions of API calls a day from hundreds of millions of devices, and ships developer-friendly SDKs, documentation, and prebuilt integrations so teams can integrate quickly.
+
+===== homepage :: https://radar.com/
+--- SIGNALS ---
+title: Radar | Location Infrastructure and Intelligence
+meta_description: Radar helps teams fight fraud, optimize operations, and engage customers, powered by the most accurate, real-time location and device signals.
+og_description: 
+og_site_name: Radar
+h1: Location infrastructure and intelligence
+h2: Purpose-built for every team and use case | Built on the world’s best location infrastructure | Why teams choose Radar | The proof is in the platform | Location is everything. Ready to put it to work?
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Radar", "url": "/", "description": "Radar helps teams fight fraud, optimize operations, and engage customers, powered by the most accurate, real-time location and device signals.", "logo": {"@type": "ImageObject", "url": "https://cdn.prod.website-files.com/6750910fb09989bf4799d719/678fd15ea9602bbb73d63c25_Radar.svg"}, "sameAs": ["https://www.linkedin.com/company/radarlabs/", "https://twitter.com/radarlabs", "https://www.facebook.com/radarlabs", "https://github.com/radarlabs"], "contactPoint": {"@type": "ContactPoint", "contactType": "Sales", "url": "/contact"}}, {"@context": "http://schema.org", "@type": "Organization", "name": "Radar", "legalName": "Radar Labs, Inc.", "url": "https://radar.com", "logo": "https://static.radar.com/images/logo.png", "foundingDate": "2016", "founders": [{"@type": "Person", "name": "Nick Patrick"}, {"@type": "Person", "name": "Coby Berman"}], "address": {"@type": "PostalAddress", "addressLocality": "Manhattan", "addressRegion": "NY", "postalCode": "10003", "addressCountry": "USA"}, "contactPoint": {"@type": "ContactPoint", "contactType": "sales", "url": "https://radar.com/contact"}, "sameAs": ["https://twitter.com/radarlabs", "https://www.facebook.com/radarlabs", "https://www.linkedin.com/company/radar-labs/", "https://github.com/radarlabs"]}]
+--- TEXT ---
+Radar | Location Infrastructure and Intelligence
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introducing Reveal: Detect risky web and mobile traffic. Learn more →
+ 
+Products
+ 
+Industries
+ 
+Customers
+Pricing
+Resources
+ 
+Get a demo
+Log in
+Get a demo
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+Protect
+Precise location verification and geo-compliance
+Optimize
+Arrival detection, live tracking, and job management
+Engage
+Location-based marketing and engagement
+Platform
+Maps
+Base maps, geocoding, autocomplete, and routing
+Geofencing
+Hyper-accurate location tracking and geofencing
+Reveal
+Detect risky web and mobile traffic
+Industries
+Financial services
+Retail
+Restaurants
+Gaming
+Travel and hospitality
+Logistics
+Resources
+Blog
+Documentation
+Security
+Integrations
+Events
+Location infrastructure and intelligence
+Radar is the all-in-one location platform built to help teams fight fraud, optimize operations, and engage customers at scale.
+ 
+ 
+Replace the form with this form
+ 
+ 
+ 
+ 
+ 
+ 
+solutions
+Purpose-built for every team and use case
+Protect
+Stop fraud, verify user location, and stay compliant, wherever you operate.
+Learn more
+Optimize
+Track pickups, deliveries, and field operations with complete real-time visibility.
+Learn more
+Engage
+Reach the right user at the right moment, wherever they are in the real world.
+Learn more
+Built on the world’s best location infrastructure
+From SDKs and APIs to enterprise-grade infrastructure, Radar powers location experiences for the most innovative companies across every industry.
+Geofencing
+Hyper-accurate location tracking and geofencing, built for the demands of enterprise teams.
+Learn more
+Maps
+Customizable maps, geocoding, search, and routing APIs at a fraction of the cost of your existing provider.
+Learn more
+Why teams choose Radar
+Read the customer story
+“When you look at the geofencing industry, they are the clear leader in the space, and they continue to keep their foot on the gas when it comes to innovation.”
+Matt Walker
+Director of Product and Design, Mobile Apps
+Read the customer story
+“We’re really happy we chose Radar as our geofencing provider at Sleeper. The integration with the rest of our tech stack was a breeze, well-documented and easy to follow.”
+Ken Wang
+Co-Founder
+The proof is in the platform
+The most accurate, real-time location data
+Radar’s SDKs and APIs collect location, device, and sensor data across GPS, Wi-Fi, IP, and more, giving you the most accurate, real-time signals in the market.
+Developer-friendly by design
+Modern SDKs and APIs built for fast integration. Connect to your existing stack, integrate with just a few lines of code, and ship in a single sprint.
+Enterprise-grade scale and support
+1 billion API calls per day and installed on hundreds of millions of devices. SOC 2 and GDPR compliant, backed by a team of location experts who support you at every step.
+Cost-effective, all-in-one
+Proprietary infrastructure and economies of scale make Radar more cost-effective than legacy solutions or building in-house, so you get more location for less.
+Location is everything. Ready to put it to work?
+Get a demo
+ 
+Solutions
+Protect
+Optimize
+Engage
+Industries
+Financial services
+Gaming
+Logistics
+Restaurants
+Retail
+Travel and hospitality
+Platform
+Geofencing
+Trips
+Places
+Fraud
+Maps
+Reveal
+Integrations
+Resources
+Documentation
+Blog
+Pricing
+FAQ
+Status
+Company
+About us
+Careers
+Customers
+Sitemap
+Trust
+Privacy policy
+Terms of service
+Manage preferences
+© 2026 Radar Labs, Inc.
+
+===== product :: https://radar.com/product/maps
+--- SIGNALS ---
+title: Full-Stack Maps Platform | Radar
+meta_description: Radar Maps is a full-stack maps platform with geocoding, search, routing, and base maps, built for the reliability and scale modern teams demand.
+og_description: 
+og_site_name: Radar
+h1: The location infrastructure behind the world’s best digital experiences
+h2: Full-stack location infrastructure | Every maps API your team needs | Built to handle the scale of the world’s most demanding apps | Trusted by the world’s leading teams | The proof is in the platform | Frequently asked questions | Start building with the best location infrastructure available
+jsonld_org: [{"@type": "Organization", "name": "Panera Bread"}, {"@context": "http://schema.org", "@type": "Organization", "name": "Radar", "legalName": "Radar Labs, Inc.", "url": "https://radar.com", "logo": "https://static.radar.com/images/logo.png", "foundingDate": "2016", "founders": [{"@type": "Person", "name": "Nick Patrick"}, {"@type": "Person", "name": "Coby Berman"}], "address": {"@type": "PostalAddress", "addressLocality": "Manhattan", "addressRegion": "NY", "postalCode": "10003", "addressCountry": "USA"}, "contactPoint": {"@type": "ContactPoint", "contactType": "sales", "url": "https://radar.com/contact"}, "sameAs": ["https://twitter.com/radarlabs", "https://www.facebook.com/radarlabs", "https://www.linkedin.com/company/radar-labs/", "https://github.com/radarlabs"]}]
+--- TEXT ---
+Full-Stack Maps Platform | Radar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introducing Reveal: Detect risky web and mobile traffic. Learn more →
+ 
+Products
+ 
+Industries
+ 
+Customers
+Pricing
+Resources
+ 
+Get a demo
+Log in
+Get a demo
+Log in
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+Protect
+Precise location verification and geo-compliance
+Optimize
+Arrival detection, live tracking, and job management
+Engage
+Location-based marketing and engagement
+Platform
+Maps
+Base maps, geocoding, autocomplete, and routing
+Geofencing
+Hyper-accurate location tracking and geofencing
+Reveal
+Detect risky web and mobile traffic
+Industries
+Financial services
+Retail
+Restaurants
+Gaming
+Travel and hospitality
+Logistics
+Resources
+Blog
+Documentation
+Security
+Integrations
+Events
+Maps
+The location infrastructure behind the world’s best digital experiences
+Radar Maps is a full-stack maps platform with geocoding, search, routing, and base maps, built for the reliability and scale modern teams demand.
+ 
+ 
+Replace the form with this form
+ 
+ 
+ 
+ 
+ 
+Full-stack location infrastructure
+Every maps API in one platform
+Geocoding, autocomplete, address validation, search, routing, and more in one place. No vendor stitching required.
+Global coverage out of the box
+Radar combines open and commercial datasets for maximum coverage across every country, for enterprise  use cases.
+Go live in a single sprint
+Open-source SDKs, flexible APIs, and developer-friendly documentation mean most teams are up and running in a single sprint.
+use cases
+Every maps API your team needs
+GEOCODING
+Turn addresses into coordinates. And back again.
+Forward geocoding, reverse geocoding, and IP geocoding APIs with global coverage and the right to store, reuse, and export results freely.
+Explore geocoding →
+ADDRESS AUTOCOMPLETE
+Help users find the right address on the first try
+Power checkout flows, onboarding forms, and store locators with fast, accurate address autocomplete that reduces drop-off and eliminates address entry errors at the source.
+Explore address autocomplete →
+ADDRESS VALIDATION
+Clean, standardized addresses before they enter your system
+Validate and standardize addresses at the point of entry, so every downstream system from CRM to fulfillment works with accurate, consistent data.
+Explore address validation →
+ROUTING
+Distance, directions, and route optimization at scale
+Calculate travel distances and times, optimize multi-stop routes, and generate turn-by-turn directions with routing APIs built for high-volume operational use cases.
+Explore routing →
+MAPS
+Beautiful, customizable maps your brand can own
+Deploy dynamic and static maps with classic, dark, light, and satellite themes, fully customizable to match your product or website.
+Explore maps →
+Built to handle the scale of the world’s most demanding apps
+1B+
+API requests per day
+300M+
+installed devices
+1,000+
+installed apps
+Trusted by the world’s leading teams
+Read the customer story
+”From creating meaningful location experiences for our guests to saving almost 60% in cost, Radar Maps is a game changer for the industry.”
+Sergio Pérez
+Senior Director of Omnichannel
+Read the customer story
+”We found that Radar provides the same accuracy as other products on the market at a fraction of the cost. Radar’s APIs are simple to use and easy to integrate, which saved us time and allowed us to dedicate resources to other projects.”
+Nick Lloyd
+CTO
+The proof is in the platform
+The most accurate, real-time location data
+Radar’s SDKs and APIs collect location, device, and sensor data across GPS, Wi-Fi, IP, and more, giving you the most accurate, real-time signals in the market.
+Developer-friendly by design
+Modern SDKs and APIs built for fast integration. Connect to your existing stack, integrate with just a few lines of code, and ship in a single sprint.
+Enterprise-grade scale and support
+1 billion API calls per day and installed on hundreds of millions of devices. SOC 2 and GDPR compliant, backed by a team of location experts who support you at every step.
+Cost-effective, all-in-one
+Proprietary infrastructure and economies of scale make Radar more cost-effective than legacy solutions or building in-house, so you get more location for less.
+Frequently asked questions
+What industries and use cases is Radar Maps Platform built for?
+Radar Maps Platform is built for product and engineering teams across verticals like retail, restaurants, logistics, financial services, travel, and gaming. Wherever location is part of the core user experience, Radar can be leveraged.
+Does Radar Maps Platform support geocoding and reverse geocoding?
+Yes. Radar Maps Platform includes forward geocoding, reverse geocoding, and IP geocoding APIs with global coverage.
+What map styles does Radar offer?
+Radar offers the following map styles:
+Classic
+: The default style with detailed street level info
+Light
+:
+ 
+Light monochrome, useful for highlighting your own data
+Dark
+:
+ 
+Dark monochrome, ideal for dark mode visualizations
+Satellite
+:
+ 
+Provides global, high-resolution imagery for use cases that need it
+Is Radar Maps Platform a good solution for enterprise apps?
+Yes. Radar processes over 1 billion API calls per day from hundreds of millions of devices, with 99.99%+ API uptime. The platform is purpose-built for enterprise scale, with SOC 2 compliance, enterprise-grade privacy and security controls, and dedicated support.
+‍
+Teams building from scratch or switching from a legacy vendor can migrate in a single sprint. Customers like DICK'S Sporting Goods, Inspire Brands, and bet365 run location-critical workloads on Radar at scale.
+Can I customize the map styling to match my brand?
+Yes. Radar includes Maps Studio, a built-in style editor that lets you customize the look and feel of your maps without writing code. You can adjust colors, fonts, and layer visibility, directly in the dashboard.
+ 
+ 
+Start building with the best location infrastructure available
+Get a demo
+ 
+Solutions
+Protect
+Optimize
+Engage
+Industries
+Financial services
+Gaming
+Logistics
+Restaurants
+Retail
+Travel and hospitality
+Platform
+Geofencing
+Trips
+Places
+Fraud
+Maps
+Reveal
+Integrations
+Resources
+Documentation
+Blog
+Pricing
+FAQ
+Status
+Company
+About us
+Careers
+Customers
+Sitemap
+Trust
+Privacy policy
+Terms of service
+Manage preferences
+© 2026 Radar Labs, Inc.
+
+===== pricing_or_trust :: https://radar.com/pricing
+--- SIGNALS ---
+title: Pricing | Radar
+meta_description: Radar is the only all-in-one location platform, with cost-effective pricing for any use case at any scale. See what Radar can do for your business.
+og_description: 
+og_site_name: Radar
+h1: Join leading enterprises using Radar
+h2: Fair, simple pricing | Volume discounts available | Your geolocation partner
+jsonld_org: [{"@type": "Organization", "@id": "https://radar.com/#organization", "name": "Radar", "description": "All-in-one location platform with cost-effective pricing for any use case at any scale", "url": "https://radar.com", "logo": {"@type": "ImageObject", "url": "https://cdn.prod.website-files.com/6750910fb09989bf4799d719/678fd15ea9602bbb73d63c25_Radar.svg"}, "sameAs": ["https://www.linkedin.com/company/radarlabs/", "https://twitter.com/radarlabs", "https://www.facebook.com/radarlabs", "https://github.com/radarlabs"]}, {"@context": "http://schema.org", "@type": "Organization", "name": "Radar", "legalName": "Radar Labs, Inc.", "url": "https://radar.com", "logo": "https://static.radar.com/images/logo.png", "foundingDate": "2016", "founders": [{"@type": "Person", "name": "Nick Patrick"}, {"@type": "Person", "name": "Coby Berman"}], "address": {"@type": "PostalAddress", "addressLocality": "Manhattan", "addressRegion": "NY", "postalCode": "10003", "addressCountry": "USA"}, "contactPoint": {"@type": "ContactPoint", "contactType": "sales", "url": "https://radar.com/contact"}, "sameAs": ["https://twitter.com/radarlabs", "https://www.facebook.com/radarlabs", "https://www.linkedin.com/company/radar-labs/", "https://github.com/radarlabs"]}]
+--- TEXT ---
+Pricing | Radar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+Industries
+Docs
+Pricing
+Company
+Platforms
+Geofencing
+Hyper-accurate location tracking and geofencing
+Maps
+Base maps, geocoding, autocomplete, and routing
+Solutions
+Engage
+Location-based marketing solution
+Protect
+Geo-compliance and anti-fraud solution
+Optimize
+Pickup, delivery, workforce, and fleet tracking
+Industries
+Retail
+Restaurants
+Logistics
+Gaming
+Travel
+Payments
+Customer stories
+Learn why product and digital leaders choose Radar
+Documentation
+SDK reference
+Integrations
+API reference
+Status
+Company
+Blog
+About
+Trust
+Jobs
+Partners
+Integration partners
+Solution partners
+Community
+GitHub
+Facebook
+Twitter
+LinkedIn
+Log in
+Get a demo
+Sign in
+Get a demo
+Platforms
+Geofencing
+Geocoding, search, routing, and base maps
+Maps
+Geocoding, search, routing, and base maps
+Solutions
+Engage
+Reach users with location based me messages and app experiences
+Protect
+Fight fraud and stay ahead with the latest compliance tools
+Optimize
+Hyper-accurate trip tracking and arrival detection
+Industries
+Retail
+Restaurants
+Payments
+Travel
+Logistics
+Gaming
+Customer stories
+Learn why product and digital leaders choose Radar
+Documentation
+SDK reference
+Integrations
+API reference
+Status
+Pricing
+Company
+Blog
+About
+Trust
+Jobs
+Partners
+Integration partners
+Solution partners
+Community
+GitHub
+Facebook
+Twitter
+LinkedIn
+Custom pricing
+Join leading enterprises using Radar
+Engage your customers, protect your business, and optimize your operations with geolocation.
+Simple, fair pricing for any use case at scale. Consolidate and save up to 50% by migrating from legacy geolocation and maps platforms.
+Get a quote
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fair, simple pricing
+Easy-to-understand pricing based on monthly API calls or monthly tracked users (MTU).
+Volume discounts available
+Rates go down as you scale, with discounts based on MTU and API call tiers and commitments.
+Your geolocation partner
+From setup to scale, we partner with you to optimize accuracy, opt-in, and everything in between.
+Resources
+Home
+Documentation
+Pricing
+Geofencing Platform
+Geofencing
+Trips
+Places
+Fraud
+Maps Platform
+Status
+FAQs
+Sitemap
+Terms
+Privacy
+Company
+About
+Trust
+Jobs
+Integrations
+Solution Partners
+Press kit
+Blog
+LinkedIn
+Twitter
+Facebook
+GitHub
+Industries
+Retail
+Restaurants
+Payments
+Travel
+Logistics
+Gaming
+Solutions
+Engage
+Protect
+Optimize
+Newsletter
+Get the latest Radar news and insights in your inbox
+Thank you for subscribing!
+Oops! Something went wrong while submitting the form.
+© 2026 Radar Labs, Inc.
