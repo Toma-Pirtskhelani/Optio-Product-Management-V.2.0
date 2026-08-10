@@ -87,7 +87,22 @@ coverage claim is made from it.
 
 ---
 
-## 2. G2 — inclusion criteria and declared counts, 9 category pages
+## 2. G2 — inclusion criteria and declared counts — ✅ **RE-PASTED AND VERIFIED 2026-08-10, now PRIMARY**
+
+**Status upgraded.** All 12 G2 pages were re-supplied and committed on arrival. Every declared
+count and every criteria block below was re-checked against the restored raw captures in
+`sources/raw/g2/` and **matches exactly**. This section is now `PRIMARY`; §1 (Gartner Marketing
+branch) is still `UNVERIFIED-EXTRACTION` and still needs its re-paste.
+
+A third parent category, **Conversion Rate Optimization Tools**, arrived in the re-paste and
+also shows no count and no criteria — the parent/leaf test now holds at n=3.
+
+**Newly measured on the restored pages:** a G2 category page renders roughly **25 of its
+declared listings** (SMS Marketing 27 of 531, Email Marketing 26 of 527, Marketing Automation
+24 of 511, Personalization 25 of 241). **Every G2 absence is therefore
+`ABSENT-IN-VISIBLE-PAGE`, never `ABSENT-ENUMERATED`** — the opposite of Gartner, which prints
+"Products 1–122 of 122" in a single page.
+
 
 G2 prints its admission test as *"To qualify for inclusion in the X category, a product must:"*
 and its count as *"N Listings in X Available"*.
