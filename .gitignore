@@ -1,0 +1,41 @@
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.\#*
+\#*\#
+
+# Scratch work — never part of the audit trail
+scratch/
+tmp/
+*.tmp
+*.bak
+
+# Secrets — nothing in this study needs a credential; if one appears, it is a mistake
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# Regenerable artifacts
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# NOT ignored, deliberately: sources/raw/** and logs/**
+# Pasted source content and the fetch/paste logs are the audit trail.
+# If you are about to add an ignore rule that covers them, you are wrong.
