@@ -20,7 +20,28 @@ Governed by `research-protocol.md` §1 and §9.
 | `obtained` | What content was actually obtained — or the reason for skipping |
 | `raw_file` | Path under `sources/raw/`, or `—` |
 | `escalated_to` | Rung escalated to, and why. `—` if none needed |
-| `language` | ISO code of the page's language (`en`, `ru`, `tr`, `zh`, `es`, `pt`, `ka`, …) |
+| `source_language` | ISO code of the page's language (`en`, `ru`, `tr`, `zh`, `es`, `pt`, `ka`, …). **Mandatory on every row, including failures** |
+
+## Measuring the language bias instead of suffering it
+
+Rung 3 makes the user the throughput limit of this study, and **blocking is not
+language-neutral**: non-English sources are more likely to block, to lack alternate paths, and
+to be expensive to request. The language obligation (`CLAUDE.md` §6) therefore fails hardest
+exactly where it matters most — and, unmeasured, it fails *looking like diligence*.
+
+That constraint cannot be removed. It can be made visible with a number attached.
+
+**`source_language` is recorded on every attempt, including every failure**, so the block rate
+can be computed per language. Every pass reports:
+
+> Attempts by language: `en` N (M blocked, X%) · `ru` N (M blocked, X%) · …
+
+**If non-English sources block at several times the English rate, that is a measured bias, not
+a silent one.** It is reported as a finding about the method, and any conclusion about
+non-Anglophone market coverage carries the block rate beside it.
+
+`skipped-by-judgment` rows count toward the denominator too. A source skipped because
+requesting it was expensive is still a source this study did not see.
 
 ## Rules
 
@@ -35,6 +56,6 @@ Governed by `research-protocol.md` §1 and §9.
 
 ## Log
 
-| date | url | source | rung | outcome | obtained | raw_file | escalated_to | language |
+| date | url | source | rung | outcome | obtained | raw_file | escalated_to | source_language |
 |---|---|---|---|---|---|---|---|---|
 | _(empty — no research has been conducted)_ | | | | | | | | |

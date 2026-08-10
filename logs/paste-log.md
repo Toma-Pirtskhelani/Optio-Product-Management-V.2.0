@@ -23,7 +23,7 @@ Append-only. Governed by `research-protocol.md` §2 and §3.
 | `pagination` | `none` / `page X of Y` / `unknown` |
 | `sort_order` | Sort the page displayed, if shown (`default`, `relevance`, `rating`, …) or `UNKNOWN` |
 | `filters_active` | Filters visible as applied, or `none` / `UNKNOWN` |
-| `language` | ISO code of the page's language |
+| `source_language` | ISO code of the page's language. **Mandatory** — feeds the block-rate-by-language measurement in `logs/fetch-log.md` |
 | `raw_file` | Path under `sources/raw/` holding the verbatim paste |
 | `notes` | Anything visibly truncated, ad-marked, "sponsored", or otherwise not what was asked for |
 
@@ -43,6 +43,6 @@ Append-only. Governed by `research-protocol.md` §2 and §3.
 
 ## Log
 
-| paste_id | date_received | url | source | requested_scope | visible_count | total_count | pagination | sort_order | filters_active | language | raw_file | notes |
+| paste_id | date_received | url | source | requested_scope | visible_count | total_count | pagination | sort_order | filters_active | source_language | raw_file | notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | _(empty — no research has been conducted)_ | | | | | | | | | | | | |
