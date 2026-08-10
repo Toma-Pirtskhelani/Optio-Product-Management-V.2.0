@@ -1,0 +1,1346 @@
+===== llms.txt :: https://ecosend.io/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# EcoSend
+EcoSend is a sustainable email marketing platform designed for purpose-driven organizations. It offers a range of powerful tools for creating impactful email campaigns while minimizing environmental impact. The platform focuses on features that promote ethical marketing practices, analytics, and a commitment to reducing carbon footprints through automatic tree planting for each email sent.
+## About Us
+The mission of EcoSend is to transform email marketing into a sustainable and positive channel for change. EcoSend operates on principles of responsibility, valuing every email's impact on time, energy, and attention.
+### Core Values
+- **Email isn’t free.** Every email carries a cost in time, energy, and attention.
+- **Act now, not tomorrow.** Swift action is essential for success.
+- **Simple over simple enough.** Advocating for simplicity to avoid chaos.
+- **Details make the product.** Small elements contribute significantly to the overall quality.
+- **Prioritize our customer's customer.** Meeting their needs is crucial for success.
+## Features
+EcoSend provides a wide array of features aimed at enhancing email marketing efforts:
+### 1. Lightning-fast Deliverability
+- 99.9% uptime guarantee
+- Real-time delivery monitoring
+- Advanced spam prevention
+### 2. Smart Segmentation
+- Behavioral segmentation
+- Engagement-based groups
+- Custom segment creation
+### 3. Carbon Offset Integration
+- Automatic carbon offsetting
+- Environmental impact dashboard
+- Verified offset projects
+### 4. Green Infrastructure
+- Powered by 100% renewable energy
+- Energy-efficient architecture
+### 5. Privacy-First Design
+- GDPR compliance tools
+- Data encryption and privacy policy templates
+### 6. Advanced Analytics
+- Comprehensive campaign performance metrics
+- Real-time reporting analytics
+### 7. Smart Automation
+- Intuitive workflow builder for email automation
+- Dynamic content capabilities
+### 8. Email Template Builder
+- Drag-and-drop email creation
+- Responsive templates
+## Pricing
+EcoSend offers competitive pricing plans to suit different organizational needs, starting with a free trial for new users.
+## Blog and Resources
+The platform provides access to a wealth of knowledge on digital marketing through podcasts, newsletters, and a comprehensive glossary.
+### Links
+- [Marketing Glossary](https://ecosend.io/glossary)
+- [Podcast](https://ecosend.io/podcast)
+- [Email Carbon Calculator](https://ecosend.io/carbon-calculator/)
+## Customer Stories
+EcoSend proudly collaborates with a diverse range of organizations, such as:
+- **B Lab Europe**: Adopted EcoSend for its alignment with sustainable practices.
+- **Better Business Network**: Migrated due to EcoSend's capabilities and support.
+## Sustainability Commitment
+EcoSend is dedicated to:
+- Operating with minimal carbon footprint through renewable energy sources.
+- Offsetting emissions by planting trees and supporting verified projects.
+- Educating users on the environmental impact of their email marketing activities.
+## Support
+The support center provides resources and guidance for users to maximize their experience with EcoSend.
+To get started with EcoSend, organizations can sign up for a [free trial](https://ecosend.io/plans) and join in on the mission to make email a force for good.
+
+===== homepage :: https://ecosend.io/
+--- SIGNALS ---
+title: Email marketing that restores nature – EcoSend
+meta_description: An independent, B Corp certified email platform. Grow your audience, send great emails, and support verified climate projects.
+og_description: An independent, B Corp certified email platform. Grow your audience, send great emails, and support verified climate projects.
+og_site_name: EcoSend
+h1: Not “green” email. This is better email.
+h2: Trusted by purpose-driven organisations around the world. | Your current email platform takes your money and… that's it. | Switching takes one afternoon | What happens when you switch? | Don't like it? | What we believe | Testimonials | Try it for a week. See if it fits. | Frequently asked questions | Ready to grow with purpose?
+jsonld_org: []
+--- TEXT ---
+Email marketing that restores nature – EcoSend
+ 
+ 
+EcoSend
+ 
+Start Free
+ 
+Features
+ 
+Resources
+ 
+Company
+ 
+Help
+ 
+Pricing
+Sign In
+Start Free
+EcoSend
+ 
+ 
+Features
+ 
+Resources
+ 
+Company
+ 
+Help
+ 
+Pricing
+Sign In
+Start Free
+ 
+Not 
+“green”
+ email. This is 
+better
+ email.
+An independent, B Corp certified email platform.
+Beautiful emails. Easy to use. Human support. And every campaign funds nature restoration.
+Start Free
+No credit card required. Cancel anytime.
+ 
+5,432
+Emails Sent
+144
+Trees Planted
+321kg
+CO2e Reduced
+ 
+Restoring nature, automatically
+Every campaign funds verified biodiversity and climate projects. No extra clicks. No extra cost.
+ 
+Independently owned. B Corp certified.
+We're not chasing an IPO. We answer to our customers and the planet.
+ 
+Emails that actually arrive
+Optimised for deliverability. Your messages land in inboxes, not spam folders.
+ 
+Real humans. Real help.
+Talk to our UK-based team. No bots. No scripts. No runaround.
+Trusted by purpose-driven organisations around the world.
+ 
+Your current email platform takes your money and… that's it.
+Most platforms do nothing beyond send emails. What if yours could do more?
+ 
+They do nothing for the planet
+Most platforms are owned by private equity or huge mega-corps. Their job is to extract value, not create it.
+ 
+They do nothing for you
+You're one of millions. Support means chatbots and help docs. Good luck getting someone on a call.
+ 
+They do nothing to improve
+Same clunky editor. Same deliverability problems. Same frustration you had last year.
+ 
+They do nothing different
+No mission. No values. Just software that sends emails and takes your hard-earned money.
+We think email marketing can be different. A platform that's independently owned, beautifully designed, and actively funding the restoration of nature.
+Start Free
+Switching takes one afternoon
+No complex setup. No interruptions.Just a better platform.
+Start Free
+Swallow
+Step 1
+We 
+migrate
+ your list
+We migrate everything 
+from Mailchimp
+ (and other tools) — your contacts, segments, custom fields, subscription preferences, and templates come with you.
+Complex setup? 
+Just ask
+ — we'll do it for you, free.
+Step 2
+You send 
+beautiful
+ emails
+Craft stunning emails with our 
+drag-and-drop email builder
+. Write calmly, send confidently, and get results.
+EcoSend automatically optimises your emails for deliverability, accessibility, and sustainability, so you can focus on your message.
+Middle Spotted Woodpecker
+Step 3
+We restore nature 
+together
+Every campaign you send funds verified biodiversity and climate projects automatically at no extra cost. And your subscribers can see the impact you're making together.
+What happens when you switch?
+Better emails. Better results. And you're actively restoring nature.
+ 
+Your emails land
+Optimised deliverability means more opens, more clicks, more impact.
+"Our open rates increased by 40% since switching. The impact messaging really resonates with our audience."
+- Andy Hawkins, Business on Purpose
+ 
+Your marketing gives back
+Every campaign you send contributes to verified biodiversity projects. It's automatic.
+"We appreciate the ability to trace where our EcoSend trees are planted, which gives us peace of mind."
+- Sergio Fuentealba, GrowBetter
+ 
+Your subscribers notice
+Share your impact. Your audience will love seeing the good you're doing together.
+"We love EcoSend's focus on sustainability. It sends the right brand value to our customers with every email they receive."
+- Monica VanBuskirk, Campster Kids
+Don't like it?
+We'll migrate you back. 
+For free.
+That's it. No fine print. We'll even help you go back to Mailchimp if that's what you want.
+ 
+ 
+What we believe
+These aren't marketing slogans. They're how we run our company.
+ 
+Independence matters
+We're not owned by a mega-corp or chasing an IPO. We build for the long term.
+"Our audience is built entirely of purpose-driven companies, who promote the ‘Business for Good'. So we're delighted to partner with a team who share that same vision."
+- James Dady, Better Business Network
+ 
+Support should be human
+Real people. UK-based. Available when you need them. Not a chatbot.
+"It's been refreshing to deal with real humans rather than automated support tickets, and to be able to get on calls with their team for any guidance and advice."
+- Rebecca Heaps, Tentshare
+ 
+Software can give back
+Every email you send funds biodiversity and climate projects. It's built into the product.
+"It's important to us that we are reducing our carbon footprint as a business, and EcoSend allows us to do that in a measureable and transparent way."
+- Michelle Miles, Sustainable Wedding Alliance
+Sound like the kind of company you'd like to work with?
+Start Free
+Testimonials
+Don't just take our word for it
+As an organisation founded on better business principles, it's important we're using a supplier who keeps people and planet in mind.
+Malin Lorge
+B-Lab Europe
+ 
+EcoSend not only aligns to our purpose driven values, but they also provide the best email marketing platform on the market. It's the perfect example of the mission and quality aligning.
+Chris Lewis
+Wholegrain Digital
+I love working with a company which reflects my brand values and voice. The team have been super-helpful, which made the migration from Mailchimp a total breeze.
+Molly Gould
+Effable
+What sold me on joining EcoSend is the great team of people behind it and their values. I know for a fact that whenever I have an issue, I’ll get support and answers in a timely manner.
+Yuval Ackerman
+Ethical Emails
+Migrating was incredibly straightforward. In my first week I uploaded my contacts, added my lead capture forms, set-up my email campaigns, and even sent out my first newsletter!
+Claudia Guerreiro
+Conscious Marketing Movement
+Try it for a week. See if it fits.
+No contracts. No salespeople. Just beautiful email marketing that gives back.
+ 
+Independent & B Corp
+A company built on values, not exit strategies.
+ 
+Beautifully simple
+The platform you'll actually enjoy using.
+ 
+Restoring nature
+Every send contributes to verified climate and biodiversity projects.
+Start Free
+Frequently asked questions
+What's different about EcoSend?
+ 
+How does the nature restoration work?
+ 
+Can I switch from Mailchimp?
+ 
+What about support?
+ 
+How do I get started?
+ 
+Ready to grow with purpose?
+Start sending smarter campaigns that build your brand and the planet.
+Designed for mission-led brands • Good for your growth and your impact • Risk-free to try
+Get Started Free
+No credit card required. Cancel anytime.
+Not ready to sign up yet?
+Join our free 
+weekly newsletter
+ for ideas and tips on sending better emails.
+Get the Weekly Newsletter
+ 
+Make email a force for good.
+LinkedIn
+ 
+Instagram
+ 
+YouTube
+ 
+Bluesky
+ 
+RSS Feed
+ 
+ 
+ 
+ 
+Features
+Overview
+Email Builder
+Latest Updates
+Platform
+Pricing
+Partners
+System Status
+Mailchimp Alternative
+Compare
+Resources
+Support
+Free Email Templates
+Customers
+Podcast
+Marketing Glossary
+Deliverability
+Security
+Sustainability
+Company
+About
+Blog
+Newsletter
+Contact
+Privacy
+Terms
+Handbook
+LLMs
+© 2026 EcoSend. All rights reserved.
+
+===== product :: https://ecosend.io/features
+--- SIGNALS ---
+title: Features – EcoSend
+meta_description: Discover the features and functionality of the EcoSend email marketing platform — incuding our form builder, email composer, segmentation, and more.
+og_description: Discover the features and functionality of the EcoSend email marketing platform — incuding our form builder, email composer, segmentation, and more.
+og_site_name: EcoSend
+h1: Powerful features for sustainable growth.
+h2: Trusted by purpose-driven organisations around the world. | A delightful email builder | Everything you need | What we've been shipping. | What we stand for | Testimonials | Ready to grow with purpose?
+jsonld_org: []
+--- TEXT ---
+Features – EcoSend
+ 
+ 
+EcoSend
+ 
+Start Free
+ 
+Features
+ 
+Resources
+ 
+Company
+ 
+Help
+ 
+Pricing
+Sign In
+Start Free
+EcoSend
+ 
+ 
+Features
+ 
+Resources
+ 
+Company
+ 
+Help
+ 
+Pricing
+Sign In
+Start Free
+Features
+Powerful features for sustainable growth.
+Powerful email marketing tools, sustainable practices, and a platform that's built to help you succeed.
+Get Started for Free
+No credit card required. Cancel anytime.
+Trusted by purpose-driven organisations around the world.
+ 
+Email Builder
+A delightful email builder
+A modern editing experience that's calm and focused. Craft stunning, attention-grabbing emails with ease — and let Review Mode catch spelling, accessibility, and compliance issues before you send.
+More about the email builder 
+ 
+Deliverability
+Our infrastructure is optimised for maximum email deliverability. We use advanced algorithms and real-time monitoring to ensure your emails reach inboxes reliably and quickly.
+ 
+Smart segmentation
+Create highly targeted campaigns with our advanced segmentation tools. Understand your audience better and deliver personalised emails that resonate.
+ 
+Automatic climate action
+Just by using EcoSend, you'll be making a positive climate impact. Every email campaign automatically contributes to verified climate action projects.
+ 
+Green infrastructure
+Our platform runs on renewable energy and is optimised for minimal environmental impact. We believe in sustainable growth that doesn't compromise on performance.
+ 
+Privacy-first
+Built with subscriber trust at the core. We help you maintain GDPR compliance and respect user privacy while driving engagement.
+ 
+Advanced analytics
+Get deep insights into your campaign performance with our comprehensive analytics dashboard. Make data-driven decisions to improve engagement.
+ 
+Smart automation
+Create sophisticated email workflows that nurture your subscribers and drive conversions. Set it and forget it with our powerful automation tools.
+Everything you need
+All the features you need to run successful email marketing campaigns.
+Core Features
+ 
+Email Capture Forms
+GDPR-compliant, accessible, responsive email capture forms to build your audience.
+ 
+Email Templates
+Beautiful, responsive email templates crafted by professional designers to get you started.
+ 
+Human Support
+Dedicated hands-on support from our UK-based expert team.
+ 
+List Management
+Advanced subscriber list management.
+ 
+Scheduled Sending
+Schedule emails to send at specific times.
+ 
+Custom Domains
+Use your own domain for sending emails.
+ 
+API Access
+Full API access for custom integrations.
+Composition
+ 
+Simple Email
+Beautifully minimal, optimised-for-mobile default email templates.
+ 
+Drag-and-Drop Email Builder
+Create beautiful, responsive emails with our drag-and-drop editor. No coding required, just drag, drop, and send.
+ 
+Automatic Image Optimisation
+Every image is automatically resized, reformatted, and compressed — so emails load faster, with zero extra work.
+ 
+Inline Image Editing
+Crop, rotate, flip, and style images right in the email builder — no separate tools or re-uploads.
+ 
+Review Mode
+Automatic checks for spelling, grammar, accessibility, and compliance issues — with one-click fixes before you send. No AI, all done privately on your device.
+ 
+Saved Blocks
+Save and reuse your favourite content for faster, more consistent email creation.
+ 
+Template Gallery
+Access our growing library of beautiful, accessible, and low-carbon free email templates.
+ 
+Real-time Variables
+Use real-time variables to personalise your emails and create dynamic content.
+ 
+Markdown Support
+Write your emails in Markdown to reliably and efficiently format your content.
+ 
+Custom HTML Email
+Create email templates with custom HTML and CSS.
+Growth
+ 
+Inline Forms
+Grow your audience with inline forms that convert visitors into subscribers.
+ 
+Pop-Up Forms
+Grow your audience with pop-up forms that display at the perfect moment.
+ 
+Hosted Forms
+Share your forms with a simple link. Build your audience on any platform without writing code.
+ 
+Manually Add Subscribers
+Add subscribers manually to any list via the dashboard.
+Automation
+ 
+Automated Workflows
+Create complex email automation sequences.
+ 
+Drip Campaigns
+Create drip campaigns to nurture your audience over time.
+ 
+Scheduled Campaigns
+Create scheduled campaigns to send at specific times.
+Analytics
+ 
+Advanced Analytics
+Detailed performance metrics so you can see how your campaigns are performing.
+ 
+Campaign Tracking
+Track email campaign performance.
+Sustainability
+ 
+Climate Conscious Email
+Send emails with minimal environmental impact.
+ 
+Climate Impact Tracking
+Monitor and report on the climate impact of using EcoSend with tree count and CO2e numbers.
+ 
+Automated Tree Planting
+Trees are automatically planted based on your plan to contribute to reforestation projects and help restore the planet.
+Compliance and Deliverability
+ 
+GDPR Compliant
+Built-in tools to help you maintain GDPR compliance.
+ 
+Double Opt-in
+Ensure you build an audience of real people, not bots by requiring new subscribers to confirm their email address.
+ 
+One-click Unsubscribe
+Make it easy for your contacts to unsubscribe from your emails with a one-click link.
+ 
+Cyber Essentials Certified
+Certified by the UK government's Cyber Essentials scheme for robust cybersecurity practices.
+Account Management
+ 
+Teams
+Collaborate with your team with additional users, for free.
+ 
+Multi-factor Authentication
+Protect your account with multi-factor authentication.
+Integrations
+ 
+Zapier Integration
+Connect EcoSend with 5,000+ apps and automate your workflows with Zapier.
+ 
+Gravity Forms Integration
+Seamlessly integrate with Wordpress via Gravity Forms to capture leads and automatically add them to your email lists.
+ 
+Mailchimp Import
+Easily migrate your subscribers, lists, and campaign data from Mailchimp to EcoSend.
+Latest updates
+What we've been shipping.
+EcoSend moves quickly. Here's a snapshot of recent releases — see the full changelog for everything we've been working on.
+6 Aug 2026
+Inline image editing
+30 Jul 2026
+Review Mode — EcoSend now catches grammar, spelling, accessibility, and compliance issues for you
+28 Jul 2026
+Easier block selection, image resizing, and alt tags
+23 Jul 2026
+Automatic image optimisation
+See the full changelog 
+What we stand for
+Better email starts with better values.
+Honesty, accessibility, ethics, and sustainability aren't marketing lines for us — they're how we build every feature in the editor.
+ 
+Honesty
+Straightforward pricing. Export your HTML anytime. No dark patterns, no surprise fees, no pretending we're something we're not.
+ 
+Accessibility
+Everyone should be able to receive, read, and act on the emails you send. Sensible defaults, semantic markup, and guidance built into every block.
+ 
+Ethics
+Independently owned and B Corp certified. Privacy-first by design, GDPR-ready tools, and an ethical policy on who we serve.
+ 
+Sustainability
+Renewable-powered infrastructure, lean email code, automatic image compression, and verified nature restoration with every campaign.
+Read our public handbook
+Testimonials
+Don't just take our word for it
+As an organisation founded on better business principles, it's important we're using a supplier who keeps people and planet in mind.
+Malin Lorge
+B-Lab Europe
+ 
+EcoSend not only aligns to our purpose driven values, but they also provide the best email marketing platform on the market. It's the perfect example of the mission and quality aligning.
+Chris Lewis
+Wholegrain Digital
+I love working with a company which reflects my brand values and voice. The team have been super-helpful, which made the migration from Mailchimp a total breeze.
+Molly Gould
+Effable
+What sold me on joining EcoSend is the great team of people behind it and their values. I know for a fact that whenever I have an issue, I’ll get support and answers in a timely manner.
+Yuval Ackerman
+Ethical Emails
+Migrating was incredibly straightforward. In my first week I uploaded my contacts, added my lead capture forms, set-up my email campaigns, and even sent out my first newsletter!
+Claudia Guerreiro
+Conscious Marketing Movement
+Ready to grow with purpose?
+Start sending smarter campaigns that build your brand and the planet.
+Designed for mission-led brands • Good for your growth and your impact • Risk-free to try
+Get Started Free
+No credit card required. Cancel anytime.
+Not ready to sign up yet?
+Join our free 
+weekly newsletter
+ for ideas and tips on sending better emails.
+Get the Weekly Newsletter
+ 
+Make email a force for good.
+LinkedIn
+ 
+Instagram
+ 
+YouTube
+ 
+Bluesky
+ 
+RSS Feed
+ 
+ 
+ 
+ 
+Features
+Overview
+Email Builder
+Latest Updates
+Platform
+Pricing
+Partners
+System Status
+Mailchimp Alternative
+Compare
+Resources
+Support
+Free Email Templates
+Customers
+Podcast
+Marketing Glossary
+Deliverability
+Security
+Sustainability
+Company
+About
+Blog
+Newsletter
+Contact
+Privacy
+Terms
+Handbook
+LLMs
+© 2026 EcoSend. All rights reserved.
+
+===== pricing_or_trust :: https://ecosend.io/plans
+--- SIGNALS ---
+title: Plans and Pricing – EcoSend
+meta_description: Simple pricing. No surprises. Start free, upgrade when you're ready, cancel anytime. Email marketing that plants trees.
+og_description: Simple pricing. No surprises. Start free, upgrade when you're ready, cancel anytime. Email marketing that plants trees.
+og_site_name: EcoSend
+h1: Simple pricing. No surprises.
+h2: 0 contacts | What's included | Still deciding? | Trusted by purpose-driven organisations around the world. | Frequently asked questions | Ready to grow with purpose?
+jsonld_org: []
+--- TEXT ---
+Plans and Pricing – EcoSend
+ 
+ 
+EcoSend
+ 
+Start Free
+ 
+Features
+ 
+Resources
+ 
+Company
+ 
+Help
+ 
+Pricing
+Sign In
+Start Free
+EcoSend
+ 
+ 
+Features
+ 
+Resources
+ 
+Company
+ 
+Help
+ 
+Pricing
+Sign In
+Start Free
+Plans and Pricing
+Simple pricing. No surprises.
+Start free. 7-day free trial on paid plans. Cancel anytime.
+0 contacts
+Sapling
+Start building your audience and sending beautiful emails for free.
+Free
+no strings attached
+ 
+250
+ contacts
+ 
+1,000
+ emails per month
+ 
+1 tree planted
+ 
+Help docs when you need them
+Start Free
+Annual 
+(save 2 months)
+Monthly
+Canopy
+Everything you need to grow your organisation with email.
+£12.50
+per month
+, paid yearly
+Everything in Sapling, plus:
+ 
+500
+ contacts
+ 
+2,000
+ emails per month
+ 
+We plant 
+1
+ tree
+ for you each month
+ 
+Automations that run while you sleep
+ 
+Review Mode for better emails
+ 
+Real humans answer your emails
+Try Free for 7 Days
+Forest
+For high volume senders with sophisticated requirements.
+Let's talk
+no pushy sales calls, we promise
+Everything in Canopy, plus:
+ 
+We help you get set up properly
+ 
+No limits on contacts
+ 
+Pay for sends, not storage
+ 
+Your own sending IPs
+ 
+Skip the queue when you need help
+Get in Touch
+£
+ 
+GBP
+$
+ 
+USD
+Prices exclude tax. No lock-in contracts. Cancel in two clicks, not two phone calls.
+We're a small team in London. Paying in pounds helps us avoid currency fees.
+Charity or non‑profit? We offer a discount.
+ 
+See how it works
+.
+What's included
+The full breakdown. No hidden features, no surprise paywalls.
+Features
+Sapling
+Start Free
+Canopy
+Try Free for 7 Days
+Forest
+Get in Touch
+Core Features
+Contacts
+People you can email
+250
+Up to 200,000
+Unlimited
+Email sends per month
+Send as often as you need
+1,000
+4× your contacts
+Unlimited
+Broadcast campaigns
+Send emails to your whole list at once
+ 
+ 
+Higher limits
+Ready-made templates
+Good-looking emails without starting from scratch
+ 
+ 
+ 
+List management
+Add, remove, and manage your contacts on multiple mailing lists
+ 
+ 
+ 
+Scheduled sending
+Schedule emails to send at specific times
+ 
+ 
+ 
+Sending domains
+Use your own domain for sending emails
+One domain
+Multiple
+Multiple
+API access
+Full API access for custom integrations
+ 
+ 
+ 
+Composition
+Simple email
+Minimal, personal, and optimised for mobile
+ 
+ 
+ 
+Drag-and-drop email builder
+Create beautiful emails with no coding required
+ 
+ 
+ 
+Review Mode
+Spelling, grammar, accessibility, and compliance checks with one-click fixes
+ 
+ 
+ 
+Build your own templates
+Design emails that match your brand
+ 
+ 
+ 
+Saved Blocks
+Save and reuse your favourite content
+ 
+ 
+ 
+Template gallery
+Access our library of email templates
+ 
+ 
+ 
+Custom HTML email
+Create templates with custom HTML and CSS
+ 
+ 
+ 
+Growth
+Manually add subscribers
+Add subscribers manually via the dashboard
+ 
+ 
+ 
+Hosted Forms
+Share your forms with a simple link
+ 
+ 
+ 
+Inline Forms
+Embed forms on any page of your website
+ 
+ 
+ 
+Pop-up Forms
+Pop-up forms that display at the perfect moment
+ 
+ 
+ 
+Segmentation
+Segmentation
+Create highly targeted campaigns with our advanced segmentation tools
+ 
+ 
+Advanced
+Smart Groups
+Create segments of contacts for easy reuse
+ 
+ 
+ 
+Automation
+Automations
+Automated email campaigns that send based on subscriber behaviour
+ 
+ 
+ 
+Drip campaigns
+Multi-step sequences that nurture subscribers over time
+ 
+ 
+ 
+Scheduled campaigns
+Send emails to your list at specific times
+ 
+ 
+ 
+Analytics
+Campaign performance
+See how many people opened, clicked, and engaged with each campaign
+ 
+ 
+ 
+Insights dashboard
+Understand how your emails are performing at a project level
+ 
+ 
+ 
+Compliance and Deliverability
+GDPR compliant
+Your data is handled properly and securely in accordance with GDPR
+ 
+ 
+ 
+Double opt-in
+Require new subscribers to confirm their email
+ 
+ 
+ 
+One-click unsubscribe
+Easy unsubscribe for your contacts
+ 
+ 
+ 
+Two-factor auth
+Extra protection for your account
+ 
+ 
+ 
+Custom security policies
+Meet your organisation's requirements
+ 
+ 
+ 
+Sustainability
+Green hosting
+Renewable energy powers every email you send
+ 
+ 
+ 
+Impact metrics
+See the trees you've planted and carbon you've offset
+ 
+ 
+Custom reporting available
+Climate contribution
+Every campaign you send automatically contributes to verified climate action projects
+ 
+ 
+ 
+Lightweight templates
+Smaller emails that use less data and energy
+ 
+ 
+ 
+Account Management
+Email support
+Get help from a human when you need it from our UK-based team
+During initial setup
+Any time
+Any time
+Priority support
+Skip to the front of the queue
+ 
+ 
+ 
+Account manager
+Someone who knows your business so you get the most out of your account
+ 
+ 
+ 
+Onboarding support
+We'll make sure you're set up and ready to send
+Self-service guides
+Email support
+Dedciated assitsance for complex setups
+Team training
+Get your whole team up to speed with the latest best practices
+ 
+ 
+ 
+Migration help
+We'll help you migrate your data and get you set up with your new account
+Help docs
+Email support
+We'll do it for you
+Phone support
+When email isn't fast enough
+ 
+ 
+ 
+Add team members
+Invite your whole team at no extra cost
+ 
+Unlimited
+Unlimited
+Permissions
+Control who can do what
+ 
+ 
+ 
+Integrations
+Zapier
+Connect to 5,000+ other apps
+ 
+ 
+ 
+Webhooks
+Get notified when things happen
+ 
+ 
+ 
+Custom integrations
+We'll help you build what you need
+ 
+ 
+ 
+CRM connections
+Sync with your existing customer data
+ 
+ 
+ 
+Form connections
+Typeform, Gravity Forms, and more
+ 
+ 
+ 
+Sapling
+Start Free
+Canopy
+Try 7 Days Free
+Forest
+Get in Touch
+Core Features
+Contacts
+People you can email
+250
+Up to 200,000
+Unlimited
+Email sends per month
+Send as often as you need
+1,000
+4× your contacts
+Unlimited
+Broadcast campaigns
+Send emails to your whole list at once
+ 
+ 
+Higher limits
+Ready-made templates
+Good-looking emails without starting from scratch
+ 
+ 
+ 
+List management
+Add, remove, and manage your contacts on multiple mailing lists
+ 
+ 
+ 
+Scheduled sending
+Schedule emails to send at specific times
+ 
+ 
+ 
+Sending domains
+Use your own domain for sending emails
+One domain
+Multiple
+Multiple
+API access
+Full API access for custom integrations
+ 
+ 
+ 
+Composition
+Simple email
+Minimal, personal, and optimised for mobile
+ 
+ 
+ 
+Drag-and-drop email builder
+Create beautiful emails with no coding required
+ 
+ 
+ 
+Review Mode
+Spelling, grammar, accessibility, and compliance checks with one-click fixes
+ 
+ 
+ 
+Build your own templates
+Design emails that match your brand
+ 
+ 
+ 
+Saved Blocks
+Save and reuse your favourite content
+ 
+ 
+ 
+Template gallery
+Access our library of email templates
+ 
+ 
+ 
+Custom HTML email
+Create templates with custom HTML and CSS
+ 
+ 
+ 
+Growth
+Manually add subscribers
+Add subscribers manually via the dashboard
+ 
+ 
+ 
+Hosted Forms
+Share your forms with a simple link
+ 
+ 
+ 
+Inline Forms
+Embed forms on any page of your website
+ 
+ 
+ 
+Pop-up Forms
+Pop-up forms that display at the perfect moment
+ 
+ 
+ 
+Segmentation
+Segmentation
+Create highly targeted campaigns with our advanced segmentation tools
+ 
+ 
+Advanced
+Smart Groups
+Create segments of contacts for easy reuse
+ 
+ 
+ 
+Automation
+Automations
+Automated email campaigns that send based on subscriber behaviour
+ 
+ 
+ 
+Drip campaigns
+Multi-step sequences that nurture subscribers over time
+ 
+ 
+ 
+Scheduled campaigns
+Send emails to your list at specific times
+ 
+ 
+ 
+Analytics
+Campaign performance
+See how many people opened, clicked, and engaged with each campaign
+ 
+ 
+ 
+Insights dashboard
+Understand how your emails are performing at a project level
+ 
+ 
+ 
+Compliance and Deliverability
+GDPR compliant
+Your data is handled properly and securely in accordance with GDPR
+ 
+ 
+ 
+Double opt-in
+Require new subscribers to confirm their email
+ 
+ 
+ 
+One-click unsubscribe
+Easy unsubscribe for your contacts
+ 
+ 
+ 
+Two-factor auth
+Extra protection for your account
+ 
+ 
+ 
+Custom security policies
+Meet your organisation's requirements
+ 
+ 
+ 
+Sustainability
+Green hosting
+Renewable energy powers every email you send
+ 
+ 
+ 
+Impact metrics
+See the trees you've planted and carbon you've offset
+ 
+ 
+Custom reporting available
+Climate contribution
+Every campaign you send automatically contributes to verified climate action projects
+ 
+ 
+ 
+Lightweight templates
+Smaller emails that use less data and energy
+ 
+ 
+ 
+Account Management
+Email support
+Get help from a human when you need it from our UK-based team
+During initial setup
+Any time
+Any time
+Priority support
+Skip to the front of the queue
+ 
+ 
+ 
+Account manager
+Someone who knows your business so you get the most out of your account
+ 
+ 
+ 
+Onboarding support
+We'll make sure you're set up and ready to send
+Self-service guides
+Email support
+Dedciated assitsance for complex setups
+Team training
+Get your whole team up to speed with the latest best practices
+ 
+ 
+ 
+Migration help
+We'll help you migrate your data and get you set up with your new account
+Help docs
+Email support
+We'll do it for you
+Phone support
+When email isn't fast enough
+ 
+ 
+ 
+Add team members
+Invite your whole team at no extra cost
+ 
+Unlimited
+Unlimited
+Permissions
+Control who can do what
+ 
+ 
+ 
+Integrations
+Zapier
+Connect to 5,000+ other apps
+ 
+ 
+ 
+Webhooks
+Get notified when things happen
+ 
+ 
+ 
+Custom integrations
+We'll help you build what you need
+ 
+ 
+ 
+CRM connections
+Sync with your existing customer data
+ 
+ 
+ 
+Form connections
+Typeform, Gravity Forms, and more
+ 
+ 
+ 
+Still deciding?
+Start free. You can always upgrade later — or not. No pressure.
+Start Free
+Have questions? Let's talk
+Trusted by purpose-driven organisations around the world.
+ 
+Frequently asked questions
+Is the free plan actually free?
+ 
+What happens if I hit my limits?
+ 
+How do I cancel?
+ 
+How quickly can I start sending?
+ 
+Do prices include tax?
+ 
+What if I send millions of emails?
+ 
+Do you offer charity discounts?
+ 
+I run an agency. Is there a partner deal?
+ 
+Can I switch plans later?
+ 
+I have a question that's not here.
+ 
+Ready to grow with purpose?
+Start sending smarter campaigns that build your brand and the planet.
+Designed for mission-led brands • Good for your growth and your impact • Risk-free to try
+Get Started Free
+No credit card required. Cancel anytime.
+Not ready to sign up yet?
+Join our free 
+weekly newsletter
+ for ideas and tips on sending better emails.
+Get the Weekly Newsletter
+ 
+Make email a force for good.
+LinkedIn
+ 
+Instagram
+ 
+YouTube
+ 
+Bluesky
+ 
+RSS Feed
+ 
+ 
+ 
+ 
+Features
+Overview
+Email Builder
+Latest Updates
+Platform
+Pricing
+Partners
+System Status
+Mailchimp Alternative
+Compare
+Resources
+Support
+Free Email Templates
+Customers
+Podcast
+Marketing Glossary
+Deliverability
+Security
+Sustainability
+Company
+About
+Blog
+Newsletter
+Contact
+Privacy
+Terms
+Handbook
+LLMs
+© 2026 EcoSend. All rights reserved.

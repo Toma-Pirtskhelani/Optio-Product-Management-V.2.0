@@ -1,0 +1,944 @@
+===== llms.txt :: https://criticalimpact.com/404-2/
+--- SIGNALS ---
+title: Critical Impact | Email & SMS Automation Marketing
+meta_description: 
+og_description: Critical Impact | Email & SMS Automation Marketing
+og_site_name: Critical Impact | Email & SMS Automation Marketing
+h1: 
+h2: Oooops! | see our powerful platform in action
+jsonld_org: [{"@type": "Organization", "@id": "https://criticalimpact.com/#organization", "name": "critical impact | Email &amp; SMS Automation Marketing", "url": "https://criticalimpact.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://criticalimpact.com/#/schema/logo/image/", "url": "https://criticalimpact.com/wp-content/uploads/2023/03/cropped-icon-512.png", "contentUrl": "https://criticalimpact.com/wp-content/uploads/2023/03/cropped-icon-512.png", "width": 512, "height": 512, "caption": "critical impact | Email &amp; SMS Automation Marketing"}, "image": {"@id": "https://criticalimpact.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/criticalimpact/", "https://x.com/criticalemail", "https://www.linkedin.com/company/critical-impact-software-inc./", "https://www.youtube.com/@criticalimpactemail"]}]
+--- TEXT ---
+Critical Impact | Email & SMS Automation Marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+solutions
+ 
+email campaigns
+ 
+email automation
+ 
+sms text messaging
+ 
+integrations
+ 
+api & transactional emails
+ 
+reports & analytics
+ 
+forms, landing pages, polls & surveys
+white label
+ 
+white label for agencies
+ 
+white label for business
+resources
+ 
+resource blog
+ 
+‘how to’ videos
+ 
+knowledge base search
+ 
+report abuse
+company
+ 
+careers
+ 
+about
+ 
+the newsroom
+ 
+corporate social responsibility
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+login
+ 
+book a tour
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+solutions
+ 
+email campaigns
+ 
+email automation
+ 
+sms text messaging
+ 
+integrations
+ 
+api & transactional emails
+ 
+reports & analytics
+ 
+forms, landing pages, polls & surveys
+white label
+ 
+white label for agencies
+ 
+white label for business
+resources
+ 
+resource blog
+ 
+‘how to’ videos
+ 
+knowledge base search
+ 
+report abuse
+company
+ 
+careers
+ 
+about
+ 
+the newsroom
+ 
+corporate social responsibility
+ 
+ 
+ 
+ 
+ 
+Oooops!
+ 
+ 
+ 
+Looks like we don’t have that page on hand!
+If there is a related page it’s below.
+If not, why not ask for a tailored demo?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+see our powerful platform in action
+
+
+book a live demo now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+solutions
+email campaigns
+email automation
+sms text messaging
+api & transactional emails
+integrations
+reports & analytics
+forms, landing pages, polls & surveys
+ 
+Critical Impact Reviews
+ 
+ 
+Critical Impact Reviews
+ 
+ 
+ 
+ 
+white label
+white label for agencies
+white label for business
+ 
+ 
+ 
+ 
+-->
+ 
+ 
+ 
+terms & policies
+Application Service Agreement Terms and Conditions
+privacy policy
+data processing
+ccpa policy for our client’s subscribers
+ccpa privacy policy
+anti-spam
+-->
+ 
+ 
+ 
+subscribe to our newsletter
+Sign Up for Free! Get insights, tips, industry news, and things to make you say 'Aha!' to support your email marketing campaigns.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Facebook
+ 
+LinkedIn
+ 
+YouTube
+ 
+Instagram
+ 
+ 
+ 
+contact us
+(888) 681-0966
+ 
+email us
+ 
+ 
+ 
+company
+careers
+the newsroom
+about
+resource blog
+social responsibility
+account help
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+home
+login
+careers
+resource blog
+(888) 681-0966
+ 
+ 
+© 2026 critical impact software, inc. reproduction strictly prohibited. all rights reserved.
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ Go to mobile version
+
+===== homepage :: https://criticalimpact.com/
+--- SIGNALS ---
+title: email marketing automation solutions
+meta_description: Nurture email marketing campaigns with critical impact's automation solution. Dynamic email lists and drip automation for business.
+og_description: reward your email marketing efforts with critical impact's world-class email automation solutions!
+og_site_name: Critical Impact | Email & SMS Automation Marketing
+h1: Boost Sales. Grow Audiences. Reduce Workloads.
+h2: key capabilities | easily create powerful email workflows to engage, nurture & retain your subscribers | improve your customer relationships & engagement | expand your email apps | see our powerful platform in action
+jsonld_org: [{"@type": "Organization", "@id": "https://criticalimpact.com/#organization", "name": "critical impact | Email &amp; SMS Automation Marketing", "url": "https://criticalimpact.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://criticalimpact.com/#/schema/logo/image/", "url": "https://criticalimpact.com/wp-content/uploads/2023/03/cropped-icon-512.png", "contentUrl": "https://criticalimpact.com/wp-content/uploads/2023/03/cropped-icon-512.png", "width": 512, "height": 512, "caption": "critical impact | Email &amp; SMS Automation Marketing"}, "image": {"@id": "https://criticalimpact.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/criticalimpact/", "https://x.com/criticalemail", "https://www.linkedin.com/company/critical-impact-software-inc./", "https://www.youtube.com/@criticalimpactemail"]}]
+--- TEXT ---
+email marketing automation solutions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+solutions
+ 
+email campaigns
+ 
+email automation
+ 
+sms text messaging
+ 
+integrations
+ 
+api & transactional emails
+ 
+reports & analytics
+ 
+forms, landing pages, polls & surveys
+white label
+ 
+white label for agencies
+ 
+white label for business
+resources
+ 
+resource blog
+ 
+‘how to’ videos
+ 
+knowledge base search
+ 
+report abuse
+company
+ 
+careers
+ 
+about
+ 
+the newsroom
+ 
+corporate social responsibility
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+login
+ 
+book a tour
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+solutions
+ 
+email campaigns
+ 
+email automation
+ 
+sms text messaging
+ 
+integrations
+ 
+api & transactional emails
+ 
+reports & analytics
+ 
+forms, landing pages, polls & surveys
+white label
+ 
+white label for agencies
+ 
+white label for business
+resources
+ 
+resource blog
+ 
+‘how to’ videos
+ 
+knowledge base search
+ 
+report abuse
+company
+ 
+careers
+ 
+about
+ 
+the newsroom
+ 
+corporate social responsibility
+ 
+ 
+ 
+ 
+ 
+Boost Sales. Grow Audiences. Reduce Workloads.
+ 
+ 
+enhance and simplify your email marketing campaigns.
+Hey You!
+It's time to reward your hard work in email marketing. See what we have for you!
+ -->
+ 
+ 
+book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+key capabilities
+ 
+ 
+ 
+ 
+ 
+automation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+integration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+analytics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+segmentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a/b testing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+easily create powerful email workflows to engage, nurture & retain your subscribers
+ 
+ 
+ 
+ 
+Enhance and simplify your 
+email marketing campaigns
+ with critical impact. Our tools let you effectively manage your email and 
+SMS
+ lists, send 
+personalized and automated emails
+, along with 
+text messages (SMS)
+ for your marketing campaigns; all at a competitive price model.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+our customers love us
+“CI offers much more robust, detailed services and tools than Mailchimp. And it’s also cheaper. And the customer service is much better.
+For what we needed, Mailchimp just couldn’t deliver.”
+ 
+Read More
+ 
+ 
+ 
+ 
+“The software is great, but the support team is even better. They’re always available to help out with questions or troubleshooting.”
+“Loads of reporting options and powerful features easily available.
+Powerful API lets you do lots of stuff from inside your own application.”
+“The response to my needing help is immediate and helpful. It is also easy to use and they do what they say they will do.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+easily create powerful email workflows
+Effectively manage your email and SMS lists,end personalized and automated emails and more…
+ 
+Read More
+ 
+ 
+ 
+ 
+Manage your email and SMS lists, send personalized and automated emails, along with text messages (SMS) for your marketing campaigns all at a competitive price model. 
+Our subscriber scoring algorithms will mine your data to quickly
+identify those subscribers who are most likely to read your next email,
+consume additional emails, or make another purchase.
+With our easy-to-use interface, you can schedule messages to send in
+minutes. Select your send options all on one page, and then prevent
+mistakes by seeing a confirmation of all your send details. Even test
+your email across device screens – from phones to tablets to monitors.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ease of use
+With our easy-to-use interface, you can schedule messages to send in minutes. Select your send options all on one page, and then prevent mistakes by seeing a confirmation of all your send details.
+ 
+Read More
+ 
+ 
+ 
+ 
+Our email marketing platform empowers you to:
+· Select to send messages immediately, or schedule them to send in the future
+· Send messages with Google Analytics link tracking enabled Run an A/B tests to compare two versions of a message and see which performs better
+· Send to active email subscribers who have opened or clicked on any message in the past 30 days
+· Segment your email subscribers by custom fields like “city” and dynamically select subscribers by geographic location
+· Send SMS text message alerts to connect with customers, make
+important announcements, or offer special deals to your subscribers
+· Test your email across device screens; from phones to tablets to monitors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+close
+ 
+ 
+ 
+ 
+ 
+improve your customer relationships & engagement
+ 
+Unlock the key to strong customer relationships, retention and engagement with your email list
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+measure email conversions
+Revenue per email is one of the most important metrics to track – learn which of your emails have the highest conversion rate and drive the most sales to inform future sends.
+ 
+Read More
+ 
+ 
+ 
+ 
+Use this data to build your marketing strategy and align your efforts with your business goals. 
+Just 10 minutes of setup, and you’ll be able to:
+• Segment subscribers by website browse activity
+• Segment subscribers by time on site
+• Segment subscribers by goal completions
+• Segment subscribers by pages viewed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+advanced list segmentation
+Running a special deal for customers in Scottsdale, Arizona? Want to send an email only to subscribers who opened or clicked on your last email?
+ 
+Read More
+ 
+ 
+ 
+ 
+Use advanced list segmentation to send hyper-relevant emails to your audience.
+Our Dynamic List Generator instantly creates a list of subscribers based on your unique requirements. Send specific emails to subscribers based on data like their purchase history, website activity, email interactions, CRM data, and more.
+For example, you can use geo-targeting to send emails to subscribers in a specific region letting them know about local deals, products, events, and more.
+Or try using dynamic content in your emails to send personalized content to different subscribers – all within the same email!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+design high-converting landing pages
+Landing pages are key to growing your email list and keeping your subscribers engaged.
+ 
+Read More
+ 
+ 
+ 
+ 
+Ready to send a form to your subscribers? Well, it’s not as easy as simply emailing them the form. Forms can include elements that violate privacy laws in many jurisdictions! You dont want that!
+That’s why you’ll need to host the form on a page on your website – also called a landing page – and include a link to that landing page in your email.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+close
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+expand your email apps
+ 
+Take a look at all of our integrations and see how you can expand your email platform’s performance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+learn more
+
+ 
+ 
+ 
+ 
+ 
+ 
+see our powerful platform in action
+
+
+book a live demo now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+solutions
+email campaigns
+email automation
+sms text messaging
+api & transactional emails
+integrations
+reports & analytics
+forms, landing pages, polls & surveys
+ 
+Critical Impact Reviews
+ 
+ 
+Critical Impact Reviews
+ 
+ 
+ 
+ 
+white label
+white label for agencies
+white label for business
+ 
+ 
+ 
+ 
+-->
+ 
+ 
+ 
+terms & policies
+Application Service Agreement Terms and Conditions
+privacy policy
+data processing
+ccpa policy for our client’s subscribers
+ccpa privacy policy
+anti-spam
+-->
+ 
+ 
+ 
+subscribe to our newsletter
+Sign Up for Free! Get insights, tips, industry news, and things to make you say 'Aha!' to support your email marketing campaigns.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Facebook
+ 
+LinkedIn
+ 
+YouTube
+ 
+Instagram
+ 
+ 
+ 
+contact us
+(888) 681-0966
+ 
+email us
+ 
+ 
+ 
+company
+careers
+the newsroom
+about
+resource blog
+social responsibility
+account help
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+home
+login
+careers
+resource blog
+(888) 681-0966
+ 
+ 
+© 2026 critical impact software, inc. reproduction strictly prohibited. all rights reserved.

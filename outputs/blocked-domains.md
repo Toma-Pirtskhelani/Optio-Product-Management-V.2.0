@@ -3,7 +3,7 @@
 Companies this pass could not reach at Rungs 1–2. **No paste was requested during the pass**
 and **no user-agent was spoofed** to get past a refusal.
 
-**33 of 190 attempted (17%).**
+**38 of 210 attempted (18%).**
 
 | Company | Cause | Best HTTP | Candidates tried |
 |---|---|---|---|
@@ -20,10 +20,15 @@ and **no user-agent was spoofed** to get past a refusal.
 | Constant Contact | blocked (403/401/429) | 403 | constantcontact.com, www.constantcontact.com, constantcontact.io, www.constantco |
 | Datorama | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | datorama.com, datorama.io, www.datorama.io, datorama.ai, www.datorama.ai, datora |
 | Ecomail | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | ecomail.com, ecomail.io, ecomail.ai, ecomail.co, www.ecomail.co |
+| Emailidea | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | emailidea.com, www.emailidea.com, emailidea.io, www.emailidea.io, emailidea.ai,  |
 | FollowAnalytics | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | followanalytics.com, followanalytics.io, www.followanalytics.io, followanalytics |
+| Free Stand Sampling Solutions | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | freestandsamplingsolutions.com, www.freestandsamplingsolutions.com, freestandsam |
 | Fresh Relevance | blocked (403/401/429) | 403 | freshrelevance.com, freshrelevance.io, www.freshrelevance.io, freshrelevance.ai, |
 | Freshworks | blocked (403/401/429) | 403 | freshworks.com, www.freshworks.com, freshworks.io, www.freshworks.io, freshworks |
+| Hewlett Packard Enterprise | no DNS / no response | — | hewlettpackardenterprise.com, www.hewlettpackardenterprise.com, hewlettpackarden |
+| IBM | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | ibm.com, ibm.io, www.ibm.io, ibm.ai, www.ibm.ai, ibm.co, www.ibm.co |
 | inConcert | blocked (403/401/429) | 403 | inconcert.com, www.inconcert.com, inconcert.io, inconcert.ai, www.inconcert.ai,  |
+| Intense Technologies | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | intensetechnologies.com, intensetechnologies.io, www.intensetechnologies.io, int |
 | Lob | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | lob.com, lob.io, www.lob.io, lob.ai, lob.co |
 | MessageGears | blocked (403/401/429) | 403 | messagegears.com, www.messagegears.com, messagegears.io, www.messagegears.io, me |
 | Mindmatrix | HTTP 503 | 503 | mindmatrix.com, www.mindmatrix.com, mindmatrix.io, www.mindmatrix.io, mindmatrix |
@@ -43,9 +48,10 @@ and **no user-agent was spoofed** to get past a refusal.
 
 ## Cause breakdown
 
-- **served a page that did not identify the company (parked, for-sale, or a different owner)** — 17
+- **served a page that did not identify the company (parked, for-sale, or a different owner)** — 21
 - **blocked (403/401/429)** — 14
 - **HTTP 301** — 1
+- **no DNS / no response** — 1
 - **HTTP 503** — 1
 
 Each remains a full record in `companies.jsonl` with `unreachable: true` and its reason.

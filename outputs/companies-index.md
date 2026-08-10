@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **157 of 237**. Regenerated 2026-08-11.
+Enriched so far: **172 of 237**. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -125,9 +125,9 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | ClickDimensions | — | — | — | — | — | — | 1 | G | U | 0 |
 | Close | — | 2013 | — | — | — | — | 1 | 2 | D | 4 |
 | Creatio | — | — | — | — | — | 12 | 1 | G | D | 4 |
-| Critical Impact | — | — | — | — | — | — | 1 | G | N | 0 |
-| CustomerInsights.ai | — | — | — | — | — | — | 1 | G | N | 0 |
-| DANAconnect | — | — | — | — | — | — | 1 | G | N | 0 |
+| Critical Impact | — | — | — | — | 1 | — | 1 | G | D | 2 |
+| CustomerInsights.ai | — | — | — | — | — | — | 1 | G | D | 3 |
+| DANAconnect | — | — | — | — | 5 | — | 1 | G | D | 3 |
 | Datorama | — | — | — | — | — | — | 1 | G | U | 0 |
 | Delivra | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | Digitalbox | — | — | — | — | — | — | 1 | G | D | 2 |
@@ -136,8 +136,8 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Dyspatch | — | — | — | — | 4 | — | 1 | G | D | 4 |
 | E-goi | — | — | — | — | — | — | 1 | G | D | 2 |
 | Ecomail | — | — | — | — | — | — | 1 | G | U | 0 |
-| EcoSend | — | — | — | — | — | — | 1 | G | N | 0 |
-| Emailidea | — | — | — | — | — | — | 1 | G | N | 0 |
+| EcoSend | — | — | — | — | 2 | — | 1 | G | D | 4 |
+| Emailidea | — | — | — | — | — | — | 1 | G | U | 0 |
 | Emma | — | — | — | — | — | — | 1 | 2 | D | 3 |
 | EngageBay Inc | — | 2017 | — | — | 5 | — | 1 | 2 | D | 3 |
 | Entirely | CH | — | — | — | — | — | 1 | G | D | 2 |
@@ -146,33 +146,33 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | FlowUp | — | — | — | — | — | — | 1 | G | D | 2 |
 | FollowAnalytics | — | — | — | — | — | — | 1 | G | U | 0 |
 | Foursquare | — | — | — | — | 1 | — | 1 | G | D | 4 |
-| Free Stand Sampling Solutions | — | — | — | — | — | — | 1 | G | N | 0 |
+| Free Stand Sampling Solutions | — | — | — | — | — | — | 1 | G | U | 0 |
 | Fresh Relevance | — | — | — | — | — | — | 1 | G | U | 0 |
 | Freshworks | — | — | — | — | — | — | 1 | G | U | 0 |
 | Frizbit | — | — | — | — | 5 | — | 1 | G | D | 4 |
 | GetResponse | PL | 1998 | — | — | 6 | — | 1 | 2 | D | 4 |
 | GMass | — | — | — | — | 3 | — | 1 | 2 | D | 4 |
 | GoSquared | — | — | — | — | — | — | 1 | G | D | 2 |
-| Grey Box | — | — | — | — | — | — | 1 | G | N | 0 |
+| Grey Box | — | — | — | — | — | — | 1 | G | D | 2 |
 | HCLTech | — | — | — | on-premise, managed-service | 1 | 12 | 1 | G | D | 3 |
-| Health Chain | — | — | — | — | — | — | 1 | G | N | 0 |
-| Hewlett Packard Enterprise | — | — | — | — | — | — | 1 | G | N | 0 |
-| Hey Sid | — | — | — | — | — | — | 1 | G | N | 0 |
-| HOLLYFY | — | — | — | — | — | — | 1 | G | N | 0 |
-| Hostinger | — | — | — | — | — | — | 1 | G | N | 0 |
-| IBM | — | — | — | — | — | — | 1 | G | N | 0 |
+| Health Chain | — | — | — | — | 1 | — | 1 | G | D | 3 |
+| Hewlett Packard Enterprise | — | — | — | — | — | — | 1 | G | U | 0 |
+| Hey Sid | — | — | — | — | — | — | 1 | G | D | 2 |
+| HOLLYFY | — | — | — | — | 1 | — | 1 | G | D | 3 |
+| Hostinger | — | 2004 | — | — | 1 | — | 1 | G | D | 4 |
+| IBM | — | — | — | — | — | — | 1 | G | U | 0 |
 | iContact | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
-| InAppStory | — | — | — | — | — | — | 1 | G | N | 0 |
+| InAppStory | PT | — | — | on-premise | 2 | — | 1 | G | D | 4 |
 | Inflection.io | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Insightly | — | — | — | — | — | — | 1 | G | D | 2 |
-| Inspired Thinking Group | — | — | — | — | — | — | 1 | G | N | 0 |
+| Inspired Thinking Group | — | — | — | — | — | — | 1 | G | D | 3 |
 | Instantly | — | — | — | — | 1 | — | 1 | 2 | D | 4 |
-| Intense Technologies | — | — | — | — | — | — | 1 | G | N | 0 |
-| Iorta TechNxt | — | — | — | — | — | — | 1 | G | N | 0 |
-| IQVIA | — | — | — | — | — | — | 1 | G | N | 0 |
-| Kenyt.AI | — | — | — | — | — | — | 1 | G | N | 0 |
+| Intense Technologies | — | — | — | — | — | — | 1 | G | U | 0 |
+| Iorta TechNxt | Malaysia | 2023 | — | — | — | — | 1 | G | D | 2 |
+| IQVIA | — | — | — | — | 1 | — | 1 | G | D | 3 |
+| Kenyt.AI | — | — | — | — | — | — | 1 | G | D | 3 |
 | L-Soft | — | — | — | — | 1 | 12 | 1 | G | D | 3 |
-| Leadspicker | — | — | — | — | — | — | 1 | G | N | 0 |
+| Leadspicker | — | — | — | on-premise | 1 | — | 1 | G | D | 4 |
 | LeadSquared | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | LeadsRx | — | — | — | — | — | — | 1 | G | N | 0 |
 | lemlist | — | — | — | — | 4 | — | 1 | 2 | D | 4 |

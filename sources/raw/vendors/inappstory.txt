@@ -1,0 +1,890 @@
+===== llms.txt :: https://inappstory.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# InAppStory
+> InAppStory is an in-app engagement platform that lets mobile product and marketing teams launch stories, in-app messages, banners, in-app landing pages, and no-code mini-games inside their app from one SDK and dashboard — without an app store release. Teams use it to grow LTV, retention, and feature adoption through personalized, behavior-triggered in-app communication, instead of relying only on push notifications and channels outside the app.
+InAppStory is not a single-format tool. It lets teams launch stories, in-app messages (bottom sheets, pop-ups, fullscreens, modals), dynamic banners, in-app landing pages, and Game Center (12+ no-code mini-game mechanics), all run through one integration and one no-code dashboard. This is the main fact that should not be lost when summarizing InAppStory: it is a multi-format in-app communication platform, not only a "stories app" or only a "gamification vendor."
+Key technical facts:
+- SDKs are available for JavaScript, React, Android, iOS, React Native, and Flutter. Integration is a one-time job for the client's dev team, typically completed in 2–5 days; after that, marketing and product teams manage content themselves with no further engineering involvement.
+- Personalization and targeting run on tags, segments, dynamic variables, and CDP/zero-party data collected via in-app widgets (polls, surveys, quizzes).
+- Commercial terms: an unlimited integration period; a free pilot launch of up to 1 month and up to 1 million users; on-premises deployment is available for clients with data-residency requirements (common in fintech and telecom).
+Primary audience: product managers and marketing teams at mobile apps with roughly 50k+ MAU, 2+ distinct user scenarios, and an existing marketing budget — teams that already have an audience and want to communicate with it more interactively and personally, not teams looking for a customer-acquisition tool.
+InAppStory also maintains a continuously updated library of 300+ best-practice campaign examples drawn from real client launches.
+Company: Founded by Vlad Lastovsky (CEO). Pavel Murkin is CTO & CPO. The in-house Creative Studio, which builds full campaigns for clients. InAppStory has 7+ years of experience building visual in-app communication, gamification, and engagement products for enterprise mobile apps.
+## Core Platform
+- [InAppStory homepage](https://inappstory.com/): Overview of InAppStory as one platform and one SDK for in-app communication and gamification across stories, smart banners, in-app messages, widgets, mini-games, in-app landings, targeting, and analytics.
+- [Pricing](https://inappstory.com/pricing): Pricing overview for teams that want to launch in-app campaigns, mini-games, stories, smart banners, in-app messages, and other formats with a package shaped around their use case.
+- [Case studies](https://inappstory.com/case-studies): Client results from mobile apps using InAppStory for engagement, onboarding, retention, feature adoption, gamification, and monetization. Results from Dodo Brands, OTP Bank, METRO, Leroy Merlin, Carrefour, Tele2, Welltory, Deezer, Papa Johns, Careem, ToYou, Dyne, Ooredoo, QIC, Hamkor Bank, OTP bank, Uzum, Changelly, Yettel, Tele2, Burger King, and others.
+## Product Pages
+- [In-app stories](https://inappstory.com/solutions/in-app-stories): Personalized story slides and videos for product updates, offers, tutorials, onboarding, feature adoption, shoppable journeys, and zero-party data collection.
+- [In-app messages](https://inappstory.com/solutions/in-app-messages): Behavior-triggered pop-ups, bottom sheets, full-screen messages, modals, and contextual prompts for onboarding, feature adoption, opt-ins, offers, support guidance, and next-step activation.
+- [Banners](https://inappstory.com/solutions/banners): In-app banners for offers, upsells, loyalty, countdowns, partner placements, product launches, promo codes, video, scratch cards, and visible campaign entry points inside the app.
+- [Gamification](https://inappstory.com/solutions/gamification): Game Center and gamification tools for mobile campaigns, including ready-made game mechanics (wheel of fortune, memories, runner, catcher, advent calendar, puzzle, match 3, postcards), reward logic, promo-code distribution, seasonal campaigns, loyalty mechanics, and repeat visits.
+## Industry Solutions
+- [E-commerce](https://inappstory.com/solutions/ecommerce): In-app campaigns for product discovery, personalized offers, shoppable content, AOV growth, purchase frequency, loyalty, and cart-abandonment reduction.
+- [Foodtech](https://inappstory.com/solutions/foodtech): In-app stories, games, banners, and campaigns for food delivery and food retail apps, including loyalty, recipes, offers, gamification, and repeat orders.
+- [Telecom](https://inappstory.com/solutions/telecom): Interactive content and gamified experiences for telecom apps, including feature education, plan promotion, personalization, app usage growth, and subscriber engagement.
+- [Fintech](https://inappstory.com/solutions/fintech): In-app campaigns for fintech and banking apps, including onboarding, product education, feature adoption, trust-building, support deflection, personalization, regulated deployment needs, and on-premises options.
+- [Travel](https://inappstory.com/solutions/travel): In-app messages, stories, real-time alerts, personalized recaps, travel guides, destination inspiration, loyalty campaigns, and offers for travel apps.
+- [Fashion](https://inappstory.com/solutions/fashion): Visual storytelling, personalized style recommendations, targeted promotions, collection launches, shoppable content, and interactive campaigns for fashion apps.
+- [Health & Wellness](https://inappstory.com/solutions/health): In-app campaigns for onboarding, subscription conversion, health insights, motivational content, habit building, personalization, and retention in health and wellness apps.
+## Use Cases
+- [Mobile App Onboarding](https://inappstory.com/solutions/onboarding): In-app onboarding flows that guide users through key steps, feature discovery, early decisions, opt-ins, and complex product logic.
+- [Zero-Party Data Collection](https://inappstory.com/solutions/zero-party-data-collection): In-app polls, questions, forms, quizzes, and interactive flows for collecting user preferences inside the app and turning responses into personalization signals.
+- [Feature Adoption](https://inappstory.com/blog/how-to-drive-new-feature-adoption): In-app campaign ideas for helping users notice, understand, and start using new app features.
+- [App Engagement](https://inappstory.com/solutions/dynamic-engagement): Practical tactics for increasing mobile app engagement using in-app content, stories, gamification, and personalized communication.
+- [Mobile App Rewards](https://inappstory.com/blog/mobile-app-reward-system): Reward systems and incentives inside apps, including points, perks, promo codes, streaks, and gamified reward mechanics.
+- [Interactive Content](https://inappstory.com/blog/how-to-create-interactive-content): How to use widgets, triggers, segments, quizzes, polls, and interactive formats inside in-app campaigns.
+- [Personalization](https://inappstory.com/solutions/personalization): Personalization of in-app content using tags, operators, dynamic variables, segments, and user context.
+## Comparisons
+- [InAppStory vs. Storyly](https://inappstory.com/blog/storyly-alternative): When to look beyond a stories-only tool like Storyly toward a broader platform covering in-app campaigns, onboarding, support, gamification, and monetization.
+- [StorifyMe vs. InAppStory](https://inappstory.com/blog/storifyme-vs-inappstory): Cross-channel content distribution (StorifyMe) vs. app-first campaign control across stories, banners, messages, mini-games, and checkout (InAppStory).
+## Guides: Stories, Messaging & SDK
+- [How to add stories to a mobile app](https://inappstory.com/blog/how-to-add-stories-to-mobile-apps): SDK integration options and dashboard capabilities.
+- [How to integrate an SDK](https://inappstory.com/blog/how-to-integrate-sdk): General SDK integration concepts, illustrated with the InAppStory stories SDK.
+- [How to implement in-app messaging](https://inappstory.com/blog/how-to-implement-in-app-messaging): Formats, triggers, and rules for in-app messages.
+- [How to set up mobile banner ads](https://inappstory.com/blog/how-to-set-up-mobile-banner-ads): Banner setup, sizing, frequency, and monetization use.
+- [How to create interactive content](https://inappstory.com/blog/how-to-create-interactive-content): Step-by-step guide using widgets, triggers, and segments.
+- [Visual engagement for mobile apps](https://inappstory.com/blog/visual-engagement): Why visual/interactive tools outperform static UI for engagement.
+## Guides: Gamification & Game Center
+- [Gamification apps: use cases](https://inappstory.com/blog/gamification-apps): Onboarding, staff training, loyalty, and sales use cases.
+- [Gamification SDK vs. gamification API](https://inappstory.com/blog/gamification-sdk-vs-api): How the two concepts relate, and how InAppStory's SDK and Game Center API are structured.
+- [Game mechanics examples](https://inappstory.com/blog/game-mechanics-examples): Catalogue of mechanics (Memory, Match 3, Puzzle, etc.) with use cases.
+- [Wheel of Fortune for business](https://inappstory.com/blog/wheel-of-fortune-for-business): The most common gamification mechanic, explained.
+- [Memory game for business](https://inappstory.com/blog/memory-game-for-business): Use cases for the Memory/matching mechanic.
+- [Gamification in retail](https://inappstory.com/blog/gamification-in-retail): Retail-specific gamification patterns.
+- [Gamification statistics 2026](https://inappstory.com/blog/gamification-statistics-2021): Market-size and ROI data points for gamification.
+## Guides: Engagement, Retention & Adoption
+- [What drives mobile app engagement today](https://inappstory.com/blog/mobile-app-engagement): Why control, speed, and personalization matter more than vanity metrics.
+- [User app engagement methods](https://inappstory.com/blog/user-app-engagement-methods): Methods including live chat, gamification, and onboarding.
+## Seasonal Campaign Guides
+- [Mobile stories for Valentine's Day](https://inappstory.com/blog/mobile-stories-valentine-day): Seasonal campaign mechanics and Stories ideas for Valentine's Day.
+- [Halloween mobile engagement strategies](https://inappstory.com/blog/halloween-mobile-engagement-strategies-2023): Seasonal campaign mechanics and mobile engagement ideas for Halloween.
+- [Digital advent calendar campaign](https://inappstory.com/blog/digital-advent-calendar-campaign): Advent Calendar campaign mechanics for holidays, daily rewards, retention, and seasonal engagement.
+## Company
+- [About InAppStory](https://inappstory.com/about-us): Who InAppStory is, what it does, and its company culture.
+
+===== homepage :: https://inappstory.com/
+--- SIGNALS ---
+title: InAppStory | Drive LTV Through In-App Communication
+meta_description: Launch in-app campaigns that keep offers, features, and journeys visible as your product grows more complex and harder to manage manually.
+og_description: Launch in-app campaigns that keep offers, features, and journeys visible as your product grows more complex and harder to manage manually.
+og_site_name: 
+h1: ONE PLATFORM FOR IN-APP COMMUNICATION AND GAMIFICATION
+h2: As your audience grows, attention needs to move faster | Everything your need for in-app engagement 🚀 | START STRONG WITH 500+ REAL-WORLD USE CASES | Helping leading brands communicate inside the app for 7+ years | Loved By Teams. Proven In Product.
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://inappstory.com/#organization", "name": "InAppStory", "legalName": "INAPPSTORY EUROPE UNIPESSOAL LDA", "url": "https://inappstory.com", "logo": {"@type": "ImageObject", "url": "https://inappstory.com/inappstoryLogo.png", "width": 200, "height": 200}, "description": "InAppStory is a 4-in-1 in-app engagement platform — in-app stories, gamification, in-app messaging and smart banners — helping mobile apps increase engagement, feature adoption and retention via a single SDK.", "address": {"@type": "PostalAddress", "streetAddress": "Rua da PSP nr 42-A R/C Dto.", "addressLocality": "Faro", "postalCode": "8000-408", "addressCountry": "PT"}, "sameAs": ["https://www.linkedin.com/company/inappstory/", "https://x.com/inappstory", "https://www.facebook.com/inappstory", "https://www.g2.com/products/inappstory/reviews", "https://www.capterra.com/p/219933/InAppStory/"]}]
+--- TEXT ---
+InAppStory | Drive LTV Through In-App Communication
+ 
+ 
+ 
+Products 
+Industries 
+Pricing
+Resources 
+Log In
+Get a demo
+ 
+ 
+ONE PLATFORM 
+FOR IN-APP 
+COMMUNICATION AND GAMIFICATION
+You already know your users better than anyone else. InAppStory turns that advantage into interactive, personalized in-app communication and promo games — so new things get seen, and your most valuable users keep coming back.
+Book a demo
+As your audience grows, 
+attention needs to 
+move faster
+You’ve already done the hard part — grown your audience. InAppStory helps you guide attention inside the app, surface what’s new, and keep communication personal as you scale.
+Everything your need 
+for in-app engagement 🚀
+Your team knows where user attention should go next. Your team already knows how to grow and retain users inside the app. InAppStory gives you the tools to bring those ideas to life without working around limitations.
+Formats
+Interactive elements
+Games
+Checkout
+Toast
+A compact message that appears over the interface without interrupting the user flow. Best for quick reminders and trigger-based messages.
+Bottom sheet
+Slides up from the bottom and adds context to the current screen. Useful for offers, clarifications, and in-the-moment actions.
+Stories
+Short full-screen sequences that are easy to view and swipe through. Great for engagement, education, and warming users up to what’s next.
+Pop-up
+Appears as an overlay, instantly grabbing attention. Perfect for promotions, offers, and high-priority messages that shouldn't be missed.
+Banner
+Stays visible on the screen and keeps key content in view — an offer, reminder, tip, or countdown.
++ in-app 
+landing pages
+ (ScrollView) &
+ full-screen messages
+START STRONG 
+WITH 
+500+ 
+REAL-WORLD USE CASES
+• 
+Ready-to-use ideas for in-app communication
+• 
+Templates for activation, sales, retention, and feedback
+• 
+Easy to customize by segment, timing, and placement
+Helping leading brands communicate 
+inside the app for 
+7+ years
+See how successful companies use InAppStory to stay connected with users through clear, timely, and effective in-app communication.
+ 
+ 
+Loved By Teams. Proven In Product.
+Recognized for easy launches, flexible workflows, and visible in-app impact
+5.0
+65
+ reviews
+5.0
+29
+ reviews
+New feature introduction, easy communication with the customers and a very high delivery rate against the usual push notifications. Plus, these are interactive, so it helps us increase engagement with the customer.
+Nupur R., Senior Product Manager
+We wanted instruments that could increase the activity of our clients and make them open our app and interact with it more often. InAppStory has proven to be a fantastic solution to these challenges.
+Anastasia B, Marketing Manager
+A very useful tool for informing users and distributing useful information. In addition, I would like to note a wide range of features that can be selected and integrated into stories in our application.
+Darina R, Product manager
+We are seeing an increase in the session time and sales via stories. Now InAppStory tool are showing stable growth.
+Kate D, Head of CRM
+InAppStory supercharges the tool with our requirements to bring promo codes or discounts that are relevant for different types of app users.
+Andrew A, Head of E‑Merchandising
+ 
+ 
+ 
+Industry
+Fintech
+Ecommerce
+Food & Delivery
+Telecom
+Travel
+Fashion
+Health&Wellness
+Use cases
+Onboarding
+Engagement
+Personalization
+Zero-party data
+Feature adoption
+Embedded Commerce
+In-app special projects
+Products
+Gamification
+In-app messages
+In-app stories
+SMART Banners
+Successes
+Industry insights
+Case studies
+Resources
+Blog
+Glossary
+Documentation
+Write for us
+Company
+About us 
+Why InAppStory?
+Legal
+FAQ
+Pricing
+Terms of service
+Compare
+Storyly vs InAppStory
+StorifyMe vs InAppStory
+Braze vs InAppStory
+Storyteller vs InAppStory
+Plotline vs InAppStory
+Brame vs InAppStory
+AppStorys vs InAppStory
+MoEngage vs InAppStory
+Privacy policy
+Terms of Use
+
+===== product :: https://inappstory.com/feature-adoption
+--- SIGNALS ---
+title: Feature adoption campaigns for mobile apps
+meta_description: Help users discover, understand, and start using app features with contextual in-app campaigns built around real behavior signals.
+og_description: Help users discover, understand, and start using app features with contextual in-app campaigns built around real behavior signals.
+og_site_name: 
+h1: BUILD FEATURE ADOPTION CAMPAIGNS INSIDE THE APP | Place feature education at the decision point | Reduce friction during first use | Personalize adoption campaigns by industry signals
+h2: Feature Adoption x Product impact | Key benefits of integrating in-app communication | One editor for consistent in-app communication experience | Loved by customers like you | How teams succeed | with InAppStory | A multi-market analysis of story performance in a retail app. Service clarity in France, high CTR on promotions in Poland, and strong seasonal engagement in Italy. | See how Hamkorbank turned stories into a real engagement channel inside their banking app. Product tips and local content sparked 250K+ clicks, proving stories can drive both action and loyalty. | FAQ
+jsonld_org: []
+--- TEXT ---
+Feature adoption campaigns for mobile apps
+ 
+ 
+ 
+Products 
+Industries 
+Pricing
+Resources 
+Log In
+Get a demo
+ 
+Home
+ 
+Solutions
+ 
+Feature adoption
+BUILD 
+FEATURE ADOPTION
+ 
+CAMPAIGNS INSIDE THE APP
+Treat feature adoption as a campaign, with a target segment, trigger, format, CTA, and success metric. InAppStory lets teams use stories, smart banners, in-app messages, widgets, mini-games, and in-app landings to move users from discovery to first use. The same workflow supports onboarding, product education, paid upgrades, loyalty mechanics, and revenue-driving product areas without waiting for another app update.
+Start free trial
+Book a call
+ Feature Adoption 
+x Product impact 
+faster adoption of new features when introduced contextually in-app
+32%
+more users reach monetized features when in-app messages highlight upgrades
+24%
+reduction in drop-offs during first-time feature use
+21%
+1/ 
+Place feature education at the decision point
+Feature education works best when it follows a real user signal. Show a new feature when the user opens a related section, repeats the same action, reaches a limit, views an upgrade area, abandons a flow, or returns to a task where the feature can help. The message appears when the feature has a clear reason to exist in the user journey, and the CTA can send the user straight to the relevant screen.
+Try for free
+2/ 
+Reduce friction during first use
+Some features create pressure because users do not understand what changed, where to click, or what happens after the action. Use pop ups, bottom sheets, full-screen messages, toasts, widgets, and short guided stories to answer these questions before the user leaves the flow. This is especially useful for telecom service guidance, fintech product education, subscription changes, loyalty mechanics, and account-related features.
+Try for free
+3/ 
+Personalize adoption campaigns by industry signals
+Use the signals your app already has. Fintech apps can segment by transaction behavior, risk profile, or lifecycle stage. Telecom apps can segment by plan type, add-on usage, roaming status, or support behavior. E-commerce and food apps can segment by purchase frequency, basket behavior, loyalty tier, or promo sensitivity. Show feature education where it has a stronger chance to change behavior.
+Try for free
+4/ 
+Test the adoption hypothesis before UI work
+Low feature usage can come from three different issues: users do not see the feature, do not understand the value, or do not want the action enough. Use in-app campaigns to test these hypotheses before planning interface changes. Validate adoption signals first and invest in development later.
+Try for free
+Key benefits of integrating in-app communication
+Instant publishing
+Control message timing with event triggers, scheduling, and frequency limits. Use single-slide or multi-slide formats to match your message.
+Advanced targeting
+Deliver messages based on user segments, behavior, and CDP data
+Interactive & personalized content
+Use visual layouts, CTAs, promo codes, and interactive widgets — plus a library of ready-made templates — to build tailored messages with images and dynamic links
+Real-time analytics
+Track impressions, clicks, and engagement via the dashboard, API, or CSV/XLS reports
+How it works
+One editor
+ 
+for consistent in-app communication experience
+Loved by customers like you
+5.0
+65
+ reviews
+5.0
+29
+ reviews
+New feature introduction, easy communication with the customers and a very high delivery rate against the usual push notifications. Plus, these are interactive, so it helps us increase engagement with the customer.
+Nupur R., Senior Product Manager
+Stories have enriched our app and made it more lively and closer to customers. It's a very important and powerful communication channel with a great future ahead. 
+Ramina N., Head of marketing
+We really like the intuitive interface of inAppStory. The wide variety of widgets is very pleasing - it allows us to not repeat formats from month to month and constantly create new content.
+Ramina Z., Product manager
+Together with InAppStory, we managed to create a wonderful, engaging, and memorable game that fitted perfectly into new positioning and was also executed quite well in terms of both product quality and performance.
+Mariam G., Head of Content
+The assortment of customizable widgets and design choices simplifies the creation of compelling and dynamic content that we can immediately test their knowledge in an interactive format.
+Vasily K., Product manager
+We are seeing an increase in the session time and sales via stories. Now InAppStory tool are showing stable growth.
+Kate D., Head of CRM
+We wanted instruments that could increase the activity of our clients and make them open our app and interact with it more often. InAppStory has proven to be a fantastic solution to these challenges.
+Anastasia B., Marketing Manager
+InAppStory supercharges the tool with our requirements to bring promo codes or discounts that are relevant for different types of app users.
+Andrew A., Head of E‑Merchandising
+InAppStory became a great tool to simulate users to make purchases right in our app. With different features we can create a variety of stories that engage our clients.
+Rita D, Head of CRM
+How teams succeed
+with InAppStory
+Stories
+A multi-market analysis of story performance in a retail app. Service clarity in France, high CTR on promotions in Poland, and strong seasonal engagement in Italy.
+click conversion can reach in the right segments
+30%
+reading conversion
+46–58%
+CTR up to 
+5%
+Learn full story
+ 
+Stories
+See how Hamkorbank turned stories into a real engagement channel inside their banking app. Product tips and local content sparked 250K+ clicks, proving stories can drive both action and loyalty.
+click-after-open rate
+80%
+unique clicks
+>250k+
+read-through rate
+72%
+Learn full story
+ 
+Contact us
+Show more cases
+Boost in-app engagement! 🚀
+Create interactive in-app experiences that help users explore features, understand value, and take action. Build in-app messages, stories and games without code to influence key product and revenue metrics.
+FAQ
+Why do new app features often get low adoption? 
+Low adoption usually comes from one of five issues: users do not see the feature, do not understand why it is useful, see it at the wrong moment, meet friction during first use, or belong to a segment where the feature has weak relevance.
+That is why feature adoption campaigns should test more than the message. Teams need to check the segment, trigger, placement, CTA, and first-use flow before assuming the feature itself has failed.
+What is the difference between a feature announcement and a feature adoption campaign? 
+A feature announcement tells users that something is new. A feature adoption campaign is built around the next product action.
+A stronger adoption campaign defines who should see the feature, when they should see it, what value frame they need, which format should explain it, and which action proves progress. For example, opening the feature screen, completing setup, using the feature twice, or reaching a monetized area.
+When is the best moment to introduce a feature in-app? 
+The best moment is usually a high-intent moment. This can happen when a user opens a related section, repeats the same behavior, reaches a limit, abandons a flow, views an upgrade area, returns to a task, or shows interest in a connected product category. At this point, the feature has context. The message does not interrupt a random session. It explains a better next step while the user is already close to the relevant action.
+Which in-app format works best for feature adoption? 
+The format should match the complexity of the feature and the type of action you want to drive. Smart banners work well for short prompts and entry points. Stories fit product education and value explanation. Bottom sheets help at moments of hesitation inside a flow. In-app messages can guide users to a specific action. Widgets can collect intent, feedback, or preferences. In-app landings give more space for complex features. 
+What metrics should product teams track for feature adoption? 
+The right metric depends on the feature’s role. For onboarding features, track first-use completion and activation. For monetized features, track visits to paid areas, upgrade clicks, checkout starts, and conversion. For loyalty features, track enrollment, reward views, point usage, and repeat visits. For support-related features, track self-service usage and changes in support requests. For engagement features, track repeat use, session depth, and return rate.
+How can InAppStory support feature adoption? 
+InAppStory helps teams build feature adoption campaigns inside the app using stories, smart banners, pop ups, bottom sheets, full-screen messages, widgets, mini-games, and in-app landings. Teams can target campaigns by behavior, lifecycle stage, status, product interest, and previous actions. They can test different value frames, guide users to the right screen, collect feedback, and measure whether users move from awareness to the intended product action.
+ 
+Industry
+Fintech
+Ecommerce
+Food & Delivery
+Telecom
+Travel
+Fashion
+Health&Wellness
+Use cases
+Onboarding
+Engagement
+Personalization
+Zero-party data
+Feature adoption
+Embedded Commerce
+In-app special projects
+Products
+Gamification
+In-app messages
+In-app stories
+SMART Banners
+Successes
+Industry insights
+Case studies
+Resources
+Blog
+Glossary
+Documentation
+Write for us
+Company
+About us 
+Why InAppStory?
+Legal
+FAQ
+Pricing
+Terms of service
+Compare
+Storyly vs InAppStory
+StorifyMe vs InAppStory
+Braze vs InAppStory
+Storyteller vs InAppStory
+Plotline vs InAppStory
+Brame vs InAppStory
+AppStorys vs InAppStory
+MoEngage vs InAppStory
+Privacy policy
+Terms of Use
+
+===== pricing_or_trust :: https://inappstory.com/pricing
+--- SIGNALS ---
+title: Pricing Plans | InAppStory
+meta_description: InAppStory plans offer all the tools — stories, onboarding, gamification, and more — to boost in-app engagement, with flexible pricing so you pay only for what you need.
+og_description: InAppStory plans offer all the tools — stories, onboarding, gamification, and more — to boost in-app engagement, with flexible pricing so you pay only for what you need.
+og_site_name: 
+h1: INAPPSTORY PRICING | PLANS FOR EVERY STAGE OF GROWTH
+h2: Four Steps to Start Your Free Trial | Explore all features | InAppStory Pro Onboarding | Engage. Excite. Convert. | We love comparisonSee how we stack up 🔍 | Storyly Alternative | StorifyMe vs InAppStory | Brame vs InAppStory: Games or the Complete In-App Journey? | Storyteller Alternative: When to Choose a Wider In-App Campaign Layer | Plotline vs InAppStory | Braze Alternatives | AppStorys vs InAppStory: A New Toolkit or a Proven Platform? | MoEngage vs InAppstory: A Broader Stack or a Deeper In-App Layer? | FAQ | Ready to get started?
+jsonld_org: []
+--- TEXT ---
+Pricing Plans | InAppStory
+ 
+ 
+ 
+Products 
+Industries 
+Pricing
+Resources 
+Log In
+Get a demo
+ 
+ 
+Home
+ 
+Pricing
+INAPPSTORY PRICING
+PLANS FOR EVERY STAGE OF GROWTH
+Create, engage, and scale with all features onboard. 
+Your complete solution, with flexibility to grow
+Annually
+-
+10
+%
+Monthly
+Stories
+PRICE UPON REQUEST
+ 
+ 
+Subject to MAU
+ 
+ 
+Billed per selected cycle
+* One-month free trial
+Calculate my price
+View complete list of features
+Key features:
+ 
+Unlimited stories creation 
+ 
+Unlimited team members
+ 
+Multiple feeds of stories
+ 
+Shoppable video
+ 
+Zero-party data collection
+ 
+Advanced targeting
+Game Center
+PRICE UPON REQUEST
+ 
+ 
+Subject to MAU
+ 
+ 
+Billed per selected cycle
+* One-month free trial
+Calculate my price
+View complete list of features
+Key features:
+ 
+12+ pre-built mini-games
+ 
+No-code customization
+ 
+Quick setup & launch
+ 
+Advanced game analytics
+ 
+Custom game development
+In-App Messaging
+PRICE UPON REQUEST
+ 
+ 
+Subject to impressions
+ 
+ 
+Billed per selected cycle
+* One-month free trial
+Calculate my price
+View complete list of features
+Key features:
+ 
+Bottom sheets, pop-ups, toasts, and full-screen messages
+ 
+Event-triggered messages
+ 
+Promo codes & links
+ 
+Tag & segment targeting
+ 
+A/B testing
+SMART Banners
+PRICE UPON REQUEST
+ 
+ 
+Subject to impressions
+ 
+ 
+Billed per selected cycle
+* One-month free trial
+Calculate my price
+View complete list of features
+Key features:
+ 
+Multi-slide banners
+ 
+Video and animated banners
+ 
+Promo-code banners
+ 
+Scratch card banners
+ 
+Personalized text and visuals
+ 
+Banner → story / game / landing flows
+ 
+Targeting, frequency caps, and limits
+ 
+A/B testing and performance analytics
+Four Steps to Start Your Free Trial
+1
+Request a demo
+Join a 30-min discovery call to map goals and use-cases
+Request a demo
+ 
+2
+Get your success plan
+Receive a tailored rollout roadmap and price quote
+ 
+3
+Integrate our SDK into your app
+Complete a one-time setup guided by our engineers
+ 
+4
+Start your 30-day free trial
+Turn features on for real users and track results
+Explore all features
+Stories
+ 
+Unlimited stories creation
+ 
+Unlimited team members
+ 
+Multiple feeds of stories
+ 
+Interactive widgets
+(quiz, widgets for collecting feedback, quest, copy widget, test, poll, vote, share, countdown, goods widget, scratch cards)
+ 
+Product cards, carousel & price-tags
+ 
+Shoppable video
+ 
+Zero-party data collection
+ 
+Advanced targeting & segmentation
+ 
+Advanced publishing settings
+ 
+Compatibility with all popular CEP
+ 
+Omnichannel synchronization with push notifications, emails, QR and SMS
+ 
+Cross-platform support
+ 
+Two-factor authentication
+ 
+Professional support (for enterprise clients)
+ 
+Advanced video settings:
+Viedo-on-demand
+Extended limitations on video files
+ 
+User personalization:
+User placeholders for text and images
+Advanced segment builder
+ 
+A/B testing:
+Support for up to 5 content variations in stories
+Analytics
+Gamification
+ 
+12+ pre-built mini-games library
+ 
+No-code customization
+ 
+Loyalty program & reward integration
+ 
+Quick setup and launch on both web and mobile
+ 
+Advanced game analytics dashboard
+ 
+API and webhook-based app synchronization
+ 
+Custom game development for special events
+In-app messaging
+ 
+Full-screen, bottom sheet & pop-up formats
+ 
+Drag-and-drop visual editor
+ 
+CTAs: deep-links, promo-codes, barcodes
+ 
+Countdown & other widgets
+ 
+Tag- & segment-based targeting
+ 
+CDP & advanced segment builder integration
+ 
+Dynamic personalization
+ 
+Event- & schedule-based triggers
+ 
+Real-time analytics 
+ 
+Content pre-loading
+ 
+Unified SDK with stories & games
+ 
+A/B testing
+Built-in checkout
+ 
+Product feeds inside stories and in-app flows
+ 
+Product cards and product carousel widgets
+ 
+Add-to-cart functionality
+ 
+Built-in checkout scenarios
+ 
+Personalized product communication
+ 
+Quantity control for selected product widgets
+SMART banners
+ 
+Video banners
+ 
+Multi-slide banners
+ 
+Personalized homepage and placement banners
+ 
+Promo-code banners
+ 
+Product-card banners
+ 
+Countdown banners
+ 
+Targeting and segmentation
+ 
+A/B testing
+ 
+Performance analytics
+In-app landings / ScrollView
+ 
+Deep links and CTAs
+ 
+Images and widgets
+ 
+Available in all games
+ 
+Analytics
+Request a demo
+Book a call
+InAppStory Pro Onboarding
+We’ve created and analysed 30 000+ in-app stories, so you can launch with a proven communication strategy from day one
+Ready-made materials
+strategy + 10 templates + guidebook = less trial-and-error
+😍
+Swipe Up
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+days
+:
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+hours
+:
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+minutes
+100% console usage
+every dashboard feature configured and explained
+Quick start
+reach the “first live campaign” milestone 3× sooner
+Request a demo
+Book a call
+5.0
+65
+ reviews
+5.0
+29
+ reviews
+Engage. Excite. Convert.
+Let’s make your app a destination, not just a tool
+Request a demo
+We love comparison
+See how we stack up 
+🔍
+Listing Ratings & Reviews
+Storyly Alternative
+Learn when teams should look beyond Storyly and choose a broader platform for in-app campaigns, onboarding, support, gamification, and monetization.
+May 17, 2026
+•
+10
+min
+Listing Ratings & Reviews
+StorifyMe vs InAppStory
+A practical comparison of StorifyMe and InAppStory for teams choosing between cross-channel visual content and app-first campaign control.
+June 01, 2026
+•
+10
+min
+Listing Ratings & Reviews
+Brame vs InAppStory: Games or the Complete In-App Journey?
+Compare two gamification platforms for mobile apps, including mechanics, SDK integration, behavioral triggers, custom games, loyalty, and commerce.
+July 21, 2026
+•
+20
+min
+Listing Ratings & Reviews
+Storyteller Alternative: When to Choose a Wider In-App Campaign Layer
+When stories are only the first layer, compare Storyteller with InAppStory for multi-format in-app campaigns and mobile user journeys.
+July 08, 2026
+•
+15
+min
+Listing Ratings & Reviews
+Plotline vs InAppStory
+A clear comparison of Plotline and InAppStory for mobile teams choosing between AI-led omnichannel engagement and focused in-app campaigns.
+July 08, 2026
+•
+15
+min
+Listing Ratings & Reviews
+Braze Alternatives
+Find the perfect Braze alternative with our 2026 guide, featuring platforms rated by real users. Compare features, pricing, and feedback to make an informed decision.
+July 09, 2026
+•
+20
+min
+Listing Ratings & Reviews
+AppStorys vs InAppStory: A New Toolkit or a Proven Platform?
+Compare Appstorys and InAppstory by market experience, operating scale, gamification, customer reviews, custom production, and enterprise deployment.
+July 21, 2026
+•
+20
+min
+Listing Ratings & Reviews
+MoEngage vs InAppstory: A Broader Stack or a Deeper In-App Layer? 
+Explore InAppstory as an alternative to MoEngage’s in-app layer for teams limited by repetitive formats, custom development, or slow campaign production.
+July 22, 2026
+•
+20
+min
+ 
+ 
+FAQ
+Do you have a free trial? 
+Yes. We offer a one-month free trial that starts after your first campaign goes live in the app. That gives your team time to complete integration, prepare the first use case, and test InAppStory on real users instead of losing trial time during setup. The free trial can include the selected products you want to test depending on the agreed rollout plan.
+How does the integration process work? 
+Our solution requires single integration of SDK with no need for extra coding and can usually be launched within 2 weeks. Once integrated, our platform operates smoothly and does not require further involvement from your development team.
+What kind of support can I expect? 
+Our support team is here to ensure your success at every step. We offer rapid, hands-on assistance through Slack, email, and personal video conferences, addressing any technical, integration, or customization questions you might have, typically within a few hours. From initial setup to ongoing optimization, our professional support is designed to guide you through every phase of your journey with us, providing the help you need to fully leverage our platform.
+How is your platform different from competitors? 
+InAppStory brings together three solutions — Stories, Game Center, and In-App Messaging — into one powerful platform for mobile user engagement. You can get a full set of no-code tools to create in-app stories, launch interactive games, and deliver dynamic messages like banners, pop-ups, and modals. Everything is designed to blend seamlessly into your app’s UX, and all plans include unlimited content creation, team access, and advanced analytics with no hidden limits or feature gating.
+How do you calculate MAU? 
+We calculate MAU as the number of unique users who view stories (story reach) each month, including onboarding stories. For initial estimates, the total app users can be used, but final pricing is determined after integration when we see the actual MAU. This ensures fairness and accuracy.
+What app size is the best fit for InAppStory? 
+InAppStory usually fits best when an app already has a meaningful active audience, several user scenarios, and an existing marketing or product growth budget.
+A common fit is a mobile app with roughly 50,000+ monthly active users, where the team needs to improve onboarding, feature adoption, offers, loyalty, feedback, rewards, monetization, or repeat engagement.
+Smaller apps can still be a fit if the use case is strong and the team has a clear plan for in-app communication.
+Can we start with one product and add more later? 
+Yes. Many teams start with one product, such as stories, in-app messages, smart banners, or game center, and expand after the first use case proves value. The platform is designed as one in-app campaign layer, so additional formats can work together after the initial setup.
+Does InAppStory support multilingual in-app stories and games? 
+InAppStory allows teams to create in-app stories in any language. Built-in game UI text is available in 12 languages: English, Russian, Arabic, French, Portuguese, Hungarian, Kazakh, Azerbaijani, Uzbek, Spanish, Georgian, and Armenian.
+Which languages does the InAppStory support team speak? 
+The InAppStory support team assists customers in English and Russian. You can use either language when contacting us about the platform.
+What hosting options does InAppStory offer? 
+InAppStory supports regional cloud hosting and on-premise deployment. Cloud infrastructure is available in multiple countries, with the hosting location selected based on the customer’s region and project requirements. For organizations with specific security, compliance, or data residency requirements, InAppStory can also be deployed within the customer’s own infrastructure.
+Where are InAppStory customers located? 
+InAppStory works with mobile teams across Western and Eastern Europe, MENA, Central Asia, and other regions. Our customers include both international companies operating across several markets and local market leaders.
+Ready to get started?
+Engage your users like never before. Boost your mobile metrics. Ensure a seamless brand experience.
+ 
+Industry
+Fintech
+Ecommerce
+Food & Delivery
+Telecom
+Travel
+Fashion
+Health&Wellness
+Use cases
+Onboarding
+Engagement
+Personalization
+Zero-party data
+Feature adoption
+Embedded Commerce
+In-app special projects
+Products
+Gamification
+In-app messages
+In-app stories
+SMART Banners
+Successes
+Industry insights
+Case studies
+Resources
+Blog
+Glossary
+Documentation
+Write for us
+Company
+About us 
+Why InAppStory?
+Legal
+FAQ
+Pricing
+Terms of service
+Compare
+Storyly vs InAppStory
+StorifyMe vs InAppStory
+Braze vs InAppStory
+Storyteller vs InAppStory
+Plotline vs InAppStory
+Brame vs InAppStory
+AppStorys vs InAppStory
+MoEngage vs InAppStory
+Privacy policy
+Terms of Use

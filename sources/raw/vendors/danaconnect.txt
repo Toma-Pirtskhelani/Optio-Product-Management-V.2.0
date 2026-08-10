@@ -1,0 +1,1598 @@
+===== homepage :: https://www.danaconnect.com/
+--- SIGNALS ---
+title: Banking and insurance customer communications automation
+meta_description: Workflows with intelligent automation and cutting-edge cross-channel technology, powered by security, governance, compliance, and auditing.
+og_description: Workflows with intelligent automation and cutting-edge cross-channel technology, powered by security, governance, compliance, and auditing.
+og_site_name: DANAconnect
+h1: 
+h2: INTELLIGENT FLOWS | INTELLIGENT FLOWS | Customer Communication Automation Solutions | Video signature with biometric identity validation | Dynamic Generation of PDF document with digital signature from data | Cross Channel One Time Password OTP | Customer Satisfaction Survey After a Claim – Claim CSAT | Automation innovations validated by our customers: | What’s the Difference Between Chatbots with Agentic AI and Traditional Chatbots? | 5 Signs Your Identity Verification Process Needs an Upgrade | How to Implement Agentic AI to Enhance the Banking Customer Experience | How to Prevent Fraud and Streamline Onboarding: Biometric Validation Solutions | Drastic Cost Reduction in Digital Document Management for Leading Insurance Company in Peru | Digital Document Management: From only Email to Omnichannel in 5 Weeks | Channel Strategy: Choosing Between WhatsApp and SMS | How Serverless Architectures Change and Expand the Role of Infrastructure Managers | Document Processing Automation with AI: Redefining Efficiency | Email Security: Relaxed DMARC vs. Strict DMARC | Operational Efficiency: The Competitive Advantage of European vs. Latam Insurers | New 2024 Email Requirements of Google and Yahoo: A Guide for Businesses | Hybrid Cloud and Multi-Cloud: Demystifying Concepts for Business Professionals | Technology Team Management Strategies: Trends 2020 – 2023 and Evolution 2024-2025 | Edge Computing: Preparing for the New Technological Wave | Case Study: Dashboards for Hybrid Cloud Process Supervision | WhatsApp for Transactional Notifications: Perspectives and Applications | Unlocking Work-Life Balance: A Strategic Imperative for IT Professionals | Data Warehouse vs. Data Lake: 2 Keys to Data Management | What is The Singularity? Science Fiction or Near Future? | The 10 Most Important Facts to Know about Zero Trust Architecture | The Best Examples of Artificial Intelligence in Insurance
+jsonld_org: [{"@type": "Organization", "@id": "https://www.danaconnect.com/#organization", "name": "DANAconnect", "description": "Automations proven by our customers in bank and insurance", "url": "https://www.danaconnect.com/", "telephone": "+18556003262", "logo": {"@type": "ImageObject", "url": "https://www.danaconnect.com/wp-content/uploads/2023/06/logo-danaconnect-horizontal.png", "@id": "https://www.danaconnect.com/#organizationLogo", "width": 1159, "height": 473}, "image": {"@id": "https://www.danaconnect.com/#organizationLogo"}, "sameAs": ["https://www.instagram.com/danaconnect/", "https://www.youtube.com/user/DANAconnect", "https://www.linkedin.com/company/danaconnect/"]}]
+--- TEXT ---
+Banking and insurance customer communications automation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+Contact
+Partners
+Español
+Login
+Platform
+About the Platform
+Modules, edition comparison and full features.
+Conversation Manager
+ Orchestration of intelligent flows with native channels: Email, SMS, Automated Calls, Push, and API request. 
+Document Manager
+Storage, search, generation, delivery, digital signature, and self-service of digital documents.
+ 
+Biometric Video Signature
+ 
+100% online contract signing and terms acceptance with video and biometrics.
+ 
+SMS and Email Archiving
+Automatic archiving with trace, contents, and attachments of all sent messages for eDiscovery and auditing.
+Inbound Manager
+Customer feedback, forms, SMS Keywords, and incoming communications.
+DMARC Email Security
+Visual reporting and forensic analysis of DMARC records for governance and security.
+Cloud SMTP
+Email from your applications with archiving, reporting, blacklist management, and more.
+SMS for the financial industry
+Special SMS features for flexibility, security, and compliance.
+Use Cases
+By Industry:
+Insurance Companies
+Insurance Brokers
+Insurance TPA
+Assistance Services
+Banks
+Retirement Funds
+Telecom
+By process:
+Marketing & Sales
+KYC & Onboarding
+Account Statements & Collections
+Customer Service
+Customer Experience Measurement
+Security Alerts & Notifications
+Data Quality
+By channel:
+Email
+Email Benefits Overview
+Cloud SMTP
+Email Automations
+SMS
+SMS Benefits Overview
+SMS Automations
+Automated calls
+WhatsApp
+Telegram
+Webforms
+By Products
+Credit Cards
+Payment processing
+Digital Wallets
+Complete Catalog
+Cases with AI
+Services
+Communication Configuration
+Automation Design and Implementation Service
+Design, configuration, cleaning and organization of initial contact data
+Advanced Webforms: Quoting, Customer Experience, Complex Request…
+Training Services
+Introduction to Automated Communications
+Advanced Automation Workflows
+Advanced Web Forms
+Advanced Management and Automated Importation of Contact Lists
+Integration Services
+Output formats of sent message logs
+Input data format
+Tailored webservices
+Operations and Security Monitoring
+DMARC Email Security Implementation Services
+24/7 Operations Department Support Plan
+Document Management
+Dynamic PDF generation: account statements, invoices, policies, contracts…
+Document Migration Service
+Data Transformation to XML Service
+Resources
+Blog
+API Reference
+Academy
+Knowledge Base
+Support
+Helpdesk
+Tools
+SPF – Is your domain protected against phishing?
+Platform Status
+The company
+Pricing
+VIDEO TOUR
+REQUEST DEMO
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Communication Automation for the Financial Ecosystem 
+ 
+Powered by AI 
+ 
+ 
+ 
+INTELLIGENT FLOWS 
+ 
+INTELLIGENT FLOWS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISCOVER MORE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Communication Automation Solutions
+ 
+Assistance Services
+38
+Banks
+29
+Insurance Brokers
+41
+Insurance Companies
+40
+Insurance TPA
+28
+Retirement Funds
+22
+Savings Banks
+29
+Telecoms
+26
+ 
+
+ 
+
+ 
+Video signature with biometric identity validation
+Video signature with biometric ID validation uses AI for real-time facial recognition and behavior analysis, ensuring secure transactions and access.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Dynamic Generation of PDF document with digital signature from data
+Automation to generate a digital service contract, based on a template, which inserts a digitally signed certificate in the issued document.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Cross Channel One Time Password OTP
+Automated solution that allows users to log in to a session or transaction through the verification of code sent through a different different.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Customer Satisfaction Survey After a Claim – Claim CSAT
+Automatically sends a survey after a claim process that allows the customer to submit their feedback with a single click.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Load More Solutions
+
+ 
+
+ 
+
+ 
+
+ 
+Automation innovations validated by our customers:
++100
+financial institutions as customers
+17
+presence in 17 countries
++128 Millions
+end customers reached each month
+ 
+ 
+
+ 
+
+ 
+With DANAconnect, I am able to send emails effectively as well as create surveys to obtain valuable information for my organization.
+Senior Customer Relationship Manager
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+It is an excellent tool for sending communications by email, notifications and text messages, especially SMS with rich content.
+Operational CRM Manager
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Thanks to Danaconnect we can be on the phones and minds of our customers every day.
+Business Intelligence Executive Manager
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+We can focus on other important activities within the organization thanks to DANAConnect’s process automation capabilities.
+IT Systems and Infrastructure Manager
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+It provides an excellent service that allows notifications to be sent very quickly, which allows it to be competitive in the market.
+Corporate Application Design Manager
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+With DANAconnect, I have access to more detailed reports of email and SMS sent, which allows for a more in-depth analysis.
+Digital Channel Manager
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Makes my job easier and has the ability to quickly integrate into any platform.
+Development Manager – Regional Bank Top 10
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+It is a complete platform that helps me design and send surveys.
+Customer Experience Manager
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Good support on the platform, constant service and advice on innovation.
+Director of Product Management – Regional Bank
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Excellent, makes my day to day easier.
+Community Manager
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+DANAconnect provides an excellent service that allows notifications to be dispatched very quickly, which makes it possible to be competitive in the market.
+Corporate Application Design Manager
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+What’s the Difference Between Chatbots with Agentic AI and Traditional Chatbots?
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+5 Signs Your Identity Verification Process Needs an Upgrade
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+How to Implement Agentic AI to Enhance the Banking Customer Experience
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+How to Prevent Fraud and Streamline Onboarding: Biometric Validation Solutions
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Drastic Cost Reduction in Digital Document Management for Leading Insurance Company in Peru
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Digital Document Management: From only Email to Omnichannel in 5 Weeks
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Channel Strategy: Choosing Between WhatsApp and SMS
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+How Serverless Architectures Change and Expand the Role of Infrastructure Managers
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Document Processing Automation with AI: Redefining Efficiency
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Email Security: Relaxed DMARC vs. Strict DMARC
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Operational Efficiency: The Competitive Advantage of European vs. Latam Insurers
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+New 2024 Email Requirements of Google and Yahoo: A Guide for Businesses
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Hybrid Cloud and Multi-Cloud: Demystifying Concepts for Business Professionals
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Technology Team Management Strategies: Trends 2020 – 2023 and Evolution 2024-2025
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Edge Computing: Preparing for the New Technological Wave
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Case Study: Dashboards for Hybrid Cloud Process Supervision
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+WhatsApp for Transactional Notifications: Perspectives and Applications
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Unlocking Work-Life Balance: A Strategic Imperative for IT Professionals
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Data Warehouse vs. Data Lake: 2 Keys to Data Management
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+What is The Singularity? Science Fiction or Near Future?
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The 10 Most Important Facts to Know about Zero Trust Architecture
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The Best Examples of Artificial Intelligence in Insurance
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The 5 Key Communication Strategies During Service Failures
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The DKIM Digital Signature: Strengthens the Security of Business Email
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Designing a Customer-Centric Customer Journey for Banks – Examples
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The 4 Key Factors of Productivity in the Digital Era
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Top 4 Innovations in Cybersecurity Insurance: Protecting Businesses Towards Digital Maturity
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The best examples of Insurance Innovation: Small Products, Big Impact
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The Customer Journey Map in Insurance: Identifying Pain Points and Opportunities
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Navigating a Customer Journey Map in Banking: Identifying Pain Points and Opportunities
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+What is the Customer Journey Map? An Essential Tool for Financial Institutions
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+NPS Benchmarking in the Financial Industry: Analysis to Improve NPS
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Regulatory Overview of Digital and Electronic Signatures in Latin America: A Detailed Analysis
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The Power of SMS Surveys: Maximizing Customer Feedback
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The Double Face of Personalization: Deciphering its negative and positive impacts
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+What do you need to succeed as an IT Leader today?  Actionable Steps to Elevate Your IT Career and Lead Your Team Forward
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Satisfaction Surveys on WhatsApp: A Strategic Customer Experience Approach
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The difference between CCM and CRM: Which is the right tool for my company?
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The Power of Dedicated Innovation Time: Unpacking Google’s 20% Time Policy
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Democratizing Software Development: A Double-Edged Sword for Business and Technology Leaders
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Measuring Customer Experience: What type of survey should I use? Examples
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Inspirational Leadership: How Leadership Skills Foster Innovation
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Email Archiving: Brand Governance, Regulatory Compliance and Message Auditing
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Large-scale Collections with WhatsApp: Practical guide with examples
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Open Innovation: The Master Key for faster value creation in the Financial Industry
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Digital Transformation in the Financial Sector: Six Crucial Skills for Multidisciplinary Teams
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The role of Enterprise Architects in business resilience and growth: 4 real examples
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Product Personalization in Business Strategy: A New Frontier of Competitive Advantage
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Quote Abandonment Recovery by SMS: The Art of Converting Prospects into Customers
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+6 Ways Contact Quality is the X-Factor to a Better Growth Strategy
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+Resources
+Login
+Platform Status
+API Reference
+Academy and Tutorials
+User Support
+Validate Digital Signatures of a Document
+Validate an Audit Report
+Company
+About the company
+Our team
+Our customers
+Brand Kit
+Business partner program
+Privacy Policy
+Terms and conditions
+Career opportunities
+Contacts
+2200 N Commerce Pkwy, Suite 200, Weston, FL, 33326
+Call us:
++1 855 6003262
+Contacts us
+© DANAconnect Corp. 2012-2025 – All rights reserved.
+Facebook
+ 
+Twitter
+LinkedIn
+YouTube
+Vimeo
+Instagram
+ 
+
+ 
+Menu
+
+===== product :: https://www.danaconnect.com/platform/
+--- SIGNALS ---
+title: DANAconnect Platform | DANAconnect
+meta_description: Govern your incoming and outgoing communications, your contact lists and attachments from one place.
+og_description: Govern your incoming and outgoing communications, your contact lists and attachments from one place.
+og_site_name: DANAconnect
+h1: Control your incoming and outgoing communications, your contact lists and attachments from one place | DANAconnect features | Tools for security and governance
+h2: With great power comes great flexibility | Streamline Your Customer Communications
+jsonld_org: [{"@type": "Organization", "@id": "https://www.danaconnect.com/#organization", "name": "DANAconnect", "description": "Automations proven by our customers in bank and insurance", "url": "https://www.danaconnect.com/", "telephone": "+18556003262", "logo": {"@type": "ImageObject", "url": "https://www.danaconnect.com/wp-content/uploads/2023/06/logo-danaconnect-horizontal.png", "@id": "https://www.danaconnect.com/platform/#organizationLogo", "width": 1159, "height": 473}, "image": {"@id": "https://www.danaconnect.com/platform/#organizationLogo"}, "sameAs": ["https://www.instagram.com/danaconnect/", "https://www.youtube.com/user/DANAconnect", "https://www.linkedin.com/company/danaconnect/"]}]
+--- TEXT ---
+DANAconnect Platform | DANAconnect
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+Contact
+Partners
+Español
+Login
+Platform
+About the Platform
+Modules, edition comparison and full features.
+Conversation Manager
+ Orchestration of intelligent flows with native channels: Email, SMS, Automated Calls, Push, and API request. 
+Document Manager
+Storage, search, generation, delivery, digital signature, and self-service of digital documents.
+ 
+Biometric Video Signature
+ 
+100% online contract signing and terms acceptance with video and biometrics.
+ 
+SMS and Email Archiving
+Automatic archiving with trace, contents, and attachments of all sent messages for eDiscovery and auditing.
+Inbound Manager
+Customer feedback, forms, SMS Keywords, and incoming communications.
+DMARC Email Security
+Visual reporting and forensic analysis of DMARC records for governance and security.
+Cloud SMTP
+Email from your applications with archiving, reporting, blacklist management, and more.
+SMS for the financial industry
+Special SMS features for flexibility, security, and compliance.
+Use Cases
+By Industry:
+Insurance Companies
+Insurance Brokers
+Insurance TPA
+Assistance Services
+Banks
+Retirement Funds
+Telecom
+By process:
+Marketing & Sales
+KYC & Onboarding
+Account Statements & Collections
+Customer Service
+Customer Experience Measurement
+Security Alerts & Notifications
+Data Quality
+By channel:
+Email
+Email Benefits Overview
+Cloud SMTP
+Email Automations
+SMS
+SMS Benefits Overview
+SMS Automations
+Automated calls
+WhatsApp
+Telegram
+Webforms
+By Products
+Credit Cards
+Payment processing
+Digital Wallets
+Complete Catalog
+Cases with AI
+Services
+Communication Configuration
+Automation Design and Implementation Service
+Design, configuration, cleaning and organization of initial contact data
+Advanced Webforms: Quoting, Customer Experience, Complex Request…
+Training Services
+Introduction to Automated Communications
+Advanced Automation Workflows
+Advanced Web Forms
+Advanced Management and Automated Importation of Contact Lists
+Integration Services
+Output formats of sent message logs
+Input data format
+Tailored webservices
+Operations and Security Monitoring
+DMARC Email Security Implementation Services
+24/7 Operations Department Support Plan
+Document Management
+Dynamic PDF generation: account statements, invoices, policies, contracts…
+Document Migration Service
+Data Transformation to XML Service
+Resources
+Blog
+API Reference
+Academy
+Knowledge Base
+Support
+Helpdesk
+Tools
+SPF – Is your domain protected against phishing?
+Platform Status
+The company
+Pricing
+VIDEO TOUR
+REQUEST DEMO
+About the platform
+Modules
+Conversation Manager – Automated Workflow design
+Document Manager – Self-service for customers
+SMS and Email Archiving for Auditing and Compliance
+Inbound Manager – Lead and customer data input
+DMARC report viewer for email security
+Cloud SMTP
+SMS features for the financial industry
+Contact Manager – Customer list management
+Complete Features
+Compare editions
+SMS coverage
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+One single platform
+for the entire Customer Journey 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUTOMATE 
+ 
+all departments 
+ 
+ 
+ 
+Sales, Marketing & CX 
+ 
+ 
+ 
+ 
+ 
+Collection 
+ & Billing 
+ 
+Optimize invoice delivery, account statements, payments tracking and pre-authorized debit adoption with automated flows that improve the efficiency, effectiveness and costs of your collection management. 
+ 
+ 
+ 
+ 
+Document Delivery 
+ 
+Empower your company with a platform that handles, delivers, automates and allows your customers with self-served digital documents through SMS, email, Chatbot, WhatsApp and more. 
+ 
+ 
+ 
+Optimize your customer's life cycle and communication processes through automated flows with combining emails, SMS, automated calls, landing pages, forms and push. 
+ 
+ 
+ 
+Transaction
+ Notifications Flows 
+ 
+Send to your customers confidential, critical and relevant information instantly, at the moment that is really useful and improve customer experience.
+ 
+ 
+ 
+ 
+ 
+ 
+ECOSYSTEM 
+ 
+financial services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Control your incoming and outgoing communications, your contact lists and attachments from one place
+Conversation
+Manager
+A set of interfaces for creating iterative logic flows that run automatically sends communications and triggers processes by SMS, email, automated calls, WhatsApp, chatbot, push, and webservices.
+More about this
+Contact
+Manager
+A database manager designed explicitly for contact lists that allows you to manage, import, export and easily segment your customer list, and it’s easy to use for any kind of user.
+More about this
+Inbound
+Manager
+A visual tool with an easy-to-use interface that allows you to create input methods so that your clients can send you information: forms, Facebook leads, landing pages, SMS keywords, and much more.
+More about this
+Document
+Manager
+A manager and repository for documents that centralizes the delivery of digital files in a highly secure way through channels such as email, SMS, chatbot, mobile applications, and web portals.
+More about this
+DANAconnect features
+Outbound Communications Flows
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data management and incoming communications
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Digital Document Management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reports and Business Intelligence
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+API Integration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Information Security
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compliance with regulations when sending communications
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Special features for development teams
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tools for security and governance
+Audit
+Manager
+Generates detailed reports for each communication and each transmission in native format that are legally admissible and could be used as evidence in audits and litigation.
+DMARC
+Dashboard
+Presents DMARC daily reports in a visual interface that interprets the data and allows monitoring which servers are sending communications on behalf of your domain.
+Deliverability
+Dashboard
+Monitors and presents a summary of internal and external elements that may affect the delivery of messages.
+Security
+Dashboard
+Presents summaries for the latest activities, historical user access, IP addresses, authorized senders, delivery schedules, safety rules and more.
+Account
+Security
+Allows you to create permission and restricts access to DANAconnect accounts implementing senders license according to the type of user, schedules, IPs, communication channel and application.
+With great power comes great flexibility
+Overcome channels and departments silos
+A shared and unique platform for all processes, in any department, combining all channels.
+Plug and play and modular approach
+Ready-to-use solutions and independent modules that transform your business quickly and efficiently.
+Integrations with any system
+A variety of APIs and custom integrations to connect with your systems and third-party applications.
+Orchestration combining multiple channels
+Delivers to all devices and reaches all your customers by SMS, email, calls, push, chatbot, and WhatsApp.
+Cloud-based service scalable to your needs
+Redundancy of all systems
+Where are located?
+Server location
+Automatic end user privacy management
+Proprietary self managed email platform
+Ver detalle
+Worldwide local SMS coverage
+View coverage
+Cobertura de SMS
+ 
+Short Numbers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Long numbers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Streamline Your Customer Communications
+Eliminate manual processes end-to-end
+Explore Use Cases
+
+
+
+
+ 
+Resources
+Login
+Platform Status
+API Reference
+Academy and Tutorials
+User Support
+Validate Digital Signatures of a Document
+Validate an Audit Report
+Company
+About the company
+Our team
+Our customers
+Brand Kit
+Business partner program
+Privacy Policy
+Terms and conditions
+Career opportunities
+Contacts
+2200 N Commerce Pkwy, Suite 200, Weston, FL, 33326
+Call us:
++1 855 6003262
+Contacts us
+© DANAconnect Corp. 2012-2025 – All rights reserved.
+Facebook
+ 
+Twitter
+LinkedIn
+YouTube
+Vimeo
+Instagram
+ 
+
+ 
+Menu

@@ -1,0 +1,2552 @@
+===== llms.txt :: https://www.hostinger.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Hostinger
+> Comprehensive overview of Hostinger's web hosting services, tools, website builders, domain options, and specialized hosting solutions.
+## Core Hosting Services
+- [Web Hosting](https://www.hostinger.com/web-hosting): Affordable and reliable web hosting solutions.
+- [WordPress Hosting](https://www.hostinger.com/wordpress-hosting): Optimized hosting for WordPress websites.
+- [Cloud Hosting](https://www.hostinger.com/cloud-hosting): Scalable cloud infrastructure for growing websites.
+- [VPS Hosting](https://www.hostinger.com/vps-hosting): Virtual private server solutions with dedicated resources.
+- [Cheap Web Hosting](https://www.hostinger.com/cheap-web-hosting): Budget-friendly hosting options without compromising quality.
+## Domain Services
+- [Domain Name Search](https://www.hostinger.com/domain-name-search): Find and register your perfect domain name.
+- [Free Domain](https://www.hostinger.com/free-domain): Get a free domain with selected hosting packages.
+- [Cheap Domain Names](https://www.hostinger.com/cheap-domain-names): Affordable domain registration options.
+- [Domain Transfer](https://www.hostinger.com/transfer-domain): Transfer your existing domain to Hostinger.
+- [WHOIS Lookup](https://www.hostinger.com/whois): Check domain ownership and registration information.
+## Website Building Tools
+- [Website Builder](https://www.hostinger.com/website-builder): Easy drag-and-drop website creation tool.
+- [AI Website Builder](https://www.hostinger.com/ai-website-builder): Create websites quickly with AI assistance.
+- [AI Website Builder for WordPress](https://www.hostinger.com/ai-website-builder-for-wordpress): AI-powered WordPress site creation.
+- [Landing Page Builder](https://www.hostinger.com/landing-page-builder): Create effective landing pages.
+- [Logo Maker](https://www.hostinger.com/logo-maker): Design professional logos for your brand.
+- [Blog Maker](https://www.hostinger.com/blog-maker): Easy blog creation platform.
+## Specialized Website Solutions
+- [eCommerce Hosting](https://www.hostinger.com/ecommerce-hosting): Hosting optimized for online stores.
+- [eCommerce Website](https://www.hostinger.com/ecommerce-website): Complete solutions for online businesses.
+- [Business Website](https://www.hostinger.com/business-website): Professional websites for businesses.
+- [Portfolio Website](https://www.hostinger.com/portfolio-website): Showcase your work with portfolio sites.
+- [Wedding Website](https://www.hostinger.com/wedding-website): Create websites for wedding events.
+- [Event Website](https://www.hostinger.com/event-website): Websites for conferences and events.
+- [Restaurant Website](https://www.hostinger.com/restaurant-website): Restaurant-specific website solutions.
+- [Photography Website](https://www.hostinger.com/photography-website): Websites for photographers.
+- [Real Estate Website](https://www.hostinger.com/real-estate-website): Solutions for real estate professionals.
+- [Fitness Website](https://www.hostinger.com/fitness-website): Websites for fitness professionals and gyms.
+## CMS & Application Hosting
+- [CMS Hosting](https://www.hostinger.com/cms-hosting): Hosting for content management systems.
+- [WordPress Hosting](https://www.hostinger.com/wordpress-hosting): Specialized hosting for WordPress.
+- [WooCommerce Hosting](https://www.hostinger.com/woocommerce-hosting): Optimized for WooCommerce stores.
+- [Joomla Hosting](https://www.hostinger.com/joomla-hosting): Hosting solutions for Joomla websites.
+- [Drupal Hosting](https://www.hostinger.com/drupal-hosting): Hosting optimized for Drupal CMS.
+- [PrestaShop Hosting](https://www.hostinger.com/prestashop-hosting): Hosting for PrestaShop eCommerce.
+- [PHP Hosting](https://www.hostinger.com/php-hosting): Optimized for PHP applications.
+## VPS Solutions
+- [Linux Hosting](https://www.hostinger.com/vps/linux-hosting): VPS with various Linux distributions.
+- [Ubuntu Hosting](https://www.hostinger.com/vps/ubuntu-hosting): Ubuntu-based VPS solutions.
+- [Debian Hosting](https://www.hostinger.com/vps/debian-hosting): Debian-based virtual servers.
+- [CentOS Hosting](https://www.hostinger.com/vps/centos-hosting): CentOS virtual private servers.
+- [Docker Hosting](https://www.hostinger.com/vps/docker-hosting): VPS optimized for Docker containers.
+- [Game Server Hosting](https://www.hostinger.com/vps/game-server-hosting): VPS solutions for game servers.
+- [Minecraft Hosting](https://www.hostinger.com/vps/minecraft-hosting): Dedicated Minecraft server hosting.
+## Business Solutions
+- [Business Email](https://www.hostinger.com/business-email): Professional email hosting for businesses.
+- [Google Workspace](https://www.hostinger.com/google-workspace): Google's productivity suite integration.
+- [Website Design](https://www.hostinger.com/website-design): Professional website design services.
+- [Website Migration](https://www.hostinger.com/website-migration): Transfer your existing website to Hostinger.
+- [Free SSL Certificate](https://www.hostinger.com/free-ssl-certificate): Secure your website with SSL.
+## Website Templates
+- [Website Templates](https://www.hostinger.com/website-templates): Pre-designed website templates.
+- [Business Templates](https://www.hostinger.com/templates/business): Templates for business websites.
+- [eCommerce Templates](https://www.hostinger.com/templates/ecommerce): Templates for online stores.
+- [Portfolio Templates](https://www.hostinger.com/templates/portfolio): Templates for portfolio websites.
+- [Blog Templates](https://www.hostinger.com/templates/blog): Templates for blog websites.
+- [Restaurant Templates](https://www.hostinger.com/templates/restaurant): Templates for restaurant websites.
+- [Wedding Templates](https://www.hostinger.com/templates/wedding): Templates for wedding websites.
+## Domain Extensions
+- [.com Domain](https://www.hostinger.com/tld/com-domain): Register a .com domain name.
+- [.net Domain](https://www.hostinger.com/tld/net-domain): Register a .net domain name.
+- [.org Domain](https://www.hostinger.com/tld/org-domain): Register a .org domain name.
+- [.io Domain](https://www.hostinger.com/tld/io-domain): Register a .io domain name.
+- [.tech Domain](https://www.hostinger.com/tld/tech-domain): Register a .tech domain name.
+- [Country TLDs](https://www.hostinger.com/tld): Various country-specific domain extensions.
+## Company Information
+- [About Hostinger](https://www.hostinger.com/about): Company information and history.
+- [Careers](https://www.hostinger.com/career): Job opportunities at Hostinger.
+- [Principles](https://www.hostinger.com/principles): Company values and mission.
+- [Technology](https://www.hostinger.com/technology): Infrastructure and technology stack.
+- [Sustainability](https://www.hostinger.com/sustainability): Environmental initiatives.
+- [Reviews](https://www.hostinger.com/reviews): Customer testimonials and reviews.
+- [Newsroom](https://www.hostinger.com/newsroom): Company news and updates.
+- [Contacts](https://www.hostinger.com/contacts): Contact information.
+## Partner Programs
+- [Affiliates Program](https://www.hostinger.com/affiliates): Earn commissions promoting Hostinger.
+- [Referral Program](https://www.hostinger.com/referral-program): Refer friends and earn rewards.
+- [Wall of Fame](https://www.hostinger.com/wall-of-fame): Recognition for top contributors.
+## Tools & Resources
+- [Business Name Generator](https://www.hostinger.com/business-name-generator): Generate unique business names.
+- [Special Offers](https://www.hostinger.com/coupons): Discounts and promotional deals.
+- [Black Friday Deals](https://www.hostinger.com/black-friday-web-hosting-deals): Special Black Friday offers.
+- [Site Map](https://www.hostinger.com/sitemap): Complete website directory.
+- [Report Abuse](https://www.hostinger.com/report-abuse): Report abuse of Hostinger services.
+- [Whistleblow](https://www.hostinger.com/whistleblow): Report violations or issues.
+# Hostinger Support Articles
+## Domains
+- [Are domain names purchased at Hostinger registered to your own name](https://support.hostinger.com/en/articles/1583416-are-domain-names-purchased-at-hostinger-registered-to-your-own-name): Domain's ownership after registering it at Hostinger
+- [Are idn domains supported at Hostinger](https://support.hostinger.com/en/articles/1583418-are-idn-domains-supported-at-hostinger): Using Internationalized Domain Names domains at Hostinger
+- [Are wildcard or multi domain SSL certificates supported at Hostinger](https://support.hostinger.com/en/articles/1583432-are-wildcard-or-multi-domain-ssl-certificates-supported-at-hostinger): Having one SSL certificate for several domain names, or for a domain name and its subdomains
+- [Can a domain name be changed after purchase](https://support.hostinger.com/en/articles/1583411-can-a-domain-name-be-changed-after-purchase): Changing or replacing a purchased domain name
+- [Can a domain transfer be canceled](https://support.hostinger.com/en/articles/8899390-can-a-domain-transfer-be-canceled): Is it possible to stop a domain transfer?
+- [Can external domains be hosted at Hostinger](https://support.hostinger.com/en/articles/1583408-can-external-domains-be-hosted-at-hostinger): Hosting a domain registered with another provider at Hostinger
+- [Complete guide to fr domains at Hostinger](https://support.hostinger.com/en/articles/10766174-complete-guide-to-fr-domains-at-hostinger): Requirements, renewal and transfer process for .fr domains
+- [Connecting a different domain to your existing website](https://support.hostinger.com/en/articles/6807580-connecting-a-different-domain-to-your-existing-website): Connecting another domain to a website created with WordPress, Website Builder, Hostinger Horizons, or other website type
+- [Dns zone management at Hostinger](https://support.hostinger.com/en/collections/2534491-dns-zone-management-at-hostinger): DNS Zone Management at Hostinger | Hostinger Help Center
+- [Dns](https://support.hostinger.com/en/collections/2590037-dns): DNS | Hostinger Help Center
+- [Dns](https://support.hostinger.com/en/collections/944831-dns): Managing your domain's DNS Zone
+- [Domain contact details](https://support.hostinger.com/en/collections/3209160-domain-contact-details): Domain Contact Details | Hostinger Help Center
+- [Domain does not work with www](https://support.hostinger.com/en/articles/1583410-domain-does-not-work-with-www): Fixing a website that cannot be accessed with www
+- [Domain life cycle](https://support.hostinger.com/en/articles/3004042-domain-life-cycle): Navigating the domain life cycle: Available, Active, Grace, Redemption, and Deletion Periods
+- [Domain registration](https://support.hostinger.com/en/collections/3209170-domain-registration): Domain Registration | Hostinger Help Center
+- [Domain renewal](https://support.hostinger.com/en/collections/3209150-domain-renewal): Domain Renewal | Hostinger Help Center
+- [Domain verification](https://support.hostinger.com/en/collections/3209156-domain-verification): Domain Verification | Hostinger Help Center
+- [Domains](https://support.hostinger.com/en/collections/3304441-domains): Domains | Hostinger Help Center
+- [Domains](https://support.hostinger.com/en/collections/944762-domains): Useful information about purchasing, transferring and managing your domains at Hostinger
+- [Hostinger email dns records](https://support.hostinger.com/en/collections/2944645-hostinger-email-dns-records): Hostinger Email: DNS Records | Hostinger Help Center
+- [Hostinger horizons how to connect a domain](https://support.hostinger.com/en/articles/10672797-hostinger-horizons-how-to-connect-a-domain): Learn how to connect a custom domain to your web app created with Hostinger Horizons and get your web application live
+- [Hostinger horizons how to connect a subdomain](https://support.hostinger.com/en/articles/10673027-hostinger-horizons-how-to-connect-a-subdomain): Learn how to connect a subdomain to your Horizons project and how to get your web application live
+- [How long does domain transfer take](https://support.hostinger.com/en/articles/1583399-how-long-does-domain-transfer-take): Find out when is your domain transfer going to be completed
+- [How long does it take for a new domain to be active](https://support.hostinger.com/en/articles/1583403-how-long-does-it-take-for-a-new-domain-to-be-active): How much time is required for new domain activation
+- [How much does it cost to register a new domain](https://support.hostinger.com/en/articles/1583426-how-much-does-it-cost-to-register-a-new-domain): Learn about domain registration prices
+- [How to access your website content without a domain](https://support.hostinger.com/en/articles/2489693-how-to-access-your-website-content-without-a-domain): Ways to access your website before or during domain connection
+- [How to add a domain to google search console](https://support.hostinger.com/en/articles/3692620-how-to-add-a-domain-to-google-search-console): Step-by-step guide for adding a domain to Google Search Console.
+- [How to add a domain to the bing search console](https://support.hostinger.com/en/articles/5844144-how-to-add-a-domain-to-the-bing-search-console): Step-by-step guide for adding a domain to the Bing Search Console
+- [How to assign a login page to a domain instead of ip at cyberpanel](https://support.hostinger.com/en/articles/5387340-how-to-assign-a-login-page-to-a-domain-instead-of-ip-at-cyberpanel): How to log in to your CyberPanel with a domain name instead of IP
+- [How to cancel a domain name](https://support.hostinger.com/en/articles/1583402-how-to-cancel-a-domain-name): What to do if you no longer want to use a domain
+- [How to change dns records in other domain registrars](https://support.hostinger.com/en/articles/4410887-how-to-change-dns-records-in-other-domain-registrars): Changing the DNS records (NS, TXT, MX, A, etc.) of your domain in different domain registrars/hosting providers
+- [How to change domain contact details for es domains](https://support.hostinger.com/en/arti
+
+===== homepage :: https://www.hostinger.com/
+--- SIGNALS ---
+title: Hostinger - Bring Your Idea Online With a Website
+meta_description: Choose Hostinger and make the perfect site. From Shared Hosting and Domains to VPS and Cloud plans. We have all you need for online success.
+og_description: Choose Hostinger and make the perfect site. From Shared Hosting and Domains to VPS and Cloud plans. We have all you need for online success.
+og_site_name: Hostinger
+h1: Your online success starts here
+h2: Plans and prices | Vibe code websites | They succeeded online - now it’s your turn | From idea to online, quicker and slicker | Human-led, AI-powered | Start with Kodee | Email your audience with confidence | Made with Hostinger | Get summer sale prices while they last | Not sure which plan to choose?
+jsonld_org: [{"@id": "https://www.hostinger.com/#/schema/organization/1", "@type": "Organization", "foundingDate": "2004", "legalName": "Hosting Hostinger", "logo": "https://www.hostinger.com/logo-400x400.png", "name": "Hostinger", "url": "https://www.hostinger.com", "address": {"@type": "PostalAddress"}, "contactPoint": {"@type": "ContactPoint", "contactType": "Sales"}, "image": {"@id": "https://www.hostinger.com/#/schema/image/1"}, "sameAs": ["https://www.facebook.com/Hostinger", "https://x.com/Hostinger", "https://www.youtube.com/@Hostinger", "https://www.trustpilot.com/review/www.hostinger.com", "https://www.g2.com/products/hostinger/reviews", "https://hostadvice.com/hosting-company/hostinger-reviews", "https://en.wikipedia.org/wiki/Hostinger", "https://www.wikidata.org/wiki/Q55613975", "https://github.com/hostinger"]}, {"@type": "Organization", "name": "Hostinger", "url": "https://www.hostinger.com", "logo": {"@type": "ImageObject", "url": "https://www.hostinger.com/logo-400x400.png", "height": 400, "width": 400}}]
+--- TEXT ---
+Hostinger - Bring Your Idea Online With a Website
+ 
+ 
+Summer Sale: up to 80% off
+Claim deal
+ 
+ 
+Pricing
+Products 
+ 
+Products
+ 
+AI and automation
+ 
+Hosting
+ 
+Domains
+ 
+Create a website
+ 
+Sell online
+ 
+Email and marketing
+ 
+For agencies
+Automate and deploy
+Hostinger Agents
+New
+Ready-to-use AI team for daily business tasks.
+OpenClaw
+Personal, always-on AI assistant for everyday automation.
+Hermes Agent
+New
+Persistent, context-aware AI agent for continuous automations.
+Self-hosted n8n
+Custom, node-based AI workflows with full control.
+Hostinger Connector
+New
+Build sites and manage hosting with your AI coding assistant.
+Agentic Mail
+New
+Email infrastructure designed for AI agents.
+Create and grow
+Vibe code your site
+Free trial
+Create a business ready website by chatting with AI.
+Email marketing
+Create and send AI powered email campaigns.
+Hermes Agent
+New
+ 
+Stop doing the same tasks twice
+Describe your workflow. Hermes takes it from there and keeps going.
+Meet Hermes Agent
+Developers 
+ 
+Developers tools
+Hosting Connector
+Build sites and manage hosting with your AI coding assistant.
+Hostinger Headless
+Backend and hosting for your AI-built projects.
+Application hosting
+Deploy open-source apps in seconds.
+Hostinger CLI
+Control Hostinger from your terminal, scripts, and agents.
+Agentic Mail
+Email built for AI agents and workflows.
+Hostinger Mail CLI
+Send and manage email from your terminal, scripts, and automated workflows.
+AI router
+One API for every LLM.
+Hostinger SDK
+Official Hostinger libraries for your language.
+Resources
+Hostinger API
+API reference for every product.
+Documentation
+Guides and examples for every tool.
+System status
+Live uptime and incident updates.
+Community
+ 
+ 
+ 
+ 
+Free to install
+ 
+Hostinger connector
+Connect Cursor, Claude, or any MCP client to your hosting. Set up in 2 minutes.
+Get connector
+Resources 
+ 
+About
+Blog
+Expert tips, product updates, and customer stories.
+Product updates
+Latest releases and upcoming features.
+Our story
+Meet the people and platform behind your success.
+Contact
+How to reach us.
+Guidance
+Knowledge Base
+Help articles and guides for every Hostinger service.
+Tutorials
+Articles to help you achieve your online success story.
+Hostinger Academy
+Practical video guides to help you build and grow online.
+Learning lab
+Guided paths to build, launch, and grow online.
+Newsroom
+Official Hostinger news and press releases.
+Learning lab
+ 
+Find the right learning path for you
+Choose your goal, learn your way, and keep building with confidence.
+Go to Learning lab
+ 
+ EN
+ 
+ 
+Search
+ 
+Free domain for 1 year  
+included with 
+yearly plans
+Sorry, your browser doesn't support embedded videos.
+Your online success starts here
+From launching a website to growing your business, Hostinger’s got you covered.
+Start now
+ 
+ 30-day money-back guarantee
+Plans and prices
+ 
+Summer Sale: find the right plan and save up to 80%.
+From 
+$2.99
+/month
+ 
+Vibe code websites
+ 
+Describe what you want, and Horizons builds it. No technical skills needed.
+Try for free
+No credit card required
+Trusted by
+They succeeded online - now it’s your turn
+ 
+“Hostinger is the best hosting provider I’ve ever used. The support is amazing and the prices are unbeatable.”
+Hostinger Horizons
+Jordi Robert
+Marketing expert
+ 
+“Hostinger AI Website Builder takes out a lot of manual work. The website I built was spot on - I had to make only a few changes.”
+Website builder
+Domains
+Email
+Jarrott Brown
+Business owner
+Watch video
+ 
+ 
+“I've been recommending my clients to migrate to Hostinger. Everything is easy, and new features come out all the time.”
+Cloud hosting
+Domains
+Email
+Anna Franques
+Digital designer & developer
+ 
+“Ever had an idea for a website or tool? With Hostinger Horizons, you explain it, and the AI just builds it.” 
+Hostinger Horizons
+Albert Bermejo
+Content creator
+ 
+“Hostinger Website Builder offers the most user-friendly experience I've ever encountered.”
+Website builder
+Domains
+Mitch Cardoza
+Guitarist, singer and producer
+Watch video
+ 
+ 
+“Thanks to Hostinger's simple dashboard, we can manage our WordPress website ourselves.” 
+Cloud hosting
+Domains
+Email
+Elise Hernaez
+Business owner
+ 
+“Hostinger is the best hosting provider I’ve ever used. The support is amazing and the prices are unbeatable.”
+Hostinger Horizons
+Jordi Robert
+Marketing expert
+ 
+“Hostinger AI Website Builder takes out a lot of manual work. The website I built was spot on - I had to make only a few changes.”
+Website builder
+Domains
+Email
+Jarrott Brown
+Business owner
+Watch video
+ 
+ 
+“I've been recommending my clients to migrate to Hostinger. Everything is easy, and new features come out all the time.”
+Cloud hosting
+Domains
+Email
+Anna Franques
+Digital designer & developer
+ 
+“Ever had an idea for a website or tool? With Hostinger Horizons, you explain it, and the AI just builds it.” 
+Hostinger Horizons
+Albert Bermejo
+Content creator
+ 
+“Hostinger Website Builder offers the most user-friendly experience I've ever encountered.”
+Website builder
+Domains
+Mitch Cardoza
+Guitarist, singer and producer
+Watch video
+ 
+ 
+“Thanks to Hostinger's simple dashboard, we can manage our WordPress website ourselves.” 
+Cloud hosting
+Domains
+Email
+Elise Hernaez
+Business owner
+Build and launch
+From idea to online, quicker and slicker
+Sorry, your browser doesn't support embedded videos.
+Hostinger Horizons
+Vibe code your website or web app today
+Describe what you want, and Horizons builds it for you. No technical skills needed.
+Create with Horizons 
+ 
+ 
+Sorry, your browser doesn't support embedded videos.
+Quick-start WordPress
+WordPress without the complexity
+Create a WordPress site with AI, use a pre-built template, or start from scratch. While we take care of site maintenance, speed, and security for you.
+Build a WordPress site 
+ 
+ 
+Migrate to Hostinger 
+ 
+ 
+More power & control
+Automate the busywork
+ 
+Turn hard work into smart work with n8n hosting. Use no-code, AI workflows to swap time-wasting manual tasks for easy, speedy automation. So you can focus on what really matters.
+Learn more
+Performance you can rely on
+ 
+Unlock blazing-fast performance and rock-solid stability with a Virtual Private Server (VPS). Built to keep your large online projects running smoothly and your data secure.
+Learn more
+More flexible growth
+Hosting that grows with you
+ 
+Cloud hosting offers scalable resources that ensure you never reach a limit. Keep growing with reliable uptime, powerful performance, enhanced security, and flexible pricing.
+Learn more
+Hosting for agencies
+ 
+Make access sharing, managing multiple websites, and client collaboration secure and seamless.
+Learn more
+5M+
+Clients trust Hostinger
+150+
+Countries served
+20+
+Years of experience
+10M+
+Websites created with us
+5M+
+Clients trust Hostinger
+150+
+Countries served
+20+
+Years of experience
+10M+
+Websites created with us
+AI tools
+Human-led, AI-powered
+Hostinger’s AI experience helps you seamlessly grow online, while keeping you firmly in control of your online success.
+Get started
+Sorry, your browser doesn't support embedded videos.
+ 
+Your AI agent, Kodee
+Kodee takes the stress out of managing your online presence with instant help and proactive support.
+ 
+Backstage AI
+Behind the scenes, Hostinger's built-in AI automates tasks, assists in decision-making, and boosts your visibility in AI-generated search results.
+ 
+AI tools
+Create, launch, and scale smarter with AI tools at your fingertips – a logo maker, image generator, and more.
+ 
+Your AI agent, Kodee
+Kodee takes the stress out of managing your online presence with instant help and proactive support.
+ 
+Backstage AI
+Behind the scenes, Hostinger's built-in AI automates tasks, assists in decision-making, and boosts your visibility in AI-generated search results.
+ 
+AI tools
+Create, launch, and scale smarter with AI tools at your fingertips – a logo maker, image generator, and more.
+Start with Kodee
+Start chat or reach out on WhatsApp at 
+ +16594444429
+, Kodee will help you choose the right plan, set things up, and start your online journey with us.
+Smarter email
+Email your audience with confidence
+Business
+Build trust with a professional business email
+Polish your brand, protect your inbox, and grow your business with tools that keep you in the driver’s seat.
+ 
+Build trust with a branded business email
+ 
+Seamless email access across all apps and devices
+ 
+Private, protected, and always online
+Set up business email
+Marketing
+Grow your business with AI-powered email marketing
+With Reach, you can schedule emails, automate sequences to save time, and maintain brand consistency.
+ 
+Design and write emails with AI
+ 
+Your logo and colors, auto-applied
+ 
+No coding required
+Start email marketing with Reach
+Inspiration
+Made with Hostinger
+Now it’s your turn to succeed online, whether it's an ecommerce store, blog, portfolio, or business site.
+Get started
+Plans and pricing
+Get summer sale prices while they last
+ 
+30-day money-back guarantee
+ 
+Cancel anytime
+ 
+24/7 support
+75% off
+Premium
+ Run websites smoothly. Great for creators and small brands.
+$
+11.99
+$
+2.99
+/mo
+Choose plan
+Get 48 months for 
+$143.52
+ (regular price $575.52). Renews at $10.99/mo.
+ 
+3 websites
+ 
+Domain - free for 1 year
+ 
+20 GB SSD storage
+ 
+Free weekly backups
+ 
+CDN
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (5 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+2 mailboxes per website - free for 1 year
+ 
+AI email marketing
+Special offer • 80% off
+ 
+Unlimited
+Unlimited
+ websites and mailboxes, plus AI tools and priority support for maximum flexibility.
+$
+18.99
+$
+3.79
+/mo
+Choose plan
+Get 48 months for 
+$181.92
+ (regular price $911.52). Renews at $16.99/mo.
+ 
+Unlimited
+ websites
+ 
+Domain - free for 1 year
+ 
+50 GB NVMe storage
+ 
+Daily backups + easy data restore
+ 
+CDN included
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (15 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+Unlimited
+ mailboxes per website - free for 1 year
+ 
+AI email marketing - free for 1 year
+Why this plan?
+A complete solution for long-term projects. Everything included.
+71% off
+Cloud Startup
+ Dedicated power for agencies or high-traffic projects.
+$
+27.99
+$
+7.99
+/mo
+Choose plan
+Get 48 months for 
+$383.52
+ (regular price $1,343.52). Renews at $25.99/mo.
+ 
+Unlimited websites
+ 
+Domain - free for 1 year
+ 
+100 GB NVMe storage
+ 
+Daily and on demand backups
+ 
+CDN included
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (15 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+Unlimited mailboxes per website - free for 1 year
+ 
+AI email marketing - free for 1 year
+75% off
+Premium
+ Run websites smoothly. Great for creators and small brands.
+$
+11.99
+$
+2.99
+/mo
+Choose plan
+Get 48 months for 
+$143.52
+ (regular price $575.52). Renews at $10.99/mo.
+ 
+3 websites
+ 
+Domain - free for 1 year
+ 
+20 GB SSD storage
+ 
+Free weekly backups
+ 
+CDN
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (5 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+2 mailboxes per website - free for 1 year
+ 
+AI email marketing
+Special offer • 80% off
+ 
+Unlimited
+Unlimited
+ websites and mailboxes, plus AI tools and priority support for maximum flexibility.
+$
+18.99
+$
+3.79
+/mo
+Choose plan
+Get 48 months for 
+$181.92
+ (regular price $911.52). Renews at $16.99/mo.
+ 
+Unlimited
+ websites
+ 
+Domain - free for 1 year
+ 
+50 GB NVMe storage
+ 
+Daily backups + easy data restore
+ 
+CDN included
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (15 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+Unlimited
+ mailboxes per website - free for 1 year
+ 
+AI email marketing - free for 1 year
+Why this plan?
+A complete solution for long-term projects. Everything included.
+71% off
+Cloud Startup
+ Dedicated power for agencies or high-traffic projects.
+$
+27.99
+$
+7.99
+/mo
+Choose plan
+Get 48 months for 
+$383.52
+ (regular price $1,343.52). Renews at $25.99/mo.
+ 
+Unlimited websites
+ 
+Domain - free for 1 year
+ 
+100 GB NVMe storage
+ 
+Daily and on demand backups
+ 
+CDN included
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (15 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+Unlimited mailboxes per website - free for 1 year
+ 
+AI email marketing - free for 1 year
+View all features
+ 
+Unlimited features are subject to our 
+Fair Usage Policy
+.
+All plans are paid upfront. The monthly rate reflects the total plan price divided by the number of months in your plan.
+Not sure which plan to choose?
+Our smart AI agent, Kodee, is here to help you find the best package for your project.
+Ask Kodee
+Hosting
+Web hosting 
+Hosting for WordPress 
+VPS hosting 
+Self-hosted n8n 
+Business email 
+Cloud hosting 
+Hosting for WooCommerce 
+Hosting for agencies 
+Minecraft hosting 
+Hermes Agent VPS 
+OpenClaw 
+Paperclip VPS 
+Google Workspace 
+Domain
+Domain name search 
+Buy a domain 
+Cheap domain names 
+Free domain 
+WHOIS Lookup 
+Free SSL certificate 
+Domain transfer 
+Domain extensions 
+Personal domain name 
+Premium domains 
+Tools
+Hostinger Horizons 
+Website Builder 
+AI Website Builder 
+Ecommerce Website Builder 
+Templates 
+Domain Name Generator 
+Print on Demand 
+Link in Bio 
+Business Name Generator 
+AI Newsletter Generator 
+AI Logo Generator 
+Migrate to Hostinger 
+Hostinger API 
+Information
+Pricing 
+Reviews 
+Affiliate program 
+Educational partnership 
+Referral program 
+Agency directory 
+Roadmap 
+System status 
+Trust center 
+Sitemap 
+Company
+About Hostinger 
+Our technology 
+Newsroom 
+Career 
+Blog 
+Student discount 
+Sustainability 
+Principles 
+Support
+Tutorials 
+Knowledge Base 
+Hostinger Academy 
+Contact us 
+Report abuse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NPRD request policy 
+Privacy policy 
+Refund policy 
+Terms of service 
+and more
+© 2004-2026 Hostinger – Launch, grow, 
+
+===== product :: https://www.hostinger.com/support/features/
+--- SIGNALS ---
+title: Features - Hostinger Help Center
+meta_description: Find step-by-step guides, FAQs, and troubleshooting tips about Features on Hostinger’s Support Center. Get reliable help anytime.
+og_description: Find step-by-step guides, FAQs, and troubleshooting tips about Features on Hostinger’s Support Center. Get reliable help anytime.
+og_site_name: Hostinger Help Center
+h1: Features
+h2: General Information | Website Content | Supported Technologies and Functions
+jsonld_org: [{"@type": "Organization", "@id": "https://www.hostinger.com/support/#organization", "name": "Hostinger", "url": "https://www.hostinger.com/"}]
+--- TEXT ---
+Features - Hostinger Help Center
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing 
+Products 
+ 
+Products
+ 
+AI and automation
+ 
+Hosting
+ 
+Domains
+ 
+Create a website
+ 
+Sell online
+ 
+Email and marketing
+ 
+For agencies
+Automate and deploy
+Hostinger Agents
+New
+Ready-to-use AI team for daily business tasks.
+OpenClaw
+Personal, always-on AI assistant for everyday automation.
+Hermes Agent
+New
+Persistent, context-aware AI agent for continuous automations.
+Self-hosted n8n
+Custom, node-based AI workflows with full control.
+Hostinger Connector
+New
+Build sites and manage hosting with your AI coding assistant.
+Agentic Mail
+New
+Email infrastructure designed for AI agents.
+Create and grow
+Vibe code your site
+Free trial
+Create a business ready website by chatting with AI.
+Email marketing
+Create and send AI powered email campaigns.
+Hermes Agent
+New
+ 
+ 
+Stop doing the same tasks twice
+Describe your workflow. Hermes takes it from there and keeps going.
+Meet Hermes Agent
+Resources 
+ 
+About
+Blog
+Expert tips, product updates, and customer stories.
+Product updates
+Latest releases and upcoming features.
+Our story
+Meet the people and platform behind your success.
+Contact
+How to reach us.
+Guidance
+Knowledge Base
+Help articles and guides for every Hostinger service.
+Tutorials
+Articles to help you achieve your online success story.
+Hostinger Academy
+Practical video guides to help you build and grow online.
+Learning lab
+Guided paths to build, launch, and grow online.
+Newsroom
+Official Hostinger news and press releases.
+Learning lab
+ 
+Find the right learning path for you
+Choose your goal, learn your way, and keep building with confidence.
+Go to Learning lab
+ 
+Ask AI
+ 
+ 
+ 
+ 
+Ask AI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search in all categories
+ 
+ 
+ 
+ 
+ 
+ Search in all categories 
+ 
+ About Hostinger 
+ 
+ Affiliates and Referrals 
+ 
+ Agency Hosting Plans 
+ 
+ Billing 
+ 
+ Codex 
+ 
+ cPanel 
+ 
+ DNS 
+ 
+ Domains 
+ 
+ Email 
+ 
+ Features 
+ 
+ Files Management 
+ 
+ Getting Started 
+ 
+ Hostinger Agents 
+ 
+ Hostinger Ecommerce 
+ 
+ Hostinger Horizons 
+ 
+ Hostinger Reach 
+ 
+ Hostinger Website Builder 
+ 
+ hPanel 
+ 
+ Managed Apps 
+ 
+ MySQL Databases 
+ 
+ PHP 
+ 
+ Profile Management 
+ 
+ SSL Certificates 
+ 
+ Uncategorized 
+ 
+ VPS 
+ 
+ Website 
+ 
+ 
+ 
+ 
+Search in all categories
+ 
+ About Hostinger 
+ 
+ 
+ Affiliates and Referrals 
+ 
+ 
+ Agency Hosting Plans 
+ 
+ 
+ Billing 
+ 
+ Auto-Renewal 
+ 
+ Billing general information 
+ 
+ Invoice Management 
+ 
+ Payment methods 
+ 
+ Payments and refunds 
+ 
+ Refunds 
+ 
+ 
+ Codex 
+ 
+ 
+ cPanel 
+ 
+ cPanel database management 
+ 
+ cPanel DNS 
+ 
+ cPanel email 
+ 
+ cPanel Features 
+ 
+ cPanel file management 
+ 
+ cPanel general information 
+ 
+ cPanel PHP 
+ 
+ Website 
+ 
+ 
+ DNS 
+ 
+ DNS Zone Management at Hostinger 
+ 
+ General Information 
+ 
+ Managing DNS Records at Different Registrars 
+ 
+ Pointing Domain to External Services 
+ 
+ 
+ Domains 
+ 
+ Domain Contact Details 
+ 
+ Domain management 
+ 
+ Domain Registration 
+ 
+ Domain Renewal 
+ 
+ Domain transfer 
+ 
+ Domain Verification 
+ 
+ Domains general information 
+ 
+ EPP (Auth) Code 
+ 
+ Solving Domain-Related Errors 
+ 
+ Specific TLDs Registration Requirements 
+ 
+ Transfer Domain From Hostinger 
+ 
+ 
+ Email 
+ 
+ Email general information 
+ 
+ Google Workspace 
+ 
+ Hostinger Agentic Mail 
+ 
+ Hostinger Email: Audit Logs 
+ 
+ Hostinger Email: DNS Records 
+ 
+ Hostinger Email: Getting Started 
+ 
+ Hostinger Email: Management 
+ 
+ Hostinger Email: Migration and Backup 
+ 
+ Hostinger Email: Setting up devices and applications 
+ 
+ Hostinger Email: Troubleshooting 
+ 
+ Hostinger Email: Web App (Webmail) 
+ 
+ Hostinger Mail API 
+ 
+ Titan Email 
+ 
+ 
+ Features 
+ 
+ General Information 
+ 
+ Supported Technologies and Functions 
+ 
+ Website Content 
+ 
+ 
+ Files Management 
+ 
+ .htaccess File 
+ 
+ Archives Management 
+ 
+ Backups Management 
+ 
+ File Manager 
+ 
+ Files and Folders Permissions 
+ 
+ FTP and SFTP 
+ 
+ Inodes and Disk Usage 
+ 
+ SSH Connection and SSH Keys 
+ 
+ Uploading a Backup 
+ 
+ 
+ Getting Started 
+ 
+ Access and Order Setup 
+ 
+ Additional Information 
+ 
+ Creating Your Own Website 
+ 
+ Migrating to Hostinger 
+ 
+ nexos.ai credits 
+ 
+ Oxylabs AI Studio credits 
+ 
+ Purchasing a Hosting Plan 
+ 
+ 
+ Hostinger Agents 
+ 
+ 
+ Hostinger Ecommerce 
+ 
+ 
+ Hostinger Horizons 
+ 
+ Hostinger Horizons: Getting started 
+ 
+ 
+ Hostinger Reach 
+ 
+ 
+ Hostinger Website Builder 
+ 
+ Blog 
+ 
+ Design 
+ 
+ General 
+ 
+ Integrations 
+ 
+ Online Store 
+ 
+ Pages and Navigation 
+ 
+ SEO 
+ 
+ Website Elements 
+ 
+ Website Sections 
+ 
+ 
+ hPanel 
+ 
+ Accounts 
+ 
+ Advanced 
+ 
+ Cron Jobs 
+ 
+ Domains 
+ 
+ Getting Started 
+ 
+ Installing Applications 
+ 
+ Node.js 
+ 
+ Order Usage 
+ 
+ Other 
+ 
+ Website 
+ 
+ WordPress Dashboard 
+ 
+ 
+ Managed Apps 
+ 
+ Managed Hermes 
+ 
+ Managed n8n 
+ 
+ Managed OpenClaw 
+ 
+ 
+ MySQL Databases 
+ 
+ Advanced 
+ 
+ Database Management 
+ 
+ Database Troubleshooting 
+ 
+ General Information 
+ 
+ Importing and Exporting Databases 
+ 
+ phpMyAdmin 
+ 
+ Remote MySQL Connection 
+ 
+ 
+ PHP 
+ 
+ PHP Advanced 
+ 
+ PHP Errors 
+ 
+ PHP Extensions and Options 
+ 
+ PHP Info 
+ 
+ PHP Versions 
+ 
+ 
+ Profile Management 
+ 
+ Account Sharing 
+ 
+ Account Troubleshooting 
+ 
+ Managing Your Profile 
+ 
+ 
+ SSL Certificates 
+ 
+ General 
+ 
+ Mixed Content 
+ 
+ SSL Installation 
+ 
+ SSL Troubleshooting 
+ 
+ 
+ Uncategorized 
+ 
+ 
+ VPS 
+ 
+ API 
+ 
+ Applications 
+ 
+ CyberPanel VPS 
+ 
+ Docker manager 
+ 
+ Drafts 
+ 
+ Game Panel 
+ 
+ Getting Started 
+ 
+ Migrating to VPS 
+ 
+ OpenClaw VPS 
+ 
+ VPS licenses 
+ 
+ VPS Management 
+ 
+ VPS OS and Templates 
+ 
+ 
+ Website 
+ 
+ CDN 
+ 
+ General 
+ 
+ Other 
+ 
+ SEO 
+ 
+ Website Development 
+ 
+ Website Optimization 
+ 
+ Website Security 
+ 
+ Website Troubleshooting 
+ 
+ WordPress Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Home
+ » 
+Support
+ » 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ Features 
+ 
+ 
+Information about different features and technologies being supported at Hostinger
+ 
+ 
+ 17 articles 
+ 
+ 
+ 
+ 
+ 
+General Information
+ 
+ 
+ 
+ 
+ 
+ 
+ How to manage domain contact profiles at Hostinger 
+ 
+Domain contact profiles are templates that store your personal or business information—such as name, address, email, and phone number—to simplify domain management. These profiles allow...
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How to set up web hosting MCP on Local IDEs 
+ 
+The Hostinger MCP Extension allows you to connect your local IDE to your Hostinger account using OAuth or an API token. Once configured, your IDE...
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How to try Hostinger services for free 
+ 
+Experience Hostinger services completely risk-free.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How to use Rsync to sync files and directories at Hostinger 
+ 
+Learn how to use the Rsync utility to synchronize local and remote directories, create mirrors, and manage data transfers for your Hostinger services.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New web and cloud hosting limits at Hostinger 
+ 
+Limits for websites, storage, and email accounts in new web and cloud hosting plans.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Web2Agent in Hostinger 
+ 
+Make your WordPress or Website Builder site AI-ready and accessible to the emerging generation of AI agents.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Website Content
+ 
+ 
+ 
+ 
+ 
+ 
+ Which server capabilities are supported at Hostinger 
+ 
+Check supported server capabilities including multimedia embedding, compilers, SSH background processes, and video streaming.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Which types of content and websites are allowed at Hostinger 
+ 
+Learn which content types, scripts, and website categories are permitted across Hostinger hosting plans.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supported Technologies and Functions
+ 
+ 
+ 
+ 
+ 
+ 
+ Does Hostinger support POP3, IMAP, and SMTP? 
+ 
+Using the POP3, SMTP and IMAP email protocols at Hostinger
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How to create a symlink at Hostinger 
+ 
+Creating symbolic links via SSH
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Node.js hosting options at Hostinger 
+ 
+Host and deploy Node.js applications and static front-end sites using Hostinger web, cloud, VPS, or Agency hosting plans
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Which databases and data tools are supported at Hostinger 
+ 
+Check supported databases and data management tools across Hostinger web, cloud, and VPS hosting plans.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Which file transfer and server access options are supported at Hostinger 
+ 
+Check supported file transfer protocols and server access methods across Hostinger hosting plans.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Which media, compression, and web applications are supported at Hostinger 
+ 
+Check supported audio, video codecs, compression tools, and media scripts across Hostinger hosting plans.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Which PHP extensions and configuration options are supported at Hostinger 
+ 
+Learn which PHP extensions and configuration options Hostinger web and cloud hosting plans support.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Which programming languages and frameworks are supported at Hostinger 
+ 
+Check supported programming languages and frameworks on Hostinger web, cloud, and VPS hosting plans.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Which web standards and connectivity features are supported at Hostinger 
+ 
+Check supported web standards, CORS settings, AJAX, OpenSSL, cURL, and DNS records on Hostinger plans.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hosting
+Web hosting 
+Hosting for WordPress 
+VPS hosting 
+Self-hosted n8n 
+Business email 
+Cloud hosting 
+Hosting for WooCommerce 
+Hosting for agencies 
+Minecraft hosting 
+Hermes Agent VPS 
+OpenClaw 
+Paperclip VPS 
+Google Workspace 
+Cheap Web Hosting 
+Domain
+Domain name search 
+Buy a domain 
+Cheap domain names 
+Free domain 
+WHOIS Lookup 
+Free SSL certificate 
+Domain transfer 
+Domain extensions 
+.fr domain 
+Personal domain name 
+Premium domains 
+Tools
+Hostinger Horizons 
+Website Builder 
+AI Website Builder 
+Ecommerce Website Builder 
+Templates 
+Domain Name Generator 
+Print on Demand 
+Link in Bio 
+Business Name Generator 
+AI Newsletter Generator 
+AI Logo Generator 
+Migrate to Hostinger 
+Hostinger API 
+Information
+Pricing 
+Reviews 
+Affiliate program 
+Educational partnership 
+Referral program 
+Agency directory 
+Roadmap 
+Terms of migration 
+System status 
+Trust center 
+Sitemap 
+Company
+About Hostinger 
+Our technology 
+Newsroom 
+Career 
+Blog 
+Student discount 
+Sustainability 
+Principles 
+Support
+Tutorials 
+Knowledge Base 
+Hostinger Academy 
+Contact us 
+Report abuse 
+ 
+NPRD request policy 
+Privacy policy 
+Refund policy 
+Terms of service 
+Registrar information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and more
+© 2004-2026 Hostinger – Launch, grow, and succeed online, supported by AI that puts the power in your hands.
+Prices are listed without VAT
+
+===== pricing_or_trust :: https://www.hostinger.com/pricing
+--- SIGNALS ---
+title: Hostinger pricing | Explore web hosting and all Hostinger plans
+meta_description: Hostinger hosting plans start from $2.99. Compare web hosting prices and explore more Hostinger plans, including VPS and Website Builder.
+og_description: Hostinger hosting plans start from $2.99. Compare web hosting prices and explore more Hostinger plans, including VPS and Website Builder.
+og_site_name: Hostinger
+h1: Plans & pricing
+h2: Compare our plans | Hostinger pricing FAQs
+jsonld_org: [{"@type": "Organization", "name": "Hostinger", "url": "https://www.hostinger.com", "logo": {"@type": "ImageObject", "url": "https://www.hostinger.com/logo-400x400.png", "height": 400, "width": 400}}]
+--- TEXT ---
+Hostinger pricing | Explore web hosting and all Hostinger plans
+ 
+ 
+Summer Sale: up to 80% off
+Claim deal
+ 
+ 
+Pricing
+Products 
+ 
+Products
+ 
+AI and automation
+ 
+Hosting
+ 
+Domains
+ 
+Create a website
+ 
+Sell online
+ 
+Email and marketing
+ 
+For agencies
+Automate and deploy
+Hostinger Agents
+New
+Ready-to-use AI team for daily business tasks.
+OpenClaw
+Personal, always-on AI assistant for everyday automation.
+Hermes Agent
+New
+Persistent, context-aware AI agent for continuous automations.
+Self-hosted n8n
+Custom, node-based AI workflows with full control.
+Hostinger Connector
+New
+Build sites and manage hosting with your AI coding assistant.
+Agentic Mail
+New
+Email infrastructure designed for AI agents.
+Create and grow
+Vibe code your site
+Free trial
+Create a business ready website by chatting with AI.
+Email marketing
+Create and send AI powered email campaigns.
+Hermes Agent
+New
+ 
+Stop doing the same tasks twice
+Describe your workflow. Hermes takes it from there and keeps going.
+Meet Hermes Agent
+Developers 
+ 
+Developers tools
+Hosting Connector
+Build sites and manage hosting with your AI coding assistant.
+Hostinger Headless
+Backend and hosting for your AI-built projects.
+Application hosting
+Deploy open-source apps in seconds.
+Hostinger CLI
+Control Hostinger from your terminal, scripts, and agents.
+Agentic Mail
+Email built for AI agents and workflows.
+Hostinger Mail CLI
+Send and manage email from your terminal, scripts, and automated workflows.
+AI router
+One API for every LLM.
+Hostinger SDK
+Official Hostinger libraries for your language.
+Resources
+Hostinger API
+API reference for every product.
+Documentation
+Guides and examples for every tool.
+System status
+Live uptime and incident updates.
+Community
+ 
+ 
+ 
+ 
+Free to install
+ 
+Hostinger connector
+Connect Cursor, Claude, or any MCP client to your hosting. Set up in 2 minutes.
+Get connector
+Resources 
+ 
+About
+Blog
+Expert tips, product updates, and customer stories.
+Product updates
+Latest releases and upcoming features.
+Our story
+Meet the people and platform behind your success.
+Contact
+How to reach us.
+Guidance
+Knowledge Base
+Help articles and guides for every Hostinger service.
+Tutorials
+Articles to help you achieve your online success story.
+Hostinger Academy
+Practical video guides to help you build and grow online.
+Learning lab
+Guided paths to build, launch, and grow online.
+Newsroom
+Official Hostinger news and press releases.
+Learning lab
+ 
+Find the right learning path for you
+Choose your goal, learn your way, and keep building with confidence.
+Go to Learning lab
+ 
+ EN
+ 
+Plans & pricing
+ 
+30-day money-back guarantee
+ 
+24/7 support
+ 
+Cancel anytime
+Websites
+ 
+Websites
+Domains
+ 
+Domains
+Vibe coding
+ 
+Vibe coding
+VPS hosting
+ 
+VPS hosting
+AI automations
+ 
+AI automations
+Business email
+ 
+Business email
+Email marketing
+ 
+Email marketing
+Websites
+All plans include:
+ 
+Reliable hosting
+ 
+Custom domain
+ 
+Email
+ 
+Building tools
+Individuals & business
+Agency
+48 months plan
+ 
+75% off
+Premium
+ Run websites smoothly. Great for creators and small brands.
+$
+11.99
+$
+2.99
+/mo
+Choose plan
+Get 48 months for 
+$143.52
+ (regular price $575.52). Renews at $10.99/mo.
+ 
+3 websites
+ 
+Domain - free for 1 year
+ 
+20 GB SSD storage
+ 
+Free weekly backups
+ 
+CDN
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (5 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+2 mailboxes per website - free for 1 year
+ 
+AI email marketing
+Special offer • 80% off
+ 
+Unlimited
+Unlimited
+ websites and mailboxes, plus AI tools and priority support for maximum flexibility.
+$
+18.99
+$
+3.79
+/mo
+Choose plan
+Get 48 months for 
+$181.92
+ (regular price $911.52). Renews at $16.99/mo.
+ 
+Unlimited
+ websites
+ 
+Domain - free for 1 year
+ 
+50 GB NVMe storage
+ 
+Daily backups + easy data restore
+ 
+CDN included
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (15 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+Unlimited
+ mailboxes per website - free for 1 year
+ 
+AI email marketing - free for 1 year
+Why this plan?
+A complete solution for long-term projects. Everything included.
+71% off
+Cloud Startup
+ Dedicated power for agencies or high-traffic projects.
+$
+27.99
+$
+7.99
+/mo
+Choose plan
+Get 48 months for 
+$383.52
+ (regular price $1,343.52). Renews at $25.99/mo.
+ 
+Unlimited websites
+ 
+Domain - free for 1 year
+ 
+100 GB NVMe storage
+ 
+Daily and on demand backups
+ 
+CDN included
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (15 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+Unlimited mailboxes per website - free for 1 year
+ 
+AI email marketing - free for 1 year
+75% off
+Premium
+ Run websites smoothly. Great for creators and small brands.
+$
+11.99
+$
+2.99
+/mo
+Choose plan
+Get 48 months for 
+$143.52
+ (regular price $575.52). Renews at $10.99/mo.
+ 
+3 websites
+ 
+Domain - free for 1 year
+ 
+20 GB SSD storage
+ 
+Free weekly backups
+ 
+CDN
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (5 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+2 mailboxes per website - free for 1 year
+ 
+AI email marketing
+Special offer • 80% off
+ 
+Unlimited
+Unlimited
+ websites and mailboxes, plus AI tools and priority support for maximum flexibility.
+$
+18.99
+$
+3.79
+/mo
+Choose plan
+Get 48 months for 
+$181.92
+ (regular price $911.52). Renews at $16.99/mo.
+ 
+Unlimited
+ websites
+ 
+Domain - free for 1 year
+ 
+50 GB NVMe storage
+ 
+Daily backups + easy data restore
+ 
+CDN included
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (15 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+Unlimited
+ mailboxes per website - free for 1 year
+ 
+AI email marketing - free for 1 year
+Why this plan?
+A complete solution for long-term projects. Everything included.
+71% off
+Cloud Startup
+ Dedicated power for agencies or high-traffic projects.
+$
+27.99
+$
+7.99
+/mo
+Choose plan
+Get 48 months for 
+$383.52
+ (regular price $1,343.52). Renews at $25.99/mo.
+ 
+Unlimited websites
+ 
+Domain - free for 1 year
+ 
+100 GB NVMe storage
+ 
+Daily and on demand backups
+ 
+CDN included
+ 
+Integrated ecommerce
+ 
+AI tools
+ 
+Priority 24/7 expert support
+Build with:
+ 
+Vibe coding (15 credits)
+ 
+Drag-and-drop website builder
+ 
+WordPress
+ 
+Node.js
+Communicate & grow:
+ 
+Unlimited mailboxes per website - free for 1 year
+ 
+AI email marketing - free for 1 year
+Unlimited features are subject to our 
+Fair Usage Policy
+.
+All plans are paid upfront. The monthly rate reflects the total plan price divided by the number of months in your plan.
+Compare plans
+Agency Startup
+Optimized for business and ecommerce websites.
+Startup
+Professional
+Growth
+ 
+Resources
+6
+ CPU cores
+12 GB
+ RAM
+300 GB NVMe
+ storage
+4 000 000
+ inodes (files and directories)
+100
+ websites
+10 mailboxes per website
+ - free for 1 year
+$69
+SAVE 58%
+$
+29
+/mo
+Choose plan
+For 24-month term. $49/mo when you renew
+ 
+Priority 24/7 expert support
+ 
+Full website isolation
+NEW
+ 
+Access sharing per site
+NEW
+ 
+Unbranded client dashboard
+NEW
+ 
+Proactive monitoring alerts
+NEW
+ 
+Unlimited CDN & SSL
+FREE
+ 
+5
+ vibe coding credits
+FREE
+ 
+Dedicated IP address
+ 
+Daily
+ backups
+ 
+Managed hosting for WordPress and WooCommerce
+ 
+30-Day money-back guarantee
+Every plan has 
+everything you need
+ and more
+ 
+SSH & WP-CLI for faster site management
+ 
+SFTP account management for secure team access
+ 
+PHP version management offers better performance
+ 
+Free safe staging environments
+ 
+1-click website cloning
+ 
+Redirects Manager preserves SEO
+ 
+Cron jobs automate tasks
+ 
+Free malware scanning
+ 
+Unlimited collaborators
+ 
+SSH & WP-CLI for faster site management
+ 
+SFTP account management for secure team access
+ 
+PHP version management offers better performance
+ 
+Free safe staging environments
+ 
+1-click website cloning
+ 
+Redirects Manager preserves SEO
+ 
+Cron jobs automate tasks
+ 
+Free malware scanning
+ 
+Unlimited collaborators
+Compare plans
+Compare our plans
+See at a glance what each plan costs and what you get for your money.
+Premium
+Unlimited
+Cloud Startup
+ 
+ Top features
+ 
+Websites
+3
+ GB storage
+20 GB
+Daily
+ backups
+ 
+Free
+ CDN
+ 
+WordPress
+ 
+Drag-and-drop website builder
+ 
+Ecommerce
+ 
+Vibe coding
+5
+Web Apps
+ 
+Free domain
+ 
+Free domain WHOIS privacy protection value
+$9.99
+Mailboxes per website - free for 1 year
+2
+Free email marketing
+ 
+Priority 24/7 expert support
+ 
+AI tools
+ 
+AI SEO ready
+ 
+99.9% uptime guarantee
+ 
+Global data centers
+ 
+Free
+ automatic website migration
+ 
+Unlimited free
+ SSL
+ 
+Files and directories (inodes)
+400 000
+ PHP workers
+40
+ databases
+10
+Database size
+3 GB
+RAM
+2 GB
+ CPU cores
+1
+Unlimited
+ bandwidth
+ 
+Dedicated IP address
+ 
+ 
+ Hostinger Horizons vibe code websites
+ 
+ 
+ Drag-and-drop website builder
+ 
+ 
+ Managed hosting for WordPress
+ 
+ 
+ Security
+ 
+ 
+ Service and support
+ 
+ 
+ Node.js frameworks
+ 
+ 
+ Technical details
+ 
+11.99
+ $2.99/mo (75% off)
+Choose Premium
+Cancel anytime
+Popular
+Premium
+$
+2.99
+/mo
+Get started
+Popular
+Unlimited
+$
+3.79
+/mo
+Get started
+Popular
+Cloud Startup
+$
+7.99
+/mo
+Get started
+ 
+ Top features
+ 
+Websites
+3
+Unlimited
+Unlimited
+ GB storage
+20 GB
+50 GB
+100 GB
+Daily
+ backups
+ 
+ 
+ 
+Free
+ CDN
+ 
+ 
+ 
+WordPress
+ 
+ 
+ 
+Drag-and-drop website builder
+ 
+ 
+ 
+Ecommerce
+ 
+ 
+ 
+Vibe coding
+5
+15
+15
+Web Apps
+ 
+5
+10
+Free domain
+ 
+ 
+ 
+Free domain WHOIS privacy protection value
+$9.99
+$9.99
+$9.99
+Mailboxes per website - free for 1 year
+2
+Unlimited
+Unlimited
+Free email marketing
+ 
+ 
+ 
+Priority 24/7 expert support
+ 
+ 
+ 
+AI tools
+ 
+ 
+ 
+AI SEO ready
+ 
+ 
+ 
+99.9% uptime guarantee
+ 
+ 
+ 
+Global data centers
+ 
+ 
+ 
+Free
+ automatic website migration
+ 
+ 
+ 
+Unlimited free
+ SSL
+ 
+ 
+ 
+Files and directories (inodes)
+400 000
+600 000
+2 000 000
+ PHP workers
+40
+60
+100
+ databases
+10
+150
+300
+Database size
+3 GB
+3 GB
+6 GB
+RAM
+2 GB
+3 GB
+4 GB
+ CPU cores
+1
+2
+4
+Unlimited
+ bandwidth
+ 
+ 
+ 
+Dedicated IP address
+ 
+ 
+ 
+ 
+ Hostinger Horizons vibe code websites
+ 
+ 
+ Drag-and-drop website builder
+ 
+ 
+ Managed hosting for WordPress
+ 
+ 
+ Security
+ 
+ 
+ Service and support
+ 
+ 
+ Node.js frameworks
+ 
+ 
+ Technical details
+ 
+Hostinger pricing FAQs
+How do I register the free domain included with annual hosting plans?
+ 
+To activate the free 12-month domain name included with every annual managed hosting for WordPress, cloud hosting, or Website Builder plan, simply log in to your dashboard, click on the 
+Claim domain
+ button, find your perfect domain, and register it.
+How do I activate the free SSL certificate?
+ 
+You don’t need to do anything. We automatically set up your SSL certificate when you sign up, so you can sit back and relax, safe in the knowledge your site is secure.
+Can I change my plan, if my circumstances change?
+ 
+Yes, you can easily upgrade your plan if your circumstances change. Our scalable options allow you to seamlessly switch without any downtime.
+Why do different plans cost different amounts?
+ 
+While all our web hosting plans include everything you need to get your website online, alongside performance and security you can rely on, each plan is tailored to suit different needs. For example, an individual’s professional portfolio website doesn’t require the same ecommerce resources that a medium-sized retailer would need for their online store, or a developer might need to host a dedicated online game server. By offering a variety of plans, we can ensure you only pay for the features and resources you need.
+Does Hostinger offer ecommerce hosting?
+ 
+Yes, we offer a variety of ecommerce plans that include everything you need to open your online store and start selling. All our ecommerce plans include inventory management, multiple payment methods, marketing integrations, client appointment scheduling, and 0% transaction fees, so you keep more of what you make.
+Can I migrate existing websites to Hostinger?
+ 
+Yes, you can quickly and easily migrate your existing website to Hostinger - and it’s free. We offer an unlimited website migrations service that handles everything and ensures you can transfer your site - or sites - without any hassle, cost, data loss, or downtime.
+I have a domain name at a different company. Can I transfer it to Hostinger?
+ 
+Absolutely. You can transfer your domain name to Hostinger by following our simple domain transfer process. Then you can manage your domain and hosting services all in one place.
+I'm a professional web developer, which is better for me, web hosting, Cloud hosting, or VPS hosting?
+ 
+Our Shared hosting is designed to be user-friendly, making it perfect for beginners and small businesses. However, professional-level developers and designers might benefit more from our VPS hosting, which offers more back-end control, flexibility, and resources. Our Cloud hosting plans sit in the middle offering more resources than shared hosting, but less control than VPS hosting.
+Can I build a website on WordPress and host it with Hostinger?
+ 
+Yes. All our hosting plans are compatible with WordPress. Our Managed Hosting for WordPress plan is perfect for making the most out of your WordPress website. Meanwhile, our WooCommerce hosting plan is ideal if you’re opening an online store.
+Hostinger
+ 
+Pricing
+Hosting
+Web hosting 
+Hosting for WordPress 
+VPS hosting 
+Self-hosted n8n 
+Business email 
+Cloud hosting 
+Hosting for WooCommerce 
+Hosting for agencies 
+Minecraft hosting 
+Hermes Agent VPS 
+OpenClaw 
+Paperclip VPS 
+Google Workspace 
+Domain
+Domain name search 
+Buy a domain 
+Cheap domain names 
+Free domain 
+WHOIS Lookup 
+Free SSL certificate 
+Domain transfer 
+Domain extensions 
+Personal domain name 
+Premium domains 
+Tools
+Hostinger Horizons 
+Website Builder 
+AI Website Builder 
+Ecommerce Website Builder 
+Templates 
+Domain Name Generator 
+Print on Demand 
+Link in Bio 
+Business Name Generator 
+AI Newsletter Generator 
+AI Logo Generator 
+Migrate to Hostinger 
+Hostinger API 
+Information
+Pricing 
+Reviews 
+Affiliate program 
+Educational partnership 
+Referral prog

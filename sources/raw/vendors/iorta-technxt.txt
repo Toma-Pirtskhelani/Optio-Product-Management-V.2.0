@@ -1,0 +1,11 @@
+===== homepage :: https://iortatechnxt.com/
+--- SIGNALS ---
+title: Iorta TechNXT – Transforming Insurance with AI Innovation
+meta_description: Driving digital transformation in the global insurance sectorthrough AI innovation, helping organizations unlockoperational efficiency, accelerate time to marketand gain a competitive edge.
+og_description: Driving digital transformation in the global insurance sectorthrough AI innovation, helping organizations unlockoperational efficiency, accelerate time to marketand gain a competitive edge.
+og_site_name: Iorta TechNXT
+h1: 
+h2: 
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Iorta TechNXT", "url": "https://iortatechnxt.com/", "logo": "https://iortatechnxt.com/assets/imgs/icon.svg", "description": "Driving digital transformation in the global insurance sector through AI innovation, helping organizations unlock operational efficiency, accelerate time to market and gain a competitive edge.", "foundingDate": "2023", "industry": "Insurance Technology", "address": {"@type": "PostalAddress", "addressCountry": "Malaysia"}, "sameAs": ["https://www.linkedin.com/company/iorta-technxt", "https://twitter.com/iortatechnxt"]}]
+--- TEXT ---
+Iorta TechNXT – Transforming Insurance with AI Innovation
