@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **96 of 237**. Regenerated 2026-08-11.
+Enriched so far: **111 of 237**. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -98,7 +98,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | adnymics | — | — | — | — | — | — | 1 | G | N | 0 |
 | AEvent | — | — | — | — | — | — | 1 | G | N | 0 |
 | AfterShip | — | — | — | — | — | — | 1 | G | N | 0 |
-| Agillic | — | — | — | — | — | — | 1 | G | N | 0 |
+| Agillic | — | — | — | on-premise | 1 | — | 1 | G | D | 4 |
 | Aislelabs | — | — | — | — | — | — | 1 | G | N | 0 |
 | Alterian | — | — | — | — | — | — | 1 | G | N | 0 |
 | Amazing Mail | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -106,21 +106,21 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Appier | — | — | — | — | 1 | 12 | 1 | G | D | 3 |
 | AT Internet | — | — | — | — | — | — | 1 | G | N | 0 |
 | AtomPark Software | — | — | — | — | — | — | 1 | G | N | 0 |
-| AWeber | — | — | — | — | — | — | 1 | G | N | 0 |
+| AWeber | — | 1998 | — | — | 3 | — | 1 | G | D | 3 |
 | Barilliance | — | — | — | — | — | — | 1 | G | N | 0 |
 | Base | — | — | — | — | — | — | 1 | G | N | 0 |
 | Beaconsmind | — | — | — | — | — | — | 1 | G | N | 0 |
 | Benchmark Email | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Birdeye | — | — | — | — | — | — | 1 | 2 | D | 2 |
 | BiteSpeed | — | — | — | — | — | — | 1 | G | N | 0 |
-| Blueshift | — | — | — | — | — | — | 1 | G | N | 0 |
+| Blueshift | — | — | — | private-cloud | 5 | 12 | 1 | G | D | 4 |
 | BrandOps | — | — | — | — | — | — | 1 | G | N | 0 |
 | Bridgeline Digital | — | — | — | — | — | — | 1 | G | N | 0 |
 | BSI Software | — | — | — | — | — | — | 1 | G | N | 0 |
-| BUSINESSNEXT | — | — | — | — | — | — | 1 | G | N | 0 |
+| BUSINESSNEXT | — | — | — | — | — | — | 1 | G | D | 3 |
 | CAKE | — | — | — | — | — | — | 1 | G | N | 0 |
 | Campaigner | — | — | — | — | — | — | 1 | G | N | 0 |
-| CentraHub | — | — | — | — | — | — | 1 | G | N | 0 |
+| CentraHub | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | ChannelMix | — | — | — | — | — | — | 1 | G | N | 0 |
 | ClickDimensions | — | — | — | — | — | — | 1 | G | N | 0 |
 | Close | — | 2013 | — | — | — | — | 1 | 2 | D | 4 |
@@ -128,13 +128,13 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Critical Impact | — | — | — | — | — | — | 1 | G | N | 0 |
 | CustomerInsights.ai | — | — | — | — | — | — | 1 | G | N | 0 |
 | DANAconnect | — | — | — | — | — | — | 1 | G | N | 0 |
-| Datorama | — | — | — | — | — | — | 1 | G | N | 0 |
+| Datorama | — | — | — | — | — | — | 1 | G | U | 0 |
 | Delivra | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | Digitalbox | — | — | — | — | — | — | 1 | G | N | 0 |
 | Duda | — | — | — | — | — | — | 1 | 2 | D | 2 |
 | Dyrect | — | — | — | — | — | — | 1 | G | N | 0 |
-| Dyspatch | — | — | — | — | — | — | 1 | G | N | 0 |
-| E-goi | — | — | — | — | — | — | 1 | G | N | 0 |
+| Dyspatch | — | — | — | — | 4 | — | 1 | G | D | 4 |
+| E-goi | — | — | — | — | — | — | 1 | G | D | 2 |
 | Ecomail | — | — | — | — | — | — | 1 | G | N | 0 |
 | EcoSend | — | — | — | — | — | — | 1 | G | N | 0 |
 | Emailidea | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -144,12 +144,12 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | EZ Texting | US | — | — | — | 4 | 12 | 1 | 2 | D | 4 |
 | Flodesk | — | — | — | — | 2 | — | 1 | 2 | D | 4 |
 | FlowUp | — | — | — | — | — | — | 1 | G | N | 0 |
-| FollowAnalytics | — | — | — | — | — | — | 1 | G | N | 0 |
+| FollowAnalytics | — | — | — | — | — | — | 1 | G | U | 0 |
 | Foursquare | — | — | — | — | — | — | 1 | G | N | 0 |
 | Free Stand Sampling Solutions | — | — | — | — | — | — | 1 | G | N | 0 |
-| Fresh Relevance | — | — | — | — | — | — | 1 | G | N | 0 |
-| Freshworks | — | — | — | — | — | — | 1 | G | N | 0 |
-| Frizbit | — | — | — | — | — | — | 1 | G | N | 0 |
+| Fresh Relevance | — | — | — | — | — | — | 1 | G | U | 0 |
+| Freshworks | — | — | — | — | — | — | 1 | G | U | 0 |
+| Frizbit | — | — | — | — | 5 | — | 1 | G | D | 4 |
 | GetResponse | PL | 1998 | — | — | 6 | — | 1 | 2 | D | 4 |
 | GMass | — | — | — | — | 3 | — | 1 | 2 | D | 4 |
 | GoSquared | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -161,7 +161,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | HOLLYFY | — | — | — | — | — | — | 1 | G | N | 0 |
 | Hostinger | — | — | — | — | — | — | 1 | G | N | 0 |
 | IBM | — | — | — | — | — | — | 1 | G | N | 0 |
-| iContact | — | — | — | — | — | — | 1 | G | N | 0 |
+| iContact | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | InAppStory | — | — | — | — | — | — | 1 | G | N | 0 |
 | Inflection.io | — | — | — | — | — | — | 1 | G | N | 0 |
 | Insightly | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -173,7 +173,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Kenyt.AI | — | — | — | — | — | — | 1 | G | N | 0 |
 | L-Soft | — | — | — | — | — | — | 1 | G | N | 0 |
 | Leadspicker | — | — | — | — | — | — | 1 | G | N | 0 |
-| LeadSquared | — | — | — | — | — | — | 1 | G | N | 0 |
+| LeadSquared | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | LeadsRx | — | — | — | — | — | — | 1 | G | N | 0 |
 | lemlist | — | — | — | — | 4 | — | 1 | 2 | D | 4 |
 | Levitate | — | — | — | — | — | — | 1 | 2 | D | 2 |
@@ -192,7 +192,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Metadata | — | — | — | — | — | — | 1 | G | N | 0 |
 | MINT | — | — | — | — | — | — | 1 | G | N | 0 |
 | MobiMesh | — | — | — | — | — | — | 1 | G | N | 0 |
-| Mobivity | — | — | — | — | — | — | 1 | G | N | 0 |
+| Mobivity | — | — | — | — | — | — | 1 | G | D | 2 |
 | NerdMonster Digital Retail | — | — | — | — | — | — | 1 | G | N | 0 |
 | OBASE | — | — | — | — | — | — | 1 | G | N | 0 |
 | Ometria | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -215,15 +215,15 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Reachdesk | — | — | — | — | — | — | 1 | G | N | 0 |
 | Redpoint | — | — | — | — | — | — | 1 | G | D | 3 |
 | Rejoiner | — | — | — | — | — | — | 1 | G | N | 0 |
-| Resulticks | — | — | — | — | — | — | 1 | G | N | 0 |
+| Resulticks | — | — | — | — | — | — | 1 | G | D | 2 |
 | Reteno | — | — | — | — | — | — | 1 | G | N | 0 |
 | Rocket Now | — | — | — | — | — | — | 1 | G | N | 0 |
 | SALESmanago | — | — | — | — | — | — | 1 | G | N | 0 |
 | SAS | — | — | legacy | — | — | — | 1 | G | U | 0 |
 | Sendoso | — | — | — | — | — | — | 1 | G | N | 0 |
-| SendPulse | — | — | — | — | — | — | 1 | G | N | 0 |
-| Sensors Data | — | — | — | — | — | — | 1 | G | N | 0 |
-| Sitecore | — | — | — | — | — | — | 1 | G | N | 0 |
+| SendPulse | — | 2015 | — | — | 7 | — | 1 | G | D | 4 |
+| Sensors Data | — | — | — | — | 1 | — | 1 | G | D | 3 |
+| Sitecore | US | 2001 | — | — | 1 | — | 1 | G | D | 3 |
 | SlickText | — | 2012 | — | — | 4 | — | 1 | 2 | D | 4 |
 | Soprano | — | — | — | — | — | — | 1 | G | N | 0 |
 | Spectrm | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -234,7 +234,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Striker Soft Solutions | — | — | — | — | — | — | 1 | G | N | 0 |
 | SugarAI | — | — | — | — | — | 2 | 1 | G | D | 4 |
 | SwiftERM Hyper-Personalisation | — | — | — | — | — | — | 1 | G | N | 0 |
-| Swrve | — | — | — | — | — | — | 1 | G | N | 0 |
+| Swrve | — | — | — | — | — | — | 1 | G | U | 0 |
 | Text | — | — | — | — | — | — | 1 | G | N | 0 |
 | Textedly | — | — | — | — | 5 | 12 | 1 | 2 | D | 4 |
 | Thryv | — | — | — | — | — | — | 1 | G | N | 0 |

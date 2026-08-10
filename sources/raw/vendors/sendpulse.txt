@@ -1,0 +1,4258 @@
+===== llms.txt :: https://sendpulse.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# SendPulse API
+> Multi-channel marketing automation platform: email campaigns, SMS, transactional SMTP, chatbots (WhatsApp, Telegram, Facebook, Instagram, Viber, TikTok, LiveChat), CRM, automation flows, web push, pop-ups, and more.
+Base URL: `https://api.sendpulse.com`. Authentication uses OAuth 2.0 Client Credentials — POST `client_id` and `client_secret` to `/oauth/access_token` to receive a Bearer token (valid 1 hour). Alternatively, a static API Key from your account settings can be used. Include `Authorization: Bearer 
+` in all requests. Full auth documentation: https://sendpulse.com/integrations/api
+## Email and Messaging
+- [Bulk Email API](https://api.sendpulse.com/.well-known/openapi/bulk-email.yaml): Mailing lists, email campaigns, templates, and sender management
+- [SMTP API](https://api.sendpulse.com/.well-known/openapi/smtp.yaml): Transactional emails, bounce tracking, and sender identity configuration
+- [SMS API](https://api.sendpulse.com/.well-known/openapi/sms.yaml): Mobile messaging, contact management, and SMS campaign orchestration
+## Chatbots
+- [Chatbots API](https://api.sendpulse.com/.well-known/openapi/chatbots.yaml): General cross-channel chatbot service — account info, bot listing, and dialog management
+- [WhatsApp API](https://api.sendpulse.com/.well-known/openapi/whatsapp.yaml): WhatsApp chatbot integration — bots, subscribers, flows, campaigns, and chats
+- [Telegram API](https://api.sendpulse.com/.well-known/openapi/telegram.yaml): Telegram chatbot integration — bots, subscribers, flows, campaigns, and chats
+- [Facebook Messenger API](https://api.sendpulse.com/.well-known/openapi/facebook.yaml): Facebook Messenger chatbot integration — bots, subscribers, flows, and campaigns
+- [Instagram API](https://api.sendpulse.com/.well-known/openapi/instagram.yaml): Instagram chatbot integration — bots, subscribers, flows, and campaigns
+- [Viber Chatbot API](https://api.sendpulse.com/.well-known/openapi/viber-chatbot.yaml): Viber chatbot integration — bots, subscribers, flows, and campaigns
+- [LiveChat API](https://api.sendpulse.com/.well-known/openapi/live-chat.yaml): SendPulse live chat widget chatbot — bots, subscribers, flows, and campaigns
+- [TikTok API](https://api.sendpulse.com/.well-known/openapi/tiktok.yaml): TikTok chatbot integration — bots, subscribers, flows, and campaigns
+## CRM
+- [CRM API](https://api.sendpulse.com/.well-known/openapi/crm.yaml): Pipelines, deals, contacts, attributes, tags, and user management
+## Automation and Tools
+- [Automation 360 API](https://api.sendpulse.com/.well-known/openapi/a360.yaml): Event-driven automation flows across email, SMS, push, and messengers
+- [Web Push API](https://api.sendpulse.com/.well-known/openapi/web-push.yaml): Browser push notifications, subscriber segmentation, and delivery tracking
+- [Verifier API](https://api.sendpulse.com/.well-known/openapi/verifier.yaml): Email address verification and mailing list cleaning to reduce bounces and protect sender reputation
+## Education
+- [Education API](https://api.sendpulse.com/.well-known/openapi/edu.yaml): Online courses, students, and certificate management
+## Optional
+- [Viber API](https://api.sendpulse.com/.well-known/openapi/viber.yaml): Viber rich messaging with images, buttons, and SMS fallback (non-chatbot)
+- [Pop-up API](https://api.sendpulse.com/.well-known/openapi/popups.yaml): Pop-up creation, management, and performance statistics
+- [File Manager API](https://api.sendpulse.com/.well-known/openapi/file-manager.yaml): File upload and storage management
+- [SendPulse API Index](https://api.sendpulse.com/.well-known/openapi/index.yaml): Master index listing all SendPulse sub-service API specifications
+
+===== homepage :: https://sendpulse.com/
+--- SIGNALS ---
+title: Multi-Channel Marketing Automation Platform | SendPulse
+meta_description: ​​Multi-channel marketing automation platform with email, web push, SMS, and chatbots for Facebook, Telegram, WhatsApp, and Instagram — all combined i...
+og_description: ​​Multi-channel marketing automation platform with email, web push, SMS, and chatbots for Facebook, Telegram, WhatsApp, and Instagram — all combined in a free CRM.
+og_site_name: SendPulse
+h1: Boost your digital marketing with a powerhouse of essential tools
+h2: Trusted by 3M+ users. Loved by 4K+ reviewers | Free multichannel marketing tools | A versatile platform — handy for professionals of any field and caliber | Implement all communication channels and move leads down your sales pipeline automatically | Save time with free integrations | Enhance your team's collaboration and efficiency | Segment your audience and personalize your communication with clients | Monitor and analyze your marketing performance with powerful built-in tools
+jsonld_org: [{"@id": "https://sendpulse.com/#Organization", "@type": "Organization", "name": "SendPulse", "legalName": "SendPulse Inc.", "url": "https://sendpulse.com/", "description": "SendPulse is an AI-driven marketing platform that helps scaling businesses automate email and chatbot conversations. With a built-in CRM system for lead capture, nurturing, and conversion, companies can create more personalized experiences and drive sales.", "disambiguatingDescription": "SendPulse, an AI-driven marketing automation platform", "foundingDate": "2015-02-19", "logo": {"@id": "https://sendpulse.com/#/schema/logo/image/", "@type": "ImageObject", "caption": "SendPulse", "contentUrl": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg", "height": 75, "width": 240, "url": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg"}, "image": {"@id": "https://sendpulse.com/#/schema/logo/image/", "@type": "ImageObject", "caption": "SendPulse", "contentUrl": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg", "height": 75, "width": 240, "url": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg"}, "sameAs": ["https://www.facebook.com/SendPulse/", "https://x.com/sendpulsecom", "https://www.linkedin.com/company/sendpulse/", "https://www.youtube.com/channel/UCIGOMfmiMxmFdJ-Ua7BD_zg", "https://www.instagram.com/sendpulse/", "https://www.wikidata.org/wiki/Q60220061", "https://www.crunchbase.com/organization/sendpulse", "https://www.google.com/sea
+--- TEXT ---
+-->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Multi-Channel Marketing Automation Platform | SendPulse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sorry, your browser is not supported!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -30% on the first month for new users 
+ 
+ Explore advanced features of any SendPulse tool with a special discount 
+ 
+ 
+ 
+ Get discount 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Do you need SendPulse logo?
+It’s available in PNG, SVG, EPS formats.
+Download a logo
+">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ Português 
+ 
+ 
+ 
+ Українська 
+ 
+ 
+ 
+ Español 
+ 
+ 
+ 
+ Türkçe 
+ 
+ 
+ 
+ Italiano 
+ 
+ 
+ 
+ Deutsch 
+ 
+ 
+ 
+ Indonesia 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Русский 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Required field 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Required field 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ Remember me 
+ 
+ 
+ 
+ 
+or
+ 
+ 
+ 
+ 
+ 
+ Sign in with Facebook 
+ 
+ 
+ 
+ 
+ Sign in with Google 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign Up 
+ 
+ 
+ 
+ 
+ 
+ 
+toggle menu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+Pricing
+ 
+Support
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ Partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ send 
+ 
+ 
+Email Marketing
+ 
+Automation 360
+ 
+Transactional Emails
+ 
+Bulk SMS
+ 
+Web Push Notifications
+ 
+ 
+ 
+ 
+ communicate 
+ 
+ 
+Live Chat
+ 
+Facebook Chatbots
+ 
+Instagram Chatbots
+ 
+WhatsApp Chatbots
+ 
+TikTok Chatbots
+ 
+Telegram Chatbots
+ 
+Viber Chatbots
+ 
+ 
+ 
+ 
+ get leads 
+ 
+ 
+Landing Pages
+ 
+Pop-ups
+ 
+ 
+ Manage & Sell 
+ 
+ 
+CRM
+ 
+Online Course Builder 
+ 
+Omnichannel inbox
+ 
+SendPulse pixel
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+Find a SendPulse Expert
+ 
+All Features
+ 
+ 
+ 
+ 
+ 
+Automate your marketing efforts with AI-powered tools
+ 
+ 
+ 
+ 
+ 
+ 
+Get started with SendPulse for free
+Send 15,000 monthly emails
+Use our website builder
+Create 3 chatbots
+Leverage a built-in CRM system
+No credit card required
+Sign up now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+Discover actionable tips and helpful tools to fuel your growth 
+ 
+ 
+ 
+Help Center
+ 
+Learn how to use SendPulse with our in-depth guides
+ 
+ 
+ 
+Platform Updates
+ 
+Recent SendPulse updates and new features
+ 
+ 
+ 
+API
+ 
+Integrate SendPulse with your apps and automate workflows via API
+ 
+ 
+ 
+ 
+SendPulse Academy
+ 
+Take online courses to grow in-demand marketing skills
+ 
+ 
+ 
+Community
+ 
+Stay connected and gain insights from industry experts
+ 
+ 
+ 
+YouTube Channel
+ 
+Expand your knowledge with video content from our experts 
+ 
+ 
+ 
+Marketing 101
+ 
+Keep up with all the key digital marketing terms and definitions
+ 
+ 
+ 
+ 
+ 
+ 
+ Become a partner 
+ 
+ 
+ 
+Agencies
+ 
+Refer your clients and earn extra income
+ 
+ 
+ 
+Affiliates
+ 
+Become a SendPulse affiliate
+ 
+ 
+ 
+Developers
+ 
+Create your own applications for SendPulse tools
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partner Catalog
+ 
+Find a professional for your project
+ 
+ 
+ 
+Certification
+ 
+Become a SendPulse-certified expert
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Filter by section:
+ 
+ 
+ Entire website 
+ 
+ Help Center 
+ 
+ Integrations 
+ 
+ Blog 
+ 
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Boost your digital marketing with a powerhouse of essential tools
+ 
+Drive your lead generation, audience engagement, and customer retention for free — all on a single platform
+ 
+ 
+Sign up for free
+ 
+ 
+ 
+ Sign in with Google 
+ 
+ 
+ 
+ 
+ 
+ 
+15,000 free emails
+ 
+ 
+ 
+ 
+3 free chatbots
+ 
+ 
+ 
+ 
+Free landing page builder
+ 
+ 
+ 
+ 
+CRM system
+ 
+ 
+ 
+ 
+No credit card required
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CRM system
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transactional emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sales pipeline automation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Сhatbots for your business
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Landing page builder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pop-ups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web push notifications
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Online course builder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bulk SMS campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted by 3M+ users. Loved by 4K+ reviewers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free multichannel marketing tools
+ 
+Get started with our free plan to tailor all the tools to your needs, test out strategies, and see your first results
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15,000 emails per month
+ 
+including marketing and transactional campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 chatbots
+ 
+With automated replies and pre-built flow templates for an easy start
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comprehensive CRM system
+ 
+integrated with other SendPulse tools
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 website created with our website builder
+ 
+for promotion of your brand’s products and services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 pop-ups and an online chat
+ 
+for better engagement, customer support, and lead generation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subscription forms
+ 
+with customized display conditions for data collection
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web push campaigns
+ 
+for instant browser notifications sent directly to the desktops of up to 10,000 subscribers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sales pipeline automation
+ 
+for contact management workflow automation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Online course builder
+ 
+for creating and selling online courses
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Upgrade your subscription plan as your business grows
+ 
+Start using SendPulse's tools for free without any time limits and upgrade to a 
+paid plan
+ with additional features, like SMS campaigns, when you need it.
+ 
+ 
+ 
+Try for free
+ 
+ No credit card required 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A versatile platform — handy for professionals of any field and caliber
+ 
+Use SendPulse to grow your business independently, manage a team of any size, or make a name for your brand online
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sales managers
+ 
+Our free CRM system can be the hub of your business, allowing you to manage your sales and communication channels. Move leads down your sales pipeline automatically, manage deals, and instantly get all the customer data you need.
+ 
+ 
+ 
+ 
+ 
+ 
+eLearning businesses
+ 
+Develop and sell your courses or promote experts' personal brands. With SendPulse, you can teach, market, and sell on a single platform.
+ 
+ 
+ 
+ 
+ 
+ 
+Industry experts and business owners
+ 
+Put your brand on the map without hiring any outside professionals. Leverage our drag and drop editors and pre-made templates to complete your marketing tasks faster.
+ 
+ 
+ 
+ 
+ 
+ 
+Marketers
+ 
+Conduct all of your marketing initiatives on a single platform and manage your communication with customers across multiple channels, increasing your conversion rates and ROI. No integrations required — the tools are already connected to one another.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Implement all communication channels and move leads down your sales pipeline automatically
+ 
+Use our all-in-one platform to ensure an exceptional user experience and boost sales. You can:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automatically send personalized offers just in time via a customer's preferred communication channel;
+ 
+ 
+ 
+ 
+ 
+ 
+Use chatbots or a live chat to stay in touch with your clients without having to switch between different tools or accounts;
+ 
+ 
+ 
+ 
+ 
+ 
+Monitor your deal and communication history to create personalized sales pipelines and drive conversion rates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Save time with free integrations
+ 
+Say goodbye to software chaos — all the tools are already integrated with each other.
+For instance, since our CRM system, chatbot builder, and email marketing service have 
+built-in integrations
+, you can communicate with your customers directly from their CRM contact cards.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enhance your team's collaboration and efficiency
+ 
+Invite colleagues to your CRM system to manage their workflow and track campaigns' or deals' effectiveness.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segment your audience and personalize your communication with clients
+ 
+Encourage customer loyalty with well-crafted promotional and transactional campaigns, taking into account clients' current sales pipeline stage and personal data, like name, order history, and more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Monitor and analyze your marketing performance with powerful built-in tools
+ 
+Explore how users interact with specific elements, analyze your audience, and view detailed reports. With access to a wealth of information, you can quickly identify potential errors and maximize your marketing efforts' effectiveness.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We will help you get the hang of the SendPulse services
+ 
+We’re always here to back you up. 
+ If you have any questions, you can always contact our customer support or refer to our free resources.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24/7 Support
+ 
+Start a chat or fill out the form — we are here for you 24/7 and can assist our users in five languages.
+ 
+ 
+ 
+ 
+ 
+ 
+Knowledge Base
+ 
+Check out all the how-tos on using our platform you will ever need.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Latest from our blog 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp Service Message Pricing Changes in October 2026 
+ 
+ Meta starts charging for WhatsApp service messages on October 1, 2026. Here's what to expect. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HubSpot vs Constant Contact: Pricing & Feature Comparison 
+ 
+ We tested both platforms to find which one actually fits your business and your budget. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ActiveCampaign vs HubSpot: Pricing & Features 
+ 
+ A hands-on breakdown of where each platform wins, where it falls short, and which one is worth the spend. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18 Best Linktree Alternatives: Free & Paid Tools 
+ 
+ Explore the best link-in-bio builders, tested and compared on pricing, features, and limitations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manage all your communication channels and sales pipelines effectively
+ 
+Maximize your customer engagement and conversions with our user-friendly marketing automation platform
+ 
+ 
+Try for free
+ 
+ 
+ 
+ Sign in with Google 
+ 
+ 
+ 
+ 
+ 
+ 
+15,000 free emails
+ 
+ 
+ 
+ 
+3 free chatbots
+ 
+ 
+ 
+ 
+Free landing page builder
+ 
+ 
+ 
+ 
+CRM system
+ 
+ 
+ 
+ 
+No credit card required
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email 
+Bulk Email Service
+SMTP Service
+Drag-and-Drop Builder
+Subscription Forms
+Automation
+Campaign Analytics
+Free Email Templates
+Email Verifier
+Free Chrome Extension
+SMB Email Marketing
+Email Marketing Platform
+ 
+ 
+Solutions
+Retail and eCommerce
+Online Educators
+Content Creators
+ 
+ 
+ 
+ 
+Chatbots
+Chatbot Builder
+Instagram Chatbots
+TikTok Chatbots
+WhatsApp Chatbots
+Email chatbots
+WhatsApp Business API
+WhatsApp Сampaigns 
+Click to WhatsApp Ads
+WhatsApp Link Generator
+Free WhatsApp QR Code Generator
+WhatsApp CRM
+Chatbot Signup Widgets
+Chatbots App
+Viber Chatbots
+Facebook Chatbots
+Telegram Chatbots
+ 
+ 
+ 
+ 
+Services
+Online Course Builder
+LMS
+CRM
+eCommerce CRM
+Websites
+Bio Link Page 
+Bulk SMS
+Viber
+Web Push Notifications
+Smart Pop-ups
+SendPulse Pixel
+Pop-up Surveys
+NPS Widgets
+Live Chat
+Omnichannel Inbox 
+All-in-one Platform
+Dynamic Segmentation
+ AI Marketing Automation
+ 
+ 
+About Our Company
+Our Team
+Feedback
+Service Updates
+ 
+ 
+ 
+ 
+Resources 
+SendPulse Academy
+Help Сenter
+Internet Marketing 101
+Blog
+Integrations
+API
+MCP Server 
+Expert Directory
+ 
+ 
+For Partners
+Agencies
+Сertification
+Affiliate Program
+Partner Program
+Offer for Startups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Privacy Policy
+Cookie Statement
+SendPulse Security
+Data Processing Agreement
+Terms of Service
+ 
+Copyright © 2015 - 2026. SendPulse. All rights reserved
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get started with SendPulse 
+ 
+ Create a free account. No credit card required 
+ 
+ 
+ 
+ 
+ 
+ Sign up with Google 
+ 
+ 
+ 
+ 
+ Sign up with Facebook 
+ 
+ 
+ 
+ 
+or
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please enter a valid email address
+ 
+Required field
+ 
+The password is too short
+ 
+Your password should be from 8 to 48 characters long, contain at least one uppercase letter, one lowercase letter, and a number.
+ 
+Please enter 3 or more characters
+ 
+Please enter your name
+ 
+Please enter a valid phone number
+ 
+Please confirm you are not a robot
+ 
+Something went wrong with your signup. Try again later or contact our customer support
+ 
+Registration domain is blocked
+ 
+ The user with this email address already exists. You can 
+Login
+ or 
+Restore
+ a password. 
+ 
+ Such phone number is already registered.You can 
+Login
+ or 
+Restore
+ a password. 
+ 
+Looks like you already have an account. Please email us at support@sendpulse.com if you think this is an error.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Name 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email address 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Phone number
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Password 
+ 
+ 
+ 
+ 
+ 
+Password security tips:
+ 
+ 
+ 
+ 
+ 
+ at least 8 characters long 
+ 
+ 
+ 
+ 
+ 
+ 
+ contains a digit 
+ 
+ 
+ 
+ 
+ 
+ 
+ contains an uppercase character 
+ 
+ 
+ 
+ 
+ 
+ 
+ contains a lowercase character 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Region not supported: this service isn't available in your location 
+ 
+ 
+ 
+ 
+ 
+ By creating a SendPulse account, you agree to our 
+Terms of Service
+ and 
+Privacy Policy
+ 
+ 
+ Already have an account? 
+ Login
+
+===== product :: https://sendpulse.com/features
+--- SIGNALS ---
+title: Free Tools For Your Marketing Campaigns | SendPulse
+meta_description: With SendPulse you can send email campaigns and chatbot messages, create landing pages and manage contacts in a free CRM.
+og_description: With SendPulse you can send email campaigns and chatbot messages, create landing pages and manage contacts in a free CRM.
+og_site_name: SendPulse
+h1: Features
+h2: Email campaigns | Automation 360 | Chatbot builder | Website builder | Online course builder | CRM | Web push notifications | SMS service | Viber campaigns | SMTP | Pop-ups
+jsonld_org: [{"@id": "https://sendpulse.com/#Organization", "@type": "Organization", "name": "SendPulse", "legalName": "SendPulse Inc.", "url": "https://sendpulse.com/", "description": "SendPulse is an AI-driven marketing platform that helps scaling businesses automate email and chatbot conversations. With a built-in CRM system for lead capture, nurturing, and conversion, companies can create more personalized experiences and drive sales.", "disambiguatingDescription": "SendPulse, an AI-driven marketing automation platform", "foundingDate": "2015-02-19", "logo": {"@id": "https://sendpulse.com/#/schema/logo/image/", "@type": "ImageObject", "caption": "SendPulse", "contentUrl": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg", "height": 75, "width": 240, "url": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg"}, "image": {"@id": "https://sendpulse.com/#/schema/logo/image/", "@type": "ImageObject", "caption": "SendPulse", "contentUrl": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg", "height": 75, "width": 240, "url": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg"}, "sameAs": ["https://www.facebook.com/SendPulse/", "https://x.com/sendpulsecom", "https://www.linkedin.com/company/sendpulse/", "https://www.youtube.com/channel/UCIGOMfmiMxmFdJ-Ua7BD_zg", "https://www.instagram.com/sendpulse/", "https://www.wikidata.org/wiki/Q60220061", "https://www.crunchbase.com/organization/sendpulse", "https://www.google.com/sea
+--- TEXT ---
+-->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free Tools For Your Marketing Campaigns | SendPulse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sorry, your browser is not supported!
+ 
+ 
+ 
+ 
+ 
+ 
+Do you need SendPulse logo?
+It’s available in PNG, SVG, EPS formats.
+Download a logo
+">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ Português 
+ 
+ 
+ 
+ Українська 
+ 
+ 
+ 
+ Español 
+ 
+ 
+ 
+ Türkçe 
+ 
+ 
+ 
+ Italiano 
+ 
+ 
+ 
+ Deutsch 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Русский 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Required field 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Required field 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ Remember me 
+ 
+ 
+ 
+ 
+or
+ 
+ 
+ 
+ 
+ 
+ Sign in with Facebook 
+ 
+ 
+ 
+ 
+ Sign in with Google 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign Up 
+ 
+ 
+ 
+ 
+ 
+ 
+toggle menu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+Pricing
+ 
+Support
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ Partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ send 
+ 
+ 
+Email Marketing
+ 
+Automation 360
+ 
+Transactional Emails
+ 
+Bulk SMS
+ 
+Web Push Notifications
+ 
+ 
+ 
+ 
+ communicate 
+ 
+ 
+Live Chat
+ 
+Facebook Chatbots
+ 
+Instagram Chatbots
+ 
+WhatsApp Chatbots
+ 
+TikTok Chatbots
+ 
+Telegram Chatbots
+ 
+Viber Chatbots
+ 
+ 
+ 
+ 
+ get leads 
+ 
+ 
+Landing Pages
+ 
+Pop-ups
+ 
+ 
+ Manage & Sell 
+ 
+ 
+CRM
+ 
+Online Course Builder 
+ 
+Omnichannel inbox
+ 
+SendPulse pixel
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+Find a SendPulse Expert
+ 
+All Features
+ 
+ 
+ 
+ 
+ 
+Automate your marketing efforts with AI-powered tools
+ 
+ 
+ 
+ 
+ 
+ 
+Get started with SendPulse for free
+Send 15,000 monthly emails
+Use our website builder
+Create 3 chatbots
+Leverage a built-in CRM system
+No credit card required
+Sign up now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+Discover actionable tips and helpful tools to fuel your growth 
+ 
+ 
+ 
+Help Center
+ 
+Learn how to use SendPulse with our in-depth guides
+ 
+ 
+ 
+Platform Updates
+ 
+Recent SendPulse updates and new features
+ 
+ 
+ 
+API
+ 
+Integrate SendPulse with your apps and automate workflows via API
+ 
+ 
+ 
+ 
+SendPulse Academy
+ 
+Take online courses to grow in-demand marketing skills
+ 
+ 
+ 
+Community
+ 
+Stay connected and gain insights from industry experts
+ 
+ 
+ 
+YouTube Channel
+ 
+Expand your knowledge with video content from our experts 
+ 
+ 
+ 
+Marketing 101
+ 
+Keep up with all the key digital marketing terms and definitions
+ 
+ 
+ 
+ 
+ 
+ 
+ Become a partner 
+ 
+ 
+ 
+Agencies
+ 
+Refer your clients and earn extra income
+ 
+ 
+ 
+Affiliates
+ 
+Become a SendPulse affiliate
+ 
+ 
+ 
+Developers
+ 
+Create your own applications for SendPulse tools
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partner Catalog
+ 
+Find a professional for your project
+ 
+ 
+ 
+Certification
+ 
+Become a SendPulse-certified expert
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Filter by section:
+ 
+ 
+ Entire website 
+ 
+ Help Center 
+ 
+ Integrations 
+ 
+ Blog 
+ 
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email campaigns 
+Automation 360
+Chatbot builder
+ 
+Website builder
+Online course builder 
+CRM
+Web push notifications
+ 
+SMS service
+ 
+Viber campaigns 
+SMTP 
+Pop-ups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email campaigns 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Intuitive email builder
+ 
+Our drag-and-drop email builder allows you to quickly and easily create professional email templates. You do not need any technical skills or HTML knowledge to develop your own template.
+ 
+ 
+ 
+ 
+ 
+Subscription forms
+ 
+Create a unique subscription form using your brand colors and style. Place it on your website, collect email addresses, and send them campaigns.
+ 
+ 
+ 
+ 
+ 
+Over 130 responsive templates
+ 
+Design and build an email template with ease. Browse our free email template gallery and select a template that meets your requirements and preferences best.
+ 
+ 
+ 
+ 
+ 
+Resend your unopened email
+ 
+Increase your open rate by resending your campaign with a new subject line to everyone who has not opened it.
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+Leverage the subscriber data you have on hand — name, location, or date of birth — to build trust and engagement with each email you send.
+ 
+ 
+ 
+ 
+ 
+Segmentation
+ 
+Send emails to your clients based on their gender, location, or particular interests.
+ 
+ 
+ 
+ 
+ 
+A/B testing
+ 
+Test several versions of your email using different subject lines or body content. Send out the version that receives the best results.
+ 
+ 
+ 
+ 
+ 
+Statistics
+ 
+Our service provides detailed open and click-through statistics so that you can monitor your email campaign performance and enhance it.
+ 
+ 
+ 
+ 
+ 
+Subscriber rating
+ 
+Analyze your subscribers' activity, segment your mailing list, and implement a personalized approach when communicating with your audience.
+ 
+ 
+ 
+ 
+ 
+User access levels
+ 
+Collaborate with colleagues and partners, sharing access only to certain features. Limit their access to areas with confidential information.
+ 
+ 
+ 
+ 
+ 
+Integration
+ 
+Integrate our bulk email service with your CRM system or CMS. You can send emails directly from your project, track your campaigns, and view statistics.
+ 
+ 
+ 
+ 
+ 
+Mobile app
+ 
+Add new recipients to your mailing list, send emails, and monitor your email campaign results on the go.
+ 
+ 
+ 
+ 
+ 
+AMP emails
+ 
+Send interactive emails to subscribers using AMP4Email, changing your email contents in real time.
+ 
+ 
+ 
+ 
+ 
+Email verifier
+ 
+Verify your subscribers' email addresses and keep your mailing list clean from non-existent email addresses, spam traps, and mistyped email addresses.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Automation 360 
+ 
+ 
+ 
+ 
+ 
+ 
+Multichannel marketing
+ 
+With Automation 360, you can implement our CRM system, online course builder, web push service, chatbot builder, and email service to streamline your sales pipeline.
+ 
+ 
+ 
+ 
+ 
+In-depth statistics
+ 
+Gain access to detailed statistics and analyze your automated campaigns' effectiveness by time, recipients, or individual elements.
+ 
+ 
+ 
+ 
+ 
+Data filters
+ 
+Use filters to segment your audience by interests, status, and other personal data to customize your variables, conditions, and events for each contact.
+ 
+ 
+ 
+ 
+ 
+Ready-made automated flows
+ 
+Use ready-made templates with scenarios configured according to flow categories, add your data, and launch your automated flow.
+ 
+ 
+ 
+ 
+ 
+Event-triggered flow
+ 
+Create your own events to start an automated email flow when they are triggered.
+ 
+ 
+ 
+ 
+ 
+Email validation in Automation 360
+ 
+Our system automatically analyzes your email body and subject line, highlights possible variable and regular expression errors, and offers correction options.
+ 
+ 
+ 
+ 
+ 
+API and webhooks
+ 
+Transfer data between your system and SendPulse automatically using API or inbound webhooks.
+ 
+ 
+ 
+ 
+ 
+Automation 360 as an app
+ 
+Monitor your flow analytics, filter the required results, and launch, pause, or stop your flows right in the app.
+ 
+ 
+ 
+ 
+ 
+Priority time
+ 
+Automatically send thousands of messages via multiple communication channels right away or according to your schedule.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chatbot builder 
+ 
+ 
+ 
+ 
+ 
+ 
+Build multiple chatbots
+ 
+Develop a Facebook, Instagram, or WhatsApp chatbot and send to bulk and personalized messages to users.
+ 
+ 
+ 
+ 
+ 
+Facebook chatbots
+ 
+Create automated reply flows and deliver bulk and personalized messages via your Facebook chatbot. Launch scheduled campaigns and track the number of sent and read messages and click-throughs.
+ 
+ 
+ 
+ 
+ 
+Instagram chatbots
+ 
+Set up automated Instagram chatbot replies to engage more users. Launch a targeted ad campaign in your Facebook account.
+ 
+ 
+ 
+ 
+ 
+Viber chatbots
+ 
+Develop an automated reply flow and add multimedia content to your messages. Collect the data points entered by your subscribers and send them to our CRM system for future personalization and audience segmentation.
+ 
+ 
+ 
+ 
+ 
+WhatsApp campaigns and chatbots
+ 
+Craft automated chatbot replies and send trigger messages with the help of an official WhatsApp Business API provider. Use a single platform to manage your chats and send replies from different devices.
+ 
+ 
+ 
+ 
+ 
+WhatsApp Business API
+ 
+Send personalized campaigns from your brand and chatbot messages on WhatsApp. Communicate with clients during a free 24-hour session and integrate WhatsApp with other tools.
+ 
+ 
+ 
+ 
+ 
+Subscription widgets
+ 
+Enable users to subscribe to your Facebook, Instagram, or WhatsApp chatbot right on your website using a widget.
+ 
+ 
+ 
+ 
+ 
+Live chat
+ 
+Create a live chat for your website to send automated messages triggered by user actions or behavior.
+ 
+ 
+ 
+ 
+ 
+Automated flow builder
+ 
+Create a series of messages that will be automatically sent to your subscribers based on their actions or keywords they use.
+ 
+ 
+ 
+ 
+ 
+Chatbot subscriber segmentation
+ 
+You can add variables and tags to segment your subscribers based on their gender, location, or particular interests.
+ 
+ 
+ 
+ 
+ 
+The SendPulse Chatbots app
+ 
+Install the app to be in touch with your subscribers and send quick replies via Facebook, Instagram, and WhatsApp chatbots.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Website builder 
+ 
+ 
+ 
+ 
+ 
+ 
+Landing pages and online stores
+ 
+Create websites without writing a single line of code. Publish them for free using a standard SendPulse domain or add a unique domain to increase brand awareness and get more website visitors.
+ 
+ 
+ 
+ 
+ 
+Pre-designed templates
+ 
+Use our responsive templates to build your own website. Our set of tools will help you add your own content and customize templates to your brand style and business needs.
+ 
+ 
+ 
+ 
+ 
+Bio link page
+ 
+Add multiple links to your social media bio. Share your bio link page with subscribers so that they can learn more about your products or services and connect with you using a communication channel they prefer.
+ 
+ 
+ 
+ 
+ 
+Drag-and-drop builder
+ 
+Design your unique landing page using our intuitive website builder. Use our pre-made design solutions and add and edit elements yourself.
+ 
+ 
+ 
+ 
+ 
+Built-in tools and integrations
+ 
+Add payment systems to accept payments from all over the world. Collect website visitors’ data using subscription forms and implement this information to send more relevant and personalized offers.
+ 
+ 
+ 
+ 
+ 
+SEO and analytics
+ 
+Amp up your search engine rankings using SEO tools and your Google Analytics data.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Online course builder
+ 
+ 
+ 
+ 
+ 
+ 
+Online course development
+ 
+Develop training programs without having a technical background. Select your course format, flow, pricing, and completion criteria and craft a certificate for your students.
+ 
+ 
+ 
+ 
+ 
+Knowledge monetization
+ 
+Turn your idea into a high-demand educational product that will bring in regular income. Accept payments for your courses using integrations with popular payment systems, including Stripe, Paypal, MercadoPago, and more.
+ 
+ 
+ 
+ 
+ 
+User-friendly builder
+ 
+With our drag-and-drop lesson builder, you can craft your course structure, adding sections, lessons, and tests. Include text, images, audio recordings, and video lectures to make your lessons more engaging and digestible.
+ 
+ 
+ 
+ 
+ 
+Comprehensive management
+ 
+Create sales pipelines, encourage new students to sign up for your course using subscription forms, manage contacts in your CRM system, and use other SendPulse services to enrich your communication with students.
+ 
+ 
+ 
+ 
+ 
+Instant communication
+ 
+Interact with your students across multiple communication channels using SMS messages and chatbots. Send email campaigns and web push notifications.
+ 
+ 
+ 
+ 
+ 
+Convenient learning format
+ 
+Track students' involvement in the learning process and their progress status. Support your participants at every stage of your course, answer their questions, and offer them a helping hand right on time.
+ 
+ 
+ 
+ 
+ 
+LMS platform
+ 
+Implement effective training programs for employees, partners, and customers to assess their knowledge and progress and provide certification.
+ 
+ 
+ 
+ 
+ 
+Mobile app
+ 
+Students can take your courses, complete assignments, download files, ask questions, and edit their profile in the Education by SendPulse app.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CRM 
+ 
+ 
+ 
+ 
+ 
+ 
+Sales pipeline
+ 
+Manage your workflow at each stage of the sales pipeline — create deals, add contacts, and assign responsible team members.
+ 
+ 
+ 
+ 
+ 
+Seamless customer communication
+ 
+Connect with customers directly by opening a contact card or a deal. Send campaigns via email or messaging apps.
+ 
+ 
+ 
+ 
+ 
+All customer data in one place
+ 
+Create contact cards and update them with new customer data points. Add specific fields to your contact cards to be able to fill them with helpful notes for future interactions.
+ 
+ 
+ 
+ 
+ 
+Adding deals automatically
+ 
+Create deals automatically when a user takes a certain action in your automated flow, chatbot, subscription form, and more.
+ 
+ 
+ 
+ 
+ 
+Teamwork
+ 
+Invite colleagues to your CRM system to work on a project together and delegate your tasks effectively.
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+Integrate your CRM system with other SendPulse services and tools to close your deals even faster.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Web push notifications 
+ 
+ 
+ 
+ 
+ 
+ 
+High subscription rate
+ 
+Visitors see your subscription request when they want to visit your website.
+ 
+ 
+ 
+ 
+ 
+Automated flows
+ 
+You can create and send emails, chatbot campaigns, web push notifications, and SMS messages based on certain variables, events, and actions your users take.
+ 
+ 
+ 
+ 
+ 
+Personalization and segmentation
+ 
+Add recipients' personal data to your web push notifications. Segment your audience based on their location, subscription date, language, and other criteria.
+ 
+ 
+ 
+ 
+ 
+Offline notifications
+ 
+Users will see your notification as soon as they go online.
+ 
+ 
+ 
+ 
+ 
+Trigger and bulk messages
+ 
+Send web push notifications to all subscribers or set up automated messages when certain conditions are met.
+ 
+ 
+ 
+ 
+ 
+Developer API
+ 
+Implement the SendPulse API and send web push notifications, emails, and SMS messages using a single platform.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS service 
+ 
+ 
+ 
+ 
+ 
+ 
+Global reach and quick delivery
+ 
+Deliver messages in any language to more than 1,000 mobile operators worldwide.
+ 
+ 
+ 
+ 
+ 
+Sender name
+ 
+Amp up brand awareness by adding an SMS sender name so that recipients see your company's name when receiving messages from you.
+ 
+ 
+ 
+ 
+ 
+Seamless automation
+ 
+Schedule your bulk SMS messages for 
+
+===== pricing_or_trust :: https://sendpulse.com/pricing
+--- SIGNALS ---
+title: Pricing | SendPulse
+meta_description: Check out SendPulse prices for bulk email service.
+og_description: Check out SendPulse prices for bulk email service.
+og_site_name: SendPulse
+h1: Email pricing
+h2: FAQ
+jsonld_org: [{"@id": "https://sendpulse.com/#Organization", "@type": "Organization", "name": "SendPulse", "legalName": "SendPulse Inc.", "url": "https://sendpulse.com/", "description": "SendPulse is an AI-driven marketing platform that helps scaling businesses automate email and chatbot conversations. With a built-in CRM system for lead capture, nurturing, and conversion, companies can create more personalized experiences and drive sales.", "disambiguatingDescription": "SendPulse, an AI-driven marketing automation platform", "foundingDate": "2015-02-19", "logo": {"@id": "https://sendpulse.com/#/schema/logo/image/", "@type": "ImageObject", "caption": "SendPulse", "contentUrl": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg", "height": 75, "width": 240, "url": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg"}, "image": {"@id": "https://sendpulse.com/#/schema/logo/image/", "@type": "ImageObject", "caption": "SendPulse", "contentUrl": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg", "height": 75, "width": 240, "url": "https://sendpulse.com/images/promo-logo/correct/sendpulse-logo.svg"}, "sameAs": ["https://www.facebook.com/SendPulse/", "https://x.com/sendpulsecom", "https://www.linkedin.com/company/sendpulse/", "https://www.youtube.com/channel/UCIGOMfmiMxmFdJ-Ua7BD_zg", "https://www.instagram.com/sendpulse/", "https://www.wikidata.org/wiki/Q60220061", "https://www.crunchbase.com/organization/sendpulse", "https://www.google.com/sea
+--- TEXT ---
+-->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing | SendPulse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sorry, your browser is not supported!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -30% on the first month for new users 
+ 
+ Explore advanced features of any SendPulse tool with a special discount 
+ 
+ 
+ 
+ Get discount 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Do you need SendPulse logo?
+It’s available in PNG, SVG, EPS formats.
+Download a logo
+">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+English
+ 
+ 
+ 
+ 
+ Português 
+ 
+ 
+ 
+ Українська 
+ 
+ 
+ 
+ Español 
+ 
+ 
+ 
+ Türkçe 
+ 
+ 
+ 
+ Italiano 
+ 
+ 
+ 
+ Deutsch 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Русский 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Required field 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Required field 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ Remember me 
+ 
+ 
+ 
+ 
+or
+ 
+ 
+ 
+ 
+ 
+ Sign in with Facebook 
+ 
+ 
+ 
+ 
+ Sign in with Google 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign Up 
+ 
+ 
+ 
+ 
+ 
+ 
+toggle menu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+Pricing
+ 
+Support
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ Partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ send 
+ 
+ 
+Email Marketing
+ 
+Automation 360
+ 
+Transactional Emails
+ 
+Bulk SMS
+ 
+Web Push Notifications
+ 
+ 
+ 
+ 
+ communicate 
+ 
+ 
+Live Chat
+ 
+Facebook Chatbots
+ 
+Instagram Chatbots
+ 
+WhatsApp Chatbots
+ 
+TikTok Chatbots
+ 
+Telegram Chatbots
+ 
+Viber Chatbots
+ 
+ 
+ 
+ 
+ get leads 
+ 
+ 
+Landing Pages
+ 
+Pop-ups
+ 
+ 
+ Manage & Sell 
+ 
+ 
+CRM
+ 
+Online Course Builder 
+ 
+Omnichannel inbox
+ 
+SendPulse pixel
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+Find a SendPulse Expert
+ 
+All Features
+ 
+ 
+ 
+ 
+ 
+Automate your marketing efforts with AI-powered tools
+ 
+ 
+ 
+ 
+ 
+ 
+Get started with SendPulse for free
+Send 15,000 monthly emails
+Use our website builder
+Create 3 chatbots
+Leverage a built-in CRM system
+No credit card required
+Sign up now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+Discover actionable tips and helpful tools to fuel your growth 
+ 
+ 
+ 
+Help Center
+ 
+Learn how to use SendPulse with our in-depth guides
+ 
+ 
+ 
+Platform Updates
+ 
+Recent SendPulse updates and new features
+ 
+ 
+ 
+API
+ 
+Integrate SendPulse with your apps and automate workflows via API
+ 
+ 
+ 
+ 
+SendPulse Academy
+ 
+Take online courses to grow in-demand marketing skills
+ 
+ 
+ 
+Community
+ 
+Stay connected and gain insights from industry experts
+ 
+ 
+ 
+YouTube Channel
+ 
+Expand your knowledge with video content from our experts 
+ 
+ 
+ 
+Marketing 101
+ 
+Keep up with all the key digital marketing terms and definitions
+ 
+ 
+ 
+ 
+ 
+ 
+ Become a partner 
+ 
+ 
+ 
+Agencies
+ 
+Refer your clients and earn extra income
+ 
+ 
+ 
+Affiliates
+ 
+Become a SendPulse affiliate
+ 
+ 
+ 
+Developers
+ 
+Create your own applications for SendPulse tools
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partner Catalog
+ 
+Find a professional for your project
+ 
+ 
+ 
+Certification
+ 
+Become a SendPulse-certified expert
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Filter by section:
+ 
+ 
+ Entire website 
+ 
+ Help Center 
+ 
+ Integrations 
+ 
+ Blog 
+ 
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email marketing
+ 
+Chatbots
+ 
+Transactional emails
+ 
+CRM
+ 
+Websites
+ 
+SMS
+ 
+Courses
+ 
+Pop-ups
+ 
+Email verification
+ 
+Web push
+ 
+Viber
+ 
+ 
+Email pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free
+ 
+ Core features: 
+ 
+ 
+ 
+ 
+ 
+ Newbies
+Explore SendPulse tools, launch your first campaign, and see how easy it is to start growing. 
+ 
+ Sign Up 
+ 
+ 
+ 
+Show all features
+ 
+Hide
+ 
+ 
+ 
+ 
+15,000 emails per month
+140+ editable email templates
+Drag-and-drop email builder
+Contact import
+Subscription forms to grow your mailing list
+Basic features in Automation
+Open and click-through rate analytics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscription 
+ 
+ 
+ 
+ Pay As You Go 
+ 
+ 
+ 
+ 
+ 
+ 
+Billing period:
+ 
+ 
+ 
+ Yearly 
+-20%
+ 
+ 
+ 
+ 6-month 
+-10%
+ 
+ 
+ 
+ Monthly 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What is your mailing list size?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ideal for beginners 
+ 
+ 
+Standard
+ 
+ 
+ 
+Growing businesses 
+ Run ongoing campaigns that drive sales and keep your revenue climbing.
+ 
+ 
+ 
+ 
+Billed every 6 months
+ 
+Billed annually
+ 
+ Up to 
+500
+ subscribers 
+ 
+ $ 
+ 
+/month
+ 
+ 
+ $ 
+9.60
+ 
+/month
+ 
+ 
+ 
+115.20
+"
+ data-abbr="estariff500"
+ data-months="12"
+ data-version="Standard"
+ tabindex="0" >
+ Sign Up Now 
+ 
+ 
+ 
+Show all features
+ 
+Hide
+ 
+ 
+ 
+ 
+Free plan features, and more: 
+Unlimited number of emails 
+Static subscriber segmentation 
+A/B testing for email subject, content, and sender names
+3 users per account
+Scheduled sending by date and time
+Advanced features in Automation 
+Payment processing in emails 
+ No SendPulse branding
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recommended 
+ 
+ 
+Pro
+ 
+ 
+ 
+eCommerce and eLearning 
+ Scale your email strategy, automate workflows, and personalize multiple pipelines effortlessly.
+ 
+ 
+ 
+ 
+Billed every 6 months
+ 
+Billed annually
+ 
+ Up to 
+500
+ subscribers 
+-->
+ 
+ $ 
+ 
+/month
+ 
+ 
+ $ 
+11.52
+ 
+/month
+ 
+ 
+ 
+138.24
+"
+ data-abbr="estariff500"
+ data-months="12"
+ data-version="Pro"
+ tabindex="0" >
+ Sign Up Now 
+ 
+ 
+ 
+Show all features
+ 
+Hide
+ 
+ 
+ 
+ 
+Standard plan features, and more:
+Reengagement emails
+Dynamic subscriber segmentation
+Email address verification
+10 users per account
+Expert-level features in Automation
+Personalized onboarding with a dedicated coordinator and tailored setup
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise
+ 
+ 
+ 
+Large enterprises
+Equip multiple teams to handle heavy workloads smoothly, with dedicated support that matches your needs.
+ 
+ 
+ 
+ 
+Billed every 6 months
+ 
+Billed annually
+ 
+ Up to 
+500
+ subscribers 
+ 
+ $ 
+ 
+/month
+ 
+ 
+ $ 
+16.13
+ 
+/month
+ 
+ 
+ 
+This pricing plan requires at least 2,500 contacts
+ 
+193.54
+"
+ data-abbr="estariff500"
+ data-months="12"
+ data-version="Enterprise"
+ tabindex="0" >
+ Sign Up Now 
+ 
+ 
+ 
+Show all features
+ 
+Hide
+ 
+ 
+ 
+ 
+PRO plan features, and more:
+Unlimited number of sender email addresses
+Unlimited number of flows in Automation
+Full A/B testing suite
+Unlimited number of users
+Dedicated support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Number of emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ideal for beginners 
+ 
+ 
+Standard
+ 
+ 
+ 
+Growing businesses 
+ Run ongoing campaigns that drive sales and keep your revenue climbing.
+ 
+ 
+ 
+ 
+ Up to 
+10000
+ emails 
+ 
+ $ 
+48
+ 
+ 
+ 
+ 
+48
+"
+ data-abbr="espack10K"
+ data-version="Standard"
+ tabindex="0" >
+ Sign Up Now 
+ 
+ 
+ 
+Show all features
+ 
+Hide
+ 
+ 
+ 
+ 
+Free plan features, and more: 
+Unlimited number of emails 
+Static subscriber segmentation 
+A/B testing for email subject, content, and sender names
+3 users per account
+Scheduled sending by date and time
+Advanced features in Automation 
+Payment processing in emails 
+ No SendPulse branding
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recommended 
+ 
+ 
+Pro
+ 
+ 
+ 
+eCommerce and eLearning 
+ Scale your email strategy, automate workflows, and personalize multiple pipelines effortlessly.
+ 
+ 
+ 
+ 
+ Up to 
+10000
+ emails 
+ 
+ $ 
+57.60
+ 
+ 
+ 
+ 
+57.60
+"
+ data-abbr="espack10K"
+ data-version="Pro"
+ tabindex="0" >
+ Sign Up Now 
+ 
+ 
+ 
+Show all features
+ 
+Hide
+ 
+ 
+ 
+ 
+Standard plan features, and more:
+Reengagement emails
+Dynamic subscriber segmentation
+Email address verification
+10 users per account
+Expert-level features in Automation
+Personalized onboarding with a dedicated coordinator and tailored setup
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise
+ 
+ 
+ 
+Large enterprises
+Equip multiple teams to handle heavy workloads smoothly, with dedicated support that matches your needs.
+ 
+ 
+ 
+ 
+ Up to 
+10000
+ emails 
+ 
+ $ 
+80.64
+ 
+ 
+ 
+ 
+80.64
+"
+ data-abbr="espack10K"
+ data-version="Enterprise"
+ tabindex="0" >
+ Sign Up Now 
+ 
+ 
+ 
+Show all features
+ 
+Hide
+ 
+ 
+ 
+ 
+PRO plan features, and more:
+Unlimited number of sender email addresses
+Unlimited number of flows in Automation
+Full A/B testing suite
+Unlimited number of users
+Dedicated support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explore all features
+ 
+ 
+ 
+ 
+ 
+Core features
+FREE
+ 
+STANDARD
+ 
+PRO
+ 
+ENTERPRISE
+Emails
+Up to 15,000 per month
+Unlimited
+Unlimited
+Unlimited
+Sender email addresses
+ 
+3 sender email addresses
+ 
+100 sender email addresses
+300 sender email addresses
+Unlimited number of sender email addresses
+Storage space for images in emails
+250 MB
+1 GB
+2 GB
+5 GB
+A/B testing
+ 
+3 test groups, more than 20 contacts 
+ 
+4 test groups, more than 30 contacts
+5 test groups, more than 40 contacts
+Tags
+ 
+Team size
+ 
+3 users per account
+10 users per account
+Unlimited number of users
+Email verifier
+ 
+100 verifications
+100 verifications
+1,000 verifications
+Varies by email 
+service
+ plan
+Reengagement emails
+ 
+Multichannel subscription forms
+ 
+Payment processing in emails
+ 
+Statistics and analytics
+Landing Pages
+ 
+2 websites and 2 bio link pages
+Automation
+Automated flows
+ 
+5
+10
+50
+Unlimited
+Elements per flow
+ 
+50
+70
+150
+Unlimited
+Events
+ 
+1
+10
+50
+Unlimited
+Dynamic segmentation
+ 
+10 saved segments
+50 saved segments
+Unlimited number of saved segments
+Integrations
+Make
+Zapier
+WordPress
+Shopify
+Creatio
+Data exchange
+API
+ 
+Webhooks
+ 
+Onboarding and support
+24/7 live chat and email support
+Help Center
+YouTube guides
+SendPulse community
+Certified partners
+ 
+ 
+ 
+ 
+ 
+ Handpick a perfect toolkit that aligns with your specific needs using our custom pricing plan builder 
+ 
+ 
+Create your unique plan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VIP plan 
+ 
+Over 5 million subscribers? Contact our sales team to discuss your VIP plan.
+ 
+ 
+ 
+sales@sendpulse.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FAQ
+ 
+ 
+ 
+ How do you choose the best pricing plan? 
+ 
+ 
+ 
+ 
+ 
+SendPulse offers the following pricing plan options:
+Monthly subscription: Free, Standard, Pro, and Enterprise (pricing plans differ based on the available features and mailing list size)
+Pay as you go (pricing plans differ based on the available features and mailing list size. Purchased emails are valid for a year)
+With the Free plan, you can send emails to up to 500 subscribers. To send emails to more users, choose one of our paid pricing plans based on the needs, size, and nature of your business.
+Check our pricing page to find out more about our plans.
+ 
+ 
+ 
+ 
+ 
+ 
+ How do I switch to a different plan? 
+ 
+ 
+ 
+ 
+ 
+To change your pricing plan, determine the features you need and the size of your mailing list and follow these steps:
+In your SendPulse account, go to the "Email" tab and select the "Pricing plans" section.
+Click "My subscriptions" and select a pricing plan.
+Click "Activate."
+ 
+ 
+ 
+ 
+ 
+ 
+ How can I pay? 
+ 
+ 
+ 
+ 
+ 
+In your SendPulse account, go to the "Email" tab and select the "Pricing plans" section.
+Select a pricing plan.
+We accept Visa and Mastercard credit cards. You can also pay via PayPal.
+ 
+ 
+ 
+ 
+ 
+ 
+ What if I change my mind? 
+ 
+ 
+ 
+ 
+ 
+To cancel pricing plan auto-renewal, follow these steps:
+In your SendPulse account, click the avatar in the upper-right corner and go to "Payments."
+Select a pricing plan you want to disable and click "Cancel subscription."
+ 
+ 
+ 
+ 
+ 
+ 
+ What is the difference between monthly subscription plans and pay-as-you-go plans? 
+ 
+ 
+ 
+ 
+ 
+Monthly subscription plans are auto-renewable, meaning that you will be charged for your pricing plan each month from the moment you activate it;
+Pay-as-you-go plans allow you to send a certain number of campaigns throughout the year. To send more emails, buy a pay-as-you-go plan again.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email 
+Bulk Email Service
+SMTP Service
+Drag-and-Drop Builder
+Subscription Forms
+Automation
+Campaign Analytics
+Free Email Templates
+Email Verifier
+Free Chrome Extension
+SMB Email Marketing
+Email Marketing Platform
+ 
+ 
+Solutions
+Retail and eCommerce
+Online Educators
+Content Creators
+ 
+ 
+ 
+ 
+Chatbots
+Chatbot Builder
+Instagram Chatbots
+TikTok Chatbots
+WhatsApp Chatbots
+Email chatbots
+WhatsApp Business API
+WhatsApp Сampaigns 
+Click to WhatsApp Ads
+WhatsApp Link Generator
+Free WhatsApp QR Code Generator
+WhatsApp CRM
+Chatbot Signup Widgets
+Chatbots App
+Viber Chatbots
+Facebook Chatbots
+Telegram Chatbots
+ 
+ 
+ 
+ 
+Services
+Online Course Builder
+LMS
+CRM
+eCommerce CRM
+Websites
+Bio Link Page 
+Bulk SMS
+Viber
+Web Push Notifications
+Smart Pop-ups
+SendPulse Pixel
+Pop-up Surveys
+NPS Widgets
+Live Chat
+Omnichannel Inbox 
+All-in-one Platform
+Dynamic Segmentation
+ AI Marketing Automation
+ 
+ 
+About Our Company
+Our Team
+Feedback
+Service Updates
+ 
+ 
+ 
+ 
+Resources 
+SendPulse Academy
+Help Сenter
+Internet Marketing 101
+Blog
+Integrations
+API
+MCP Server 
+Expert Directory
+ 
+ 
+For Partners
+Agencies
+Сertification
+Affiliate Program
+Partner Program
+Offer for Startups
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Privacy Policy
+Cookie Statement
+SendPulse Security
+Data Processing Agreement
+Terms of Service
+ 
+Copyright © 2015 - 2026. SendPulse. All rights reserved
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get started with SendPulse 
+ 
+ Create a free account. No credit card required 
+ 
+ 
+ 
+ 
+ 
+ Sign up with Google 
+ 
+ 
+ 
+ 
+ Sign up with Facebook 
+ 
+ 
+ 
+ 
+or
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please enter a valid email address
+ 
+Required field
+ 
+The password is too short
+ 
+Your password should be from 8 to 48 characters long, contain at least one uppercase letter, one lowercase letter, and a number.
+ 
+Please enter 3 or more characters
+ 
+Please enter your name
+ 
+Please enter a valid phone number
+ 
+Please confirm you are not a robot
+ 
+Something went wrong with your signup. Try again later or contact our customer support
+ 
+Registration domain is blocked
+ 
+ The user with this email address already exists. You can 
+Login
+ or 
+Restore
+ a password. 
+ 
+ Such phone number is already registered.You can 
+Login
+ or 
+Restore
+ a password. 
+ 
+Looks like you already have an account. Please email us at support@sendpulse.com if you think this is an error.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Name 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email address 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Phone number
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Password 
+ 
+ 
+ 
+ 
+ 
+Password security tips:
+ 
+ 
+ 
+ 
+ 
+ at least 8 characters long 
+ 
+ 
+ 
+ 
+ 
+ 
+ contains a digit 
+ 
+ 
+ 
+ 
+ 
+ 
+ contains an uppercase character 
+ 
+ 
+ 
+ 
+ 
+ 
+ contains a lowercase character 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Region not supported: this service isn't available in your location 
+ 
+ 
+ 
+ 
+ 
+ By creating a SendPulse account, you agree to our 
+Terms of Service
+ and 
+Privacy Policy
+ 
+ 
+ Already have an account? 
+ Login

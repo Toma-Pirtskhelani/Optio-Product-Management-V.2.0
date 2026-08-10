@@ -1,0 +1,3415 @@
+===== llms.txt :: https://www.dyspatch.io/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Dyspatch
+## About Dyspatch
+Dyspatch empowers your team to create, innovate, and grow conversations with your customers globally. Our mission is to revolutionize how global teams create personalized communications - from emails to SMS, push, and voice notifications - all without writing code.
+Dyspatch is more than an email builder, it’s the centralized platform where all your communication comes together to unleash creativity and strategy. By streamlining the creation process of email, SMS, push, and voice notifications, your team can deepen personalization, improve brand consistency, and scale your business globally. Dyspatch empowers teams of all sizes to craft stunning, high performing emails without writing code.
+- Support for both technical and non-technical users
+- Flexibility without template lock-in
+- Control, collaboration, and streamlined deployment
+With Dyspatch, you can create personalized, data-driven experiences for your customers and unleash growth and retention. As enterprises scale globally, managing multiple channels efficiently becomes critical - this is where Dyspatch excels. Our intelligent solution integrates email, SMS, push, and voice notifications while maintaining perfect brand consistency and compliance. We understand enterprise challenges: complex workflows, strict guidelines, and the need for speed without compromising quality. That's why we've built robust features for dynamic content, personalization, and cross-channel analytics that streamline production and drive results. With Dyspatch, teams can orchestrate sophisticated customer journeys, optimize resources through centralized asset management, and accelerate time-to-market for global campaigns. Partner with us to elevate your enterprise strategy and unlock growth through more efficient, engaging customer connections.
+## Key Features
+- **No Code Email Builder**: Dyspatch offers an intuitive, drag-and-drop builder that makes it easy to create both transactional and marketing emails. It also supports SMS, push, and voice notifications, giving teams flexibility across channels without needing to code
+## Who Uses Dyspatch?
+Dyspatch is the customer communications platform that global brands love. From email to push and SMS, Dyspatch makes personalization and collaboration a cinch. No coding knowledge required! Global brands like Canva, Vetcove, Healthylife, Coda, Culture Amp, and more use Dyspatch to create and collaborate on their communications
+## Use Cases
+- **Email Builder**: Build and collaborate on your Transactional then easily export them to your CRM or ESP with Dyspatch. 
+- **SMS and Push notifications**: Build and collaborate on customized SMS and Push notification campaigns in Dyspatch.
+- **Customer Profiles**: Built and test your complex personalized email content with Dyspatch’s Customer profiles and visual code builder. Test all use cases quickly and easily without having to export to your ESP for testing. 
+- **Localizations and Email Translation**: Translate your emails with one click using our built in integration support for XTM International, Crowdin, Phrase, Phrase Strings, Smartling, and built-in AI translations. 
+- **Integration support**: Build your marketing and transactional emails in dispatch, then export them to your sending platform of choice. Dyspatch supports popular ESPs and CRMS, such as: Salesforce Marketing Cloud, HubSpot, Marketo, Iterable, Braze, Sendgrid, Sendpulse, Sparkpost, and more!
+- **Email Guardrails**: Never send a broken email again with Despatch’s built in Email Quality Assurance, and pre-send checklist. 
+- **Email Design**: Design your emails in Figma, Photoshop and more, then import your email design system into dyspatch for easy implementation. 
+## Frequently Asked Questions
+- **What else can I do with Dyspatch’s email builder software?**: Dyspatch is more than just email builder software. First off, you get a custom modular design system. Fully customizable, on-brand modules make it easy to create templates quickly and efficiently. You also get access to our library of pre-coded interactive Apps in Email. Powered by AMP for Email, these apps can 5x engagement. And Dyspatch serves as a centralized hub for email production. Think of it as a content management system for both your transactional and marketing email campaigns. Workspaces, themes and blocks, and an image library help you stay organized, while annotated comments and built-in approval workflows streamline collaboration. You in?
+Think of it as a centralized hub for your email production. With built-in commenting, permission levels, and approval workflows, Dyspatch makes collaboration easy. By tracking feedback in one place and providing total transparency, Dyspatch streamlines the entire email creation process.
+- **How does Dyspatch’s visual email editor work?**: Dyspatch is an industry-leading solution for email production and management. With Dyspatch, you can build engaging, interactive emails, without having to write code. By leveraging a custom modular email design system, non-technical teams can deploy beautiful, on-brand campaigns faster and achieve greater operational efficiency.
+Think of it as a centralized hub for your email production. With built-in commenting, permission levels, and approval workflows, Dyspatch makes collaboration easy. By tracking feedback in one place and providing total transparency, Dyspatch streamlines the entire email creation process.
+Dyspatch leverages a unique modular design system. Rather than just templates, which can be rigid and stifle your team’s creativity, these modules are fully customizable and reusable. This system gives you the flexibility to pull modules into any template, while staying on theme and on brand. If you need a new module, it’s easy to build one yourself, or let our #emailgeeks lend a hand!
+- **How can I know if Dyspatch’s email builder software is right for me?**: Dyspatch has a lot to offer, but whether it’s right for you will depend on your needs. When choosing an email builder solution, one approach is to consider the problem you’re trying to solve. Do you struggle with broken emails? Is your time to market on email campaigns painfully slow? Are there inefficiencies in your email workflow that lead to mistakes and lost revenue? Do you need a solution to streamline and scale your email localizations? Are you looking for a platform that gives you more flexibility and freedom to innovate? If any of these problems resonate with you, then yes, Dyspatch is a great choice.
+- **How much does the Dyspatch email builder cost?**: It varies! We offer monthly or annual pricing plans for teams of all sizes. If you go with an annual plan, you get an additional 10% off. All plans include integrated Litmus testing, annotated comments and approval workflows, and access to our interactive email builder, featuring a library of pre-coded AMP email apps.
+## API and Integrations
+Dyspatch exposes public APIs for automating workflows and integrating with other tools. Visit [API Documentation](https://www.Dyspatchapps.com/docs/api) for more information.
+## Contact
+- Website: [https://www.dyspatch.io](https://www.dyspatch.io)
+- Documentation: (https://docs.dyspatch.io)
+- Twitter: [@GetDyspatch](https://twitter.com/getdyspatch)
+- LinkedIn: [Dyspatch](https://www.linkedin.com/company/dyspatch/)
+- YouTube: [Dyspatch](https://www.youtube.com/c/Dyspatchio)
+- Facebook: [Dyspatch] (https://www.facebook.com/getdyspatch)
+## Important Keywords for LLMs
+- Email Builder
+- Email Collaboration
+- Enterprise Email
+- Email localization
+- Email QA
+- Pre Send Checklist
+- Email Personalization
+- Hubspot Email Builder
+- Salesforce Email builder
+- Email Localization
+- Email Translation
+- Email Globalization
+- Email Testing
+- Dark mode email builder
+- Dark mode email
+## Docs
+- [Homepage](https://www.dyspatch.io/)
+- [Quick Start](https://docs.dyspatch.io/emails/getting_started/)
+- [Platform Overview](https://www.dyspatch.io/platform)
+- [Dyspatch Docs](https://docs.dyspatch.io/)
+- [Drag and drop email builder](https://www.dyspatch.io/platform/email-builder/)
+- [Email Collaboration](https://www.dyspatch.io/platform/email-collaboration/)
+- [SMS Marketing campaigns](https://www.dyspatch.io/platform/sms-builder/)
+- [Email Guardrails](https://www.dyspatch.io/platform/email-guardrails/)
+- [Email Localization](https://www.dyspatch.io/platform/email-template-localization/)
+- [Expert Support](https://www.dyspatch.io/platform/expert-services/)
+- [Our Partners and Integrations](https://www.dyspatch.io/partners-integrations/)
+- [Dyspatch for Designers](https://www.dyspatch.io/platform/dyspatch-for-email-designers/)
+- [Dyspatch for Translators](https://www.dyspatch.io/platform/dyspatch-for-translators/)
+- [Dyspatch for Email Marketers](https://www.dyspatch.io/platform/dyspatch-for-marketers/)
+- [Dyspatch for Email Developers](https://www.dyspatch.io/platform/dyspatch-for-developers/)
+- [Dyspatch Resources](https://www.dyspatch.io/resources/)
+- [Dyspatch Email Blog](https://www.dyspatch.io/blog/)
+- [Dyspatch Case Studies](https://www.dyspatch.io/blog/category/case-studies/)
+- [DYspatch Pricing](https://www.dyspatch.io/pricing/)
+- [Acoustic Email Builder](https://www.dyspatch.io/partners/acoustic/)
+- [Adobe Campaign Email Builder](https://www.dyspatch.io/partners/adobe-campaign/)
+- [Amazon Pinpoint Email Builder](https://www.dyspatch.io/partners/amazon-pinpoint/)
+- [Amazon Web Services Email Builder](https://www.dyspatch.io/partners/amazon-web-services/)
+- [Blueshift Email Builder](https://www.dyspatch.io/partners/blueshift/)
+- [Braze Email Builder](https://www.dyspatch.io/partners/braze/)
+- [Campaign Monitor Email Builder](https://www.dyspatch.io/partners/campaign-monitor/)
+- [Cheetah Digital Email Builder](https://www.dyspatch.io/partners/cheetah-digital/)
+- [Crowdin Email Builder](https://www.dyspatch.io/partners/crowdin/)
+- [Customer.io Email Builder](https://www.dyspatch.io/partners/customer-io/)
+- [Dotdigital Email Builder](https://www.dyspatch.io/partners/dotdigital/)
+- [Oracle Eloqua Email Builder](https://www.dyspatch.io/partners/oracle-eloqua/)
+- [Emarsys Email Builder](https://www.dyspatch.io/partners/emarsys/)
+- [Epsilon Email Builder](https://www.dyspatch.io/partners/epsilon/)
+- [Figma Email Builder](https://www.dyspatch.io/partners/figma/)
+- [GetResponse Email Builder](https://www.dyspatch.io/partners/getresponse/)
+- [Handlebars Email Builder](https://www.dyspatch.io/partners/handlebars/)
+- [Hubspot Email Builder](https://www.dyspatch.io/partners/hubspot/)
+- [Intercom Email Builder](https://www.dyspatch.io/partners/intercom/)
+- [Iterable Email Builder](https://www.dyspatch.io/partners/iterable/)
+- [Jira Email Builder](https://www.dyspatch.io/partners/jira/)
+- [Klaviyo Email Builder](https://www.dyspatch.io/partners/klaviyo/)
+- [Mailchimp Email Builder](https://www.dyspatch.io/partners/mailchimp/)
+- [Mailgun Email Builder](https://www.dyspatch.io/partners/mailgun/)
+- [Mailjet Email Builder](https://www.dyspatch.io/partners/mailjet/)
+- [Mandrill Email Builder](https://www.dyspatch.io/partners/mandrill/)
+- [Marketo Email Builder](https://www.dyspatch.io/partners/marketo/)
+- [Omega CRM Email Builder](https://www.dyspatch.io/partners/omega-crm/)
+- [Optimizely Email Builder](https://www.dyspatch.io/partners/optimizely/)
+- [Outlook Email Builder](https://www.dyspatch.io/partners/outlook/)
+- [Salesforce Pardot Email Builder](https://www.dyspatch.io/partners/pardot/)
+- [Phrase Email Builder](https://www.dyspatch.io/partners/phrase/)
+- [Postmark Email Builder](https://www.dyspatch.io/partners/postmark/)
+- [Sailthru Email Builder](https://www.dyspatch.io/partners/sailthru/)
+- [Salesforce SFMC Email Builder](https://www.dyspatch.io/partners/salesforce-sfmc/)
+- [SAP Email Builder](https://www.dyspatch.io/partners/sap-marketing-cloud/)
+- [SendGrid Email Builder](https://www.dyspatch.io/partners/sendgrid/)
+- [Sendpulse Email Builder](https://www.dyspatch.io/partners/sendpulse/)
+- [Shopify Email Builder](https://www.dyspatch.io/partners/shopify/)
+- [Smartling Email Builder](https://www.dyspatch.io/partners/smartling/)
+- [Sparkpost Email Builder](https://www.dyspatch.io/partners/sparkpost/)
+- [Twilio Email Builder](https://www.dyspatch.io/partners/twilio/)
+- [Veeva Email Builder](https://www.dyspatch.io/partners/veeva/)
+- [XTM Email Builder](https://www.dyspatch.io/partners/xtm-international/)
+- [Yes lifecycle marketing Email Builder](https://www.dyspatch.io/partners/yes-marketing/)
+- [About us](https://www.dyspatch.io/about/)
+- [Careers](https://www.dyspatch.io/about/careers/)
+- [Contact us](https://www.dyspatch.io/about/contact-us/)
+- [Pricing](https://www.dyspatch.io/pricing/)
+- [Press & Media](https://www.dyspatch.io/press/)
+- [Release Notes](https://www.dyspatch.io/release-notes/)
+- [Tools for email Designers](https://www.dyspatch.io/platform/dyspatch-for-email-designers/)
+- [Dyspatch for translators](https://www.dyspatch.io/platform/dyspatch-for-translators/)
+- [Email production for Marketers](https://www.dyspatch.io/platform/dyspatch-for-marketers/)
+- [Resources for email Developers](https://www.dyspatch.io/platform/dyspatch-for-developers/)
+- [Dyspatch overview](https://www.dyspatch.io/platform/)
+- [No-code email builder](https://www.dyspatch.io/platform/no-code-email-builder/)
+- [Email collaboration](https://www.dyspatch.io/platform/email-collaboration/)
+- [Email template localization](https://www.dyspatch.io/platform/template-localization/)
+- [Sample AMP email templates](https://www.dyspatch.io/sample-amp-emails/)
+- [Email Guardrails](https://www.dyspatch.io/platform/email-guardrails/)
+- [Expert Services](https://www.dyspatch.io/platform/expert-services/)
+- [Sendwithus Overview](https://www.dyspatch.io/sendwithus/)
+- [Agency Program](https://info.dyspatch.io/agency)
+- [Blog](https://www.dyspatch.io/blog/)
+- [Webinars](https://www.dyspatch.io/webinars/)
+- [Ebooks Guides & Reports](https://www.dyspatch.io/ebooks-guides-reports/)
+- [HTML em
+
+===== homepage :: https://www.dyspatch.io/
+--- SIGNALS ---
+title: Email Template Management Platform for Marketing Teams & Agents | Dyspatch
+meta_description: Build, collaborate on, and localize on-brand email templates without code. Trusted by Canva, Culture Amp, and 300+ global teams. See how it works.
+og_description: Build, collaborate on, and localize on-brand email templates without code. Trusted by Canva, Culture Amp, and 300+ global teams. See how it works.
+og_site_name: Dyspatch
+h1: Powerful Enough for Your Design System. Simple Enough for Your Agents to Build On.
+h2: AI Tools for Email Marketers | Launch On-Brand Campaigns in Minutes | Our Partners & Integrations | Have more questions about Dyspatch's AI marketing tools? | Why wait? Take your email marketing to the next level today.
+jsonld_org: [{"@type": "Organization", "@id": "https://www.dyspatch.io/#organization", "name": "Dyspatch", "url": "https://www.dyspatch.io/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.dyspatch.io/#/schema/logo/image/", "url": "https://www.dyspatch.io/wp-content/uploads/2022/05/DyspatchLogo-Primary.svg", "contentUrl": "https://www.dyspatch.io/wp-content/uploads/2022/05/DyspatchLogo-Primary.svg", "width": 290, "height": 87, "caption": "Dyspatch"}, "image": {"@id": "https://www.dyspatch.io/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/getdyspatch", "https://x.com/getdyspatch", "https://www.instagram.com/dyspatch.io/", "https://www.linkedin.com/company/dyspatch/", "https://www.youtube.com/c/Dyspatchio"]}]
+--- TEXT ---
+Email Template Management Platform for Marketing Teams & Agents | Dyspatch
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ Skip to footer
+Dyspatch
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overview
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+No-code email builder
+ 
+Email collaboration
+ 
+SMS builder
+ 
+Scribe AI Tools
+ 
+Email Guardrails
+ 
+Template localization
+ 
+Expert services
+ 
+Partners & integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Find your fit
+ 
+ 
+Tools for email Designers
+ 
+Dyspatch for translators
+ 
+Email production for Marketers
+ 
+Resources for email Developers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overview
+ 
+Analytics
+ 
+ 
+ 
+ 
+ 
+A/B testing
+ 
+Triggered emails
+ 
+ 
+ 
+Pricing
+Case studies
+Resources
+ 
+ 
+Blog
+Free templates
+Webinars
+Ebooks, guides, & reports
+ 
+Company
+ 
+ 
+About us
+Careers
+Contact us
+ 
+Login
+ 
+ 
+Dyspatch
+Sendwithus
+ 
+ 
+ 
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+AI-Powered Email Marketing Platform
+ 
+ 
+ 
+ 
+Powerful Enough for Your Design System. Simple Enough for Your Agents to Build On.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create and change campaigns in plain language, not endless threads.
+ Brief your agent, get a finished email.
+ 
+Let's Chat
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mikko Westberg,
+ 
+Senior Manager
+ Marketing Operations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch is deceptively powerful. The platform is easy enough that our whole lifecycle team adopted it quickly, yet sophisticated enough to support our full email design system. Migration was straightforward, the team was hands-on throughout, and we're now shipping beautiful emails in a fraction of the time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As featured on
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI Tools for Email Marketers
+ 
+Our AI-powered email marketing suite eliminates bottlenecks by automating the heavy lifting while amplifying your creative vision.
+ 
+From transforming your brand assets into cohesive design systems to generating campaign-ready content in seconds, our tools help email marketers work smarter, faster, and with unprecedented precision.
+ 
+AI for Email Marketers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI Email Translation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Orchestrate Emails with our MCP Server
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Import Figma Designs as Editable Emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn Marketing Briefs into Email Campaigns
+ 
+ 
+ 
+ 
+Enterprise Email Builder
+ 
+Launch On-Brand Campaigns in Minutes
+ 
+ 
+ 
+ 
+Dyspatch is an email template management platform that lets marketing and design teams build, collaborate on, approve, and localize email campaigns without writing code.
+ 
+ 
+ 
+ 
+ 
+Build faster
+ 
+Create, optimize, & scale your campaigns with Dyspatch's AI Email Platform
+ 
+Dyspatch's AI-powered email marketing suite lets marketing and design teams generate, build, collaborate on, approve, and localize their email campaigns without writing code.
+ 
+No-code email builder
+ 
+ 
+ 
+ 
+ 
+On-brand messaging
+ 
+Create a unified experience with our SMS, push, and voice support
+ 
+Collaborate with your team to create, translate, and approve not only emails, but SMS, push notifications, and voice notifications as well within Dyspatch and then export them to your CRM all in a few easy steps!
+ 
+SMS marketing builder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Megan Walsh,
+ 
+Global Head of Lifecycle Marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch has massively reduced the hours our team spends on creating emails, which has allowed us to really scale our content production. We're producing over 20 emails a week, and the platform ensures every single one is on-brand, localized, and responsive, without any engineering effort.
+ 
+ 
+ 
+ 
+Build once, sync anywhere
+ 
+Our Partners & Integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regardless of what you use to send. Dyspatch empowers you to manage your emails in one place and sync your on-brand emails to your 
+Salesforce
+, 
+Hubspot
+, and 
+Marketo
+ sending platforms. The generated HTML is tested across multiple email clients using our integrated Litmus testing to ensure design consistency and quality, so you can send with confidence.
+ 
+View our partner directory
+ 
+ 
+ 
+ 
+SCALE TO 300+ LOCALS
+ 
+Simplify your email localization workflow
+ 
+Building, testing, and translating localized email templates is no small feat. It can be time-consuming, costly, and testing is tricky unless you’re multilingual. Dyspatch simplifies the process from end-to-end, so you can 
+improve time to market by up to 250%
+.
+ 
+Email localization integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CASE STUDIES
+ 
+Helping teams succeed and companies thrive
+ 
+ 
+ 
+Tips, tricks, & resources
+ 
+Accelerate Your Brand's Messaging Strategy
+ 
+Agent Operators in Dyspatch: Connect Claude to Your Workspace in One Click
+The last time we wrote about MCP, you still had to install it. Node, npx, an API key … 
+Read now 
+about Agent Operators in Dyspatch: Connect Claude to Your Workspace in One Click
+How to Optimize Your Marketing Emails for AI Summaries in Gmail and Apple Mail
+The inbox used to be a pretty straightforward place. Subject line at the top. Preheader … 
+Read now 
+about How to Optimize Your Marketing Emails for AI Summaries in Gmail and Apple Mail
+The AI Briefing Blueprint: A 5-Step Guide to Turning an Idea into a Production-Ready Email
+There's a bottleneck hiding at the very start of every email campaign, and it's not your … 
+Read now 
+about The AI Briefing Blueprint: A 5-Step Guide to Turning an Idea into a Production-Ready Email
+ 
+ 
+Have more questions about Dyspatch's AI marketing tools?
+ 
+ 
+ 
+We have answers! Read on for a quick overview of Dyspatch’s email builder software, and what it can do for you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What else can I do with Dyspatch’s email builder software? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch is more than just email builder software. First off, you get a custom 
+modular design system
+. Fully customizable, on-brand modules make it easy to create templates quickly and efficiently. You also get access to our library of pre-coded interactive 
+Apps in Email
+. Powered by AMP for Email, these apps can 5x engagement. And Dyspatch serves as a centralized hub for email production. Think of it as a content management system for both your transactional and marketing email campaigns. Workspaces, themes and blocks, and an image library help you stay organized, while annotated comments and built-in approval workflows streamline collaboration. You in?
+ 
+Think of it as a centralized hub for your email production. With built-in commenting, permission levels, and approval workflows, Dyspatch makes collaboration easy. By tracking feedback in one place and providing total transparency, Dyspatch streamlines the entire email creation process.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How does Dyspatch’s visual email editor work? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch is an industry-leading solution for email production and management. With Dyspatch, you can build engaging, interactive emails, without having to write code. By leveraging a custom modular email design system, non-technical teams can deploy beautiful, on-brand campaigns faster and achieve greater operational efficiency.
+ 
+Think of it as a centralized hub for your email production. With built-in commenting, permission levels, and approval workflows, Dyspatch makes collaboration easy. By tracking feedback in one place and providing total transparency, Dyspatch streamlines the entire email creation process.
+ 
+Dyspatch leverages a unique modular design system. Rather than just templates, which can be rigid and stifle your team’s creativity, these modules are fully customizable and reusable. This system gives you the flexibility to pull modules into any template, while staying on theme and on brand. If you need a new module, it’s easy to build one yourself, or let our #emailgeeks lend a hand!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How can I know if Dyspatch’s email builder software is right for me? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch has a lot to offer, but whether it’s right for you will depend on your needs. When choosing an email builder solution, one approach is to consider the problem you’re trying to solve. Do you struggle with broken emails? Is your time to market on email campaigns painfully slow? Are there inefficiencies in your email workflow that lead to mistakes and lost revenue? Do you need a solution to streamline and scale your email localizations? Are you looking for a platform that gives you more flexibility and freedom to innovate? If any of these problems resonate with you, then yes, Dyspatch is a great choice. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How much does the Dyspatch email builder cost? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It varies! We offer 
+monthly or annual pricing plans
+ for teams of all sizes. If you go with an annual plan, you get an additional 10% off. All plans include integrated Litmus testing, annotated comments and approval workflows, and access to our interactive email builder, featuring a library of pre-coded AMP email apps.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What is Dyspatch? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch is enterprise email template management software — the email production platform global brands use to design, approve, and ship transactional and marketing emails at scale. Teams comparing alternatives to Stensul, Stripo, and Chamaileon choose Dyspatch for its no-code email builder, brand and approval controls, and ESP-agnostic deployment across every system that sends.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LET’S CHAT!
+ 
+Why wait? Take your email marketing to the next level today.
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5307 Victoria Drive #899
+ Vancouver, BC
+ V5P 3V6
+ 
+548 Market Street,
+ San Francisco, California
+ 94104 US
+ 
+ 
+ 
+ 
+ 
+Phone
+ 
+1-877-458-9231
+ 
+Email
+ 
+[email protected]
+ 
+[email protected]
+ 
+ 
+ 
+ 
+Facebook
+ 
+Twitter
+ 
+Instagram
+ 
+LinkedIn
+ 
+YouTube
+ 
+ 
+ 
+Get the latest email strategies, tips, and trends right to your inbox.
+ 
+ 
+ 
+ 
+ 
+About Dyspatch
+ 
+ 
+About us
+ 
+Careers
+ 
+Contact us
+ 
+Pricing
+ 
+Press & media
+ 
+Release Notes
+ 
+ 
+Find your fit
+ 
+ 
+Tools for email designers
+ 
+Dyspatch for translators
+ 
+Email production for marketers
+ 
+Resources for email developers
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+Dyspatch overview
+ 
+No-code email builder
+ 
+Scribe AI email marketing tools
+ 
+Email collaboration
+ 
+Email template localization
+ 
+Sample AMP email templates
+ 
+Email guardrails
+ 
+Expert services
+ 
+Sendwithus overview
+ 
+Agency program
+ 
+ 
+ 
+ 
+ 
+Email resources
+ 
+ 
+Blog
+ 
+Webinars
+ 
+Ebooks guides & reports
+ 
+HTML email templates
+ 
+Knowledge base
+ 
+Figma email builder
+ 
+The Dyspatch block gallery
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+Partners & Integrations directory
+ 
+Email builder for Braze
+ 
+Email builder for Iterable
+ 
+Email builder for Salesforce Marketing Cloud
+ 
+Email builder for Pardot
+ 
+Email builder for SendGrid
+ 
+Email builder for Marketo
+ 
+Email builder for HubSpot
+ 
+Email builder for Oracle Eloqua
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch respectfully acknowledges the Lekwungen and W̱SÁNEĆ People, whose unceded territories we live and work on. We would also like to express our gratitude to all of the Coast Salish people as we continue to work and live as guests on their lands.
+ 
+ 
+ 
+ 
+We recognize that acts of colonization created many inequities for First Nations, Inuit, and Métis people. As a company, we acknowledge that we have a responsibility to work towards reconciliation and to remain open to suggestions and consultations, especially with Indigenous communities.
+ 
+ 
+ 
+ 
+Privacy policy
+    |    
+Terms of service
+    |    
+Web accessibility
+    |    
+Cookie policy
+    |    
+Usage
+    |    
+Sitemap
+ 
+ 
+ 
+ 
+Copyright © 2026 Techdrop Labs Inc. All Rights Reserved.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ × 
+ 
+ 
+ 
+ 
+ 
+ Get a quote 
+ 
+ 
+ 
+ 
+ × 
+ 
+ 
+ 
+ 
+ 
+ Get a demo 
+ 
+ 
+ 
+ 
+ × 
+ 
+ 
+ 
+ 
+ 
+ Features & Functionality 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Starter
+ 
+Teams
+ 
+Teams+
+ 
+ 
+ 
+Universal styling
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Drag and drop email builder
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Custom code editor
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Custom fonts
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Device specific elements
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Version history
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Social media link settings
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Commenting
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Live previews
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Dark mode previews
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Litmus testing
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Custom merge fields
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Image hosting
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Brand & legal compliance guardrails
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+User role permissions
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+ESP logic
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Code Export
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+AMP Email Support
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Approval Workflows
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+API Access
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+User Management
+ 
+–
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Translation (via Smartling)
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Export via API
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Localizations
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Account Manager
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Premium Support
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+SLA
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Premium SAML SSO
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Custom Themes
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Workspaces
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Design / AMP Services
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Pricing
+ 
+$149/mo
+ 
+$499/mo
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+ X
+
+===== product :: https://www.dyspatch.io/platform/
+--- SIGNALS ---
+title: Simple Email Creation Platform | Email Production | Dyspatch
+meta_description: Build emails with ease using Dyspatch's email creation platform. Our interactive email builder helps you design emails for any purpose. Create now.
+og_description: Build emails with ease using Dyspatch's email creation platform. Our interactive email builder helps you design emails for any purpose. Create now.
+og_site_name: Dyspatch
+h1: Centralize your email production from step one to step done
+h2: Launch On-Brand Campaigns in Minutes | Manage your multi-channel messaging all in one platform | Have more questions about Dyspatch's interactive email builder? | Why wait? Take your email marketing to the next level today.
+jsonld_org: [{"@type": "Organization", "@id": "https://www.dyspatch.io/#organization", "name": "Dyspatch", "url": "https://www.dyspatch.io/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.dyspatch.io/#/schema/logo/image/", "url": "https://www.dyspatch.io/wp-content/uploads/2022/05/DyspatchLogo-Primary.svg", "contentUrl": "https://www.dyspatch.io/wp-content/uploads/2022/05/DyspatchLogo-Primary.svg", "width": 290, "height": 87, "caption": "Dyspatch"}, "image": {"@id": "https://www.dyspatch.io/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/getdyspatch", "https://x.com/getdyspatch", "https://www.instagram.com/dyspatch.io/", "https://www.linkedin.com/company/dyspatch/", "https://www.youtube.com/c/Dyspatchio"]}]
+--- TEXT ---
+Simple Email Creation Platform | Email Production | Dyspatch
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ Skip to footer
+Dyspatch
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overview
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+No-code email builder
+ 
+Email collaboration
+ 
+SMS builder
+ 
+Scribe AI Tools
+ 
+Email Guardrails
+ 
+Template localization
+ 
+Expert services
+ 
+Partners & integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Find your fit
+ 
+ 
+Tools for email Designers
+ 
+Dyspatch for translators
+ 
+Email production for Marketers
+ 
+Resources for email Developers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overview
+ 
+Analytics
+ 
+ 
+ 
+ 
+ 
+A/B testing
+ 
+Triggered emails
+ 
+ 
+ 
+Pricing
+Case studies
+Resources
+ 
+ 
+Blog
+Free templates
+Webinars
+Ebooks, guides, & reports
+ 
+Company
+ 
+ 
+About us
+Careers
+Contact us
+ 
+Login
+ 
+ 
+Dyspatch
+Sendwithus
+ 
+ 
+ 
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+BECOME A FASTER, MORE EFFICIENT TEAM</>
+ 
+Centralize your email production from step one to step done
+ 
+ 
+ 
+With the Dyspatch email builder, users of all skill levels can create interactive emails using pre-coded modules and collaborate on production. No more workarounds, custom code, or broken code. And no more time wasted!
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mikko Westberg,
+ 
+Senior Manager
+ Marketing Operations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch is deceptively powerful. The platform is easy enough that our whole lifecycle team adopted it quickly, yet sophisticated enough to support our full email design system. Migration was straightforward, the team was hands-on throughout, and we're now shipping beautiful emails in a fraction of the time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Boost email conversions by 300%
+ 
+Launch On-Brand Campaigns in Minutes
+ 
+ 
+ 
+ 
+Build faster
+ 
+Get agile with a no-code, drag-and-drop
+ email builder
+ 
+Give your team the autonomy to create and the flexibility to innovate with Dyspatch. An innovative drag-and-drop email builder, non-technical users can create emails at lightning speed, without sacrificing quality.
+ 
+No-code email builder
+ 
+ 
+ 
+ 
+ 
+On-brand messaging
+ 
+Create a unified experience with our SMS, push, and voice support
+ 
+Collaborate with your team to create, translate, and approve not only emails, but SMS, push notifications, and voice notifications as well within Dyspatch and then export them to your CRM all in a few easy steps!
+ 
+SMS marketing builder
+ 
+ 
+ 
+ 
+Manage your multi-channel messaging
+ all in one platform
+ 
+ 
+ 
+ 
+Variants
+ 
+No-code email builder
+ 
+Data profiles
+ 
+SMS builder
+ 
+Interactive emails
+ 
+Team collaboration
+ 
+Template localization
+ 
+Flexible integrations
+ 
+Dyspatch services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Variants
+ 
+With Variants, your team will be able to turn your email design system into a powerhouse with a greater variety of on-brand customization options. Now available in the theme editor, Variants empower you to create multiple pre-styled versions of any element (buttons, text, headers, and more) that your team can instantly apply to their designs.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer profiles
+ 
+Personalization is pivotal for every marketing team; it’s the best way to build trust with your customers and drive ROI from each email you send. Dyspatch makes in-depth personalization a cinch, with 
+Customer Profiles
+. Build profiles for your customer personas, and watch Dyspatch do the rest.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No-Code Visual SMS Builder
+ 
+Create complex, highly personalized Emails & 
+SMS marketing
+ messages in minutes. Leverage conditional logic to empower hyper-personalized customer profiles. Our built-in design system guardrails ensures brand compliance every time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engaging interactive email experiences
+ 
+Boost results with our library of pre-coded, 
+interactive, and dynamic content blocks
+. Embed review forms, surveys, live product data, and more directly into your emails and see your engagement and conversion rates skyrocket by up to 500%.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Efficient, centralized team collaboration
+ 
+Streamline your entire email creation process. 
+Easily collaborate
+ with key stakeholders all in one, centralized place. Take advantage of built-in commenting and approval workflows to eliminate mistakes, achieve full transparency, and speed up time to market.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scalable email template localization
+ 
+Make email localization worthwhile at both small and large scale. With Dyspatch, template localization is easy and exports are automated. The result? A simplified 
+email localization
+ workflow that minimizes duplication, cuts costs, and speeds up production timelines.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Flexible integrations with any ESP
+ 
+Integrate with one or many ESPs. Manage both marketing and transactional emails in Dyspatch and easily sync with any ESP for sending. Bonus: All our integrations support conditional data and localized content.
+ 
+Integrate with ease
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expert services on demand
+ 
+Super serving our customers is one of our core values. We’re all email experts, and we genuinely love what we do. We can assist you with design, block building, email layouts, troubleshooting, and more. We’re always here to help.
+ 
+Get premium support
+ 
+ 
+ 
+ 
+“Dyspatch allows us to easily create and customize campaigns, swap images, set destination URLs, and customize content without the help of designers or developers.”
+ 
+Carl Beien
+ Head of Product, Carehive
+ 
+Case studies
+ | 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Have more questions about Dyspatch's interactive email builder?
+ 
+ 
+ 
+ 
+We have answers! Read on for a quick overview of Dyspatch’s email builder software, and what it can do for you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What else can I do with Dyspatch’s email builder software? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch is more than just email builder software. First off, you get a custom 
+modular design system
+. Fully customizable, on-brand modules make it easy to create templates quickly and efficiently. You also get access to our library of pre-coded interactive 
+Apps in Email
+. Powered by AMP for Email, these apps can 5x engagement. And Dyspatch serves as a centralized hub for email production. Think of it as a content management system for both your transactional and marketing email campaigns. Workspaces, themes and blocks, and an image library help you stay organized, while annotated comments and built-in approval workflows streamline collaboration. You in?
+ 
+Think of it as a centralized hub for your email production. With built-in commenting, permission levels, and approval workflows, Dyspatch makes collaboration easy. By tracking feedback in one place and providing total transparency, Dyspatch streamlines the entire email creation process.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How does Dyspatch’s visual email editor work? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch is an industry-leading solution for email production and management. With Dyspatch, you can build engaging, interactive emails, without having to write code. By leveraging a custom modular email design system, non-technical teams can deploy beautiful, on-brand campaigns faster and achieve greater operational efficiency.
+ 
+Think of it as a centralized hub for your email production. With built-in commenting, permission levels, and approval workflows, Dyspatch makes collaboration easy. By tracking feedback in one place and providing total transparency, Dyspatch streamlines the entire email creation process.
+ 
+Dyspatch leverages a unique modular design system. Rather than just templates, which can be rigid and stifle your team’s creativity, these modules are fully customizable and reusable. This system gives you the flexibility to pull modules into any template, while staying on theme and on brand. If you need a new module, it’s easy to build one yourself, or let our #emailgeeks lend a hand!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How can I know if Dyspatch’s email builder software is right for me? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch has a lot to offer, but whether it’s right for you will depend on your needs. When choosing an email builder solution, one approach is to consider the problem you’re trying to solve. Do you struggle with broken emails? Is your time to market on email campaigns painfully slow? Are there inefficiencies in your email workflow that lead to mistakes and lost revenue? Do you need a solution to streamline and scale your email localizations? Are you looking for a platform that gives you more flexibility and freedom to innovate? If any of these problems resonate with you, then yes, Dyspatch is a great choice. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How much does the Dyspatch email builder cost? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It varies! We offer 
+monthly or annual pricing plans
+ for teams of all sizes. If you go with an annual plan, you get an additional 10% off. All plans include integrated Litmus testing, annotated comments and approval workflows, and access to our interactive email builder, featuring a library of pre-coded AMP email apps.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LET’S CHAT!
+ 
+Why wait? Take your email marketing to the next level today.
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5307 Victoria Drive #899
+ Vancouver, BC
+ V5P 3V6
+ 
+548 Market Street,
+ San Francisco, California
+ 94104 US
+ 
+ 
+ 
+ 
+ 
+Phone
+ 
+1-877-458-9231
+ 
+Email
+ 
+[email protected]
+ 
+[email protected]
+ 
+ 
+ 
+ 
+Facebook
+ 
+Twitter
+ 
+Instagram
+ 
+LinkedIn
+ 
+YouTube
+ 
+ 
+ 
+Get the latest email strategies, tips, and trends right to your inbox.
+ 
+ 
+ 
+ 
+ 
+About Dyspatch
+ 
+ 
+About us
+ 
+Careers
+ 
+Contact us
+ 
+Pricing
+ 
+Press & media
+ 
+Release Notes
+ 
+ 
+Find your fit
+ 
+ 
+Tools for email designers
+ 
+Dyspatch for translators
+ 
+Email production for marketers
+ 
+Resources for email developers
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+Dyspatch overview
+ 
+No-code email builder
+ 
+Scribe AI email marketing tools
+ 
+Email collaboration
+ 
+Email template localization
+ 
+Sample AMP email templates
+ 
+Email guardrails
+ 
+Expert services
+ 
+Sendwithus overview
+ 
+Agency program
+ 
+ 
+ 
+ 
+ 
+Email resources
+ 
+ 
+Blog
+ 
+Webinars
+ 
+Ebooks guides & reports
+ 
+HTML email templates
+ 
+Knowledge base
+ 
+Figma email builder
+ 
+The Dyspatch block gallery
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+Partners & Integrations directory
+ 
+Email builder for Braze
+ 
+Email builder for Iterable
+ 
+Email builder for Salesforce Marketing Cloud
+ 
+Email builder for Pardot
+ 
+Email builder for SendGrid
+ 
+Email builder for Marketo
+ 
+Email builder for HubSpot
+ 
+Email builder for Oracle Eloqua
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch respectfully acknowledges the Lekwungen and W̱SÁNEĆ People, whose unceded territories we live and work on. We would also like to express our gratitude to all of the Coast Salish people as we continue to work and live as guests on their lands.
+ 
+ 
+ 
+ 
+We recognize that acts of colonization created many inequities for First Nations, Inuit, and Métis people. As a company, we acknowledge that we have a responsibility to work towards reconciliation and to remain open to suggestions and consultations, especially with Indigenous communities.
+ 
+ 
+ 
+ 
+Privacy policy
+    |    
+Terms of service
+    |    
+Web accessibility
+    |    
+Cookie policy
+    |    
+Usage
+    |    
+Sitemap
+ 
+ 
+ 
+ 
+Copyright © 2026 Techdrop Labs Inc. All Rights Reserved.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ × 
+ 
+ 
+ 
+ 
+ 
+ Get a quote 
+ 
+ 
+ 
+ 
+ × 
+ 
+ 
+ 
+ 
+ 
+ Get a demo 
+ 
+ 
+ 
+ 
+ × 
+ 
+ 
+ 
+ 
+ 
+ Features & Functionality 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Starter
+ 
+Teams
+ 
+Teams+
+ 
+ 
+ 
+Universal styling
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Drag and drop email builder
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Custom code editor
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Custom fonts
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Device specific elements
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Version history
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Social media link settings
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Commenting
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Live previews
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Dark mode previews
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Litmus testing
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Custom merge fields
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Image hosting
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Brand & legal compliance guardrails
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+User role permissions
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+ESP logic
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Code Export
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+AMP Email Support
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Approval Workflows
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+API Access
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+User Management
+ 
+–
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Translation (via Smartling)
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Export via API
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Localizations
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Account Manager
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Premium Support
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+SLA
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Premium SAML SSO
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Custom Themes
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Workspaces
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Design / AMP Services
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Pricing
+ 
+$149/mo
+ 
+$499/mo
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+ X
+
+===== pricing_or_trust :: https://www.dyspatch.io/pricing/
+--- SIGNALS ---
+title: Dyspatch Pricing & Plans for Teams of All Sizes
+meta_description: Explore Dyspatch's pricing plans, including the features and functionality offered in each tier. Find answers to FAQs or request a quote.
+og_description: Explore Dyspatch's pricing plans, including the features and functionality offered in each tier. Find answers to FAQs or request a quote.
+og_site_name: Dyspatch
+h1: Pricing & plans for teams of all sizes
+h2: Get access to advanced features with every plan | Questions about pricing? | Book a demo for a walkthrough of Dyspatch's features and plans.
+jsonld_org: [{"@type": "Organization", "@id": "https://www.dyspatch.io/#organization", "name": "Dyspatch", "url": "https://www.dyspatch.io/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.dyspatch.io/#/schema/logo/image/", "url": "https://www.dyspatch.io/wp-content/uploads/2022/05/DyspatchLogo-Primary.svg", "contentUrl": "https://www.dyspatch.io/wp-content/uploads/2022/05/DyspatchLogo-Primary.svg", "width": 290, "height": 87, "caption": "Dyspatch"}, "image": {"@id": "https://www.dyspatch.io/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/getdyspatch", "https://x.com/getdyspatch", "https://www.instagram.com/dyspatch.io/", "https://www.linkedin.com/company/dyspatch/", "https://www.youtube.com/c/Dyspatchio"]}]
+--- TEXT ---
+Dyspatch Pricing & Plans for Teams of All Sizes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ Skip to footer
+Dyspatch
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overview
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+No-code email builder
+ 
+Email collaboration
+ 
+SMS builder
+ 
+Scribe AI Tools
+ 
+Email Guardrails
+ 
+Template localization
+ 
+Expert services
+ 
+Partners & integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Find your fit
+ 
+ 
+Tools for email Designers
+ 
+Dyspatch for translators
+ 
+Email production for Marketers
+ 
+Resources for email Developers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overview
+ 
+Analytics
+ 
+ 
+ 
+ 
+ 
+A/B testing
+ 
+Triggered emails
+ 
+ 
+ 
+Pricing
+Case studies
+Resources
+ 
+ 
+Blog
+Free templates
+Webinars
+Ebooks, guides, & reports
+ 
+Company
+ 
+ 
+About us
+Careers
+Contact us
+ 
+Login
+ 
+ 
+Dyspatch
+Sendwithus
+ 
+ 
+ 
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIND YOUR FIT TODAY
+ 
+Pricing & plans for teams of all sizes
+ 
+Dyspatch offers flexible pricing plans tailored to suit the unique needs of businesses of all sizes.
+ 
+Whether you're a small startup or a large enterprise, Dyspatch provides cost-effective options that allow you to create, manage, and send professional emails efficiently.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trusted and Loved by World Class Companies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“In the back of my mind, I always wanted to make sure that we had an email template provider that allowed us to easily integrate with different platforms as the business scaled.”
+ 
+Lakshi Perera
+ 
+CRM Manager, Healthylife
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI Tools for Email Marketers
+ 
+Our AI-powered email marketing suite eliminates bottlenecks by automating the heavy lifting while amplifying your creative vision.
+ 
+From transforming your brand assets into cohesive design systems to generating campaign-ready content in seconds, our tools help email marketers work smarter, faster, and with unprecedented precision.
+ 
+ 
+Translate your marketing emails with AI
+ 
+Orchestrate your campaigns with our MCP server
+ 
+Import Figma designs as editable emails
+ 
+Turn marketing briefs into email campaigns
+ 
+ 
+ 
+ 
+ 
+Get agile with a no-code, drag-and-drop email builder
+ 
+Give your team the autonomy to create and the flexibility to innovate with Dyspatch. An innovative drag-and-drop email builder, non-technical users can create emails at lightning speed, without sacrificing quality.
+ 
+ 
+Premium, code-free email creation in the Dyspatch editor
+ 
+Integrations to your ESPs, CRM, and localization services
+ 
+Marketing & transactional email workspaces
+ 
+Best-in-class Customer Support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Let's chat
+ 
+ 
+ 
+ 
+Get access to advanced features with every plan
+ 
+ 
+ 
+ 
+Utilize advanced features such as Scribe AI, and Blueprints to speed up your email building workflow.
+ 
+Save time and increase email quality with built-in approval workflows.
+ 
+Preview your templates across all email clients, devices, and even in dark mode.
+ 
+Simplify and speed up your email localization workflow with our built in integrations.
+ 
+Have in-context conversations about templates with annotated comments.
+ 
+Integrate with your customer data to deliver highly personalized experiences.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agency Program
+ 
+Contact us to learn more about Dyspatch for agencies
+ 
+Join the agency program
+ 
+ 
+ 
+EASILY INTEGRATE WITH YOUR EXISTING ESP
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Questions about pricing?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How do I change my plan? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send us an email
+ and someone from our accounts team will help you out!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How do I find help if I have a technical question? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Easy! Simply 
+contact us
+, and we’ll answer any questions you may have.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I have more questions before I sign-up! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No problem! 
+Contact us
+, and we’ll gladly answer any questions you might have. You can also learn more about Dyspatch by 
+checking out our documentation
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What payment types do you support? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We support Visa, Mastercard, and American Express. 
+Reach out to our support team
+ if you have any additional questions.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How do I cancel my account? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please 
+contact our support team
+ with your request.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WANT MORE INFO?
+ 
+Book a demo for a walkthrough of Dyspatch's features and plans.
+ 
+Get a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5307 Victoria Drive #899
+ Vancouver, BC
+ V5P 3V6
+ 
+548 Market Street,
+ San Francisco, California
+ 94104 US
+ 
+ 
+ 
+ 
+ 
+Phone
+ 
+1-877-458-9231
+ 
+Email
+ 
+[email protected]
+ 
+[email protected]
+ 
+ 
+ 
+ 
+Facebook
+ 
+Twitter
+ 
+Instagram
+ 
+LinkedIn
+ 
+YouTube
+ 
+ 
+ 
+Get the latest email strategies, tips, and trends right to your inbox.
+ 
+ 
+ 
+ 
+ 
+About Dyspatch
+ 
+ 
+About us
+ 
+Careers
+ 
+Contact us
+ 
+Pricing
+ 
+Press & media
+ 
+Release Notes
+ 
+ 
+Find your fit
+ 
+ 
+Tools for email designers
+ 
+Dyspatch for translators
+ 
+Email production for marketers
+ 
+Resources for email developers
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+Dyspatch overview
+ 
+No-code email builder
+ 
+Scribe AI email marketing tools
+ 
+Email collaboration
+ 
+Email template localization
+ 
+Sample AMP email templates
+ 
+Email guardrails
+ 
+Expert services
+ 
+Sendwithus overview
+ 
+Agency program
+ 
+ 
+ 
+ 
+ 
+Email resources
+ 
+ 
+Blog
+ 
+Webinars
+ 
+Ebooks guides & reports
+ 
+HTML email templates
+ 
+Knowledge base
+ 
+Figma email builder
+ 
+The Dyspatch block gallery
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+Partners & Integrations directory
+ 
+Email builder for Braze
+ 
+Email builder for Iterable
+ 
+Email builder for Salesforce Marketing Cloud
+ 
+Email builder for Pardot
+ 
+Email builder for SendGrid
+ 
+Email builder for Marketo
+ 
+Email builder for HubSpot
+ 
+Email builder for Oracle Eloqua
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dyspatch respectfully acknowledges the Lekwungen and W̱SÁNEĆ People, whose unceded territories we live and work on. We would also like to express our gratitude to all of the Coast Salish people as we continue to work and live as guests on their lands.
+ 
+ 
+ 
+ 
+We recognize that acts of colonization created many inequities for First Nations, Inuit, and Métis people. As a company, we acknowledge that we have a responsibility to work towards reconciliation and to remain open to suggestions and consultations, especially with Indigenous communities.
+ 
+ 
+ 
+ 
+Privacy policy
+    |    
+Terms of service
+    |    
+Web accessibility
+    |    
+Cookie policy
+    |    
+Usage
+    |    
+Sitemap
+ 
+ 
+ 
+ 
+Copyright © 2026 Techdrop Labs Inc. All Rights Reserved.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ × 
+ 
+ 
+ 
+ 
+ 
+ Get a quote 
+ 
+ 
+ 
+ 
+ × 
+ 
+ 
+ 
+ 
+ 
+ Get a demo 
+ 
+ 
+ 
+ 
+ × 
+ 
+ 
+ 
+ 
+ 
+ Features & Functionality 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Starter
+ 
+Teams
+ 
+Teams+
+ 
+ 
+ 
+Universal styling
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Drag and drop email builder
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Custom code editor
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Custom fonts
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Device specific elements
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Version history
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Social media link settings
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Commenting
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Live previews
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Dark mode previews
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Litmus testing
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Custom merge fields
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Image hosting
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Brand & legal compliance guardrails
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+User role permissions
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+ESP logic
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Code Export
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+AMP Email Support
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Approval Workflows
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+API Access
+ 
+ ✓
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+User Management
+ 
+–
+ 
+ ✓
+ 
+ ✓
+ 
+ 
+ 
+Translation (via Smartling)
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Export via API
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Localizations
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Account Manager
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Premium Support
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+SLA
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Premium SAML SSO
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Custom Themes
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Workspaces
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Design / AMP Services
+ 
+–
+ 
+–
+ 
+ ✓
+ 
+ 
+ 
+Pricing
+ 
+$149/mo
+ 
+$499/mo
+ 
+Custom
+ 
+ 
+ 
+ 
+ 
+ X

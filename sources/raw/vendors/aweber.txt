@@ -1,0 +1,389 @@
+===== llms.txt :: https://www.aweber.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# AWeber: Email Marketing & Automation for Small Businesses
+> AWeber is an email marketing and automation platform founded in 1998, trusted by small businesses, creators, coaches, bloggers, and entrepreneurs. AWeber provides tools to grow email lists, send newsletters, automate email workflows, build landing pages, and sell products. AWeber offers 24/7 customer support and free account migration from other platforms.
+- Primary domain: aweber.com
+## About AWeber
+- [About AWeber](https://www.aweber.com/about.htm): Company history, mission, and team behind AWeber's email marketing platform.
+- [Careers at AWeber](https://www.aweber.com/careers.htm): Job opportunities and company culture at AWeber.
+- [AWeber Certified Experts](https://www.aweber.com/certified-experts/): Directory of certified professionals who provide AWeber-related services.
+- [AWeber Community](https://community.aweber.com/): Forum and community for AWeber users to connect, learn, and share strategies.
+- [AWeber Customer Referral Program](https://www.aweber.com/advocates.htm): Earn rewards by referring other small businesses and creators to AWeber.
+## Core Product & Features
+- [Email Marketing Features](https://www.aweber.com/email-marketing-features.htm): Complete suite of email marketing tools for small businesses — drag-and-drop email builder, automated email sequences, behavioral tagging and segmentation, AI-assisted content creation, performance analytics, and industry-leading deliverability to ensure emails reach the inbox.
+- [Email Automation](https://www.aweber.com/email-automation.htm): Build automated email sequences and campaigns triggered by subscriber behavior. Includes pre-built automation templates so businesses can set up welcome sequences, sales funnels, and follow-up campaigns quickly.
+- [Newsletter Assistant](https://www.aweber.com/newsletter-assistant.htm): AI-powered tool that drafts, designs, and sends newsletters for small businesses — reducing the time and skill required to publish a consistent email newsletter.
+- [Landing Page Builder](https://www.aweber.com/landing-page-builder.htm): A simple, no-code drag-and-drop landing page builder to capture leads, promote products, and grow an email list. No coding or design experience required.
+- [Sign Up Form Builder](https://www.aweber.com/sign-up-forms.htm): Embeddable opt-in forms to collect email subscribers from any website, blog, or social media platform.
+- [Ecommerce](https://www.aweber.com/aweber-for-ecommerce.htm): Accept payments and sell digital products, physical goods, and subscriptions directly through AWeber landing pages.
+- [Web Push Notifications](https://www.aweber.com/web-push-notifications.htm): Send browser-based push notifications to re-engage website visitors even when they're not in their inbox.
+- [AI Writing Assistant](https://www.aweber.com/ai-email-writer.htm): AI tool that generates email subject lines and body copy, helping small business owners write more effective emails in less time.
+- [Link in Bio Page](https://www.aweber.com/link-in-bio.htm): Mobile-optimized link-in-bio page for Instagram, TikTok, and other social platforms — consolidates links and drives followers to an email list or offer.
+## Pricing
+- [AWeber Pricing](https://www.aweber.com/pricing.htm): Plans and pricing for AWeber's email marketing platform, including free trial with credit card plan details.
+- [AWeber Done For You](https://www.aweber.com/email-launch.htm): A complete email marketing setup service where AWeber's experts build your email marketing, landing pages, signup forms, automated welcome sequences, and newsletter drafts in just 7 days for $79 plus monthly subscription.
+## Solutions by Use Case
+- [AWeber for Bloggers](https://www.aweber.com/bloggers.htm): How bloggers use AWeber to grow their audience and monetize content.
+- [AWeber for Coaches](https://www.aweber.com/coaching.htm): Email marketing tools and strategies tailored for coaches and consultants.
+- [AWeber for Etsy Shops](https://www.aweber.com/etsy.htm): How Etsy sellers use AWeber to drive repeat purchases and build customer relationships.
+- [AWeber for Newsletters](https://www.aweber.com/email-newsletters.htm): Tools and features for creating and monetizing email newsletters.
+- [AWeber for YouTubers](https://www.aweber.com/youtuber.htm): How YouTube creators use AWeber to grow their email list and automate engagement.
+## Competitor Comparisons
+- [AWeber vs Mailchimp](https://www.aweber.com/aweber-vs-mailchimp.htm): Feature and pricing comparison between AWeber and Mailchimp.
+- [AWeber vs GetResponse](https://www.aweber.com/aweber-vs-getresponse.htm): How AWeber compares to GetResponse for small business email marketing.
+- [AWeber vs ConvertKit](https://www.aweber.com/aweber-vs-convertkit.htm): Side-by-side comparison of AWeber and ConvertKit for creators.
+- [AWeber vs Constant Contact](https://www.aweber.com/aweber-vs-constant-contact.htm): AWeber vs Constant Contact features, pricing, and support.
+## Support & Resources
+- [Contact AWeber Support](https://www.aweber.com/contact-us.htm): Contact AWeber by phone, live chat, and email support from in-house customer solutions team. Available 24/7.
+- [AWeber Knowledge Base](https://docs.aweber.com): Help articles, tutorials, and documentation for using AWeber.
+- [Free Account Migration](https://www.aweber.com/migration.htm): AWeber's free service to migrate your list and campaigns from another email platform.
+- [App Integrations](https://www.aweber.com/integrations/): AWeber integrates with 750+ tools including PayPal, Shopify, WordPress, Facebook, and Zapier.
+- [Landing Page Templates](https://www.aweber.com/templates/landing-pages/): Pre-built landing page templates available in AWeber.
+- [Pre-Written Email Campaigns](https://www.aweber.com/campaign-marketplace.htm): Done-for-you email campaign templates for common business use cases.
+- [Virtual Events](https://www.aweber.com/events/): Webinars and live training events hosted by AWeber.
+## Legal, Privacy & Compliance
+- [Privacy Policy](https://www.aweber.com/privacy.htm): How AWeber collects, uses, and protects customer and subscriber data.
+- [Anti-Spam Policy](https://www.aweber.com/antispam.htm): AWeber's strict anti-spam standards and enforcement policies.
+- [Data Processing & Security Terms](https://www.aweber.com/dpst.htm): AWeber's data processing agreement and security commitments.
+## Blog & Learning
+- [AWeber Blog](https://blog.aweber.com): Email marketing tips, strategies, and resources for small businesses and creators.
+- [Marketing Glossary](https://blog.aweber.com/marketing-glossary): Definitions of key email marketing and digital marketing terms.
+## Optional
+- [AWeber Sitemap](https://www.aweber.com/sitemap.xml): Full sitemap of aweber.com pages.
+
+===== homepage :: https://www.aweber.com/
+--- SIGNALS ---
+title: AWeber | Email Marketing & More for Small Businesses
+meta_description: Looking for free email marketing software? Get started with AWeber for free today. Powerfully-simple email marketing.
+og_description: 
+og_site_name: AWeber
+h1: Connect, automate, and sell your vision to the world
+h2: Easy-to-use marketing solutions for quicker success and at a fraction of the cost of other solutions
+jsonld_org: [{"@id": "https://www.aweber.com/#organization", "@type": "Organization", "name": "AWeber", "url": "https://www.aweber.com/", "logo": {"@type": "ImageObject", "url": "https://assets.aweber-static.com/www/assets/img/aw-logo.png"}, "foundingDate": "1998", "contactPoint": [{"@type": "ContactPoint", "contactType": "Customer Service", "telephone": "+1-877-293-2371", "areaServed": "US", "availableLanguage": ["English"]}], "sameAs": ["https://www.facebook.com/aweber", "https://www.twitter.com/aweber", "https://www.youtube.com/aweber", "https://www.linkedin.com/company/aweber/", "https://blog.aweber.com/", "https://docs.aweber.com", "https://www.g2.com/products/aweber/reviews", "https://www.capterra.com/p/95949/AWeber-Email-Marketing/reviews/", "https://www.softwareadvice.com/marketing/aweber-profile/reviews/", "https://www.crunchbase.com/organization/aweber"]}]
+--- TEXT ---
+AWeber | Email Marketing & More for Small Businesses
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+Limited-Time Offer
+Done For You Email Marketing
+$599
+Only
+$
+1
+Start for just $1
+ →
+ 87% off ends soon! 
+$599
+ 
+$79
+ to launch your email marketing. 
+Start for just $79
+ →
+ 
+ 
+ 
+ 
+✦ Newsletter Assistant
+Features
+Pricing
+Blog
+Sign in
+My account
+Get AWeber Free
+Sign in
+Features
+Email marketing
+Email automation
+AI Page Builder
+Ecommerce
+Web push notifications
+AI Signup Form Builder
+AI Writing Assistant
+Link in Bio page
+Pricing
+Standard pricing
+High volume pricing
+Solutions
+Bloggers
+Coaches
+Etsy shops
+Newsletters
+YouTubers
+Support
+Contact Customer Solutions 24/7
+AWeber Community
+Free account migration service
+Knowledge base
+Video tutorials
+Resources
+The Shift AI Show
+Free workshops
+Landing Page Template Gallery
+Pre-written email campaigns
+AWeber Certified Experts
+App integrations
+Customer referral program
+Customer success stories
+Marketing Glossary
+24/7 Email Marketing Master Class
+Blog
+✦ Newsletter Assistant
+ 
+Connect, automate, and sell
+ your vision to the world
+Experience the email and automation solution that takes your business to the next level
+ from 2,055 reviews
+ 
+Continue with Google
+OR
+First Name
+Last Name
+Email Address
+ 
+Get started for free →
+By clicking the button above, you state that you have read and agree to the 
+Service Agreement
+ and 
+Data Processing Terms
+.
+AWeber Service Agreement
+Use of AWeber Services
+All services provided by AWeber Systems, Inc. (AWeber or Company) may be used for lawful purposes only. Transmission or storage of any information, data or material in violation of any United States Federal, State or City law is prohibited. This includes, but is not limited to: copyrighted material, material legally judged to be threatening or obscene, or material protected by trade secret and other statute. The subscriber agrees to indemnify and hold harmless AWeber from any claims resulting from the use of the service which damages the subscriber or any other parties.
+Spamming, or the sending of unsolicited email, using an email address, URL that is maintained on an AWeber machine, or directing traffic to a webpage that contains any reference to AWeber is STRICTLY prohibited. AWeber will be the sole arbiter as to what constitutes a violation of this provision. This action WILL RESULT in immediate termination of your account without refund. Any service interruptions as a result of subscribers spamming will be billed to the subscriber at $50.00 per hour until service is restored. Subscriber will also be in violation of the AWeber Service Agreement and subject to legal action.
+Prohibited Activities
+Importing or in any way using purchased leads with an AWeber account is strictly prohibited. If you paid money or in any way purchased a group of pre-existing leads, these may not be used with AWeber. This includes co-registration services, "safe lists" or any type of free leads given to you. Only people that have specifically requested information directly from you may be emailed through AWeber.
+Batching or in any way trying to script the addition of new subscribers to the web form subscribe methods is strictly forbidden. A script must not be used to auto submit a web form subscriber on behalf of a website visitor. The visitor who desires to subscribe to your list must be the one to activate that subscription process.
+No individual under the age of sixteen (16) may use the Services, provide any personal information to AWeber, or otherwise submit personal information through AWeber Services (including, for example, a name, address, telephone number, or email address).
+Pornography and sex-related merchandising are prohibited on any AWeber server. AWeber will be the sole arbiter as to what constitutes a violation of this provision.
+The collecting of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade-union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation is prohibited. AWeber will be the sole arbiter as to what constitutes a violation of this provision.
+Subscribers are prohibited from transmitting on or through any of AWeber’s services any material that is, in AWeber’s sole discretion, unlawful, obscene, threatening, abusive, libelous, or hateful, or that encourages conduct which would constitute a criminal offense, give rise to civil liability, or otherwise violate any local, state, national or international law.
+Account Billing
+Payment is due immediately after the date of invoice. All payments must be in US dollars and withdrawable from a US bank. The subscriber is responsible for providing up-to-date payment information. AWeber will not be held responsible should the subscriber's payment information become out-of-date.
+If payment is by credit card, the subscriber authorizes AWeber to charge the credit card listed on the subscription form for those charges for AWeber services that may accrue from month to month, or for any past-due balances, in order to bring the account to current status. Credit card payments will be billed and charged automatically, and AWeber may charge the amount due to the provided card at any time.
+Accounts are in default if payment is not received within 20 days after the date of invoice. If a subscriber's check is returned by the bank as unredeemable, the subscriber will be deemed to be in default, and will be liable for a "returned check" charge of $25. Accounts unpaid 20 days after the date of invoice may have their service interrupted. Such interruption does not relieve the subscriber from the obligation to pay the monthly charge. Only a written request to terminate your service relieves you of your obligation to pay the monthly account charge. Accounts in default are subject to a late payment charge of $25 and an interest charge of 1.5% per month on the outstanding balance. If the subscriber's state law does not allow an interest rate of 1.5% per month, the maximum allowable rate for the subscriber's state will be charged. If the subscriber defaults, the subscriber agrees to pay AWeber its reasonable expenses, including attorney and collection agency fees, incurred in enforcing its rights under these Terms and Conditions.
+All files, information and mail under the account will be preserved for 20 days from the date the payment is due. If the payment is not received after 20 days, all files, information and mail under the account will be deleted. If the subscriber wishes to use the service again, the subscriber must re-apply as a new subscriber.
+Termination
+The subscriber agrees that the company has the right to delete all data, files or other information that is stored in the subscriber's account if the subscriber's account with the company is terminated, for any reason, by either AWeber or the subscriber. System accounts can not be transferred or used by anyone other than the subscriber. Accounts which have been transferred to other parties, or show other activity in violation of this paragraph, are subject to immediate cancellation.
+AWeber shall have the right to suspend service to the subscriber at any time, and for any reason, without notice. If such a suspension is to last for more than 20 days, the subscriber will be notified as to the reason.
+Service provided by AWeber may be cancelled in writing at any time with no penalty. Customer Account Login/Email and Response to Security Question must be included in the cancellation request. Cancellation will take effect only when the receipt of the cancellation request is confirmed by AWeber. AWeber reserves the right to change the rate by notifying the subscriber 15 days in advance of the effective date of the change.
+AWeber exercises no control whatsoever over the content of the information passing through AWeber systems. All leads (email addresses) generated by subscribers are held strictly confidential. The leads are never released to any other parties for any purpose. The lead information is only used on AWeber servers to deliver the follow up messages designated by the subscriber.
+Intellectual Property
+AWeber is committed to respecting intellectual property rights. If you identify copyrighted material that belongs to you posted without your permission to www.aweber.com or sent through the services please follow the directions below to let us know.
+Our designated agent is as follows:
+Sean Cohen
+4275 County Line Rd #20
+PMB 186
+Chalfont, PA 18914
+[email protected]
+The subject of your communication should be: DMCA Takedown Request
+Your notice must include all of the following:
+a physical or electronic signature of someone authorized to act on behalf of the copyright owner;
+identification of the work that has allegedly been infringed;
+identification of the website material that is allegedly infringing;
+information for the website owner to contact the complaining party, such as a postal address, telephone number, or email address;
+a statement that the complaining party has a good faith belief that the allegedly infringing use is not authorized or legal; and
+a statement that the information in the takedown notice is accurate and, under penalty of perjury, that the author of the takedown notice is authorized to act on behalf of the copyright owner.
+Ecommerce
+Ecommerce Payment Processing
+Ecommerce allows you to process your customers’ payments using payment processor integrations provided by AWeber.
+By using Ecommerce:
+you instruct AWeber to process your data and your customer’s data to facilitate payments.
+you agree to comply with all payment processor’s policies, as applicable. You acknowledge that all payment and financial information provided by your customer who is using payment processing will pass directly to the payment processor.
+you acknowledge and consent to information related to your account and your customers being stored and processed by both AWeber and the payment processor. Information processed by AWeber will be subject to our Privacy Policy and Data Processing and Security Terms. Any data processed will remain in your account even if you discontinue use of Ecommerce on your landing page.
+you agree that you will not permit processing of payments that violate payment processor’s terms of use, privacy policies, or other related business and legal policies.
+you agree AWeber will collect a fee for each transaction processed through Ecommerce.
+Ecommerce Customer Obligations
+You are solely responsible for your statements, products, and services listed and sold through Ecommerce including any and all damages, claims, liabilities and costs incurred. You shall be solely responsible for procuring, fulfilling, and delivering your products and services.
+You are responsible for understanding and complying with all applicable international, federal, state, and local laws, statutes, rules, regulations and codes including those related to tax and data privacy related to your use of Ecommerce and any ongoing choices you make with Ecommerce related data.
+You agree you are solely responsible for determining and collecting, withholding, reporting, and remitting correct taxes to the appropriate tax authority. AWeber expressly disclaims any liability for taxes owed or due by you or your customers for any transaction.
+You agree you are responsible for all customer service policies and issues relating to your listed products and services, including pricing, order fulfillment, cancellations, returns and adjustments, warranty, and technical support. AWeber is responsible only for the customer support of your AWeber account.
+Ecommerce Service Providers
+Stripe
+Stripe
+ is not an affiliate, partner, agent, or representative of AWeber. You understand and agree that AWeber is an independent party and has no right, responsibility, or ability to control, direct, or influence any action, inaction, conduct, or decision made by Stripe.
+Stripe is solely responsible for all activities, issues and disputes related to Ecommerce payment processing including payment receipt, refunds, chargebacks, and taxes.
+You and your customers should contact Stripe directly to resolve any issues with payment processing regarding any of the above indicated activities which Stripe is solely responsible for providing. All payment information provided by your customers using Ecommerce will be passed directly to Stripe.
+AWeber will not have access to billing information. AWeber does not manage and is not responsible for the PCI-DSS compliance obligations and efforts of Stripe.
+Migration Services
+Your previous Email Service Provider (ESP) login information can be shared with AWeber to facilitate migrations. Our migration team will instruct you on how to securely provide your prior ESP login information and any other information required to successfully login (e.g. security questions). AWeber does not share, store, process, or retain your prior login information for any purpose other than to provide migration services.
+Customer acknowledges and consents to AWeber accessing your account for which you have provided login information. All attempts will be made to limit viewing of data to only what is necessary to perform your migration. However, Customer acknowledges that AWeber may inadvertently view sensitive personal information within your account such as billing information, but will not collect, store, or otherwise disclose this information. AWeber will make every attempt to not manipulate data, or make alterations when migrating customer data. Only in the event of a technical issue preventing data migration will AWeber take action to change data being imported to AWeber.
+Customer agrees to provide clear instructions on what data is to be migrated.
+Should the Customer's prior ESP account become compromised in any way, customer will indemnify AWeber for any resulting damages.
+It is the responsibility 
+
+===== product :: https://www.aweber.com/email-marketing-features.htm
+--- SIGNALS ---
+title: Email Marketing for Small Businesses | AWeber
+meta_description: Grow your small business with easy-to-use email marketing tools. AWeber helps you write emails faster, automate campaigns, and convert more customers.
+og_description: Grow your small business with easy-to-use email marketing tools. AWeber helps you write emails faster, automate campaigns, and convert more customers.
+og_site_name: AWeber
+h1: Email marketing that helps small businesses grow faster with less work
+h2: Create pro-quality emails in minutes | Write high-converting emails with built-in AI | Write, preview, and send on any device | Beautiful emails — no design skills needed | Turn signups into sales with email automation | Stay out of the spam folder | Personalized emails generate 6x higher engagement | Don’t just take our word for it | Your questions—answered | What is AWeber? | What is AWeber? | What email marketing features does AWeber offer? | What email marketing features does AWeber offer? | Who should use AWeber for email marketing? | Who should use AWeber for email marketing? | What is email marketing? | What is email marketing? | How effective is email marketing? | How effective is email marketing? | What is an email marketing service provider? | What is an email marketing service provider? | Why is email marketing important? | Why is email marketing important? | What is email marketing software? | What is email marketing software? | How much does email marketing cost? | How much does email marketing cost? | How to start email marketing? | How to start email marketing? | Stop losing customers to email procrastination
+jsonld_org: []
+--- TEXT ---
+Email Marketing for Small Businesses | AWeber
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+Limited-Time Offer
+Done For You Email Marketing
+$599
+Only
+$
+1
+Start for just $1
+ →
+ 87% off ends soon! 
+$599
+ 
+$79
+ to launch your email marketing. 
+Start for just $79
+ →
+ 
+ 
+ 
+ 
+✦ Newsletter Assistant
+Features
+Pricing
+Blog
+Sign in
+My account
+Get AWeber Free
+Sign in
+Features
+Email marketing
+Email automation
+AI Page Builder
+Ecommerce
+Web push notifications
+AI Signup Form Builder
+AI Writing Assistant
+Link in Bio page
+Pricing
+Standard pricing
+High volume pricing
+Solutions
+Bloggers
+Coaches
+Etsy shops
+Newsletters
+YouTubers
+Support
+Contact Customer Solutions 24/7
+AWeber Community
+Free account migration service
+Knowledge base
+Video tutorials
+Resources
+The Shift AI Show
+Free workshops
+Landing Page Template Gallery
+Pre-written email campaigns
+AWeber Certified Experts
+App integrations
+Customer referral program
+Customer success stories
+Marketing Glossary
+24/7 Email Marketing Master Class
+Blog
+✦ Newsletter Assistant
+ 
+Email marketing that helps small businesses grow faster with less work
+Small businesses waste hours on emails that don’t convert. AWeber helps you write faster with AI, automate follow-ups, and grow your list so your emails drive results and free up your time.
+ 
+Continue with Google
+OR
+First name
+Last name
+Email address
+ 
+Start for free →
+By clicking the button above, you state that you have read and agree to the 
+Service Agreement
+ and 
+Data Processing Terms
+.
+AWeber Service Agreement
+Use of AWeber Services
+All services provided by AWeber Systems, Inc. (AWeber or Company) may be used for lawful purposes only. Transmission or storage of any information, data or material in violation of any United States Federal, State or City law is prohibited. This includes, but is not limited to: copyrighted material, material legally judged to be threatening or obscene, or material protected by trade secret and other statute. The subscriber agrees to indemnify and hold harmless AWeber from any claims resulting from the use of the service which damages the subscriber or any other parties.
+Spamming, or the sending of unsolicited email, using an email address, URL that is maintained on an AWeber machine, or directing traffic to a webpage that contains any reference to AWeber is STRICTLY prohibited. AWeber will be the sole arbiter as to what constitutes a violation of this provision. This action WILL RESULT in immediate termination of your account without refund. Any service interruptions as a result of subscribers spamming will be billed to the subscriber at $50.00 per hour until service is restored. Subscriber will also be in violation of the AWeber Service Agreement and subject to legal action.
+Prohibited Activities
+Importing or in any way using purchased leads with an AWeber account is strictly prohibited. If you paid money or in any way purchased a group of pre-existing leads, these may not be used with AWeber. This includes co-registration services, "safe lists" or any type of free leads given to you. Only people that have specifically requested information directly from you may be emailed through AWeber.
+Batching or in any way trying to script the addition of new subscribers to the web form subscribe methods is strictly forbidden. A script must not be used to auto submit a web form subscriber on behalf of a website visitor. The visitor who desires to subscribe to your list must be the one to activate that subscription process.
+No individual under the age of sixteen (16) may use the Services, provide any personal information to AWeber, or otherwise submit personal information through AWeber Services (including, for example, a name, address, telephone number, or email address).
+Pornography and sex-related merchandising are prohibited on any AWeber server. AWeber will be the sole arbiter as to what constitutes a violation of this provision.
+The collecting of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade-union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation is prohibited. AWeber will be the sole arbiter as to what constitutes a violation of this provision.
+Subscribers are prohibited from transmitting on or through any of AWeber’s services any material that is, in AWeber’s sole discretion, unlawful, obscene, threatening, abusive, libelous, or hateful, or that encourages conduct which would constitute a criminal offense, give rise to civil liability, or otherwise violate any local, state, national or international law.
+Account Billing
+Payment is due immediately after the date of invoice. All payments must be in US dollars and withdrawable from a US bank. The subscriber is responsible for providing up-to-date payment information. AWeber will not be held responsible should the subscriber's payment information become out-of-date.
+If payment is by credit card, the subscriber authorizes AWeber to charge the credit card listed on the subscription form for those charges for AWeber services that may accrue from month to month, or for any past-due balances, in order to bring the account to current status. Credit card payments will be billed and charged automatically, and AWeber may charge the amount due to the provided card at any time.
+Accounts are in default if payment is not received within 20 days after the date of invoice. If a subscriber's check is returned by the bank as unredeemable, the subscriber will be deemed to be in default, and will be liable for a "returned check" charge of $25. Accounts unpaid 20 days after the date of invoice may have their service interrupted. Such interruption does not relieve the subscriber from the obligation to pay the monthly charge. Only a written request to terminate your service relieves you of your obligation to pay the monthly account charge. Accounts in default are subject to a late payment charge of $25 and an interest charge of 1.5% per month on the outstanding balance. If the subscriber's state law does not allow an interest rate of 1.5% per month, the maximum allowable rate for the subscriber's state will be charged. If the subscriber defaults, the subscriber agrees to pay AWeber its reasonable expenses, including attorney and collection agency fees, incurred in enforcing its rights under these Terms and Conditions.
+All files, information and mail under the account will be preserved for 20 days from the date the payment is due. If the payment is not received after 20 days, all files, information and mail under the account will be deleted. If the subscriber wishes to use the service again, the subscriber must re-apply as a new subscriber.
+Termination
+The subscriber agrees that the company has the right to delete all data, files or other information that is stored in the subscriber's account if the subscriber's account with the company is terminated, for any reason, by either AWeber or the subscriber. System accounts can not be transferred or used by anyone other than the subscriber. Accounts which have been transferred to other parties, or show other activity in violation of this paragraph, are subject to immediate cancellation.
+AWeber shall have the right to suspend service to the subscriber at any time, and for any reason, without notice. If such a suspension is to last for more than 20 days, the subscriber will be notified as to the reason.
+Service provided by AWeber may be cancelled in writing at any time with no penalty. Customer Account Login/Email and Response to Security Question must be included in the cancellation request. Cancellation will take effect only when the receipt of the cancellation request is confirmed by AWeber. AWeber reserves the right to change the rate by notifying the subscriber 15 days in advance of the effective date of the change.
+AWeber exercises no control whatsoever over the content of the information passing through AWeber systems. All leads (email addresses) generated by subscribers are held strictly confidential. The leads are never released to any other parties for any purpose. The lead information is only used on AWeber servers to deliver the follow up messages designated by the subscriber.
+Intellectual Property
+AWeber is committed to respecting intellectual property rights. If you identify copyrighted material that belongs to you posted without your permission to www.aweber.com or sent through the services please follow the directions below to let us know.
+Our designated agent is as follows:
+Sean Cohen
+4275 County Line Rd #20
+PMB 186
+Chalfont, PA 18914
+[email protected]
+The subject of your communication should be: DMCA Takedown Request
+Your notice must include all of the following:
+a physical or electronic signature of someone authorized to act on behalf of the copyright owner;
+identification of the work that has allegedly been infringed;
+identification of the website material that is allegedly infringing;
+information for the website owner to contact the complaining party, such as a postal address, telephone number, or email address;
+a statement that the complaining party has a good faith belief that the allegedly infringing use is not authorized or legal; and
+a statement that the information in the takedown notice is accurate and, under penalty of perjury, that the author of the takedown notice is authorized to act on behalf of the copyright owner.
+Ecommerce
+Ecommerce Payment Processing
+Ecommerce allows you to process your customers’ payments using payment processor integrations provided by AWeber.
+By using Ecommerce:
+you instruct AWeber to process your data and your customer’s data to facilitate payments.
+you agree to comply with all payment processor’s policies, as applicable. You acknowledge that all payment and financial information provided by your customer who is using payment processing will pass directly to the payment processor.
+you acknowledge and consent to information related to your account and your customers being stored and processed by both AWeber and the payment processor. Information processed by AWeber will be subject to our Privacy Policy and Data Processing and Security Terms. Any data processed will remain in your account even if you discontinue use of Ecommerce on your landing page.
+you agree that you will not permit processing of payments that violate payment processor’s terms of use, privacy policies, or other related business and legal policies.
+you agree AWeber will collect a fee for each transaction processed through Ecommerce.
+Ecommerce Customer Obligations
+You are solely responsible for your statements, products, and services listed and sold through Ecommerce including any and all damages, claims, liabilities and costs incurred. You shall be solely responsible for procuring, fulfilling, and delivering your products and services.
+You are responsible for understanding and complying with all applicable international, federal, state, and local laws, statutes, rules, regulations and codes including those related to tax and data privacy related to your use of Ecommerce and any ongoing choices you make with Ecommerce related data.
+You agree you are solely responsible for determining and collecting, withholding, reporting, and remitting correct taxes to the appropriate tax authority. AWeber expressly disclaims any liability for taxes owed or due by you or your customers for any transaction.
+You agree you are responsible for all customer service policies and issues relating to your listed products and services, including pricing, order fulfillment, cancellations, returns and adjustments, warranty, and technical support. AWeber is responsible only for the customer support of your AWeber account.
+Ecommerce Service Providers
+Stripe
+Stripe
+ is not an affiliate, partner, agent, or representative of AWeber. You understand and agree that AWeber is an independent party and has no right, responsibility, or ability to control, direct, or influence any action, inaction, conduct, or decision made by Stripe.
+Stripe is solely responsible for all activities, issues and disputes related to Ecommerce payment processing including payment receipt, refunds, chargebacks, and taxes.
+You and your customers should contact Stripe directly to resolve any issues with payment processing regarding any of the above indicated activities which Stripe is solely responsible for providing. All payment information provided by your customers using Ecommerce will be passed directly to Stripe.
+AWeber will not have access to billing information. AWeber does not manage and is not responsible for the PCI-DSS compliance obligations and efforts of Stripe.
+Migration Services
+Your previous Email Service Provider (ESP) login information can be shared with AWeber to facilitate migrations. Our migration team will instruct you on how to securely provide your prior ESP login information and any other information required to successfully login (e.g. security questions). AWeber does not share, store, process, or retain your prior login information for any purpose other than to provide migration services.
+Customer acknowledges and consents to AWeber accessing your account for which you have provided login information. All attempts will be made to limit viewing of data to only what is necessary to perform your migration. However, Customer acknowledges that AWeber may inadvertently view sensitive personal information within your account such as billing information, but will not collect, store, or otherwise disclose this information. AWeber will make every attempt to not manipulate data, or make alterations when migrating customer data. Only in the event of a technical issue preventing data migration will AWeber take action to change data being imported to AWeber.
+Customer agrees to provide clear instructions on what data is to be migrated.
+Should the Customer's prior ESP account become compromised in any wa

@@ -1,0 +1,1986 @@
+===== llms.txt :: https://www.leadsquared.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+﻿# LeadSquared
+> Marketing Automation and Lead Management Software
+> Contact: meenu@leadsquared.com
+## Full Content Export
+- **URL**: https://www.leadsquared.com/llms-full.txt
+### Posts
+- [[Announcement] LeadSquared Ranked 5th Fastest Growing Technology Company in India](https://www.leadsquared.com/learn/marketing/leadsquared-ranked-5th-fastest-growing-technology-company/)
+- [[Roundtable] Future of Online Certification and Distance Learning Programs](https://www.leadsquared.com/industries/education/webinar-roundtable-future-of-online-certification-and-dlp/)
+- [[Webinar Recording] The Love Letters of Enrollment](https://www.leadsquared.com/industries/education/webinar-the-love-letters-of-enrollment/)
+- [[Webinar] - Handling Objections in Admissions Like A Pro](https://www.leadsquared.com/industries/education/webinar-handling-objections-in-admissions/)
+- [[Webinar] - Using Testimonials The Right Way](https://www.leadsquared.com/industries/education/webinar-using-testimonials-the-right-way/)
+- [[Webinar] Admissions in Pre and Post Covid: The Way Forward for Counsellors](https://www.leadsquared.com/industries/education/webinar-admissions-in-pre-post-covid-the-way-forward-for-counsellors/)
+- [[Webinar] Business Transformation for Training Institutes: Moving from offline to online processes](https://www.leadsquared.com/industries/education/webinar-business-transformation-for-training-institutes-moving-from-offline-to-online-processes/)
+- [[Webinar] Covid-19 Watch: Leveraging LeadSquared for Business Continuity](https://www.leadsquared.com/learn/process-automation/webinar-covid-19-watch-leveraging-leadsquared-for-business-continuity/)
+- [[Webinar] Digital Admission Process for Ease and Faster Enrollments](https://www.leadsquared.com/industries/education/webinar-digital-admission-process-for-ease-and-faster-enrollments/)
+- [[Webinar] Digital v/s Non-Digital Strategies in Education: Finding the right balance](https://www.leadsquared.com/learn/process-automation/webinar-digital-v-s-non-digital-strategies-in-education-finding-the-right-balance/)
+- [[Webinar] Email Personalization for Admission Teams](https://www.leadsquared.com/industries/education/webinar-email-personalization-for-admission-teams/)
+- [[Webinar] Expert Session on Enrollment Growth](https://www.leadsquared.com/industries/education/webinar-expert-session-on-enrollment-growth/)
+- [[Webinar] How IMT CDL Built a Paperless Admissions Process](https://www.leadsquared.com/industries/education/webinar-how-imt-cdl-built-a-paperless-admissions-process/)
+- [[Webinar] How University Admissions Have Pivoted Post Covid](https://www.leadsquared.com/industries/education/webinar-how-university-admissions-have-pivoted-post-covid/)
+- [[Webinar] Importance of Seamless Student Experience to Boost Enrollments](https://www.leadsquared.com/industries/education/webinar-importance-of-seamless-student-experience-to-boost-enrollments/)
+- [[Webinar] Inspire a Wide Range of Students with Custom Automations](https://www.leadsquared.com/industries/education/webinar-inspire-students-with-custom-automations/)
+- [[Webinar] Know Your Applicants - Top 5 Student Types](https://www.leadsquared.com/industries/education/know-your-applicants/)
+- [[Webinar] Proven Strategies for Achieving Aggressive Enrollment Goals ](https://www.leadsquared.com/industries/education/webinar-proven-strategies-for-achieving-enrollment-goals/)
+- [[Webinar] Publisher Partners: Identifying the Right Mix](https://www.leadsquared.com/industries/education/webinar-publisher-partners-identifying-the-right-mix/)
+- [[Webinar] Redefining University Enrolments in Africa](https://www.leadsquared.com/industries/education/webinar-redefining-university-enrolments-in-africa/)
+- [[Webinar] Shifting Your Admissions Process Online](https://www.leadsquared.com/industries/education/webinar-shifting-your-admissions-process-online/)
+- [[Webinar] TikTok for Career Schools: How to Create Viral Content that Connects](https://www.leadsquared.com/industries/education/webinar-tiktok-for-career-schools/)
+- [[Webinar] Virtual Tours and Presentations](https://www.leadsquared.com/industries/education/webinar-virtual-tours-and-presentations/)
+- [10 Advantages of Using a CRM in the Banking Sector](https://www.leadsquared.com/industries/banking/advantages-of-crm-for-banking-sector/)
+- [10 Best CRM For Outbound Sales ](https://www.leadsquared.com/learn/sales/best-crm-for-outbound-sales/)
+- [10 Best Email Tracking Tools for Sales Teams](https://www.leadsquared.com/learn/sales/email-tracking-tools/)
+- [10 Best Mortgage Broker Software Features](https://www.leadsquared.com/industries/finance/best-mortgage-software-features/)
+- [10 Best Patient Satisfaction Survey Questions](https://www.leadsquared.com/industries/healthcare/patient-satisfaction-survey-questions/)
+- [10 Best Sales Reporting Software for 2025](https://www.leadsquared.com/learn/sales/sales-reporting-software/)
+- [10 Best Video Marketing Tools for 2024](https://www.leadsquared.com/learn/marketing/video-marketing-tools-for-marketers/)
+- [10 Commandments of Writing Headlines for Landing Page](https://www.leadsquared.com/learn/marketing/10-commandments-of-writing-headlines-for-landing-page/)
+- [10 Content Marketing Ideas for Travel and Tour Businesses](https://www.leadsquared.com/industries/hospitality/content-marketing-ideas-for-travel-and-tour-businesses/)
+- [10 CRM Best Practices for 2026](https://www.leadsquared.com/learn/sales/crm-best-practices/)
+- [10 CRM Use Cases: Examples of Businesses Boosting Sales Efficiency](https://www.leadsquared.com/learn/sales/crm-use-cases/)
+- [10 Easy Steps to Plan a Video Marketing Strategy in 2026](https://www.leadsquared.com/learn/marketing/video-marketing-strategy/)
+- [10 Effective Real-World Customer Loyalty Programs Examples ](https://www.leadsquared.com/learn/customer-experience/customer-loyalty-program-examples/)
+- [10 Essential Cloud Contact Center Best Practices for 2026](https://www.leadsquared.com/learn/sales/cloud-contact-center-best-practices/)
+- [10 Hacks for Social Media Lead Generation Without Any Ads - Infographic](https://www.leadsquared.com/learn/marketing/social-media-lead-generation/)
+- [10 HubSpot Alternatives That Scale With Your Business [2026 Guide] ](https://www.leadsquared.com/learn/sales/hubspot-alternatives/)
+- [10 Key Issues in Supply Chain Management and How to Overcome them ](https://www.leadsquared.com/industries/manufacturing/key-issues-in-supply-chain-management/)
+- [10 Landing Page Rookie Mistakes to Avoid](https://www.leadsquared.com/learn/marketing/10-landing-page-rookie-mistakes-to-avoid/)
+- [10 Lead Nurturing Lessons Only an Awesome Teacher Can Teach You](https://www.leadsquared.com/learn/sales/lead-nurturing-lessons-only-an-awesome-teacher-can-teach-you/)
+- [10 Marketing Strategies to Attract International Students](https://www.leadsquared.com/industries/education/attract-international-students/)
+- [10 Must Have Plugins for WordPress](https://www.leadsquared.com/learn/marketing/10-must-have-plugins-for-wordpress/)
+- [10 New Ways to Generate Facebook Leads Without Running Ads](https://www.leadsquared.com/learn/marketing/generate-facebook-leads/)
+- [10 Opportunities you are Missing by Not Using Facebook Power Editor](https://www.leadsquared.com/learn/marketing/10-opportunities-you-are-missing-by-not-using-facebook-power-editor/)
+- [10 Patient Appointment Scheduling SMS Templates ](https://www.leadsquared.com/industries/healthcare/patient-appointment-scheduling-sms-templates/)
+- [10 Powerful Strategies to Supercharge Your Financial Services Sales ](https://www.leadsquared.com/industries/finance/financial-services-sales-strategies/)
+- [10 PPC Metrics You Should Monitor in Google AdWords](https://www.leadsquared.com/learn/marketing/ppc-metrics-to-monitor/)
+- [10 Practical CRM Automation Examples ](https://www.leadsquared.com/learn/sales/crm-automation-examples/)
+- [10 Practical Ways to Reduce Lead Response Time](https://www.leadsquared.com/learn/sales/lead-response-time/)
+- [10 Practical Ways to Reduce Lead Response Time](https://www.leadsquared.com/us/learn/sales/lead-response-time/)
+- [10 Proven Ways to Increase the Productivity of Dealers ](https://www.leadsquared.com/learn/sales/increase-productivity-of-dealers/)
+- [10 Ready-to-use SMS Templates for Healthcare  ](https://www.leadsquared.com/industries/healthcare/healthcare-sms-templates/)
+- [10 Steps to Creating the Perfect Social Media Marketing Plan](https://www.leadsquared.com/learn/marketing/social-media-marketing-plan/)
+- [10 Student Engagement Strategies for Enrollment Counselors in Higher Education ](https://www.leadsquared.com/industries/education/student-engagement/)
+- [10 Tips for a Landing Page Design that Works!](https://www.leadsquared.com/learn/marketing/10-tips-landing-page-design-that-works/)
+- [10 Trends in the Era of Generation Z College Students](https://www.leadsquared.com/industries/education/generation-z-college-students/)
+- [10 Ways to Use Facebook Targeting to Reach the Most Relevant Audience](https://www.leadsquared.com/learn/marketing/10-ways-to-use-facebook-targeting-to-reach-the-most-relevant-audience/)
+- [100 Best Open-Ended Questions Examples](https://www.leadsquared.com/learn/sales/open-ended-questions/)
+- [100+ Performance Review Examples: A Comprehensive Guide for All Departments ](https://www.leadsquared.com/learn/sales/performance-review-examples/)
+- [11 Best Ways to Generate B2C Sales Leads](https://www.leadsquared.com/learn/sales/b2c-sales-leads/)
+- [11 Essential workflow automation tools to boost productivity ](https://www.leadsquared.com/learn/sales/workflow-automation-tools/)
+- [11 Google Plus Best Practices for Businesses](https://www.leadsquared.com/learn/marketing/google-plus-best-practices/)
+- [11 Highly Effective Debt Collection Call Scripts [As Per FDCPA]](https://www.leadsquared.com/industries/lending/debt-collection-call-script/)
+- [11 Modules of Hospital Management System and their Benefits](https://www.leadsquared.com/industries/healthcare/hospital-management-system-hms/)
+- [12 Best Microsoft Dynamics 365 Alternatives for 2025](https://www.leadsquared.com/learn/sales/microsoft-dynamics-365-alternatives/)
+- [12 Best Sales Intelligence Tools for 2026](https://www.leadsquared.com/learn/sales/sales-intelligence-tools/)
+- [12 Healthcare Websites to Generate Patient Leads in South Africa](https://www.leadsquared.com/industries/healthcare/generate-patient-leads-in-south-africa/)
+- [12 Helpful Patient Outreach SMS Templates ](https://www.leadsquared.com/industries/healthcare/patient-outreach-sms-templates/)
+- [12 Insurance Story Ideas for Your Blog](https://www.leadsquared.com/industries/insurance/insurance-story-ideas-blog/)
+- [12 Social Media Marketing Strategies for Higher Education & Tools to Use in 2026](https://www.leadsquared.com/industries/education/social-media-strategies-higher-education/)
+- [12 Super-Effective Insurance Sales Email Templates to Use Today](https://www.leadsquared.com/industries/insurance/insurance-sales-email-templates/)
+- [12 Tried & Tested Ways to Reduce Customer Acquisition Cost (CAC) ](https://www.leadsquared.com/learn/sales/how-to-reduce-cac-customer-acquisition-cost/)
+- [12 Ways a Higher Education CRM Benefits Admissions Teams](https://www.leadsquared.com/industries/education/benefits-of-higher-ed-crm/)
+- [12 Ways to Generate Healthcare Leads: A Complete Guide for the United States](https://www.leadsquared.com/industries/healthcare/generate-healthcare-leads-in-the-united-states/)
+- [13 Business Process Automation Examples  ](https://www.leadsquared.com/learn/process-automation/business-process-automation-examples/)
+- [13 Customer Engagement Metrics to Improve your Marketing Strategy  ](https://www.leadsquared.com/learn/marketing/customer-engagement-metrics/)
+- [13 Form Design Ideas To Fire Up Your Lead Generation](https://www.leadsquared.com/learn/marketing/form-design-ideas/)
+- [13 Tactics for Compelling Landing Page Copy](https://www.leadsquared.com/learn/marketing/13-tactics-for-compelling-landing-page-copy/)
+- [13 Top Door to Door Sales Tips to Land More Sales](https://www.leadsquared.com/learn/sales/door-to-door-sales-tips-to-boost-sales/)
+- [13 Tricks of the Trade for Hiring Insurance Producers](https://www.leadsquared.com/industries/insurance/hiring-insurance-producers/)
+- [14 Best Ways To Reduce Patient No-shows](https://www.leadsquared.com/industries/healthcare/reduce-patient-no-shows/)
+- [14 patient retention strategies to grow your healthcare practice](https://www.leadsquared.com/industries/healthcare/patient-retention-strategies/)
+- [14 Strategies to Improve Student Retention in Higher Education ](https://www.leadsquared.com/industries/education/improve-student-retention-higher-education/)
+- [14 Websites to Generate Higher Education Leads in the Middle East ](https://www.leadsquared.com/industries/education/generate-higher-education-leads-in-middle-east/)
+- [15 Best Alternatives to ActiveCampaign for SMBs](https://www.leadsquared.com/learn/sales/activecampaign-alternatives/)
+- [15 Best Measures to Improve Patient Flow for Healthcare Practices](https://www.leadsquared.com/industries/healthcare/how-to-improve-patient-flow-in-clinics/)
+- [15 Higher Education Email Templates to Boost Enrollments](https://www.leadsquared.com/industries/education/higher-education-email-templates/)
+- [15 Ready-to-use Car Sales Email Templates](https://www.leadsquared.com/industries/automotive/car-sales-email-templates/)
+- [15 Smart Sales Closing Techniques [Scripts and Examples]](https://www.leadsquared.com/learn/sales/sales-closing-techniques-scripts/)
+- [15 Super-effective Insurance Sales Script Samples](https://www.leadsquared.com/industries/insurance/insurance-sales-script/)
+- [15 Super-effective Real Estate Cold Calling Scripts [Download PDF]](https://www.leadsquared.com/industries/real-estate/real-estate-cold-calling-scripts/)
+- [15 Tips for Real Estate Agents and Developers](https://www.leadsquared.com/industries/real-esta
+
+===== homepage :: https://www.leadsquared.com/
+--- SIGNALS ---
+title: AI-Powered CRM For Sales, Service & Marketing | LeadSquared
+meta_description: Accelerate revenue growth with a powerful CRM software built for sales, marketing, service & field teams. Improve customer acquisition, retention, & efficiency.
+og_description: Accelerate revenue growth with a powerful CRM software built for sales, marketing, service & field teams. Improve customer acquisition, retention, & efficiency.
+og_site_name: LeadSquared
+h1: AI CRM for high-impactsales teamsmarketing teamsservice teamsfield teams
+h2: Why leading organizations choose LeadSquared | Industry-smart. Designed for scale | Products that power growth | AI built in. Not bolted on. | Built for India’s most regulated industries | Works seamlessly with your tech stack | Success stories, straight from our customers | Your revenue teams deserve better | Prefer a localized experience?
+jsonld_org: [{"@type": "Organization", "@id": "https://www.leadsquared.com/#organization", "name": "LeadSquared", "sameAs": ["https://www.facebook.com/LeadSquared", "https://twitter.com/LeadSquared", "https://www.linkedin.com/company/leadsquared/", "https://www.youtube.com/channel/UCKrxJA7HFsDmKI-2G3xqv9g", "https://www.instagram.com/leadsquared/"], "logo": {"@type": "ImageObject", "@id": "https://www.leadsquared.com/#logo", "url": "https://www.leadsquared.com/wp-content/uploads/2023/04/LeadSquared-Square-Organization-Logo.png", "contentUrl": "https://www.leadsquared.com/wp-content/uploads/2023/04/LeadSquared-Square-Organization-Logo.png", "caption": "LeadSquared", "inLanguage": "en-in", "width": "693", "height": "693"}}, {"@context": "https://schema.org", "@type": "Organization", "name": "LeadSquared", "url": "https://www.leadsquared.com/", "logo": "https://www.leadsquared.com/wp-content/uploads/2023/04/LeadSquared-Square-Organization-Logo-300x300.png", "alternateName": "LeadSquared"}]
+--- TEXT ---
+AI-Powered CRM For Sales, Service & Marketing | LeadSquared
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Menu
+Products
+Products
+Sales
+Field Sales
+Marketing
+Service
+Flostack
+Industries
+Industries
+Financial Services
+Manufacturing
+Automotive
+Healthcare
+Education
+Digital Native Businesses
+Others
+Others
+Real Estate
+Travel and Hospitality
+Agriculture
+Company
+Company
+Our Story
+Partners
+News
+Careers
+Contact Us
+Resources
+Resources
+Case Studies
+Content Library
+Library
+Articles
+Webinars
+E-books
+Podcast
+Knowledge Base
+API Docs
+Login
+Book a Demo
++1-732-385-3546
+080-47359453
+080-47359453
+Login
+080-47359453
+ 
+Global
+ 
+United States
+Login
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI CRM for 
+high-impact
+sales teams
+marketing teams
+service teams
+field teams
+The CRM that tells you what to do, before you have to ask.
+ 
+ 
+ 
+ 
+Book a demo
+ 
+ 
+ 
+ 
+ ★ ★ ★ ★ ★
+ 
+Top-rated by
+ 
+sales, service, marketing, and operations teams
+ 
+ 
+ 
+ 
+Trusted by
+ 1600+ organizations worldwide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Outcomes you can measure
+ 
+ 
+ 
+ 
+ 
+Education
+ 
+ 
+ 
+60
+ 
+%
+ 
+ 
+DIY account completion rate
+ 
+ 
+An influential upskilling and education company, India
+ 
+ 
+ 
+ 
+Automotive
+ 
+ 
+ 
+10L
+ 
++
+ 
+ 
+Inquiries managed seamlessly
+ 
+ 
+Global automotive leader with 6,000+ dealerships, India
+ 
+ 
+ 
+ 
+Financial services
+ 
+ 
+ 
+50
+ 
+%
+ 
+ 
+More loan sales
+ 
+ 
+Leading diversified NBFC, India
+ 
+ 
+ 
+All results are drawn from real 
+LeadSquared
+ customer outcomes
+Why leading organizations
+ 
+choose LeadSquared
+From first inquiry to day one, 
+LeadSquared
+ helps
+teams move faster and stay compliant.
+Consumer-first DNA
+Built for how people actually buy.
+ 
+While most CRMs are built around internal workflows, LeadSquared starts with how consumers actually behave — helping teams capture intent early, engage faster, and convert more consistently.
+AI that matters
+And actually converts.
+ 
+Powered by complete journey data and deep industry expertise, our AI predicts who will convert, routes leads to the right rep, and recommends the next action — all rooted in real behavior, not generic signals.
+Industry focus
+Deep industry expertise, not generic software.
+ 
+Generic platforms treat every prospect the same. LeadSquared comes pre-built for your industry — so your teams get to value faster, without months of configuration.
+End-to-end platform
+One platform, zero friction.
+ 
+Most organizations stitch together five or six tools to move a customer from first inquiry to final activation. LeadSquared replaces that stack — one system for every revenue team, with no data lost in the handoffs.
+Industry-smart. 
+Designed for scale
+Deep domain know-how meets real-world delivery.
+ 
+ 
+ 
+ 
+ Financial Services 
+ 
+ Manufacturing 
+ 
+ Automotive 
+ 
+ Healthcare 
+ 
+ Education 
+ 
+ Digital Native Businesses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Services
+ 
+Accelerate growth across the financial customer lifecycle.
+ 
+Unify acquisition, onboarding, and servicing with speed and control — across banking, lending, insurance, and investment products.
+AI-powered onboarding with built-in compliance checks.
+Manage DSAs, branches, and field teams centrally.
+Real-time pipeline visibility with audit-ready tracking.
+ 
+ 
+Explore Financial Services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manufacturing
+ 
+Drive dealer and distributor performance.
+ 
+From dealer schemes to field visits — give your sales team the visibility to act, and your leadership the clarity to decide.
+Manage dealer onboarding, partners, and 
+channel sales
+ pipelines.
+Equip field teams with mobile tools for visits, orders, and reporting.
+Track distributor performance and scheme compliance across regions.
+ 
+ 
+Explore Manufacturing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automotive
+ 
+Sell more vehicles with connected journeys.
+ 
+Make every step of the ownership journey feel as smooth as the first drive off the lot.
+Manage inquiries from aggregators, showrooms, and digital channels.
+Automate follow-ups, test drive scheduling, and service reminders.
+Track the complete vehicle purchase journey from inquiry to delivery.
+ 
+ 
+Explore Automotive
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Healthcare
+ 
+A complete picture of every patient journey.
+ 
+From the first inquiry to the follow-up that brings a patient back — give every team the context they need to make every interaction count.
+Increase patient acquisition through structured referral tracking and multi-channel outreach.
+Reduce missed appointments with automated reminders and timely follow-ups.
+Give teams a complete view of interactions across the patient journey.
+ 
+ 
+Explore Healthcare
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Education
+ 
+Admissions that move as fast as student interest.
+ 
+Deliver fast, personalized admission experiences that convert interest into enrollments.
+Omnichannel engagement with instant response capabilities.
+Intelligent prioritization of high-intent applicants.
+Complete visibility into student journeys and counsellor actions.
+ 
+ 
+Explore Education
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Digital Native Businesses 
+ 
+Scale growth without losing control.
+ 
+From start-up speed to enterprise scale, deliver consistent experiences and outcomes.
+Capture and manage inquiries from all channels.
+Manage 
+vendor onboarding
+ and lifecycle engagement.
+Monitor conversion performance and optimize growth experiments.
+ 
+ 
+Explore Digital Natives
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products that 
+power growth
+From first click to fierce loyalty.
+ 
+ 
+ 
+ 
+Marketing 
+Suite
+ 
+ 
+ 
+ 
+Marketing 
+Suite
+ 
+Capture intent across every channel and act before interest fades.
+ 
+ 
+ 
+Service 
+Cloud
+ 
+ 
+ 
+ 
+Service 
+Cloud
+ 
+Go beyond issue resolution. AI-powered support teams that help grow customer trust and revenue.
+ 
+ 
+ 
+Sales
+ 
+ 
+ 
+ 
+Sales
+ 
+Pipeline visibility, AI-prioritized leads, and guided selling, so reps spend time closing, not deciding.
+ 
+ 
+ 
+Field Operations
+ 
+ 
+ 
+ 
+Field Operations
+ 
+Building frontline strength to drive bottom-line impact. Turn everyday visits into business breakthroughs.
+ 
+ 
+ 
+Invorto
+ 
+ 
+ 
+ 
+Invorto
+ 
+AI that handles calls, qualifies leads, and books follow-ups, without a human on the line.
+ 
+ 
+ 
+FloStack
+ 
+ 
+ 
+ 
+FloStack
+ 
+Personalized buying experiences for every prospect. Shared, tracked, and followed up in one click.
+ 
+ 
+ 
+ 
+ 
+ 
+AI
+ built in. Not bolted on.
+Predict intent, automate action, and capture every buying signal, across every team.
+Invorto Voice AI
+AI that handles every voice touchpoint — calls, reminders, and follow-ups — automatically and around the clock. Your team steps in only for the conversations that genuinely need a human.
+Call Sentiment Insights
+Know if a call went well before your rep writes the notes. AI detects intent, hesitation, and urgency in real time — giving your team the context to respond with empathy and close with confidence.
+Conversational AI
+Your fastest, most consistent rep never sleeps. AI engages prospects instantly across chat, WhatsApp, email, and web, guides them through next steps, and keeps the funnel moving without adding headcount.
+Service Excellence
+Every agent, every ticket, every interaction is held to the same standard. AI unifies context, automates routine workflows, and gives agents a 360° view so nothing slips.
+ 
+Security & Compliance 
+Built for India’s most regulated industries
+LeadSquared is 
+ISO 27001:2022 certified, DPDP-ready
+, and audited by 
+CERT-In empanelled auditors
+ — so your customer data stays protected at every layer. With AES-256 encryption, role-based access controls, and audit trails built in, your teams operate with confidence across BFSI, healthcare, education, automotive, and manufacturing, so your teams stay focused on growth, not governance.
+ 
+ 
+ 
+ 
+Certification
+ 
+ISO 27001:2022
+ 
+ 
+Information security management, independently certified.
+ 
+ 
+ 
+ 
+ 
+Privacy
+ 
+DPDP-ready
+ 
+ 
+Aligned with India’s Digital Personal Data Protection Act.
+ 
+ 
+ 
+ 
+ 
+Audited
+ 
+CERT-In empanelled
+ 
+ 
+Security audits by Government-empanelled auditors.
+ 
+ 
+ 
+ 
+ 
+Built-in
+ 
+Enterprise-grade security
+ 
+ 
+Encryption, role-based access, and full audit trails out of the box.
+ 
+ 
+ 
+ 
+Integrations
+Works seamlessly
+ with 
+your tech stack
+100+ integrations to keep your teams moving fast
+– no dev dependency.
+ 
+ 
+ 
+ 
+See all Integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Success stories, straight 
+ from our customers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“As a profitable organisation, we either pay with time or money. LeadSquared helps us save both — it eliminates manual tasks and directly impacts our P&L.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ruhan Naqash
+ 
+Head of Marketing
+ 
+ 
+ 
+ Read full case study 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“LeadSquared Service CRM is our secret weapon. We’ve cut resolution times, boosted satisfaction, and scaled effortlessly.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbyshek Chandra
+ 
+Head - Business
+ 
+ 
+ 
+ Read full case study 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Everyone knows exactly what’s on their plate when they log in. That clarity made a huge difference.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rohan Agarwal
+ 
+Senior Program Manager
+ 
+ 
+ 
+ Read full case study 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Automations helped us cut 70% of manual processes for our sales team. They can now focus just on conversations.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marc Irawan
+ 
+COO
+ 
+ 
+ 
+ Read full case study 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“LeadSquared has made it easy for me to justify marketing ROIs with advanced dashboards for leads, follow-ups, and conversions.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sangeetha Sethumadhavan 
+ 
+Digital Marketing Manager
+ 
+ 
+ 
+ Read full case study 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“In 2019, there were 20 tabs open on my laptop and now there’s only one. All my teams — counsellors, quality, accounts, marketing — use one platform.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sarthak Garg
+ 
+Co-Founder
+ 
+ 
+ 
+ Read full case study 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“We believe this partnership can help us move closer to our goal of making housing loans easily accessible to Indian citizens.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tribhuwan Adhikari
+ 
+CEO & Managing Director
+ 
+ 
+ 
+ Read full case study 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“We now have a complete patient experience platform and a single source of truth for all our key initiatives.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ashish Anand
+ 
+VP - Digital Transformation
+ 
+ 
+ 
+ Read full case study 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“LeadSquared has brought structure and efficiency to our processes, enabling teams across Bajaj Capital to quickly adapt to market shifts while remaining service-ready for every customer.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satyanarayana Nalluri
+ 
+CTO
+ 
+ 
+ 
+ Read full case study 
+→
+ 
+ 
+ 
+ 
+ 
+ 
+Follow a manual added link
+Exceptional product – a game changer for the business!
+Follow a manual added link
+ Highly customizable CRM with integrations and detailed reporting.
+Follow a manual added link
+Reduces manual work, and increases my response speed.
+Follow a manual added link
+Robust automation features. Excellent customer support.
+ 
+Enterprise AI Platform 
+Your revenue teams 
+deserve better
+See how LeadSquared helps sales, marketing, field, and
+ service teams move faster and convert better.
+ 
+ 
+ 
+ 
+Talk to us
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+Sales CRM
+Service CRM
+Marketing Automation
+Mobile CRM App
+Customer Portal
+Performance Management
+Lead Management System
+Integrations
+API
+Dev Platform
+Help Portal
+Pricing
+SALES
+Pricing
+MARKETING
+Industries
+Education CRM
+Insurance CRM
+Banking CRM
+Lending CRM
+Real Estate
+Marketplace CRM
+Travel CRM
+Manufacturing CRM
+Resources
+What is CRM
+What is lead management
+What is vendor management
+What is sales management
+Case Studies
+Guides & Blogs
+Compare CRM
+CRM Glossary
+Sales Glossary
+Company
+About Us
+Partners
+Legal
+Security
+Terms of Service
+Investor Relations
+Media & News
+Careers
+Contact
+Sitemap
+GET IN TOUCH
+(+1) 732-385-3546 (US)
+080-473-59453
+ (India)
+62-87750-350-446 (ID)
+(+971)-553-353-122 (UAE)
+Corporate Office Address
+LeadSquared 2nd Floor, Omega Block, Embassy Tech Square, Kadubeesanahalli, Outer Ring Road, Bengaluru, Karnataka – 560103
+ 
+ 
+ 
+Follow Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mobile App
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 LeadSquared
+ 
+ 
+ 
+Legal & Compliance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scroll to top
+ 
+ 
+ 
+ 
+Prefer a localized experience?
+ 
+It looks like you are visiting from the US. You can switch to our US site for content and offerings tailored to your region.
+ 
+ 
+Stay on Global Site
+ 
+Visit US Site
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Book a demo
+
+===== product :: https://www.leadsquared.com/learn/sales/crm-platform/
+--- SIGNALS ---
+title: CRM Platform: All You Need To Know About Them | LeadSquared
+meta_description: Everything you need to know about a CRM platform - including features, benefits and functionalities. Read on to learn more.
+og_description: Everything you need to know about a CRM platform - including features, benefits and functionalities. Read on to learn more.
+og_site_name: LeadSquared
+h1: How does a CRM platform work?
+h2: What is a CRM platform? | What does a CRM platform do? | What it can do | Some important functions of a CRM platform
+jsonld_org: [{"@type": "Organization", "@id": "https://www.leadsquared.com/#organization", "name": "LeadSquared", "sameAs": ["https://www.facebook.com/LeadSquared", "https://twitter.com/LeadSquared", "https://www.linkedin.com/company/leadsquared/", "https://www.youtube.com/channel/UCKrxJA7HFsDmKI-2G3xqv9g", "https://www.instagram.com/leadsquared/"], "logo": {"@type": "ImageObject", "@id": "https://www.leadsquared.com/#logo", "url": "https://www.leadsquared.com/wp-content/uploads/2023/04/LeadSquared-Square-Organization-Logo.png", "contentUrl": "https://www.leadsquared.com/wp-content/uploads/2023/04/LeadSquared-Square-Organization-Logo.png", "caption": "LeadSquared", "inLanguage": "en-in", "width": "693", "height": "693"}}, {"@context": "https://schema.org", "@type": "Organization", "name": "LeadSquared", "url": "https://www.leadsquared.com/", "logo": "https://www.leadsquared.com/wp-content/uploads/2023/04/LeadSquared-Square-Organization-Logo-300x300.png", "alternateName": "LeadSquared"}]
+--- TEXT ---
+CRM Platform: All You Need To Know About Them | LeadSquared
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Menu
+Products
+Products
+Sales
+Field Sales
+Marketing
+Service
+Flostack
+Industries
+Industries
+Financial Services
+Manufacturing
+Automotive
+Healthcare
+Education
+Digital Native Businesses
+Others
+Others
+Real Estate
+Travel and Hospitality
+Agriculture
+Company
+Company
+Our Story
+Partners
+News
+Careers
+Contact Us
+Resources
+Resources
+Case Studies
+Content Library
+Library
+Articles
+Webinars
+E-books
+Podcast
+Knowledge Base
+API Docs
+Login
+Book a Demo
++1-732-385-3546
+080-47359453
+080-47359453
+Login
+080-47359453
+ 
+Global
+Login
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Home
+Learn
+Sales
+How does a CRM platform work?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SALES
+ 
+ 
+ Updated 16 Apr, 2026 
+ 
+ 
+How does a CRM platform work? 
+ 
+ 
+ 
+ For a business to be successful, it has to maintain good relationships with its customers. This is the cornerstone of any business that has succeeded. Before the advent of a CRM platform, the process of tracking and managing customer relationships was quite time-consuming. To be frank, there was barely any structure and proper process for […] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Meenu Joshi
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 min read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SALES
+ 
+How does a CRM platform work?
+ 
+ 
+ 
+ 
+Contents
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For a business to be successful, it has to maintain good relationships with its customers. This is the cornerstone of any business that has succeeded. Before the advent of a CRM platform, the process of tracking and managing customer relationships was quite time-consuming. To be frank, there was barely any structure and proper process for it. Companies stored such customer data in spreadsheets, filing cabinets, etc and the whole thing was quite fragmented. 
+It involves too much manual work and wasted a lot of valuable time. It also meant that they couldn’t distribute the data properly amongst the different departments. A lot of potential business opportunities were lost in this confusion. However, this is not a problem anymore since the internet allowed the creation of new marketing technology. From here, we got CRM.
+What is a CRM platform? 
+CRM is an abbreviation for Customer Relationship Platform. A CRM platform refers to the technology used by a company to manage all interactions with customers while recording key information that may be generated during these engagements. 
+CRM data is a crucial part of the tech stack and essential for a more personalized experience. Having CRM data on a unified platform will enable marketers to target their customers in a more efficient and accurate way. Demographic data used will include age, gender, education and marital status amongst others. The geographic data used will include the billing or shipping country or city. Other data includes interests, preferences and buyer persona. 
+ 
+What does a CRM platform do? 
+ 
+Even at the most basic level, a good CRM platform allows marketers or sales personnel to manage and analyze the relationships a company has with its potential and actual customers. Every interaction between customers and the company is tracked and the information is collected. Marketers can then view the history of each customer with the company and know who they are. It makes every future interaction much more personalized and increases chances of conversion. It also encourages loyalty and trust from customers. To put it simply, it will manage the relationships and interactions of the company with its current and potential customers. The simple goal is to improve business relationships. 
+CRM platforms will allow tracking if customer and company interactions with the various available touchpoints:
+Email
+Phone call
+Social media
+Contact form
+Search engine
+The CRM software will take care of certain processes like automation of the marketers repetitive tasks or setting reminders for any important events. There are certain CRMs that even offer analytics capabilities and this allows tracking of the efficiency of different marketing efforts. You can see what led to a better generation of leads or conversions. 
+What it can do
+A CRM platform will contain a lot of
+information about customers and their interaction with your business. This will
+include conversations, past activities as well as purchases. Hence a lot of
+potential strategies or subsequent tools are available for leveraging this
+data.
+Email campaigns are used for tracking customer activity
+Customer satisfaction surveys are conducted 
+Social media responses are evaluated
+Customers are segmented for more targeted outreach
+Personalized offers and promotions are provided 
+Customers are notified of any important updates or a product announcement 
+Customer support follow-ups are managed
+Purchase history is integrated for customer loyalty programs
+Some important functions of a CRM platform
+A good CRM platform will typically offer the
+following functionalities:
+Lead management
+. CRM will track the leads for the business and allow its marketing team to enter all new leads into the system. This will allow tracking and analyzing the data.
+Marketing automation. 
+It will offer marketing automation functionalities which will automate tedious tasks. For instance, social media posts will automatically be published according to a schedule set by the marketer. Marketing automation makes it easier to engage 
+sales leads
+ and helps in converting them into paying customers. 
+Sales automation.
+ It can track all customer interactions and selected sales cycle business functions can be automated. These are the functions that are important for following up on leads or attracting new customers.
+Workflow automation. 
+It will help the business to optimize processes. Mundane workloads are steaminess and this enables the employees of that business to focus on a more high level or creative tasks.
+Analytics. 
+There are built-in analytics tools which provide insight and help to boost rates of customer satisfaction. The data is analyzed by marketers and they then create more targeted campaigns. It will also provide insight into customer experience and allow improvements.
+Artificial intelligence. 
+Some also offer AI capability that is built into their system. It helps in automatically recognizing patterns that will lead to successful sales. This will help in building strategies that are more accurate in the future.
+Personalized customer experience. 
+It will allow the creation of individualized experiences for customers. The customer experience will also be more consistent across the various marketing channels and this can help in more conversions. 
+CRM platforms are evolving every day and they offer a wide range of functionalities. Partnering with a company that will offer you CRM development will help you obtain a CRM solution that is scalable and grows along with the growth of your company. Leadsquared is one of the top 100 CRM software products available today. It will help you to develop, improve and retain all your current customers while acquiring new leads. 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stay updated with the latest marketing & sales insights 
+ 
+ 
+ 
+ 
+Subscribe for updates!
+ 
+ 
+ 
+×
+ 
+Subscribe for updates
+ 
+Enter your details and we'll send you a quick confirmation email to verify your address.
+ 
+ 
+ 
+Name 
+*
+ 
+ 
+ 
+ 
+ 
+Email 
+*
+ 
+ 
+ 
+ 
+ 
+ Send verification email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --> 
+ 
+We’ll email you once a week. No spam-just valuable content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Meenu Joshi
+ 
+ 
+ 
+ 
+ 
+ 
+Meenu Joshi
+works with the Content Marketing team of LeadSquared. She consults with multiple clients on leveraging content to generate and nurture leads. You can connect with her on 
+Twitter
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Related Articles
+ 
+ 
+ 
+5 Ways an Enquiry Management System Increases Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Published 16 Apr, 2026 
+ 
+ 
+5 Ways an Enquiry Management System Increases Sales
+ 
+ 
+ 
+ 
+ 
+Meenu Joshi
+ 
+ 
+ 
+ 
+ 8 min read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 Sales Pitch Examples That Actually Work!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Published 17 Jun, 2026 
+ 
+ 
+3 Sales Pitch Examples That Actually Work!
+ 
+ 
+ 
+ 
+ 
+Nidhi Agarwal
+ 
+ 
+ 
+ 
+ 11 min read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sales Onboarding: Preparing New Hires for Success [Template and Checklist]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Published 25 May, 2026 
+ 
+ 
+Sales Onboarding: Preparing New Hires for Success [Template and Checklist]
+ 
+ 
+ 
+ 
+ 
+Disha Bhuyan
+ 
+ 
+ 
+ 
+ 18 min read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+Sales CRM
+Service CRM
+Marketing Automation
+Mobile CRM App
+Customer Portal
+Performance Management
+Lead Management System
+Integrations
+API
+Dev Platform
+Help Portal
+Pricing
+SALES
+Pricing
+MARKETING
+Industries
+Education CRM
+Insurance CRM
+Banking CRM
+Lending CRM
+Real Estate
+Marketplace CRM
+Travel CRM
+Manufacturing CRM
+Resources
+What is CRM
+What is lead management
+What is vendor management
+What is sales management
+Case Studies
+Guides & Blogs
+Compare CRM
+CRM Glossary
+Sales Glossary
+Company
+About Us
+Partners
+Legal
+Security
+Terms of Service
+Investor Relations
+Media & News
+Careers
+Contact
+Sitemap
+GET IN TOUCH
+(+1) 732-385-3546 (US)
+080-473-59453
+ (India)
+62-87750-350-446 (ID)
+(+971)-553-353-122 (UAE)
+Corporate Office Address
+LeadSquared 2nd Floor, Omega Block, Embassy Tech Square, Kadubeesanahalli, Outer Ring Road, Bengaluru, Karnataka – 560103
+ 
+ 
+ 
+Follow Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mobile App
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 LeadSquared
+ 
+ 
+ 
+Legal & Compliance
+ 
+ 
+ 
+ 
+ 
+ 
+How Insurance Sales has Evolved with a CRM
+Revenue Reports: 5 Important Metrics You Need to Know
+ 
+Scroll to top
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Book a demo
+
+===== pricing_or_trust :: https://www.leadsquared.com/security/
+--- SIGNALS ---
+title: LeadSquared Security
+meta_description: LeadSquared is ISO 27001:2022 certified by the British Standards Institute (BSI).
+og_description: LeadSquared is ISO 27001:2022 certified by the British Standards Institute (BSI).
+og_site_name: LeadSquared
+h1: LeadSquared Security
+h2: What is GDPR? | Does the GDPR apply to me? | GDPR – important definitions | What is personal Data as per GDPR? | What are the rights of Data Subject under GDPR? | In the case of LeadSquared’s relationship with a Customer, who is Controller and who is Processor of the data? | Is it mandatory for LeadSquared to provide EU hosting to its European customers to comply with GDPR? | What does LeadSquared do to ensure lawful data transfers from the EU? | Is it mandatory for LeadSquared’s Customers dealing with EU Data Subjects to sign Data Processing Agreement (DPA)? | What software changes is LeadSquared planning to do in preparation of GDPR? | What contractual changes has LeadSquared made in its agreements with customers & vendors in preparation of GDPR?
+jsonld_org: [{"@type": "Organization", "@id": "https://www.leadsquared.com/#organization", "name": "LeadSquared", "sameAs": ["https://www.facebook.com/LeadSquared", "https://twitter.com/LeadSquared", "https://www.linkedin.com/company/leadsquared/", "https://www.youtube.com/channel/UCKrxJA7HFsDmKI-2G3xqv9g", "https://www.instagram.com/leadsquared/"], "logo": {"@type": "ImageObject", "@id": "https://www.leadsquared.com/#logo", "url": "https://www.leadsquared.com/wp-content/uploads/2023/04/LeadSquared-Square-Organization-Logo.png", "contentUrl": "https://www.leadsquared.com/wp-content/uploads/2023/04/LeadSquared-Square-Organization-Logo.png", "caption": "LeadSquared", "inLanguage": "en-in", "width": "693", "height": "693"}}, {"@context": "https://schema.org", "@type": "Organization", "name": "LeadSquared", "url": "https://www.leadsquared.com/", "logo": "https://www.leadsquared.com/wp-content/uploads/2023/04/LeadSquared-Square-Organization-Logo-300x300.png", "alternateName": "LeadSquared"}]
+--- TEXT ---
+LeadSquared Security
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Menu
+Products
+Products
+Sales
+Field Sales
+Marketing
+Service
+Flostack
+Industries
+Industries
+Financial Services
+Manufacturing
+Automotive
+Healthcare
+Education
+Digital Native Businesses
+Others
+Others
+Real Estate
+Travel and Hospitality
+Agriculture
+Company
+Company
+Our Story
+Partners
+News
+Careers
+Contact Us
+Resources
+Resources
+Case Studies
+Content Library
+Library
+Articles
+Webinars
+E-books
+Podcast
+Knowledge Base
+API Docs
+Login
+Book a Demo
++1-732-385-3546
+080-47359453
+080-47359453
+Login
+080-47359453
+ 
+Global
+Login
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LeadSquared Security
+Data Security
+GDPR
+Responsible Disclosure
+Hall of fame
+Previous
+Next
+LeadSquared is 
+ISO 27001:2022
+ certified by the British Standards Institute (BSI).
+The certification is applicable across the entire LeadSquared product, cloud services, IT infrastructure, administration, finance, and internal functions.
+At LeadSquared, we understand that securing and protecting your data is the most important responsibility we have. We have instituted organization wide processes across all our business functions to ensure that we fulfil the responsibility of securing your data. The following sections will give you a more detailed account on some of the systems we have put in place.
+Physical Security
+The LeadSquared development center in Bangalore is under 24×7 physical security protection. Only authorized personnel have access to the building and offices. Employees are granted access to the office only after authorization using biometric authentication. Critical locations in the office are accessible only to authorized individuals. Important documents are stored in cabinets accessible only to authorized persons. The office is equipped with surveillance cameras and its images are regularly monitored by authorized persons. A policy has been implemented to approve and regulate visitor access to the building. The office is provided with 24×7 power supply, supported by an alternative uninterrupted power supply system to ensure smooth functioning in the event of power failure. LeadSquared hosts its application and data in industry-leading Amazon Web Services, whose data centers have been thoroughly tested for security, availability and business continuity. For more details, please refer to the 
+AWS Security Whitepaper
+.
+Application Security
+LeadSquared applications and services are all hosted in Amazon Web Services across its multiple regions. The infrastructure for databases and application servers is managed and maintained by the cloud service providers. At LeadSquared, we take an integrated approach to application security, to ensure everything from engineering to deployment, including architecture and quality assurance processes complies with our highest standards of security.
+Application Architecture
+The application is initially protected by AWS’s firewall which is equipped to counter regular DDoS attacks and other network related intrusions. The second layer of protection is a web application firewall (WAF) which monitors against offending IPs,  users and spam. While the application can be accessed only by users with valid user access, it should be noted that security in cloud-based products is a shared responsibility between the company and the businesses who own those accounts on the cloud. In addition to making it easy for administrators to enforce industry-standard password policies on users, our products also come with features aimed at securing business data on the cloud:
+Role based access
+Sales Groups
+Permission Templates
+Whitelisting IPs for exclusive access
+LeadSquared uses a multi-tenant data model to host all its applications. Each customer has a separate database and we ensure that the code always fetches the data that belongs to only the logged in tenant. Per this design, no customer has access to another customer’s data. Access to the application by the LeadSquared development team is also controlled, managed and audited. Access to the application and the infrastructure are logged for subsequent audits.
+Application Engineering and Development
+We follow secure software development lifecycle, where security testing is part of development, testing and pre-release acceptance. A security review is a mandatory part of application engineering (development and construction) process at LeadSquared.
+Software Changes and Release Management
+Changes in our production environment follow a very well-defined, systematic process from development and test environments to verifying the changes finally on staging before production deployment. Production deployments are only done by authorized Devops team members, and nobody else has access to our production environment.
+Production Monitoring
+We have a dedicated 24×7 NOC team that monitors the application for suspicious activities or attacks. We conduct regular external third-party audits to certify the state of security in our applications and services.
+Data Security
+LeadSquared takes the protection and security of its customers’ data very seriously. LeadSquared manages the security of its application and customers’ data. The LeadSquared development team has no access to data on production servers. Changes to the application, infrastructure, web content and deployment processes are documented extensively as part of an internal change control process. LeadSquared takes the integrity and protection of customers’ data very seriously. Data at rest is encrypted using AES-256 bit standards (key strength – 1024) with the keys being managed by AWS Key Management Service. All data in transit is encrypted using FIPS-140-2 standard encryption over a secure socket connection for all accounts hosted with us. Different environments are in use for development and testing purposes, access to systems are strictly managed, based on the principles of need to do/know basis appropriate to the information classification, with Segregation of Duties built in, and reviewed on a quarterly basis.
+Data Deletion
+When your account with us is terminated, we ensure that all your data is deleted cleanly. The details are listed in our 
+terms of service
+.
+Network Security
+The LeadSquared office network where updates are developed, deployed, monitored and managed is secured by industry-grade firewalls and antivirus software, to protect internal information systems from intrusion and to provide active alerts in the event of a threat or an incident. Firewall logs are stored and reviewed periodically. Access to the production environment is via SSH and remote access is possible only via the office network. Audit logs are generated for each remote user session and reviewed. Also, the access to production systems are always through a multi-factor authentication mechanism. Our data centers are hosted in AWS are ISO 27001, SSAE-16 and HIPAA compliant.
+Reporting issues and threats
+At LeadSquared we take the protection of our customer’s data very seriously. If you have found any issues or flaws impacting the data security or privacy of LeadSquared users, please write to 
+ with the relevant information so we can get working on it right away. We ask that you do not share or publicize an unresolved vulnerability with/to third parties. If you submit a vulnerability report, the LeadSquared security team and associated development teams will use reasonable efforts to:
+Respond in a timely manner, acknowledging receipt of your vulnerability report
+Investigate the reported issue and provide an estimated time frame for addressing the vulnerability report. We might ask for your guidance in identifying or replicating the issue and understanding any means to resolving the threat right away
+Notify you when the vulnerability has been fixed
+We sincerely appreciate your help in detecting and fixing flaws in our platform, and will acknowledge your contribution to the world once the threat is resolved. 
+Public Disclosure Policy
+ By default, this program is in “PUBLIC NONDISCLOSURE” mode which means: “THIS PROGRAM DOES NOT ALLOW PUBLIC DISCLOSURE. ONE SHOULD NOT RELEASE THE INFORMATION ABOUT VULNERABILITIES FOUND IN THIS PROGRAM TO PUBLIC, FAILING WHICH SHALL BE LIABLE FOR LEGAL PENALTIES!” 
+The Fine Print
+ We may modify the terms of this program or terminate this program at any time. We won’t apply any changes we make to these program terms retroactively. LeadSquared/MarketXpander employees and their family members are not eligible for bounties.
+LeadSquared is fully committed to following the guidelines cited by GDPR. We promise to safeguard your data.
+[Contact 
+ for any questions/comments]
+What is GDPR?
+The GDPR (General Data Protection Regulation) is a new EU Regulation which has replaced the 1995 EU Data Protection Directive (DPD) to significantly enhance the protection of the personal data of EU citizens and increase the obligations on organisations who collect or process personal data. It came into force on 
+25th May 2018
+. The regulation builds on many of the 1995 Directive’s requirements for data privacy and security, but includes several new provisions to bolster the rights of data subjects and add harsher penalties for violations.
+A regulation such as the GDPR is a binding act, which must be followed in its entirety throughout the EU. The GDPR is an attempt to strengthen, harmonize, and modernize EU data protection law and enhance individual rights and freedoms, consistent with the European understanding of privacy as a fundamental human right. The GDPR regulates, among other things, how individuals and organizations may obtain, use, store, and eliminate personal data. It has a significant impact on businesses around the world.
+The full text of the GDPR can be found at 
+https://gdpr-info.eu/
+ .
+Does the GDPR apply to me?
+While the current EU legislation (the 1995 EU Data Protection Directive) governs entities within the EU, the territorial scope of the GDPR is far wider in that it will also apply to non-EU businesses who a) market their products to people in the EU or who b) monitor the behavior of people in the EU. In other words, even if you’re based outside of the EU but you control or process the data of EU citizens, the GDPR applies to you.
+GDPR – important definitions
+TERM
+DEFINITION
+Data Subject
+A person who lives in the EU
+Personal Data
+Any information related to an identified/identifiable data subject (e.g., name, national ID number, address, IP address, health info)
+Controller
+A company/organisation that collects people’s personal data and makes decisions about what to do with it. So if you’re collecting personal data and are determining how it will be processed (for example using the LeadSquared services to market to prospects and customers), you’re the Controller of that data and must comply with applicable data privacy legislation accordingly.
+Processor
+A company/organisation that helps a controller by “processing” data based on its instructions, but doesn’t decide what to do with data. So for example, LeadSquared is the processor of the data you collect in your LeadSquared application. We don’t control how you collect or use the data; we merely process it on your behalf and on your instruction.
+Processing
+Any operation or set of operations which is performed on personal data or on sets of personal data, by automated means or otherwise, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+Data Protection Officer (DPO)
+A representative for a controller/processor who oversees GDPR compliance and is a data-privacy expert
+Data Privacy Impact Assessment (DPIA)
+A documented assessment of the usefulness, risks, and risk-mitigation options for a certain type of processing
+Supervisory Authority
+Formerly called “data protection authorities”; one or more governmental agencies in a member state who oversee that country’s data privacy enforcement (e.g., Ireland’s Office of the Data Protection Commissioner, Germany’s 18 national/regional authorities)
+Third Countries
+Countries outside the EU
+What is personal Data as per GDPR?
+As per GDPR, personal data is any information relating to an identified or identifiable individual; meaning, information that could be used, on its own or in conjunction with other data, to identify an individual. Personal data will include not only data that is commonly considered to be personal in nature (e.g., social security numbers, names, physical addresses, email addresses), but also data such as IP addresses, behavioral data, location data, biometric data, financial information, and much more. It is also important to note that even personal data that has been “pseudonymized” can be considered personal data if the pseudonym can be linked to any particular individual.
+What are the rights of Data Subject under GDPR?
+At the heart of GDPR lies a set of rights a person can exercise against organizations processing their personal data. Specifically, individuals have the right to:
+Access
+Under GDPR, the Data Subject can request access to his/her personal data and learn how an organization uses it.
+Erasure
+Data Subject has a right to withdraw consent to store and use personal data and have the information erased.
+Data Portability
+Data Subject has the right to transfer its data from one service provider to another, and current provider must comply with this request.
+Rectification
+Data Subject can also require any errors in personal data to be corrected, and an organization must reply to the request within one month.
+To Be Informed
+Under GDPR, companies must be transparent about how they gather personal information, and must do it before they collect the data. As part of this, Data Subject must freely give consent for their data to be gathered for a specific purpose.
+Restrict Processing
+This gives Data Subject the right to 

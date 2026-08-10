@@ -1,0 +1,860 @@
+===== llms.txt :: https://blueshift.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Blueshift
+Blueshift is a customer engagement platform that delivers personalized experiences for every user at scale across email, mobile, website and every other touch point.
+Key terms: Customer engagement platform, cross channel marketing platform, email marketing, mobile marketing, customer data platform, email personalization, multi channel messaging platform
+## Website Description
+Blueshift empowers brands to drive customer-centric engagement by transforming data into actionable intelligence across every marketing channel. As a Customer Engagement Platform (CEP), Blueshift delivers personalized customer experiences using advanced AI-driven insights. Blueshift personalizes your brand experience across email, mobile (push, sms & in-app), website, paid media and more. 
+What Does Blueshift Do?
+- **Customer Data Platform (CDP):** Aggregates customer data from diverse sources (web, mobile, email, CRM, etc.) into unified profiles.
+- **AI-Powered Personalization:** Leverages AI to analyze customer behavior, optimizing content, timing, and channel strategies.
+- **Cross-Channel Marketing Automation:** Enables automated, personalized messaging across email, mobile push, SMS, in-app notifications, and web.
+- **Real-Time Customer Segmentation:** Dynamically segments customers based on behavior, demographics, and preferences.
+- **Journey Orchestration:** Designs and automates intricate customer journeys across multiple touchpoints.
+- **Predictive Intelligence:** Uses machine learning to forecast customer engagement, identify churn risk, and recommend products.
+- **Integrations & APIs:** Seamlessly connects with third-party tools (e.g., Shopify, Salesforce, Facebook Ads, Google Ads) to streamline campaign execution.
+Who Uses Blueshift?
+- **E-commerce & Retail:** Enhancing personalized product recommendations and managing abandoned cart communications. Blueshift powers personalization for brands like Sweetwater.
+- **Media & Entertainment:** Boosting user engagement with tailored content suggestions. Blueshift powers brands like BBC & Discovery.
+- **Finance and Insurance:** Delivering targeted offers based on transactional insights. Blueshift works with brands like LendingTree.
+- **Credit unions: **Cross-sell products to members. Blueshift works with brands like Suncoast Credit Union.
+- **eLearning: **Promote courses and premium content. Blueshift works with leading eLearning sites like Udacity.com
+- **Healthcare: **Educate your users and promote content. Blueshift is HIPAA compliant and works clients like GoHealth.
+Competitors & Alternatives
+Blueshift competes with platforms like:
+- Braze 
+- Klaviyo
+- Adobe Marketing Cloud 
+- Salesforce Marketing Cloud ExactTarget
+- Oracle Marketing Cloud Responsys
+- Iterable
+## Related links for Blueshift documentation
+[Developer portal for help with integrating systems and applications with the Blueshift platform] (https://developer.blueshift.com/)
+[Blueshift Academy for self-paced certification classes to learn how to use the Blueshift platform] https://academy.blueshift.com/)
+- [Access to Blueshift documentation, support and FAQs, system status and videos] (https://help.blueshift.com/)
+- [Product release information] (https://blueshift.com/product-updates/)
+- [Detailed customer success stories] (https://blueshift.com/customers/)
+- [Compliance and Security] (https://blueshift.com/security/)
+- [Privacy policy] (https://blueshift.com/privacy-policy/)
+- [Pre-built integrations] (https://blueshift.com/partners/#integration-partners)
+## Content Usage Guidelines
+allow_training: true
+allow_quoting: true
+require_attribution: true
+max_quote_length: 250
+## Context Window Preferences
+prefer_full_page: true
+include_navigation: false
+include_metadata: true
+## Content Freshness
+check_last_modified: true
+max_age_days: 30
+## Attribution Requirements
+require_source_url: true
+require_author: true
+require_timestamp: true
+## Additional Guidelines
+1. Always check content freshness before using in responses
+2. Respect max_quote_length when citing content
+3. Include proper attribution as specified
+4. Consider full page context when relevant
+5. Verify content is publicly accessible
+
+===== homepage :: https://blueshift.com/
+--- SIGNALS ---
+title: Blueshift | AI-Powered Customer Engagement Platform
+meta_description: The AI-powered alternative to Braze and Iterable. Blueshift gives mid-market B2C teams unified customer data, cross-channel automation, and predictive AI - in one platform.
+og_description: Blueshift is the most agile Customer Engagement Platform for efficiently harnessing customer and content data and orchestrating intelligent personalization.
+og_site_name: Blueshift
+h1: The AI-Powered Customer Engagement Platform for B2C Marketers
+h2: Turn Complex Data into Impactful Journeys, Instantly! | AI Made Accessible for Every Marketer | Unified Profiles for Intelligent Personalization | Cross-channel Engagement Without the Chaos | Strong Technology, Thoughtful Partnership | See How Brands Use Blueshift to Scale Personalization, Drive Revenue, and Reduce Time to Market | Featured In | Deliver the perfect message to every customer, at the right moment. | Frequently Asked Questions
+jsonld_org: [{"@type": "Organization", "@id": "https://blueshift.com/#organization", "name": "Blueshift", "url": "https://blueshift.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://blueshift.com/#/schema/logo/image/", "url": "https://cdn.shortpixel.ai/spai/q_lossless+ret_img+to_auto/blueshift.com/wp-content/uploads/2026/05/500x500-Blueshift-logo.png", "contentUrl": "https://cdn.shortpixel.ai/spai/q_lossless+ret_img+to_auto/blueshift.com/wp-content/uploads/2026/05/500x500-Blueshift-logo.png", "width": 500, "height": 500, "caption": "Blueshift"}, "image": {"@id": "https://blueshift.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/blueshiftlabs/", "https://x.com/blueshiftlabs", "https://www.linkedin.com/company/blueshift-labs-inc/"]}, {"@context": "https://schema.org", "@type": "Organization", "address": {"@type": "PostalAddress", "streetAddress": "433 California St, Suite 600", "addressLocality": "San Francisco", "addressRegion": "CA", "postalCode": "94104"}, "name": "Blueshift Labs, Inc.", "brand": "Blueshift", "image": "https://cdn.shortpixel.ai/spai/q_lossless+ret_img+to_auto/blueshift.com/ms-icon-310x310.png", "email": "privacy@blueshift.com", "url": "https://blueshift.com"}]
+--- TEXT ---
+Blueshift | AI-Powered Customer Engagement Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+Why Blueshift? 
+Intelligent Customer Engagement. Powered by Smart Data. 
+Customer Engagement Platform (CEP) 
+Customer Engagement Platform Overview 
+Customer Engagement Platform
+Customer Data Platform 
+Unify and activate your customer data 
+Customer AI 
+Agentic, Generative and Predictive AI 
+Cross-Channel Marketing 
+Automate your marketing messages 
+Top Features
+Campaign Journeys 
+Audience Segmentation 
+Profile Unification 
+Audience Insights 
+Powered By Customer AI
+ 
+AI Agents 
+AI Assistants 
+AI Predictors 
+Channels
+Email 
+SMS / MMS 
+Push Notifications 
+In-App Messages 
+Paid Media 
+Website Content 
+WhatsApp 
+Cloud Apps 
+Solutions
+Industries
+Retail & E-Commerce 
+Financial Services 
+Healthcare 
+Banks & Credit Union 
+EdTech 
+Media & Publishing 
+ 
+Security and Compliance 
+Integration Partners 
+Use Cases
+Orchestrate Journeys 
+Nurture Leads 
+Drive Engagement 
+Reduce Abandonment 
+Retain Subscribers 
+Grow Your List 
+Connect Your Marketing Stack 
+Easily integrate Blueshift with the tools and systems you already use. 
+View All Integrations
+Customers
+ 
+Case Studies
+Case Studies 
+Blueshift Academy 
+Enablement Sessions 
+Support 
+Product Documentation 
+Product Updates 
+Developer Portal 
+ 
+Agency Partners 
+Resources
+Categories
+Customer Engagement Platform (CEP) 
+Customer Data Platform (CDP) 
+Multi-Channel Marketing 
+Customer Lifecycle Marketing 
+AI-Based Marketing 
+Popular Topics 
+Discover
+Blog 
+Case Studies 
+Datasheets 
+eBooks and Reports 
+Webinars & Events 
+Videos 
+Contact Us 
+ 
+Your Guide to AI-Powered Marketing 
+Cut through the AI hype. Here's how targeting, personalization, and agentic execution actually work in practice. 
+Watch Now
+Pricing
+ 
+Talk to Sales
+Log in
+The AI-Powered Customer Engagement Platform for B2C Marketers
+Designed for cross-channel marketers, Blueshift is the most agile Customer Engagement Platform to efficiently harness customer and content data, and orchestrate intelligent personalization.
+See How it Works
+Request Custom Demo
+Turn Complex Data into Impactful Journeys, Instantly!
+AI Made Accessible for Every Marketer
+Our easy-to-use Agentic AI is built into every step of the journey— so you can deliver moments that matter, grow faster, and ensure customer loyalty.
+Learn About Customer AI Agents
+Unified Profiles for Intelligent Personalization
+Unify behavioral, transactional, and identity data into a single, real-time profile with Blueshift’s built-in Customer Data Platform (CDP). Empower marketers to build audiences without any IT help. 
+Learn About Customer Data Platform (CDP)
+Cross-channel Engagement Without the Chaos
+Email, SMS, push, in-app, and more— fully orchestrated, real-time, and easy to manage from one AI-powered platform.
+Learn About Cross-Channel Marketing
+Strong Technology, Thoughtful Partnership
+Blueshift’s onboarding, support, and success teams don’t just answer tickets. We act as an extension of your team to help you build, launch, and scale faster. And, we stay with you throughout your partnership with us.
+Learn How we Ensure Your Success
+Real Results. Real Marketers.
+See How Brands Use Blueshift to Scale Personalization, Drive Revenue, and Reduce Time to Market
+ Finance
+“Blueshift helped us increase member engagement by 32% with unified, actionable data.” 
+Ben Savage
+Director of Digital Marketing, Ent Credit Union
+ 
+Case Study
+Retail
+“We increased our email revenue by 181% within the first year with AI-driven lifecycle journeys.” 
+Tyler Norris
+Head of Email, Tuft & Needle
+ 
+Case Study
+Healthcare
+“We saved 60+ hours of marketing operations work per month and launched 50+ experiments in a single month.” 
+Alex McKewan
+Manager of Omnichannel Solutions, AMN Healthcare
+ 
+Case Study
+Featured In
+ 
+Deliver the perfect message to every customer, at the right moment.
+Unify your data. Personalize every channel. Scale faster.
+Request a Custom Demo
+See Industry Examples
+Frequently Asked Questions
+ What is Blueshift?
+ 
+Blueshift is an AI-powered Customer Engagement Platform (CEP) built for mid-market B2C companies. It helps marketing teams unify customer data from multiple sources, segment audiences in real time, and automate personalized campaigns across email, SMS, push notifications, paid media, and more — without requiring engineering support for every campaign.
+ What is a Customer Engagement Platform (CEP)?
+ 
+A Customer Engagement Platform is software that helps companies manage and automate how they communicate with customers across multiple channels — email, SMS, push notifications, paid media, and in-app messages — using unified customer data to drive personalization at scale. Unlike a basic email service provider or a standalone CDP, a CEP handles both the data layer and the campaign execution layer in one system.
+ How is Blueshift different from Braze or Iterable?
+ 
+Blueshift combines a built-in Customer Data Platform (CDP) with cross-channel campaign automation and predictive AI in a single platform — whereas Braze and Iterable are primarily messaging tools that require separate CDP infrastructure to match the same capability. For mid-market teams that don't have the budget or resources to stitch together three or four point solutions, Blueshift offers the full stack in one place.
+ Does Blueshift include a Customer Data Platform (CDP)? 
+ 
+Yes. Blueshift has a built-in CDP that collects and unifies behavioral, transactional, and identity data from across your marketing stack into a single real-time customer profile. This means marketers can build audiences, trigger campaigns, and personalize content based on a complete view of each customer — without waiting on a separate data team or a separate CDP tool.
+ What channels does Blueshift support? 
+ 
+Blueshift supports email, SMS and MMS, mobile push notifications, in-app messages, paid media (Google, Facebook, and other ad platforms), website content personalization, and WhatsApp. All channels are managed from a single platform and can be orchestrated together in multi-step customer journeys.
+ What kinds of companies use Blueshift? 
+ 
+Blueshift is built for mid-market B2C and B2B2C companies — typically in retail and ecommerce, media and publishing, financial services, and healthcare — with dedicated marketing operations or CRM functions running high-volume lifecycle marketing programs. Customers include CarParts.com, Udacity, LendingTree, Five Below, and Sweetwater.
+ How does Blueshift use AI? 
+ 
+Blueshift's AI operates at three levels. Predictive AI scores customers for behaviors like likelihood to purchase, churn risk, or email engagement — so campaigns can target the right people at the right time. Generative AI helps marketers draft content, subject lines, and campaign briefs directly within the platform. Agentic AI goes further, autonomously executing multi-step marketing tasks — analyzing performance, suggesting optimizations, and taking action — with the marketer in the loop.
+ Is Blueshift a good fit for ecommerce companies? 
+ 
+Yes — retail and ecommerce is Blueshift's primary growth vertical. The platform is built to handle the high data volumes, fast customer behavior signals, and complex segmentation needs that ecommerce marketing requires. Common use cases include cart abandonment, post-purchase sequences, win-back campaigns, product recommendation engines, and loyalty program messaging.
+ 
+Subscribe to our newsletter for new resources, updates, and more.
+Thank you
+Product
+Customer Engagement Platform (CEP)
+Customer Data Platform
+Customer AI
+AI Agents
+AI Assistants
+AI Predictors
+Cross-Channel Marketing Hub
+Separator
+Take Platform Tour
+Customer Case Studies
+Contact Sales
+Pricing and Plans
+Solutions
+Banks & Credit Unions
+eLearning
+Healthcare
+Media & Publishing
+Financial Services
+Retail & Ecommerce
+Separator
+Security & Compliance
+Pre-built Integrations
+Resources
+FAQs
+Blog
+eBooks and Reports
+Datasheets
+Webinars & Events
+Customer Case Studies
+RFP Guide
+separator
+Blueshift vs Adobe Campaign
+Blueshift vs Braze
+Blueshift vs Iterable
+Blueshift vs Klaviyo
+Blueshift vs Salesforce Marketing Cloud
+Success
+Blueshift Academy
+Product Documentation
+Developer Portal
+Product Updates
+Support
+Separator
+Service & Agency Partners
+Company
+About Blueshift
+Awards
+Careers
+Press
+Trust
+Why Blueshift?
+Contact Us
+ 
+© 2026 COPYRIGHT BLUESHIFT LABS, INC
+Privacy Policy
+Terms of Use 11-28-2023
+Anti-Spam Policy
+Modern Slavery Statement
+All Systems Operational 
+ 
+ 
+BlueConic acquires Blueshift. 
+See what's next for customer growth.
+
+===== product :: https://blueshift.com/agentic-customer-ai/
+--- SIGNALS ---
+title: Customer AI - Agentic, Predictive and Generative AI | Blueshift
+meta_description: Customer AI transforms marketing with agentic, predictive, and generative AI to scale personalized marketing and deliver real-time 1:1 customer engagement.
+og_description: Customer AI transforms marketing with agentic, predictive, and generative AI to scale personalized marketing and deliver real-time 1:1 customer engagement.
+og_site_name: Blueshift
+h1: AI That Takes You From Idea to Campaign Without the Busywork
+h2: Natural Language Campaign Execution in Minutes | Fine-tune Your Engagement Strategy with AI Generated Ideas | Auto-Pilot Your Growth With AI-Generated Experiments | AI that helps you move from question to action in seconds | Built on Blueshift’s Customer Data Platform | Designed for Control, Transparency, and Trust | Transforming Marketing Teams Today | Leading Brands Trust Blueshift for Intelligent Marketing | Ready to transform your marketing workflow? | Frequently Asked Questions
+jsonld_org: [{"@type": "Organization", "@id": "https://blueshift.com/#organization", "name": "Blueshift", "url": "https://blueshift.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://blueshift.com/#/schema/logo/image/", "url": "https://cdn.shortpixel.ai/spai/q_lossless+ret_img+to_auto/blueshift.com/wp-content/uploads/2026/05/500x500-Blueshift-logo.png", "contentUrl": "https://cdn.shortpixel.ai/spai/q_lossless+ret_img+to_auto/blueshift.com/wp-content/uploads/2026/05/500x500-Blueshift-logo.png", "width": 500, "height": 500, "caption": "Blueshift"}, "image": {"@id": "https://blueshift.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/blueshiftlabs/", "https://x.com/blueshiftlabs", "https://www.linkedin.com/company/blueshift-labs-inc/"]}, {"@context": "https://schema.org", "@type": "Organization", "address": {"@type": "PostalAddress", "streetAddress": "433 California St, Suite 600", "addressLocality": "San Francisco", "addressRegion": "CA", "postalCode": "94104"}, "name": "Blueshift Labs, Inc.", "brand": "Blueshift", "image": "https://cdn.shortpixel.ai/spai/q_lossless+ret_img+to_auto/blueshift.com/ms-icon-310x310.png", "email": "privacy@blueshift.com", "url": "https://blueshift.com"}]
+--- TEXT ---
+Customer AI - Agentic, Predictive and Generative AI | Blueshift
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+Why Blueshift? 
+Intelligent Customer Engagement. Powered by Smart Data. 
+Customer Engagement Platform (CEP) 
+Customer Engagement Platform Overview 
+Customer Engagement Platform
+Customer Data Platform 
+Unify and activate your customer data 
+Customer AI 
+Agentic, Generative and Predictive AI 
+Cross-Channel Marketing 
+Automate your marketing messages 
+Top Features
+Campaign Journeys 
+Audience Segmentation 
+Profile Unification 
+Audience Insights 
+Powered By Customer AI
+ 
+AI Agents 
+AI Assistants 
+AI Predictors 
+Channels
+Email 
+SMS / MMS 
+Push Notifications 
+In-App Messages 
+Paid Media 
+Website Content 
+WhatsApp 
+Cloud Apps 
+Solutions
+Industries
+Retail & E-Commerce 
+Financial Services 
+Healthcare 
+Banks & Credit Union 
+EdTech 
+Media & Publishing 
+ 
+Security and Compliance 
+Integration Partners 
+Use Cases
+Orchestrate Journeys 
+Nurture Leads 
+Drive Engagement 
+Reduce Abandonment 
+Retain Subscribers 
+Grow Your List 
+Connect Your Marketing Stack 
+Easily integrate Blueshift with the tools and systems you already use. 
+View All Integrations
+Customers
+ 
+Case Studies
+Case Studies 
+Blueshift Academy 
+Enablement Sessions 
+Support 
+Product Documentation 
+Product Updates 
+Developer Portal 
+ 
+Agency Partners 
+Resources
+Categories
+Customer Engagement Platform (CEP) 
+Customer Data Platform (CDP) 
+Multi-Channel Marketing 
+Customer Lifecycle Marketing 
+AI-Based Marketing 
+Popular Topics 
+Discover
+Blog 
+Case Studies 
+Datasheets 
+eBooks and Reports 
+Webinars & Events 
+Videos 
+Contact Us 
+ 
+Your Guide to AI-Powered Marketing 
+Cut through the AI hype. Here's how targeting, personalization, and agentic execution actually work in practice. 
+Watch Now
+Pricing
+ 
+Talk to Sales
+Log in
+Smarter Marketing Starts Here
+AI That Takes You From Idea to Campaign Without the Busywork
+Blueshift’s Customer AI helps you strategize, execute and grow! A unified system that connects insight, creation, and activation.
+Natural Language Campaign Execution in Minutes
+Go from prompt to production in minutes! Blueshift’s AI accelerates production while keeping marketers firmly in control of every decision, refinement, and approval. Use AI to build everything you need: 
+Multi-step journeys and campaign flows
+Audience definitions and segmentation logic
+Creative variations and message drafts
+Follow-up actions and test plans
+ 
+Fine-tune Your Engagement Strategy with AI Generated Ideas
+Blueshift continuously analyzes unified customer profiles, behaviors, and predictions to surface the highest impact opportunities for segmentation, personalization and targeting.
+New ideas for audiences, journeys, and optimizations
+Clear reasoning and predicted outcomes for each idea
+Recommendations grounded in unified customer data and precomputed predictions
+Continuous monitoring that keeps opportunities fresh and relevant
+It’s like having an always-on strategist who brings marketers ideas they would not have time to find on their own.
+Auto-Pilot Your Growth With AI-Generated Experiments
+Boost campaign performance with automated 
+AI-Generated experiments
+! Blueshift’s AI suggests a/b tests with dynamic personalization that increase your open, click and conversion rates. Marketers simply need to approve the test, and leave AI to do the rest.
+Personalize at scale
+ – Dynamically tailor email subject lines, or SMS copy using customer, transaction, and catalog data.
+Test & optimize in real-time
+ – Launch A/B tests, track key metrics, and adjust on the fly to maximize engagement.
+Measure impact instantly
+ – Get real-time insights on performance, customize tests, and fine-tune for better results.
+Enhance open rates and drive more conversions—
+brighter subject lines start here!
+AI that helps you move from question to action in seconds
+ 
+ 
+ 
+Uncover hidden opportunities
+Surface insights from customer behavior, trends, and predictions that would be hard to find manually.
+ 
+Build campaigns in minutes
+Describe your goal in natural language and generate audiences, journeys, and content instantly.
+ 
+Explore data with natural language
+Run funnel reviews, metric trends, and schema checks without dashboards or SQL.
+ 
+Optimize continuously
+Get real-time recommendations to refine targeting, creatives, and performance as results evolve.
+ 
+Adaptive, real-time
+Built on Blueshift’s Customer Data Platform
+The difference starts with data. Compass and Launchpad are powered by Blueshift’s Customer Data Platform, which provides the clean, comprehensive, and predictive data foundation required for accurate insights and effective personalization.
+Why this matters
+Ideas are based on real customer behavior
+Predictions improve prioritization and outcomes
+Drafts created by Launchpad reflect the full context of the customer
+Optimization is ongoing and data driven
+Blueshift’s deep data grounding makes its AI agents uniquely actionable.
+Maintain Full Control
+Designed for Control, Transparency, and Trust
+AI adoption must be safe and accountable. Blueshift’s agents are built with full transparency and human approval at every step.
+Control you can trust
+Clear reasoning behind every idea
+Predicted impact included with each recommendation
+Full editability of every audience, creative, and workflow
+Smart alerts and monitoring for live campaigns
+Complete audit trails
+Marketers stay in charge while AI handles the heavy lifting.
+Scale Marketing Impact
+Transforming Marketing Teams Today
+Compass and Launchpad enable teams to scale their marketing impact without increasing operational burden.
+Teams gain
+Faster campaign development
+More personalized and relevant targeting
+Higher experimentation volume
+More consistent optimization and growth
+Freedom to explore more ideas without additional resources
+Marketing teams no longer settle for broad audiences or limited personalization.
+Leading Brands Trust Blueshift for Intelligent Marketing
+ 
+Ready to transform your marketing workflow?
+Discover how Blueshift’s Customer Engagement Platform (CEP) unifies your data and campaigns for seamless personalization, and harnesses the power of Customer AI to uncover insights and automate actions that drive real business results.
+Explore Blueshift CEP
+Learn more about Customer AI
+Frequently Asked Questions
+ How do Compass and Launchpad work as Super Agents behind the scenes?
+ 
+They coordinate multiple specialized agents for analysis, content generation, audience building, and testing, all surfaced through a single conversational interface.
+ Do these Super Agents automatically launch campaigns or make changes in my account?
+ 
+No. They only create drafts. Nothing is activated or changed without human approval.
+ What data do Compass and Launchpad use, and is any customer data shared externally?
+ 
+They use only the data and schema already in your Blueshift instance. No customer data is shared externally or mixed with any other client data.
+ Which AI models power Compass and Launchpad Super Agents? 
+ 
+Compass and Launchpad use a mix of frontier models from OpenAI, Anthropic and Google Gemini. Your data is never used for training and is explicitly opted out.
+ Can I interact with Compass and Launchpad conversationally to refine ideas or campaign drafts?
+ 
+Yes. Both support natural language interaction for exploring insights or adjusting campaigns.
+ How do these agents fit into existing workflows for campaign creation and planning?
+ 
+They slot into current processes, speeding up analysis and execution while keeping all approvals and controls the same.
+ Can Launchpad update existing journeys or campaigns?
+ 
+Yes. You can ask it to improve or refresh an existing journey, and it will generate updated drafts for review.
+ Do I need to configure anything before using Compass or Launchpad?
+ 
+No. They run on your existing data, predictions, and assets without separate setup.
+ How do Compass insights differ from what Customer AI already provides?
+ 
+Customer AI predicts behaviors. Compass interprets those predictions to reveal opportunities, gaps, and new audiences.
+ 
+Subscribe to our newsletter for new resources, updates, and more.
+Thank you
+Product
+Customer Engagement Platform (CEP)
+Customer Data Platform
+Customer AI
+AI Agents
+AI Assistants
+AI Predictors
+Cross-Channel Marketing Hub
+Separator
+Take Platform Tour
+Customer Case Studies
+Contact Sales
+Pricing and Plans
+Solutions
+Banks & Credit Unions
+eLearning
+Healthcare
+Media & Publishing
+Financial Services
+Retail & Ecommerce
+Separator
+Security & Compliance
+Pre-built Integrations
+Resources
+FAQs
+Blog
+eBooks and Reports
+Datasheets
+Webinars & Events
+Customer Case Studies
+RFP Guide
+separator
+Blueshift vs Adobe Campaign
+Blueshift vs Braze
+Blueshift vs Iterable
+Blueshift vs Klaviyo
+Blueshift vs Salesforce Marketing Cloud
+Success
+Blueshift Academy
+Product Documentation
+Developer Portal
+Product Updates
+Support
+Separator
+Service & Agency Partners
+Company
+About Blueshift
+Awards
+Careers
+Press
+Trust
+Why Blueshift?
+Contact Us
+ 
+© 2026 COPYRIGHT BLUESHIFT LABS, INC
+Privacy Policy
+Terms of Use 11-28-2023
+Anti-Spam Policy
+Modern Slavery Statement
+All Systems Operational 
+ 
+ 
+BlueConic acquires Blueshift. 
+See what's next for customer growth.
+
+===== pricing_or_trust :: https://blueshift.com/security/
+--- SIGNALS ---
+title: Blueshift Security & Compliance | Enterprise Data Protection
+meta_description: Blueshift is SOC 2 Type 2 certified and ready for GDPR, CCPA, and HIPAA. Keep customer data safe with enterprise-grade security and AI guardrails.
+og_description: Blueshift is SOC 2 Type 2 certified and ready for GDPR, CCPA, and HIPAA. Keep customer data safe with enterprise-grade security and AI guardrails.
+og_site_name: Blueshift
+h1: SOC 2 Type 2 Security for Customer Data and AI-Powered Engagement
+h2: Security Built Into the Platform | How Blueshift Protects Customer Data | AI Security and Privacy Controls | Frequently Asked Questions | See Blueshift in Action
+jsonld_org: [{"@type": "Organization", "@id": "https://blueshift.com/#organization", "name": "Blueshift", "url": "https://blueshift.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://blueshift.com/#/schema/logo/image/", "url": "https://cdn.shortpixel.ai/spai/q_lossless+ret_img+to_auto/blueshift.com/wp-content/uploads/2026/05/500x500-Blueshift-logo.png", "contentUrl": "https://cdn.shortpixel.ai/spai/q_lossless+ret_img+to_auto/blueshift.com/wp-content/uploads/2026/05/500x500-Blueshift-logo.png", "width": 500, "height": 500, "caption": "Blueshift"}, "image": {"@id": "https://blueshift.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/blueshiftlabs/", "https://x.com/blueshiftlabs", "https://www.linkedin.com/company/blueshift-labs-inc/"]}, {"@context": "https://schema.org", "@type": "Organization", "address": {"@type": "PostalAddress", "streetAddress": "433 California St, Suite 600", "addressLocality": "San Francisco", "addressRegion": "CA", "postalCode": "94104"}, "name": "Blueshift Labs, Inc.", "brand": "Blueshift", "image": "https://cdn.shortpixel.ai/spai/q_lossless+ret_img+to_auto/blueshift.com/ms-icon-310x310.png", "email": "privacy@blueshift.com", "url": "https://blueshift.com"}]
+--- TEXT ---
+Blueshift Security & Compliance | Enterprise Data Protection
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+Why Blueshift? 
+Intelligent Customer Engagement. Powered by Smart Data. 
+Customer Engagement Platform (CEP) 
+Customer Engagement Platform Overview 
+Customer Engagement Platform
+Customer Data Platform 
+Unify and activate your customer data 
+Customer AI 
+Agentic, Generative and Predictive AI 
+Cross-Channel Marketing 
+Automate your marketing messages 
+Top Features
+Campaign Journeys 
+Audience Segmentation 
+Profile Unification 
+Audience Insights 
+Powered By Customer AI
+ 
+AI Agents 
+AI Assistants 
+AI Predictors 
+Channels
+Email 
+SMS / MMS 
+Push Notifications 
+In-App Messages 
+Paid Media 
+Website Content 
+WhatsApp 
+Cloud Apps 
+Solutions
+Industries
+Retail & E-Commerce 
+Financial Services 
+Healthcare 
+Banks & Credit Union 
+EdTech 
+Media & Publishing 
+ 
+Security and Compliance 
+Integration Partners 
+Use Cases
+Orchestrate Journeys 
+Nurture Leads 
+Drive Engagement 
+Reduce Abandonment 
+Retain Subscribers 
+Grow Your List 
+Connect Your Marketing Stack 
+Easily integrate Blueshift with the tools and systems you already use. 
+View All Integrations
+Customers
+ 
+Case Studies
+Case Studies 
+Blueshift Academy 
+Enablement Sessions 
+Support 
+Product Documentation 
+Product Updates 
+Developer Portal 
+ 
+Agency Partners 
+Resources
+Categories
+Customer Engagement Platform (CEP) 
+Customer Data Platform (CDP) 
+Multi-Channel Marketing 
+Customer Lifecycle Marketing 
+AI-Based Marketing 
+Popular Topics 
+Discover
+Blog 
+Case Studies 
+Datasheets 
+eBooks and Reports 
+Webinars & Events 
+Videos 
+Contact Us 
+ 
+Your Guide to AI-Powered Marketing 
+Cut through the AI hype. Here's how targeting, personalization, and agentic execution actually work in practice. 
+Watch Now
+Pricing
+ 
+Talk to Sales
+Log in
+Security and Compliance
+SOC 2 Type 2 Security for Customer Data and AI-Powered Engagement
+Blueshift helps enterprises protect customer data with independently audited controls, strong encryption, granular access management, secure cloud infrastructure, and built-in privacy and AI safeguards.
+Visit Trust Center
+View Documentation
+ 
+Security Built Into the Platform
+Security-by-Design Approach
+Built to help protect customer data across access, infrastructure, privacy, and AI-powered workflows.
+Enterprise-Grade Controls
+Includes safeguards for authentication, encryption, monitoring, and compliance support.
+Confident Risk Evaluation
+Designed to help enterprise teams assess risk with confidence.
+How Blueshift Protects Customer Data
+ 
+ 
+ 
+ 
+Identity and Access
+Role-based and custom access controls help ensure users only have the permissions they need. Blueshift supports SAML-based single sign-on, multi-factor authentication, and audit logging for key user activity.
+ 
+ 
+Data Protection
+Customer data is encrypted at rest using AES-256 and protected in transit with TLS 1.2+. Secure key management and privacy workflows help support stronger data protection across the platform.
+ 
+ 
+Infrastructure and Operations
+Blueshift is hosted on secure AWS infrastructure with isolated environments, layered network protections, backup and recovery processes, and ongoing security testing and vulnerability management.
+ 
+AI Security and Privacy Controls
+AI Safety and Validation
+Validation and safety controls help teams use AI-powered workflows more responsibly.
+Content and Relevance Checks
+Content safety checks and relevance validation help improve output quality and brand alignment.
+Privacy and Governance Support
+Privacy workflows support access, deletion, consent, and regional data requirements.
+Frequently Asked Questions
+ Do you have a SOC 2 Type 2 report?
+ 
+Yes. Blueshift undergoes SOC 2 Type 2 audits, and security documentation is available as part of the review process.
+ How is customer data protected?
+ 
+Blueshift encrypts data at rest using AES-256 and protects data in transit with TLS 1.2+.
+ Do you support SSO and MFA?
+ 
+Yes. Blueshift supports SAML-based SSO and multi-factor authentication.
+ What if a customer asks to be deleted?
+ 
+We have automated workflows that permanently delete customer profiles and their data from our system and backups.
+ Is the Generative AI actually safe?
+ 
+Yes. We validate inputs and outputs, screen for sensitive content, and cross-check multiple models for accuracy.
+ Do you check your own code for holes?
+ 
+Constantly. We scan code during development and hire third-party experts for annual penetration tests.
+ Where is the data hosted?
+ 
+We use AWS. Your data lives in an isolated Virtual Private Cloud (VPC). We have global region options if you need them.
+ What happens if there is a disaster?
+ 
+We keep data backups in multiple geographic locations and test our recovery process periodically.
+ Can Blueshift support privacy and regulated use cases?
+ 
+Blueshift provides capabilities that support GDPR, CCPA, HIPAA-ready deployments, and customer data rights workflows.
+Intelligent Customer Engagement
+See Blueshift in Action
+Watch a short demo video or talk to a Blueshift expert to explore how Blueshift effortlessly connects and protects your data, driving customer-centric campaigns that deliver value.
+Talk to Sales
+Watch a 4-Min Overview
+ 
+Subscribe to our newsletter for new resources, updates, and more.
+Thank you
+Product
+Customer Engagement Platform (CEP)
+Customer Data Platform
+Customer AI
+AI Agents
+AI Assistants
+AI Predictors
+Cross-Channel Marketing Hub
+Separator
+Take Platform Tour
+Customer Case Studies
+Contact Sales
+Pricing and Plans
+Solutions
+Banks & Credit Unions
+eLearning
+Healthcare
+Media & Publishing
+Financial Services
+Retail & Ecommerce
+Separator
+Security & Compliance
+Pre-built Integrations
+Resources
+FAQs
+Blog
+eBooks and Reports
+Datasheets
+Webinars & Events
+Customer Case Studies
+RFP Guide
+separator
+Blueshift vs Adobe Campaign
+Blueshift vs Braze
+Blueshift vs Iterable
+Blueshift vs Klaviyo
+Blueshift vs Salesforce Marketing Cloud
+Success
+Blueshift Academy
+Product Documentation
+Developer Portal
+Product Updates
+Support
+Separator
+Service & Agency Partners
+Company
+About Blueshift
+Awards
+Careers
+Press
+Trust
+Why Blueshift?
+Contact Us
+ 
+© 2026 COPYRIGHT BLUESHIFT LABS, INC
+Privacy Policy
+Terms of Use 11-28-2023
+Anti-Spam Policy
+Modern Slavery Statement
+All Systems Operational 
+ 
+ 
+BlueConic acquires Blueshift. 
+See what's next for customer growth.

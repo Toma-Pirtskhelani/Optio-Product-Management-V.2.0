@@ -1,0 +1,596 @@
+===== llms.txt :: https://www.sitecore.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Sitecore
+Sitecore is a global leader in AI-enabled digital experience software. Its next-generation platform, **[SitecoreAI](https://www.sitecore.com/platform)**, helps brands plan, create, personalize, and deliver content across every channel — websites, apps, social, and beyond.
+By unifying content management, customer data, and personalization into one intelligent system, it makes marketing faster, smarter, and more connected. At its core are agentic tools and studios that let marketers and developers collaborate with AI responsibly and effectively.
+Trusted by thousands of global brands and supported by one of the world's largest digital experience communities, Sitecore helps organizations design experiences for the world beyond the website, with the flexibility of customizable SaaS and the scale of a global ecosystem. 
+**[Explore SitecoreAI](https://www.sitecore.com/platform)**
+---
+*Sitecore is a registered trademark of Sitecore Corporation A/S in the USA and other countries. All other brand names, product names, or trademarks belong to their respective holders.*
+## Core Capabilities
+- **[Content Management System](https://www.sitecore.com/platform/content-management-system)**: Create, manage, and deliver content across channels with a flexible, composable CMS.
+- **[Digital Asset Management](https://www.sitecore.com/platform/digital-asset-management)**: Centralize, manage, and distribute digital assets to ensure brand consistency and speed.
+- **[Content Operations](https://www.sitecore.com/platform/content-operations)**: Plan, create, and optimize content at scale with workflows, collaboration, and governance.
+- **[Audiences and Intelligence](https://www.sitecore.com/platform/audiences-and-intelligence)**: Unify customer data and insights to understand audiences and drive relevant experiences.
+- **[Conversion Optimization](https://www.sitecore.com/platform/conversion-optimization)**: Test, personalize, and optimize digital experiences to increase engagement and conversions.
+- **[Commerce](https://www.sitecore.com/platform/commerce)**: Build connected, composable commerce experiences across B2B and B2C scenarios.
+## Additional Products
+- **[Sitecore Experience Platform (XP)](https://www.sitecore.com/products/experience-platform)**: An integrated digital experience platform combining content, data, personalization, and analytics.
+## Resources
+- **[Developers](https://developers.sitecore.com)**: APIs, SDKs, and developer resources for building with Sitecore.
+- **[Documentation](https://doc.sitecore.com)**: Product documentation and guidance for Sitecore platforms.
+- **[Sitecore Learning](https://learning.sitecore.com/learn)**: Training, courses, and certifications for Sitecore products and capabilities.
+
+===== homepage :: https://www.sitecore.com/
+--- SIGNALS ---
+title: AI-powered digital experiences that convert | Sitecore
+meta_description: Connect content, data, and personalization in one AI-powered platform. Stay visible where decisions happen and drive measurable business impact.
+og_description: Connect content, data, and personalization in one AI-powered platform. Stay visible where decisions happen and drive measurable business impact.
+og_site_name: 
+h1: Show up and stand out in AI search
+h2: The endless possibilities of SitecoreAI | Be the answer your customer trusts | See how brands are winning with SitecoreAI | How leading analysts rate Sitecore solutions | Explore Sitecore events and webinars | Bring AI-powered marketing to life | Stand out in AI search | Explore use cases | XP 10.5 and beyond | Expert guides and reports | Sitecore Symposium 2026 | Platform | Solutions | Resources | Services | Company
+jsonld_org: [{"@type": "Organization", "@id": "https://www.sitecore.com/#organization", "name": "Sitecore", "url": "https://www.sitecore.com/", "description": "Sitecore is a global provider of AI-powered digital experience software that connects content, customer data, personalization, optimization, and marketing workflows.", "foundingDate": "2001", "areaServed": "Worldwide", "logo": {"@id": "https://www.sitecore.com/#logo"}, "brand": {"@id": "https://www.sitecore.com/#brand"}, "address": [{"@type": "PostalAddress", "name": "Sitecore US Headquarters", "streetAddress": "1 Northeastern Blvd., Suite 300", "addressLocality": "Salem", "addressRegion": "NH", "postalCode": "03079", "addressCountry": "US"}], "sameAs": ["https://www.linkedin.com/company/sitecore", "https://x.com/Sitecore", "https://www.youtube.com/@DiscoverSitecore", "https://en.wikipedia.org/wiki/Sitecore"], "contactPoint": [{"@type": "ContactPoint", "contactType": "sales", "url": "https://www.sitecore.com/company/contact-us", "areaServed": "Worldwide"}, {"@type": "ContactPoint", "contactType": "customer support", "url": "https://support.sitecore.com/", "areaServed": "Worldwide"}]}]
+--- TEXT ---
+AI-powered digital experiences that convert | Sitecore
+ 
+ 
+ 
+Because knowing "AI discovery matters" is not a strategy.
+Sitecore acquires Scrunch
+Because knowing "AI discovery matters" is not a strategy.
+Sitecore acquires Scrunch
+Skip to main content
+Request a demo
+Platform
+Solutions
+Partners
+Resources
+Company
+Search
+EN
+Our sites
+Request a demo
+Show up and stand out in 
+AI search
+It starts with Scrunch
+The endless possibilities of SitecoreAI
+Explore the full power of SitecoreAI, from content creation and asset management to intelligence, experimentation, and agentic automation.
+Agentic studio
+Audience and insights
+CMS
+Content operations
+Conversion optimization
+DAM
+Extensibility
+ 
+ 
+AI that works with you
+Work alongside purpose-built AI agents that handle repetitive tasks, enrich data, generate content, and accelerate campaigns without sacrificing control or brand standards.
+Activate agentic AI
+Be the answer your customer trusts
+SitecoreAI is the intelligent foundation for modern marketing, bringing insight, creativity, and AI together to drive lasting customer value.
+ 
+Be unforgettable
+Show up wherever customers decide
+Discovery no longer starts on your website. It happens in AI answers, search results, feeds, and recommendations. SitecoreAI structures your content so your brand appears clearly wherever decisions form.
+Unrivalled community
+A thriving network of innovators
+Combine your vision with our thriving community of partners and experts. Extend your capabilities and unlock new opportunities through shared expertise.
+Drive growth
+Turn connection into conversion
+Relevance drives growth. SitecoreAI connects content, data, and personalization so every signal, from high-value accounts to individual journeys, becomes a chance to act with precision.
+One platform
+Run marketing in one intelligent system
+Managing campaigns across disconnected tools, manual workflows, and scattered data slows execution and blurs accountability. SitecoreAI unifies planning, creation, orchestration, and activation in one system.
+Scalable impact
+Create, manage, and scale content
+Content fuels every moment of decision. Sitecore unifies creation, publishing, personalization, and performance in one AI-powered system so your team keeps content consistent and ready to perform.
+Enterprise-grade security
+Operate with enterprise confidence
+SitecoreAI includes human-in-the-loop controls, global compliance standards, and enterprise-grade security. Move quickly while maintaining governance, visibility, and trust.
+ 
+Discover SitecoreAI™
+Customer stories
+See how brands are winning with SitecoreAI
+Hear directly from organizations using Sitecore to modernize their digital experience, simplify complexity, and deliver measurable results.
+How ENMAX transformed their digital experience
+ 
+Shriners Children’s modernized care through DX
+ 
+How GoTo Technologies modernized its digital experience
+ 
+The backbone of AFL's martech stack
+ 
+Powering Atkore's digital growth
+ 
+Hexagon’s digital transformation
+ 
+Transforming the Travel Money experience
+ 
+Modernizing BOK Financial's digital experience
+ 
+See all customers
+How ENMAX transformed their digital experience
+Shriners Children’s modernized care through DX
+How GoTo Technologies modernized its digital experience
+The backbone of AFL's martech stack
+Powering Atkore's digital growth
+Hexagon’s digital transformation
+Transforming the Travel Money experience
+Modernizing BOK Financial's digital experience
+See all customers
+Analyst recognition
+How leading analysts rate Sitecore solutions
+Analyst firms Forrester, Gartner, and IDC consistently rank us highly in vendor assessments.
+See all Analyst Reports
+Events & webinars
+Explore Sitecore events and webinars
+Join upcoming events and webinars or watch sessions on demand with Sitecore experts.
+ 
+ 
+View events and webinars
+Ready to see it in action?
+Bring AI-powered marketing to life
+Discover how SitecoreAI helps marketing teams personalize every experience and turn insight into measurable growth.
+Request a demo
+Contact us
+ 
+Stand out in AI search
+The Agent Experience Platform from Scrunch, a Sitecore company, helps brands optimize for humans and AI search.
+Explore AI search
+Explore use cases
+See what’s possible
+XP 10.5 and beyond
+Join the webinar
+Expert guides and reports
+Browse the library
+Sitecore Symposium 2026
+Join us in Orlando
+Platform
+Platform overview
+Content Management System
+Digital Asset Management
+Content operations
+Conversion optimization
+Audience and insights
+Commerce
+Experience Manager (XM)
+Experience Platform (XP)
+Connect
+Send
+Solutions
+Product strategy
+Modernize your DX
+Manage global content
+Deliver limitless commerce
+Optimize with data
+All Customer Stories
+All Experience Awards
+All Analyst Reports
+Sitecore Symposium
+Resources
+Thought leadership
+Use case library
+NEW
+Resource Hub
+Insights
+Events & Webinars
+Trust Center
+Support
+Services
+Managed Cloud
+Sitecore Services
+Sitecore360
+Sitecore Learning
+AI Innovation Lab
+Company
+About Us
+Contact us
+Newsroom
+Careers
+© Copyright 2026, Sitecore A/S or a Sitecore affiliated company. All rights reserved.
+Cookie settings
+Legal Hub
+Privacy
+Your privacy choices
+webmaster@sitecore.net
+
+===== product :: https://www.sitecore.com/platform
+--- SIGNALS ---
+title: SitecoreAI: Unified platform for modern marketing | Sitecore
+meta_description: SitecoreAI unifies content, data, personalization, and AI in one platform, so teams can move faster, scale smarter, and deliver connected experiences with confidence.
+og_description: SitecoreAI unifies content, data, personalization, and AI in one platform, so teams can move faster, scale smarter, and deliver connected experiences with confidence.
+og_site_name: 
+h1: Simplicity. Freedom. Speed. Power.
+h2: AI that works the way your team does | The platform built around your team.Every capability working together. | Customize SitecoreAI your way with Studio | Built by you. Powered by Sitecore. | United Airlines delivers personalized travel experiences with Sitecore | VELUX transforms digital customer engagement with Sitecore | WellSpan optimizes online user experiences with Sitecore | Norwegian bank drives up productivity by 80% with Sitecore | Foodstuffs boosts digital agility and efficiency | Analyst recognition | Frequently asked questions | Ready to move at the speed of your ambition? | Stand out in AI search | Explore use cases | XP 10.5 and beyond | Expert guides and reports | Sitecore Symposium 2026 | Platform | Solutions | Resources | Services | Company
+jsonld_org: []
+--- TEXT ---
+SitecoreAI: Unified platform for modern marketing | Sitecore
+ 
+ 
+ 
+Because knowing "AI discovery matters" is not a strategy.
+Sitecore acquires Scrunch
+Because knowing "AI discovery matters" is not a strategy.
+Sitecore acquires Scrunch
+Skip to main content
+Request a demo
+Platform
+Solutions
+Partners
+Resources
+Company
+Search
+EN
+Our sites
+Request a demo
+Simplicity.
+ Freedom. 
+Speed.
+ Power.
+SitecoreAI™ connects content, data, and personalization in one enterprise-grade, AI-powered platform. With artificial intelligence already included, your team can move fast and deliver the customer engagement and personalized experiences that set your brand apart.
+Request a demo
+AI that works the way your team does
+From day one, AI agents draft, tag, translate, and activate content inside your workflows. You approve and publish. Brand and security guardrails are yours to set. Open by design, ready to extend.
+ 
+Always Included
+AI in every workflow, from day one.
+20+ pre-built AI agents draft, tag, translate, and activate content without your team switching AI tools or losing context.
+Built to Extend
+Your processes. Your tools. Your way.
+Open by design. Bring your own tools via API, build your own AI agents, ship your own apps, extend your ecosystem on Sitecore’s platform. That’s what Studio is for.
+Enterprise-Ready
+You set guardrails. Agents follow.
+Role-based permissions, approval gates, and full audit logs keep your brand consistent and your team in control. Backed by enterprise-grade security and our partnership with Microsoft.
+Marketer Directed
+Agents prepare. You make the call.
+Agents draft, tag, and prepare. You approve, refine, and publish. The output remains always on-brand.
+ 
+The platform built around your team.
+Every capability working together.
+Discover one connected, AI-driven DXP where content, data, and personalization work together from day one. Automate and streamline the work that slows your team down. Start where it matters most across the customer journey touchpoints and specific use cases, and expand as your priorities grow, without switching tools or adding complexity. Because everything is part of SitecoreAI, it all works together to deliver speed, scale, and impact.
+SitecoreAI capabilities
+Content Management System
+Create
+Digital Asset Management
+Organize
+Content Operations
+Orchestrate
+Audience and Insights
+Listen
+Conversion Optimization
+Respond
+ 
+Conversion Optimization
+Respond
+Content Management System
+Create
+Digital Asset Management
+Organize
+ 
+Content Management System
+Content that moves at the speed of marketing
+ 
+1
+/
+5
+ 
+Create, manage, and publish digital experiences faster with a CMS designed for high-volume, multi-brand, multi-region, and omnichannel delivery. As part of SitecoreAI, CMS connects directly to DAM, Audience Insight, and Content Optimization, making every experience easier to tailor, test, and update.
+Visual authoring and fast publishing built for fast‑moving teams
+Scalable delivery across brands, regions, and channels, including highly regulated industries like healthcare
+Built-in connection to personalization and testing across the platform
+Master the CMS
+AI stands for Already Included
+Agents draft, tag, and translate in real-time.
+Digital Asset Management
+On-brand assets, ready for every experience.
+Manage every asset in one secure, searchable hub so teams can find approved content fast and activate it with confidence. Inside SitecoreAI, DAM connects the asset lifecycle to campaigns, content, and delivery to speed activation and reduce approval friction.
+Centralized asset library with AI-powered search and tagging
+Rights, approvals, and governance built into the workflow
+Direct activation across content, campaigns, and channels
+Dive into DAM
+AI stands for Already Included
+Search, auto-tagging, and metadata enrichment built in.
+Content Operations
+Bring clarity and control to every workflow
+Plan, brief, coordinate, and move work forward in one governed workspace. As part of SitecoreAI, Content Operations connects planning to assets, content creation, approvals, and performance so marketing can execute with more clarity and less friction.
+Connected briefs, workflows, and approvals in one place
+Strong alignment across teams, timelines, and production
+Shared context for content, assets, and execution across the platform
+Fuel your content
+AI stands for Already Included
+Agents draft briefs, route approvals, and chase the work forward.
+Audience and Insights
+Turn real-time signals into actionable insights and smarter action
+Unified profiles, behavior, and intent come together in one dashboard view. Within SitecoreAI, Audience and Insights connect profiles, behavior, and intent to the content and experiences teams deliver.
+Unified profiles that bring customer context into one view
+Real-time signals for smarter segmentation and targeting
+Governance and privacy controls built into activation
+Transform with AI
+AI stands for Already Included
+Real-time signals turned into insightful segments.
+Conversion Optimization
+Make every user experience work harder
+Run personalization, testing, and search together inside one platform. Conversion Optimization helps teams act on insight faster and refine experiences in real time.
+Real-time personalization based on audience and context
+Testing, A/B tests, and experimentation to improve results, retention, and key metrics over time
+Search and recommendations that help customers find what matters
+Power up your personalization
+AI stands for Already Included
+AI-powered variant testing that uses machine learning to run experiments and learn what works.
+ 
+1
+/
+5
+ 
+Customize SitecoreAI your way with Studio
+Extend SitecoreAI into your ecosystem. Automate workflows, build apps, and connect every tool that powers your customer experience.
+Agentic Studio
+App Studio
+Marketplace
+Connect
+Agentic Studio
+Automate work with custom generative AI, LLMs, and gen AI agents.
+Use pre-built agents and templates or create your own with a visual builder. From content creation to workflow execution, move faster with control.
+What makes it possible:
+ 
+ 
+No token limits.
+ 
+ 
+ 
+Visual, no-code agent builder.
+ 
+ 
+ 
+Agents grounded in your brand context and guardrails.
+ 
+ 
+ 
+Clear reasoning and review at every step of the decision-making process.
+ 
+App Studio
+Turn ideas into working apps.
+Build what your business needs, keep it private, or publish it to the Marketplace.
+What makes it possible:
+ 
+ 
+A partner ecosystem ready to build with you.
+ 
+ 
+ 
+APIs and MCPs for AI-powered, agent-driven apps.
+ 
+ 
+ 
+A direct path to publish to Marketplace.
+ 
+Marketplace
+Extend SitecoreAI in one click.
+Apps built by Sitecore, certified partners, and the community. Find what you need, install in one click, and start using it right away.
+What makes it possible:
+ 
+ 
+Curated by Sitecore.
+ 
+ 
+ 
+Built by partners and the community.
+ 
+ 
+ 
+One-click install, governed by your admins.
+ 
+Connect
+Bring your tools together.
+Connect CRM, analytics, and the rest of your stack to SitecoreAI so customer data and workflows stay in sync.
+What makes it possible:
+ 
+ 
+Pre-built connectors for the tools you already use.
+ 
+ 
+ 
+Two-way sync for data and workflows.
+ 
+ 
+ 
+Govern access at the connection level.
+ 
+ 
+Connect
+Agentic Studio
+App Studio
+ 
+Agentic Studio
+App Studio
+Marketplace
+Connect
+Agentic Studio
+Automate work with custom generative AI, LLMs, and gen AI agents.
+Use pre-built agents and templates or create your own with a visual builder. From content creation to workflow execution, move faster with control.
+What makes it possible:
+ 
+ 
+No token limits.
+ 
+ 
+ 
+Visual, no-code agent builder.
+ 
+ 
+ 
+Agents grounded in your brand context and guardrails.
+ 
+ 
+ 
+Clear reasoning and review at every step of the decision-making process.
+ 
+App Studio
+Turn ideas into working apps.
+Build what your business needs, keep it private, or publish it to the Marketplace.
+What makes it possible:
+ 
+ 
+A partner ecosystem ready to build with you.
+ 
+ 
+ 
+APIs and MCPs for AI-powered, agent-driven apps.
+ 
+ 
+ 
+A direct path to publish to Marketplace.
+ 
+Marketplace
+Extend SitecoreAI in one click.
+Apps built by Sitecore, certified partners, and the community. Find what you need, install in one click, and start using it right away.
+What makes it possible:
+ 
+ 
+Curated by Sitecore.
+ 
+ 
+ 
+Built by partners and the community.
+ 
+ 
+ 
+One-click install, governed by your admins.
+ 
+Connect
+Bring your tools together.
+Connect CRM, analytics, and the rest of your stack to SitecoreAI so customer data and workflows stay in sync.
+What makes it possible:
+ 
+ 
+Pre-built connectors for the tools you already use.
+ 
+ 
+ 
+Two-way sync for data and workflows.
+ 
+ 
+ 
+Govern access at the connection level.
+ 
+ 
+1
+/
+4
+ 
+Built by you. Powered by Sitecore.
+ 
+Travel and Hospitality
+United Airlines delivers personalized travel experiences with Sitecore
+Digital signage for smoother travel.
+Manufacturing
+VELUX transforms digital customer engagement with Sitecore
+Consistent global digital experiences.
+Healthcare
+WellSpan optimizes online user experiences with Sitecore
+Unified, personalized, secure care experiences.
+Financial Services
+Norwegian bank drives up productivity by 80% with Sitecore
+Higher customer satisfaction with SaaS CMS.
+Travel and Hospitality
+Faster insights into customer friction.
+Retail
+Foodstuffs boosts digital agility and efficiency
+Scalable digital growth foundation.
+ 
+Discover customer stories
+Analyst recognition
+How leading analysts rate Sitecore solutions for experience management.
+See all Analyst Reports
+Frequently asked questions
+Straight answers to the questions buyers, evaluators, and AI assistants ask most about SitecoreAI.
+What is SitecoreAI?
+One connected digital experience platform: content management, digital asset management, content operations, audience insights, and conversion optimization. AI is built into every workflow, with 20+ pre-built AI-powered agents drafting, tagging, translating, and activating content. Already included for seamless onboarding from day one.
+How does SitecoreAI work?
+SitecoreAI is made for how marketers work: intuitive navigation, connected workflows, and AI assistance that adapts to you. From content creation to personalization, everything happens in one seamless workspace. With your campaigns, your data, and your performance in one view, you have the power to act in real time. It’s faster, simpler, and designed to empower the people behind the brand.
+How does SitecoreAI deliver personalization at scale?
+Personalization was the original Sitecore promise. For years, the human bottleneck stopped most teams from getting past Phase 1. SitecoreAI removes that bottleneck, with agents that generate localized, account-aware, segment-specific variants automatically for every user experience. Brand guardrails keep your voice intact. The personalization that was promised, now delivered.
+How does SitecoreAI keep my brand consistent?
+Brand drift starts when AI runs on fragmented content. SitecoreAI runs on one connected content layer with structured taxonomy, role-based permissions, approval gates, and audit logs. You set the guardrails. Every agent follows them.
+How does SitecoreAI fit with the rest of my stack?
+Connect ships with pre-built connectors for the tools you already use, including CRM, analytics, and the rest of your stack. Data and workflows sync both directions. Need something custom? Build it in App Studio, no code required.
+How do I get started with SitecoreAI?
+New to Sitecore? 
+Request a demo
+ or explore our 
+customer stories
+. Already on XP, XM, or Content Hub? Talk to your account team, many SitecoreAI capabilities may already be in your entitlements.
+How much does the AI in SitecoreAI cost? 
+AI is software, and you’re already paying for the software. No tokens, no per-agent fees, no add-ons, and no complex pricing. That’s why the AI in SitecoreAI stands for Already Included.
+Ready to move at the speed of your ambition?
+Bring content, data, and teams together. One platform. Already included.
+Book a demo
+ 
+Stand out in AI search
+The Agent Experience Platform from Scrunch, a Sitecore company, helps brands optimize for humans and AI search.
+Explore AI search
+Explore use cases
+See what’s possible
+XP 10.5 and beyond
+Join the webinar
+Expert guides and reports
+Browse the library
+Sitecore Symposium 2026
+Join us in Orlando
+Platform
+Platform overview
+Content Management System
+Digital Asset Management
+Content operations
+Conversion optimization
+Audience and insights
+Commerce
+Experience Manager (XM)
+Experience Platform (XP)
+Connect
+Send
+Solutions
+Product strategy
+Modernize your DX
+Manage global content
+Deliver limitless commerce
+Optimize with data
+All Customer Stories
+All Experience Awards
+All Analyst Reports
+Sitecore Symposium
+Resources
+Thought leadership
+Use case library
+NEW
+Resource Hub
+Insights
+Events & Webinars
+Trust Center
+Support
+Services
+Managed Cloud
+Sitecore Services
+Sitecore360
+Sitecore Learning
+AI Innovation Lab
+Company
+About Us
+Contact us
+Newsroom
+Careers
+© Copyright 2026, Sitecore A/S or a Sitecore affiliated company. All rights reserved.
+Cookie settings
+Legal Hub
+Privacy
+Your privacy choices
+webmaster@sitecore.net
