@@ -45,6 +45,28 @@ Not everything blocked is needed. Before asking, state to yourself what the page
 If the answer is "nothing," don't ask — log it as skipped-by-judgment in the fetch log with
 the reason, so the skip is auditable.
 
+### STOP AT RUNG 3 — a hard rule, not a preference
+
+**The moment a source cannot be obtained at Rung 1 or Rung 2, that pass stops.** Issue the
+paste request. Wait. Do not proceed to downstream work that depends on the missing source.
+
+This exists because pass 01 did the opposite: it logged *"Rung 3 — needs human transport"* for
+Gartner and for every G2 category page, and then kept working — screening 2,235 category
+names, classifying 219 of them, writing 49 boundary rulings and 78 registry entries, **all
+from labels, because the definitions that would have decided them were exactly the content
+that was blocked.** Recording a blocker is not the same as stopping at one. The output looked
+like a pass and was a directory listing.
+
+**The rule:**
+1. Confirmed-blocked means blocked. **Do not re-litigate it** — a third alternate path on a
+   source already confirmed blocked is wasted effort and looks like diligence.
+2. **Never substitute a name-level inference for content you were told to read.** A category
+   name is not a category definition. Treating one as the other is prohibition 6 wearing a
+   different coat.
+3. **Batch the request, then stop.** Work that does not depend on the missing source may
+   continue; work that does, may not.
+4. A pass that continues past a Rung-3 blocker is **rejected**, however good its tables look.
+
 ### Rung 4 — Secondary sources, explicitly marked
 Only after 1–3 fail or 3 is declined. A secondary source is anything reporting on the
 source of record rather than being it. Max grade for a Rung-4 fact is **SINGLE-SOURCE**

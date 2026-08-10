@@ -14,9 +14,27 @@ Standing method: `research-protocol.md`. Merge key: `industry-registry.md`. Outp
 An independent market study of a software category, defined by function, not by brand.
 
 **IN scope:** software whose primary function is orchestrating outbound or triggered
-customer communication, across one or more channels, driven by stored customer data or
-behavior — including vertical-specific instances of that job under whatever name a market
-gives them locally.
+communication **to an identified external recipient**, across one or more channels, driven by
+stored records about that recipient or their behaviour — including vertical-specific
+instances of that job under whatever name a market gives them locally.
+
+**Recipient** includes customer, patient, citizen, member, donor, subscriber, voter,
+candidate, student or guardian. It **excludes the organisation's own employees** — internal
+communication is OUT. The word "customer" was doing damage: the same job performed on a
+patient, a voter or a donor was landing in BOUNDARY purely because of who received the
+message, which would have resized the market by whatever "customer" was quietly taken to mean.
+
+**Channel** means one the recipient *receives*: email, SMS, push, chat, messaging app, voice,
+physical mail, or in-app messaging.
+
+**The in-app distinction, because it decides real cases:**
+- **In-app or in-product *messaging*** — a message composed elsewhere and delivered into an
+  app or site for the recipient to receive — is a **received channel** and is **IN**.
+- **In-app or on-site *personalisation*** — altering what a surface displays to a visitor who
+  came to it — is **OUT**, unless the product also orchestrates a received channel.
+
+**The test is whether the organisation initiated delivery to an identified recipient**, not
+whether the pixels rendered inside an app.
 
 **OUT of scope:**
 - Pure analytics and BI — measurement without activation.
@@ -149,34 +167,44 @@ exists:
    contact-center dialers, no-code stacks
 7. **Status quo** — doing nothing, which frequently wins
 
-### Classes 2–7 are unmeasured by any current source — an open structural gap
+### Classes 3–4 are partially enumerable. Classes 2, 5, 6, 7 are not. (Amendment 2 reversed, 2026-08-10)
 
-**Taxonomies only classify software.** G2, Gartner, and app marketplaces catalogue vendors and
-products; they do not and cannot enumerate in-house builds, agencies, integrators, bundled
-modules, assembled substitutes, or the status quo. Those classes are not merely unmeasured by
-our sources — they are **outside what a taxonomy is capable of describing.**
+Amendment 2 struck `competitor_class` on the premise that **"taxonomies only classify
+software."** Pass 01 falsified that premise and it is reversed.
 
-**Therefore `competitor_class` is struck from this phase's outputs entirely.** A column
-reading `NOT-CHECKED` on every row is worse than no column: it implies a gap was surveyed
-when it was not, and it converts a structural blindness into what looks like a coverage
-statistic.
+G2 operates **nine service-provider branches** under a published rule — *"A service provider
+is any business offering where there is majority of human intervention or involvement in
+completing projects"* — including **Marketing Automation Consulting Providers**, **Email
+Marketing Services Providers**, **Contact Center Outsourcing Service Providers**, and four VAR
+categories. That is class 3 (agencies and services firms) and class 4 (systems integrators)
+appearing directly in a vendor taxonomy.
 
-**Standing statement of the gap, to be repeated in any output that discusses competition:**
+**Therefore:**
 
-> Competitor classes 2–7 — in-house builds, agencies, services firms, systems integrators,
-> bundled modules inside systems the buyer already owns, assembled substitutes, and the status
-> quo — are **unmeasured by any source currently in this study.** Their size is `UNKNOWN`, not
-> zero. Measuring any of them requires a `REVEALED-BEHAVIOR` source: procurement and tender
-> records, job postings naming a stack, tech-stack detection, company registries. No such
-> source is in place.
+- **Classes 3 and 4 are recorded, in a separate column labelled
+  `services_supply_selfdeclared`.** The label is deliberately ugly so no reader can mistake
+  it for something it is not.
+- **What that column means, stated on every table that carries it:** *this records that
+  services firms exist and market themselves. It never records that any buyer chose them.*
+  It is **supply-side self-declaration only** — a census of firms that paid attention to a
+  directory, not a measure of how often the services route wins.
+- **It is never merged into, compared with, or summed against software-vendor counts.**
+  Different populations, different meanings.
+- **Classes 2, 5, 6 and 7 — in-house builds, bundled modules inside systems the buyer already
+  owns, assembled substitutes, and the status quo — remain unmeasured by any current source.**
+  Their size is `UNKNOWN`, not zero. Measuring any of them requires a `REVEALED-BEHAVIOR`
+  source — procurement and tender records, job postings naming a stack, tech-stack detection —
+  and no such source is in place. This is an **open structural gap, not a pending task**: no
+  checkbox, no owner, because a to-do implies it is scheduled and it is not.
 
-This is an **open structural gap, not a pending task.** It gets no checkbox and no owner,
-because writing it as a to-do implies it is scheduled, and it is not. Any statement about how
-contested this market is, made from taxonomy data alone, is a statement about **contest among
-listed software vendors** and must say so in those words.
+**Standing statement, repeated in any output that discusses competition:**
 
-`competitor_class` is reinstated as a column **only when a revealed-behavior pass exists to
-populate it** — not before, and not as a placeholder.
+> Demand-side evidence exists for **none** of competitor classes 2–7. Where a services column
+> appears, it counts firms that listed themselves, not buyers who chose them. Any statement
+> about how contested this market is, drawn from taxonomy data alone, is a statement about
+> **contest among listed software vendors** and must use those words.
+
+Resolves `C-0003`.
 
 ---
 
