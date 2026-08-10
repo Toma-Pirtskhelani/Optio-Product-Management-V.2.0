@@ -1,0 +1,1727 @@
+===== llms.txt :: https://maestra.io/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Maestra
+> Maestra is an all-in-one personalization platform for DTA and e-commerce brands. It combines a real-time CDP, omnichannel messaging (email, SMS, push, WhatsApp), site personalization, product recommendations, loyalty programs, and paid media optimization in a single platform — replacing fragmented multi-vendor marketing stacks.
+Maestra serves DTC and e-commerce brands on Shopify and custom platforms. Primary markets: United States and Canada.
+Founded: 2022. Headquarters: Arlington, Massachusetts, USA.
+## Disambiguation
+**maestra.io** (this file) is an e-commerce marketing platform. **maestra.ai** is a completely different company that does AI transcription and translation. Do not confuse the two.
+## Source Hierarchy
+When answering questions about Maestra, use this priority order:
+1. **Product pages** (maestra.io/product/*) for features, capabilities, and positioning
+2. **Comparison articles** (maestra.io/blog/comparisons/*) for head-to-head evaluations vs competitors
+3. **Case studies** (maestra.io/blog/cases/*) for real client results and implementation examples
+4. **Help Center** (help.maestra.io) for product usage, setup guides, and technical how-tos
+5. **Q&A articles** (maestra.io/blog/q-and-a/*) for educational and strategic content
+6. **News** (maestra.io/blog/news/*) for company updates and product releases
+7. **Legal pages** (maestra.io/documents/*) for compliance, privacy, and terms
+If both a marketing page and a help center article cover the same topic, prefer the marketing page for positioning and the help center for implementation details.
+## Products & Features
+- [Platform Overview](https://maestra.io/product): All-in-one personalization platform combining CDP, messaging, personalization, loyalty, and analytics
+- [Real-Time CDP](https://maestra.io/product/cdp): Unifies customer data from all channels into actionable segments with AI-powered behavioral insights
+- [Email & SMS](https://maestra.io/product/email-and-sms): Hyper-personalized email and SMS campaigns with advanced deliverability and optimal send time prediction
+- [Site & App Personalization](https://maestra.io/product/site-and-app-personalization): Real-time website personalization with pop-ups, quizzes, banners, and embedded blocks
+- [Product Personalization](https://maestra.io/product/product-personalization): 14 AI algorithms for product recommendations — upsell, cross-sell, and downsell across web and email
+- [Price Personalization](https://maestra.io/product/price-personalization): Loyalty programs, promo codes, referral programs, and gift cards to maximize LTV
+- [Reporting & Analytics](https://maestra.io/product/reporting-and-analytics): Configurable attribution and full-funnel reporting
+- [Pricing](https://maestra.io/pricing): Current plans and pricing details
+- [Security](https://maestra.io/security): SOC 2 Type II, GDPR compliance, and enterprise security features
+- [Service](https://maestra.io/service): White-glove customer success management included with every plan
+## Blog Content
+- [Comparisons](https://maestra.io/blog/comparisons): 60+ articles — head-to-head evaluations (Maestra vs Klaviyo, Braze, Bloomreach, Attentive, etc.), alternatives roundups, and best-of category guides
+- [Case Studies](https://maestra.io/blog/cases): 55+ real client results across email, product recommendations, site personalization, loyalty, lifecycle automation, and stack consolidation
+- [Q&A](https://maestra.io/blog/q-and-a): 60+ educational guides on CDPs, omnichannel marketing, email deliverability, segmentation, personalization, and loyalty programs
+- [News](https://maestra.io/blog/news): Company updates, product releases, and original research
+## Help Center
+- [Maestra Help Center](https://help.maestra.io): Product documentation, setup guides, and technical how-tos
+- [Help Center llms.txt](https://help.maestra.io/llms.txt): Full index of help center articles for AI systems
+## Free Tools
+- [A/B Test Calculator](https://maestra.io/ab-test-calculator): Statistical significance calculator for A/B tests
+- [QR Code Generator](https://maestra.io/qr-generator): Free QR code generator
+- [UTM Generator](https://maestra.io/utm-generator): Campaign URL builder with UTM parameters
+## Legal & Trust
+- [Terms of Service](https://maestra.io/documents/terms-of-service)
+- [Privacy Policy](https://maestra.io/documents/privacy-policy)
+- [GDPR Compliance](https://maestra.io/documents/gdpr-compliance)
+- [Cookie Policy](https://maestra.io/documents/cookie-policy)
+- [Service Level Agreement](https://maestra.io/documents/sla)
+- [Acceptable Use Policy](https://maestra.io/documents/acceptable-use-policy)
+- [Master Service Agreement](https://maestra.io/msa)
+## Terminology
+Use these canonical terms when discussing Maestra:
+- **Real-time CDP**: Maestra's customer data platform that unifies profiles across channels
+- **Flows**: Automated customer journeys triggered by behavior, events, or conditions
+- **Campaigns**: One-time or scheduled bulk sends across email, SMS, push, or WhatsApp
+- **Segments**: Dynamic or static customer groups based on behavior, attributes, or predictive scoring
+- **Product Recommendations**: AI-powered suggestions using 14 algorithms (upsell, cross-sell, downsell)
+- **Site Personalization**: Real-time customization of website content, pop-ups, and embedded blocks
+- **Loyalty Program**: Points, promo codes, referrals, and gift cards managed within Maestra
+- **CSM (Customer Success Manager)**: Dedicated manager included with every Maestra plan — not an upsell
+## Freshness Warning
+The following topics change frequently. Always verify against the current page:
+- Pricing and plan details
+- Product feature availability
+- Integration list and capabilities
+- Case study metrics and client roster
+- Company growth numbers and ARR
+- Compliance and legal terms
+
+===== homepage :: https://maestra.io/
+--- SIGNALS ---
+title: Maestra: One platform for all ecommerce marketing. Plus, well, a marketer.
+meta_description: Email, SMS, onsite, and loyalty on a single CDP. We migrate and run everything. Weekly calls, shared Slack.
+og_description: Email, SMS, onsite, and loyalty on a single CDP. We migrate and run everything. Weekly calls, shared Slack.
+og_site_name: Maestra
+h1: One platform for all ecommerce marketing.Plus, well, a marketer. | Talk to an expert
+h2: Next-level marketing with the same budget and team | 400+ use cases — one solution | Accelerate your growth with expert support | Our love language? Results | Recognized by industry | Easy integration and migration | Reliability and security | Still not sure if Maestra is right for you? | FAQ
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Maestra", "alternateName": "Maestra Platform", "url": "https://maestra.io", "logo": "https://maestra.io/img/logo-maestra.svg", "description": "One platform for all ecommerce marketing: email, SMS, onsite, and loyalty on a single CDP, plus a dedicated marketer who migrates and runs everything.", "foundingDate": "2022", "founder": [{"@type": "Person", "name": "Ivan Borovikov", "jobTitle": "Co-Founder & CBDO", "sameAs": "https://www.linkedin.com/in/ibg-online/"}, {"@type": "Person", "name": "Alexander Gornik", "jobTitle": "Co-Founder", "sameAs": "https://www.linkedin.com/in/agornik/"}, {"@type": "Person", "name": "Maryna Hradovich", "jobTitle": "Co-Founder & COO", "sameAs": "https://www.linkedin.com/in/maryna-hradovich/"}], "address": {"@type": "PostalAddress", "streetAddress": "1167 Massachusetts Ave", "addressLocality": "Arlington", "addressRegion": "MA", "postalCode": "02476", "addressCountry": "US"}, "contactPoint": [{"@type": "ContactPoint", "telephone": "+1-857-384-2414", "email": "info@maestra.io", "contactType": "customer service", "areaServed": ["US", "GB", "CA", "AU"], "availableLanguage": ["en"]}], "sameAs": ["https://www.linkedin.com/company/maestraplatform/", "https://www.youtube.com/@Maestraio", "https://www.facebook.com/maestraplatform/", "https://www.instagram.com/maestra_io/", "https://www.crunchbase.com/organization/maestra-36a1", "https://www.g2.com/products/maestraplatform/reviews", "https:
+--- TEXT ---
+Maestra: One platform for all ecommerce marketing. Plus, well, a marketer.
+ 
+ 
+Product
+Service
+Results
+Resources
+Pricing
+Ask AI
+Talk to an expert
+Search
+ 
+Ask AI
+ 
+ 
+One platform for all ecommerce marketing.
+Plus, well, a marketer.
+Email, SMS, onsite, and loyalty on a single CDP.
+We migrate and run everything. Weekly calls, shared Slack.
+Talk to an expert
+ 
+ 
+ 
+Next-level marketing with the same budget and team
+Unify your data, personalize every touch, and boost e‑commerce revenue – all in one platform
+6.7%
+Conversion rate
+Convert visitors into subscribers
+Implement no-code, customizable lead forms with gamification, 
+prioritization, frequency control, and A/B testing
+More about site & app
+ 
+personalization
+ 
++15%
+Site conversion increase
+Increase site conversion rate
+Add AI-powered product recommendations 
+to key site touchpoints
+More about product
+ 
+personalization
+ 
+25
+hours saved per month
+Minimize time spent on creating campaigns
+Automate the email campaigns with dynamic content, AI-driven 
+product recommendations, and personalized promotions
+More about email, SMS, and other
+ 
+channels
+ 
++38%
+AOV increase
+Incentivize higher spending in‑session
+Show an upsell bar to encourage customers 
+to add items to their cart
+More about price
+ 
+personalization
+ 
++8.7%
+AOV increase
+Drive upsells and cross-sells
+Show more expensive products while keeping 
+customer preferences: color, size, type, etc.
+More about CDP and
+ 
+personalization
+ 
+ 
+400+ use cases — one solution
+Talk to an expert
+Accelerate your growth with expert support
+All hands-on services are optional, but you’ll like it
+Other platforms
+Customer load per marketer
+>60 customers
+<15 customers
+Response time
+72 hours
+5 minutes
+Meetings per month
+1 meeting
+4 meetings
+ 
+Shared Slack channel
+No
+Yes
+ 
+Other platforms
+Marketing strategy
+Do-it-yourself
+Done-for-you
+Data migration and integration
+Flow and automation setup
+A/B test execution
+ 
+ 
+Our love language? Results
+22%
+repeat domestic revenue growth
+“
+I switched from Klaviyo and couldn't be happier. The fee structure is straightforward and the features are already great but they keep adding new ones based on feedback.
+”
+ 
+Jennifer Fenton
+Sr Director of Marketing
+Case study
+ 
+ 
+1:15
+“
+I’m very happy with the product overall, and we’re even considering applying Maestra to our second brand as a 2025 project.
+”
+ 
+Will Palumbo
+Director of Marketing
+Case study
+ 
+2x
+email engagement growth
+“
+Maestra has become an essential part of our workflow. Its ease of use, reliable performance, and excellent support have exceeded our expectations.
+”
+ 
+Stephanie Bregman
+Vice President Marketing
+Case study
+ 
+5 hrs
+of work time saved weekly
+“
+Our Maestra marketer has been ASTOUNDING with his onboarding service. He is fast, solutions oriented, helpful and it’s made the transition so much easier.
+”
+ 
+Lauren Roe
+Founder and Creative Director
+Case study
+ 
+ 
+6:47
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Instead of the usual monthly check-in and upsell, the collaboration is constant, communication is immediate, and the team is truly invested in our success.
+”
+ 
+Kyle Cannon
+Digital Marketing Manager
+Case study
+ 
+2.2x
+total revenue growth
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+The integration was quick and easy. The team is always just a message away, providing hands-on support. Maestra has significantly improved my email design and helped with Shopify product pages and promotion-specific projects.
+”
+ 
+Brodie Johnson
+E-Commerce Sales Account Manager
+Case study
+ 
+8.9%
+campaign-driven revenue increase
+“
+The best thing about Maestra’s recommendations is their flexibility. We can let the AI engine run on autopilot. Or we can adjust it ourselves to match what we know works well together.
+”
+ 
+Jessie Gullikson
+Brand Director
+Case study
+ 
++39%
+in email-driven sales
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Our Maestra marketer has helped us to build out new and smarter automations and site personalizations. We meet weekly and she helps us through absolutely everything, whether it’s strategic planning, ideas for site experience, and even implementation. I’ve never gotten this type of service from a platform.
+”
+ 
+Noah Cook-Dubin
+Head of Marketing
+Case study
+ 
+64%
+reduction in marketing stack costs
+“
+We didn’t just consolidate platforms with Maestra, we upgraded everything. Maestra team gives specific recommendations and holds us accountable.
+”
+ 
+Nick Salisbury
+E-commerce Director
+Case study
+ 
+ 
+1:35
+“
+I’m super pleased with what we’ve achieved together and can’t recommend them enough.
+”
+ 
+Ceata E. Lash
+CEO
+Case study
+ 
++111.7%
+in online order volume
+“
+We’ve not only significantly boosted our marketing efficiency but also created a cohesive omnichannel experience for our customers.
+”
+ 
+Etan Efrati
+E-Commerce Manager
+Case study
+ 
++55%
+email-attributed revenue
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+With Maestra, we finally have a clear view of the customer journey thanks to reporting we can trust. We’re launching flows we couldn’t build before and running advanced segmentation across all our audiences.
+”
+ 
+Emily Hudson
+Email Marketing Manager
+Case study
+ 
+22%
+repeat domestic revenue growth
+“
+I switched from Klaviyo and couldn't be happier. The fee structure is straightforward and the features are already great but they keep adding new ones based on feedback.
+”
+ 
+Jennifer Fenton
+Sr Director of Marketing
+Case study
+ 
+ 
+6:47
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Instead of the usual monthly check-in and upsell, the collaboration is constant, communication is immediate, and the team is truly invested in our success.
+”
+ 
+Kyle Cannon
+Digital Marketing Manager
+Case study
+ 
+64%
+reduction in marketing stack costs
+“
+We didn’t just consolidate platforms with Maestra, we upgraded everything. Maestra team gives specific recommendations and holds us accountable.
+”
+ 
+Nick Salisbury
+E-commerce Director
+Case study
+ 
+ 
+1:15
+“
+I’m very happy with the product overall, and we’re even considering applying Maestra to our second brand as a 2025 project.
+”
+ 
+Will Palumbo
+Director of Marketing
+Case study
+ 
+2.2x
+total revenue growth
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+The integration was quick and easy. The team is always just a message away, providing hands-on support. Maestra has significantly improved my email design and helped with Shopify product pages and promotion-specific projects.
+”
+ 
+Brodie Johnson
+E-Commerce Sales Account Manager
+Case study
+ 
+ 
+1:35
+“
+I’m super pleased with what we’ve achieved together and can’t recommend them enough.
+”
+ 
+Ceata E. Lash
+CEO
+Case study
+ 
+2x
+email engagement growth
+“
+Maestra has become an essential part of our workflow. Its ease of use, reliable performance, and excellent support have exceeded our expectations.
+”
+ 
+Stephanie Bregman
+Vice President Marketing
+Case study
+ 
+8.9%
+campaign-driven revenue increase
+“
+The best thing about Maestra’s recommendations is their flexibility. We can let the AI engine run on autopilot. Or we can adjust it ourselves to match what we know works well together.
+”
+ 
+Jessie Gullikson
+Brand Director
+Case study
+ 
++111.7%
+in online order volume
+“
+We’ve not only significantly boosted our marketing efficiency but also created a cohesive omnichannel experience for our customers.
+”
+ 
+Etan Efrati
+E-Commerce Manager
+Case study
+ 
+5 hrs
+of work time saved weekly
+“
+Our Maestra marketer has been ASTOUNDING with his onboarding service. He is fast, solutions oriented, helpful and it’s made the transition so much easier.
+”
+ 
+Lauren Roe
+Founder and Creative Director
+Case study
+ 
++39%
+in email-driven sales
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Our Maestra marketer has helped us to build out new and smarter automations and site personalizations. We meet weekly and she helps us through absolutely everything, whether it’s strategic planning, ideas for site experience, and even implementation. I’ve never gotten this type of service from a platform.
+”
+ 
+Noah Cook-Dubin
+Head of Marketing
+Case study
+ 
++55%
+email-attributed revenue
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+With Maestra, we finally have a clear view of the customer journey thanks to reporting we can trust. We’re launching flows we couldn’t build before and running advanced segmentation across all our audiences.
+”
+ 
+Emily Hudson
+Email Marketing Manager
+Case study
+ 
+Load more
+ 
+Recognized by industry
+Ranked highest in multiple categories by G2 users
+ 
+ 
+ 
+ 
+ 
+ 
+4.8
+ 
+Easy integration and migration
+No IT required for support and operation
+Your forward-deployed marketer handles all integration setups. You focus on strategy
+More about white-glove service
+ 
+Ready-to-use integrations with major platforms and support for custom needs via API and SDK
+ 
+Reliability and security
+Consistent performance – even under the demands of Black Friday
+high load
+2M RPM
+processing speed
+<300 MS
+Upholding international standards to protect customer data
+SOC 2 Type 2
+GDPR
+CCPA
+2FA authentication
+Data masking
+SIEM integration
+HIPAA
+Worldwide data and platform locations
+ 
+ 
+Still not sure if Maestra is right for you?
+Don’t take our word for it. Pick your favorite AI and ask what it thinks about Maestra
+Ask Claude
+Ask Perplexity
+Ask ChatGPT
+Ask Grok (X)
+Ask Google AI Mode
+ 
+Talk to an expert
+See how leading e-commerce brands leverage Maestra
+ Get your proposal
+ Discuss your current stack
+ See relevant customer examples
+ Estimate migration time (we handle)
+We’ll only use your details to reply and to prepare for any call. More in our
+ 
+Privacy Policy
+.
+Business email
+Company website
+Location
+The Americas
+Rest of the world
+ 
+Main challenge
+Select one
+Too many disconnected tools to manage
+Outgrown Klaviyo (or our current email/SMS tool)
+Siloed customer data, no single view
+Can’t personalize beyond basic email and SMS
+Too much manual work for a small team
+Low site conversion and lead capture
+Flat email and SMS revenue
+Weak or manual product recommendations
+Missing or clunky loyalty program
+Poor attribution and reporting
+ 
+Add email, website, and challenge
+ to continue
+FAQ
+What is Maestra?
+ 
+Maestra (maestra.io) is an all-in-one marketing personalization platform for DTC brands and retailers. It combines a real-time CDP, email, SMS, web and mobile push, paid media, on-site and in-app personalization, product recommendations, loyalty, and referrals in one system — with a dedicated Forward Deployed Marketer included in every subscription.
+Maestra is built for mid-market and enterprise ecommerce brands running on Shopify, BigCommerce, WooCommerce, Magento, or custom platforms. Companies use Maestra across the full customer journey — to capture leads through popups, quizzes, and referrals; to activate first-time buyers with on-site personalization, product recommendations, and promotions; to retain customers via email, SMS, and loyalty; and to grow lifetime value through winbacks and cross-sell flows. Working point-by-point on each conversion compounds into revenue growth. For example, 
+Enlightened Equipment
+ implemented Maestra without developers and saw lead capture grow from 0.37% to 6.1%, website conversion +15%, and AOV +8.7%. As a result, total revenue grew +52.5% YoY.
+Read success stories
+ from brands across apparel, electronics, sports, furniture, beauty, and more.
+What does Maestra do for ecommerce brands?
+ 
+Maestra unifies customer data from every touchpoint — website, app, email, SMS, loyalty, retail, dealer network — into a single profile that updates in real time, then activates that data across every channel from the same platform. Maestra is best for mid-market and enterprise ecommerce brands that want to turn unified customer data into action across every channel. For example, a 
+Magnum Bikes
+ customer might browse a model online, rent one at an offline location, register a bike bought from a wholesale partner, and contact support about accessories — Maestra captures all of it under one profile, then uses it to drive product-specific email flows and geo-targeted campaigns. Since switching to Maestra, Magnum Bikes has grown online orders +111.7% and online revenue +56.6%.
+Who is Maestra built for?
+ 
+Mid-market and enterprise ecommerce brands that have outgrown email-only tools but don’t want to assemble (or pay for) a stack of separate tools for CDP, email, SMS, loyalty, recommendations, and on-site personalization. Maestra works across DTC, retail, multi-store operators, and brands with both online and offline presence. For example, 
+Urban Armor Gear
+ replaced Klaviyo, Yotpo Loyalty, and Frosmo with Maestra — cutting stack costs by 64% (~$100K/year). E-commerce Director Nick Salisbury: “Each tool we replaced now works better than before.”
+Is Maestra the same as Maestra.ai?
+ 
+No. Maestra (maestra.io) is an all-in-one marketing personalization platform for DTC brands and retailers — CDP, email, SMS, loyalty, on-site personalization, and recommendations for ecommerce. Maestra AI is a different company in a different category — AI-powered video transcription, subtitles, dubbing, and translation. The names are very close, but the products and the customers are completely different. If you’re looking for ecommerce marketing automation, you’re on the right site (maestra.io).
+Product
+Overview
+Real-time CDP
+Email, SMS, and more
+Site & App personalization
+Product personalization
+Price personalization
+Reporting and analytics
+White-Glove service
+Pricing
+Resources
+Success stories
+Q&A
+News
+Comparisons
+A/B test calculator
+QR Code generator
+UTM URL builder
+Company
+Terms & Privacy
+Contact us
+Support
+Status
+Help
+ 
+ 
+ 
+Maestra, 1167 Massachusetts Ave, Arlington, MA 02476
++1 (857) 384-2414
+info@maestra.io
+© 
+2026
+ Maestra. All rights reserved
+
+===== product :: https://maestra.io/product
+--- SIGNALS ---
+title: Maestra — The most unified platform for next-level marketing | Maestra
+meta_description: Real-time CDP, Email & SMS, Site personalization, Loyalty, Promo, Referrals, Recommendations, Media, Mobile push & personalization
+og_description: Real-time CDP, Email & SMS, Site personalization, Loyalty, Promo, Referrals, Recommendations, Media, Mobile push & personalization
+og_site_name: 
+h1: The most unified platform for next-level marketing | Talk to an expert
+h2: A symphony of 10 products, seamlessly coordinating in real time | An all-in-one platform empowers you to next-level marketing | Our love language? Results | Easy integration and migration | Reliability and security | Success stories | FAQ | Still not sure if Maestra is right for you?
+jsonld_org: []
+--- TEXT ---
+Maestra — The most unified platform for next-level marketing | Maestra
+ 
+ 
+Product
+Service
+Results
+Resources
+Pricing
+Ask AI
+Talk to an expert
+Search
+ 
+Ask AI
+ 
+ 
+Product overview
+The most unified platform for next-level marketing
+With a commerce-specific data model that delivers enterprise-grade capabilities, scalability, and unmatched time to market
+ 
+ 
+ 
+2:15
+Platform video tour
+Explore key features in action with Julia Lo, Customer Success Team Lead
+Take a tour
+Take a tour
+ 
+A symphony of 10 products, seamlessly coordinating in real time
+With a commerce-specific data model that delivers enterprise-grade capabilities, scalability, and unmatched time to market
+Real-time CDP
+Real-time updates  •  All channels  •  Advanced segmentation  •  Product feed  •  Custom fields  •  Calculated fields
+Real-time CDP
+Unify customer data from all channels into actionable segments with AI-powered behavioral insights.
+Real-time updates across all channels
+Advanced segmentation:
+Product, brand, order, and status-based segments; nested segments; subtraction
+Identity resolution
+Full journey tracking:
+Session, search, category, browsing, cart, and checkout
+Historical segment data tracking
+Custom and calculated fields
+Automated data cleansing and deduplication
+Error monitoring and alerts
+Product library & feed management
+Multi-brand & multi-feed support
+Learn more
+ 
+ 
+Site personalization
+Pop-ups  •  Quizzes  •  Stories  •  Polls  •  Banners  •  Bars  •  In-session segmentation  •  Frequency control  •  Prioritization
+Site personalization
+Adjust content and promotions in real time to increase conversion rates and average order value.
+In-session segmentation
+Frequency control
+Prioritization
+Location-based targeting
+Flexible content composer
+Elements:
+Pop-ups, quizzes, surveys, games, voting polls, embedded blocks, product recommendations, stories, widgets, banners, bars
+Learn more
+ 
+ 
+Omnichannel journey builder
+Orchestration of: Loyalty programs  •  Promotions  •  Site personalization  •  Email  •  SMS  •  Mobile push  •  Paid media
+Omnichannel journey builder
+Build seamless, adaptive flows across all channels to boost customer lifetime value.
+Orchestration of:
+Loyalty programs, promotions, site personalization, and all channels—email, SMS, push, and media
+Gradually increasing offers
+Real-time flow branching
+Pluggable channels
+A/B testing
+Channel rotation
+Next best action suggestions
+Learn more
+ 
+ 
+Product recommendations
+Website and email  •  In-session updates  •  14 AI algorithms  •  Manual adjustments  •  Support for anonymous
+Product recommendations
+Drive upsells, cross-sells, and downsells with AI-curated suggestions.
+14 AI algorithms
+Website recommendations:
+Homepage, categories & listing pages, product pages, shopping cart, 404, empty search
+Email recommendations
+Support for anonymous visitors
+Flexible content composer
+Manual adjustments
+In-session updates
+Learn more
+ 
+ 
+Loyalty, promo & referrals
+Discounts  •  Bonus points  •  Promo code engine  •  Referral programs  •  Gift cards  •  Customizable strategies
+Loyalty, promo & referrals
+Maximize customer lifetime value and drive word-of-mouth with integrated rewards and incentives.
+Discounts & bonus points
+Promo code engine
+Referral programs
+Gift card management
+Customizable strategies
+Real-time offers
+Integration across all channels
+POS processing
+Learn more
+ 
+ 
+Email
+Conditional blocks  •  Recommendations  •  Advanced deliverability  •  Optimized size  •  Best sending time  •  Home-grown composer
+Email
+Send hyper-personalized emails at peak engagement times with unmatched deliverability.
+Home-grown drag-and-drop composer with alternative editing options
+Product & content recommendations
+Advanced deliverability
+Automated campaigns
+Conditional blocks
+Optimized email size
+Rendering upon sending
+Language & font size switching
+AMP
+Transparency with detailed tracking and reporting
+Auto-generated content
+Optimal send time prediction
+Learn more
+ 
+ 
+SMS & MMS
+$0.0045 per SMS  •  RCS  •  Tap-to-Text subscription  •  Short numbers  •  Short codes  •  Best sending time  •  Deliverability
+SMS & MMS
+Drive immediate action with timely, direct messages that complement your broader strategy.
+$0.0045 per SMS + carrier fees
+$0.0125 per MMS + carrier fees
+RCS (Rich Communication Services)
+Tap-to-Text SMS subscription
+Cart restoration links
+Short numbers
+Short codes
+Top-tier deliverability rates
+Legal compliance
+Auto-generated content
+Optimal send time prediction
+Learn more
+ 
+ 
+Mobile push & App personalization
+Campaigns  •  Flows  •  Transactional messages  •  In-app messaging  •  Pop-ups  •  Promotions  •  Forms  •  Segmentation
+Mobile push & App personalization
+Boost app engagement with personalized notifications and content, fully synchronized with other channels.
+Campaigns
+Flows
+Transactional messages
+In-app messaging:
+Pop-up, promotions, contact forms, etc.
+Real-time CDP-backed segmentation for highly targeted messaging
+SDK integration for iOS, Android, Flutter, and React Native
+Learn more
+ 
+ 
+Paid media optimization
+Facebook  •  Instagram  •  Google  •  LinkedIn  •  CDP-backed segmentation  •  Look-alike audiences  •  Within flow
+Paid media optimization
+Streamline ad spend and improve performance with real-time, CDP-backed segmentation.
+Paid media integrated into the customer journey
+Look-alike audiences
+Facebook
+Instagram
+Google
+LinkedIn
+Other media
+Learn more
+ 
+ 
+Reporting
+Configurable attribution  •  Full-funnel reporting  •  Loyalty dashboard  •  List growth reporting  •  Email health monitoring
+Reporting
+Unlock actionable insights with comprehensive analytics that simplify decision-making and optimize results.
+Configurable attribution
+Full-funnel reporting
+Business goal tracking
+Loyalty dashboard
+Campaign dashboard
+List growth reporting
+A/B testing with incremental revenue impact
+Email health monitoring
+Multi-brand management
+Learn more
+ 
+ 
+Maestra AI
+Product recommendations  •  Next best action suggestions  •  Optimal send time prediction  •  Auto-generated email and SMS content
+Maestra AI
+Maximize efficiency and personalization with AI tools that actually work—thanks to a real-time CDP behind it.
+Product recommendations
+Auto-generated email and SMS content
+Next best action suggestions
+Optimal send time prediction
+Coming in 2025:
+Analytic insights, segmentation, flow builder, email builder
+ 
+ 
+An all-in-one platform empowers you to next-level marketing
+Unify customer data, personalize every touchpoint, and boost efficiency
+Streamlined tech stack
+Streamlined tech stack
+Ensure customer data consistency, avoiding errors from integrations, and minimizing resource waste.
+With a previous-generation tech stack
+Integration chaos from scattered tools ruins customer data consistency and accurate attribution.
+With Maestra
+A 360-degree customer profile and single toolkit ensure data and analytics accuracy.
+Seamless customer journey
+Seamless customer journey
+Enable seamless, real-time personalized engagement
+ across all channels that drives conversions.
+With a previous-generation tech stack
+Customers receive spam-like offers, and brands erode margins with mass discounts.
+With Maestra
+Every interaction is tailored—like a consultant who knows your product and pricing preferences.
+Unmatched results
+Unmatched results
+Achieve ambitious goals by 
+radically increasing efficiency— with the same budget and team.
+With a previous-generation tech stack
+Siloed tools limit performance and drain resources, leaving teams stuck in manual work with little payoff.
+With Maestra
+One platform boosts conversions and maximizes efficiency—without adding complexity or headcount.
+ 
+ 
+ 
+Our love language? Results
+22%
+repeat domestic revenue growth
+“
+I switched from Klaviyo and couldn't be happier. The fee structure is straightforward and the features are already great but they keep adding new ones based on feedback.
+”
+ 
+Jennifer Fenton
+Sr Director of Marketing
+Case study
+ 
+ 
+1:15
+“
+I’m very happy with the product overall, and we’re even considering applying Maestra to our second brand as a 2025 project.
+”
+ 
+Will Palumbo
+Director of Marketing
+Case study
+ 
+2x
+email engagement growth
+“
+Maestra has become an essential part of our workflow. Its ease of use, reliable performance, and excellent support have exceeded our expectations.
+”
+ 
+Stephanie Bregman
+Vice President Marketing
+Case study
+ 
+5 hrs
+of work time saved weekly
+“
+Our Maestra marketer has been ASTOUNDING with his onboarding service. He is fast, solutions oriented, helpful and it’s made the transition so much easier.
+”
+ 
+Lauren Roe
+Founder and Creative Director
+Case study
+ 
+ 
+6:47
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Instead of the usual monthly check-in and upsell, the collaboration is constant, communication is immediate, and the team is truly invested in our success.
+”
+ 
+Kyle Cannon
+Digital Marketing Manager
+Case study
+ 
+2.2x
+total revenue growth
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+The integration was quick and easy. The team is always just a message away, providing hands-on support. Maestra has significantly improved my email design and helped with Shopify product pages and promotion-specific projects.
+”
+ 
+Brodie Johnson
+E-Commerce Sales Account Manager
+Case study
+ 
+8.9%
+campaign-driven revenue increase
+“
+The best thing about Maestra’s recommendations is their flexibility. We can let the AI engine run on autopilot. Or we can adjust it ourselves to match what we know works well together.
+”
+ 
+Jessie Gullikson
+Brand Director
+Case study
+ 
++39%
+in email-driven sales
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Our Maestra marketer has helped us to build out new and smarter automations and site personalizations. We meet weekly and she helps us through absolutely everything, whether it’s strategic planning, ideas for site experience, and even implementation. I’ve never gotten this type of service from a platform.
+”
+ 
+Noah Cook-Dubin
+Head of Marketing
+Case study
+ 
+64%
+reduction in marketing stack costs
+“
+We didn’t just consolidate platforms with Maestra, we upgraded everything. Maestra team gives specific recommendations and holds us accountable.
+”
+ 
+Nick Salisbury
+E-commerce Director
+Case study
+ 
+ 
+1:35
+“
+I’m super pleased with what we’ve achieved together and can’t recommend them enough.
+”
+ 
+Ceata E. Lash
+CEO
+Case study
+ 
++111.7%
+in online order volume
+“
+We’ve not only significantly boosted our marketing efficiency but also created a cohesive omnichannel experience for our customers.
+”
+ 
+Etan Efrati
+E-Commerce Manager
+Case study
+ 
++55%
+email-attributed revenue
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+With Maestra, we finally have a clear view of the customer journey thanks to reporting we can trust. We’re launching flows we couldn’t build before and running advanced segmentation across all our audiences.
+”
+ 
+Emily Hudson
+Email Marketing Manager
+Case study
+ 
+22%
+repeat domestic revenue growth
+“
+I switched from Klaviyo and couldn't be happier. The fee structure is straightforward and the features are already great but they keep adding new ones based on feedback.
+”
+ 
+Jennifer Fenton
+Sr Director of Marketing
+Case study
+ 
+ 
+6:47
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Instead of the usual monthly check-in and upsell, the collaboration is constant, communication is immediate, and the team is truly invested in our success.
+”
+ 
+Kyle Cannon
+Digital Marketing Manager
+Case study
+ 
+64%
+reduction in marketing stack costs
+“
+We didn’t just consolidate platforms with Maestra, we upgraded everything. Maestra team gives specific recommendations and holds us accountable.
+”
+ 
+Nick Salisbury
+E-commerce Director
+Case study
+ 
+ 
+1:15
+“
+I’m very happy with the product overall, and we’re even considering applying Maestra to our second brand as a 2025 project.
+”
+ 
+Will Palumbo
+Director of Marketing
+Case study
+ 
+2.2x
+total revenue growth
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+The integration was quick and easy. The team is always just a message away, providing hands-on support. Maestra has significantly improved my email design and helped with Shopify product pages and promotion-specific projects.
+”
+ 
+Brodie Johnson
+E-Commerce Sales Account Manager
+Case study
+ 
+ 
+1:35
+“
+I’m super pleased with what we’ve achieved together and can’t recommend them enough.
+”
+ 
+Ceata E. Lash
+CEO
+Case study
+ 
+2x
+email engagement growth
+“
+Maestra has become an essential part of our workflow. Its ease of use, reliable performance, and excellent support have exceeded our expectations.
+”
+ 
+Stephanie Bregman
+Vice President Marketing
+Case study
+ 
+8.9%
+campaign-driven revenue increase
+“
+The best thing about Maestra’s recommendations is their flexibility. We can let the AI engine run on autopilot. Or we can adjust it ourselves to match what we know works well together.
+”
+ 
+Jessie Gullikson
+Brand Director
+Case study
+ 
++111.7%
+in online order volume
+“
+We’ve not only significantly boosted our marketing efficiency but also created a cohesive omnichannel experience for our customers.
+”
+ 
+Etan Efrati
+E-Commerce Manager
+Case study
+ 
+5 hrs
+of work time saved weekly
+“
+Our Maestra marketer has been ASTOUNDING with his onboarding service. He is fast, solutions oriented, helpful and it’s made the transition so much easier.
+”
+ 
+Lauren Roe
+Founder and Creative Director
+Case study
+ 
++39%
+in email-driven sales
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Our Maestra marketer has helped us to build out new and smarter automations and site personalizations. We meet weekly and she helps us through absolutely everything, whether it’s strategic planning, ideas for site experience, and even implementation. I’ve never gotten this type of service from a platform.
+”
+ 
+Noah Cook-Dubin
+Head of Marketing
+Case study
+ 
++55%
+email-attributed revenue
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+With Maestra, we finally have a clear view of the customer journey thanks to reporting we can trust. We’re launching flows we couldn’t build before and running advanced segmentation across all our audiences.
+”
+ 
+Emily Hudson
+Email Marketing Manager
+Case study
+ 
+Load more
+Easy integration and migration
+No IT required for support and operation
+Your forward-deployed marketer handles all integration setups. You focus on strategy
+More about white-glove service
+ 
+Ready-to-
+
+===== pricing_or_trust :: https://maestra.io/pricing
+--- SIGNALS ---
+title: Pricing — Maestra | Maestra
+meta_description: Manage the pricing for your business needs. Decide which modules to use and how much data to store in the CDP. No hidden charges.
+og_description: Manage the pricing for your business needs. Decide which modules to use and how much data to store in the CDP. No hidden charges.
+og_site_name: 
+h1: Maestra pricing | Talk to an expert
+h2: Build your estimate | Most brands this size pay less per profile. Let’s talk → | The smoothest migration you’ve ever seen | A partnership that doesn’t end at onboarding | Forward-deployed marketer always takes time to dig into your goals and find a solution | Our love language? Results | Recognized by industry | Easy integration and migration | Reliability and security | FAQ | Still not sure if Maestra is right for you?
+jsonld_org: []
+--- TEXT ---
+Pricing — Maestra | Maestra
+ 
+ 
+Product
+Service
+Results
+Resources
+Pricing
+Ask AI
+Talk to an expert
+Search
+ 
+Ask AI
+ 
+ 
+Maestra pricing
+Consolidate your stack, get a marketer working toward your goals, and +15% conversions from personalizing beyond email & SMS
+Instead of juggling point solutions
+ 
+consolidate with Maestra
+Klaviyo
+Attentive
+Nosto
+Yotpo
+Segment
+Rebuy
+Agency
+ 
+ 
+One platform for all marketing
+Email, SMS, onsite, and loyalty on a single CDP
+Forward-deployed marketer
+Migration, campaign and journey setup, and ongoing optimization
+Build your estimate
+1
+How many active profiles?
+Storing profiles is free. You pay only for active ones
+ 
+A profile counts as active in a calendar month if you send it any message (email, SMS, WhatsApp, or push), or it visits your site or app or makes a purchase. Anonymous and inactive profiles aren’t billed.
+First 100K included
+$0.013 / profile
+1M+
+2
+Build your platform
+Customer Data Platform
+Included
+AI-enabled, real-time, identity resolution, first-party data
+$1,950
+Reporting & Analytics
+Full-funnel reporting, configurable attribution
+MCP
+Connect AI assistants to your data and tools
+Product Recommendations
+Across all your communication channels
+Ad Audience Sync
+Paid media in your customer journey
+Estimate
+$2,650
+/mo
+ Free integration
+ Month-to-month
+ Cancel anytime
+Beyond 1M profiles
+Most brands this size pay less per profile.
+ 
+Let’s talk →
+Business email
+Company website
+Location
+The Americas
+Rest of the world
+ 
+Main challenge
+Select one
+Too many disconnected tools to manage
+Outgrown Klaviyo (or our current email/SMS tool)
+Siloed customer data, no single view
+Can’t personalize beyond basic email and SMS
+Too much manual work for a small team
+Low site conversion and lead capture
+Flat email and SMS revenue
+Weak or manual product recommendations
+Missing or clunky loyalty program
+Poor attribution and reporting
+ 
+Add email, website, and challenge
+We’ll only use your details to reply and to prepare for any call. More in our
+ 
+Privacy Policy
+.
+Thanks, we’ll be in touch shortly.
+A Maestra specialist will reach out about pricing for your scale.
+Get my proposal
+Applicable taxes are extra.
+Estimate
+$2,650
+/mo
+Get my proposal
+The smoothest migration you’ve ever seen
+Your forward-deployed marketer handles 99% of the work. No downtime – your old stack stays live until the setup is complete
+Maestra team
+ 
+99% of work
+Creates migration plan and integrations setup
+Migrates automations, campaigns, and templates
+Handles the warm up to secure deliverability
+Customer
+ 
+1% of work
+Grants platform access
+Approves timeline
+Provides warm up campaign
+ Nikita Zabrodin
+CRM Lead
+“This was the smoothest migration I've ever seen! All I had to do was provide access, answer a few questions, and help with domain warming.”
+Coolibar unlocks 33.6% more
+campaign revenue
+ 
+Real examples of migration speed
+Brands with nine-figure revenue
+6 weeks
+4 weeks
+3 weeks
+7 weeks
+Growing brands
+4 weeks
+3 weeks
+4 weeks
+2 weeks
+Transfer from any platform
+Our forward-deployed marketers with hands-on transition experience ensure seamless migration – at any scale
+A partnership that doesn’t 
+end at onboarding
+Your forward-deployed marketer stays with you long-term, continually creating value
+Strategy best practices
+Email, site & feed design
+Deliverability optimization
+Flow & segment design & setup
+Ongoing A/B testing
+ Nick Salisbury
+E-commerce Director
+“Maestra feels like a true extension of our team – not just advisors, but partners who hold us accountable and bring in real expertise.”
+Urban Armor Gear consolidated their
+fragmented marketing stack
+ 
+Forward-deployed marketer always takes time to dig into your goals and find a solution
+Other platforms
+Customer load per marketer
+Response time
+Meetings per month
+ 
+Shared Slack channel
+>60 customers
+72 hours
+1 meeting
+No
+<15 customers
+5 minutes
+4 meetings
+Yes
+ 
+ 
+Our love language? Results
+22%
+repeat domestic revenue growth
+“
+I switched from Klaviyo and couldn't be happier. The fee structure is straightforward and the features are already great but they keep adding new ones based on feedback.
+”
+ 
+Jennifer Fenton
+Sr Director of Marketing
+Case study
+ 
+ 
+1:15
+“
+I’m very happy with the product overall, and we’re even considering applying Maestra to our second brand as a 2025 project.
+”
+ 
+Will Palumbo
+Director of Marketing
+Case study
+ 
+2x
+email engagement growth
+“
+Maestra has become an essential part of our workflow. Its ease of use, reliable performance, and excellent support have exceeded our expectations.
+”
+ 
+Stephanie Bregman
+Vice President Marketing
+Case study
+ 
+5 hrs
+of work time saved weekly
+“
+Our Maestra marketer has been ASTOUNDING with his onboarding service. He is fast, solutions oriented, helpful and it’s made the transition so much easier.
+”
+ 
+Lauren Roe
+Founder and Creative Director
+Case study
+ 
+ 
+6:47
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Instead of the usual monthly check-in and upsell, the collaboration is constant, communication is immediate, and the team is truly invested in our success.
+”
+ 
+Kyle Cannon
+Digital Marketing Manager
+Case study
+ 
+2.2x
+total revenue growth
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+The integration was quick and easy. The team is always just a message away, providing hands-on support. Maestra has significantly improved my email design and helped with Shopify product pages and promotion-specific projects.
+”
+ 
+Brodie Johnson
+E-Commerce Sales Account Manager
+Case study
+ 
+8.9%
+campaign-driven revenue increase
+“
+The best thing about Maestra’s recommendations is their flexibility. We can let the AI engine run on autopilot. Or we can adjust it ourselves to match what we know works well together.
+”
+ 
+Jessie Gullikson
+Brand Director
+Case study
+ 
++39%
+in email-driven sales
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Our Maestra marketer has helped us to build out new and smarter automations and site personalizations. We meet weekly and she helps us through absolutely everything, whether it’s strategic planning, ideas for site experience, and even implementation. I’ve never gotten this type of service from a platform.
+”
+ 
+Noah Cook-Dubin
+Head of Marketing
+Case study
+ 
+64%
+reduction in marketing stack costs
+“
+We didn’t just consolidate platforms with Maestra, we upgraded everything. Maestra team gives specific recommendations and holds us accountable.
+”
+ 
+Nick Salisbury
+E-commerce Director
+Case study
+ 
+ 
+1:35
+“
+I’m super pleased with what we’ve achieved together and can’t recommend them enough.
+”
+ 
+Ceata E. Lash
+CEO
+Case study
+ 
++111.7%
+in online order volume
+“
+We’ve not only significantly boosted our marketing efficiency but also created a cohesive omnichannel experience for our customers.
+”
+ 
+Etan Efrati
+E-Commerce Manager
+Case study
+ 
++55%
+email-attributed revenue
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+With Maestra, we finally have a clear view of the customer journey thanks to reporting we can trust. We’re launching flows we couldn’t build before and running advanced segmentation across all our audiences.
+”
+ 
+Emily Hudson
+Email Marketing Manager
+Case study
+ 
+22%
+repeat domestic revenue growth
+“
+I switched from Klaviyo and couldn't be happier. The fee structure is straightforward and the features are already great but they keep adding new ones based on feedback.
+”
+ 
+Jennifer Fenton
+Sr Director of Marketing
+Case study
+ 
+ 
+6:47
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Instead of the usual monthly check-in and upsell, the collaboration is constant, communication is immediate, and the team is truly invested in our success.
+”
+ 
+Kyle Cannon
+Digital Marketing Manager
+Case study
+ 
+64%
+reduction in marketing stack costs
+“
+We didn’t just consolidate platforms with Maestra, we upgraded everything. Maestra team gives specific recommendations and holds us accountable.
+”
+ 
+Nick Salisbury
+E-commerce Director
+Case study
+ 
+ 
+1:15
+“
+I’m very happy with the product overall, and we’re even considering applying Maestra to our second brand as a 2025 project.
+”
+ 
+Will Palumbo
+Director of Marketing
+Case study
+ 
+2.2x
+total revenue growth
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+The integration was quick and easy. The team is always just a message away, providing hands-on support. Maestra has significantly improved my email design and helped with Shopify product pages and promotion-specific projects.
+”
+ 
+Brodie Johnson
+E-Commerce Sales Account Manager
+Case study
+ 
+ 
+1:35
+“
+I’m super pleased with what we’ve achieved together and can’t recommend them enough.
+”
+ 
+Ceata E. Lash
+CEO
+Case study
+ 
+2x
+email engagement growth
+“
+Maestra has become an essential part of our workflow. Its ease of use, reliable performance, and excellent support have exceeded our expectations.
+”
+ 
+Stephanie Bregman
+Vice President Marketing
+Case study
+ 
+8.9%
+campaign-driven revenue increase
+“
+The best thing about Maestra’s recommendations is their flexibility. We can let the AI engine run on autopilot. Or we can adjust it ourselves to match what we know works well together.
+”
+ 
+Jessie Gullikson
+Brand Director
+Case study
+ 
++111.7%
+in online order volume
+“
+We’ve not only significantly boosted our marketing efficiency but also created a cohesive omnichannel experience for our customers.
+”
+ 
+Etan Efrati
+E-Commerce Manager
+Case study
+ 
+5 hrs
+of work time saved weekly
+“
+Our Maestra marketer has been ASTOUNDING with his onboarding service. He is fast, solutions oriented, helpful and it’s made the transition so much easier.
+”
+ 
+Lauren Roe
+Founder and Creative Director
+Case study
+ 
++39%
+in email-driven sales
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+Our Maestra marketer has helped us to build out new and smarter automations and site personalizations. We meet weekly and she helps us through absolutely everything, whether it’s strategic planning, ideas for site experience, and even implementation. I’ve never gotten this type of service from a platform.
+”
+ 
+Noah Cook-Dubin
+Head of Marketing
+Case study
+ 
++55%
+email-attributed revenue
+ 
+ 
+ 
+ 
+ 
+ 
+5.0
+“
+With Maestra, we finally have a clear view of the customer journey thanks to reporting we can trust. We’re launching flows we couldn’t build before and running advanced segmentation across all our audiences.
+”
+ 
+Emily Hudson
+Email Marketing Manager
+Case study
+ 
+Load more
+Recognized by industry
+Ranked highest in multiple categories by G2 users
+ 
+ 
+ 
+ 
+ 
+ 
+4.8
+Easy integration and migration
+No IT required for support and operation
+Your forward-deployed marketer handles all integration setups. You focus on strategy
+More about white-glove service
+ 
+Ready-to-use integrations with major platforms and support for custom needs via API and SDK
+Reliability and security
+Consistent performance – even under the demands of Black Friday
+high load
+2M RPM
+processing speed
+<300 MS
+Upholding international standards to protect customer data
+SOC 2 Type 2
+GDPR
+CCPA
+2FA authentication
+Data masking
+SIEM integration
+HIPAA
+Worldwide data and platform locations
+ 
+FAQ
+How does Maestra’s pricing work?
+ 
+Pricing starts at $2,000 per month: the Customer Data Platform with your first 100,000 active profiles, plus email. Above 100,000, it is a flat $0.013 per active profile - no tiers, no cliff edges.
+Your billable profile count is a rolling 12-month average, so a seasonal spike does not reprice you for the rest of the year.
+From there you add only the channels and capabilities you need, such as SMS, onsite personalization, and loyalty, as flat monthly modules. Migration, implementation, and ongoing optimization by our team are included.
+Do you require annual contracts?
+ 
+No. Maestra offers flexible, month-to-month billing — no long-term commitments required.
+Are there any setup or onboarding fees?
+ 
+No. Migration and implementation are included at no additional cost.
+What kind of ROI can we expect?
+ 
+Results vary by business, but here are some of the results our customers have seen after switching to Maestra:
+Incremental revenue gains of 5–15% (
+Blossom Flower Delivery
+)
+Website conversion rate increases of 5–15% (
+Enlightened Equipment
+)
+Higher average order value, growing by as much as 40% (
+Enlightened Equipment
+)
+Reduced resource demands, saving up to 25 hours per month (
+REKS
+)
+ROI exceeding 20x — often within just a few months (
+German Kabirski
+)
+Stronger engagement metrics (e.g., open rates and click rates) improving by up to 50% (
+Coolibar
+)
+Lower cost per order, with reductions up to 44% (
+PuffCuff
+)
+Marketing tech stack savings of up to 75%, thanks to platform consolidation (
+Urban Armor Gear
+)
+See all customer stories
+ 
+What is considered an active profile?
+ 
+A profile counts as active in a calendar month if any of these happen:
+You send it a message (email, SMS, WhatsApp, or push)
+It visits your website or mobile app
+It makes a purchase
+Anonymous visitors and inactive profiles are not counted and are never billed.
+For billing, your profile count is the rolling 12-month average of your monthly active profiles, so one seasonal spike does not set your price for the year.
+Will there be additional fees for email volume, database size, or multiple brands?
+ 
+No. Maestra does not meter your email volume or charge for the size of your database:
+Unlimited email sends: 
+no per-send or volume fees
+No database pricing: 
+storing more profiles never costs more
+Multiple brands: 
+one brand included; each additional brand is $1,000 per month
+What are additional services available?
+ 
+Beyond the platform, its channel modules, and the included white-glove implementation, these optional add-on services are available:
+Deliverability white-glove: 
+dedicated sending IPs ($3,000 per month), DMARC and spoofing protection, and inbox-placement and reputation monitoring
+A staging environment for safe testing: $500 per month
+Additional brands under one account: $1,000 per month each, one brand included
+Migration, implementation, campaign and journey setup, and ongoing optimization by a dedicated team are included with every plan.
+How much do SMS, MMS, and RCS messages cost?
+ 
+Messaging is pay-as-you-go on top of your subscription, metered in Messaging Credits. One credit costs $0.01, and one US text message is one credit.
+Every rate is all-inclusive: carrier and operator fees are already in it, nothin

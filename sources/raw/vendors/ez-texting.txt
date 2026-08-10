@@ -1,0 +1,2629 @@
+===== llms.txt :: https://www.eztexting.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# EZ Texting
+> EZ Texting is an SMS and MMS marketing platform for businesses and organizations, founded in 2004. It supports bulk SMS/MMS campaigns, two-way conversational texting, automation and multi-step workflows, RCS, dedicated short codes, and a developer SMS API — with built-in A2P/10DLC compliance and CRM integrations.
+Last updated: 2026-06-23
+EZ Texting helps small businesses and enterprises reach customers by text: grow opt-in contact lists, send mass or triggered messages, automate replies, and measure results. Self-serve plans start at $25/month with a 14-day free trial (no credit card required); see Pricing below.
+## Get Started
+- [Pricing](https://www.eztexting.com/pricing): EZ Texting plans — Launch, Boost, Scale, and Enterprise — with monthly/annual prices, included message credits, per-credit overage rates, add-ons, and the 14-day free trial.
+- [Start a Free Trial](https://www.eztexting.com/start): Create an account and start texting on a 14-day free trial — no credit card required.
+- [Request a Demo](https://www.eztexting.com/demo): Book a guided walkthrough of EZ Texting with the team.
+- [Integrations](https://www.eztexting.com/integrations): Connect EZ Texting to tools like HubSpot, Mailchimp, Constant Contact, Squarespace, Stripe, and Zapier.
+## Product Overview
+- [Product](https://www.eztexting.com/features): EZ Texting’s SMS features include powerful contact management and messaging tools like automated messaging, analytics, and integration with CRM systems.
+- [How Does Text Marketing Work?](https://www.eztexting.com/how-text-marketing-works): How does EZ Texting SMS marketing work? Learn how to get started & most importantly, how to do it effectively here.
+## SMS Marketing Features
+- [RCS](https://www.eztexting.com/features/rcs): Discover Rich Communication Services (RCS) texting; interactive messaging with dynamic multimedia, verified business branding, read receipts, and more for iPhone and Android devices.
+- [Mass Texting](https://www.eztexting.com/resources/sms-resources/mass-text-messaging): Learn how to send mass text messages with the best mass texting service available, EZ Texting. Explore mass text laws and software features like personalization.
+- [Conversational Texting](https://www.eztexting.com/features/two-way-texting): Discover the benefits of two-way SMS Messaging for real-time customer engagement, automated responses, and efficient marketing.
+- [Text Automations](https://www.eztexting.com/features/text-message-automation): Discover the best automated texting software for businesses. Improve engagement, streamline marketing, and boost efficiency with SMS automation tools.
+- [Workflows](https://www.eztexting.com/features/workflows): Learn which flows you should send for SMS to improve engagement, streamline communication, and boost efficiency.
+- [Text-to-Pay](https://www.eztexting.com/features/text-to-pay): Get paid faster with EZ Texting’s text-to-pay. Create and send secure payment request links and collect payments by text.
+- [Text-to-Give](https://www.eztexting.com/features/text-to-give): Empower donors to give instantly with text-to-give. Securely request and collect donations by text right from the EZ Texting platform.
+- [Short Codes](https://www.eztexting.com/features/dedicated-short-codes): Discover the benefit of a dedicated short code for your business & your text message marketing.
+- [AI Compose](https://www.eztexting.com/features/ai-compose): Streamline your sms marketing processes with AI Compose, the easiest AI SMS generator service to use.
+- [AI Reply](https://www.eztexting.com/features/ai-reply): Generate accurate, on-brand text replies in seconds. AI Reply streamlines inbox management while keeping you in full control.
+- [SMS API](https://www.eztexting.com/features/sms-api): Integrate a custom SMS API, automate messaging, and optimize your campaigns to drive authentic engagement at scale.
+## Engagement and Reporting
+- [Leads](https://www.eztexting.com/turn-texts-into/leads): SMS lead generation with EZ Texting provides the most efficient way to instantly connect to potential customers and showcase your sales and marketing messages.
+- [Appointments](https://www.eztexting.com/turn-texts-into/appointments): Maximize your scheduling efficiency with EZ Texting. Appointment reminders can boost your engagement and conversion rates.
+- [Employee Engagement](https://www.eztexting.com/turn-texts-into/employee-engagement): Boost employee engagement with EZ Texting. Use SMS to enhance communication, increase team participation, and improve overall workplace satisfaction.
+- [Alerts](https://www.eztexting.com/turn-texts-into/alerts): Text alerts provide the fastest and most effective way to reach a large audience instantly. When every second counts, send an SMS text alert.
+- [Donations](https://www.eztexting.com/turn-texts-into/donations): Instantly connect to your audience, drive more donations, and beat your fundraising goals with the best-in-class text-to-give SMS platform, EZ Texting.
+- [Attendees](https://www.eztexting.com/turn-texts-into/attendees): A powerful SMS marketing service like EZ Texting can drive event attendance and power your IRL success with features and tools designed for text invitations and reminders.
+## Targeted Solutions
+- [Solutions](https://www.eztexting.com/solutions): EZ Texting provides businesses with unparalleled text marketing solutions like bulk SMS campaigns, rapid customer communication, employee operations & more.
+- [Nonprofits](https://www.eztexting.com/industries/nonprofits): Boost your nonprofit’s impact with SMS for nonprofits from EZ Texting. Send urgent updates, rally support, and drive results fast.
+- [Churches](https://www.eztexting.com/industries/church): EZ Texting is the leading text messaging service for churches, helping ministries connect, grow, and engage their communities easily.
+- [eCommerce](https://www.eztexting.com/industries/ecommerce): Discover SMS marketing for eCommerce that drives sales, boosts customer loyalty, and recovers abandoned carts with personalized, automated text campaigns.
+- [Retailers](https://www.eztexting.com/industries/retail): Discover sms marketing for retail that boosts sales, engages shoppers, and recovers carts with automated, personalized text campaigns.
+- [Political Campaigns](https://www.eztexting.com/industries/political-texting): Explore the power of political texting. Learn effective strategies, discover essential tools, and elevate your outreach game with SMS marketing.
+- [Healthcare Providers](https://www.eztexting.com/industries/healthcare): SMS for healthcare that cuts no-shows, boosts patient engagement, and keeps staff informed with secure, automated text reminders.
+- [K-12 Schools](https://www.eztexting.com/industries/schools): Engage parents, students, and staff with EZ Texting’s SMS for schools—alerts, reminders, and campaigns to keep your K-12 community connected.
+- [All Industries](https://www.eztexting.com/industries): EZ Texting has customized solutions to fit your business. Find your industry here and learn more about how EZ Texting can jump start your text marketing!
+## Retail SMS Use Cases
+- [Apparel & Accessories](https://www.eztexting.com/use-cases/retail/apparel-accessories): How apparel & accessories retailers use SMS to recover carts, run flash sales, alert back-in-stock, and reward VIPs.
+- [Restaurants](https://www.eztexting.com/use-cases/retail/restaurant): How restaurants retailers use SMS to fill slow periods, cut no-shows, run loyalty, and drive repeat visits.
+- [Electronics & Mobile](https://www.eztexting.com/use-cases/retail/electronics-mobile): How electronics & mobile retailers use SMS to cut repair-status calls, renew warranties, drive trade-ins, and sell out launches.
+- [Home Goods & Furniture](https://www.eztexting.com/use-cases/retail/home-goods-furniture): How home goods & furniture retailers use SMS to nurture design projects, track custom orders, and win repeat buyers.
+- [Food & Beverage](https://www.eztexting.com/use-cases/retail/food-beverage): How food & beverage retailers use SMS to launch seasonal products, fill tastings, and cut subscription churn.
+- [Personal Care](https://www.eztexting.com/use-cases/retail/personal-care): How personal care retailers use SMS to drive reorders, convert samples, and run seasonal campaigns.
+- [Appliances](https://www.eztexting.com/use-cases/retail/appliances): How appliance retailers use SMS to coordinate deliveries, lift warranty registration, and bring owners back for trade-ins.
+- [Auctions](https://www.eztexting.com/use-cases/retail/auctions): How auction houses use SMS to fill lot previews, collect winning-bid payments, and announce every new sale.
+- [Auto Parts](https://www.eztexting.com/use-cases/retail/auto-parts): How auto parts retailers use SMS to drive seasonal maintenance, clear special orders, and take parts orders by text.
+- [Digital Products](https://www.eztexting.com/use-cases/retail/digital-products): How digital product sellers use SMS to deliver license keys instantly, prevent renewal churn, and launch to buyers.
+- [Hardware & Home Improvement](https://www.eztexting.com/use-cases/retail/hardware-home-improvement): How hardware and home improvement stores use SMS to notify on special orders, bring rentals back on time, and coordinate contractors.
+- [Specialty Goods](https://www.eztexting.com/use-cases/retail/specialty-goods): How specialty goods retailers use SMS to alert collectors to rare drops, reward VIPs, and fill in-store events.
+- [Supplements](https://www.eztexting.com/use-cases/retail/supplements): How supplement retailers use SMS to time reorder reminders, protect subscriptions, and launch new products compliantly.
+- [Wholesale](https://www.eztexting.com/use-cases/retail/wholesale): How wholesale distributors use SMS to send back-in-stock alerts, share order updates, and take bulk reorders by text.
+## Transportation SMS Use Cases
+- [Freight & Trucking](https://www.eztexting.com/use-cases/transportation/freight-trucking): How freight brokers and trucking fleets use SMS to speed load acceptance, keep shippers updated with ETAs, recruit drivers, and hit DOT compliance deadlines.
+- [Shipping & Logistics](https://www.eztexting.com/use-cases/transportation/shipping-logistics): How shipping and logistics operations use SMS to track shipments, confirm dispatch changes, fill open shifts, and speed proof of delivery.
+- [Passenger Transport](https://www.eztexting.com/use-cases/transportation/passenger-transport): How passenger-transport operators use SMS to cut no-shows, confirm rides, coordinate dispatch, and keep passengers updated.
+- [Airlines](https://www.eztexting.com/use-cases/transportation/airline): How airlines use SMS to cut flight-status calls, confirm bookings and check-ins, and fill seats with promotional fare alerts.
+- [Moving Services](https://www.eztexting.com/use-cases/transportation/moving-services): How moving companies use SMS to follow up on quotes, coordinate move day, and win reviews and referrals.
+- [Parking](https://www.eztexting.com/use-cases/transportation/parking): How parking operators use SMS to take payments by text, renew permits, and fill spaces with availability alerts.
+## Hospitality SMS Use Cases
+- [Fitness & Wellness](https://www.eztexting.com/use-cases/hospitality/fitness-wellness): How gyms, studios, and wellness centers use SMS to onboard new members, cut class no-shows, drive personal-training revenue, and win back cancellations.
+- [Clubs, Groups & Memberships](https://www.eztexting.com/use-cases/hospitality/clubs-groups-memberships): How clubs and membership organizations use SMS to grow and renew memberships, drive event attendance, collect dues, and keep members engaged.
+- [Bars & Nightlife](https://www.eztexting.com/use-cases/hospitality/bars-nightlife): How bars, clubs, and nightlife venues use SMS to fill slow nights, promote live events, take private-event bookings, and turn first-timers into regulars.
+- [Salons & Spas](https://www.eztexting.com/use-cases/hospitality/salons-spas): How salons and spas use SMS to reduce no-shows, prompt rebooking, fill last-minute cancellations, and drive product and review revenue.
+- [Pet Services](https://www.eztexting.com/use-cases/hospitality/pet-services): How pet-care businesses use SMS to confirm appointments, send vaccination and grooming reminders, fill open slots, and answer owner questions.
+- [Travel & Tourism](https://www.eztexting.com/use-cases/hospitality/travel): How travel and tourism operators use SMS to confirm bookings, cut support calls, fill last-minute openings, and win reviews and referrals.
+- [Event & Guest Services](https://www.eztexting.com/use-cases/hospitality/event-guest-services): How event and guest-services businesses use SMS to nurture inquiries, coordinate day-of logistics, gather post-event feedback, and drive seasonal bookings.
+- [Lodging & Accommodations](https://www.eztexting.com/use-cases/hospitality/lodging-accommodations): How hotels and lodging use SMS to streamline pre-arrival check-in, upsell the stay, cut front-desk calls, and collect guest reviews.
+## Healthcare SMS Use Cases
+- [Patient Care](https://www.eztexting.com/use-cases/healthcare/patient-care): How hospitals, clinics, and care teams use HIPAA-mindful SMS to cut appointment no-shows, reduce readmissions, improve medication adherence, and route behavioral-health crises.
+- [Med Spas](https://www.eztexting.com/use-cases/healthcare/med-spa): How med spas use SMS to cut no-shows, drive rebooking, fill last-minute cancellations, and grow membership and retail revenue.
+- [Healthcare Staffing](https://www.eztexting.com/use-cases/healthcare/staffing): How healthcare staffing agencies use SMS to fill open shifts fast, track credentials, onboard contractors, and re-engage lapsed workers.
+- [Pharmaceutical](https://www.eztexting.com/use-cases/healthcare/pharmaceutical): How pharmaceutical and pharmacy teams use SMS to lift medication adherenc
+
+===== homepage :: https://www.eztexting.com/
+--- SIGNALS ---
+title: SMS Marketing Services | Text Message Marketing | EZ Texting
+meta_description: Featuring fast registration and powerful tools, EZ Texting is the best mass texting service for sending bulk SMS marketing messages and MMS messaging. Start your free trial today!
+og_description: Featuring fast registration and powerful tools, EZ Texting is the best mass texting service for sending bulk SMS marketing messages and MMS messaging. Start your free trial today!
+og_site_name: EZ Texting
+h1: SMS Marketing That’s Easy to Use & Impossible to Outgrow
+h2: Billions of Messages Sent by 230,000+ Customers — Trust Your Texts to the Industry’s Best SMS Marketing Service | Text-to-Pay | Automated Workflows | Multilingual Texting | AI Reply | Text-to-Give | Features That Move Your Business Forward | See What Makes EZ Texting the Best SMS Marketing Software | The Most Powerful Text Marketing Features Available | How a Real Estate Firm Generated $1 Million Using Text Marketing | EZ Texting Sets the Standard in SMS Marketing | Effortlessly Text Using the Leader in SMS Marketing | Built-In Trust for SMS Marketing Campaigns | Protect Your Business & Your Audience | Responsible Messaging With Ease | See What Makes EZ Texting the Best SMS Marketing Software | Want to Reach Your Audience? | Text Marketing Resources | Join the 230,000+ Who Have Used EZ Texting to Connect with Their Audiences.
+jsonld_org: [{"@type": "Organization", "@id": "https://www.eztexting.com/#organization", "description": "Featuring fast registration and powerful tools, EZ Texting is the best mass texting service for sending bulk SMS marketing messages and MMS messaging. Start your free trial today!", "name": "EZ Texting Inc", "sameAs": "https://www.facebook.com/EZTexting/ https://x.com/EzTexting https://www.instagram.com/ez_texting/ https://www.youtube.com/user/EzTexting https://www.linkedin.com/company/eztexting/", "url": "https://www.eztexting.com", "telephone": "+1-800-753-5732", "contactPoint": {"@type": "ContactPoint", "telephone": "+1-800-753-5732", "url": "https://www.eztexting.com/help", "contactType": "Customer Service"}, "image": {"@type": "ImageObject", "representativeOfPage": "True", "url": "https://www.eztexting.com/sites/default/files/styles/social_media/public/2026-04/ez-texting-sms-marketing-q2-26.png", "width": "1200", "height": "630"}, "logo": {"@type": "ImageObject", "url": "https://www.eztexting.com/sites/default/files/brand-assets/EZ-Texting-logo.svg"}, "address": {"@type": "PostalAddress", "streetAddress": "548 Market St Suite 44523", "addressLocality": "San Francisco", "addressRegion": "CA", "postalCode": "94104", "addressCountry": "US"}}, {"@type": "Organization", "@id": "https://www.eztexting.com/#organization", "url": "https://www.eztexting.com/"}, {"@type": "Organization", "@id": "https://www.eztexting.com/#organization", "url": "https://www.eztexting.com/"}, {"@type": "Organ
+--- TEXT ---
+SMS Marketing Services | Text Message Marketing | EZ Texting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+GET STARTED
+ 
+ 
+How Does Text Marketing Work?
+ 
+ 
+ 
+Request a Demo
+ 
+ 
+ 
+Free Trial
+ 
+ 
+ 
+ 
+FEATURES
+ 
+ 
+RCS
+ 
+ 
+ 
+Mass Texting
+ 
+ 
+ 
+Conversational Texting
+ 
+ 
+ 
+Text Automations
+ 
+ 
+ 
+Workflows
+ 
+ 
+ 
+Text-to-Pay
+ 
+ 
+ 
+Text-to-Give
+ 
+ 
+ 
+Short Codes
+ 
+ 
+ 
+AI Compose
+ 
+ 
+ 
+AI Reply
+ 
+ 
+ 
+SMS API
+ 
+ 
+ 
+All Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automate Text Messaging with Workflows
+ 
+From after-hours replies and event reminders to feedback requests and abandoned cart recovery, Workflows sends the right message automatically — so you can spend less time texting, and more time growing your business.
+Explore Popular Workflows
+ 
+ 
+Solutions
+ 
+ 
+ 
+TURN TEXTS INTO
+ 
+ 
+Leads
+ 
+ 
+ 
+Appointments
+ 
+ 
+ 
+Employee Engagement
+ 
+ 
+ 
+Alerts
+ 
+ 
+ 
+Donations
+ 
+ 
+ 
+Attendees
+ 
+ 
+ 
+ 
+EFFORTLESS TEXTING FOR
+ 
+ 
+Car Dealerships
+ 
+ 
+ 
+eCommerce
+ 
+ 
+ 
+Retail
+ 
+ 
+ 
+Insurance
+ 
+ 
+ 
+Legal
+ 
+ 
+ 
+Hospitality
+ 
+ 
+ 
+Nonprofits
+ 
+ 
+ 
+Higher Education
+ 
+ 
+ 
+Churches
+ 
+ 
+ 
+All Industries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Solutions Built for Your Industry
+ 
+See how businesses across 25+ industries use EZ Texting to boost engagement, drive revenue, and streamline communication.
+Explore Industries
+ 
+ 
+Resources
+ 
+ 
+ 
+EDUCATION
+ 
+ 
+Articles & Videos
+ 
+ 
+ 
+Success Stories
+ 
+ 
+ 
+Competitor Comparisons
+ 
+ 
+ 
+Migrate to EZ Texting
+ 
+ 
+ 
+ 
+SUPPORT & SAFETY
+ 
+ 
+Product Updates
+ 
+ 
+ 
+Help Center
+ 
+ 
+ 
+Trust & Compliance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 Consumer Texting Behavior Report
+ 
+SMS has won. Now the bar is higher. Find out what consumers expect from business texting, what keeps them engaged, and what makes them opt out.
+Read the Report
+ 
+ 
+Pricing
+ 
+Log In
+ 
+What Is RCS & Why It Matters to You
+ 
+Get a Demo
+ 
+ 
+Log In
+ 
+Get a Demo
+ 
+Start Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Marketing 
+That’s Easy to Use & 
+Impossible
+ to Outgrow
+Connect better and convert more with EZ Texting’s best-in-class SMS marketing software, designed to deliver effortless mass texting and MMS messaging.
+Start for Free
+Fast registration, no credit card required
+Get a Demo
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Billions of Messages Sent by 230,000+ Customers — Trust Your Texts to the Industry’s Best SMS Marketing Service
+Image
+ 
+Image
+ 
+ 
+ 
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text-to-Pay
+Create and send payment links by text message so customers can submit payments in just a few clicks – helping you get paid faster without the usual follow-up.
+Explore
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automated Workflows
+Create powerful SMS automations that boost engagement and conversions with ready-made templates and an intuitive drag-and-drop builder.
+Explore
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Multilingual Texting
+Reach wider audiences by communicating with contacts in their preferred language using six supported character sets: English, French, Spanish, Hebrew, Arabic, and Korean.
+Explore
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI Reply
+Turn your website, knowledge base, and PDFs into AI-powered SMS replies so your team can answer customers faster while staying accurate and on-brand.
+Explore
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text-to-Give
+Empower supporters to give in seconds with mobile-friendly payment links that make it easy to securely request and collect donations, without the unnecessary friction.
+Explore
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features That Move Your Business Forward
+Everything you need to reach, engage, and grow your audience – all in one easy-to-use platform.
+See All Features
+ 
+ 
+ 
+ 
+ 
+ No Hidden 
+Fees
+ 
+ Opt-In 
+Tools
+ 
+ Unlimited 
+Contacts
+ 
+ Contact 
+Management
+ 
+ Message 
+Automations
+ 
+ Advanced 
+Reports
+ 
+Choose a Plan for Your Business
+ 
+ 
+ 
+See What Makes 
+EZ Texting the Best SMS 
+Marketing Software
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Most Powerful Text Marketing 
+Features Available
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect instantly
+Bulk SMS
+Instantly send SMS messages to 10 or 10,000
+MMS Messaging
+A Shutterstock editor anchors our MMS experience
+Two-Way SMS
+The missing link in your 1‑to‑1 marketing strategy
+SMS Short Codes
+Boost engagement with a 5 or 6‑digit SMS short code
+Auto Replies & SMS Automation
+Achieve rapid response rates with SMS automations
+Grow & Optimize
+Unlimited Free Contacts
+Add contacts manually or bulk‑upload SMS opt‑ins
+SMS Opt-In Tools
+Features to quickly & effortlessly grow your SMS list
+Effortlessly Plan SMS Campaigns
+Schedule texts & visually plan campaigns
+Advanced SMS Reports
+Understand your analytics to learn, optimize & grow
+See All Features
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How a Real Estate Firm Generated 
+$1 Million Using Text Marketing
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The data we get from our text messages 
+is as valuable as the leads themselves.
+ 
+Brad McCoy, Principal
+ $1M
+ in additional 
+revenue
+ 16
+ Deals closed 
+via text
+Read More
+ 
+ 
+EZ Texting Sets the Standard in SMS Marketing
+ 
+ 
+“We love EZ Texting! We use EZ Texting to communicate with candidates and our current employees. The product helps with time consuming phone calls and with dealing with a younger generation, who are not keen on answering phone calls.” 
+ 
+ 
+ 
+Jessica Pulliam
+ | Sr. HR Specialist
+HUNTER ENGINEERING CO.
+ 
+“EZ Texting sets the standard in text messaging. Their feedback/report portal is easy to use, archive, and download. Their customer service is amazing. I highly endorse and support EZ Texting for all my communication needs.”
+ 
+ 
+David LeDuc
+ | Owner
+SMALL BUSINESS
+ 
+“It’s completely changed our business. EZ Texting is incredibly easy to use. I’ve recommended it to dozens of people, some more tech savvy than others. Everyone has commented how simple it is to get started.”
+ 
+ 
+ 
+Steve A.
+ | Sales Manager
+SMALL BUSINESS
+ 
+ 
+Effortlessly Text 
+Using the Leader in 
+SMS Marketing
+Image
+ 
+Image
+ 
+ 
+ 
+Built-In Trust for SMS Marketing Campaigns
+Stay compliant automatically. Our SMS messaging service captures opt-in consent, gives one-tap STOP links, and aligns with CTIA rules and carrier 10DLC so every bulk SMS or MMS campaign lands safely.
+Protect Your Business & 
+Your Audience
+Avoid costly fines and spam blocks with A2P registration, real-time deliverability monitoring, and proactive safeguards that keep your text messaging service green-lit and your SMS advertising uninterrupted.
+Responsible Messaging 
+With Ease
+From appointment reminders to promotional SMS campaigns, EZ Texting preloads compliant defaults and best practices. Even first-time users can grow opt-ins, nurture contacts, and scale SMS marketing services without wrestling with regulations.
+ 
+ 
+ 
+See What Makes EZ Texting the Best SMS Marketing Software
+Customer Stories
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Stories
+ 
+ 
+It's Easy
+Want to Reach Your Audience?
+Start Free
+ 
+ 
+Text Marketing Resources
+View All Resources
+View All Articles
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How Do EZ Texting Credits Work? Cost, Usage & Optimization Tips
+ 
+ Get the most out of your messaging budget by understanding how EZ Texting…
+ 
+May 12, 2026
+ 
+Read
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to Increase Sales with SMS Promotions & Discounts
+ 
+ Reach customers and boost sales with promotional text messages that work!
+ 
+Apr 16, 2026
+ 
+Read
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS vs MMS: What’s the Difference?
+ 
+ Learn the differences between SMS vs MMS Messaging and how they can help power…
+ 
+Apr 12, 2026
+ 
+Read
+ 
+ 
+ 
+ 
+Join the 230,000+ Who Have Used EZ Texting to Connect with Their Audiences.
+ 
+Start Your 14-Day Free Trial
+ 
+ 
+Products
+ 
+RCS
+ 
+Mass Texting
+ 
+Two-Way Texting
+ 
+Text Automations
+ 
+Workflows
+ 
+SMS vs MMS
+ 
+MMS Messaging
+ 
+Call Forwarding
+ 
+Contact Cards
+ 
+Integrations
+ 
+All Features
+ 
+Pricing
+Industries
+ 
+Car Dealerships
+ 
+eCommerce
+ 
+Retail
+ 
+Insurance
+ 
+Legal
+ 
+Hospitality
+ 
+Nonprofits
+ 
+Higher Education
+ 
+Healthcare
+ 
+Restaurants
+ 
+Education (K-12)
+ 
+Churches
+ 
+All Industries
+Resources
+ 
+Blog
+ 
+Case Studies
+ 
+Competitor Comparisons
+ 
+Migrate to EZ Texting
+ 
+Guides
+ 
+Videos
+Compare
+ 
+vs SimpleTexting
+ 
+vs SlickText
+ 
+vs Textla
+ 
+vs Text In Church
+ 
+vs TextMagic
+ 
+vs Textedly
+ 
+vs Text-Em-All
+ 
+vs Text Request
+ 
+vs TextUs
+ 
+vs ClickSend
+ 
+vs Project Broadcast
+Support
+ 
+Contact Us
+ 
+Help Center
+ 
+Trust & Compliance
+ 
+Getting Started Guide
+ 
+API Docs
+Company
+ 
+About Us
+ 
+Careers
+ 
+Press
+ 
+Trust & Compliance
+ 
+Platform Security
+ 
+API & Developers
+ 
+Affiliate Program
+ 
+Sitemap
+Subscribe to Get Updates
+Subscribe
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EZ Texting
+®
+ is a 100% opt-in service. Please see our 
+Privacy Policy
+, 
+Terms Of Service
+ & 
+Anti-Spam Policy
+ to learn about our position on SPAM and the privacy of your data.
+Msg&data rates may apply in the US. Standard message and data rates apply in Canada. To unsubscribe from an EZ Texting
+®
+ list, simply text ‘STOP’ to the originating short code or 
+contact support
+.
+EZ Texting
+®
+ neither provides lists of phone numbers nor do we access our clients' contact lists.
+EZ Texting
+®
+, and are registered trademarks of CallFire Inc.
+© EZ Texting 2026
+ 
+ 
+Get your free Guide to
+Mass Text Messaging
+Grow your list and stay compliant
+Proven best practices for mass texting
+Easy step-by-step setup tips
+GET THE FREE GUIDE
+Maybe later - Show me Pricing
+
+===== product :: https://www.eztexting.com/features
+--- SIGNALS ---
+title: SMS Marketing Features | EZ Texting
+meta_description: EZ Texting’s SMS features include powerful contact management and messaging tools like automated messaging, analytics, and integration with CRM systems.
+og_description: EZ Texting’s SMS features include powerful contact management and messaging tools like automated messaging, analytics, and integration with CRM systems.
+og_site_name: EZ Texting
+h1: SMS Marketing Features
+h2: Securing Your Textable Numbers | Managing Your Contacts | Growing Your SMS Contact List | Tracking Your Team & Activities | Automating Your Campaigns | Enhancing Your Messages | Text Message Types | Integrating with Helpful Tools | Join the 230,000+ Who Have Used EZ Texting to Connect with Their Audiences.
+jsonld_org: [{"@type": "Organization", "@id": "https://www.eztexting.com/#organization", "url": "https://www.eztexting.com/"}]
+--- TEXT ---
+SMS Marketing Features | EZ Texting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+GET STARTED
+ 
+ 
+How Does Text Marketing Work?
+ 
+ 
+ 
+Request a Demo
+ 
+ 
+ 
+Free Trial
+ 
+ 
+ 
+ 
+FEATURES
+ 
+ 
+RCS
+ 
+ 
+ 
+Mass Texting
+ 
+ 
+ 
+Conversational Texting
+ 
+ 
+ 
+Text Automations
+ 
+ 
+ 
+Workflows
+ 
+ 
+ 
+Text-to-Pay
+ 
+ 
+ 
+Text-to-Give
+ 
+ 
+ 
+Short Codes
+ 
+ 
+ 
+AI Compose
+ 
+ 
+ 
+AI Reply
+ 
+ 
+ 
+SMS API
+ 
+ 
+ 
+All Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automate Text Messaging with Workflows
+ 
+From after-hours replies and event reminders to feedback requests and abandoned cart recovery, Workflows sends the right message automatically — so you can spend less time texting, and more time growing your business.
+Explore Popular Workflows
+ 
+ 
+Solutions
+ 
+ 
+ 
+TURN TEXTS INTO
+ 
+ 
+Leads
+ 
+ 
+ 
+Appointments
+ 
+ 
+ 
+Employee Engagement
+ 
+ 
+ 
+Alerts
+ 
+ 
+ 
+Donations
+ 
+ 
+ 
+Attendees
+ 
+ 
+ 
+ 
+EFFORTLESS TEXTING FOR
+ 
+ 
+Car Dealerships
+ 
+ 
+ 
+eCommerce
+ 
+ 
+ 
+Retail
+ 
+ 
+ 
+Insurance
+ 
+ 
+ 
+Legal
+ 
+ 
+ 
+Hospitality
+ 
+ 
+ 
+Nonprofits
+ 
+ 
+ 
+Higher Education
+ 
+ 
+ 
+Churches
+ 
+ 
+ 
+All Industries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Solutions Built for Your Industry
+ 
+See how businesses across 25+ industries use EZ Texting to boost engagement, drive revenue, and streamline communication.
+Explore Industries
+ 
+ 
+Resources
+ 
+ 
+ 
+EDUCATION
+ 
+ 
+Articles & Videos
+ 
+ 
+ 
+Success Stories
+ 
+ 
+ 
+Competitor Comparisons
+ 
+ 
+ 
+Migrate to EZ Texting
+ 
+ 
+ 
+ 
+SUPPORT & SAFETY
+ 
+ 
+Product Updates
+ 
+ 
+ 
+Help Center
+ 
+ 
+ 
+Trust & Compliance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 Consumer Texting Behavior Report
+ 
+SMS has won. Now the bar is higher. Find out what consumers expect from business texting, what keeps them engaged, and what makes them opt out.
+Read the Report
+ 
+ 
+Pricing
+ 
+Log In
+ 
+What Is RCS & Why It Matters to You
+ 
+Get a Demo
+ 
+ 
+Log In
+ 
+Get a Demo
+ 
+Start Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS Marketing Features
+ A powerful suite of SMS marketing features make it faster and easier to communicate with your contacts.
+ 
+ 
+ Securing Your Textable Numbers
+ Choosing the right number is an important step in the SMS journey, 
+and with EZ Texting, you’ve got options.
+ 
+10-Digit Long Code
+Secure a trusted 10DLC number
+ 
+Toll-Free Number
+Promote trust with an 800 number
+ 
+Dedicated Short Code
+Boost engagement with a memorable short code 858585
+ 
+Text-to-Landline
+Turn your landline into a textable number
+ Managing Your Contacts
+ Save time and get closer to your contacts by importing, customizing, and 
+segmenting your contacts for easy targeting and personalization.
+ 
+Unlimited Contacts
+ Add limitless contacts without restriction
+ 
+Bulk Uploads
+Upload multiple contacts simultaneously
+ 
+Contact Profiles
+Store essential details like names and emails
+ 
+Custom Contact Fields
+Add birthdays, locations, and preferred languages
+ 
+Contact Segmentation
+ Organize contacts into tags, filters, or groups
+ 
+Age Verification
+Confirms contact ages for legal requirements
+ 
+Smart Contact Cleaner
+Detect and remove duplicate or incorrect contacts
+ 
+Trust & Compliance Tools
+Ensures adherence to security and regulatory standards
+ Growing Your SMS Contact List
+ We’re ready to help your business scale with easy-to-use list growth 
+features designed to effortlessly capture new leads.
+ 
+Embeddable Sign-Up Forms
+ Customizable sign-up forms to add to your sites
+ 
+SMS Keywords
+Use Keywords for automated responses
+ 
+QR Codes
+Generates scannable QR codes to build your list
+ 
+Click-To-Text Generator
+Clickable links that automatically open SMS messages
+ Tracking Your Team & Activities
+ Get real-time insights, improve communication, ensure accountability, 
+and help optimize messaging strategies for better productivity and 
+customer engagement.
+ 
+Team Inbox
+ Centralized inbox for team responses and collaboration
+ 
+Managed Accounts
+Take administrative control over multiple user accounts
+ 
+Teammate Manager
+Assign and manage team member roles and permissions
+ 
+Reports & Analytics
+Detailed performance metrics for tracking user activity
+ 
+Rollover Credits
+Unused credits carry over to the next billing cycle
+ 
+Mobile App
+A mobile platform for managing your messages on the go
+ Automating Your Campaigns
+ 
+Automating SMS campaigns
+ enhances efficiency, increases engagement, 
+and ensures timely and personalized messaging.
+ 
+Workflows
+Automate workflows to simplify communication and save time
+ 
+SMS API
+Automatically trigger texts, update contacts, sync systems, and more
+ 
+Text Forwarding
+ Automatically forward texts to another number or email
+ 
+Voice Call Forwarding
+Redirect incoming voice calls to another number or device
+ 
+Campaign Calendar
+Visually organize scheduled campaigns with a calendar view
+ Enhancing Your Messages
+ Make composing your messages effortless with powerful AI tools, 
+easy-to-use templates, and a best-in-class MMS image editor.
+ 
+AI Compose
+ Save time and let us generate message drafts for campaigns
+ 
+AI Reply
+ Generate accurate, on-brand SMS replies from your website and documents
+ 
+Contact Cards
+ Build trust with branded messages saved to contacts
+ 
+Message Templates
+Pre-built or customizable message formats for to use or remix
+ 
+Text-to-Pay
+Send text payment links, secured by Stripe, so customers can pay in just a few taps.
+ 
+Text-to-Give
+Send text donation links, secured by Stripe, so supporters can give in just a few taps.
+ 
+Image Library & Editor
+Millions of free images and an editor powered by Shutterstock
+ 
+Link Tracker & Shortener
+Shorten URLs to save money and track engagement metrics
+ 
+Multilingual Texting
+Communicate confidently in six languages with built-in AI translation
+ Text Message Types
+ Take advantage of EZ Texting’s powerful suite of SMS text messaging tools 
+ to get the most out of your messaging.
+ 
+Mass Texting
+ Send text messages to multiple contacts simultaneously (Campaigns)
+ 
+Two-Way Texting
+Enables personalized, 1:1 text conversations with contacts
+ 
+MMS Messaging
+Sending multimedia messages with images, audio, or video
+ 
+RCS
+Rich Communication Services enhance your text messaging
+ 
+ 
+Integrating with Helpful Tools
+With a robust API and powerful integrations with best-in-class apps, EZ Texting is always 
+looking for ways to optimize your SMS marketing experience.
+ 
+ 
+Hubspot
+ Your all-in-one stop for all of your marketing software needs.
+ 
+ 
+Zapier
+Use workflows to automate SMS actions with hundreds of apps
+ 
+ 
+Squarespace
+ Connect SMS with website forms and 
+e-commerce features
+ 
+ 
+Mailchimp
+ Sync SMS with email marketing workflows
+ 
+ 
+Constant Contact
+ Integrates SMS with email marketing for cohesive campaigns
+ 
+ 
+API Access
+ Build a custom integration to integrate your app with EZ Texting
+Start Free
+ 
+ 
+ 
+ 
+Join the 230,000+ Who Have Used EZ Texting to Connect with Their Audiences.
+ 
+Start Your 14-Day Free Trial
+ 
+ 
+Products
+ 
+RCS
+ 
+Mass Texting
+ 
+Two-Way Texting
+ 
+Text Automations
+ 
+Workflows
+ 
+SMS vs MMS
+ 
+MMS Messaging
+ 
+Call Forwarding
+ 
+Contact Cards
+ 
+Integrations
+ 
+All Features
+ 
+Pricing
+Industries
+ 
+Car Dealerships
+ 
+eCommerce
+ 
+Retail
+ 
+Insurance
+ 
+Legal
+ 
+Hospitality
+ 
+Nonprofits
+ 
+Higher Education
+ 
+Healthcare
+ 
+Restaurants
+ 
+Education (K-12)
+ 
+Churches
+ 
+All Industries
+Resources
+ 
+Blog
+ 
+Case Studies
+ 
+Competitor Comparisons
+ 
+Migrate to EZ Texting
+ 
+Guides
+ 
+Videos
+Compare
+ 
+vs SimpleTexting
+ 
+vs SlickText
+ 
+vs Textla
+ 
+vs Text In Church
+ 
+vs TextMagic
+ 
+vs Textedly
+ 
+vs Text-Em-All
+ 
+vs Text Request
+ 
+vs TextUs
+ 
+vs ClickSend
+ 
+vs Project Broadcast
+Support
+ 
+Contact Us
+ 
+Help Center
+ 
+Trust & Compliance
+ 
+Getting Started Guide
+ 
+API Docs
+Company
+ 
+About Us
+ 
+Careers
+ 
+Press
+ 
+Trust & Compliance
+ 
+Platform Security
+ 
+API & Developers
+ 
+Affiliate Program
+ 
+Sitemap
+Subscribe to Get Updates
+Subscribe
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EZ Texting
+®
+ is a 100% opt-in service. Please see our 
+Privacy Policy
+, 
+Terms Of Service
+ & 
+Anti-Spam Policy
+ to learn about our position on SPAM and the privacy of your data.
+Msg&data rates may apply in the US. Standard message and data rates apply in Canada. To unsubscribe from an EZ Texting
+®
+ list, simply text ‘STOP’ to the originating short code or 
+contact support
+.
+EZ Texting
+®
+ neither provides lists of phone numbers nor do we access our clients' contact lists.
+EZ Texting
+®
+, and are registered trademarks of CallFire Inc.
+© EZ Texting 2026
+
+===== pricing_or_trust :: https://www.eztexting.com/pricing
+--- SIGNALS ---
+title: SMS Marketing Pricing | Text Marketing Rates | EZ Texting
+meta_description: Discover affordable SMS marketing pricing plans tailored to your business needs. Boost your ROI with our cost-effective texting solutions from EZ texting!
+og_description: Discover affordable SMS marketing pricing plans tailored to your business needs. Boost your ROI with our cost-effective texting solutions from EZ texting!
+og_site_name: EZ Texting
+h1: EZ Texting Pricing
+h2: Everything You Need – No Matter What Plan You Pick | RCS Business Messaging | Getting Started with Your Text Marketing Campaign | Key Factors That Influence SMS Marketing Pricing | Choosing the Right SMS Marketing Service | Powerful Integrations at Your Fingertips | Our Customers Love Us. The Feeling is Mutual | Frequently Asked Questions | Join the 230,000+ Who Have Used EZ Texting to Connect with Their Audiences.
+jsonld_org: []
+--- TEXT ---
+SMS Marketing Pricing | Text Marketing Rates | EZ Texting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+ 
+GET STARTED
+ 
+ 
+How Does Text Marketing Work?
+ 
+ 
+ 
+Request a Demo
+ 
+ 
+ 
+Free Trial
+ 
+ 
+ 
+ 
+FEATURES
+ 
+ 
+RCS
+ 
+ 
+ 
+Mass Texting
+ 
+ 
+ 
+Conversational Texting
+ 
+ 
+ 
+Text Automations
+ 
+ 
+ 
+Workflows
+ 
+ 
+ 
+Text-to-Pay
+ 
+ 
+ 
+Text-to-Give
+ 
+ 
+ 
+Short Codes
+ 
+ 
+ 
+AI Compose
+ 
+ 
+ 
+AI Reply
+ 
+ 
+ 
+SMS API
+ 
+ 
+ 
+All Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automate Text Messaging with Workflows
+ 
+From after-hours replies and event reminders to feedback requests and abandoned cart recovery, Workflows sends the right message automatically — so you can spend less time texting, and more time growing your business.
+Explore Popular Workflows
+ 
+ 
+Solutions
+ 
+ 
+ 
+TURN TEXTS INTO
+ 
+ 
+Leads
+ 
+ 
+ 
+Appointments
+ 
+ 
+ 
+Employee Engagement
+ 
+ 
+ 
+Alerts
+ 
+ 
+ 
+Donations
+ 
+ 
+ 
+Attendees
+ 
+ 
+ 
+ 
+EFFORTLESS TEXTING FOR
+ 
+ 
+Car Dealerships
+ 
+ 
+ 
+eCommerce
+ 
+ 
+ 
+Retail
+ 
+ 
+ 
+Insurance
+ 
+ 
+ 
+Legal
+ 
+ 
+ 
+Hospitality
+ 
+ 
+ 
+Nonprofits
+ 
+ 
+ 
+Higher Education
+ 
+ 
+ 
+Churches
+ 
+ 
+ 
+All Industries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Solutions Built for Your Industry
+ 
+See how businesses across 25+ industries use EZ Texting to boost engagement, drive revenue, and streamline communication.
+Explore Industries
+ 
+ 
+Resources
+ 
+ 
+ 
+EDUCATION
+ 
+ 
+Articles & Videos
+ 
+ 
+ 
+Success Stories
+ 
+ 
+ 
+Competitor Comparisons
+ 
+ 
+ 
+Migrate to EZ Texting
+ 
+ 
+ 
+ 
+SUPPORT & SAFETY
+ 
+ 
+Product Updates
+ 
+ 
+ 
+Help Center
+ 
+ 
+ 
+Trust & Compliance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 Consumer Texting Behavior Report
+ 
+SMS has won. Now the bar is higher. Find out what consumers expect from business texting, what keeps them engaged, and what makes them opt out.
+Read the Report
+ 
+ 
+Pricing
+ 
+Log In
+ 
+What Is RCS & Why It Matters to You
+ 
+Get a Demo
+ 
+ 
+Log In
+ 
+Get a Demo
+ 
+Start Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EZ Texting 
+Pricing
+Industry-leading setup time & no hidden fees.
+ 
+ 
+ 
+Annual Plans
+SAVE UP TO 20%
+ 
+ 
+Monthly Plans
+ 
+Launch
+ 
+Recommended for: 
+ up to 500 contacts
+Starting at
+$
+25
+/ Month
+ 
+Starting at
+$
+20
+/ Month
+Billed Annually
+ 
+ Trial 
+ 
+ Buy 
+Local Textable Number 
+ 
+Includes 500 monthly credits 
+ 
+Includes 6k yearly credits 
+ 
+ 
+Bundled credit discounts available at checkout
+Overage Credits: $0.04 
+ 
+ 
+1 user included 
+ 
+ 
+Subject to Telecom Fee 
+ 
+ Set-up time: within 1 business day 
+ 
+Most Popular
+Boost
+ 
+Recommended for: 
+ 500-2,000 contacts
+Starting at
+$
+75
+/ Month
+ 
+Starting at
+$
+60
+/ Month
+Billed Annually
+ 
+ Buy 
+Local High-Volume Number 
+ 
+ 
+Includes 500 monthly credits 
+ 
+Includes 6k yearly credits 
+ 
+Bundled credit discounts available at checkout
+Overage Credits: $0.035 
+ 
+1 user included 
+ 
+ 
+Waived Telecom Fee
+Set-up time: within 1 business day 
+ 
+Scale
+ 
+Recommended for: 
+ 2,000-50,000 contacts
+Starting at
+$
+125
+/ Month
+ 
+Starting at
+$
+100
+/ Month
+Billed Annually
+ 
+ Buy 
+Local High-Volume, High-Speed Number 
+ 
+Includes 500 monthly credits 
+ 
+Includes 6k yearly credits 
+ 
+Bundled credit discounts available at checkout
+Overage Credits: $0.03 
+ 
+ 
+1 user included 
+ 
+ 
+Waived Telecom Fee
+ 
+Onboarding Specialist
+Set-up time: within 1 business day 
+ 
+Enterprise
+ 
+Recommended for: 
+ 50,000+ contacts
+Starting at
+$
+3,000
+/ Month
+Starting at
+$
+3,000
+/ Month
+ 
+Let's Talk
+ 
+Dedicated Short Code 
+ 
+ 
+Includes 200k monthly credits 
+ 
+Includes 200k monthly credits 
+ 
+Bundled credit discounts available
+ 
+Overage Credits: $0.01 
+ 
+ 
+Dedicated success manager
+ 
+White-glove onboarding
+ 
+Priority support
+Set-up time: 4 to 12 weeks
+ 
+Sales tax may be applied where applicable
+Promotional Pricing Until December 5, 2022
+* Requires volume commitment; additional messages above commitment charged at $0.04/message
+** Carrier pass through fees are billed separately based on exact usage
+We support Canada!
+See Canadian Pricing
+ 
+ 
+ 
+Everything You Need – No Matter What Plan You Pick
+All of our plans include the essentials, plus features other platforms lock behind add-ons or upgrades.
+ 
+ 
+ 
+Audience 
+Growth
+Acquire opt-ins with 
+unlimited contacts, 
+keywords, QR codes, 
+signup forms, click-to-text 
+buttons, and custom fields.
+Image
+ 
+Campaign 
+Creation
+Send personalized 1:1 
+and mass messages faster with 
+AI Reply, AI Compose, and 
+a royalty-free Shutterstock 
+media library.
+Image
+ 
+Scheduling & 
+Automation
+Automate your messaging 
+with a visual campaign 
+scheduling calendar, drip 
+campaigns, and keyword 
+auto-replies.
+Image
+ 
+Conversion 
+Optimization
+Increase trust and drive 
+action with branded 
+contact cards, shortened 
+links, and text-to-pay or 
+text-to-donate links.
+Image
+ 
+Business 
+Management
+Streamline communication 
+and centralize data with a 
+team inbox, call forwarding, 
+reporting, integrations, and 
+an open API.
+Sales tax may be applied where applicable
+Promotional Pricing Until December 5, 2022
+* Requires volume commitment; additional messages above commitment charged at $0.04/message
+** Carrier pass through fees are billed separately based on exact usage
+We support Canada!
+See Canadian Pricing
+ 
+ 
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RCS Business Messaging
+The future of SMS is here. RCS (Rich Communication Services) is the industry upgrade to traditional texting, allowing businesses to deliver richer, more interactive messages. Partner with EZ Texting to ensure your business always has first access to cutting edge features like RCS.
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Branded, Verified Sender.
+ Your business name, logo, and trust badges replace phone numbers which boosts recognition and open rates.
+Rich, Interactive Experiences.
+ Send carousels, buttons, quick replies, images, video, and transactional flows (orders, payments, appointments) within the conversation.
+Enhanced Security.
+ Messages travel over encrypted channels and verified sender routes, reducing spoofing risk.
+Learn More
+ 
+ 
+ 
+Getting Started with Your Text Marketing Campaign
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STEP 1
+Secure a Trusted Number
+Utilize trusted number options that are fully carrier-approved and compliant with industry regulations:
+Local Number (10DLC) 
+Dedicated Short Code
+Toll-Free Number
+Text-Enabled Landline
+STEP 2
+Build Attentive Audiences
+Leverage customizable opt-in tools and segmentation features, ensuring that messages are delivered to a receptive audience interested in their offerings, thus maximizing engagement and conversion potential:
+Sign-Up Forms
+QR Code Generator
+Keywords
+List Uploads
+Double Opt-In
+Opt-Outs
+Workflows
+Integrations
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Image
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STEP 3
+Craft Texts That Deliver
+Manage and deliver impactful messages using a user-friendly interface, scheduling options, and analytics tools, guaranteeing optimized engagement and conversion rates:
+Mass Texts
+Two-Way Texts
+SMS & MMS
+Text Templates
+AI Compose
+Team Inbox
+ 
+Get Started
+ 
+ 
+Key Factors That Influence SMS Marketing Pricing
+Frequency of Messaging
+The number of text messages you plan to send directly affects the cost of text marketing. At EZ Texting, each plan comes with 500 credits, plus the option to purchase more.
+Quantity of Contacts
+Each outbound message uses credits per recipient, so larger audiences consume credits faster. EZ Texting plans scale with your list and include unlimited contact uploads, making it easy to grow.
+Message Type: SMS vs MMS
+SMS messages (text only, 160 characters) are 1 credit each, and MMS messages (including images or video, and/or up to 1600 characters) are 3 credits each.
+ 
+ SMS
+ 
+1 Credit
+ for each message 
+sent to each contact
+ 
+ MMS
+ 
+3 Credits
+ for each message 
+sent to each contact
+ 
+ 
+Choosing the Right SMS Marketing Service
+Not all SMS marketing services are created equal, and choosing the right SMS service is critical to success in your texting journey.
+Reliability & Compliance
+ Rely on our industry-leading delivery rates and consistent adherence to legal regulations to protect your brand’s reputation and customer trust.
+Feature Set & Scalability
+ EZ Texting offers versatile tools and the capacity to adapt to increasing messaging needs, enabling effective and expansive outreach strategies as your business expands.
+Cost-Effectiveness & ROI
+ Our affordable pricing plans, efficient campaign management tools, and analytics to measure performance empower you to optimize your SMS marketing strategies and achieve higher engagement and conversion rates without overspending.
+ 
+ 
+Powerful Integrations at Your Fingertips
+We’ve partnered with top software companies so you can easily connect with the apps you already use to drive your business, including popular services like SalesForce, HubSpot, Squarespace, Shutterstock, Transcend, Zapier, and Zendesk.
+Learn More
+ 
+ 
+Our Customers Love Us. The Feeling is Mutual
+Redefine success with text messaging solutions for every business category.
+ 
+ 
+Great service! We like the ease of use, affordable price, and the many features offered to assist in running a business and communication. I love all aspects of EZ Texting.
+Keith B
+SMALL BUSINESS OWNER
+ 
+EZ Texting is a huge time saver We are very impressed with how easy it is to send out messages to our entire company. Our agents love it because they can quickly see and respond to message(s). The pricing is perfect for our business size.
+Jacquelyn B
+EXECUTIVE REAL ESTATE BROKER ASSISTANT
+ 
+Excellent resource! We were looking for a cost effective way to set up texting campaigns. After looking at many we chose EZ Texting and are glad we did. The price was great. The service worked flawlessly.
+Darvie F
+PASTOR
+ 
+ 
+ 
+Frequently Asked Questions
+Pricing & Credits
+ 
+What are the typical SMS marketing pricing ranges?
+ 
+ 
+SMS marketing pricing can range from $0.01 - $0.05 per SMS based on your plan. Monthly subscription plans usually cost between $25 - $500+ per month.
+If you have high-volume messaging needs, plans can price at $500 - $5,000 monthly. EZ Texting is proud to offer industry-leading SMS marketing solutions at a fraction of the cost of the competition.
+ 
+ 
+ 
+What is a credit?
+ 
+ 
+Credits are the form of currency used to measure each message you send to each contact. Typically, it costs 1 credit to send 1 SMS message, and 3 credits to send 1 MMS.
+1 credit = $0.03 (price can vary between plans)
+1 SMS message (160 characters or less) = 1 credit
+1 MMS message (up to 1600 characters, may include a photo, GIF, or video) = up to 3 credits
+ 
+ 
+Do EZ Texting credits rollover?
+ 
+ 
+For customers on our current standard monthly plans, unused credits roll over for one additional billing cycle as long as your subscription remains active. In practice, that means credits stay usable for up to two months from the date they were issued.
+Rollover isn’t guaranteed on legacy plans or custom/Direct Sales (DSC) plans and might vary by contract.
+For annual plans, credits are issued upfront and expire 12 months after purchase.
+Learn more about
+ how EZ Texting credits work
+.
+ 
+ 
+Can I purchase more credits?
+ 
+ 
+Once you have purchased a plan with EZ Texting, you can add more credits at any time. And to maximize the value of all your credits, EZ Texting offers rollover credits. Credits rollover for one month only and rollover is only available to those on a monthly plan.
+ 
+ 
+Will I be charged for inbound messages?
+ 
+ 
+No, you will not be charged for inbound messages with EZ Texting, unlike many of our competitors.
+ 
+ 
+How much does an SMS cost?
+ 
+ 
+An SMS message (text only, up to 160 characters) will cost 1 credit.
+ 
+ 
+How much does an MMS cost?
+ 
+ 
+An MMS message (up to 1600 characters and/or includes an image/gif/video) will cost 3 credits.
+ 
+ 
+How do I estimate how many credits I need?
+ 
+ 
+The best way to estimate how many credits you will need is to look at your current subscriber list and how often you would like to send messages. Multiply the number of subscribers you currently have by the number of messages you would like to send to get an idea of how many credits you may need. Keep in mind that SMS messages (text only, 160 characters) are 1 credit each, and MMS messages (including images or video, and/or up to 1600 characters) are 3 credits each.
+ 
+ 
+What carrier fees do you charge?
+ 
+ 
+The $5/month Telecom Fee covers mandatory carrier fees for Launch plan customers, ensuring compliance and reliable message delivery. This fee is waived for Boost, Scale, and Enterprise plans.
+Additionally, customers messaging from 10-digit numbers have all other carrier fees included in their pricing plan.
+ 
+ 
+Can I change my plan?
+ 
+ 
+Within your EZ Texting, you can easily pause, cancel or upgrade your plan at anytime.
+ 
+Features & Plans
+ 
+What is the difference between SMS and MMS?
+ 
+ 
+SMS messages are text only messages that can have up to 160 characters.
+MMS messages can contain text up to 1600 characters long, and can include an image, video or gif.
+ 
+ 
+Are SMS and MMS the same price?
+ 
+ 
+No. SMS messages are 1 credit and are capped at 160 alphanumeric characters. MMS messages feature longer message lengths (up to 1600 alphanumeric characters) as well as added images, GIFs, or video, which is why they are typically 3 credits.
+ 
+ 
+Is A2P carrier registration included in my EZ Texting plan?
+ 
+ 
+Yes! EZ Texting plans include carrier registration at no extra cost. Other providers often charge this as a hidden fee at checkout, but we make it easy and transparent by including it in your plan. 
+Completing A2P carrier registration
+ is required to send messages; we handle it for you!
+ 
+ 
+What is the difference between inbound and outbound messages?
+ 
+ 
+Outbound messages are messages that you or your business sends to a customer.
+Inbound messages are the inquiries and replies that you may receive from a customer.
+ 
+ 
+What number can I use for texting?
+ 
+ 
+We assign you a 10-digit textable local number when you first create your account. You will not be texting from your personal phone number.
+If you have a business landline phone you would like to turn into a textabl

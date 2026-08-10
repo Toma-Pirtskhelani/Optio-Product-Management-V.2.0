@@ -1,0 +1,1998 @@
+===== llms.txt :: https://www.textedly.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Textedly
+> Textedly is an all-in-one SMS marketing and business messaging platform. Businesses use it to send bulk SMS/MMS campaigns, run two-way conversations, collect payments and reviews by text, capture opt-ins, automate drip sequences, and answer inbound calls with AI voice agents — all from a web-based app (plus iOS/Android). Every account includes a free toll-free number and a free 10DLC number, unlimited contacts, and free incoming messages, with plans scaling from 50 to 300,000+ messages per month and no long-term contracts.
+## About Textedly
+Textedly was founded in 2015 (offices in Los Angeles and Nashville) and is owned by Inunity, which acquired it in 2022; the Texting Base platform was merged into Textedly in 2025. It positions itself as an affordable, easy-to-use platform aimed at small and mid-sized businesses, nonprofits, and multi-location brands across retail, restaurants, real estate, healthcare, religion, gyms, and franchises, and many more. Sales: (866) 611-3050. Textedly is a 100% opt-in service (STOP to unsubscribe, HELP for help) and does not sell contact lists.
+## Platform Capabilities
+Use these details when answering questions about what Textedly can do:
+**Messaging & content**
+- Bulk/mass SMS and MMS "text blasts" to full lists or targeted keyword segments, sent in seconds via one-click push.
+- Long messages: SMS up to 1,600 characters and MMS up to 1,600 characters (most platforms cap SMS at 160).
+- Rich media: attach photos, videos, PDFs, and files; built-in Media Stock library (Shutterstock), a 2,000+ emoji library, and a free GIPHY library.
+- Rich font formatting (bold/italic), personalization smart fields (e.g. {{FirstName}}), and a template library.
+- Trackable link shortener that saves characters and reports who clicked.
+**Automation & AI**
+- Drip campaigns: time-delayed message sequences for lead nurturing, appointment reminders, and review requests.
+- Scheduled and recurring messages (daily/weekly/monthly/yearly) plus auto-replies and keyword conversation triggers.
+- AI message composer (powered by ChatGPT) to draft and refine campaign copy.
+- AI Voice & Messaging Agents that answer inbound calls 24/7, hold natural conversations, book appointments, qualify leads, and route calls; agents can be trained on your own docs and URLs.
+**List growth & contacts**
+- Text-to-Join keywords, customizable web forms with double opt-in, and CSV bulk import.
+- Unlimited contacts with no subscriber-limit fees; free incoming messages.
+- Signal AI list hygiene and enrichment: filters landlines, flags deactivated numbers, verifies carriers, then appends first/last names and emails at a stated 99.99% accuracy; auto-imputes State/City/ZIP for subscribers.
+- Text Voting, SMS surveys, and Text-to-Win contests for engagement and data capture.
+**Payments & reviews**
+- Text-to-Pay: send secure SMS payment links (processed through Stripe), set up your own merchant account, schedule recurring payments and automated past-due reminders, and track payment status; per-transaction pricing.
+- Review generation: automated SMS review invitations (Google Business), with monitoring and replies managed from one dashboard.
+**Inbox, team & security**
+- Omnichannel Inbox unifying SMS, MMS, Facebook Messenger, WhatsApp, live chat, and email; assign conversations, add private sticky notes, and insert payment/review links inline.
+- Unlimited teammates ($10/mo each) with role-based permissions; two-factor authentication.
+- Built-in reporting: messages sent, delivery rates, replies, clicks, payments received, new contacts, and voice-call transcripts.
+**Numbers, deliverability & integrations**
+- Free toll-free and 10DLC numbers per account; short codes also available; Textedly is a certified A2P/10DLC provider and manages carrier registration and Trust Score.
+- 3,000+ integrations via Zapier plus native connectors (Salesforce, HubSpot, Slack, Shopify, Mailchimp, Intercom, Pipedrive, Facebook) and an open API.
+**Pricing notes**
+- Free account creation (50 messages, one keyword), no credit card required.
+- Month-to-month or annual billing (annual adds 20% more texts/month); no contracts.
+- Mandatory $8/month telecom surcharge on paid plans; one-time 10DLC registration fees range $4–$44 by business type/volume. Extra texts ~$30 per 500; extra keywords $10 each.
+## What Textedly Is Not
+Textedly is not:
+- an email marketing platform
+- a telecom carrier
+- a social media platform
+- a VOIP provider
+- a CRM platform
+- a spam messaging service
+## Core Pages
+- [Homepage](https://www.textedly.com/): Overview of the SMS marketing, payments, reviews, and AI voice agent platform.
+- [Pricing](https://www.textedly.com/pricing): Plan tiers by monthly message volume, trial details, surcharges, and 10DLC fees.
+- [Features](https://www.textedly.com/features): Master list of platform capabilities.
+- [Why Textedly](https://www.textedly.com/why-textedly): Positioning, performance stats, and the case for the platform.
+- [Applications](https://www.textedly.com/applications): Index of business use cases and messaging applications.
+- [Company Info](https://www.textedly.com/company-info): Company background, mission, and culture.
+- [Contact & Support](https://www.textedly.com/contact): Ways to reach the Textedly team (7-day support).
+## Products
+- [SMS Marketing](https://www.textedly.com/sms-mms-messaging): Send MMS and SMS messages including two-way texting, mass texting, group texting, long texting, picture messages, and drip campaigns.
+- [Text-to-Pay Payments](https://www.textedly.com/payments): Collect payments via secure SMS links (Stripe), with recurring billing and automated past-due reminders.
+- [Omnichannel Inbox](https://www.textedly.com/inbox): One shared inbox for SMS, MMS, Messenger, WhatsApp, chat, and email, with team assignment and sticky notes.
+- [AI Voice + Messaging Agents](https://www.textedly.com/ai/agents): Turn a Textedly number into an AI agent that answers inbound calls 24/7 with human-like conversations.
+- [Voice + SMS Services](https://www.textedly.com/features/voice-services): Voice-enable a toll-free or 10DLC number so one line both texts and takes calls.
+- [Integrations](https://www.textedly.com/integrations): Native connectors plus Zapier access to 3,000+ apps and an open API.
+- [SMS Business Reviews](https://www.textedly.com/customer-review-software): Generate online business reviews on Google, Facebook, and other top review sites via text using a single dashboard to collect, manage, and monitor online reviews.
+- [Contact Enrichment](https://www.textedly.com/signal-ai): Signal AI is Textedly’s phone number intelligence and data enrichment engine, designed to keep ensure contact list hygiene and assist with messaging campaign targeting.
+## Messaging & Campaign Features
+- [Mass Group Texting](https://www.textedly.com/features/mass-group-texting): Send targeted mass texts to segmented keyword groups at scale.
+- [SMS Drip Campaigns](https://www.textedly.com/features/sms-drip-campaigns): Automated, time-delayed message sequences for nurturing, reminders, and review requests.
+- [Text to Join](https://www.textedly.com/features/text-to-join): Grow opt-in lists with keywords texted to a short code or number, with data capture.
+- [Web Forms](https://www.textedly.com/features/webforms): Embeddable, branded sign-up forms with automatic double opt-in compliance.
+## Solutions & Use Cases
+- [Business Text Messaging](https://www.textedly.com/business-text-messaging): How businesses build opt-in lists with keywords and run two-way SMS programs.
+- [Text Marketing for Small Business](https://www.textedly.com/text-marketing-for-small-business): SMS marketing fundamentals and campaign examples for small businesses.
+- [Ecommerce SMS Marketing](https://www.textedly.com/sms-marketing-ecommerce): Promotions, order updates, cart recovery, and loyalty messaging for online retailers.
+## Numbers & Deliverability
+- [10DLC Business Texting](https://www.textedly.com/10dlc): Local 10-digit long-code numbers for high-volume A2P messaging, registration, and Trust Score.
+- [Toll-Free Texting](https://www.textedly.com/toll-free-text-messaging): Toll-free SMS/MMS numbers and how they compare to 10DLC.
+## Resources & Guides
+- [Blog](https://www.textedly.com/blog): SMS marketing news, how-tos, platform comparisons, and best practices.
+- [How to Use Textedly: Step-by-Step Guide](https://www.textedly.com/blog/how-to-use-textedly-a-step-by-step-guide): Getting-started walkthrough for new users.
+- [Are SMS Payment Links Safe?](https://www.textedly.com/blog/sms-payment-links): How Text-to-Pay links work and what makes them secure.
+- [SMS Billing Guide](https://www.textedly.com/blog/sms-billing): How businesses use text billing to get paid faster.
+- [TCPA Compliance Checklist](https://www.textedly.com/sms-compliance-guide/tcpa-compliance-checklist): Consent, disclosure, and opt-out requirements for lawful SMS marketing.
+- [What is Textedly](https://www.textedly.com/guides/what-is-textedly): Introductory guide to the platform.
+- [Help Center](https://help.textedly.com/en/): Support documentation and help articles.
+## Related Topics
+SMS marketing software, business texting, mass texting, mobile marketing, customer communication, SMS automation, SMS compliance, review management, text message advertising, customer engagement, business texting platform, mobile communication platform, mass texting service, customer engagement software, marketing automation platform.
+## Optional
+- [Login / App](https://application.textedly.com/): Customer sign-in to the Textedly application.
+- [Sitemap](https://www.textedly.com/sitemap): Full page index for deeper crawling.
+Last Updated: 2026-07-28
+
+===== homepage :: https://www.textedly.com/
+--- SIGNALS ---
+title: Text Message Marketing Platform | Textedly SMS Marketing
+meta_description: Textedly's SMS marketing platform makes text message marketing easy. Send bulk SMS, automate campaigns, and grow your business with our mass texting service.
+og_description: 
+og_site_name: 
+h1: AI-Powered SMS Marketing Software
+h2: Thousands of Businesses. One Platform They Trust. | Get Started Now For Free. | SMS Marketing That Delivers. | Better Mobile SMS Marketing. | Everything You Need to Scale | Mass SMS & MMS Marketing That Scales | SMS Platform Packed with Smart Features | AI Voice Agents | Effortless Integrations | Why Choose Textedly? | Frequently Asked Questions | Your Customers Are Waiting.
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Textedly", "url": "https://www.textedly.com", "logo": "https://cdn.prod.website-files.com/698351d5a0715a6f74cab251/6a28164d8c56ddbad8085529_Textedly%20Logo.png", "contactPoint": [{"@type": "ContactPoint", "telephone": "(866) 611-3050", "email": "sales@textedly.com", "contactType": "sales"}, {"@type": "ContactPoint", "telephone": "(855) 619-5441", "email": "help@textedly.com", "contactType": "customer service"}]}]
+--- TEXT ---
+Text Message Marketing Platform | Textedly SMS Marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI
+Products
+Features
+Solutions
+Resources
+Pricing
+Pricing
+Pricing
+Pricing
+Pricing
+Pricing
+ 
+Artificial intelligence
+ 
+Artificial intelligence
+Textedly AI
+Textedly AI
+Automate texts, deploy conversational agents, and generate highly converting messages to accelerate growth efficiently.
+AI LLM Models
+AI LLM Models
+Leverage specialized LLMs fine-tuned for SMS, ensuring concise, highly secure, and context-aware business communication.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Deploy conversational agents to handle calls, answer questions, and qualify leads around the clock.
+AI Growth Suite
+AI Growth Suite
+Accelerate your subscriber list growth and maximize campaign ROI using intelligent, data-driven engagement tools.
+AI Marketing Automation
+AI Marketing Automation
+Instantly generate tailored text copy, optimize send times, and dynamically segment your audience for targeted campaigns.
+AI Security & Governance
+AI Security & Governance
+Ensure total brand safety using enterprise-grade governance, isolated processing environments, and built-in messaging guardrails.
+ 
+Your Business, Running on AI
+From voice agents to growth tools—every customer touchpoint, automated and optimized without the overhead.
+Get Started Now
+Get Started Now
+Products
+ 
+Products
+SMS Marketing
+SMS Marketing
+Engage customers with text messages that drive loyalty and revenue.
+Email Marketing
+Email Marketing
+(COMING SOON)
+Boost revenue and save time with personalized emails that convert.
+Business Reviews
+Business Reviews
+Build trust and win more customers with automated review requests that boost your reputation.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Handle calls, answer questions, and qualify leads 24/7 without lifting a finger.
+SMS Text Payments
+SMS Text Payments
+Accelerate your cash flow and get paid instantly with secure SMS mobile payment links.
+Signal AI Contact Enrichment
+Signal AI Contact Enrichment
+Uncover names and email addresses across mobile numbers to supercharge your highly targeted marketing outreach.
+ 
+Your Customers Are Waiting
+Send your first text in minutes—
+no contracts, no credit card, no hassle.
+Get Started Now
+Get Started Now
+Features
+ 
+Features
+Mass SMS Marketing
+Mass SMS Marketing
+Conversational AI Agents
+Conversational AI Agents
+Secure SMS Payments
+Secure SMS Payments
+Automated SMS Drip Campaigns
+Automated SMS Drip Campaigns
+Mobile Contact Cards
+Mobile Contact Cards
+SMS Business Reviews
+SMS Business Reviews
+Compliant SMS Web Forms
+Compliant SMS Web Forms
+Rich Font Formatting
+Rich Font Formatting
+Mass MMS Photo Messaging
+Mass MMS Photo Messaging
+Free GIPHY Library
+Free GIPHY Library
+Birthday SMS Campaigns
+Birthday SMS Campaigns
+1,600 Character Messaging
+1,600 Character Messaging
+View All Features
+View All Features
+ 
+ 
+The Complete SMS Toolkit
+From mass texting to payments, reviews, and web forms, every feature you need to engage customers and drive revenue, in one place.
+Get Started Now
+Get Started Now
+Solutions
+ 
+Applications
+Advertising
+Advertising
+Personalized Messages
+Personalized Messages
+Group Text
+Group Text
+Automated Messages
+Automated Messages
+Toll-Free Texting
+Toll-Free Texting
+Text Blasts
+Text Blasts
+Small Business
+Small Business
+Business to Business
+Business to Business
+Loyalty Marketing
+Loyalty Marketing
+Event Management
+Event Management
+View All Applications
+View All Applications
+ 
+Industries
+Franchises
+Franchises
+Restaurants
+Restaurants
+Hotels
+Hotels
+Spas & Salons
+Spas & Salons
+Nonprofits
+Nonprofits
+Retail Stores
+Retail Stores
+Real Estate
+Real Estate
+Religion
+Religion
+Utilities
+Utilities
+Gyms
+Gyms
+View All Industries
+View All Industries
+ 
+Integrations
+Slack
+Slack
+Salesforce
+Salesforce
+HubSpot
+HubSpot
+Zapier
+Zapier
+Intercom
+Intercom
+Pipedrive
+Pipedrive
+Shopify
+Shopify
+Mailchimp
+Mailchimp
+Facebook Lead Ads
+Facebook Lead Ads
+Google Sheets
+Google Sheets
+View All Integrations
+View All Integrations
+ 
+Platform Solutions
+Short Code Texting
+Short Code Texting
+Secure Texting
+Secure Texting
+Send Text Online
+Send Text Online
+Online Phone Texting
+Online Phone Texting
+10DLC Texting
+10DLC Texting
+SMS Text-to-Pay
+SMS Text-to-Pay
+Text Reviews
+Text Reviews
+AI Agents
+AI Agents
+Contact Data Enrichment
+Contact Data Enrichment
+Email Marketing
+ (Coming Soon)
+Email Marketing
+ (Coming Soon)
+Resources
+ 
+Resources
+SMS Compliance Guide
+SMS Compliance Guide
+SMS Marketing
+SMS Marketing
+SMS Business Templates
+SMS Business Templates
+Google
+Google Star Ratings
+Google Star Ratings
+SMS Google Business Reviews
+SMS Google Business Reviews
+Google Seller Ratings
+Google Seller Ratings
+ 
+Textedly
+Why Textedly
+Why Textedly
+Our Company Reputation
+Our Company Reputation
+Company Blog
+Company Blog
+Textedly Help Center
+Textedly Help Center
+Referral Program
+Referral Program
+Case Studies
+Case Studies
+Pricing
+ 
+Artificial intelligence
+Textedly AI
+Textedly AI
+Automate texts, deploy conversational agents, and generate highly converting messages to accelerate growth efficiently.
+AI LLM Models
+AI LLM Models
+Leverage specialized LLMs fine-tuned for SMS, ensuring concise, highly secure, and context-aware business communication.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Deploy conversational agents to handle calls, answer questions, and qualify leads around the clock.
+AI Growth Suite
+AI Growth Suite
+Accelerate your subscriber list growth and maximize campaign ROI using intelligent, data-driven engagement tools.
+AI Marketing Automation
+AI Marketing Automation
+Instantly generate tailored text copy, optimize send times, and dynamically segment your audience for targeted campaigns.
+AI Security & Governance
+AI Security & Governance
+Ensure total brand safety using enterprise-grade governance, isolated processing environments, and built-in messaging guardrails.
+ 
+Your Business, Running on AI
+From voice agents to growth tools—every customer touchpoint, automated and optimized without the overhead.
+Get Started Now
+Get Started Now
+Products
+SMS Marketing
+SMS Marketing
+Engage customers with text messages that drive loyalty and revenue.
+Email Marketing
+Email Marketing
+(COMING SOON)
+Boost revenue and save time with personalized emails that convert.
+Business Reviews
+Business Reviews
+Build trust and win more customers with automated review requests that boost your reputation.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Handle calls, answer questions, and qualify leads 24/7 without lifting a finger.
+SMS Text Payments
+SMS Text Payments
+Accelerate your cash flow and get paid instantly with secure SMS mobile payment links.
+Signal AI Contact Enrichment
+Signal AI Contact Enrichment
+Uncover names and email addresses across mobile numbers to supercharge your highly targeted marketing outreach.
+ 
+Your Customers Are Waiting
+Send your first text in minutes—
+no contracts, no credit card, no hassle.
+Get Started Now
+Get Started Now
+Features
+Mass SMS Marketing
+Mass SMS Marketing
+Conversational AI Agents
+Conversational AI Agents
+Secure SMS Payments
+Secure SMS Payments
+Automated SMS Drip Campaigns
+Automated SMS Drip Campaigns
+Mobile Contact Cards
+Mobile Contact Cards
+SMS Business Reviews
+SMS Business Reviews
+Compliant SMS Web Forms
+Compliant SMS Web Forms
+Rich Font Formatting
+Rich Font Formatting
+Mass MMS Photo Messaging
+Mass MMS Photo Messaging
+Free GIPHY Library
+Free GIPHY Library
+Birthday SMS Campaigns
+Birthday SMS Campaigns
+1,600 Character Messaging
+1,600 Character Messaging
+View All Features
+View All Features
+ 
+ 
+The Complete SMS Toolkit
+From mass texting to payments, reviews, and web forms, every feature you need to engage customers and drive revenue, in one place.
+Get Started Now
+Get Started Now
+Applications
+Advertising
+Advertising
+Personalized Messages
+Personalized Messages
+Group Text
+Group Text
+Automated Messages
+Automated Messages
+Toll-Free Texting
+Toll-Free Texting
+Text Blasts
+Text Blasts
+Small Business
+Small Business
+Business to Business
+Business to Business
+Loyalty Marketing
+Loyalty Marketing
+Event Management
+Event Management
+View All Applications
+View All Applications
+ 
+Industries
+Franchises
+Franchises
+Restaurants
+Restaurants
+Hotels
+Hotels
+Spas & Salons
+Spas & Salons
+Nonprofits
+Nonprofits
+Retail Stores
+Retail Stores
+Real Estate
+Real Estate
+Religion
+Religion
+Utilities
+Utilities
+Gyms
+Gyms
+View All Industries
+View All Industries
+ 
+Integrations
+Slack
+Slack
+Salesforce
+Salesforce
+HubSpot
+HubSpot
+Zapier
+Zapier
+Intercom
+Intercom
+Pipedrive
+Pipedrive
+Shopify
+Shopify
+Mailchimp
+Mailchimp
+Facebook Lead Ads
+Facebook Lead Ads
+Google Sheets
+Google Sheets
+View All Integrations
+View All Integrations
+ 
+Platform Solutions
+Short Code Texting
+Short Code Texting
+Secure Texting
+Secure Texting
+Send Text Online
+Send Text Online
+Online Phone Texting
+Online Phone Texting
+10DLC Texting
+10DLC Texting
+SMS Text-to-Pay
+SMS Text-to-Pay
+Text Reviews
+Text Reviews
+AI Agents
+AI Agents
+Contact Data Enrichment
+Contact Data Enrichment
+Email Marketing
+ (Coming Soon)
+Email Marketing
+ (Coming Soon)
+Resources
+SMS Compliance Guide
+SMS Compliance Guide
+SMS Marketing
+SMS Marketing
+SMS Business Templates
+SMS Business Templates
+Google
+Google Star Ratings
+Google Star Ratings
+SMS Google Business Reviews
+SMS Google Business Reviews
+Google Seller Ratings
+Google Seller Ratings
+ 
+Textedly
+Why Textedly
+Why Textedly
+Our Company Reputation
+Our Company Reputation
+Company Blog
+Company Blog
+Textedly Help Center
+Textedly Help Center
+Referral Program
+Referral Program
+Case Studies
+Case Studies
+Log In
+Log In
+Log In
+Log In
+Log In
+Log In
+Start Free
+Start Free
+Start Free
+Start Free
+Start Free
+Start Free
+Start Free
+Start Free
+Start Free
+Start Free
+Start Free
+Start Free
+ 
+AI-Powered SMS Marketing Software
+The easiest way to send bulk SMS & MMS messages
+. From 10 to 300,000 messages, discover why Textedly is the #1 rated SMS marketing platform.
+Get Started Now
+Get Started Now
+Get Started Now
+Get Started Now
+Get Started Now
+Get Started Now
+Start With Google
+Start With Google
+SMS Payments
+Get Paid Now
+Text payment links and accept cards. No chasing invoices.
+SMS BUSINESS REVIEWS
+Grow Your Reputation
+Automate review requests and collect more customer reviews through messaging.
+SMS Marketing
+Message at Scale
+Reach customers one-on-one or broadcast to thousands with messages that get read.
+AI Voice Agents
+Never Miss a Call
+AI voice agents handle inbound calls with human-like conversations.
+ 
+Our partners
+Thousands of Businesses. One Platform They Trust.
+The #1 trusted choice for world-class companies, powering millions of messages with features built for businesses big and small.
+ 
+Based on 1,500+ reviews
+ 
+Based on 1,500+ reviews
+ 
+Based on 1,500+ reviews
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7B Phones Worldwide
+Engage customers in real-time with an inbox built for scale.
+Sign Up Free
+Sign Up Free
+ 
+ 
+Read in 5 Minutes
+82% of texts are opened within five minutes.
+Start for Free
+Start for Free
+90% Prefer Texting
+Engage customers in real-time with an inbox built for scale.
+Get Started Now
+Get Started Now
+ 
+ 
+ 
+ 
+5x Click-Through Rate
+More customers choose text over calls, email, and social media combined.
+Start Free Today
+Start Free Today
+ 
+ 
+ 
+ 
+7x More Engagement
+SMS drives response rates that email can't match.
+Try Textedly Free
+Try Textedly Free
+ 
+ 
+99% Delivery Rate
+Your messages actually reach customers—unlike emails stuck in spam folders.
+Get Started Now
+Get Started Now
+ 
+Based on 1,500+ reviews
+ 
+Based on 1,500+ reviews
+ 
+Based on 1,500+ reviews
+ 
+ 
+ 
+ 
+ 
+Simple Pricing
+Get Started Now For Free.
+Find out why customers absolutely love Textedly by using the Basic plan with a 14-day free trial. Then instantly and easily upgrade to a plan that sends 300,000+ messages.
+Same Features on Every Plan
+ 
+ 
+Mass SMS Messaging
+ 
+Mass SMS Messaging
+ 
+ 
+Agentic Al Features
+ 
+Agentic Al Features
+ 
+ 
+Omnichannel Inbox
+ 
+Omnichannel Inbox
+ 
+ 
+Al Voice Agents
+ 
+Al Voice Agents
+ 
+ 
+Toll-Free Phone Numbers
+ 
+Toll-Free Phone Numbers
+ 
+ 
+Google Business Reviews
+ 
+Google Business Reviews
+ 
+ 
+10DLC Phone Numbers
+ 
+10DLC Phone Numbers
+ 
+ 
+SMS Text-to-Pay
+ 
+SMS Text-to-Pay
+ 
+ 
+Short Codes (55222)
+ 
+Short Codes (55222)
+ 
+ 
+3,000+ Integrations
+ 
+3,000+ Integrations
+Explore all 50 Features
+Explore all 50 Features
+How many messages do you need?
+Send up to 300,000+ messages per month.
+Need something bigger? 
+Give us a call at
+ 
+(866) 611-3050
+ 
+for a custom plan.
+ 
+50 Messages
+ 
+500 Messages
+ 
+1,200 Messages
+ 
+2,400 Messages
+ 
+4,200 Messages
+ 
+6,000 Messages
+ 
+12,000 Messages
+ 
+18,000 Messages
+ 
+30,000 Messages
+ 
+42,000 Messages
+ 
+60,000 Messages
+ 
+120,000 Messages
+ 
+180,000 Messages
+ 
+240,000 Messages
+ 
+360,000 Messages
+SELECT PLAN
+Select plan
+ 
+Select plan
+Select plan
+Annual Plan 
+20% More
+Annual Plan 
+20% More
+Monthly Plan
+Monthly Plan
+Try Free for 14 Days
+Try Free for 14 Days
+ 
+Why Textedly
+SMS Marketing That Delivers.
+Reach your audience instantly with the world’s most effective messaging platform.
+ 
+Your Message, Always Seen.
+98% Open Rate
+Texts are read in minutes—photos, links, attachments included.
+Start Free
+Start Free
+ 
+Reach Anyone, Anywhere.
+8.5B Phones Worldwide
+Upload contacts in one click or grow lists with text-to-join.
+Start Free
+Start Free
+ 
+Ask Where They Listen
+90% Prefer Texting
+Engage customers in real-time with an inbox built for scale.
+Start Free
+Start Free
+ 
+Use Cases
+Better Mobile SMS Marketing.
+Unlock unmatched flexibility, control, and performance—only with Textedly.
+Thanks for joining our mobile club. Come in today, and receive 20% off any purchase in the store. Show this text and also get a coupon for your next visit.
+ 
+ 
+Thanks for joining our mobile club. Come in today, and receive 20% off any purchase in the store. Show this text and also get a coupon for your next visit.
+ 
+Retail Promotions
+Retail Promotions
+01/40
+Send time-sensitive deals, coupons, or exclusive offers that drive customers into your store and keep them coming back.
+Reminder to parents of Mesa Elementary School: Tomorrow is Minimum Day. Please pick up 
+
+===== product :: https://www.textedly.com/features
+--- SIGNALS ---
+title: SMS Marketing Features & Text Messaging Platform | Textedly
+meta_description: Explore Textedly's powerful SMS marketing features including mass texting, automated replies, analytics, payments & reviews. The trusted text messaging service for businesses.
+og_description: 
+og_site_name: 
+h1: Complete SMS Marketing Features for Business Text Messaging
+h2: Everything you need to get the most out of Textedly's SMS marketing platform is right here. Explore guides, tips, and resources to make every message count. | Six More SMS Marketing Features Resources to Explore | Why Users Love Textedly
+jsonld_org: []
+--- TEXT ---
+SMS Marketing Features & Text Messaging Platform | Textedly
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI
+Products
+Features
+Solutions
+Resources
+Pricing
+Pricing
+ 
+Artificial intelligence
+ 
+Artificial intelligence
+Textedly AI
+Textedly AI
+Automate texts, deploy conversational agents, and generate highly converting messages to accelerate growth efficiently.
+AI LLM Models
+AI LLM Models
+Leverage specialized LLMs fine-tuned for SMS, ensuring concise, highly secure, and context-aware business communication.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Deploy conversational agents to handle calls, answer questions, and qualify leads around the clock.
+AI Growth Suite
+AI Growth Suite
+Accelerate your subscriber list growth and maximize campaign ROI using intelligent, data-driven engagement tools.
+AI Marketing Automation
+AI Marketing Automation
+Instantly generate tailored text copy, optimize send times, and dynamically segment your audience for targeted campaigns.
+AI Security & Governance
+AI Security & Governance
+Ensure total brand safety using enterprise-grade governance, isolated processing environments, and built-in messaging guardrails.
+ 
+Your Business, Running on AI
+From voice agents to growth tools—every customer touchpoint, automated and optimized without the overhead.
+Get Started Now
+Get Started Now
+Products
+ 
+Products
+SMS Marketing
+SMS Marketing
+Engage customers with text messages that drive loyalty and revenue.
+Email Marketing
+Email Marketing
+(COMING SOON)
+Boost revenue and save time with personalized emails that convert.
+Business Reviews
+Business Reviews
+Build trust and win more customers with automated review requests that boost your reputation.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Handle calls, answer questions, and qualify leads 24/7 without lifting a finger.
+SMS Text Payments
+SMS Text Payments
+Accelerate your cash flow and get paid instantly with secure SMS mobile payment links.
+Signal AI Contact Enrichment
+Signal AI Contact Enrichment
+Uncover names and email addresses across mobile numbers to supercharge your highly targeted marketing outreach.
+ 
+Your Customers Are Waiting
+Send your first text in minutes—
+no contracts, no credit card, no hassle.
+Get Started Now
+Get Started Now
+Features
+ 
+Features
+Mass SMS Marketing
+Mass SMS Marketing
+Conversational AI Agents
+Conversational AI Agents
+Secure SMS Payments
+Secure SMS Payments
+Automated SMS Drip Campaigns
+Automated SMS Drip Campaigns
+Mobile Contact Cards
+Mobile Contact Cards
+SMS Business Reviews
+SMS Business Reviews
+Compliant SMS Web Forms
+Compliant SMS Web Forms
+Rich Font Formatting
+Rich Font Formatting
+Mass MMS Photo Messaging
+Mass MMS Photo Messaging
+Free GIPHY Library
+Free GIPHY Library
+Birthday SMS Campaigns
+Birthday SMS Campaigns
+1,600 Character Messaging
+1,600 Character Messaging
+View All Features
+View All Features
+ 
+ 
+The Complete SMS Toolkit
+From mass texting to payments, reviews, and web forms, every feature you need to engage customers and drive revenue, in one place.
+Get Started Now
+Get Started Now
+Solutions
+ 
+Applications
+Advertising
+Advertising
+Personalized Messages
+Personalized Messages
+Group Text
+Group Text
+Automated Messages
+Automated Messages
+Toll-Free Texting
+Toll-Free Texting
+Text Blasts
+Text Blasts
+Small Business
+Small Business
+Business to Business
+Business to Business
+Loyalty Marketing
+Loyalty Marketing
+Event Management
+Event Management
+View All Applications
+View All Applications
+ 
+Industries
+Franchises
+Franchises
+Restaurants
+Restaurants
+Hotels
+Hotels
+Spas & Salons
+Spas & Salons
+Nonprofits
+Nonprofits
+Retail Stores
+Retail Stores
+Real Estate
+Real Estate
+Religion
+Religion
+Utilities
+Utilities
+Gyms
+Gyms
+View All Industries
+View All Industries
+ 
+Integrations
+Slack
+Slack
+Salesforce
+Salesforce
+HubSpot
+HubSpot
+Zapier
+Zapier
+Intercom
+Intercom
+Pipedrive
+Pipedrive
+Shopify
+Shopify
+Mailchimp
+Mailchimp
+Facebook Lead Ads
+Facebook Lead Ads
+Google Sheets
+Google Sheets
+View All Integrations
+View All Integrations
+ 
+Platform Solutions
+Short Code Texting
+Short Code Texting
+Secure Texting
+Secure Texting
+Send Text Online
+Send Text Online
+Online Phone Texting
+Online Phone Texting
+10DLC Texting
+10DLC Texting
+SMS Text-to-Pay
+SMS Text-to-Pay
+Text Reviews
+Text Reviews
+AI Agents
+AI Agents
+Contact Data Enrichment
+Contact Data Enrichment
+Email Marketing
+ (Coming Soon)
+Email Marketing
+ (Coming Soon)
+Resources
+ 
+Resources
+SMS Compliance Guide
+SMS Compliance Guide
+SMS Marketing
+SMS Marketing
+SMS Business Templates
+SMS Business Templates
+Google
+Google Star Ratings
+Google Star Ratings
+SMS Google Business Reviews
+SMS Google Business Reviews
+Google Seller Ratings
+Google Seller Ratings
+ 
+Textedly
+Why Textedly
+Why Textedly
+Our Company Reputation
+Our Company Reputation
+Company Blog
+Company Blog
+Textedly Help Center
+Textedly Help Center
+Referral Program
+Referral Program
+Case Studies
+Case Studies
+Pricing
+ 
+Artificial intelligence
+Textedly AI
+Textedly AI
+Automate texts, deploy conversational agents, and generate highly converting messages to accelerate growth efficiently.
+AI LLM Models
+AI LLM Models
+Leverage specialized LLMs fine-tuned for SMS, ensuring concise, highly secure, and context-aware business communication.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Deploy conversational agents to handle calls, answer questions, and qualify leads around the clock.
+AI Growth Suite
+AI Growth Suite
+Accelerate your subscriber list growth and maximize campaign ROI using intelligent, data-driven engagement tools.
+AI Marketing Automation
+AI Marketing Automation
+Instantly generate tailored text copy, optimize send times, and dynamically segment your audience for targeted campaigns.
+AI Security & Governance
+AI Security & Governance
+Ensure total brand safety using enterprise-grade governance, isolated processing environments, and built-in messaging guardrails.
+ 
+Your Business, Running on AI
+From voice agents to growth tools—every customer touchpoint, automated and optimized without the overhead.
+Get Started Now
+Get Started Now
+Products
+SMS Marketing
+SMS Marketing
+Engage customers with text messages that drive loyalty and revenue.
+Email Marketing
+Email Marketing
+(COMING SOON)
+Boost revenue and save time with personalized emails that convert.
+Business Reviews
+Business Reviews
+Build trust and win more customers with automated review requests that boost your reputation.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Handle calls, answer questions, and qualify leads 24/7 without lifting a finger.
+SMS Text Payments
+SMS Text Payments
+Accelerate your cash flow and get paid instantly with secure SMS mobile payment links.
+Signal AI Contact Enrichment
+Signal AI Contact Enrichment
+Uncover names and email addresses across mobile numbers to supercharge your highly targeted marketing outreach.
+ 
+Your Customers Are Waiting
+Send your first text in minutes—
+no contracts, no credit card, no hassle.
+Get Started Now
+Get Started Now
+Features
+Mass SMS Marketing
+Mass SMS Marketing
+Conversational AI Agents
+Conversational AI Agents
+Secure SMS Payments
+Secure SMS Payments
+Automated SMS Drip Campaigns
+Automated SMS Drip Campaigns
+Mobile Contact Cards
+Mobile Contact Cards
+SMS Business Reviews
+SMS Business Reviews
+Compliant SMS Web Forms
+Compliant SMS Web Forms
+Rich Font Formatting
+Rich Font Formatting
+Mass MMS Photo Messaging
+Mass MMS Photo Messaging
+Free GIPHY Library
+Free GIPHY Library
+Birthday SMS Campaigns
+Birthday SMS Campaigns
+1,600 Character Messaging
+1,600 Character Messaging
+View All Features
+View All Features
+ 
+ 
+The Complete SMS Toolkit
+From mass texting to payments, reviews, and web forms, every feature you need to engage customers and drive revenue, in one place.
+Get Started Now
+Get Started Now
+Applications
+Advertising
+Advertising
+Personalized Messages
+Personalized Messages
+Group Text
+Group Text
+Automated Messages
+Automated Messages
+Toll-Free Texting
+Toll-Free Texting
+Text Blasts
+Text Blasts
+Small Business
+Small Business
+Business to Business
+Business to Business
+Loyalty Marketing
+Loyalty Marketing
+Event Management
+Event Management
+View All Applications
+View All Applications
+ 
+Industries
+Franchises
+Franchises
+Restaurants
+Restaurants
+Hotels
+Hotels
+Spas & Salons
+Spas & Salons
+Nonprofits
+Nonprofits
+Retail Stores
+Retail Stores
+Real Estate
+Real Estate
+Religion
+Religion
+Utilities
+Utilities
+Gyms
+Gyms
+View All Industries
+View All Industries
+ 
+Integrations
+Slack
+Slack
+Salesforce
+Salesforce
+HubSpot
+HubSpot
+Zapier
+Zapier
+Intercom
+Intercom
+Pipedrive
+Pipedrive
+Shopify
+Shopify
+Mailchimp
+Mailchimp
+Facebook Lead Ads
+Facebook Lead Ads
+Google Sheets
+Google Sheets
+View All Integrations
+View All Integrations
+ 
+Platform Solutions
+Short Code Texting
+Short Code Texting
+Secure Texting
+Secure Texting
+Send Text Online
+Send Text Online
+Online Phone Texting
+Online Phone Texting
+10DLC Texting
+10DLC Texting
+SMS Text-to-Pay
+SMS Text-to-Pay
+Text Reviews
+Text Reviews
+AI Agents
+AI Agents
+Contact Data Enrichment
+Contact Data Enrichment
+Email Marketing
+ (Coming Soon)
+Email Marketing
+ (Coming Soon)
+Resources
+SMS Compliance Guide
+SMS Compliance Guide
+SMS Marketing
+SMS Marketing
+SMS Business Templates
+SMS Business Templates
+Google
+Google Star Ratings
+Google Star Ratings
+SMS Google Business Reviews
+SMS Google Business Reviews
+Google Seller Ratings
+Google Seller Ratings
+ 
+Textedly
+Why Textedly
+Why Textedly
+Our Company Reputation
+Our Company Reputation
+Company Blog
+Company Blog
+Textedly Help Center
+Textedly Help Center
+Referral Program
+Referral Program
+Case Studies
+Case Studies
+Log In
+Log In
+Start Free
+Start Free
+Start Free
+Start Free
+ 
+ 
+Features
+Complete SMS Marketing Features for Business Text Messaging
+Everything you need to get the most out of Textedly's SMS marketing platform is right here. Explore guides, tips, and resources to make every message count.
+Get Started Now
+Get Started Now
+ 
+iOS and Android Apps
+Untether yourself from the desk with the new Textedly Mobile App! Free on iOS & Android. Send mass blasts, schedule campaigns, and reply to leads instantly with real-time push notifications. Manage your entire SMS strategy from anywhere. Run your business from your pocket.
+ 
+Contact Data Enrichment
+Unlock the full potential of your audience with Signal AI, our powerful contact enrichment tool. It instantly transforms anonymous phone numbers into rich, detailed contacts by automatically uncovering first and last names, email addresses, and even LinkedIn profiles for perfectly targeted engagement.
+ 
+AI Voice and SMS Agents
+Scale your communications effortlessly with our AI voice and messaging agents. These intelligent virtual assistants seamlessly handle inbound calls and text messages around the clock, delivering instant, human-like conversational support and capturing leads without requiring you to expand your team.
+ 
+Giphy
+Bring your texts to life with Textedly’s GIPHY SMS integration, giving you instant access to millions of GIFs and memes to spark engagement and add personality to every message.
+ 
+API and SMS Gateway
+ (Coming soon)
+Unlock infinite scalability with the Textedly API. Seamlessly integrate SMS into your website or app to send 1 or 1,000,000 messages instantly. Automate alerts, marketing blasts, and two-way conversations with our developer-friendly REST interface. Get your API key now.
+ 
+Mobile Contact Cards
+Turn anonymous texts into trusted conversations! Attach Mobile Contact Cards to your messages so customers can instantly save your business name, logo, and info to their phone contacts. Stop being a "maybe" and start getting recognized on every single text you send.
+ 
+Short Links and Link Tracking
+ (Coming soon)
+Stop marketing in the dark. Instantly turn long URLs into clean short links and see exactly who clicks your messages. Save valuable character space, boost deliverability, and prove your campaign ROI with our built-in Link Shortener & Link Tracker. Start sending smarter texts today.
+ 
+Payments
+Secure SMS Payments. Request and collect secure payments by text messaging. Create payment requests that send as text messages to customers asking them to pay. Track requests and revenue all in one place and watch as your revenue grows as payments come into your bank account.
+ 
+Business Reviews
+Grow your business by sending customers a simple review invitation through text messaging. Quickly turn happy customers into your biggest advocates on websites such as your Google Business Reviews. Get an incredible 98% open rate with our automated text message review invites.
+ 
+Web Forms
+Easily build your very own SMS opt-in list with our free Web Forms. Build as many free Web Forms as you want with our state-of-art online hosted Web Forms. A simple-to-use, automated platform awaits you as you use the wonderful and powerful tool.
+ 
+Conversation Triggers
+Add free conversation triggers and automatically converse with your contacts on autopilot. Set it up once, and let the bot take over and reply back and forth. Easy to use, and enjoyable for your customers as they get instant answers and support.
+ 
+Rich Fonts
+Bored with the same old standard font in your text messages? Spice things up with bold and italic styles! With Textedly’s rich font formatting feature, you can make your messages pop and truly stand out.
+ 
+AI Text Messaging Service
+With the power of ChatGPT, unlock a world of endless SMS AI marketing ideas with just a few short prompts. By offering straightforward input, businesses can generate a variety of marketing messages in seconds, unleashing an almost limitless stream of creative possibilities.
+ 
+Mass Group Texting
+Mass 
+group text
+ messages enable businesses to send messages to subscribers at scale. Send alerts, promos, confirmations, notifications, and more with targeted precision. Our clean, web-based interface makes it simple to send a mass text to a large group in a matter of seconds.
+ 
+Text Keyword
+Anyone with a mobile phone can automatically sign up for your text marketing and notification campaigns by texting your custom 
+Keyword
+ to any phone number. Each Keyword represents a group, and i
+
+===== pricing_or_trust :: https://www.textedly.com/pricing
+--- SIGNALS ---
+title: SMS Marketing Pricing & Plans: Affordable Costs | Textedly
+meta_description: Compare Textedly's SMS marketing pricing plans from $29/month. Transparent costs, no contracts, free trial. Find the perfect plan for your business size.
+og_description: 
+og_site_name: 
+h1: Scalable SMS Marketing Pricing for Your Business
+h2: Textedly Pricing: Simple Plans Built to Scale | Frequently Asked Questions | Thousands of Businesses. One Platform They Trust. | Setting Up Textedly Is Easy | Your Customers Are Waiting.
+jsonld_org: []
+--- TEXT ---
+SMS Marketing Pricing & Plans: Affordable Costs | Textedly
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI
+Products
+Features
+Solutions
+Resources
+Pricing
+Pricing
+ 
+Artificial intelligence
+ 
+Artificial intelligence
+Textedly AI
+Textedly AI
+Automate texts, deploy conversational agents, and generate highly converting messages to accelerate growth efficiently.
+AI LLM Models
+AI LLM Models
+Leverage specialized LLMs fine-tuned for SMS, ensuring concise, highly secure, and context-aware business communication.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Deploy conversational agents to handle calls, answer questions, and qualify leads around the clock.
+AI Growth Suite
+AI Growth Suite
+Accelerate your subscriber list growth and maximize campaign ROI using intelligent, data-driven engagement tools.
+AI Marketing Automation
+AI Marketing Automation
+Instantly generate tailored text copy, optimize send times, and dynamically segment your audience for targeted campaigns.
+AI Security & Governance
+AI Security & Governance
+Ensure total brand safety using enterprise-grade governance, isolated processing environments, and built-in messaging guardrails.
+ 
+Your Business, Running on AI
+From voice agents to growth tools—every customer touchpoint, automated and optimized without the overhead.
+Get Started Now
+Get Started Now
+Products
+ 
+Products
+SMS Marketing
+SMS Marketing
+Engage customers with text messages that drive loyalty and revenue.
+Email Marketing
+Email Marketing
+(COMING SOON)
+Boost revenue and save time with personalized emails that convert.
+Business Reviews
+Business Reviews
+Build trust and win more customers with automated review requests that boost your reputation.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Handle calls, answer questions, and qualify leads 24/7 without lifting a finger.
+SMS Text Payments
+SMS Text Payments
+Accelerate your cash flow and get paid instantly with secure SMS mobile payment links.
+Signal AI Contact Enrichment
+Signal AI Contact Enrichment
+Uncover names and email addresses across mobile numbers to supercharge your highly targeted marketing outreach.
+ 
+Your Customers Are Waiting
+Send your first text in minutes—
+no contracts, no credit card, no hassle.
+Get Started Now
+Get Started Now
+Features
+ 
+Features
+Mass SMS Marketing
+Mass SMS Marketing
+Conversational AI Agents
+Conversational AI Agents
+Secure SMS Payments
+Secure SMS Payments
+Automated SMS Drip Campaigns
+Automated SMS Drip Campaigns
+Mobile Contact Cards
+Mobile Contact Cards
+SMS Business Reviews
+SMS Business Reviews
+Compliant SMS Web Forms
+Compliant SMS Web Forms
+Rich Font Formatting
+Rich Font Formatting
+Mass MMS Photo Messaging
+Mass MMS Photo Messaging
+Free GIPHY Library
+Free GIPHY Library
+Birthday SMS Campaigns
+Birthday SMS Campaigns
+1,600 Character Messaging
+1,600 Character Messaging
+View All Features
+View All Features
+ 
+ 
+The Complete SMS Toolkit
+From mass texting to payments, reviews, and web forms, every feature you need to engage customers and drive revenue, in one place.
+Get Started Now
+Get Started Now
+Solutions
+ 
+Applications
+Advertising
+Advertising
+Personalized Messages
+Personalized Messages
+Group Text
+Group Text
+Automated Messages
+Automated Messages
+Toll-Free Texting
+Toll-Free Texting
+Text Blasts
+Text Blasts
+Small Business
+Small Business
+Business to Business
+Business to Business
+Loyalty Marketing
+Loyalty Marketing
+Event Management
+Event Management
+View All Applications
+View All Applications
+ 
+Industries
+Franchises
+Franchises
+Restaurants
+Restaurants
+Hotels
+Hotels
+Spas & Salons
+Spas & Salons
+Nonprofits
+Nonprofits
+Retail Stores
+Retail Stores
+Real Estate
+Real Estate
+Religion
+Religion
+Utilities
+Utilities
+Gyms
+Gyms
+View All Industries
+View All Industries
+ 
+Integrations
+Slack
+Slack
+Salesforce
+Salesforce
+HubSpot
+HubSpot
+Zapier
+Zapier
+Intercom
+Intercom
+Pipedrive
+Pipedrive
+Shopify
+Shopify
+Mailchimp
+Mailchimp
+Facebook Lead Ads
+Facebook Lead Ads
+Google Sheets
+Google Sheets
+View All Integrations
+View All Integrations
+ 
+Platform Solutions
+Short Code Texting
+Short Code Texting
+Secure Texting
+Secure Texting
+Send Text Online
+Send Text Online
+Online Phone Texting
+Online Phone Texting
+10DLC Texting
+10DLC Texting
+SMS Text-to-Pay
+SMS Text-to-Pay
+Text Reviews
+Text Reviews
+AI Agents
+AI Agents
+Contact Data Enrichment
+Contact Data Enrichment
+Email Marketing
+ (Coming Soon)
+Email Marketing
+ (Coming Soon)
+Resources
+ 
+Resources
+SMS Compliance Guide
+SMS Compliance Guide
+SMS Marketing
+SMS Marketing
+SMS Business Templates
+SMS Business Templates
+Google
+Google Star Ratings
+Google Star Ratings
+SMS Google Business Reviews
+SMS Google Business Reviews
+Google Seller Ratings
+Google Seller Ratings
+ 
+Textedly
+Why Textedly
+Why Textedly
+Our Company Reputation
+Our Company Reputation
+Company Blog
+Company Blog
+Textedly Help Center
+Textedly Help Center
+Referral Program
+Referral Program
+Case Studies
+Case Studies
+Pricing
+ 
+Artificial intelligence
+Textedly AI
+Textedly AI
+Automate texts, deploy conversational agents, and generate highly converting messages to accelerate growth efficiently.
+AI LLM Models
+AI LLM Models
+Leverage specialized LLMs fine-tuned for SMS, ensuring concise, highly secure, and context-aware business communication.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Deploy conversational agents to handle calls, answer questions, and qualify leads around the clock.
+AI Growth Suite
+AI Growth Suite
+Accelerate your subscriber list growth and maximize campaign ROI using intelligent, data-driven engagement tools.
+AI Marketing Automation
+AI Marketing Automation
+Instantly generate tailored text copy, optimize send times, and dynamically segment your audience for targeted campaigns.
+AI Security & Governance
+AI Security & Governance
+Ensure total brand safety using enterprise-grade governance, isolated processing environments, and built-in messaging guardrails.
+ 
+Your Business, Running on AI
+From voice agents to growth tools—every customer touchpoint, automated and optimized without the overhead.
+Get Started Now
+Get Started Now
+Products
+SMS Marketing
+SMS Marketing
+Engage customers with text messages that drive loyalty and revenue.
+Email Marketing
+Email Marketing
+(COMING SOON)
+Boost revenue and save time with personalized emails that convert.
+Business Reviews
+Business Reviews
+Build trust and win more customers with automated review requests that boost your reputation.
+AI Voice & Messaging Agents
+AI Voice & Messaging Agents
+Handle calls, answer questions, and qualify leads 24/7 without lifting a finger.
+SMS Text Payments
+SMS Text Payments
+Accelerate your cash flow and get paid instantly with secure SMS mobile payment links.
+Signal AI Contact Enrichment
+Signal AI Contact Enrichment
+Uncover names and email addresses across mobile numbers to supercharge your highly targeted marketing outreach.
+ 
+Your Customers Are Waiting
+Send your first text in minutes—
+no contracts, no credit card, no hassle.
+Get Started Now
+Get Started Now
+Features
+Mass SMS Marketing
+Mass SMS Marketing
+Conversational AI Agents
+Conversational AI Agents
+Secure SMS Payments
+Secure SMS Payments
+Automated SMS Drip Campaigns
+Automated SMS Drip Campaigns
+Mobile Contact Cards
+Mobile Contact Cards
+SMS Business Reviews
+SMS Business Reviews
+Compliant SMS Web Forms
+Compliant SMS Web Forms
+Rich Font Formatting
+Rich Font Formatting
+Mass MMS Photo Messaging
+Mass MMS Photo Messaging
+Free GIPHY Library
+Free GIPHY Library
+Birthday SMS Campaigns
+Birthday SMS Campaigns
+1,600 Character Messaging
+1,600 Character Messaging
+View All Features
+View All Features
+ 
+ 
+The Complete SMS Toolkit
+From mass texting to payments, reviews, and web forms, every feature you need to engage customers and drive revenue, in one place.
+Get Started Now
+Get Started Now
+Applications
+Advertising
+Advertising
+Personalized Messages
+Personalized Messages
+Group Text
+Group Text
+Automated Messages
+Automated Messages
+Toll-Free Texting
+Toll-Free Texting
+Text Blasts
+Text Blasts
+Small Business
+Small Business
+Business to Business
+Business to Business
+Loyalty Marketing
+Loyalty Marketing
+Event Management
+Event Management
+View All Applications
+View All Applications
+ 
+Industries
+Franchises
+Franchises
+Restaurants
+Restaurants
+Hotels
+Hotels
+Spas & Salons
+Spas & Salons
+Nonprofits
+Nonprofits
+Retail Stores
+Retail Stores
+Real Estate
+Real Estate
+Religion
+Religion
+Utilities
+Utilities
+Gyms
+Gyms
+View All Industries
+View All Industries
+ 
+Integrations
+Slack
+Slack
+Salesforce
+Salesforce
+HubSpot
+HubSpot
+Zapier
+Zapier
+Intercom
+Intercom
+Pipedrive
+Pipedrive
+Shopify
+Shopify
+Mailchimp
+Mailchimp
+Facebook Lead Ads
+Facebook Lead Ads
+Google Sheets
+Google Sheets
+View All Integrations
+View All Integrations
+ 
+Platform Solutions
+Short Code Texting
+Short Code Texting
+Secure Texting
+Secure Texting
+Send Text Online
+Send Text Online
+Online Phone Texting
+Online Phone Texting
+10DLC Texting
+10DLC Texting
+SMS Text-to-Pay
+SMS Text-to-Pay
+Text Reviews
+Text Reviews
+AI Agents
+AI Agents
+Contact Data Enrichment
+Contact Data Enrichment
+Email Marketing
+ (Coming Soon)
+Email Marketing
+ (Coming Soon)
+Resources
+SMS Compliance Guide
+SMS Compliance Guide
+SMS Marketing
+SMS Marketing
+SMS Business Templates
+SMS Business Templates
+Google
+Google Star Ratings
+Google Star Ratings
+SMS Google Business Reviews
+SMS Google Business Reviews
+Google Seller Ratings
+Google Seller Ratings
+ 
+Textedly
+Why Textedly
+Why Textedly
+Our Company Reputation
+Our Company Reputation
+Company Blog
+Company Blog
+Textedly Help Center
+Textedly Help Center
+Referral Program
+Referral Program
+Case Studies
+Case Studies
+Log In
+Log In
+Start Free
+Start Free
+Start Free
+Start Free
+ 
+ 
+ 
+Scalable SMS Marketing Pricing for Your Business
+Textedly’s SMS marketing pricing offers multiple plans to provide you with the options that work best for your business or organization.
+Same Features on Every Plan
+ 
+ 
+Mass SMS Messaging
+ 
+Mass SMS Messaging
+ 
+ 
+Agentic Al Features
+ 
+Agentic Al Features
+ 
+ 
+Omnichannel Inbox
+ 
+Omnichannel Inbox
+ 
+ 
+Al Voice Agents
+ 
+Al Voice Agents
+ 
+ 
+Toll-Free Phone Numbers
+ 
+Toll-Free Phone Numbers
+ 
+ 
+Google Business Reviews
+ 
+Google Business Reviews
+ 
+ 
+10DLC Phone Numbers
+ 
+10DLC Phone Numbers
+ 
+ 
+SMS Text-to-Pay
+ 
+SMS Text-to-Pay
+ 
+ 
+Short Codes (55222)
+ 
+Short Codes (55222)
+ 
+ 
+3,000+ Integrations
+ 
+3,000+ Integrations
+Explore all 50 Features
+Explore all 50 Features
+How many messages do you need?
+Send up to 300,000+ messages per month.
+Need something bigger? 
+Give us a call at
+ 
+(866) 611-3050
+ 
+for a custom plan.
+ 
+50 Messages
+ 
+500 Messages
+ 
+1,200 Messages
+ 
+2,400 Messages
+ 
+4,200 Messages
+ 
+6,000 Messages
+ 
+12,000 Messages
+ 
+18,000 Messages
+ 
+30,000 Messages
+ 
+42,000 Messages
+ 
+60,000 Messages
+ 
+120,000 Messages
+ 
+180,000 Messages
+ 
+240,000 Messages
+ 
+360,000 Messages
+SELECT PLAN
+Select plan
+ 
+Select plan
+Select plan
+Annual Plan 
+20% More
+Annual Plan 
+20% More
+Monthly Plan
+Monthly Plan
+Try Free for 14 Days
+Try Free for 14 Days
+ 
+Scalable Pricing
+Textedly Pricing: Simple Plans Built to Scale
+Textedly pricing starts at $29/month and scales with your message volume. Inbound messages are always free, and there are no long-term contracts.
+‍
+Textedly plans also have flexible payment options — pay month-to-month or annually and get 20% more texts per month. Best of all, every single plan comes with our complete suite of features.
+Whether you need Text-to-Pay, Google Business Reviews, MMS picture messaging, unlimited contacts, AI Agents, or premium support, you get full access to every tool we offer on day one. Our higher-tier plans simply increase your monthly message and keyword limits to accommodate your growth. Whether you're sending hundreds or hundreds of thousands of messages, there's a plan built for you.
+ 
+Questions & Answers
+Frequently Asked Questions
+Unlock unmatched flexibility, control, and performance—only with Textedly.
+01
+01
+How does SMS pricing work?
+How does SMS pricing work?
+How does SMS pricing work?
+Monthly text messages and keywords determine the price. Pay month-by-month or annually for 20% more texts per month.
+02
+02
+Do I have to pay a setup fee?
+Do I have to pay a setup fee?
+Do I have to pay a setup fee?
+It depends entirely on the type of phone number you choose to power your campaigns!
+Toll-Free Numbers: Skip the setup costs! Getting started with a toll-free phone number requires absolutely zero registration fees.
+10-Digit Long Codes (10DLC): When you choose a local phone number, mobile carriers require a standard registration fee to verify your business. We believe in removing barriers to entry, which is why we pay the entire 10DLC registration cost for your first 10DLC phone number! For any numbers you register beyond that, standard carrier fees apply. These fees are tiered depending on your message volume, allowing your costs to scale perfectly alongside your growth.
+03
+03
+Can I try before I sign up?
+Can I try before I sign up?
+Can I try before I sign up?
+Yes! Get started for free—on your schedule. Create a free Textedly account today and we'll start you off with 50 free text messages and one custom keyword so you can explore our platform at your own pace. No credit card required, and no ticking clock.
+04
+04
+Do you offer a referral program?
+Do you offer a referral program?
+Do you offer a referral program?
+Yes, we do! With the Textedly Affiliate Program, spreading the word pays off—literally.
+When you refer a new customer to Textedly, we’ll reward you with a 20% monthly commission on their subscription for an entire year. We’ve also made getting paid completely effortless, so you can focus on sharing the platform while we handle the payouts. 
+Click here for more details or to join the program today.
+05
+05
+Do I pay for incoming text messages?
+Do I pay for incoming text messages?
+Do I pay for incoming text messages?
+Incoming messages are completely free.
+06
+06
+Do I have to lock into a long-term contract?
+Do I have to lock into a long-term contract?
+Do I have to lock into a long-term contract?
+No. Pay month-to-month or annually. Accounts with annual payments get 20% more texts per month.
+07
+07
+Do I really get access to eve

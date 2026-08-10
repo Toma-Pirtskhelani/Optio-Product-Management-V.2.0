@@ -1,0 +1,1506 @@
+===== homepage :: https://www.clearc2.com/
+--- SIGNALS ---
+title: Clear C2 C2CRM | Enterprise and Small Business CRM Solution
+meta_description: Voted Best CRM System with Top Ranked Customer Support. CRM Management includes Sales, Marketing, Relationship Management, and Help Desk.
+og_description: 
+og_site_name: 
+h1: A Custom CRM, without the Custom CRM Price.
+h2: Voted “Best CRM” & “Most Affordable” since 1993. | C2CRM Features | Increase Sales | Customer Satisfaction | Data Integration | Analytics & Intelligence | Marketing Automation | Increase Productivity | 1. What Are Cookies? | 2. Why We Use Cookies | 3. Types of Cookies We Use | A. Strictly Necessary Cookies | B. Analytics Cookies | C. Marketing and Advertising Cookies | D. Functional and Embedded Content Cookies | 4. First-Party and Third-Party Cookies | 5. Cookies and Personal Information | 6. How We Obtain Consent | 7. How to Manage Cookie Preferences | 8. Browser Controls | 9. Do Not Track and Global Privacy Signals | 10. Sale or Sharing of Personal Information | 11. Updates to this Cookie Policy | 12. Contact Us
+jsonld_org: [{"@type": "Organization", "@id": "https://www.clearc2.com/#organization", "name": "Clear C2", "url": "https://www.clearc2.com/", "logo": {"@type": "ImageObject", "inLanguage": "en-US", "@id": "https://www.clearc2.com/#/schema/logo/image/", "url": "https://www.clearc2.com/wp-content/uploads/2019/01/clear-c2-author-pic.jpg", "contentUrl": "https://www.clearc2.com/wp-content/uploads/2019/01/clear-c2-author-pic.jpg", "width": 200, "height": 200, "caption": "Clear C2"}, "image": {"@id": "https://www.clearc2.com/#/schema/logo/image/"}, "sameAs": ["https://www.facebook.com/c2crm/", "https://x.com/C2CRM", "https://www.linkedin.com/company/clearc2", "https://www.youtube.com/user/C2CRM"]}]
+--- TEXT ---
+Clear C2 C2CRM | Enterprise and Small Business CRM Solution
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SCHEDULE A LIVE DEMO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 972.304.7111
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C2CRM
+ 
+ 
+Relationship Management
+ 
+Sales Automation
+ 
+Marketing Automation
+ 
+Customer Service
+ 
+Reporting
+ 
+Mapping
+ 
+Mobile App
+ 
+Implementation Services
+ 
+Support Services
+ 
+FAQs
+INDUSTRIES
+ 
+ 
+CRM for Manufacturing
+ 
+Distribution
+ 
+Small Business CRM
+ 
+Service Businesses
+RESOURCES
+ 
+ 
+Blog
+ 
+Whitepapers
+ 
+Case Studies
+ 
+C2CRM Comparisons
+ABOUT
+CONTACT
+ 
+ 
+ 
+ 
+ 
+C2CRM
+ 
+ 
+Relationship Management
+ 
+Sales Automation
+ 
+Marketing Automation
+ 
+Customer Service
+ 
+Reporting
+ 
+Mapping
+ 
+Mobile App
+ 
+Implementation Services
+ 
+Support Services
+ 
+FAQs
+INDUSTRIES
+ 
+ 
+CRM for Manufacturing
+ 
+Distribution
+ 
+Small Business CRM
+ 
+Service Businesses
+RESOURCES
+ 
+ 
+Blog
+ 
+Whitepapers
+ 
+Case Studies
+ 
+C2CRM Comparisons
+ABOUT
+CONTACT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A Custom CRM, without the Custom CRM Price.
+ 
+ 
+ 
+ 
+ 
+C2CRM is revolutionizing Customer Relationship Management (CRM). Our CRM software includes customization, training, implementation, and customer support: all included at one low price.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.6
+/5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+/5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+/5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.5
+/5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voted “Best CRM” & “Most Affordable” since 1993.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C2CRM Features
+ 
+ 
+ 
+ 
+ 
+Explore what features and benefits C2CRM has to offer.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Increase Sales
+ 
+ 
+Sales teams manage your pipeline from lead management to closed sales. Automate sales processes with your customer data. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Satisfaction
+ 
+ 
+Provide a better customer experience with centralized help desk ticketing, knowledgebase, and project management.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Integration
+ 
+ 
+Gain a 360-degree view of your customers by integrating C2CRM with outside applications like ERP and Accounting systems.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analytics & Intelligence
+ 
+ 
+Easily analyze your team members’ activities and marketing campaigns with C2CRM’s custom dashboards, reports, and graphs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing Automation
+ 
+ 
+Keep your business in front of customers and qualified prospects with email marketing, drip campaigns, and lead scoring.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Increase Productivity
+ 
+ 
+C2CRM’s mobile app increases productivity while out of the office. Access your CRM data with our apps available for iOS and Android.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C2CRM Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How is C2CRM Different?
+ 
+ 
+ 
+ 
+ 
+Clear C2 has developed our CRM solution over the past 25 years. We use your business process to transform your business into a customer-focused organization. C2CRM is poised to react quickly in today’s fast-paced marketplace.
+ 
+Our CRM platform is simple to use and easy to implement. Whether your company is a small business or a large enterprise, you will love our CRM system and our employees.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“C2CRM is easy to use, with robust features.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lance S. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Best CRM in the Industry.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clark L. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Great CRM and even better customer service.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jeff S. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Frequently Asked Questions
+ 
+ 
+Got a question? We’ve packed together our most frequently asked questions just for you!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voted “Best CRM” and “Most Affordable” since 1993.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sales Automation
+ 
+ 
+ 
+ 
+ 
+Marketing Automation
+ 
+ 
+ 
+ 
+ 
+Customer Service
+ 
+ 
+ 
+ 
+ 
+Mobile App
+ 
+ 
+ 
+ 
+ 
+Reporting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog
+ 
+ 
+ 
+ 
+ 
+Whitepapers
+ 
+ 
+ 
+ 
+ 
+Case Studies
+ 
+ 
+ 
+ 
+ 
+CRM Comparisons
+ 
+ 
+ 
+ 
+ 
+Schedule Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C2CRM
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+ 
+ 
+ 
+ 
+FAQs
+ 
+ 
+ 
+ 
+ 
+About
+ 
+ 
+ 
+ 
+ 
+Contact
+ 
+ 
+ 
+ 
+ 
+Privacy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+©Copyright 2000-2025 · Clear C2, Inc. All Rights Reserved.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+support@clearc2.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+972.304.7111
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Facebook
+ 
+ 
+ 
+ 
+ 
+X-twitter
+ 
+ 
+ 
+ 
+ 
+Youtube
+ 
+ 
+ 
+ 
+ 
+Linkedin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our website uses cookies to ensure you get the best experience. 
+Read our Privacy Policy
+ 
+ 
+Accept All
+ 
+Reject All
+ 
+Settings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Close GDPR Cookie Settings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Privacy Overview
+ 
+ 
+ 
+ 
+Strictly Necessary Cookies
+ 
+ 
+ 
+ 
+ 
+Analytics Cookies
+ 
+ 
+ 
+ 
+ 
+Cookie Policy
+ 
+ 
+ 
+ 
+ 
+Powered by  
+GDPR Cookie Compliance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Privacy Overview
+ 
+ 
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+ 
+ 
+ 
+ 
+ 
+Strictly Necessary Cookies
+ 
+ 
+Strictly necessary cookies are required for the website to function and cannot be switched off in our systems. These cookies are usually set in response to actions you take, such as setting privacy preferences, logging in, or submitting forms.
+ 
+ 
+ 
+ 
+ 
+ 
+Enable or Disable Cookies
+ 
+ 
+ 
+ 
+ 
+Enabled
+ 
+Disabled
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analytics Cookies
+ 
+ 
+Analytics cookies help us understand how visitors interact with our website, which pages are visited, and how we can improve the site. These cookies are only used if you consent.
+ 
+ 
+ 
+ 
+ 
+ 
+Enable or Disable Cookies
+ 
+ 
+ 
+ 
+ 
+Enabled
+ 
+Disabled
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cookie Policy
+ 
+ 
+Clear C2, Inc.
+Last Updated:
+ Jun 24, 2026
+This Cookie Policy explains how Clear C2, Inc. (“Clear C2,” “we,” “us,” or “our”) uses cookies and similar technologies on our website and related online services.
+This Cookie Policy should be read together with our Privacy Policy. Our Privacy Policy explains how we collect, use, disclose, and protect personal information more generally.
+1. What Are Cookies?
+Cookies are small text files that are placed on your browser, computer, or mobile device when you visit a website. Cookies allow websites to recognize a browser or device, remember preferences, support website functionality, improve performance, and understand how visitors interact with the site.
+We may also use similar technologies, including pixels, tags, scripts, web beacons, local storage, embedded content, software development kits, and other tracking or storage technologies. For simplicity, this Cookie Policy refers to cookies and similar technologies collectively as “cookies.”
+2. Why We Use Cookies
+We use cookies and similar technologies to:
+Operate and secure our website
+Remember cookie and privacy preferences
+Enable form submissions and website functionality
+Support customer login and portal functionality
+Understand how visitors use our website
+Improve website performance and content
+Measure the effectiveness of marketing or outreach campaigns
+Provide or control access to embedded content, scheduling tools, videos, maps, or similar functionality
+Detect, prevent, and respond to fraud, abuse, security incidents, or technical issues
+Some cookies are strictly necessary for our website to function. Other cookies are optional and will only be used where permitted by law and, where required, after you provide consent.
+3. Types of Cookies We Use
+We organize cookies into the following categories.
+A. Strictly Necessary Cookies
+Strictly necessary cookies are required for the website to function and cannot be switched off through our cookie preference center.
+These cookies may be used to:
+Load website pages
+Maintain website security
+Remember your cookie preferences
+Enable form submissions
+Support account login or customer portal access
+Prevent fraud, abuse, or unauthorized access
+Maintain basic website functionality
+Because these cookies are necessary to provide the website or service you request, they do not require consent where applicable law allows them to be used without consent.
+Examples may include:
+Cookie or Technology
+Purpose
+Duration
+Cookie consent preference cookie
+Remembers your cookie choices
+365 Days
+WordPress or website session cookies
+Supports site functionality, login, or session management
+48 Hours
+Security or fraud-prevention cookies
+Helps protect the site from abuse or unauthorized access
+2-14 Days
+Form security cookies or tokens
+Helps process and secure form submissions
+48 Hours
+B. Analytics Cookies
+Analytics cookies help us understand how visitors use our website. They may collect information such as pages visited, time spent on pages, referring pages, browser type, device type, general location derived from IP address, and website interactions.
+We use analytics information to:
+Understand website traffic
+Improve website content
+Identify technical issues
+Measure page performance
+Improve user experience
+Analytics cookies are optional and will only be used where permitted by law and, where required, after you provide consent.
+Examples may include:
+ 
+Cookie or Technology
+Provider
+Purpose
+Duration
+Google Analytics cookies, if used
+Google
+Website analytics and traffic measurement
+2 Years
+Google Tag Manager analytics tags, if used
+Google
+Manages analytics-related tags
+2 Years
+C. Marketing and Advertising Cookies
+Marketing and advertising cookies may be used to understand campaign performance, measure advertising effectiveness, support remarketing, personalize outreach, or help us understand how visitors interact with Clear C2 marketing content.
+Marketing and advertising cookies may collect information about your browser, device, website interactions, referral source, and online identifiers. Depending on the tool, third-party advertising or social media platforms may also receive information when these technologies are enabled.
+Marketing and advertising cookies are optional and will only be used where permitted by law and, where required, after you provide consent.
+Examples may include:
+ 
+Cookie or Technology
+Provider
+Purpose
+Duration
+Google Ads or remarketing tags, if used
+Google
+Advertising measurement or remarketing
+2 Years
+D. Functional and Embedded Content Cookies
+Functional and embedded content cookies support optional website features or third-party content. These may include videos, maps, scheduling tools, chat widgets, forms, calendars, or other embedded services.
+These tools may transmit information to third parties when they are loaded. For that reason, where required by law, we do not load non-essential embedded content until you provide consent.
+Examples may include:
+Cookie or Technology
+Provider
+Purpose
+Duration
+Scheduling or demo calendar tools, if used
+Calendly
+Allows visitors to schedule a demo or meeting
+90 Days
+Map tools, if used
+Google Maps
+Displays maps or location information
+14 Days
+Chat or support widgets, if used
+Chatlio
+Supports live chat or website messaging
+6 Months
+If you do not consent to functional or embedded content cookies, some features may not load or may display a placeholder asking you to update your cookie preferences.
+4. First-Party and Third-Party Cookies
+Cookies may be either first-party cookies or third-party cookies.
+First-party cookies
+ are set by Clear C2 or by our website.
+Third-party cookies
+ are set by service providers or third-party platforms whose tools are used on our website, such as analytics providers, advertising platforms, embedded content providers, scheduling tools, or security providers.
+Third-party providers may process information according to their own privacy policies. We encourage you to review the privacy policies of any third-party services you choose to interact with.
+5. Cookies and Personal Information
+Some cookies may collect or be associated with information that identifies, relates to, describes, or could reasonably be linked to a browser, device, or individual.
+This may include:
+IP address
+Browser type
+Device type
+Operating system
+Referring URL
+Pages viewed
+Date and time of visit
+General location derived from IP address
+Cookie identifiers
+Website interactions
+Form interaction data
+Campaign or referral information
+For more information about how we collect, use, disclose, and protect personal information, please review our Privacy Policy.
+6. How We Obtain Consent
+When you visit our website, we may present a cookie banner or cookie preference center.
+Depending on your location and applicable law, you may be able to:
+Accept all cookies
+Reject non-essential cookies
+Manage cookie categories
+Save specific cookie preferences
+Change or withdraw consent later
+We do not intentionally load non-essential analytics, marketing, advertising, or embedded third-party technologies before consent where consent is required by law.
+Strictly necessary cookies may remain active because they are required for the website to function.
+7. How to Manage Cookie Preferences
+You can manage your cookie preferences through the cookie banner or preferenc

@@ -1,0 +1,975 @@
+===== homepage :: https://www.lemlist.com/
+--- SIGNALS ---
+title: lemlist | The AI Outbound Platform for Relevant Outreach at Every Scale
+meta_description: Cover your TAM with AI agents that research, personalize, and engage prospects on autopilot. Run multichannel outreach for strategic accounts powered by real context and intent signals.
+og_description: Cover your TAM with AI agents that research, personalize, and engage prospects on autopilot. Run multichannel outreach for strategic accounts powered by real context and intent signals.
+og_site_name: 
+h1: The AI Outbound Platform for Relevant Outreach at Every Scale | A calendar full of opportunities starts here.
+h2: From full TAM coverage to your top accounts, run outreach that still feels 1:1 | Find leads that match your ICP and their verified contacts | Know when leads are ready to talk and act immediately | Score, segment, and personalize with leads’ unique context | Run outbound across multiple channels, from the same campaign | Protect deliverability across your entire outbound operation | Built to back outbound pros like you | Run lemlist from where you already work | Steal the outbound playbooks behind today’s top sales teams | Frequently Asked Questions
+jsonld_org: []
+--- TEXT ---
+lemlist | The AI Outbound Platform for Relevant Outreach at Every Scale
+ 
+Product
+FIND HIGH-INTENT PROSPECTS
+Identify ICP-fit accounts and leads, and enrich with verified contact data.
+650 M+ Lead Database
+Email Finder & Verifier
+Phone Number Finder
+AUTOMATE MULTICHANNEL OUTREACH
+Reach leads via email, LinkedIn, calls, WhatsApp, and SMS from one workflow.
+Multichannel Sequences
+LinkedIn Prospecting
+In-app Calling
+SMS Campaigns
+WhatsApp Prospecting
+Unified Inbox
+SECURE INBOX DELIVERABILITY
+Stay out of spam and land in inboxes across all your mailboxes & domains.
+Deliverability Setup
+Inbox Delivery
+Monitoring & Alerts
+AI-POWERED OUTBOUND
+Use AI to source and research leads, and personalize outreach with relevant context.
+lemAgent
+New
+Intent Signal Agents
+Data Enrichment Agents
+Smart Messaging
+lemlist MCP
+Roles
+LEMLIST FOR
+Sales Reps
+RevOps
+Sales Leaders
+Founders
+Resources
+DEV & SUPPORT
+Integrations
+API Reference
+Help Center
+OUR CLIENTS
+Customer Stories
+Wall of Love
+OUTBOUND LEARNINGS
+Webinars
+Playbooks
+Blog
+AI RESOURCES
+lemlist MCP
+lemlist CLI
+Claude Skills
+Pricing
+We're hiring!
+Log in
+Get a demo
+Sign up for free
+ 
+Product
+FIND HIGH-INTENT PROSPECTS
+Identify ICP-fit accounts and leads, and enrich with verified contact data.
+650 M+ Lead Database
+Email Finder & Verifier
+Phone Number Finder
+AUTOMATE MULTICHANNEL OUTREACH
+Reach leads via email, LinkedIn, calls, WhatsApp, and SMS from one workflow.
+Multichannel Sequences
+LinkedIn Prospecting
+In-app Calling
+SMS Campaigns
+WhatsApp Prospecting
+Unified Inbox
+SECURE INBOX DELIVERABILITY
+Stay out of spam and land in inboxes across all your mailboxes & domains.
+Deliverability Setup
+Inbox Delivery
+Monitoring & Alerts
+AI-POWERED OUTBOUND
+Use AI to source and research leads, and personalize outreach with relevant context.
+lemAgent
+New
+Intent Signal Agents
+Data Enrichment Agents
+Smart Messaging
+lemlist MCP
+Roles
+LEMLIST FOR
+Sales Reps
+RevOps
+Sales Leaders
+Founders
+Resources
+DEV & SUPPORT
+Integrations
+API Reference
+Help Center
+OUR CLIENTS
+Customer Stories
+Wall of Love
+OUTBOUND LEARNINGS
+Webinars
+Playbooks
+Blog
+AI RESOURCES
+lemlist MCP
+lemlist CLI
+Claude Skills
+Pricing
+We're hiring!
+Log in
+Get a demo
+Sign up for free
+Welcome, Secret users 
+👋
+ 
+You’ve unlocked something special. Let’s get you started
+Start your 30-day free trial
+Welcome Better Growth visitors 
+👋
+ 
+You’ve unlocked something special. Let’s get you started
+Start your 30-day free trial
+Welcome Software Scope visitors 
+👋
+ 
+You’ve unlocked something special. Let’s get you started
+Start your 30-day free trial
+Roxane t’a donné 1 mois gratuit, 
+la chance ! 
+Clique ici pour commencer ton essai
+Start your 30-day free trial
+The AI Outbound Platform
+for Relevant Outreach at Every Scale
+Cover your TAM with AI agents that research, personalize, and engage prospects on autopilot. Run multichannel outreach for strategic accounts powered by real context and intent signals.
+Start for free
+Book a demo
+14-day free trial. No credit card required.
+Let AI handle it
+Let AI handle it
+Find & enrich leads
+Spot buying intent
+Engage on multi-channels
+Avoid spam
+& 20,000+ other sales teams run their entire outbound in lemlist
+& 20,000+ other sales teams run their entire outbound in lemlist
+& 20,000+ other sales teams run their entire outbound in lemlist
+& 20,000+ other sales teams run their entire outbound in lemlist
+& 20,000+ other sales teams run their entire outbound in lemlist
+From full TAM coverage to your top accounts, run outreach that still feels 1:1
+01
+02
+03
+04
+05
+01
+Find leads that match your ICP and their verified contacts
+Upload leads from your CRM or CSV and enrich them with verified emails and phone numbers from the market’s top data providers.
+Need leads to get started? Use the 600M+ lemlist database and smart filters to find accounts that match your ICP.
+Learn more
+02
+01
+02
+Know when leads are ready to talk and act immediately
+Intent signal agents suggest, track, and act on high-intent events that show prospects are likely to engage.
+Using your AI Context Center, agents suggest multichannel sequences, personalized copies, and AI prompts tailored to the trigger.
+Learn more
+03
+02
+03
+Score, segment, and personalize with leads’ unique context
+Data enrichment agents pull structured insights from LinkedIn, websites, CRM data, Claap sales recordings, and other internal sources.
+Turn scattered lead data into actionable context you can use to qualify accounts, prioritize outreach, and tailor every message.
+Learn more
+04
+03
+04
+Run outbound across multiple channels, from the same campaign
+Launch automated campaigns across email, LinkedIn, calls, WhatsApp, and SMS from one workflow.
+Manage every conversation in a unified inbox, no matter the sender or channel.
+Learn more
+05
+04
+05
+Protect deliverability across your entire outbound operation
+Deliverability Hub helps you keep emails landing in inboxes, even when sending at scale across multiple mailboxes and domains.
+Monitor mailbox and domain health, spot issues before performance drops, and get actionable recommendations from one centralized hub.
+Learn more
+Built to 
+back outbound pros
+ like you
+For Sales Reps
+For Sales Leaders
+For RevOps
+For Founders
+Recognized by G2.
+Trusted by thousands.
+4.7
+ 
+/ 
+5
+based on 1,396 reviews | GDPR Compliant
+Rishabh J.
+"Constantly Improving Features and Strong Campaign Management"
+5
+/5
+What do you like best about lemlist?
+Lemlist is constantly upgrading its features, and their CS team is also good. It offers useful features like email warm-up and more. Overall, it provides detailed campaign mapping and a solid set of tools for managing campaigns. 
+Shevon R.
+"Game Changer"
+5
+/5
+What do you like best about lemlist?
+What I like best about lemlist is the quality of its database combined with its powerful sequencing capabilities. The multichannel outreach is a real game changer. it allows us to engage prospects across email, LinkedIn and more all within a single, streamlined workflow.
+Verified User in Marketing and Advertising
+"Powerful all-in-one outbound platform with great automation features"
+5
+/5
+What do you like best about lemlist?
+I’ve been using lemlist for my outbound campaigns and I’m extremely happy with the tool. What stands out the most for me is how everything is in one place. Instead of juggling multiple tools, I can handle prospecting, enrichment, outreach campaigns, calling, LinkedIn automation, and deliverability all within a single platform. That alone saves a huge amount of time.
+Verified User in Computer Software
+"lemlist Covers Every Step with a Personal Touch"
+4.5
+/5
+What do you like best about lemlist?
+I love the fact that you can use lemist for everystep of your process, including manuak steps. You can send emails, interact on linkedin, call and all that with personnal touch on each step. The support team are extremely reactive which is pretty good. 
+See more
+Run lemlist from where 
+you already work
+AI assistants
+Salesforce
+HubSpot
+Attio
+Explore 500+ integrations
+Check API docs
+Steal the outbound playbooks
+behind today’s top sales teams
+Achieve 145% Quota by Tom Greenwood, BDR Team Lead at Paddle
+Learn how Tom uses strict routines, protected outreach time, and relevance-first targeting to consistently exceed targets.
+Get the playbook
+Book 120 Quality Calls a week by Conor McCarthy, Sales Lead at lemlist
+Discover how Conor prioritizes the right accounts and runs organized, multichannel outreach to secure a consistent pipeline.
+Get the playbook
+Get 35% Outbound Pipeline by Jonathan Chemouny, GTM at ElevenLabs
+See how Jonathan scales outbound fast with creative multichannel tactics, strong signals, and consistent A/B testing.
+Get the playbook
+Frequently Asked Questions
+What is lemlist?
+lemlist is an AI-powered sales engagement platform that finds leads, personalizes outreach, and runs multichannel campaigns (email, LinkedIn, calls, WhatsApp, SMS) - all in one place. From lead generation to enrichment, outreach automation, and deliverability, everything works together, so you don’t need multiple tools.
+Who is lemlist for?
+lemlist is built for sales and growth teams who want to spend less time on manual work and more time closing deals.
+It helps:
+→ Sales leaders ramp teams faster and hit targets
+→ Sales ops streamline workflows and scale efficiently
+→ SDRs and AEs focus on conversations instead of admin
+Whether you're a solo founder, agency, or scaling team, lemlist gives you everything you need to build high-performing motion.
+How does lemlist help with email deliverability?
+Every lemlist seat includes built-in deliverability tools, including lemwarm, our automated warm-up and deliverability booster. It helps you build sender reputation, avoid spam, and keep your emails landing where they should, outside of spam.
+Does lemlist comply with SOC 2 security standards?
+Yes, lemlist is SOC 2 certified. This certification ensures that our systems and processes adhere to rigorous controls to protect your data and maintain high security and reliability standards.
+Can I integrate lemlist with my current sales stack?
+Yes. lemlist connects seamlessly with tools like HubSpot and Salesforce, so you can even manage lemlist outreach without leaving your CRM. With native integrations, MCP, and API access, it fits right into your team's existing workflow.
+How can I get started with lemlist and see how it works?
+You can 
+book a personalized demo
+ with our team or explore lemlist on your own with a 
+14-day free trial
+. Once you sign up, the dashboard will guide you through the setup step by step, and if you need help, our support team is just a click away via the in-app chat.
+A calendar full of 
+opportunities starts here.
+Start a 14-day free trial
+Book a demo
+GET STARTED
+Pricing
+Log in
+Sign up for free
+Get a demo
+PRODUCT
+Find qualified leads
+Enrich contact info
+Personalize at scale
+Automate multichannel
+Land out of spam
+Integrations
+Developer API
+Systems status
+RESOURCES
+Blog
+Playbooks
+YouTube
+Free tools
+Outreach templates
+Help center
+lemlist Academy
+Structured data for LLMs
+COMPANY
+Join us
+Partner with lemlist
+Hire a lemlist expert
+LEGAL
+Terms of service
+Privacy Policy
+Sending Policy
+Anti-abuse protection
+Data Processing Agreement
+©
+2026
+ lempire - All rights reserved.
+🇺🇸 English
+🇫🇷 Français
+🇩🇪 Deutsch
+🇪🇸 Español
+
+===== product :: https://www.lemlist.com/product/ai
+--- SIGNALS ---
+title: lemlist AI: Segment Leads, Clean Data, & Personalize Messages at Scale
+meta_description: Need a hand finding, reaching, and converting leads? lemlist AI helps like your best sales rep, only faster!
+og_description: Need a hand finding, reaching, and converting leads? lemlist AI helps like your best sales rep, only faster!
+og_site_name: 
+h1: Engage with leads in a human way, at machine speed. | A calendar full of opportunities starts here.
+h2: Let AI handle it - Reach right people, at the right time, with the right message. | Easily segment leads for spot-on targeting | Craft optimized sequences in just 1 click | Use clean data for human-like messages | Make outreach feel personal with relevant details | Stand out with your voice, at scale | Fine-tune messages for every lead | Get the most out of lemlist AI with handpicked top prompts. | Step by step guides to help you get the most out of AI | Frequently Asked Questions
+jsonld_org: []
+--- TEXT ---
+lemlist AI: Segment Leads, Clean Data, & Personalize Messages at Scale
+ 
+Product
+FIND HIGH-INTENT PROSPECTS
+Identify ICP-fit accounts and leads, and enrich with verified contact data.
+650 M+ Lead Database
+Email Finder & Verifier
+Phone Number Finder
+AUTOMATE MULTICHANNEL OUTREACH
+Reach leads via email, LinkedIn, calls, WhatsApp, and SMS from one workflow.
+Multichannel Sequences
+LinkedIn Prospecting
+In-app Calling
+SMS Campaigns
+WhatsApp Prospecting
+Unified Inbox
+SECURE INBOX DELIVERABILITY
+Stay out of spam and land in inboxes across all your mailboxes & domains.
+Deliverability Setup
+Inbox Delivery
+Monitoring & Alerts
+AI-POWERED OUTBOUND
+Use AI to source and research leads, and personalize outreach with relevant context.
+lemAgent
+New
+Intent Signal Agents
+Data Enrichment Agents
+Smart Messaging
+lemlist MCP
+Roles
+LEMLIST FOR
+Sales Reps
+RevOps
+Sales Leaders
+Founders
+Resources
+DEV & SUPPORT
+Integrations
+API Reference
+Help Center
+OUR CLIENTS
+Customer Stories
+Wall of Love
+OUTBOUND LEARNINGS
+Webinars
+Playbooks
+Blog
+AI RESOURCES
+lemlist MCP
+lemlist CLI
+Claude Skills
+Pricing
+We're hiring!
+Log in
+Get a demo
+Sign up for free
+ 
+Product
+FIND HIGH-INTENT PROSPECTS
+Identify ICP-fit accounts and leads, and enrich with verified contact data.
+650 M+ Lead Database
+Email Finder & Verifier
+Phone Number Finder
+AUTOMATE MULTICHANNEL OUTREACH
+Reach leads via email, LinkedIn, calls, WhatsApp, and SMS from one workflow.
+Multichannel Sequences
+LinkedIn Prospecting
+In-app Calling
+SMS Campaigns
+WhatsApp Prospecting
+Unified Inbox
+SECURE INBOX DELIVERABILITY
+Stay out of spam and land in inboxes across all your mailboxes & domains.
+Deliverability Setup
+Inbox Delivery
+Monitoring & Alerts
+AI-POWERED OUTBOUND
+Use AI to source and research leads, and personalize outreach with relevant context.
+lemAgent
+New
+Intent Signal Agents
+Data Enrichment Agents
+Smart Messaging
+lemlist MCP
+Roles
+LEMLIST FOR
+Sales Reps
+RevOps
+Sales Leaders
+Founders
+Resources
+DEV & SUPPORT
+Integrations
+API Reference
+Help Center
+OUR CLIENTS
+Customer Stories
+Wall of Love
+OUTBOUND LEARNINGS
+Webinars
+Playbooks
+Blog
+AI RESOURCES
+lemlist MCP
+lemlist CLI
+Claude Skills
+Pricing
+We're hiring!
+Log in
+Get a demo
+Sign up for free
+Engage with leads in a 
+human way
+, at 
+machine speed
+.
+Need a hand finding, reaching, and converting leads? lemlist AI helps like your best sales rep. Only faster.
+Start for free
+& 20,000+ other sales teams run their entire outbound in lemlist
+Let AI handle it - Reach right people, at the 
+right time, with the right message.
+Easily segment leads for spot-on targeting
+Connect with prospects that are interesting for you and by you. Use AI to extract key insights from raw data, like company size, seniority, job openings, and fundraising—so you can segment relevant audience and drive fast results.
+Craft optimized sequences in just 1 click
+Share your outreach details, and let lemlist AI create multichannel sequences from scratch at the right time, with right messages.
+Use clean data for human-like messages
+Avoid sounding robotic. Normalize dates, capitalize names, clean job titles, remove emojis, and more. All in one tool.
+Make outreach feel personal with relevant details
+Your leads expect you to know them and their business. lemlist AI does the heavy lifting, gathering key insights like competitor data and top pain points from LinkedIn bios, websites, and more. Use them to personalize every message at scale, without the research hassle.
+Stand out with your voice, at scale
+Let lemlist AI clone your voice from one recording. Add a script with smart variables and turn it into 1000s of custom notes.
+Fine-tune messages for every lead
+You’re a sales pro, not a copywriter. Let AI fine-tune your message for tone, length, and impact, so every word drives conversions.
+Get the most out of lemlist AI with handpicked top prompts.
+1. Target right people
+2. With the right message
+3. Without sounding robotic
+Identify lead’s seniority
+Spot lead’s top pain points
+Remove extra spacing
+Detect lead’s company size
+Detect lead’s company size
+Format local & international numbers
+Score how well lead fits your ICP
+Craft intros from company domain
+Normalize US and EU date formats
+Classify lead as B2B or B2C
+Add personalized P.S. lines
+Capitalize names properly
+Pinpoint specific industries
+Summarize company goals
+Remove emojis from titles
+Discover all AI prompts
+Traditional sales teams
+Spend hours researching leads
+Manually build every sequence
+Struggle with writer’s block
+Constantly tweak messages for each lead
+Manually track & label interested leads
+Juggle multiple tools to optimize data
+Top 1% salespeople who use AI
+Cut research time by 90%
+Build outbound sequences in 3 min
+Auto-generate personalized emails
+Fine-tune messages in seconds
+Label engaged leads instantly
+Get, clean, and segment data in 1 tool
+Step by step guides to help you get the most out of AI
+Frequently Asked Questions
+What are the benefits of using AI for sales prospecting?
+By generating highly personalized multichannel sequences and messages with AI, you can free up resources to focus on more strategic and value-added activities. This translates into saving costs and achieving more with less resources. In short, you have the power of multiple SDRs at your fingertips.
+Which lemlist AI capabilities help salespeople?
+lemlist AI helps thousands of salespeople by:
+Generating personalized multichannel sequences with Campaign Generator, in under 3 mins
+Segmenting, cleaning, and enriching data instantly with AI Variables
+Fine-tuning every message for better results with the “Ask AI” Assistant
+Detecting interested prospects so you never miss an opportunity via Interest Detector
+Combining these actions can result in higher engagement, more opportunities, and more deals that bring revenue.
+In which plans is lemlist AI available?
+lemlist AI is included in every paid plan, plus a 14-day free trial, so you can unlock new business opportunities no matter your sales level or budget.
+How to get started with lemlist AI?
+lemlist AI sources data via your OpenAI account, which you can link to your lemlist in just a few minuts. Simply follow 
+this step-by-step guide
+ that will ensure you’re set for success.
+ Is AI-based prospecting compliant with regulations?
+lemlist AI sources data via your OpenAI account, which you can link to your lemlist in just a few minuts. Simply follow 
+this step-by-step guide
+ that will ensure you’re set for success.
+Can AI replace human interaction in outreach?
+While AI alone supports outreach efforts, the human touch remains critical for building relationships, understanding leads’ emotions, and making outreach relatable. That’s why combining AI and human interaction can enhance outreach efforts, instead of replacing them.
+A calendar full of 
+opportunities starts here.
+Start a 14-day free trial
+Book a demo
+GET STARTED
+Pricing
+Log in
+Sign up for free
+Get a demo
+PRODUCT
+Find qualified leads
+Enrich contact info
+Personalize at scale
+Automate multichannel
+Land out of spam
+Integrations
+Developer API
+Systems status
+RESOURCES
+Blog
+Playbooks
+YouTube
+Free tools
+Outreach templates
+Help center
+lemlist Academy
+Structured data for LLMs
+COMPANY
+Join us
+Partner with lemlist
+Hire a lemlist expert
+LEGAL
+Terms of service
+Privacy Policy
+Sending Policy
+Anti-abuse protection
+Data Processing Agreement
+©
+2026
+ lempire - All rights reserved.
+🇺🇸 English
+🇫🇷 Français
+🇩🇪 Deutsch
+🇪🇸 Español
+
+===== pricing_or_trust :: https://www.lemlist.com/pricing
+--- SIGNALS ---
+title: lemlist pricing︱The all-in-one platform for precise outbound at any scale
+meta_description: Flexible pricing plans that adjust to your team scaling.
+og_description: Flexible pricing plans that adjust to your team scaling.
+og_site_name: 
+h1: The all-in-one platform for precise outbound, at any scale | A calendar full of opportunities starts here.
+h2: Get better data for more precise outreach | Compare plans and find your best fit | Frequently Asked Questions
+jsonld_org: []
+--- TEXT ---
+lemlist pricing︱The all-in-one platform for precise outbound at any scale
+ 
+Product
+FIND HIGH-INTENT PROSPECTS
+Identify ICP-fit accounts and leads, and enrich with verified contact data.
+650 M+ Lead Database
+Email Finder & Verifier
+Phone Number Finder
+AUTOMATE MULTICHANNEL OUTREACH
+Reach leads via email, LinkedIn, calls, WhatsApp, and SMS from one workflow.
+Multichannel Sequences
+LinkedIn Prospecting
+In-app Calling
+SMS Campaigns
+WhatsApp Prospecting
+Unified Inbox
+SECURE INBOX DELIVERABILITY
+Stay out of spam and land in inboxes across all your mailboxes & domains.
+Deliverability Setup
+Inbox Delivery
+Monitoring & Alerts
+AI-POWERED OUTBOUND
+Use AI to source and research leads, and personalize outreach with relevant context.
+lemAgent
+New
+Intent Signal Agents
+Data Enrichment Agents
+Smart Messaging
+lemlist MCP
+Roles
+LEMLIST FOR
+Sales Reps
+RevOps
+Sales Leaders
+Founders
+Resources
+DEV & SUPPORT
+Integrations
+API Reference
+Help Center
+OUR CLIENTS
+Customer Stories
+Wall of Love
+OUTBOUND LEARNINGS
+Webinars
+Playbooks
+Blog
+AI RESOURCES
+lemlist MCP
+lemlist CLI
+Claude Skills
+Pricing
+We're hiring!
+Log in
+Get a demo
+Sign up for free
+ 
+Product
+FIND HIGH-INTENT PROSPECTS
+Identify ICP-fit accounts and leads, and enrich with verified contact data.
+650 M+ Lead Database
+Email Finder & Verifier
+Phone Number Finder
+AUTOMATE MULTICHANNEL OUTREACH
+Reach leads via email, LinkedIn, calls, WhatsApp, and SMS from one workflow.
+Multichannel Sequences
+LinkedIn Prospecting
+In-app Calling
+SMS Campaigns
+WhatsApp Prospecting
+Unified Inbox
+SECURE INBOX DELIVERABILITY
+Stay out of spam and land in inboxes across all your mailboxes & domains.
+Deliverability Setup
+Inbox Delivery
+Monitoring & Alerts
+AI-POWERED OUTBOUND
+Use AI to source and research leads, and personalize outreach with relevant context.
+lemAgent
+New
+Intent Signal Agents
+Data Enrichment Agents
+Smart Messaging
+lemlist MCP
+Roles
+LEMLIST FOR
+Sales Reps
+RevOps
+Sales Leaders
+Founders
+Resources
+DEV & SUPPORT
+Integrations
+API Reference
+Help Center
+OUR CLIENTS
+Customer Stories
+Wall of Love
+OUTBOUND LEARNINGS
+Webinars
+Playbooks
+Blog
+AI RESOURCES
+lemlist MCP
+lemlist CLI
+Claude Skills
+Pricing
+We're hiring!
+Log in
+Get a demo
+Sign up for free
+Get 1 entire month of Lemlist for free
+🚨
+ Limited Time Offer 
+🚨
+You've unlocked an extended 30 day free trial of Lemlist - perks of checking out Tim Yakubson's content : )
+Start your 30-day free trial
+The all-in-one platform 
+for precise outbound, 
+at any scale
+Yearly
+Save 20%
+Monthly
+Quarterly
+Save 10%
+Yearly
+Save 20%
+Email
+Reach more leads through email while staying out of spam.
+$
+69
+$
+55
+/month
+Unlimited
+users
+50,000 emails
+/mo
+ 
+Start a 14-day free trial
+Unlimited Users & Email Senders
+Email & Phone Number Finder
+650M+ Leads Database
+Unlimited Contacts
+lemAgent
+AI Agents
+lemlist MCP
+Unified Inbox
+Deliverability Hub & Warm-up
+CRM integrations & API
+Explore all features
+Multichannel
+POPULAR
+Maximize replies by contacting leads where they’re most active.
+$
+109
+$
+87
+/month
+user
+Unlimited emails & messages
+/mo
+ 
+Start a 14-day free trial
+CORE EMAIL PLAN FEATURES, PLUS:
+5 Senders /User
+Unlimited Emails & Messages
+Email & Phone Number Finder
+LinkedIn Automation
+SMS Automation
+WhatsApp Automation Add-on
+Built‑in Call Dialer & VoIP Integrations
+Task Management
+Use lemlist from Gmail & LinkedIn
+Explore all features
+Enterprise
+Scale teams of 5+ users without compromising performance.
+Custom
+Custom
+users
+Unlimited emails & messages
+/mo
+ 
+Talk with sales
+EVERYTHING IN THE MULTICHANNEL, PLUS:
+≥ 5 Senders /User
+Email & Phone Number Finder
+Use lemlist from your CRM
+Custom User Roles & Permissions
+Dedicated Account Manager
+Custom Terms of Use
+Advanced Login Security (SSO/SAML)
+1:1 Onboarding Sessions
+Priority Support
+Explore all features
+Get better data for more precise outreach
+Find emails & phone numbers
+$
+10
+Pay per success with rechargeable lemlist credits (1 credit = $0.01)
+Find reliable emails and phone numbers from top 25+ data providers.
+Verified emails
+5 credits /email
+Phone numbers
+20 credits /number
+1k credits - 200 emails or 50 phones - $10
+ 
+Track buying intent signals
+$
+Pay per signal
+Pay per success with rechargeable lemlist credits (1 credit = $0.01)
+Spot real-time events that signal leads are likely to talk to you.
+Company visited web
+20 credits /signal
+Hiring & job changes
+From 100 credits /signal
+Company fundraised
+100 credits /signal
+LinkedIn engagement
+From 400 credits /signal
+& 20,000+ other sales teams run their entire outbound in lemlist
+Recognized by G2.
+Trusted by thousands.
+4.7
+ 
+/ 
+5
+based on 1,396 reviews | GDPR Compliant
+Compare plans and find your best fit
+Email
+From $55 /user /mo
+Start a 14-day free trial
+Multichannel
+From $87 /user /mo
+Start a 14-day free trial
+Enterprise
+Custom price
+Talk with sales
+Data & Lead Generation
+Included in all plans
+650M+ lead database
+Account-based prospecting
+Unlimited contacts
+Centralized contact management
+Leads scoring
+Email finder & verifier
+Phone number finder
+Unlimited LinkedIn enrichment
+Unlimited LinkedIn leads export
+CSV leads export
+Deliverability
+Included in all plans
+Google, Microsoft, & SMTP
+In-app domain purchase
+Rotating IPs
+Custom tracking domain
+DNS setup test
+Deliverability testing
+Sending limits management
+Unsubscribe link
+Smart sending algorithm
+Inbox rotation
+In-app emails purchase
+Deliverability alerts
+Deliverability Hub
+Multichannel Outreach Automation
+Included in all plans
+Liquid Syntax
+Custom text & images
+Campaign scheduling
+Campaign auto-launch
+Auto-stop campaign
+Conditioned next steps
+Unlimited emails & messages
+LinkedIn profile visits
+LinkedIn follows & invites 
+LinkedIn text messages
+LinkedIn voice messages
+SMS messages
+In-app calling
+WhatsApp add-on
+AI-powered Outbound
+Included in all plans
+lemAgent
+AI leads data cleaning
+AI web search enrichment
+AI-powered lead database filters
+AI account & contact research
+Intent signal agents
+URL-scraping agent
+LinkedIn agents
+Claap agents
+MCP server access
+Guest users
+AI reply intent detection
+AI out-of-office detection
+AI-generated replies
+AI personalized LinkedIn voice notes
+AI sales call summaries
+AI CRM auto-fill
+Operations & Scaling
+Included in all plans
+Teammate invites
+Template library
+Roles & permissions management
+Shared campaigns
+Task management
+Multi-threading
+Campaign review
+Step preview
+Custom reporting
+Guest users
+Developer tools (API, CLI & MCP)
+Unlimited users & email senders
+Manual steps
+Unified inbox
+Custom user roles & permissions
+Custom credits assignment
+Activity logs
+Chrome Extension & Integrations
+Included in all plans
+Work in lemlist from LinkedIn
+Work in lemlist from Gmail
+lemlist API key & documentation
+Zapier
+Make, n8n, Clay
+CRM (Hubspot, Salesforce, Pipedrive)
+VoIP (Aircall, Ringover)
+Claap AI call agent
+Work in lemlist from your CRM
+Enablement & Support
+Included in all plans
+Two-factor authentication
+Local currency billing ($, €, or £)
+Interface in EN, FR, DE, ES
+In-app live support
+1:1 onboarding sessions
+Dedicated account manager
+Wire transfer or SEPA payment
+Custom terms of use
+Monthly/Quarterly billing of annual plan
+Advanced login security (SSO/SAML)
+Frequently Asked Questions
+What’s included in the 14-day free trial?
+You get full access to the Multichannel plan for 14 days - no credit card required. After the trial, you can’t send new campaigns, but you’ll keep access to your account, campaigns, and leads.
+What are lemlist credits and how do they work?
+Credits are lemlist’s currency for unlocking features such as enrichment, verification, AI capabilities, call minutes, and more. They’re only charged when an action is successful. If you run out, you can top up anytime directly from your account - no plan upgrade needed.
+What are add-ons and do I need them?
+Add-ons are optional features, such as data enrichment or buying intent signals, that you can add to customize your plan. You can add or remove them anytime.
+What can I do with the lemlist Chrome extension?
+The extension lets you find contacts, enrich leads, personalize messages, or launch outreach directly from LinkedIn, Gmail, or CRM (depending on your active plan), without leaving your workflow.
+Is lemwarm and deliverability protection included?
+Yes. lemwarm and built-in deliverability protections are included in all plans to help keep your emails out of spam and protect your sender reputation at any scale.
+When should I choose the Enterprise plan?
+Enterprise is a good fit for larger or fast-growing teams that need centralized control. Think IT-managed orgs requiring SSO, companies with stricter compliance needs, or finance teams that can't pay by card. If self-serve no longer cuts it and you need structure, auditing, and dedicated support, Enterprise is the right move.
+A calendar full of 
+opportunities starts here.
+Start a 14-day free trial
+Book a demo
+GET STARTED
+Pricing
+Log in
+Sign up for free
+Get a demo
+PRODUCT
+Find qualified leads
+Enrich contact info
+Personalize at scale
+Automate multichannel
+Land out of spam
+Integrations
+Developer API
+Systems status
+RESOURCES
+Blog
+Playbooks
+YouTube
+Free tools
+Outreach templates
+Help center
+lemlist Academy
+Structured data for LLMs
+COMPANY
+Join us
+Partner with lemlist
+Hire a lemlist expert
+LEGAL
+Terms of service
+Privacy Policy
+Sending Policy
+Anti-abuse protection
+Data Processing Agreement
+©
+2026
+ lempire - All rights reserved.
+🇺🇸 English
+🇫🇷 Français
+🇩🇪 Deutsch
+🇪🇸 Español

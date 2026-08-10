@@ -1,0 +1,4186 @@
+===== llms.txt :: https://www.slicktext.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# SlickText
+> SlickText is the #1 rated SMS marketing platform. We help businesses connect with their customers through text messaging, offering tools for mass texting, automated workflows, segmentation, analytics, and integrations with platforms like Shopify, HubSpot, and Zapier. Over 15,000 brands rely on SlickText. Founded with a decade of SMS marketing expertise.
+For detailed documentation, see [llms-full.txt](https://www.slicktext.com/llms-full.txt).
+## Company Info
+- Website: https://www.slicktext.com
+- Support: https://help.slicktext.com
+- API Docs: https://api.slicktext.com
+- Blog: https://www.slicktext.com/blog/
+- Phone: 1-800-688-6290
+## Core Platform
+- [Homepage](https://www.slicktext.com/): SMS marketing services and text marketing platform overview
+- [How It Works](https://www.slicktext.com/how-it-works): Step-by-step guide to getting started with SMS marketing
+- [Pricing](https://www.slicktext.com/pricing): Plans and pricing for SMS marketing, including a free 14-day trial
+- [About Us](https://www.slicktext.com/about-us): Company background, mission, and team
+- [Contact](https://www.slicktext.com/contact): Get in touch with our team
+- [Why SlickText](https://www.slicktext.com/why-slicktext): Reasons to choose SlickText over other SMS marketing platforms
+- [Brand Assets](https://www.slicktext.com/brand-assets): Official SlickText logos, colors, and brand guidelines
+## Features
+- [All Features](https://www.slicktext.com/features/): Full list of SMS marketing features
+- [Campaigns](https://www.slicktext.com/features/campaigns): Targeted, personalized mass texting campaigns
+- [Inbox](https://www.slicktext.com/features/inbox): Two-way conversational messaging
+- [Workflows](https://www.slicktext.com/features/workflows): Automated texting workflows and drip campaigns
+- [Segments](https://www.slicktext.com/features/segments): Audience segmentation for targeted messaging
+- [Analytics](https://www.slicktext.com/features/analytics): Campaign performance tracking and reporting
+- [Website Popups](https://www.slicktext.com/features/website-popups): Subscriber opt-in popups for websites
+- [Text to Join](https://www.slicktext.com/features/text-to-join): Keyword-based subscriber opt-in
+- [SMS Autoresponders](https://www.slicktext.com/features/sms-autoresponders): Automatic text message replies
+- [Web Forms](https://www.slicktext.com/features/web-forms): Embeddable subscriber sign-up forms
+- [Text to Win Contests](https://www.slicktext.com/features/text-to-win-contests): SMS-based promotional contests
+## Services
+- [Mass Text Messaging](https://www.slicktext.com/mass-text-messaging-service): Send texts to large audiences
+- [Text Message Automation](https://www.slicktext.com/text-message-automation): Automated SMS workflows
+- [MMS Marketing](https://www.slicktext.com/mms-marketing): Picture and multimedia messaging
+- [Text Alerts](https://www.slicktext.com/text-alert-service): SMS alert and notification service
+- [Text Blasts](https://www.slicktext.com/text-blast-service): Bulk text message broadcasting
+- [Text Broadcasts](https://www.slicktext.com/text-broadcast-service): Text broadcast messaging
+- [Text Promotions](https://www.slicktext.com/text-promotions): Promotional text messaging
+- [SMS Short Codes](https://www.slicktext.com/sms-short-code-service): Dedicated short code texting
+- [Text to Landline](https://www.slicktext.com/text-to-landline): Enable texting on landline numbers
+- [Enterprise SMS](https://www.slicktext.com/enterprise): Enterprise-grade SMS marketing software
+- [HIPAA Compliant Texting](https://www.slicktext.com/hipaa-compliant-texting): Healthcare-compliant messaging
+## Integrations
+- [All Integrations](https://www.slicktext.com/integrations/): Native integration options
+- [Shopify](https://www.slicktext.com/integrations/shopify): SMS marketing for Shopify stores
+- [HubSpot](https://www.slicktext.com/integrations/hubspot): CRM integration with HubSpot
+- [Zapier](https://www.slicktext.com/integrations/zapier): Connect with 8,000+ apps via Zapier
+- [ActiveCampaign](https://www.slicktext.com/integrations/activecampaign): Marketing automation integration
+## Use Cases
+- [All Use Cases](https://www.slicktext.com/use-cases/): Industry-specific SMS marketing guides
+- [Retail](https://www.slicktext.com/use-cases/retail): Text marketing for retail businesses
+- [Ecommerce](https://www.slicktext.com/use-cases/ecommerce): SMS marketing for online stores
+- [Small Business](https://www.slicktext.com/use-cases/small-business): Text messaging for small businesses
+- [Marketing Agencies](https://www.slicktext.com/use-cases/marketing-agencies): SMS for agency clients
+- [Schools](https://www.slicktext.com/use-cases/schools): Text messaging for educational institutions
+- [Churches](https://www.slicktext.com/use-cases/churches): SMS communication for churches
+- [Restaurants](https://www.slicktext.com/use-cases/restaurants): Text marketing for restaurants
+- [Non-Profits](https://www.slicktext.com/use-cases/non-profits): Texting for nonprofits
+- [Employee Communication](https://www.slicktext.com/use-cases/employee-communication): Internal SMS messaging
+- [Entertainment Venues](https://www.slicktext.com/use-cases/entertainment-venues): SMS for venues and events
+- [Content Creators](https://www.slicktext.com/use-cases/content-creators): Text marketing for creators
+- [Customer Service](https://www.slicktext.com/use-cases/customer-service): SMS-based customer support
+## Comparisons
+- [SlickText vs. Alternatives](https://www.slicktext.com/compare/): Compare SlickText to competitors
+- [SlickText vs. Attentive](https://www.slicktext.com/compare/slicktext-vs-attentive)
+- [SlickText vs. Klaviyo](https://www.slicktext.com/compare/slicktext-vs-klaviyo)
+- [SlickText vs. EZ Texting](https://www.slicktext.com/compare/slicktext-vs-ez-texting)
+- [SlickText vs. SimpleTexting](https://www.slicktext.com/compare/slicktext-vs-simpletexting)
+- [SlickText vs. Avochato](https://www.slicktext.com/compare/slicktext-vs-avochato)
+## Resources
+- [Resource Library](https://www.slicktext.com/resources/): Guides, videos, and case studies
+- [SMS Marketing Guide](https://www.slicktext.com/sms-marketing-guide): Comprehensive guide to SMS marketing
+- [Text Marketing Best Practices](https://www.slicktext.com/text-marketing-best-practices): Tips and strategies
+- [SMS Compliance](https://www.slicktext.com/sms-compliance): TCPA and SMS compliance guide
+- [BFCM Automation Guide](https://www.slicktext.com/bfcm-automation-guide): SMS automation workflows for Black Friday and Cyber Monday
+- [Migration Guide](https://www.slicktext.com/migration): Switch to SlickText from another provider
+- [Blog](https://www.slicktext.com/blog/): Latest SMS marketing news and tips
+## Case Studies
+- [All Case Studies](https://www.slicktext.com/resources/case-studies/): Customer success stories
+- [Dog Haus](https://www.slicktext.com/resources/case-studies/dog-haus): Restaurant franchise scaled to 60 stores with SlickText
+- [Freshly Picked](https://www.slicktext.com/resources/case-studies/freshly-picked): Shortened sales cycle by 94%
+- [Pola Marketing](https://www.slicktext.com/resources/case-studies/pola-marketing): 9x ROI agency case study
+- [ZeeMee](https://www.slicktext.com/resources/case-studies/zeemee): Multiplied app downloads by 200x
+## Partners
+- [Partner Programs](https://www.slicktext.com/partners/): Agency, affiliate, and technology partner programs
+- [Agency Partners](https://www.slicktext.com/partners/agencies): SMS marketing for marketing agencies
+- [Affiliate Program](https://www.slicktext.com/partners/affiliates): Earn commissions referring businesses
+- [Technology Partners](https://www.slicktext.com/partners/tech): Build integrations with SlickText
+## Legal
+- [Terms of Use](https://www.slicktext.com/legal/terms-of-use)
+- [Privacy Policy](https://www.slicktext.com/legal/privacy-policy)
+- [Anti-Spam Policy](https://www.slicktext.com/legal/anti-spam)
+- [Acceptable Use Policy](https://www.slicktext.com/legal/acceptable-use)
+- [AI Features Addendum](https://www.slicktext.com/legal/ai-features-addendum)
+
+===== homepage :: https://www.slicktext.com/
+--- SIGNALS ---
+title: SMS Marketing | Text Message Marketing | Text Marketing Made Easy!
+meta_description: We make text message marketing and SMS marketing easy. Increase revenue and build customer loyalty with our SMS marketing software.
+og_description: We make text message marketing and SMS marketing easy. Increase revenue and build customer loyalty with our SMS marketing software.
+og_site_name: SlickText
+h1: The #1 Rated SMS Marketing Service
+h2: Grow your audience. | Send personalized messages. | Automate customer journeys. | Grow your audience. Faster than ever. | Engage Customers with Enterprise-Grade SMS Tools | Sync Across Platforms | Expert support. Provided by real people. | Customer-obsessed? Us, too.
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://www.slicktext.com/#organization", "name": "SlickText", "alternateName": ["Slick Text", "SlickText SMS Marketing", "SlickText SMS Platform"], "url": "https://www.slicktext.com", "description": "SlickText is an SMS marketing platform that helps businesses send mass texts, automate campaigns, and engage customers through two-way messaging.", "foundingDate": "2012", "areaServed": ["United States", "Canada"], "contactPoint": [{"@type": "ContactPoint", "telephone": "+18006886290", "contactType": "customer service"}], "logo": "https://www.slicktext.com/apple-touch-icon.png", "sameAs": ["https://www.facebook.com/SlickText", "https://www.instagram.com/slicktext/", "https://www.linkedin.com/company/slicktext/", "https://www.youtube.com/@slicktext", "https://x.com/slicktext"], "knowsAbout": ["SMS marketing", "text message marketing", "mass texting", "business texting", "SMS automation", "two-way texting", "mobile marketing"], "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.8", "bestRating": "5", "worstRating": "1", "ratingCount": "1828"}}, {"@type": "Organization", "name": "SlickText", "logo": {"@type": "ImageObject", "url": "https://slicktext.com/images/logos/slicktext-logo-blueberry.svg"}}]
+--- TEXT ---
+SMS Marketing | Text Message Marketing | Text Marketing Made Easy!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Try for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How it Works
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaigns
+ 
+Reach your entire audience with targeted, personalized mass texting.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inbox
+ 
+Connect with individuals in your audience through one-on-one conversations.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Workflows
+ 
+Automate simple drip sequences or complex, multi-branched journeys.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web Forms
+ 
+Collect valuable contact data with landing pages and embeddable forms.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segments
+ 
+Send relevant messages to the right people with dynamic segments.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Popups
+ 
+Grow your subscriber list with branded popups they can't ignore.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+Connect our platform with the software you're using today.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analytics
+ 
+Drill into key performance metrics across all customer touchpoints.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mass Texting Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automated Texting Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Short Codes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise SMS Marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text Alert Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use Cases
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+View Resource Library 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Switch to SlickText
+ 
+Move your texting program to SlickText with free onboarding and migration support.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Ultimate SMS Marketing Guide
+ 
+Learn the best strategy for driving revenue through texting in 2026.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Compliance Guide
+ 
+Become an expert on maintaining a compliant text marketing program.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Best Practices
+ 
+Refresh your knowledge on eight guidelines every SMS marketer should follow.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText Help Center
+ 
+Get answers to your questions about SMS with articles by SlickText experts.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIPAA Compliant Texting
+ 
+Learn how to safeguard PHI while communicating with healthcare patients.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText Blog
+ 
+Discover top SMS marketing platforms, industry updates, and more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case Studies
+ 
+See how SlickText users are scaling their businesses with text messaging.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a Free Demo
+ 
+Book now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Watch SlickText Videos
+ 
+Watch now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+Contact
+ 
+ 
+ 
+Log In
+ 
+Try for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The 
+#1 Rated
+ SMS Marketing Service
+ 
+Create valuable connections with your customers through targeted, action-driving text messages.
+ 
+ 
+ 
+ 
+ Watch the video
+ 
+ 
+ Get started for free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24,000+ brands have connected with customers using SlickText.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grow your audience.
+ 
+Acquire new subscribers quickly and consistently with our library of powerful growth tools.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send personalized messages.
+ 
+Target the right audience with advanced segmentation and personalized text messaging.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automate customer journeys.
+ 
+Create tailored customer experiences based on real-time data and contact behavior.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIST GROWTH
+ 
+ 
+Grow your audience. Faster than ever.
+ 
+Accelerate your audience growth across web, social, and in-person with our comprehensive set of list growth tools. Our compliance-minded platform makes it easy for any organization to create branded opt-in experiences that continuously acquire new subscribers.
+ 
+ 
+ Get started for free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Website Popups
+ 
+Subscribe site visitors to your 
+text alerts
+ with attention-grabbing website popups.
+ 
+Explore popups 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web Forms
+ 
+Build landing pages to share across your social and email channels, or drop forms right into your existing website pages.
+ 
+Explore web forms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tap-to-Join Links
+ 
+Turn social media followers into subscribers with tap-to-join links.
+ 
+Explore more features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Keywords
+ 
+Allow customers to subscribe to SMS marketing by texting a keyword to your number, triggering automated, customized responses.
+ 
+Explore more features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QR codes
+ 
+Create a QR code in seconds to let people subscribe quickly or access key online destinations.
+ 
+Explore more features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engage Customers with Enterprise-Grade SMS Tools
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mass texting to ten or ten million.
+ 
+ 
+Deliver the right message at the right time with hyper-targeted, personalized 
+mass texting
+. Segment your audience based on limitless data points and real-time contact behavior, allowing you to send highly relevant text messages to ten or ten million.
+ 
+ 
+Build audiences with intelligent segmentation.
+ 
+Personalize messages with any contact data.
+ 
+Retarget based on individual contact behavior.
+ 
+ 
+Get started for free 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conversational messaging. One on one.
+ 
+ 
+Take customer support to the next level by connecting with your audience in private, one-on-one conversations. Our inbox blends the efficiency of support software with the familiarity of text messaging to make customer engagements easy to manage. Invite your team to collaborate on conversations and reach inbox zero in record time.
+ 
+ 
+Route incoming messages to various team members.
+ 
+Collaborate with others on individual conversations.
+ 
+Organize interactions with tags and statuses.
+ 
+Customize inbox rules and behaviors at every level.
+ 
+Use your existing number or 
+SMS short code
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Powerful automation. Simplified.
+ 
+ 
+Create personalized customer journeys based on real-time data and contact behavior. Our flexible drag-and-drop workflow builder allows you to automate virtually anything, from simple 
+automated text messaging
+ to complex re-engagement campaigns. No code required.
+ 
+ 
+Design custom flows with full control.
+ 
+Recover carts, collect reviews, and nurture leads.
+ 
+Start with a blank canvas or fill in pre-built templates.
+ 
+ 
+Schedule a demo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Smart analytics. Smarter marketing.
+ 
+ 
+Turn SMS into your most valuable marketing channel by understanding key performance metrics across all customer touchpoints. Our best-in-class analytics are purpose-built for marketers to help you refine your messaging, optimize conversion, and drive growth.
+ 
+ 
+Customize campaign, workflow, and inbox reports.
+ 
+Export and share visual and raw data.
+ 
+Identify trends and outperform your competitors.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Schedule a demo
+ 
+ 
+ 
+ 
+ 
+Sync Across Platforms
+ 
+SlickText integrates natively with Shopify, Zapier, HubSpot, and more to automate cross-platform SMS marketing workflows and streamline sales and support conversations.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+View native integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 5-STAR SUPPORT
+ 
+ 
+Expert support. Provided by real people.
+ 
+ We love to talk to our customers. Enjoy a direct line to expert support and guidance with a simple call, chat, or email. From one-on-one onboarding to strategy and continuous support, you’ll see why thousands give us five stars.
+ 
+ 
+ 
+ 
+Personalized, 1-on-1 onboarding
+ 
+Dedicated Customer Success Managers
+ 
+Fanatical human support
+ 
+ 
+ 
+Schedule a demo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SLICKTEXT REVIEWS
+ 
+ 
+Customer-obsessed? Us, too.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText has made a real difference in how we connect with our audience, and the support behind the scenes truly sets them apart.
+ 
+Verified User in Marketing & Advertising
+ 
+ 
+ 
+ 
+SlickText gives me the ability to reach my entire Customer Base in SECONDS!
+ 
+Verified User in Consumer Goods
+ 
+ 
+ 
+ 
+ 
+ 
+I've come back again and again! As a Marketing Director, I've bounced around over my career to nonprofit, wholesale, eCommerce, real estate, and more. I've recommended SlickText to each industry, and it's never disappointed me.
+ 
+Verified User in Wellness
+ 
+ 
+ 
+ 
+SlickText is the best text message marketing for restaurants. They were quick to help us change over from Podium, getting us a local number and helping us whenever we needed them, while also being affordable for our small business.
+ 
+Verified User in Food & Beverages
+ 
+ 
+ 
+ 
+ 
+ 
+My experience with Zach at SlickText, by far, was the BEST experience I have ever had with any front facing customer support person...period!
+ 
+Kevin S., Marketing Pro
+ 
+ 
+ 
+ 
+I wish I'd found SlickText sooner. Our engagement with text marketing is 5X over emails! It's easy and affordable.
+ 
+Verified User in Nonprofit
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText is easy to use, dependable, and efficient. We've been loyal customers for 5 years and don't plan on leaving.
+ 
+Verified User in Religious Institutions
+ 
+ 
+ 
+ 
+It is SO easy to reach our employees with this quick, easy-to-use text marketing service!
+ 
+Verified User in Human Resources
+ 
+ 
+ 
+ 
+ 
+ 
+I have tried many text marketing platforms and this one is by far the easiest and best ROI!
+ 
+Verified User in Retail
+ 
+ 
+ 
+ 
+We LOOOOOOVE SlickText. It has drastically improved our bottom line and I don't know how we functioned for years without it.
+ 
+Verified User in Education Management
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText increased our sales by 30%. It has been one of the biggest assets to my business. Our customers are always alerted to our sales, pop-up locations, and more.
+ 
+Verified User in Food & Beverages
+ 
+ 
+ 
+ 
+SlickText is fast, easy to use, and provides instant results. I wish more products were this easy to use.
+ 
+Verified User in Entertainment
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text message marketing has never been easier.
+ 
+ 
+ 
+ Get started for free
+ 
+ 
+ 
+ 
+ 
+24,000+ brands have connected with customers using SlickText.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We 
+love
+ to talk to our customers.
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+Mass Texting Service
+ 
+Enterprise SMS Service
+ 
+Automated Texting
+ 
+Text Message Autoresponder
+ 
+MMS Marketing
+ 
+Text-To-Landline
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+Resource Library
+ 
+SlickText Blog
+ 
+Help Center
+ 
+API Documentation
+ 
+Migrating to SlickText
+ 
+SlickText vs. Alternatives
+ 
+Best SMS Marketing Services
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText
+ 
+ 
+About SlickText
+ 
+Contact
+ 
+Partner Program
+ 
+Legal
+ 
+ 
+ 
+ 
+We 
+love
+ to talk to our customers.
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText is a 100% opt-in service. We do not provide lists of phone numbers nor do we access or share our users' contact lists. To learn more about our stance on spam and data privacy, view our anti-spam and privacy policies. Standard message & data rates may apply in the US & Canada. For help, text 
+HELP
+ to 31996. To opt-out of any SlickText service, text 
+STOP
+ to 31996.
+ 
+© 2026 Slick Innovations, LLC. All rights reserved.
+ 
+Site Map
+
+===== product :: https://www.slicktext.com/features/
+--- SIGNALS ---
+title: SMS Marketing Platform Features | SlickText
+meta_description: Learn more about the wide range of texting, list growth, and automation features that our SMS marketing service offers.
+og_description: Learn more about the wide range of texting, list growth, and automation features that our SMS marketing service offers.
+og_site_name: SlickText
+h1: The All-in-One Platform for SMS Marketing
+h2: Growth Tools | Campaigns | Inbox | Workflows | Analytics | Audience Management | SMS Compliance & Deliverability | Integrations
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://www.slicktext.com/#organization", "name": "SlickText", "alternateName": ["Slick Text", "SlickText SMS Marketing", "SlickText SMS Platform"], "url": "https://www.slicktext.com", "description": "SlickText is an SMS marketing platform that helps businesses send mass texts, automate campaigns, and engage customers through two-way messaging.", "foundingDate": "2012", "areaServed": ["United States", "Canada"], "contactPoint": [{"@type": "ContactPoint", "telephone": "+18006886290", "contactType": "customer service"}], "logo": "https://www.slicktext.com/apple-touch-icon.png", "sameAs": ["https://www.facebook.com/SlickText", "https://www.instagram.com/slicktext/", "https://www.linkedin.com/company/slicktext/", "https://www.youtube.com/@slicktext", "https://x.com/slicktext"], "knowsAbout": ["SMS marketing", "text message marketing", "mass texting", "business texting", "SMS automation", "two-way texting", "mobile marketing"], "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.8", "bestRating": "5", "worstRating": "1", "ratingCount": "1828"}}]
+--- TEXT ---
+SMS Marketing Platform Features | SlickText
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Try for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How it Works
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaigns
+ 
+Reach your entire audience with targeted, personalized mass texting.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inbox
+ 
+Connect with individuals in your audience through one-on-one conversations.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Workflows
+ 
+Automate simple drip sequences or complex, multi-branched journeys.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web Forms
+ 
+Collect valuable contact data with landing pages and embeddable forms.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segments
+ 
+Send relevant messages to the right people with dynamic segments.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Popups
+ 
+Grow your subscriber list with branded popups they can't ignore.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+Connect our platform with the software you're using today.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analytics
+ 
+Drill into key performance metrics across all customer touchpoints.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mass Texting Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automated Texting Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Short Codes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise SMS Marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text Alert Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use Cases
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+View Resource Library 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Switch to SlickText
+ 
+Move your texting program to SlickText with free onboarding and migration support.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Ultimate SMS Marketing Guide
+ 
+Learn the best strategy for driving revenue through texting in 2026.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Compliance Guide
+ 
+Become an expert on maintaining a compliant text marketing program.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Best Practices
+ 
+Refresh your knowledge on eight guidelines every SMS marketer should follow.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText Help Center
+ 
+Get answers to your questions about SMS with articles by SlickText experts.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIPAA Compliant Texting
+ 
+Learn how to safeguard PHI while communicating with healthcare patients.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText Blog
+ 
+Discover top SMS marketing platforms, industry updates, and more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case Studies
+ 
+See how SlickText users are scaling their businesses with text messaging.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a Free Demo
+ 
+Book now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Watch SlickText Videos
+ 
+Watch now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+Contact
+ 
+ 
+ 
+Log In
+ 
+Try for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The 
+All-in-One
+ 
+Platform
+ for SMS Marketing
+ 
+ 
+With every feature included on every plan, SlickText helps organizations across the U.S. and Canada grow their audience, send more personalized text messages, and turn SMS into a reliable driver of engagement and revenue.
+ 
+ 
+Schedule a demo
+ 
+Start free trial
+ 
+ 
+ 
+ 
+ 
+ 
+ AUDIENCE GROWTH
+ 
+ 
+Growth Tools
+ 
+Achieve rapid and consistent audience growth with our suite of user-friendly opt-in tools.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web Forms
+ 
+ 
+ 
+Collect valuable contact data with standalone landing pages and embeddable 
+web forms
+. Start from our library of templates or build your web form from scratch.
+ 
+ 
+ 
+ 
+ 
+ 
+Website Popups
+ 
+ 
+ 
+Capture attention with 
+website popups
+ and influence buyer behavior from their first browsing session.
+ 
+ 
+ 
+ 
+ 
+ 
+Tap-to-Join Links
+ 
+ 
+ 
+Provide followers with a frictionless, two-tap opt-in experience. Tap-to-join links are a convenient and effective way to grow your text marketing lists on social media, marketing emails, web, and other clickable assets.
+ 
+ 
+ 
+ 
+ 
+ 
+QR Codes
+ 
+ 
+ 
+Generate custom QR codes to capture subscribers or direct customers to key destinations like menus, booking links, and product pages.
+ 
+ 
+ 
+ 
+ 
+ 
+Keywords
+ 
+ 
+ 
+Allow customers to subscribe to your 
+SMS marketing
+ by texting a designated word or phrase to your number. Send customized auto-responses or trigger automations.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MASS MESSAGING
+ 
+ 
+Campaigns
+ 
+Send personalized messages at scale with Campaigns.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mass Texting
+ 
+ 
+ 
+Send 
+mass text messages
+ to audiences of ten, ten million, and beyond. Reach your entire list or target segments based on contact data and behavior.
+ 
+ 
+ 
+ 
+ 
+ 
+AI Compose
+ 
+ 
+ 
+Leverage AI to craft the perfect message in your mass texting campaigns. Optimize tone, length, and emoji usage. Choose your favorite draft and edit or instantly send.
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+ 
+ 
+Address contacts by name and deliver personalized content to increase customer engagement and response.
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Cards
+ 
+ 
+ 
+Create, customize, and send contact cards within SlickText. Attach your contact card to your opt-in auto-response to increase deliverability and engagement.
+ 
+ 
+ 
+ 
+ 
+ 
+MMS
+ 
+ 
+ 
+Easily attach images, gifs, and videos to any text message and drive more responses.
+ 
+Send up to 1,600 characters in a single 
+MMS marketing
+ message. That's 10X longer than the standard SMS.
+ 
+ 
+ 
+ 
+ 
+ 
+Message Scheduling
+ 
+ 
+ 
+Schedule campaigns in advance to maintain consistent engagement without manual work.
+ 
+ 
+ 
+ 
+Learn more about Campaigns 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ONE-ON-ONE MESSAGING
+ 
+ 
+Inbox
+ 
+ Collaborate on customer care by engaging with contacts in private, two-way text messaging.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Private Conversations
+ 
+ 
+ 
+Deliver an exceptional experience with one-on-one messaging with every subscriber.
+ 
+ 
+ 
+ 
+ 
+ 
+Tags and Statuses
+ 
+ 
+ 
+Organize conversations by tags and status so incoming messages don’t fall through the cracks.
+ 
+ 
+ 
+ 
+ 
+ 
+Real-Time Collaboration
+ 
+ 
+ 
+Collaborate on customer messaging with your entire support team. Leave notes, rotate assignments, and clear your inbox together.
+ 
+ 
+ 
+ 
+ 
+ 
+Automated Rules
+ 
+ 
+ 
+Assign conversations based on your team’s needs, close conversations after a set number of days, and configure auto-responses outside of office hours.
+ 
+ 
+ 
+ 
+Learn more about Inbox 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AUTOMATION
+ 
+ 
+Workflows
+ 
+Design the perfect customer journey with our drag-and-drop workflow builder. Choose from dozens of templates or start from a blank canvas.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Welcome Series & Drip Messaging
+ 
+ 
+ 
+Incentivize first-time buyers with welcome offers. Send 
+automated text messages
+ tailored to each individual that deliver exactly when you want them to.
+ 
+ 
+ 
+ 
+ 
+ 
+Web Session Tracking & Ecommerce Automations
+ 
+ 
+ 
+Track browsing sessions and move customers through workflows based on page views, product views, cart statuses, and other 
+Shopify SMS
+ conditions.
+ 
+ 
+ 
+ 
+ 
+ 
+Review Collection
+ 
+ 
+ 
+Automate review collection by incentivizing your biggest fans to post reviews on Yelp, Google, and other platforms your customers care about.
+ 
+ 
+ 
+ 
+ 
+ 
+Conversational Data Collection
+ 
+ 
+ 
+Collect valuable contact data for smarter segmentation with AI agents that match your brand voice, so it feels like your team is personally chatting with each subscriber.
+ 
+ 
+ 
+ 
+ 
+ 
+A/B Tests
+ 
+ 
+ 
+Set up automated tests to compare messaging, CTAs, send times, and other variables.
+ 
+ 
+ 
+ 
+ 
+ 
+Birthday Texts
+ 
+ 
+ 
+Send personalized birthday messages to every subscriber. Include a special offer or simply wish them a happy birthday.
+ 
+ 
+ 
+ 
+Learn more about Workflows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analytics
+ 
+Track performance across the areas that matter most, including click-through rates, subscriber growth, campaign engagement, workflow performance, revenue attribution, and response times. Real-time reporting helps you understand what's working, improve SMS marketing ROI, and create more effective customer experiences.
+ 
+Book a demo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Audience Management
+ 
+ Leverage our powerful contact management tools to collect subscriber data, create hyper-targeted segments, and manage contact preferences.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segmentation
+ 
+ 
+ 
+Segment your audience
+ based on limitless data points and real-time behavior so you can create tailored, personalized campaigns that appeal to every customer.
+ 
+ 
+ 
+ 
+ 
+ 
+Custom Fields
+ 
+ 
+ 
+In addition to standard fields like name, email, and date of birth, you can store an unlimited amount of custom contact data that is meaningful to your business. Then use that information to segment your audience and send personalized 
+text promotions
+.
+ 
+ 
+ 
+ 
+ 
+ 
+List Uploads
+ 
+ 
+ 
+Already have a texting list? Simply upload your subscribers directly into the platform. The express written consent your subscribers have previously provided to receive your text messages is transferable.
+ 
+ 
+ 
+ 
+ 
+ 
+Self Cleaning Lists
+ 
+ 
+ 
+Automatically track dead, disconnected, and unreachable numbers. If patterns of consecutive non-delivery are recognized, those numbers are removed, preventing you from wasting messages on contacts that aren't reachable.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Compliance & Deliverability
+ 
+ Protect your business, maximize message delivery, and stay compliant with evolving carrier and regulatory requirements.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+White Glove Number Registration
+ 
+ 
+ 
+Simplify toll-free, 10DLC, short code, or RCS registration with expert support from our team. We handle the process from start to finish, minimize the work on your end, and help you launch your texting program quickly and smoothly.
+ 
+ 
+ 
+ 
+ 
+ 
+Proven Opt-In Methods
+ 
+ 
+ 
+Capture compliant opt-ins with list growth tools that make it almost impossible for your messages to get flagged as spam.
+ 
+ 
+ 
+ 
+ 
+ 
+Age Verification
+ 
+ 
+ 
+Help meet age-related compliance requirements by requiring subscribers to verify their date of birth before joining your messaging program.
+ 
+ 
+ 
+ 
+ 
+ 
+Double Opt-In
+ 
+ 
+ 
+Add a second confirmation step that requires subscribers to verify their enrollment, helping prevent accidental or unauthorized signups.
+ 
+ 
+ 
+ 
+ 
+ 
+Consent Management
+ 
+ 
+ 
+SlickText automatically captures and maintains records of subscriber consent according to the latest compliance requirements.
+ 
+ 
+ 
+ 
+ 
+ 
+Opt-Out Intelligence
+ 
+ 
+ 
+Automatically process standard opt-out keywords like STOP and UNSUBSCRIBE. An optional AI-powered feature can also recognize typos and conversational opt-out requests, then unsubscribe the contact or send opt-out instructions based on your settings.
+ 
+ 
+ 
+ 
+ 
+ 
+Premium Carrier Relationships
+ 
+ 
+ 
+Our well-established carrier relationships help fast track number registrations, support reliable message delivery, and keep us responsive to evolving industry requirements so you can send with confidence.
+ 
+ 
+ 
+ 
+ 
+ 
+High-Volume Messaging Infrastructure
+ 
+ 
+ 
+Power high-volume campaigns with infrastructure designed to send messages quickly, reliably, and at scale.
+ 
+ 
+ 
+ 
+Learn more about SMS Compliance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+Connect seamlessly with our library of native integrations, plus 7,000 additional apps through Zapier, Make, and our API.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Native Integrations
+ 
+ 
+ 
+Our native integrations with leading SaaS platforms like Shopify, Mailchimp, and Salesforce help you unify ecommerce, email marketing, and CRM data to deliver more personalized and meaningful text messages.
+ 
+ 
+ 
+ 
+ 
+ 
+Zapier & Make
+ 
+ 
+ 
+Use Zapier and Make to connect SlickText with thousands of popular services that people use every day.
+ 
+ 
+ 
+ 
+ 
+ 
+API & Webhooks
+ 
+ 
+ 
+Looking to build a custom solution? Our 
+REST API
+ and webhooks provide maximum flexibility and control for building enterprise applications.
+ 
+ 
+ 
+ 
+Learn more about Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experience the #1 rated text marketing service today.
+ 
+ 
+ 
+Book a demo
+ 
+ Get started for free
+ 
+ 
+ 
+ 
+ 
+24,000+ brands have connected with customers using SlickText.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We 
+love
+ to talk to our customers.
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+Mass Texting Service
+ 
+Enterprise SMS Service
+ 
+Automated Texting
+ 
+Text Message Autoresponder
+ 
+MMS Marketing
+ 
+Text-To-Landline
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+Resource Library
+ 
+SlickText Blog
+ 
+Help Center
+ 
+API Documentation
+ 
+Migrating to SlickText
+ 
+SlickText vs. Alternatives
+ 
+Best SMS Marketing Services
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText
+ 
+ 
+About SlickText
+ 
+Contact
+ 
+Partner Program
+ 
+Legal
+ 
+ 
+ 
+ 
+We 
+love
+ to talk to our customers.
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText is a 100% opt-in service. We do not provide lists of phone numbers nor do we access or share our users' contact lists. To learn more about our stance on spam and data privacy, view our anti-spam and privacy policies. Standard message & data rates may apply in the US & Canada. For help, text 
+HELP
+ to 31996. To opt-out of any SlickText service, text 
+STOP
+ to 31996.
+ 
+© 2026 Slick Innovations, LLC. All rights reserved.
+ 
+Site Map
+
+===== pricing_or_trust :: https://www.slicktext.com/pricing
+--- SIGNALS ---
+title: SMS Marketing Pricing | SlickText
+meta_description: SlickText offers various plan options for your text message marketing needs, regardless of your budget. View plan pricing and get started with your campaigns today!
+og_description: SlickText offers various plan options for your text message marketing needs, regardless of your budget. View plan pricing and get started with your campaigns today!
+og_site_name: SlickText
+h1: All Tools Included in Every Plan
+h2: Enterprise Solutions & Custom Plans | Boost Brand Recognition with RCS | Common Pricing Questions
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://www.slicktext.com/#organization", "name": "SlickText", "alternateName": ["Slick Text", "SlickText SMS Marketing", "SlickText SMS Platform"], "url": "https://www.slicktext.com", "description": "SlickText is an SMS marketing platform that helps businesses send mass texts, automate campaigns, and engage customers through two-way messaging.", "foundingDate": "2012", "areaServed": ["United States", "Canada"], "contactPoint": [{"@type": "ContactPoint", "telephone": "+18006886290", "contactType": "customer service"}], "logo": "https://www.slicktext.com/apple-touch-icon.png", "sameAs": ["https://www.facebook.com/SlickText", "https://www.instagram.com/slicktext/", "https://www.linkedin.com/company/slicktext/", "https://www.youtube.com/@slicktext", "https://x.com/slicktext"], "knowsAbout": ["SMS marketing", "text message marketing", "mass texting", "business texting", "SMS automation", "two-way texting", "mobile marketing"], "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.8", "bestRating": "5", "worstRating": "1", "ratingCount": "1828"}}, {"@type": "Organization", "name": "SlickText", "url": "https://www.slicktext.com", "logo": "https://www.slicktext.com/apple-touch-icon.png"}]
+--- TEXT ---
+SMS Marketing Pricing | SlickText
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Try for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How it Works
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaigns
+ 
+Reach your entire audience with targeted, personalized mass texting.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inbox
+ 
+Connect with individuals in your audience through one-on-one conversations.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Workflows
+ 
+Automate simple drip sequences or complex, multi-branched journeys.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web Forms
+ 
+Collect valuable contact data with landing pages and embeddable forms.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segments
+ 
+Send relevant messages to the right people with dynamic segments.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Popups
+ 
+Grow your subscriber list with branded popups they can't ignore.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+Connect our platform with the software you're using today.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analytics
+ 
+Drill into key performance metrics across all customer touchpoints.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mass Texting Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automated Texting Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Short Codes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise SMS Marketing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text Alert Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use Cases
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+ 
+View Resource Library 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Switch to SlickText
+ 
+Move your texting program to SlickText with free onboarding and migration support.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Ultimate SMS Marketing Guide
+ 
+Learn the best strategy for driving revenue through texting in 2026.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Compliance Guide
+ 
+Become an expert on maintaining a compliant text marketing program.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMS Best Practices
+ 
+Refresh your knowledge on eight guidelines every SMS marketer should follow.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText Help Center
+ 
+Get answers to your questions about SMS with articles by SlickText experts.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIPAA Compliant Texting
+ 
+Learn how to safeguard PHI while communicating with healthcare patients.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText Blog
+ 
+Discover top SMS marketing platforms, industry updates, and more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case Studies
+ 
+See how SlickText users are scaling their businesses with text messaging.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get a Free Demo
+ 
+Book now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Watch SlickText Videos
+ 
+Watch now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing
+ 
+Contact
+ 
+ 
+ 
+Log In
+ 
+Try for Free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All Tools Included
+ in Every Plan
+ 
+ 
+Choose a plan to get started. 
+ Upgrade as you need more messages.
+ 
+ 
+ 
+ 
+Pay yearly and get 2 months free
+ 
+ 
+ 
+ 
+Pay monthly
+ 
+ 
+ 
+ 
+Pay yearly
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get started for
+ 
+ Free 
+ 
+No credit card required 
+ 
+ 
+ 
+Start Trial
+ 
+ 
+ 
+To take advantage of everything SlickText has to offer, move up to a paid plan.
+ 
+ 
+ 
+Price per month
+ 
+ $29 
+ 
+500 credits per month 
+ 1 SMS = 1 credit. 1 MMS = 3 credits.">
+ 
+ 
+ 
+Select Plan
+ 
+ 
+ 
+ Free incoming texts
+ 
+ Unlimited contacts
+ 
+ 
+Rollover credits
+ 
+ 
+ Live phone, chat, and email support
+ 
+ 
+One premium sending number 
+ 
+ 
+ 
+ 1 on 1 onboarding
+ 
+ 
+ Dedicated Customer Success Manager
+ 
+ 
+ 
+ 
+Price per month
+ 
+ $49 
+ 
+1,000 credits per month 
+ 1 SMS = 1 credit. 1 MMS = 3 credits.">
+ 
+ 
+ 
+Select Plan
+ 
+ 
+ 
+ Free incoming texts
+ 
+ Unlimited contacts
+ 
+ 
+Rollover credits
+ 
+ 
+ Live phone, chat, and email support
+ 
+ 
+One premium sending number 
+ 
+ 
+ 
+ 1 on 1 onboarding
+ 
+ 
+ Dedicated Customer Success Manager
+ 
+ 
+ 
+ 
+Price per month
+ 
+ $79 
+ 
+2,000 credits per month 
+ 1 SMS = 1 credit. 1 MMS = 3 credits.">
+ 
+ 
+ 
+Select Plan
+ 
+ 
+ 
+ Free incoming texts
+ 
+ Unlimited contacts
+ 
+ 
+Rollover credits
+ 
+ 
+ Live phone, chat, and email support
+ 
+ 
+One premium sending number 
+ 
+ 
+ 
+ 1 on 1 onboarding
+ 
+ 
+ Dedicated Customer Success Manager
+ 
+ 
+ 
+ 
+Price per month
+ 
+ $129 
+ 
+3,500 credits per month 
+ 1 SMS = 1 credit. 1 MMS = 3 credits.">
+ 
+ 
+ 
+Select Plan
+ 
+ 
+ 
+ Free incoming texts
+ 
+ Unlimited contacts
+ 
+ 
+Rollover credits
+ 
+ 
+ Live phone, chat, and email support
+ 
+ 
+One premium sending number 
+ 
+ 
+ 
+ 1 on 1 onboarding
+ 
+ 
+ Dedicated Customer Success Manager
+ 
+ 
+ 
+ 
+Price per month
+ 
+ $169 
+ 
+5,000 credits per month 
+ 1 SMS = 1 credit. 1 MMS = 3 credits.">
+ 
+ 
+ 
+Select Plan
+ 
+ 
+ 
+ Free incoming texts
+ 
+ Unlimited contacts
+ 
+ 
+Rollover credits
+ 
+ 
+ Live phone, chat, and email support
+ 
+ 
+One premium sending number 
+ 
+ 
+ 
+ 1 on 1 onboarding
+ 
+ 
+ Dedicated Customer Success Manager
+ 
+ 
+ 
+ 
+Price per month
+ 
+ $319 
+ 
+10,000 credits per month 
+ 1 SMS = 1 credit. 1 MMS = 3 credits.">
+ 
+ 
+ 
+Select Plan
+ 
+ 
+ 
+ Free incoming texts
+ 
+ Unlimited contacts
+ 
+ 
+Rollover credits
+ 
+ 
+ Live phone, chat, and email support
+ 
+ 
+One premium sending number 
+ 
+ 
+ 
+ 1 on 1 onboarding
+ 
+ 
+ Dedicated Customer Success Manager
+ 
+ 
+ 
+ 
+Price per month
+ 
+ $579 
+ 
+25,000 credits per month 
+ 1 SMS = 1 credit. 1 MMS = 3 credits.">
+ 
+ 
+ 
+Select Plan
+ 
+ 
+ 
+ Free incoming texts
+ 
+ Unlimited contacts
+ 
+ 
+Rollover credits
+ 
+ 
+ Live phone, chat, and email support
+ 
+ 
+One premium sending number 
+ 
+ 
+ 
+ 1 on 1 onboarding
+ 
+ 
+ Dedicated Customer Success Manager
+ 
+ 
+ 
+ 
+Price per month
+ 
+ $939 
+ 
+50,000 credits per month 
+ 1 SMS = 1 credit. 1 MMS = 3 credits.">
+ 
+ 
+ 
+Select Plan
+ 
+ 
+ 
+ Free incoming texts
+ 
+ Unlimited contacts
+ 
+ 
+Rollover credits
+ 
+ 
+ Live phone, chat, and email support
+ 
+ 
+One premium sending number 
+ 
+ 
+ 
+ 1 on 1 onboarding
+ 
+ 
+ Dedicated Customer Success Manager
+ 
+ 
+ 
+ 
+ 
+Enterprise
+ 
+We have a solution that fits your needs.
+ 
+Talk to Us
+ 
+ 
+We power some of the world’s largest text messaging programs.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ *Carrier fees apply. Learn more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Top 1% of Global Software Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1,848 reviews
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Capterra Shortlist 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+268 reviews
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise Solutions & Custom Plans
+ 
+Need a personalized solution for your business? Reach out for a custom-built quote.
+ 
+ 
+Let's Talk
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RCS NOW AVAILABLE
+ 
+ 
+Boost Brand Recognition with RCS
+ 
+ RCS helps your messages stand out by displaying your verified business name and branding directly on customers' phones. Give recipients confidence that your messages are legitimate and make every interaction more recognizable and engaging.
+ 
+ 
+Talk to Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Pricing Questions
+ 
+ 
+ 
+ 
+ 
+ 
+Does SlickText offer RCS messaging?
+ 
+ 
+Yes. SlickText offers RCS messaging, allowing businesses to send messages with a verified business profile that helps customers instantly recognize and trust their brand.
+ 
+RCS is available for a $500 one-time setup fee and a $200 annual maintenance fee. Contact our team to get started.
+ 
+ 
+ 
+ 
+What countries does SlickText work in?
+ 
+ 
+SlickText currently supports SMS messaging in 
+the United States and Canada.
+ You can create, schedule, and send campaigns to phone numbers in both countries.
+ 
+ 
+ 
+ 
+Which features are included in my paid plan?
+ 
+ 
+We don’t gate-keep innovation. You’ll get full access to every feature, including integrations and Workflows, no matter your plan size.
+ 
+ 
+ 
+ 
+Are there benefits to selecting an annual plan?
+ 
+ 
+Yes! Annual plans unlock two free months of message credits and give you the flexibility to use your message credits over the course of a year. This is the preferred option for businesses that increase their message frequency a few times per year, instead of communicating evenly across each month.
+ 
+ 
+ 
+ 
+What are rollover texts?
+ 
+ 
+Rollover texts are unused credits on your monthly or annual plan. These can be used for one term following your billing date. Monthly plans include one month of rollover texts. Annual plans include one year of rollover texts.
+ 
+ 
+ 
+ 
+Can I add my teammates to my account?
+ 
+ 
+Yes! You can add additional team members to your SlickText account. We recommend inviting your team as soon as you create your account and learning the platform together.
+ 
+ 
+ 
+ 
+What does the 1-on-1 onboarding session cover?
+ 
+ 
+We're serious about your success with our 
+mass texting service
+. We'll connect you with an in-house expert who helps you set up your texting program around your business and use case. They'll walk you through compliance tools, help you grow your subscriber list, and map out a messaging plan built around your goals.
+ 
+ 
+ 
+ 
+What if I go over my monthly message allowance?
+ 
+ 
+As a SlickText user, you never have to be concerned about surprise charges. We’ll give you a heads up if you’re running low on credits so you can adjust your plan as needed.
+ 
+ 
+ 
+ 
+Do you match prices from SimpleTexting?
+ 
+ 
+Yes. We'll match any SimpleTexting standard plan price. For high-volume or custom needs, contact our team for a tailored quote.
+ 
+ 
+ 
+ 
+ 
+ 
+What number types can I choose from?
+ 
+ 
+SlickText offers four sending options: 10DLC (10-digit long code) numbers, toll-free numbers, short codes, and RCS (rich communications services).
+ 
+ 
+A toll-free number is a 10-digit number that starts with a toll-free area code such as 833.
+ 
+A 10DLC number is a 10-digit number with a local area code.
+ 
+A 
+short code
+ is a 5 or 6-digit number designed for high-volume messaging.
+ 
+RCS is a premium messaging experience that makes your business instantly recognizable on customers' phones.
+ 
+ 
+Not sure which option is right for you? Our team can help you choose the best sending number based on your messaging goals, audience size, and use case.
+ 
+ 
+ 
+ 
+How do you count message credits?
+ 
+ 
+Each message credit is equal to one industry standard SMS message segment to one subscriber. An SMS message segment contains 160 characters. An MMS (message sent with an image or other supported file types) consumes 3 message credits per segment. However, an MMS message segment can contain up to 1,600 characters.
+ 
+ 
+ 
+ 
+How does the free trial work?
+ 
+ 
+During your free trial, you’ll get 14 days to experience every feature. There’s no credit card required and you can upgrade at any time.
+ 
+ 
+ 
+ 
+How quickly can I get my phone number registered?
+ 
+ 
+We work closely with the wireless carriers so you can experience fast-track verification. In many cases your sending number is registered within a few hours of your request.
+ 
+ 
+ 
+ 
+Can I get help with my campaigns after I sign up?
+ 
+ 
+Yes. Plans starting at $129 include a free 1-on-1 onboarding session with our client success team to help you get going with our 
+SMS marketing software
+. Beyond that, our support specialists are available by chat, phone, or email.
+ 
+ 
+ 
+ 
+Can I get ongoing strategy advice for my brand?
+ 
+ 
+Yes! Plan sizes of 50,000 credits and larger include access to a dedicated Customer Success Manager who will help monitor your performance, provide tailored SMS marketing advice, and offer live support as needed. 
+ 
+ 
+ 
+ 
+What carrier fees are charged?
+ 
+ 
+Most cellular carriers charge a small additional per-message fee to send texts on their networks. These fees vary based on the type of number you’re sending from, what country you’re sending in, and whether a message is an SMS or MMS message. We pass these fees through to you at no additional markup. You can learn more about carrier fees and 
+how they work here
+.
+ 
+ 
+ 
+ 
+Do plan prices include sales tax?
+ 
+ 
+Taxes will be included where appropriate.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Have we built a custom plan for you?
+ 
+Click the button to enter your access code and sign up.
+ 
+ 
+Enter Your Access Code
+ 
+ 
+ 
+ 
+Still need help deciding?
+ 
+ 
+ 
+Start a Chat
+ 
+Book a Demo
+ 
+ 
+ 
+ 
+ 
+24,000+ brands have connected with customers using SlickText.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We 
+love
+ to talk to our customers.
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+Mass Texting Service
+ 
+Enterprise SMS Service
+ 
+Automated Texting
+ 
+Text Message Autoresponder
+ 
+MMS Marketing
+ 
+Text-To-Landline
+ 
+ 
+ 
+ 
+ 
+ 
+Resources
+ 
+ 
+Resource Library
+ 
+SlickText Blog
+ 
+Help Center
+ 
+API Documentation
+ 
+Migrating to SlickText
+ 
+SlickText vs. Alternatives
+ 
+Best SMS Marketing Services
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText
+ 
+ 
+About SlickText
+ 
+Contact
+ 
+Partner Program
+ 
+Legal
+ 
+ 
+ 
+ 
+We 
+love
+ to talk to our customers.
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SlickText is a 100% opt-in service. We do not provide lists of phone numbers nor do we access or share our users' contact lists. To learn more about our stance on spam and data privacy, view our anti-spam and privacy policies. Standard message & data rates may apply in the US & Canada. For help, text 
+HELP
+ to 31996. To opt-out of any SlickText service, text 
+STOP
+ to 31996.
+ 
+© 2026 Slick Innovations, LLC. All rights reserved.
+ 
+Site Map

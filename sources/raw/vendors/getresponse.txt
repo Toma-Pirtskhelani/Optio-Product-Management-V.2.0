@@ -1,0 +1,1613 @@
+===== llms.txt :: https://www.getresponse.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# GetResponse
+> GetResponse is an all-in-one marketing platform that helps businesses grow, engage their audiences, and monetize their expertise through email marketing, marketing automation, ecommerce, and content monetization.
+GetResponse helps businesses acquire, engage, and monetize their audience through email campaigns, automation workflows, landing pages, signup forms, websites, webinars, transactional messaging, SMS, web push notifications, ecommerce tools, AI-powered content creation, and 170+ integrations with third-party services and ecommerce platforms.
+Developers can integrate with GetResponse using the REST API and official SDKs to automate marketing workflows and build custom applications. Additional AI-focused integration resources, including an MCP server, are planned and will be added to this document as they become publicly available.
+This document is the primary entry point for AI agents exploring GetResponse. It links to the most relevant developer documentation, product documentation, pricing information, SDKs, and other AI-friendly resources.
+## Features
+Explore the core capabilities of the GetResponse platform for customer engagement, marketing automation, ecommerce and business growth.
+- [All Features](https://www.getresponse.com/features): Overview of all GetResponse capabilities, including AI-powered tools, email marketing, automation, ecommerce, webinars, websites and analytics.
+- [Email Marketing](https://www.getresponse.com/features/email-marketing): Create, personalize and optimize email campaigns with a drag-and-drop editor, templates and AI-powered assistance.
+- [AI Email Generator](https://www.getresponse.com/features/email-marketing/ai-email-generator): Generate engaging marketing emails with AI tailored to your industry and campaign goals.
+- [AI Campaign Generator](https://www.getresponse.com/features/ai-campaign-generator): Get a custom landing page, welcome email, and newsletter generated with the power of OpenAI technology.
+- [Marketing Automation](https://www.getresponse.com/features/marketing-automation): Build automated customer journeys using visual workflows, triggers and multichannel communication.
+- [Autoresponders](https://www.getresponse.com/features/email-marketing/autoresponder): Automatically send personalized email sequences based on time or customer actions.
+- [Landing Page Builder](https://www.getresponse.com/features/landing-page-creator): Build AI-assisted landing pages with drag-and-drop editing, A/B testing and lead generation tools.
+- [Website Builder](https://www.getresponse.com/features/website-builder): Create complete websites using AI, customizable templates and integrated marketing tools.
+- [Popups](https://www.getresponse.com/features/popup-creator): Capture leads using embedded forms, popups and behavioral targeting.
+- [Web Push Notifications](https://www.getresponse.com/features/web-push-notifications): Re-engage visitors with browser push notifications and automated campaigns.
+- [SMS Marketing Automation Tool](https://www.getresponse.com/features/sms-text-automation): Reach customers with promotional and transactional SMS campaigns.
+- [Live Chats](https://www.getresponse.com/features/live-chat): Engage website visitors in real time with embedded live chat.
+- [Webinars](https://www.getresponse.com/features/webinar-software): Host live webinars integrated with registration, email marketing and automation.
+- [Conversion Funnels](https://www.getresponse.com/features/conversion-funnel): Create end-to-end marketing and sales funnels combining landing pages, email marketing and ecommerce.
+- [Course Builder](https://www.getresponse.com/features/course-creator): Create and deliver online courses with AI assistance, quizzes and certificates.
+- [Paid Ads](https://www.getresponse.com/features/paid-ads): Create and manage Meta Ads and Google Ads from within GetResponse.
+- [Product Recommendations](https://www.getresponse.com/features/product-recommendations): Personalize your website's shopping experience and email campaigns with automated,AI-based product recommendations.
+- [Signup Forms](https://www.getresponse.com/features/list-building/form-builder): Create embedded signup forms to capture leads and grow your email list.
+## Solutions
+Discover how GetResponse helps businesses solve specific marketing and growth challenges across different industries and business models.
+- [Lead Generation](https://www.getresponse.com/solutions/lead-generation-software): Generate, qualify and nurture leads using landing pages, signup forms, popups, email marketing, automation and paid ads to turn anonymous visitors into customers.
+- [Customer Engagement](https://www.getresponse.com/solutions/customer-engagement): Build lasting customer relationships through personalized email marketing, marketing automation, SMS, web push notifications, webinars and multichannel communication.
+- [Ecommerce Marketing](https://www.getresponse.com/solutions/ecommerce-marketing): Increase online sales with ecommerce integrations, abandoned cart recovery, AI product recommendations, promo codes, customer segmentation and multichannel automation.
+- [Affiliate Marketing](https://www.getresponse.com/solutions/affiliate-marketing): Grow affiliate businesses with lead generation, landing pages, automation, AI-powered campaigns, webinars, ecommerce tools and performance analytics.
+- [Knowledge Commerce](https://www.getresponse.com/solutions/selling-knowledge): Monetize expertise by selling online courses, premium newsletters and webinars while growing an audience with AI-powered marketing and automation.
+## GetResponse MAX
+Enterprise solutions for organizations that require advanced marketing capabilities, dedicated infrastructure, premium support and tailored onboarding.
+- [GetResponse MAX](https://www.getresponse.com/max): Enterprise-grade marketing platform with advanced email marketing, multichannel automation, AI-powered lead generation, dedicated infrastructure, premium support and tailored solutions for global organizations.
+## Integrations
+Connect GetResponse with over 170 native integrations across ecommerce, CRM, CMS, payments and business tools. The integrations below highlight some of the most widely used platforms.
+- [Integrations Directory](https://www.getresponse.com/integrations): Browse the complete catalog of 170+ native integrations and integration partners for ecommerce, CRM, CMS, payments, analytics and marketing automation.
+- [Shopify](https://www.getresponse.com/integrations/shopify.html): Sync customers, products and orders to power ecommerce marketing and automation.
+- [WooCommerce](https://www.getresponse.com/integrations/woocommerce.html): Connect WooCommerce stores to synchronize ecommerce data and personalize marketing campaigns.
+- [Magento](https://www.getresponse.com/integrations/magento.html): Integrate Magento stores to automate marketing using customer and order data.
+- [PrestaShop](https://www.getresponse.com/integrations/prestashop.html): Synchronize PrestaShop customers and products for ecommerce marketing and automation.
+- [BigCommerce](https://www.getresponse.com/integrations/bigcommerce.html): Connect BigCommerce stores to drive personalized campaigns and customer engagement.
+- [Shoper](https://www.getresponse.com/integrations/shoper.html): Integrate Shoper stores to synchronize customer data and automate ecommerce communication.
+- [IdoSell](https://www.getresponse.com/integrations/idosell.html): Connect IdoSell ecommerce stores with GetResponse to automate customer communication and marketing.
+- [WordPress](https://www.getresponse.com/integrations/wordpress.html): Capture leads, embed forms and connect WordPress websites with GetResponse.
+- [Salesforce](https://www.getresponse.com/integrations/salesforce-data-synchronization.html): Keep CRM contacts synchronized and align sales and marketing processes.
+- [HubSpot](https://www.getresponse.com/integrations/hubspot.html): Synchronize contacts and marketing data between HubSpot and GetResponse.
+- [Stripe](https://www.getresponse.com/integrations/stripe.html): Accept payments and automate marketing workflows based on customer purchases.
+- [PayPal](https://www.getresponse.com/integrations/paypal.html): Trigger marketing automation and customer journeys using PayPal transaction data.
+- [PayU](https://www.getresponse.com/integrations/payu.html): Connect PayU payments with GetResponse to automate post-purchase communication.
+## Pricing
+Information about plans, pricing and billing.
+- [Pricing](https://www.getresponse.com/pricing): Available plans, included features, pricing and subscription details.
+## SDKs
+Official client libraries and developer resources.
+- [GetResponse GitHub](https://github.com/GetResponse): Official GitHub organization containing SDKs, integrations and developer resources.
+- [PHP SDK](https://github.com/GetResponse/sdk-php): Official PHP SDK for integrating with the GetResponse REST API.
+- [Flutter Mobile SDK](https://github.com/GetResponse/MobileSDK-Flutter): Flutter SDK for integrating GetResponse Mobile Push notifications into Flutter applications using Firebase Cloud Messaging.
+- [Android Mobile SDK](https://github.com/GetResponse/MobileSDK-Android): Native Android SDK for integrating GetResponse Mobile Push notifications into Android applications.
+- [iOS Mobile SDK](https://github.com/GetResponse/MobileSDK-IOS): Native iOS SDK for integrating GetResponse Mobile Push notifications into iOS applications.
+- [Magento Integration](https://github.com/GetResponse/magento): Official Magento extension for synchronizing contacts, products and ecommerce data with GetResponse, including abandoned cart recovery and marketing automation support.
+- [PrestaShop Integration](https://github.com/GetResponse/GetresponseForPrestashop): Official PrestaShop integration for synchronizing contacts, products and ecommerce data with GetResponse to power ecommerce marketing and automation.
+## API Documentation
+Reference documentation for integrating with the GetResponse REST API.
+- [API Guides](https://apidocs.getresponse.com/v3): Getting started, authentication, concepts, guides and integration examples.
+- [OpenAPI Specification](https://apireference.getresponse.com/open-api.json): Machine-readable OpenAPI specification describing all REST API endpoints, operations, request and response schemas.
+- [Agent Skills](https://github.com/GetResponse/public-api-agent-skills): Reusable Agent Skills that help AI agents understand and interact with the GetResponse Public API using best practices and reusable workflows.
+## Help Center
+Documentation explaining product features and workflows.
+- [Help Center](https://www.getresponse.com/help): Browse all product documentation, tutorials and troubleshooting articles.
+- [What is GetResponse and how to use it?](https://www.getresponse.com/help/what-is-getresponse-and-how-can-i-use-it.html): Overview of the GetResponse platform, its core capabilities and how to get started.
+- [How to create and send a newsletter?](https://www.getresponse.com/help/how-to-create-and-send-a-newsletter.html): Learn how to create, customize and send email newsletters.
+- [How to import a list of contacts?](https://www.getresponse.com/help/how-can-i-import-a-list-of-contacts.html): Import contacts into GetResponse and prepare your audience for email marketing.
+- [What is a segment and how to create one?](https://www.getresponse.com/help/what-is-a-segment.html): Create dynamic contact segments for targeted communication.
+- [How does a marketing automation message work?](https://www.getresponse.com/help/how-does-a-marketing-automation-message-work.html): Learn how automation messages work within marketing automation workflows, how they differ from newsletters and autoresponders, and how to create, reuse and manage them.
+- [What is Conversion Funnel?](https://www.getresponse.com/help/what-is-conversion-funnel.html): Learn how Conversion Funnel combines landing pages, email marketing and ecommerce into a complete sales workflow.
+- [How is Conversion Funnel different from Marketing Automation?](https://www.getresponse.com/help/how-is-conversion-funnel-different-from-marketing-automation.html): Understand the differences between Conversion Funnel and Marketing Automation and when to use each feature.
+- [What is a landing page and why do I need one?](https://www.getresponse.com/help/what-is-a-landing-page-and-why-do-i-need-one.html): Learn how landing pages help capture leads and improve campaign conversions.
+- [What are GetResponse Webinars?](https://www.getresponse.com/help/what-are-getresponse-webinars.html): Overview of the webinar platform and its capabilities for audience engagement.
+- [How to create a Web push notification?](https://www.getresponse.com/help/how-to-create-a-web-push-notification.html): Create and send web push notifications as part of multichannel marketing campaigns.
+- [How to set up SMS marketing in the USA and Canada?](https://www.getresponse.com/help/how-to-set-up-sms-marketing-in-the-usa-and-canada.html): Configure and use SMS marketing as an additional communication channel.
+- [How to upload my product data to GetResponse?](https://www.getresponse.com/help/how-can-i-upload-my-product-data-to-getresponse.html): Import product catalog data to power ecommerce marketing and automation.
+- [Can I segment my contacts based on ecommerce data?](https://www.getresponse.com/help/can-i-segment-my-contacts-based-on-ecommerce-data.html): Use ecommerce events and purchase history for advanced audience segmentation.
+## Optional
+Additional resources that provide broader context about GetResponse, customer stories and company policies.
+- [Blog](https://www.getresponse.com/blog): Expert articles, product updates, marketing best practices and industry insights.
+- [Customer Stories](https://www.getresponse.com/customers): Case studies and real-world examples of how businesses use GetResponse.
+- [Webinar Library](https://www.getr
+
+===== homepage :: https://www.getresponse.com/
+--- SIGNALS ---
+title: Automation, Landing Pages and Email Marketing Platform
+meta_description: Unlock your revenue potential with GetResponse's marketing software. Automate sales, track revenue, and convert leads into loyal customers with ease.
+og_description: Unlock your revenue potential with GetResponse's marketing software. Automate sales, track revenue, and convert leads into loyal customers with ease.
+og_site_name: 
+h1: Convert more customers. Keep them coming back.
+h2: EMAIL MARKETING & AUTOMATION PLATFORM | From first visit to loyal buyer, connect your marketing into one system | Email marketing | Marketing automation | Landing pages | Why GetResponse? | Sync your data and growth with 150+ integrations | Take further control of your marketing using our additional suite of AI tools and features. | Join 350,000+ businesses growing sales with GetResponse email and automation
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://www.getresponse.com/#organization", "name": "GetResponse", "legalName": "GetResponse S.A.", "description": "Unlock your revenue potential with GetResponse's marketing software. Automate sales, track revenue, and convert leads into loyal customers with ease.", "foundingDate": "1998", "inLanguage": "en", "url": "https://www.getresponse.com", "logo": {"@type": "ImageObject", "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/GetResponse_Logo.png"}, "address": {"@type": "PostalAddress", "streetAddress": "Grunwaldzka 413 (NEON)", "addressLocality": "Gdańsk", "postalCode": "80-309", "addressCountry": "PL"}, "telephone": "+48 58 668 31 30", "vatID": "PL9581468984", "areaServed": "Worldwide", "availableLanguage": ["en", "pl", "de", "fr", "es", "it", "pt", "ru", "vi"], "founder": {"@type": "Person", "name": "Szymon Grabowski", "alternateName": "Simon Grabowski"}, "contactPoint": [{"@type": "ContactPoint", "contactType": "customer service", "email": "info@getresponse.com", "areaServed": "Worldwide", "availableLanguage": ["en", "pl", "de", "fr", "es", "it", "pt", "ru", "vi"], "url": "https://www.getresponse.com/features/support"}, {"@type": "ContactPoint", "contactType": "sales", "email": "sales@getresponse.com", "areaServed": "Worldwide", "availableLanguage": ["en"], "url": "https://www.getresponse.com/about/contact-us"}], "sameAs": ["https://twitter.com/getresponse", "https://www.facebook.com/GetResp
+--- TEXT ---
+Automation, Landing Pages and Email Marketing Platform
+ 
+ 
+ 
+ 
+Product 
+EMAIL MARKETING & AUTOMATION
+Grow your list
+ 
+ 
+Signup forms
+ 
+AI
+Landing pages
+ 
+AI
+Website builder
+ 
+Conversion funnel
+Communicate
+ 
+ 
+AI
+Email marketing
+ 
+AI
+Autoresponders
+ 
+Marketing automation
+ 
+Web push notifications
+ 
+SMS marketing
+Promote and sell
+ 
+ 
+Ecommerce integrations
+ 
+Popup creator
+ 
+AI recommendations
+ 
+Paid ads
+CONTENT MONETIZATION
+Monetize your knowledge
+ 
+ 
+AI
+Course creator
+ 
+Premium newsletters
+ 
+Creator's profile
+ 
+Webinars
+MORE FROM GETRESPONSE
+What’s new
+Affiliate program
+GetResponse free trial
+All features
+170+ integrations
+Move to GetResponse
+Resources 
+Learn and grow
+ 
+Blog
+Top-notch content on online marketing, GetResponse products, and more.
+ 
+Resources
+Guides, videos, webinars, infographics – all full of insightful tips and best practices.
+ 
+Webinars Library
+Practical online learning through engaging webinars – live and on-demand.
+Product help
+ 
+Customer Success Team
+Get all your questions answered by the 5-star-rated team of experts.
+ 
+Help Center
+All the information you need for a successful start with GetResponse.
+ 
+API Docs
+Learn how to integrate your software with GetResponse.
+Customer stories
+Get inspired with success stories from customers and businesses just like yours.
+READ THE STORIES
+ 
+›
+Search
+ 
+Enterprise
+Pricing
+Log in
+Book a demo
+Sign up free
+Convert more customers. Keep
+ them coming back.
+EMAIL MARKETING & AUTOMATION PLATFORM
+AI-powered email, automation, and SMS that turn maybe-later
+ into yes-now — and grow repeat revenue.
+Start free trial
+No credit card required | Cancel anytime | 
+See our pricing
+Trusted by 350K+ entrepreneurs, ecommerce stores, and Global Brands
+Every step of the customer journey, optimized to 
+sell.
+How it works
+From first visit to loyal buyer,
+ connect your marketing into one system
+Email
+ marketing
+Send promotional, triggered, and lifecycle emails
+with AI that tailors content and recommends
+the right send time for every stage
+of the customer journey.
+Learn more
+Marketing
+ automation
+Create journeys that welcome new customers, 
+ recover carts, or win back subscribers - with AI
+ that finds the best time to reach each customer 
+Learn more
+Landing
+ pages
+Publish pages for launches, flash sales, 
+ or lead capture - with AI that writes copy, 
+ selects layouts, and helps you go live in minutes 
+Learn more
+Why GetResponse?
+99%
+deliverability rate
+ 
+for 160+ countries
+150+
+integrations
+350k+
+customers worldwide
+ 
+trust us with their email 
+marketing
+24/7
+support from a 
+5-star 
+rated
+ Customer Success Team
+We generated $43,000 in sales with just 10 emails using GetResponse.
+Szymon Grocholewski
+CEO
+ at Med&Beauty
+Read full case study
+We generated €16.5K in sales from one email in just two days — and €25.4K from another single campaign.
+Oskar Lipiński
+Co-owner and Ecommerce Director
+ at DAAG
+Read full case study
+We increased our turnover by 72% by using GetResponse’s targeted marketing and automation.
+Steve Forrer
+Marketing & Digital Manager
+ at Würth Group
+Read full case study
+Advanced automations within GetResponse generated us $13k sales from a single campaign.
+Dominika Puk
+Ecommerce Marketing Manager
+ at Eveline Cosmetics
+Read full case study
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sync your data and growth 
+with 150+ integrations
+Easily connect other tools with GetResponse to keep your data up-to-date, automate workflows and enhance your customer experience.
+Browse integrations
+Take further control of your marketing using 
+our additional suite of AI tools and features.
+ 
+AI product recommendations 
+Personalize your website's shopping 
+ experience and email campaigns 
+ with automated recommendations
+ 
+SMS
+Reach your customers directly with SMS, 
+ built into your email marketing & automation platform
+ 
+Web-push notifications
+Bring website visitors back with quick 
+ and hard-to-miss messages
+ 
+Forms and Popups
+Create, edit, and manage popups, banners, 
+ and bars that engage your audience
+ 
+Funnels
+Our automated sales funnel creator helps 
+ convert your customers faster
+ 
+Webinars
+Easily host, record, and promote 
+ webinars to nurture your leads
+See all features
+Join 350,000+ businesses growing sales with GetResponse email and automation
+Email address
+Start free trial
+Free 14-day trial | No credit card required | Cancel anytime
+Product
+Email marketing
+AI email generator
+Autoresponders
+Marketing automation
+Website builder
+Landing pages
+Forms and popups
+Content monetization
+All features
+GetResponse Free Trial
+Integrations
+Book a demo
+Pricing
+Help and resources
+Help center
+Glossary
+Contact support
+Online marketing resources
+Customer stories
+GetResponse Academy
+Webinar library
+Email templates
+Website templates
+Compare us with others
+API Docs
+Move to GetResponse
+Company
+About us
+Careers
+Press center
+What’s new
+Affiliate programs
+Agency partners
+Investor relations
+Accessibility statement
+Reporting policy
+Top blog content
+Introducing Revenue Attribution for Automation — Finally see what your emails actually earn
+Introducing Price Drop Campaigns: Convert high-intent browsers when prices fall 
+State of customer loyalty 2026: Insights from 3,000 consumers and brands
+Visit our blog to learn more
+Get the GetResponse App
+ 
+ 
+Follow us
+ 
+ 
+ 
+ 
+ 
+ 
+Change the language
+ English
+DE
+Deutsch
+EN
+English
+ES
+Español
+FR
+Français
+IT
+Italiano
+PL
+Polski
+PT
+Português
+RO
+România
+VN
+Tiếng Việt
+RU
+Русский
+ 
+Copyright © 2026 GetResponse. Email marketing & beyond
+®
+Privacy Policy
+Anti-Spam Policy
+Terms of Service
+Manage cookies
+
+===== product :: https://www.getresponse.com/features
+--- SIGNALS ---
+title: Email Marketing & Automation Features | GetResponse
+meta_description: Explore GetResponse features: AI-driven emails, automation, landing pages, and ecommerce tools — all designed to help you grow.
+og_description: Explore GetResponse features: AI-driven emails, automation, landing pages, and ecommerce tools — all designed to help you grow.
+og_site_name: 
+h1: Email marketing & automation tools that scale with you
+h2: Take off with AI email marketing | Engage customers where it matters — across channels | Start with dedicated migration & onboarding, and 24/7 support | Build and own your audience | Get started with easy email marketing | Turn your knowledge into revenue | Promote, automate and grow your ecommerce | Extra ecommerce features in MAX plans | More you can count on with high-volume MAX plans | Understand your subscribers and make data-driven business decisions | GetResponse Mobile App | GetResponse Mobile App | Build an online marketing suite to run your business | Learn and grow with our resources and help center
+jsonld_org: []
+--- TEXT ---
+Email Marketing & Automation Features | GetResponse
+ 
+ 
+ 
+ 
+Product 
+EMAIL MARKETING & AUTOMATION
+Grow your list
+ 
+ 
+Signup forms
+ 
+AI
+Landing pages
+ 
+AI
+Website builder
+ 
+Conversion funnel
+Communicate
+ 
+ 
+AI
+Email marketing
+ 
+AI
+Autoresponders
+ 
+Marketing automation
+ 
+Web push notifications
+ 
+SMS marketing
+Promote and sell
+ 
+ 
+Ecommerce integrations
+ 
+Popup creator
+ 
+AI recommendations
+ 
+Paid ads
+CONTENT MONETIZATION
+Monetize your knowledge
+ 
+ 
+AI
+Course creator
+ 
+Premium newsletters
+ 
+Creator's profile
+ 
+Webinars
+MORE FROM GETRESPONSE
+What’s new
+Affiliate program
+GetResponse free trial
+All features
+170+ integrations
+Move to GetResponse
+Resources 
+Learn and grow
+ 
+Blog
+Top-notch content on online marketing, GetResponse products, and more.
+ 
+Resources
+Guides, videos, webinars, infographics – all full of insightful tips and best practices.
+ 
+Webinars Library
+Practical online learning through engaging webinars – live and on-demand.
+Product help
+ 
+Customer Success Team
+Get all your questions answered by the 5-star-rated team of experts.
+ 
+Help Center
+All the information you need for a successful start with GetResponse.
+ 
+API Docs
+Learn how to integrate your software with GetResponse.
+Customer stories
+Get inspired with success stories from customers and businesses just like yours.
+READ THE STORIES
+ 
+›
+Search
+ 
+Enterprise
+Pricing
+Log in
+Book a demo
+Sign up free
+Overview
+Engage audience
+Build a list
+Monetize knowledge
+Promote and sell
+Analyze
+Mobile apps
+EMAIL MARKETING & AUTOMATION PLATFORM
+Email marketing & automation tools
+ 
+that scale with you
+Reach your audience, engage customers, monetize your knowledge, and drive sales — all in one platform
+ 
+with hundreds of features and AI-powered solutions.
+.
+Create FREE account
+Try premium features free for 14 days
+Book a demo
+Scalable solutions for high-volume lists
+AI-POWERED TOOLS
+Take off with 
+AI email marketing
+Win back your time and increase ROI with powerful yet easy-to-use features powered by 
+OpenAI technology
+.
+ 
+AI email generator
+Create engaging and industry-optimized emails faster than ever and increase your open and click-through rates.
+ 
+ 
+AI campaign generator
+Generate a landing page, welcoming email, and a newsletter and launch a professional campaign in minutes.
+ 
+ 
+AI writing assistant
+Write emails easier and faster than ever with OpenAI-powered writing assistant integrated directly in the email creators.
+ 
+Try our AI-powered tools for free with 14 day free trial
+Create FREE account
+ENGAGE AUDIENCE
+Engage customers where it matters
+ — across channels
+Build a strategy across email, SMS, popups, chats, and web push
+ — and nurture your audience with timely, personalized communication.
+ 
+Email marketing
+Increase engagement by communicating across the channels where your audience is most responsive.
+ 
+ 
+Autoresponders
+Save time with automated emails sent to your subscribers on predefined conditions.
+ 
+ 
+Send-time optimization 
+Thanks to Perfect Timing and Time Travel tools, emails are delivered suited to your audience’s time, wherever they are.
+ 
+ 
+Email creator
+Create engaging emails without HTML skills, thanks to an easy drag-and-drop tool.
+ 
+ 
+Newsletter templates
+Use various templates designed for different marketing goals and occasions.
+ 
+ 
+Marketing 
+automation
+Powerful workflows to engage with customers at every stage of their journey. 
+ 
+ 
+Visual workflow builder
+Build your ideal customer journey in just a few clicks using a visual drag-and-drop automation builder. 
+ 
+ 
+Web events
+Engage when your customers take action on your website — watch a video, log in, or download content. 
+ 
+ 
+Advanced triggering
+Adjust triggering to your audience to communicate with greater precision. 
+ 
+ 
+Prebuilt templates
+Use professionally-designed prebuilt automation templates created to meet business goals.
+ 
+ 
+Multichannel 
+engagement
+Communicate across various channels and boost engagement where your audience is most responsive. 
+ 
+ 
+Web push notifications
+Grab users’ attention when they browse the web and bring them back to your website. 
+ 
+GETRESPONSE MAX
+ 
+SMS marketing
+Reach customers directly with automatically triggered SMS campaigns. 
+ 
+ 
+Popups and forms
+Hook your website visitors with eyecatching popups in various formats. 
+ 
+ 
+Live chats
+Connect with your customers instantly, thanks to easily embedded direct chats.
+ 
+Start with dedicated 
+migration & onboarding, 
+and 
+24/7 support
+Start for free
+BUILD A LIST
+Build and
+ own your audience
+Turn anonymous visitors into subscribers with automated lead generation tools 
+ and nurture your contacts further. 
+ 
+Landing pages
+Create landing pages showing what you have to offer and generate quality leads.
+ 
+ 
+Signup forms
+Grow your list with easy-to-create forms gathering the data you need.
+ 
+ 
+A/B testing
+Run A/B tests of multiple page versions and optimize based on data.
+ 
+ 
+SEO-optimization
+Optimize your page directly in the tool so it appears in relevant search results.
+ 
+ 
+Customizable templates
+Explore templates designed by professionals for specific industries and occasions.
+ 
+ 
+Segmentation
+Build data-based segments of customers sharing traits and run precisely-targeted campaigns.
+ 
+ 
+List management
+Organize your list with data you gather for personalized and relevant communication.
+ 
+ 
+Lead magnet funnels
+Generate a stream of leads with an automated lead generation campaign, built with a few clicks.
+ 
+Get started with 
+easy email marketing
+Starter
+From
+$
+15
+.58
+/mo
+Start for free
+See full pricing
+Standard plan includes:
+Unlimited newsletters
+AI email generator
+Autoresponders
+Website & landing pages 
+Signup forms & popups 
+Plus, unlimited access to:
+Onboarding & migration support 
+AI writing assistant 
+Predesigned email templates
+A/B testing
+RSS-to-email
+MONETIZE KNOWLEDGE
+Turn your knowledge 
+into revenue
+Build and sell courses and premium newsletters. Create immersive learning experience with AI course creator, quizzes, and certificates.
+ 
+AI course creator
+Build unlimited online courses with AI-powered creator and create immersive learning experiences.
+ 
+ 
+Premium newsletters
+Share premium content and resources, and diversify the way you monetize your expertise.
+ 
+ 
+Creator’s profile
+Create a space for your audience to discover you and your offer in one space.
+ 
+ 
+Interactive quizzes
+Create an engaging learning experience in minutes with interactive quizzes.
+ 
+ 
+Customizable certificates
+Create a course certificate to increase your educational value and show achievement.
+ 
+ 
+GetResponse HUB
+Manage your courses and paid newsletter subscriptions in one place.
+ 
+ 
+Stripe & PayPal integrations
+Make buying your content easy and secure for you and your customers
+ 
+ 
+WordPress integration
+Grow your list, track site visits, and send ecommerce data with GetResponse for WordPress.
+ 
+ 
+Video hosting
+Upload videos up to 2GB in various formats, enabling interactive content that enhances learning.
+ 
+PROMOTE AND SELL
+Promote, automate and 
+grow your ecommerce
+Drive sales, increase CLTV, and recover carts — with promo codes, targeted campaigns, personalized product recommendations, and plug-and-play store integrations.
+ 
+Ecommerce marketing automation
+A suite of ecommerce-focused tools designed to enhance sales and business growth.
+ 
+ 
+Promo codes
+Engage customers with promo codes synchronized with the ecommerce platform you use.
+ 
+ 
+Abandoned cart
+Recover customers with automatically triggered abandoned cart reminders. 
+ 
+ 
+Recommendations
+Encourage sales by displaying timely product recommendations.
+ 
+ 
+One-click integrations
+Connect your online store to GetResponse with one click, and consolidate your sales and marketing tools.
+ 
+ 
+Website builder 
+Design a website to give your business the exposure it deserves.
+ 
+ 
+Drag-and-drop editor
+Build a professional website in minutes without coding skills.
+ 
+ 
+Predesigned templates
+Find and customize a template designed for your industry.
+ 
+ 
+AI wizard
+Add some information and generate your website in minutes with AI engine.
+ 
+ 
+Actionable data
+Track and analyze your website’s performance and optimize based on data.
+ 
+ 
+Paid ads 
+Create, run, and optimize paid campaigns in one place.
+ 
+ 
+Meta ads
+Curate your brand identity and sell more with targeted Meta ads.
+ 
+ 
+Google ads
+Show your product in Google search results and generate new leads.
+ 
+ 
+Goal-focused ads
+Define your campaign goal and create relevant ads in just a few steps.
+ 
+ 
+Google lead extension
+Capture leads from the moment people engage with your Google ads.
+ 
+ 
+Webinars
+Connect with your audience anytime and anywhere. Share a meaningful experience that increases engagement and conversion rates. 
+ 
+ 
+Conversion funnels
+Build a compelling customer journey with a funnel that combines all the tools relevant to your campaign goal.
+ 
+getresponse max
+Extra ecommerce features 
+in MAX plans
+ 
+AI product recommendations
+Personalize your customers' shopping experience and increase revenue with data-based product recommendations.
+ 
+ 
+Transactional email service
+API or SMTP-triggered transactional emails to keep customers up-to-date with their orders.
+ 
+ 
+Mobile push notifications
+Build a compelling customer journey with a funnel that combines all the tools relevant to your campaign goal.
+ 
+More you can count on with
+ high-volume MAX plans
+GetResponse MAX plans offer tailored solutions with premium support for medium and large companies looking to maximize their revenue.
+Premium, priority support
+Dedicated IP address
+Unlimited users
+Single sign-on (SSO)
+Book a demo
+or learn more about MAX
+ANALYZE
+Understand your subscribers and
+ 
+make data-driven business decisions
+Track and analyze your campaigns performance to optimize based on what you learn about your audience’s habits.
+ 
+Digital marketing reports
+Track your campaigns’ performance with automated reports to gather the most critical data.
+ 
+ 
+Email analytics
+Track your emails' open and click-through rates and analyze campaigns in real-time. 
+ 
+ 
+Contacts database
+Follow your list’s growth statistics and tendencies.
+ 
+ 
+Ecommerce results
+Monitor order history and revenue in one intuitive dashboard.
+ 
+ 
+Custom reports
+Create activity and delivery reports for particular contact lists.
+ 
+Try us for free for 14 days or see available 
+pricing plans
+Create FREE account
+MOBILE APPS
+GetResponse Mobile App
+GetResponse Mobile App
+Monitor and manage your campaigns on the move. Never miss out on new insights thanks to the GetResponse Mobile App.
+GetResponse Chats 
+Take your chats wherever you go, never miss out on a new chat notification, and be available for your customers anytime.
+ 
+GetResponse Webinars
+Engage with your audience anywhere and at anytime - host and attend webinars on the go from your mobile device.
+ 
+JUST STARTING OUT?
+Build an online marketing
+ suite to run your business
+GetResponse Free is a solution for all starting business looking for ways to get their business online.
+Enjoy a free plan that includes:
+2,500 newsletters/mo
+Drag-and-drop email creator
+List for up to 500 contacts
+Landing page
+Signup and contact forms
+Create FREE account
+or learn more
+Learn and grow with our 
+resources and help center
+How to build an email list
+ from scratch
+Tips and a step-by-step guide on how to build a healthy email list for targeted email campaigns.
+Resources Library
+GetResponse
+ Help Center
+Make more sales with 
+email marketing & automation today
+Create FREE account
+100%
+ average list size growth in 
+first 30 days
+Product
+Email marketing
+AI email generator
+Autoresponders
+Marketing automation
+Website builder
+Landing pages
+Forms and popups
+Content monetization
+All features
+GetResponse Free Trial
+Integrations
+Book a demo
+Pricing
+Help and resources
+Help center
+Glossary
+Contact support
+Online marketing resources
+Customer stories
+GetResponse Academy
+Webinar library
+Email templates
+Website templates
+Compare us with others
+API Docs
+Move to GetResponse
+Company
+About us
+Careers
+Press center
+What’s new
+Affiliate programs
+Agency partners
+Investor relations
+Accessibility statement
+Reporting policy
+Top blog content
+Introducing Revenue Attribution for Automation — Finally see what your emails actually earn
+Introducing Price Drop Campaigns: Convert high-intent browsers when prices fall 
+State of customer loyalty 2026: Insights from 3,000 consumers and brands
+Visit our blog to learn more
+Get the GetResponse App
+ 
+ 
+Follow us
+ 
+ 
+ 
+ 
+ 
+ 
+Change the language
+ English
+DE
+Deutsch
+EN
+English
+ES
+Español
+FR
+Français
+IT
+Italiano
+PL
+Polski
+PT
+Português
+RO
+România
+VN
+Tiếng Việt
+RU
+Русский
+ 
+Copyright © 2026 GetResponse. Email marketing & beyond
+®
+Privacy Policy
+Anti-Spam Policy
+Terms of Service
+Manage cookies
+
+===== pricing_or_trust :: https://www.getresponse.com/pricing
+--- SIGNALS ---
+title: Pricing and Service Plans | GetResponse
+meta_description: Grow with the best email marketing tool: AI, automation, landing pages, and unlimited emails. Plans from $13.30/mo — start free today!
+og_description: Grow with the best email marketing tool: AI, automation, landing pages, and unlimited emails. Plans from $13.30/mo — start free today!
+og_site_name: 
+h1: For teams that drive repeat revenue
+h2: Starter | Marketer | Creator | Enterprise | Compare plans and features | Join 350,000+ businesses worldwide growing revenue with GetResponse | Try premium features free for 14 days | 50% discount for charities and NGOs | Frequently asked questions
+jsonld_org: []
+--- TEXT ---
+Pricing and Service Plans | GetResponse
+ 
+ 
+ 
+ 
+Product 
+EMAIL MARKETING & AUTOMATION
+Grow your list
+ 
+ 
+Signup forms
+ 
+AI
+Landing pages
+ 
+AI
+Website builder
+ 
+Conversion funnel
+Communicate
+ 
+ 
+AI
+Email marketing
+ 
+AI
+Autoresponders
+ 
+Marketing automation
+ 
+Web push notifications
+ 
+SMS marketing
+Promote and sell
+ 
+ 
+Ecommerce integrations
+ 
+Popup creator
+ 
+AI recommendations
+ 
+Paid ads
+CONTENT MONETIZATION
+Monetize your knowledge
+ 
+ 
+AI
+Course creator
+ 
+Premium newsletters
+ 
+Creator's profile
+ 
+Webinars
+MORE FROM GETRESPONSE
+What’s new
+Affiliate program
+GetResponse free trial
+All features
+170+ integrations
+Move to GetResponse
+Resources 
+Learn and grow
+ 
+Blog
+Top-notch content on online marketing, GetResponse products, and more.
+ 
+Resources
+Guides, videos, webinars, infographics – all full of insightful tips and best practices.
+ 
+Webinars Library
+Practical online learning through engaging webinars – live and on-demand.
+Product help
+ 
+Customer Success Team
+Get all your questions answered by the 5-star-rated team of experts.
+ 
+Help Center
+All the information you need for a successful start with GetResponse.
+ 
+API Docs
+Learn how to integrate your software with GetResponse.
+Customer stories
+Get inspired with success stories from customers and businesses just like yours.
+READ THE STORIES
+ 
+›
+Search
+ 
+Enterprise
+Pricing
+Log in
+Book a demo
+Sign up free
+For teams that drive repeat revenue
+Try free for 14 days. No credit card required. Upgrade when you're ready.
+Billing period:
+Monthly
+Yearly
+-18%
+Starter
+Grow your list with AI-powered email marketing and unlimited monthly sends.
+$
+19
+/mo
+$
+15
+.58
+/mo
+Paid annually, save up to 
+$
+41
+ a year
+Start free trial
+Includes:
+Unlimited monthly email sends
+AI-powered content generators
+ 
+Welcome email series
+1 custom automation workflow
+ 
+Landing page builder
+Signup forms and popups
+Free custom domain on yearly plan
+ 
+MOST POPULAR
+Marketer
+For marketers and ecommerce businesses to promote and sell across channels.
+$
+59
+/mo
+$
+48
+.38
+/mo
+Paid annually, save up to 
+$
+127
+ a year
+Start free trial
+Includes:
+Unlimited monthly email sends
+AI-powered content generators
+ 
+Welcome email series
+Unlimited automation workflows
+ 
+Landing page builder
+Signup forms and popups
+Advanced audience segmentation
+Abandoned cart recovery
+Sales funnels 
+Promo codes and revenue reports
+Unlimited web push notifications
+Free custom domain on yearly plan
+ 
+Creator
+Everything you need to create, market, and monetize your knowledge.
+$
+69
+/mo
+$
+56
+.58
+/mo
+Paid annually, save up to 
+$
+149
+ a year
+Start free trial
+Includes:
+Unlimited monthly email sends
+AI-powered content generators
+ 
+Welcome email series
+Unlimited automation workflows
+ 
+Landing page builder
+Signup forms and popups
+Advanced audience segmentation
+Abandoned cart recovery
+Sales funnels 
+Promo codes and revenue reports
+Unlimited web push notifications
+Webinars
+ 
+Website builder
+ 
+Course creator
+Up to 500 students
+Premium newsletter subscriptions
+Free custom domain on yearly plan
+ 
+Enterprise
+Maximize revenue with tailored solutions and premium support. 
+Custom pricing
+Book a demo
+Includes:
+Unlimited monthly email sends
+AI-powered content generators
+ 
+Welcome email series
+Unlimited automation workflows
+ 
+Landing page builder
+Signup forms and popups
+Advanced audience segmentation
+Abandoned cart recovery
+Sales funnels 
+Promo codes and revenue reports
+Unlimited web push notifications
+Webinars
+ 
+Website builder
+ 
+Course creator
+Student management
+ 
+Premium newsletter subscriptions
+Dedicated sending domain
+Dedicated IP address
+Premium, priority support
+ 
+Single sign-on (SSO)
+SMS marketing
+Mobile push notifications
+AI product recommendations
+Transactional emails
+Unlimited users 
+Compare all plans and features
+ 
+Prices above are net amounts. 
+Learn more
+ how local taxes may apply.
+ 
+Compare plans and features
+Starter
+$
+15
+.58
+/mo
+Billed annually
+START FREE TRIAL
+Marketer
+$
+48
+.38
+/mo
+Billed annually
+START FREE TRIAL
+Creator
+$
+56
+.58
+/mo
+Billed annually
+START FREE TRIAL
+Enterprise
+Custom pricing
+BOOK A DEMO
+Email marketing
+Newsletters
+Monthly email sends
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+AI email generator
+Up to 3 uses
+AI subject line generator 
+Up to 3 uses
+Visual email editor
+Custom DKIM
+Inbox preview
+Perfect timing
+Time travel
+A/B testing
+RSS-to-email
+Click tracking
+Ecommerce tracking
+Google Analytics
+Scheduling
+Predesigned templates
+HTML editor
+Custom HTML
+Product box
+Recommended products
+Abandoned cart trigger
+Promo codes: manual creator
+Promo codes: all unique & synced
+SPAM check
+Share on FB & X
+Remove GetResponse branding
+Dark mode preview
+Recipients: segments
+Automation
+Welcome and thank you emails
+Automation templates
+Build from scratch
+Drip campaigns
+Birthday emails
+Click and open followups
+Contact tagging
+Contact scoring
+Abandoned cart trigger
+Visited URL automation
+Event-based automation
+Automated web push notifications
+Unlimited
+Unlimited
+Unlimited
+Purchase automation
+Dynamic segmentation
+Split automation
+Amount filter
+Autoresponders
+Welcome emails
+Autoresponders series
+Ecommerce tracking
+Time travel
+Ecommerce tools
+Stores and products center
+Payment gateway integration
+E-product delivery
+Product box
+Abandoned cart recovery
+Order confirmation automation
+Promo codes: manual master
+Promo codes: unique
+Promo codes: synced
+Mobile push notifications
+Store settings
+Revenue tracking 
+Signup forms and popups
+Popups
+Active popups limit
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Popup display rules
+Views limit
+Embedded banners
+Templates
+Signup forms
+Contact forms
+Promo codes
+Platform and support
+Number of users
+3
+5
+5
+Unlimited
+Roles management
+Email support
+Chat support
+Two-factor authentication
+Onboarding session
+Phone support 
+Slack support 
+Assisted IP warmup 
+Dedicated sending domain 
+Single sign-on
+Rebranding options
+Dedicated onboarding
+Dedicated Customer Experience Manager
+Development strategy support
+List management
+Import contacts
+Export contacts
+Integrations
+Add scoring
+Add tagging
+FTP imports
+Segmentation
+Based on contact details 
+Based on contact actions
+Based on geolocation
+Based on scoring
+Based on tags
+Based on consent fields
+Based on ecommerce
+Based on conversion funnel
+Based on events
+Based on lead magnet
+Based on SMS action 
+Based on external segments
+Landing pages
+Landing pages
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+AI creator
+3 uses
+Unlimited
+Unlimited
+Unlimited
+Connect your domain
+Unlimited
+Pages and visitors
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Predesigned templates
+Unlimited
+Signup forms
+Contact forms
+Countdown timer
+Chat
+Google Analytics
+Facebook Pixel
+Integrations
+SEO settings
+Product box
+Store settings
+Website builder
+Website builder
+AI creator
+Predesigned templates
+Connect your domain
+Bandwidth
+Unlimited
+Unlimited
+Buy a domain
+Number of active websites
+5
+10
+Number of subpages
+Unlimited
+Unlimited
+SSL security
+Gallery
+Popups
+Contact forms
+Signup forms
+Custom code
+Chat
+Timer
+Membership area
+Remove GetResponse branding
+Google Analytics
+Facebook Pixel
+SEO settings
+Content monetization
+Course creator
+Available courses
+Unlimited
+Unlimited
+Students limit
+Up to 40,000
+Up to 40,000 (flexible)
+Transaction fees
+0%
+0%
+Premium newsletters
+Mobile app for students 
+PayPal and Stripe integrations
+Transactional emails
+Triggered emails
+Sending history 
+Performance analytics 
+API
+SMTP connection
+Webinars
+Live webinars
+Number of attendees
+100
+1000
+On-demand webinars
+Paid webinars
+Webinar funnels
+Recording storage
+3h
+20h
+Number of presenters
+3
+3
+HD webinars
+Breakout room option
+Web push notifications
+Web push notification
+Unlimited
+Unlimited
+Unlimited
+Custom opt-in prompt
+Web push automation
+Unlimited
+Unlimited
+Unlimited
+Scheduling
+GetResponse Chats
+Number of seats
+5
+5
+Unlimited
+Chats on GetResponse pages
+Embed Chats on external website
+GetResponse Chats mobile app
+Automated welcome message
+Quick replies
+Chat availability options
+Reply via email
+Email notifications about chats
+Email capture forms
+Remove GetResponse branding
+Conversion funnels
+Lead funnels
+Lead magnet funnels
+Sales funnels
+Webinar funnels
+Paid ads
+Google Ads
+Facebook Ads
+Lead forms
+SMS marketing
+5000 free SMS
+SMS marketing automation
+SMS bulk campaigns 
+Personalization
+Consent management 
+Link shortener
+Reporting
+Analytics
+Reports
+Integrations
+Export reports
+Google Analytics
+Newsletter revenue statistics
+Custom reports
+FTP reports
+Ecommerce reports
+Recommendations reports
+Facebook Pixel
+Integrations
+Google Analytics
+WordPress
+Shopify
+WooCommerce
+Magento
+Zapier
+PrestaShop
+Shoper
+IdoSell
+Facebook
+X / Twitter
+Stripe
+Paypal
+Salesforce
+Microsoft Dynamics 365
+API
+Mobile apps
+GetResponse App
+Join 350,000+ businesses worldwide 
+growing revenue with GetResponse
+We increased our 
+turnover by 72%
+ by using GetResponse’s targeted marketing and automation.
+Steve Forrer
+Würth Group
+Advanced automations within GetResponse generated us 
+$13k sales
+ from a single campaign.
+Dominika Puk
+Eveline Cosmetics
+Try premium features free for 14 days
+ 
+Explore what the platform can do for your business — from email and landing pages 
+to automation and webinars — before choosing a plan.
+Start free trial
+50% discount for charities and NGOs
+Drive membership, increase donations and raise awareness using GetResponse marketing tools. 
+Get 50% off every monthly plan and get your mission across with less impact on your budget.
+Learn more about the program
+Frequently asked questions
+How long are your contracts? 
+GetResponse offers you two billing periods: monthly or 12 months. We also offer a 14-day Free trial account. For the first 14 days of using it, you will have trial access to the premium features of our platform. You can upgrade your Free account to a paid one at any time. 
+Please note that after the first 14 days, you lose access to the premium features.
+With the 
+Enterprise
+ plan, you can choose between three billing periods: monthly, 12 months and 24 months.
+What features can I try during the 14-day trial? 
+On the first 14 days of using your Free account, we give you access to the premium features of GetResponse. There are some limitations on the Free account regarding webinars, messages, landing pages, marketing automation, and chats. 
+ 
+ 
+AI course creator
+: You can create an unlimited number of courses for up to 250 students but selling them is available in the paid plan only.
+ 
+Premium newsletters
+: You can create an unlimited number of premium newsletters with free subscription but paid subscriptions are available in the paid plan only.
+ 
+Webinars
+: Recordings and on-demand webinars, limited to 10 people (including you and presenters).
+ 
+Messages
+: The GetResponse badge will be added to every message you send from the Free account. Disabling the badge is possible if you upgrade to a paid account. 
+ 
+Landing pages
+: You can create and publish as many landing pages as you want, but the visits are limited to 1,000 unique visitors per month. Unlimited visits and tools like AB testing are available in paid plans only. 
+ 
+Marketing automation
+: You can create and publish as many workflows as you want. Dynamic segment filter is not available. You can unlock it with any paid plan.
+ 
+Contacting Customer Success Team
+: You can reach our support team via live chat in English (7 AM–11 PM, weekends 7 AM–9 PM, GMT+1) and Polish (Mon–Fri, 9 AM–5 PM). A chatbot is available 24/7 in all languages, and email support is available 24/7 in English, Polish, German, Spanish, Portuguese, French, or Italian.
+ 
+If you are interested in the 
+Enterprise
+ plan, you can take advantage of the Pilot Program, which allows you to test the Enterprise tools for 30 days. To take advantage of the Pilot Program, simply book a demo to discuss the details with our expert, who will provide you with access to the platform. The Pilot Program is an advanced form of testing our tools. You will also receive support from our experts - we want customers to experience what it's like to work with the GetResponse team.
+What we offer:
+30-day access to the platform and its features
+Dedicated support
+Ideas for your marketing automation strategy
+What happens after the 14-day trial period? 
+You will lose access to premium features if you don’t upgrade. You’ll still be able to log in to your account and use the free version of GetResponse. 
+Read this article
+ to see what limitations your account will have if you don’t upgrade after the first 14 days from the moment you set up your free account.
+How can I buy GetResponse? 
+You can purchase one of the available plans directly from this page and, in the case of the Enterprise plan, book a free demo. Once you verify your account, you can test all the features free of charge for 14 days. To upgrade your free account to one of the paid plans, follow these simple steps:
+ 
+ 
+ Log in to your account. In the Profile menu, click Upgrade account.
+ 
+ Choose the plan from Starter, Marketer, and Creator and select the package (list size). 
+ 
+ Enter your account details and payment information. 
+ 
+ Choose your subscription plan: standard plan billed monthly (every month) or 12-month prepay with 18% discount. 
+ 
+ Click the Upgrade Account button.
+ 
+ 
+If you are interested in the Enterprise plan, click on the 'Book a demo' button. Our expert will contact you to discuss your business, challenges, goals, and expectations and create a proposal tailored to your business needs.
+Which pricing plan should I choose? 
+There are three standard plans, each of them with its own add-on availability and included features. All plans include options for the list sizes: 1k, 2.5k, 5k, 10k, 25k, 50k, and 100k.
+An 
+Enterprise Plan
+ with advanced solutions and a personalized quote is also available. It includes all the tools and features of the above plans plus SMS marketing, AI product recommendations, and mobile push notifications.
+Starter
+ – Enables a powerful start into list building and AI-powered email marketing. Every account created within this package allows for 3 users, provides access to ecommerce integrations, and includes 1 automation workflow. AI tool

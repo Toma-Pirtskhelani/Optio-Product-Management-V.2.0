@@ -1,0 +1,4910 @@
+===== llms.txt :: https://www.gmass.co/llms.txt
+--- SIGNALS ---
+title: Oops - that's an error! - GMass
+meta_description: 
+og_description: Oops! That’s an error. Something went wrong, and while we can’t tell you exactly what, it’s been logged, and we know about it. If this is causing you great stress, Read More
+og_site_name: GMass
+h1: Oops! That’s an error.
+h2: 
+jsonld_org: []
+--- TEXT ---
+Oops - that's an error! - GMass
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oops! That’s an error.
+Something went wrong, and while we can’t tell you exactly what, it’s been logged, and we know about it. If this is causing you great stress, 
+get in touch with our Support team
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GMass is the ultimate mail merge tool for Gmail.
+ 
+ 
+ 
+INSTALL GMASS NOW!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2020 GMass, Inc. All rights reserved.
+
+===== homepage :: https://www.gmass.co/
+--- SIGNALS ---
+title: GMass: Easiest way to send an email campaign
+meta_description: GMass allows you to easily schedule emails, send out mass emails and mail merge campaigns and more with Gmail! Click here to learn about more features!
+og_description: GMass allows you to easily schedule emails, send out mass emails and mail merge campaigns and more with Gmail! Click here to learn about more features!
+og_site_name: 
+h1: The easiest way to send an email campaign | GMass
+h2: 
+jsonld_org: []
+--- TEXT ---
+GMass: Easiest way to send an email campaign
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+01/12/26 - 
+New from GMass - text.email, for email-to-SMS alerts
+ 
+10/07/25 - 
+New! Instant SMTP approvals when you hit Gmail limits
+ 
+11/25/25 - 
+New! AI template builder creates custom HTML email layouts
+ 
+05/13/26 - 
+New: Auto fix conditional logic spacing
+ 
+04/04/25 - 
+New! SpinMax - AI-powered automatic spintax on every single email in your campaign
+ 
+12/16/24 - 
+Meet ColdSMTP - our game-changing cold email sending server
+ 
+07/14/25 - 
+You can now send unlimited auto follow-up stages
+ 
+05/12/25 - 
+Spam Solver now gives you AI-powered suggestions to hit the inbox
+ 
+04/23/25 - 
+New! Dynamic lists - power your campaigns with live Google Sheet data
+ 
+05/05/25 - 
+New! Set a daily end time for your campaign
+ 
+06/20/25 - 
+You can now monitor your campaign sending speed in real time
+ 
+03/21/25 - 
+Get your free Google Sheets CRM - made for GMass
+ 
+05/08/25 - 
+New - Set a sending order to control which rows GMass emails first
+ 
+05/01/25 - 
+You can now view/manage the unsubscribes and bounces for your entire team
+ 
+05/15/24 - 
+You can now keep a strict count of days between auto follow-ups.
+ 
+05/15/24 - 
+NEW - 2 settings for handling blocks in campaigns & follow-ups
+ 
+11/05/24 - 
+Add multiple SMTP servers and easily pick which to use
+ 
+11/29/24 - 
+New! Set a default time zone for better scheduling
+ 
+11/12/24 - 
+Our open rates are now even MORE accurate than they were before
+ 
+05/14/24 - 
+New! Add auto follow-ups 
+after
+ a campaign is done sending.
+ 
+11/06/24 - 
+NEW! Our AI spintax generator creates variations for you right inside GMass
+ 
+11/07/24 - 
+New - easily clean up your long list of templates in the GMass settings box
+ 
+05/14/24 - 
+New - Real-time SPF checks when you send a campaign
+ 
+05/13/24 - 
+Now: Upload a file of unsubscribed addresses.
+ 
+03/29/24 - 
+New! Add a countdown timer to your campaign to create urgency.
+ 
+03/29/24 - 
+You can now have ChatGPT write your campaigns for you.
+ 
+08/30/23 - 
+Replies and bounces are now detected INSTANTLY.
+ 
+07/18/23 - 
+New Feature! Send triggered emails immediately when a prospect is in their Inbox.
+ 
+06/22/23 - 
+Achieve perfect deliverability with delivery routes.
+ 
+03/14/23 - 
+We've launched something big. Reply to emails 10x faster.
+ 
+×
+ 
+ 
+ 
+ show news
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Break Gmail's Limits
+ 
+ Use our proprietary tech for sends larger than Gmail allows.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Talk to Google Sheets
+ 
+ Read merge fields and auto-send emails to new rows.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaign Analytics
+ 
+ Sharable reports on opens, clicks, replies and more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+Personalize at scale with mail merges and conditional logic.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automatic Follow-up Emails
+ 
+The best way to boost response rates: Auto follow-up sequences.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scheduling
+ 
+ Schedule a mail merge for the future, or set it to repeat.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Polling
+ 
+ Add quick, 1-question surveys to campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send As Replies
+ 
+ Send new campaigns as replies to prior messages.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segmented Campaigns
+ 
+ Send new emails to a segment of a prior campaign.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reply Management
+ 
+ Find and respond to email replies fast, without inbox clutter.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unsubscribe Management
+ 
+ Auto unsubscribe management for you and your team.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bounce Management
+ 
+ Bounce detection to prevent future sends to bad addresses.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email List Builder
+ 
+ Create new, targeted lists by searching your Gmail account.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AB Testing
+ 
+ Test variations in campaigns and auto-deploy the winner.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMTP Integration
+ 
+ Use a third-party SMTP to blow past Gmail’s sending limits.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transactional Emails
+ 
+ Send better confirmation emails and more through your Gmail.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Verification
+ 
+ Test every address pre-send to avoid unwanted bounces.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ Sent emails become future templates for you and your team.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+API
+ 
+ Connect apps to GMass with our REST API, webhooks or Zapier.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximum Deliverability
+ 
+ Use GMass’s suite of tools to wind up in the inbox, not spam.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The GMass Chrome Extension
+ 
+Send mail merges and cold email campaigns from Gmail.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inbox, Spam, or Promotions
+ 
+See where your emails are landing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Verifier
+ 
+Verify your email list before you send.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Tester
+ 
+Test your email for SPF, DKIM, DMARC, blacklistings, and more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMTP Tester
+ 
+Test your connection to any SMTP service.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Domain Statistics
+ 
+See domain-based open and bounce rates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Link Checker
+ 
+Test your links before you send.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deliverability Portal
+ 
+Search our cold email and marketing campaigns, and see stats.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cold Email Insights
+ 
+Our newsletter all about cold email
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free Email Warmup
+ 
+Improve deliverability and sending limits
+ 
+ 
+ 
+-->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMTP Service
+ 
+A different kind of SMTP service, built on top of Google
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tracker Blocker
+ 
+A companion Chrome extension that improves open tracking
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Reply Project
+ 
+Reply to emails 10x faster.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Uses
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cold Email Outreach
+ 
+Drive more sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Link Building
+ 
+Scale your backlinks
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Membership Outreach
+ 
+Keep members informed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recruit better
+ 
+Accept and reject efficiently
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Press Releases
+ 
+Manage your media outreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Political Campaigns
+ 
+Manage your campaign outreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wedding Invitations
+ 
+Announce your big day
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Church Emails
+ 
+Mass emails promoting mass
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HOA Emails
+ 
+Keep residents informed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Teacher Communications
+ 
+Keep your students informed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Real Estate Marketing
+ 
+Promote your listings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Internal Communications
+ 
+Communicate with your team
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sports Clubs
+ 
+Announce the next match
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beat Makers
+ 
+Sell your beats!
+ 
+ 
+ 
+ 
+ 
+ 
+Tour
+ 
+Blog
+ 
+ 
+Pricing
+ 
+ 
+FAQ
+ 
+ 
+Login
+ 
+ 
+ 
+Add to Gmail
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The easiest way to send an email campaign
+ 
+ 
+Hit Compose in Gmail, enter your list, subject, and message.
+ 
+ 
+Add to Gmail
+ 
+GMass requires Chrome
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5-star reviews from 300,000+ happy users
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What can GMass do?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn 
+Gmail
+ into an 
+email marketing
+ and 
+cold email platform
+ 
+ 
+ 
+ 
+Use 
+mail merge personalization
+ with 
+Google Sheets
+ 
+ 
+ 
+ 
+Verify
+ your list, 
+test
+ links, & 
+fix spam
+ triggers before you send
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximize your 
+deliverability
+ — 
+hit the inbox
+, not the spam folder
+ 
+ 
+ 
+ 
+Send 
+automated follow-up sequences
+ 
+ 
+ 
+ 
+Break Gmail’s limits
+ — send virtually unlimited emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mail merge with Google Sheets
+ 
+ 
+Say goodbye to CSV files. Connect to Google Sheets to send a personalized mass email announcement or newsletter using any of the columns in your spreadsheet.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Send cold emails
+ 
+ 
+The easiest way to send cold email sequences in Gmail.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Build your list from existing contacts
+ 
+ 
+Use Gmail's powerful search feature to find messages containing recipients to whom you want to email. Then click the Build Email List button, and a Compose window will load containing the email addresses found in those messages. The only mass email service that does this!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We send a lot of email. Watch these live stats grow right before your eyes.
+ Lifetime emails sent:
+ 
+...
+ 
+ Emails sent since midnight 8/10/2026:
+ 
+...
+ 
+ 
+ 
+Join the party
+ 
+See more stats
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mass Emails in Gmail
+ 
+Our mass email service can break Gmail's sending limits using our distribution technology.
+ 
+More details
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mail Merge with Google Sheets
+ 
+GMass will read data live from any Google Sheet and even monitor for new rows and then send emails automatically.
+ 
+More details
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Reporting Analytics
+ 
+Campaign level reports that show how many people opened, clicked, replied, and bounced. See reports inside Gmail on your desktop or the Gmail app on your phone.
+ 
+More details
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+Personalize to your heart's content. Connect to a Google Sheet and personalize with any column, or use basic first and last name personalization without a spreadsheet. Use fallback values. Don't know someone's first name? We'll auto-detect it.
+ 
+More details
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automatic Follow-up Emails
+ 
+Sending cold email? Set automatic follow-up emails to send in a sequence until your recipient replies. The best way to boost response rates.
+ 
+More details
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule Mass emails and Mail Merges
+ 
+Schedule a mail merge for any time in the future, or set it to repeat daily or hourly.
+ 
+More details
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Behavior-based Campaigns
+ 
+Send to a segment of a prior campaign, like everyone who opened the last campaign, or everyone who didn't click the last campaign.
+ 
+More details
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reply Management
+ 
+Emails received in response to a mass email, including replies and bounces, are automatically categorized for you, preventing Inbox clutter.
+ 
+More details
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email List Builder
+ 
+Find email addresses deep inside your Gmail account just by searching.
+ 
+More details
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Add GMass Extension to Gmail
+ 
+GMass requires Chrome
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Do people love us or hate us?
+ 
+Most people love GMass. Every now and then, a curmudgeon doesn't. See our 
+thousands of awesome reviews
+ (click the "Reviews" tab). Still not convinced? Here's 
+why GMass is better.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Support
+ 
+ 
+Get support
+ 
+ 
+ 
+ 
+Social
+ 
+ 
+How we use social media
+ 
+ 
+ 
+ 
+Interesting
+ 
+ 
+About us
+ 
+What makes GMass better
+ 
+What's New?
+ 
+Sending limits
+ 
+Affiliate Program
+ 
+Artificial Intelligence (AI) in GMass
+ 
+Texting (SMS) service for alerts
+ 
+API
+ 
+ 
+ 
+ 
+ 
+ 
+Categories
+ 
+ 
+Email Marketing in Gmail
+ 
+Email Newsletters in Gmail
+ 
+Mail Merge in Gmail
+ 
+Mass Email in Gmail
+ 
+Cold Email Master Guide
+ 
+Boring
+ 
+System Status
+ 
+Terms of Use and Anti-Spam Policy
+ 
+Privacy Policy
+ 
+Report Vulnerability
+ 
+Open rates to gmail.com
+ 
+ 
+ 
+ 
+ 
+ 
+Recent Articles
+ 
+ 
+ 
+ Transactional Email Deliverability: Playbooks & Tips for Every Volume
+ 
+ 3 days ago
+ 
+ 
+ 
+ 
+ 
+ Friendly Click Tracking Links Are Now Available in GMass
+ 
+ 2 weeks ago
+ 
+ 
+ 
+ 
+ 
+ The 5 Best Mailmeteor Alternatives (No Limits, Better Features)
+ 
+ 2 months ago
+ 
+ 
+ 
+ 
+ 
+ How to Get Text Alerts for Replies to Your GMass Campaign
+ 
+ 4 months ago
+ 
+ 
+ 
+ 
+ 
+ How to Send a GMass Campaign in Each Recipient’s Time Zone
+ 
+ 5 months ago
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Refer a Friend to GMass (Yes, We Pay You)
+ 
+ 6 months ago
+ 
+ 
+ 
+ 
+ 
+ How Email to SMS Works in 2026 (Plus: 5-Minute Setup?)
+ 
+ 7 months ago
+ 
+ 
+ 
+ 
+ 
+ Upcoming Changes to GMass Pricing (Jan 2026)
+ 
+ 8 months ago
+ 
+ 
+ 
+ 
+ 
+ Open Tracking Hardening: Stop False Opens When Viewing Sent Emails
+ 
+ 8 months ago
+ 
+ 
+ 
+ 
+ 
+ AI Template Builder: Create HTML Email Layouts Directly in Gmail
+ 
+ 8 months ago
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 GMass, Inc.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GMass
+
+===== product :: https://www.gmass.co/features/api
+--- SIGNALS ---
+title: GMass API and integrations: Connect GMass to your apps for powerful automations and beyond
+meta_description: Use the GMass API, webhooks, and Zapier to integrate GMass with whatever applications you've built or use for powerful results.
+og_description: Use the GMass API, webhooks, and Zapier to integrate GMass with whatever applications you've built or use for powerful results.
+og_site_name: GMass
+h1: GMass API and integrations: Connect GMass to your apps for powerful automations and beyond | GMass
+h2: The GMass API: Pull data, retrieve lists, and even create and send emails | Push event data to your server in near-real time with GMass webhooks | Create no-code connections and automations between GMass and thousands of other apps with Zapier | Ready to connect GMass to your other apps and tools for powerful integrations and automations?
+jsonld_org: []
+--- TEXT ---
+GMass API and integrations: Connect GMass to your apps for powerful automations and beyond
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Break Gmail's Limits
+ 
+ Use our proprietary tech for sends larger than Gmail allows.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Talk to Google Sheets
+ 
+ Read merge fields and auto-send emails to new rows.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaign Analytics
+ 
+ Sharable reports on opens, clicks, replies and more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+Personalize at scale with mail merges and conditional logic.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automatic Follow-up Emails
+ 
+The best way to boost response rates: Auto follow-up sequences.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scheduling
+ 
+ Schedule a mail merge for the future, or set it to repeat.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Polling
+ 
+ Add quick, 1-question surveys to campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send As Replies
+ 
+ Send new campaigns as replies to prior messages.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segmented Campaigns
+ 
+ Send new emails to a segment of a prior campaign.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reply Management
+ 
+ Find and respond to email replies fast, without inbox clutter.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unsubscribe Management
+ 
+ Auto unsubscribe management for you and your team.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bounce Management
+ 
+ Bounce detection to prevent future sends to bad addresses.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email List Builder
+ 
+ Create new, targeted lists by searching your Gmail account.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AB Testing
+ 
+ Test variations in campaigns and auto-deploy the winner.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMTP Integration
+ 
+ Use a third-party SMTP to blow past Gmail’s sending limits.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transactional Emails
+ 
+ Send better confirmation emails and more through your Gmail.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Verification
+ 
+ Test every address pre-send to avoid unwanted bounces.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ Sent emails become future templates for you and your team.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+API
+ 
+ Connect apps to GMass with our REST API, webhooks or Zapier.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximum Deliverability
+ 
+ Use GMass’s suite of tools to wind up in the inbox, not spam.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The GMass Chrome Extension
+ 
+Send mail merges and cold email campaigns from Gmail.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inbox, Spam, or Promotions
+ 
+See where your emails are landing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Verifier
+ 
+Verify your email list before you send.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Tester
+ 
+Test your email for SPF, DKIM, DMARC, blacklistings, and more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMTP Tester
+ 
+Test your connection to any SMTP service.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Domain Statistics
+ 
+See domain-based open and bounce rates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Link Checker
+ 
+Test your links before you send.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deliverability Portal
+ 
+Search our cold email and marketing campaigns, and see stats.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cold Email Insights
+ 
+Our newsletter all about cold email
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free Email Warmup
+ 
+Improve deliverability and sending limits
+ 
+ 
+ 
+-->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMTP Service
+ 
+A different kind of SMTP service, built on top of Google
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tracker Blocker
+ 
+A companion Chrome extension that improves open tracking
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Reply Project
+ 
+Reply to emails 10x faster.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Uses
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cold Email Outreach
+ 
+Drive more sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Link Building
+ 
+Scale your backlinks
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Membership Outreach
+ 
+Keep members informed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recruit better
+ 
+Accept and reject efficiently
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Press Releases
+ 
+Manage your media outreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Political Campaigns
+ 
+Manage your campaign outreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wedding Invitations
+ 
+Announce your big day
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Church Emails
+ 
+Mass emails promoting mass
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HOA Emails
+ 
+Keep residents informed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Teacher Communications
+ 
+Keep your students informed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Real Estate Marketing
+ 
+Promote your listings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Internal Communications
+ 
+Communicate with your team
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sports Clubs
+ 
+Announce the next match
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beat Makers
+ 
+Sell your beats!
+ 
+ 
+ 
+ 
+ 
+ 
+Tour
+ 
+Blog
+ 
+ 
+Pricing
+ 
+ 
+FAQ
+ 
+ 
+Login
+ 
+ 
+ 
+Add to Gmail
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GMass API and integrations: Connect GMass to your apps for powerful automations and beyond
+Build advanced workflows, automations, and more using the GMass API, webhooks, and Zapier integration
+ 
+ 
+GMass works inside of Gmail and has a native integration with Google Sheets. And for many GMass users, that’s really all they need to send, track, and improve their emails as they grow their businesses.
+But you just 
+might have a need for more complex integrations
+. To have GMass connect to your CRM. To integrate GMass with your web app. Even to have GMass work with more of the Google tools like Docs or Forms.
+You (or a developer, depending on your comfort level with coding and the complexity of what you’re trying to create) 
+can build those integrations using the GMass API, webhooks, and/or Zapier
+. 
+Read on to learn more about the tools you can use to integrate GMass with other applications to 
+perform powerful functions for your unique needs
+.
+ 
+ 
+GMass API
+The GMass API: Pull data, retrieve lists, and even create and send emails
+GMass’s REST API
+ serves two major roles (which should cover most of your potential use cases):
+The GMass API allows you to 
+retrieve data from your GMass account to sync
+ with your other applications.
+The GMass API allows you to create and send emails entirely within the API (which, as far as we’ve found, makes the GMass API 
+the only email API lets you create and send a cold email campaign
+ without ever going to the user interface).
+Here are some of the key functions you can execute with the GMass API:
+Listing your Google Sheets
+ and their worksheets, as you’ll need that info to generate email lists.
+Creating a new email list
+ (and a GMass list address alias).
+Creating a new campaign
+, then saving it as a draft or sending it. You can even add attachments to your draft.
+Retrieving reports and statistics
+ on opens, clicks, replies, recipients, bounces, and/or unsubscribes on a single campaign or all of your campaigns.
+Sending transactional emails
+. You can send either a single transactional email or more (if you prefer 
+sending transactional emails through an API
+ rather than a third-party SMTP server or GMass’s SMTP relay).
+Unsubscribing
+ an email address from a single campaign or from all emails.
+To get started with the GMass API, create an API key in the GMass dashboard. Then visit the 
+GMass API homepage
+ to reference all of the available API methods
+.
+ 
+ 
+Webhooks
+Push event data to your server in near-real time with GMass webhooks
+The GMass API is designed for pulling data from GMass and creating and sending email campaigns. But in all of those cases, the other application is initiating the connection to GMass.
+With 
+webhooks
+, 
+GMass initiates the connection to another application or server
+. And it does so after six possible events:
+Sends
+Opens
+Clicks
+Replies
+Unsubscribes
+Bounces
+Whenever one of those events happens, GMass will call a specific URL on your server to let it know. The 
+calls happen in near-real time
+ (they’re done in batches every few minutes).
+Then 
+your server can take that info and record it in your database or your CRM
+ so you always have current data on how your emails are performing — and how specific contacts are interacting with what you’ve sent.
+To get started with GMass webhooks, head to the Webhooks settings in your GMass dashboard. You can choose to 
+set webhooks for all or some of the events
+, and you can specify how the data is passed to your server
+.
+ 
+ 
+Zapier
+Create no-code connections and automations between GMass and thousands of other apps with Zapier
+Using the GMass API and webhooks both require some (potentially high-level) development work.
+However, 
+if you’re not a developer
+ — or you are a developer but don’t want to take the time to duplicate complicated work that someone else has already done in getting multiple applications to talk to one another — you can use 
+Zapier to connect GMass
+ with thousands of other apps.
+Zapier is a no-code solution which you can use to integrate GMass with other apps.
+ Zapier calls those integrations “Zaps.”
+Zapier classifies events in two ways: triggers and actions.  
+Triggers are events inside GMass
+ that Zapier then uses to take action in another app.
+The GMass triggers are:
+Email opened
+Email clicked
+Email replied to
+Email address unsubscribed
+Email bounced
+Email sent
+For example, you could create a “Zap” so every time someone replies to one of the cold emails you send in GMass (the trigger), you get a notification in Slack (the action).
+Actions are events inside another app
+ that Zapier then uses to take action in GMass.
+The GMass actions are:
+Send a transactional email
+Unsubscribe an email from your account
+Unsubscribe an email from a campaign.
+For instance, you could create a “Zap” so whenever someone submits survey answers on your Google Form (the trigger), GMass sends them a confirmation email (the action).
+You can 
+also use Zapier’s Google Sheets triggers and actions
+ to take advantage of GMass’s native integration with Sheets. 
+GMass can 
+automatically check a Google Sheet for new rows
+ and send an email campaign or sequence to the contacts in those rows.
+So, for example, you could 
+add everyone who emails you to a cold email automation sequence
+ with a “Zap.” Create a “Zap” so whenever you receive a new email in Gmail (the trigger), it adds that email as a new row in your cold email Google Sheet (the action). Since GMass is monitoring that Google Sheet for new rows, it will automatically detect that new contact and send them your campaign.
+You could do something similar using GMass, Google Sheets and Zapier to 
+send a drip campaign
+ to all new subscribers.
+To get started with GMass’s Zapier integration, you’ll need to create an API key in the GMass dashboard and create an account with Zapier. Then use our 
+public beta invite
+ to begin building your GMass “Zaps.”
+ 
+ 
+Ready to connect GMass to your other apps and tools for powerful integrations and automations?
+Between the GMass API, webhooks, and Zapier, you can connect GMass to 
+virtually any applications you’ve built or you use
+.
+You can 
+sync crucial data
+, 
+automate processes
+, and 
+even send emails through GMass
+ using the GMass API and other integration tools.
+GMass should fit into your workflow and do what you need it to do — without the need for manual data entry or any other unnecessary work on your end. And with the API, webhooks, and Zapier, it can — no matter what your workflow might be.
+ 
+Try GMass for free
+ 
+(Want to learn more about GMass’s features? Next up: All about GMass’s 
+reporting
+.)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Support
+ 
+ 
+Get support
+ 
+ 
+ 
+ 
+Social
+ 
+ 
+How we use social media
+ 
+ 
+ 
+ 
+Interesting
+ 
+ 
+About us
+ 
+What makes GMass better
+ 
+What's New?
+ 
+Sending limits
+ 
+Affiliate Program
+ 
+Artificial Intelligence (AI) in GMass
+ 
+Texting (SMS) service for alerts
+ 
+API
+ 
+ 
+ 
+ 
+ 
+ 
+Categories
+ 
+ 
+Email Marketing in Gmail
+ 
+Email Newsletters in Gmail
+ 
+Mail Merge in Gmail
+ 
+Mass Email in Gmail
+ 
+Cold Email Master Guide
+ 
+Boring
+ 
+System Status
+ 
+Terms of Use and Anti-Spam Policy
+ 
+Privacy Policy
+ 
+Report Vulnerability
+ 
+Open rates to gmail.com
+ 
+ 
+ 
+ 
+ 
+ 
+Recent Articles
+ 
+ 
+ 
+ Transactional Email Deliverability: Playbooks & Tips for Every Volume
+ 
+ 3 days ago
+ 
+ 
+ 
+ 
+ 
+ Friendly Click Tracking Links Are Now Available in GMass
+ 
+ 2 weeks ago
+ 
+ 
+ 
+ 
+ 
+ The 5 Best Mailmeteor Alternatives (No Limits, Better Features)
+ 
+ 2 months ago
+ 
+ 
+ 
+ 
+ 
+ How to Get Text Alerts for Replies to Your GMass Campaign
+ 
+ 4 months ago
+ 
+ 
+ 
+ 
+ 
+ How to Send a GMass Campaign in Each Recipient’s Time Zone
+ 
+ 5 months ago
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Refer a Friend to GMass (Yes, We Pay You)
+ 
+ 6 months ago
+ 
+ 
+ 
+ 
+ 
+ How Email to SMS Works in 2026 (Plus: 5-Minute Setup?)
+ 
+ 7 months ago
+ 
+ 
+ 
+ 
+ 
+ Upcoming Changes to GMass Pricing (Jan 2026)
+ 
+ 8 months ago
+ 
+ 
+ 
+ 
+ 
+ Open Tracking Hardening: Stop False Opens When Viewing Sent Emails
+ 
+ 8 months ago
+ 
+ 
+ 
+ 
+ 
+ AI Template Builder: Create HTML Email Layouts Directly in Gmail
+ 
+ 8 months ago
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026 GMass, Inc.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GMass
+
+===== pricing_or_trust :: https://www.gmass.co/pricing
+--- SIGNALS ---
+title: GMass Pricing
+meta_description: Pricing for GMass, the ultimate mass email and mail merge plugin for Gmail. Pay with credit card, Bitcoin, or PayPal.
+og_description: Pricing for GMass, the ultimate mass email and mail merge plugin for Gmail. Pay with credit card, Bitcoin, or PayPal.
+og_site_name: 
+h1: GMass
+h2: 
+jsonld_org: []
+--- TEXT ---
+GMass Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+01/12/26 - 
+New from GMass - text.email, for email-to-SMS alerts
+ 
+10/07/25 - 
+New! Instant SMTP approvals when you hit Gmail limits
+ 
+11/25/25 - 
+New! AI template builder creates custom HTML email layouts
+ 
+05/13/26 - 
+New: Auto fix conditional logic spacing
+ 
+04/04/25 - 
+New! SpinMax - AI-powered automatic spintax on every single email in your campaign
+ 
+12/16/24 - 
+Meet ColdSMTP - our game-changing cold email sending server
+ 
+07/14/25 - 
+You can now send unlimited auto follow-up stages
+ 
+05/12/25 - 
+Spam Solver now gives you AI-powered suggestions to hit the inbox
+ 
+04/23/25 - 
+New! Dynamic lists - power your campaigns with live Google Sheet data
+ 
+05/05/25 - 
+New! Set a daily end time for your campaign
+ 
+06/20/25 - 
+You can now monitor your campaign sending speed in real time
+ 
+03/21/25 - 
+Get your free Google Sheets CRM - made for GMass
+ 
+05/08/25 - 
+New - Set a sending order to control which rows GMass emails first
+ 
+05/01/25 - 
+You can now view/manage the unsubscribes and bounces for your entire team
+ 
+05/15/24 - 
+You can now keep a strict count of days between auto follow-ups.
+ 
+05/15/24 - 
+NEW - 2 settings for handling blocks in campaigns & follow-ups
+ 
+11/05/24 - 
+Add multiple SMTP servers and easily pick which to use
+ 
+11/29/24 - 
+New! Set a default time zone for better scheduling
+ 
+11/12/24 - 
+Our open rates are now even MORE accurate than they were before
+ 
+05/14/24 - 
+New! Add auto follow-ups 
+after
+ a campaign is done sending.
+ 
+11/06/24 - 
+NEW! Our AI spintax generator creates variations for you right inside GMass
+ 
+11/07/24 - 
+New - easily clean up your long list of templates in the GMass settings box
+ 
+05/14/24 - 
+New - Real-time SPF checks when you send a campaign
+ 
+05/13/24 - 
+Now: Upload a file of unsubscribed addresses.
+ 
+03/29/24 - 
+New! Add a countdown timer to your campaign to create urgency.
+ 
+03/29/24 - 
+You can now have ChatGPT write your campaigns for you.
+ 
+08/30/23 - 
+Replies and bounces are now detected INSTANTLY.
+ 
+07/18/23 - 
+New Feature! Send triggered emails immediately when a prospect is in their Inbox.
+ 
+06/22/23 - 
+Achieve perfect deliverability with delivery routes.
+ 
+03/14/23 - 
+We've launched something big. Reply to emails 10x faster.
+ 
+×
+ 
+ 
+ 
+ show news
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Break Gmail's Limits
+ 
+ Use our proprietary tech for sends larger than Gmail allows.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Talk to Google Sheets
+ 
+ Read merge fields and auto-send emails to new rows.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campaign Analytics
+ 
+ Sharable reports on opens, clicks, replies and more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalization
+ 
+Personalize at scale with mail merges and conditional logic.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automatic Follow-up Emails
+ 
+The best way to boost response rates: Auto follow-up sequences.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scheduling
+ 
+ Schedule a mail merge for the future, or set it to repeat.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Polling
+ 
+ Add quick, 1-question surveys to campaigns
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Send As Replies
+ 
+ Send new campaigns as replies to prior messages.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segmented Campaigns
+ 
+ Send new emails to a segment of a prior campaign.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reply Management
+ 
+ Find and respond to email replies fast, without inbox clutter.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unsubscribe Management
+ 
+ Auto unsubscribe management for you and your team.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bounce Management
+ 
+ Bounce detection to prevent future sends to bad addresses.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email List Builder
+ 
+ Create new, targeted lists by searching your Gmail account.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AB Testing
+ 
+ Test variations in campaigns and auto-deploy the winner.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMTP Integration
+ 
+ Use a third-party SMTP to blow past Gmail’s sending limits.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transactional Emails
+ 
+ Send better confirmation emails and more through your Gmail.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Verification
+ 
+ Test every address pre-send to avoid unwanted bounces.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Templates
+ 
+ Sent emails become future templates for you and your team.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+API
+ 
+ Connect apps to GMass with our REST API, webhooks or Zapier.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximum Deliverability
+ 
+ Use GMass’s suite of tools to wind up in the inbox, not spam.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The GMass Chrome Extension
+ 
+Send mail merges and cold email campaigns from Gmail.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inbox, Spam, or Promotions
+ 
+See where your emails are landing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Verifier
+ 
+Verify your email list before you send.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email Tester
+ 
+Test your email for SPF, DKIM, DMARC, blacklistings, and more.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMTP Tester
+ 
+Test your connection to any SMTP service.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Domain Statistics
+ 
+See domain-based open and bounce rates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Link Checker
+ 
+Test your links before you send.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deliverability Portal
+ 
+Search our cold email and marketing campaigns, and see stats.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cold Email Insights
+ 
+Our newsletter all about cold email
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free Email Warmup
+ 
+Improve deliverability and sending limits
+ 
+ 
+ 
+-->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMTP Service
+ 
+A different kind of SMTP service, built on top of Google
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tracker Blocker
+ 
+A companion Chrome extension that improves open tracking
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Reply Project
+ 
+Reply to emails 10x faster.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Uses
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cold Email Outreach
+ 
+Drive more sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Link Building
+ 
+Scale your backlinks
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Membership Outreach
+ 
+Keep members informed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recruit better
+ 
+Accept and reject efficiently
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Press Releases
+ 
+Manage your media outreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Political Campaigns
+ 
+Manage your campaign outreach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wedding Invitations
+ 
+Announce your big day
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Church Emails
+ 
+Mass emails promoting mass
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HOA Emails
+ 
+Keep residents informed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Teacher Communications
+ 
+Keep your students informed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Real Estate Marketing
+ 
+Promote your listings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Internal Communications
+ 
+Communicate with your team
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sports Clubs
+ 
+Announce the next match
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beat Makers
+ 
+Sell your beats!
+ 
+ 
+ 
+ 
+ 
+ 
+Tour
+ 
+Blog
+ 
+ 
+Pricing
+ 
+ 
+FAQ
+ 
+ 
+Login
+ 
+ 
+ 
+Add to Gmail
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All plans include unlimited emails
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing has been adjusted for United States.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Individual
+ 
+Team
+ 
+ 
+ 
+Monthly
+ 
+Annually
+ 
+ 
+ 
+ 
+ 
+ 
+5 Users
+ 
+10 Users
+ 
+25 Users
+ 
+50 Users
+ 
+100 Users
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+Unlimited contacts 
+ 
+Unlimited campaigns 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+Email support 
+ 
+Hundreds of other features 
+ 
+ 
+ 
+ 
+ 
+ 
+Standard
+ 
+ 
+ 
+$
+29
+.95
+ 
+ / month
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+ 
+ Unlimited contacts
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaigns
+ 
+ 
+ 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+ 
+ Email support
+ 
+ 
+ 
+ 
+ 
+ Hundreds of other features
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+Standard
+ 
+ 
+ 
+$
+20 
+ / month
+ 
+ (
+$
+249 paid annually)
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+ 
+ Unlimited contacts
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaigns
+ 
+ 
+ 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+ 
+ Email support
+ 
+ 
+ 
+ 
+ 
+ Hundreds of other features
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+Premium
+ 
+ 
+ 
+$
+39
+.95
+ 
+ / month
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+ 
+ Unlimited contacts
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaigns
+ 
+ 
+ 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+ 
+ Email support
+ 
+ 
+ 
+ 
+ 
+ Hundreds of other features
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+Premium
+ 
+ 
+ 
+$
+29 
+ / month
+ 
+ (
+$
+349 paid annually)
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+ 
+ Unlimited contacts
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaigns
+ 
+ 
+ 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+ 
+ Email support
+ 
+ 
+ 
+ 
+ 
+ Hundreds of other features
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+Professional
+ 
+ 
+ 
+$
+59
+.95
+ 
+ / month
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+ 
+ Unlimited contacts
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaigns
+ 
+ 
+ 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+ 
+ Email support
+ 
+ 
+ 
+ 
+ 
+ Hundreds of other features
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+Professional
+ 
+ 
+ 
+$
+49 
+ / month
+ 
+ (
+$
+599 paid annually)
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+ 
+ Unlimited contacts
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaigns
+ 
+ 
+ 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+ 
+ Email support
+ 
+ 
+ 
+ 
+ 
+ Hundreds of other features
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+Premium
+ 
+ 
+ 
+$
+175 
+ / month
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+ 
+ Unlimited contacts
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaigns
+ 
+ 
+ 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+ 
+ Email support
+ 
+ 
+ 
+ 
+ 
+ Hundreds of other features
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+Premium
+ 
+ 
+ 
+$
+295 
+ / month
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+ 
+ Unlimited contacts
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaigns
+ 
+ 
+ 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+ 
+ Email support
+ 
+ 
+ 
+ 
+ 
+ Hundreds of other features
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+Premium
+ 
+ 
+ 
+$
+725 
+ / month
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+ 
+ Unlimited contacts
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaigns
+ 
+ 
+ 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+ 
+ Email support
+ 
+ 
+ 
+ 
+ 
+ Hundreds of other features
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+Premium
+ 
+ 
+ 
+$
+1350 
+ / month
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+ 
+ Unlimited contacts
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaigns
+ 
+ 
+ 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+ 
+ Email support
+ 
+ 
+ 
+ 
+ 
+ Hundreds of other features
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+Premium
+ 
+ 
+ 
+$
+2200 
+ / month
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Works inside Gmail
+ 
+ 
+ 
+ 
+ 
+ Send unlimited emails!*
+ 
+ 
+ 
+ 
+ 
+ Unlimited contacts
+ 
+ 
+ 
+ 
+ 
+ Unlimited campaigns
+ 
+ 
+ 
+ 
+ 
+ Mail merge personalization
+ 
+ 
+ 
+ 
+ 
+ Free email address verification
+ 
+ 
+ 
+ 
+ 
+ Custom tracking links w/SSL
+ 
+ 
+ 
+ 
+ 
+ Spam Solver
+ 
+ 
+ 
+ 
+ 
+ Sequences and follow-ups
+ 
+ 
+ 
+ 
+ 
+ API access (+Zapier)
+ 
+ 
+ 
+ 
+ 
+ A/B testing
+ 
+ 
+ 
+ 
+ 
+ Triggered Emails
+ 
+ 
+ 
+ 
+ 
+ Inbox Rotation (MultiSend)
+ 
+ 
+ 
+ 
+ 
+ High-priority support
+ 
+ 
+ 
+ 
+ 
+ Email support
+ 
+ 
+ 
+ 
+ 
+ Hundreds of other features
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+Premium
+ 
+ 
+ 
+$
+145 
+ / month
+ 
+ (
+$
+1750 p

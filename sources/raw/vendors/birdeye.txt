@@ -1,0 +1,55 @@
+===== homepage :: https://birdeye.co/
+--- SIGNALS ---
+title: BirdEye | Full Scale Digital Marketing & Custom Web Development
+meta_description: BirdEye delivers conversion-focused marketing, custom web development, SEO, digital advertising, videography, and design.
+og_description: 
+og_site_name: 
+h1: 
+h2: ${d.about.heading_start} ${d.about.heading_highlight} | Full Scale Marketing | Built With Precision | ${api.heading_start} ${api.heading_highlight} | What We Build | Our Approach | Why This Matters Now | ${d.seo.heading_start} ${d.seo.heading_highlight} | The People Behind BirdEye | Our Process | ${d.contact.heading_start} ${d.contact.heading_highlight}
+jsonld_org: []
+--- TEXT ---
+BirdEye | Full Scale Digital Marketing & Custom Web Development
+ 
+ 
+ 
+ 
+Home
+ 
+About
+ 
+Services
+ 
+Development
+ 
+APIs
+ 
+SEO
+ 
+Team
+ 
+Blog
+ 
+Contact
+ 
+ 
+Get Started
+ 
+ 
+Home
+ 
+About
+ 
+Services
+ 
+Development
+ 
+APIs
+ 
+SEO
+ 
+Team
+ 
+Process
+ 
+Contact
+Scroll
