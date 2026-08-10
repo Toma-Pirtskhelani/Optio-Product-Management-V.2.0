@@ -1,0 +1,751 @@
+===== llms.txt :: https://www.dyrect.co/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Dyrect — Warranty Management Software
+> Dyrect is the most seamless warranty management software for product brands. It runs the full post-purchase lifecycle — product registration, claims management, extended warranties, and ownership experience — in one platform built for direct-to-consumer, ecommerce, and omnichannel brands.
+- Dyrect is purpose-built for D2C/ecommerce product brands, not an enterprise system repurposed for smaller teams or a generic helpdesk with warranty features bolted on.
+- Covers the full post-purchase lifecycle: QR-code and Shopify-synced product registration, serial-number-based claim validation, workflow-based claims routing, replacement/repair tracking, customer communication, analytics, and extended warranty upsells.
+- Also includes Dyrect AI, an AI support agent for warranty and claims conversations, and a set of free tools (QR code generator, serial number generator, warranty cost calculator, warranty policy generator).
+## Products
+- [Product Registration Software](https://dyrect.co/product/product-registration-software): Omni-channel product registration with QR codes, scan-to-register, and Shopify auto-sync. Capture first-party customer data at scale.
+- [Warranty Claims Management](https://dyrect.co/product/warranty-registration-software): Centralize warranty claims, service tickets, and product validation. Route claims automatically, track repairs, resolve faster.
+- [Extended Warranties](https://dyrect.co/product/extended-warranties): Sell extended warranty plans directly to customers. Keep 100% of revenue in-house.
+- [Warranty Registration for Shopify](https://dyrect.co/warranty-registration-for-shopify): Native Shopify app for product registration and warranty tracking, synced with orders and customer data.
+- [Dyrect AI — Warranty Support Agent](https://dyrect.co/warranty-support-ai-agent): AI agent that answers warranty and claims questions, troubleshoots product issues, extracts claim/receipt data, flags fraud, and routes escalations to a human.
+- [Features](https://dyrect.co/features): Full feature list across registration, claims, and warranty management.
+- [Pricing](https://dyrect.co/pricing): Plans and pricing.
+## Solutions by Industry
+- [Electronics](https://dyrect.co/solutions/electronics)
+- [Outdoors & Recreation](https://dyrect.co/solutions/outdoors-recreation)
+- [Baby Gear](https://dyrect.co/solutions/baby-gear)
+- [Beauty & Personal Care](https://dyrect.co/solutions/beauty-personal-care)
+- [Mobile Accessories](https://dyrect.co/solutions/mobile-accessories)
+- [Home Appliances](https://dyrect.co/solutions/home-appliances)
+- [TV, Audio & Video](https://dyrect.co/solutions/tv-audio-video)
+- [Exercise & Fitness](https://dyrect.co/solutions/exercise-fitness)
+- [Furniture](https://dyrect.co/solutions/furniture)
+- [Smart Home & Network](https://dyrect.co/solutions/smart-home-and-network)
+- [Cycling](https://dyrect.co/solutions/cycling)
+## Free Tools
+- [Bulk QR Code Generator](https://dyrect.co/bulk-qr-code-generator): Generate QR codes in bulk from text, URLs, or CSV, with custom colors and PNG/PDF export.
+- [Serial Number Generator](https://dyrect.co/serial-number-generator): Generate unique, customizable serial numbers with prefixes, suffixes, and length rules; export CSV/TXT.
+- [Warranty Cost Calculator](https://dyrect.co/warranty-cost-calculator): Estimate yearly warranty costs across claims volume, team effort, and operations.
+- [Warranty Policy Generator](https://dyrect.co/warranty-policy-generator): Free warranty policy template generator by country (US, UK, EU, India, Australia) and coverage terms; download as PDF or text.
+- [Warranty Rules & Regulations](https://dyrect.co/warranty-rules-regulations): Reference portal for warranty laws and regulations by country, topic, and industry.
+## Customers & Proof
+- [Case Studies](https://dyrect.co/case-studies): Customer success stories — challenges, the Dyrect solution, results, and metrics, across industries like electronics, home appliances, pet care, and personal care.
+- [Showcase](https://dyrect.co/showcase): Brand spotlights and highlights from companies running on Dyrect.
+## Ecosystem
+- [Integrations](https://dyrect.co/integrations): Connected tools across ecommerce, helpdesk, and marketing platforms — Shopify, Klaviyo, HubSpot, Zendesk, and more.
+- [Partners](https://dyrect.co/partners): Technology and agency partners.
+- [Brand Warranty Lookup](https://dyrect.co/warranty): Directory of brand-specific warranty registration and claims lookup pages.
+## Company
+- [FAQs](https://dyrect.co/faqs)
+- [Contact Us](https://dyrect.co/contact-us)
+- [Security](https://dyrect.co/security)
+- [Status](https://dyrect.co/status)
+- [Privacy Policy](https://dyrect.co/privacy-policy)
+- [Terms & Conditions](https://dyrect.co/terms-conditions)
+## Contact
+- Sales: sales@dyrect.co
+- Website: https://dyrect.co
+- LinkedIn: https://www.linkedin.com/company/dyrect/
+## Optional
+- [Sitemap](https://dyrect.co/sitemap.xml): All indexable URLs
+
+===== homepage :: https://www.dyrect.co/
+--- SIGNALS ---
+title: Dyrect: Warranty Management Software | 4M+ Customers Served
+meta_description: The most-seamless warranty management software for modern brands. Warranty registration, claims management, extended warranties & post-purchase experience — all in one platform. Trusted by 500+ brands in the US, UK, Canada, Singapore & globally.
+og_description: The most-seamless warranty management software for modern brands. Warranty registration, claims management, extended warranties & post-purchase experience — all in one platform. Trusted by 500+ brands in the US, UK, Canada, Singapore & globally.
+og_site_name: Dyrect
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+Dyrect: Warranty Management Software | 4M+ Customers Served
+
+===== product :: https://www.dyrect.co/features
+--- SIGNALS ---
+title: Warranty Management Features | Product Registration, Claims & More | Dyrect
+meta_description: Explore all Dyrect features: omni-channel product registration, warranty claims management, digital warranty cards, extended warranties, QR scan-to-register, and post-purchase experience tools for product brands worldwide.
+og_description: Explore all Dyrect features: omni-channel product registration, warranty claims management, digital warranty cards, extended warranties, QR scan-to-register, and post-purchase experience tools for product brands worldwide.
+og_site_name: Dyrect
+h1: Every feature your warranty operation needs, built in
+h2: Turn every buyer into a reachable customer | Replace paper warranty cards with a live ownership record | Validate every product with serial and QR-based identity | Resolve every claim without losing track of a single one | Sell protection plans and keep 100% of the revenue | Give buyers a place to manage everything after purchase | Build any registration or claim form without writing code | Design the post-purchase experience your brand deserves | Turn static manuals into searchable post-purchase support | See exactly where your warranty operation stands | Works with the tools your team already runs | Ready to run a better warranty operation?
+jsonld_org: []
+--- TEXT ---
+Warranty Management Features | Product Registration, Claims & More | Dyrect
+ 
+Home
+|
+Help Center 
+|
+Partners
+Products 
+Solutions 
+Showcase
+Pricing
+Resources 
+Talk to Us
+Book a Meeting
+ 
+ 
+Products 
+Solutions 
+Showcase
+Pricing
+Resources 
+Book a Meeting
+ 
+Products
+Product Registration Software
+Warranty Management Software
+Extended Warranties
+Shopify Warranty App
+Free Tools
+Bulk QR Code Generator
+Serial Number Generator
+Warranty Cost Calculator
+Solutions
+Electronics
+Outdoors & Recreation
+Baby Gear
+Beauty and Personal Care
+Mobile Accessories
+Household Appliances
+T.V, Audio and Video
+Exercise and Fitness
+Furniture
+Smart Home and Network
+Cycling
+Company
+Features
+Pricing
+Contact Us
+Features
+Digitalize Warranty
+Form Builder (No-Code)
+Digitize Product Manual
+Serial Number Validator
+Claims Management
+All Features
+Resources
+FAQs
+Blog
+Integrations
+Brand Warranties
+Our Partners
+Alternatives
+Warranty Management in Zoho VS Dyrect
+Warranty Management in Odoo VS Dyrect
+Warranty Management in SAP VS Dyrect
+Warranty Management in Salesforce VS Dyrect
+The most seamless warranty management software. Registration, claims, and protection plans — unified.
+ 
+Get in touch · US
+655 S Fair Oaks Ave,
+Sunnyvale, CA 94086
+sales@dyrect.co
+Get in touch · India
+Neuroone Solutions Pvt. Ltd.
+A-805, Magnolia Apartment, Baner
+Pashan Link Road, Pune — 411021
++91 9975470169
+© 2026 Dyrect (Neuroone Solutions Pvt. Ltd.). All rights reserved.
+Privacy
+Terms
+ 
+Features
+Every feature your warranty operation needs, 
+built in
+Product registration, claims management, extended warranties, and post-sale analytics. One platform for the full warranty lifecycle.
+Get a Demo 
+Explore features
+4 Mn+
+customers served
+500+
+brands on Dyrect
+4.8 ★
+rated on G2
+5 ★
+rated on Shopify
+ 
+Trusted by 500+ brands globally
+All Features
+Product Registration
+Digital Warranty Card
+Product Serialization
+Claims Management
+Extended Warranties
+Customer Portal
+Form Builder
+Experience Builder
+Product Manuals
+Analytics and Insights
+Platform and Integrations
+Product Registration and Upsell
+Turn every buyer into a 
+reachable customer
+Most products are sold through Amazon, retail, and distributors. The buyer's contact details never reach the brand. Dyrect captures first-party data at the point of product registration so every buyer, regardless of purchase channel, becomes a direct contact you own and can re-market to.
+See Product Registration Software 
+ 
+Omnichannel registration
+Capture registrations from QR codes on packaging, your website, your Shopify store, and offline channels. One system for every touchpoint.
+ 
+No-code experience builder
+Design your registration form and post-registration page without writing code. Change any field or layout from the dashboard in minutes.
+ 
+Custom form fields
+Collect serial numbers, proof of purchase, purchase channel, product variant, and any field your warranty policy requires.
+ 
+Digital warranty cards
+Replace paper cards with a digital record linked to the product and purchase. Customers access warranty status any time, from any device.
+ 
+Automatic Shopify sync
+Orders placed on Shopify register automatically. No customer action needed. Every Shopify buyer becomes a registered contact.
+ 
+Multi-language support
+Serve customers in their own language. Registration forms and confirmation emails localize automatically based on browser locale.
+ 
+Post-registration upsell
+Trigger an extended warranty offer or a related product recommendation right after the customer registers. Capture revenue at peak intent.
+ 
+Product manual digitization
+Replace printed manuals with a QR code linking to the latest product guide, safety notes, or instructional video. Always current.
+Digital Warranty Card
+Replace paper warranty cards with a 
+live ownership record
+Dyrect gives every registered customer a digital warranty card connected to the product, purchase details, coverage period, and service history. Customers can access the record any time, while your team gets a cleaner source of truth for warranty validation.
+ 
+Customer-owned warranty record
+Every registered product gets a digital card with coverage status, expiry date, product details, and ownership information in one place.
+ 
+Coverage visibility
+Customers and service teams can instantly see whether a product is active, expired, or eligible for extended coverage.
+ 
+Automated delivery
+Send digital warranty cards by email after registration or purchase, with branded copy and links back to your customer portal.
+ 
+Connected claim journey
+When a customer files a claim, the same warranty card record helps validate coverage, purchase proof, and product ownership faster.
+ 
+Fully branded experience
+Cards use your brand colors, copy, logo, and domain so customers experience the warranty as part of your product ecosystem.
+ 
+Lifecycle history
+Keep product registration, warranty activation, claim activity, repairs, and replacement history attached to one durable ownership record.
+Product Serialization
+Validate every product with 
+serial and QR-based identity
+Dyrect helps brands connect every physical product to a unique serial number, QR code, warranty record, and owner profile. This makes registration, claims, fraud checks, and service history easier to verify across ecommerce, retail, marketplace, and offline channels.
+ 
+Serial number validation
+Check serial numbers during registration or claim submission so invalid, duplicate, or expired products are flagged early.
+ 
+QR-based product identity
+Use QR codes on packaging, manuals, inserts, or product labels to connect buyers directly to the right registration flow.
+ 
+Fraud reduction
+Compare product identity, purchase proof, owner data, and claim history before approving warranty service or replacement requests.
+ 
+SKU and variant mapping
+Link serial numbers to product models, variants, regions, batches, and warranty policies for more accurate lifecycle tracking.
+ 
+Ownership transfer support
+Maintain a clean history when ownership changes, replacements are issued, or refurbished products re-enter circulation.
+ 
+Traceability analytics
+Track serial usage, registration rates, claim frequency, and product lifecycle activity across batches and channels.
+Claims and Service Management
+Resolve every claim without 
+losing track of a single one
+Fragmented claim handling costs more than the warranty itself. Dyrect gives your service team one workspace to validate, route, track, and close every claim across every product line. No tool switching, no manual lookups, no missed follow-ups.
+See Warranty Management Software 
+ 
+Serial number validation
+Every claim checks the product serial number against your registry before a ticket opens. Expired or invalid claims surface before they cost you anything.
+ 
+Claim ticket management
+One inbox for every claim across every product line. Assign, route, escalate, and close tickets from a single workspace.
+ 
+Warranty eligibility check
+Purchase date, coverage period, and product category are verified automatically. No manual lookup required per incoming claim.
+ 
+Repair, replacement, and refund
+Route each claim to the right resolution type. Track every service step from first contact to close for every open ticket.
+ 
+Customer status notifications
+Notify customers automatically at each claim stage. Reduce inbound support volume without manual follow-up from your team.
+ 
+Team assignments and notes
+Keep claim ownership, service notes, and action history organized. Every agent sees exactly what they need to act.
+ 
+Shipment and dealer payouts
+Track every replacement shipment inside the claim ticket. Manage dealer and service center reimbursements from the same dashboard.
+ 
+Document and photo upload
+Let customers attach fault evidence, receipts, or photos directly to their claim. No email back-and-forth to collect evidence.
+Extended Warranties
+Sell protection plans and keep 
+100% of the revenue
+Third-party warranty providers take a cut of every plan sold. Dyrect lets your brand offer protection plans at the product page, checkout, and after purchase. All revenue stays with your brand. No revenue share, no customer data passed to a third party.
+See Extended Warranties 
+ 
+Multi-touchpoint plan offers
+Place protection plan offers on the product page, at checkout, and in post-purchase emails. Reach buyers at every point of intent.
+ 
+No-code plan builder
+Set coverage terms, pricing, deductibles, and exclusions without engineering. Launch a new plan configuration in a single day.
+ 
+100% revenue in-house
+No third-party revenue share. Every protection plan sold stays entirely with your brand across every product line.
+ 
+Dynamic pricing rules
+Price plans by product category, price band, or coverage duration. Set rules once and let them run across your catalog.
+ 
+Automatic plan activation
+Plans activate the moment a qualifying purchase is made. No manual intervention needed from your team.
+ 
+Claims tied to the plan
+Extended warranty claims flow into the same workspace as standard tickets. One system for all claims, covered or not.
+ 
+Shopify and WooCommerce native
+Protection plan offers appear as native widgets in your Shopify or WooCommerce store. No custom code required.
+ 
+White-label customer portal
+Customers manage plans and file claims from a portal that carries your brand name, colors, and domain.
+Customer Portal
+Give buyers a place to manage 
+everything after purchase
+The customer experience does not end at the sale. Dyrect gives every registered buyer a branded self-serve portal to view their product details, warranty status, and service history without calling your support team.
+ 
+Self-serve warranty status
+Customers check coverage, expiry date, and product details on their own without raising a support ticket or calling your team.
+ 
+Online claim submission
+Buyers file claims from the portal with guided steps, photo upload, and real-time status tracking throughout the process.
+ 
+Repair and service tracking
+Customers see every stage of the service process from claim open to resolution, updated automatically as status changes.
+ 
+Digital warranty card access
+The warranty card is accessible from the portal any time, from any device, for the lifetime of the product.
+ 
+Branded portal experience
+Logo, colors, domain, and copy match the brand throughout. No Dyrect branding is visible to the customer at any point.
+ 
+Multi-product dashboard
+Customers who register multiple products see all of them in one place with a single login and a clear product timeline.
+Form Builder
+Build any registration or claim form 
+without writing code
+Every brand has different warranty policies and different data requirements. Dyrect's form builder lets you create the exact form your business needs, with conditional logic, custom field types, and multi-step flows, with no developer involved.
+ 
+Drag-and-drop field editor
+Add, remove, and reorder fields with a visual editor. No code required at any step. Publish the form when it looks right.
+ 
+Conditional field logic
+Show or hide fields based on previous answers. Capture only what each product or claim type actually needs from the customer.
+ 
+Custom field types
+Text, dropdown, date picker, file upload, serial number field, and image capture. Any field type your policy requires is available.
+ 
+Multi-step form flows
+Break long registration or claim forms into steps to reduce drop-off and keep completion rates high across product lines.
+ 
+Policy and terms display
+Show warranty terms, coverage conditions, and exclusions inside the form at the right moment, tied to the specific product.
+ 
+Form completion analytics
+See completion rates, drop-off points, and field-level abandonment for every form you publish to identify and fix problem areas.
+Experience Builder
+Design the 
+post-purchase experience
+ your brand deserves
+The registration confirmation page, the warranty card email, the claim status update. Every touchpoint after the sale is a chance to reinforce the brand and reduce support load. Dyrect gives you full control over all of it without engineering resources.
+ 
+Branded registration pages
+Match fonts, colors, and layout to your product packaging and website. No Dyrect template or branding is visible to the customer.
+ 
+Custom confirmation emails
+Design the registration confirmation and warranty card email with your own copy, logo, and call-to-action. Sent from your domain.
+ 
+Warranty card design
+Choose the layout and information displayed on the digital warranty card for each product line independently.
+ 
+Post-registration upsell
+Show a protection plan offer or a product recommendation on the confirmation page right after registration is complete.
+ 
+No-code page editor
+Edit any page element visually. Publish changes without a developer, a deployment pipeline, or a design agency involved.
+ 
+Preview before publishing
+See exactly how the experience looks on mobile and desktop before any customer encounters it. Publish when confident.
+Digital Product Manuals and Guides
+Turn static manuals into 
+searchable post-purchase support
+Dyrect lets brands replace printed manuals with digital guides connected to the customer portal and registered product record. Customers can find setup instructions, care tips, warranty details, safety information, and service resources without opening a support ticket.
+ 
+Digital manuals by product
+Attach manuals, setup guides, troubleshooting content, and care instructions to each registered product or SKU.
+ 
+QR access from packaging
+Let customers scan a QR code on the product, box, insert, or invoice to open the right guide instantly.
+ 
+Always-current content
+Update instructions, safety notes, or product resources without reprinting packaging or sending replacement documents.
+ 
+Self-serve answers
+Give customers a cleaner way to find product information after purchase and reduce repeated support questions.
+ 
+Multi-channel access
+Surface guides from registration pages, digital warranty cards, customer portals, and post-purchase emails.
+ 
+Guide usage insight
+
+===== pricing_or_trust :: https://www.dyrect.co/pricing
+--- SIGNALS ---
+title: Warranty Management Software Pricing | Simple, Transparent Plans | Dyrect
+meta_description: Simple, transparent pricing for Dyrect warranty management software. Start free, scale as you grow. No hidden fees. Trusted by 500+ brands across the US, UK, Canada, Singapore, India and globally.
+og_description: Simple, transparent pricing for Dyrect warranty management software. Start free, scale as you grow. No hidden fees. Trusted by 500+ brands across the US, UK, Canada, Singapore, India and globally.
+og_site_name: Dyrect
+h1: Find a plan that's right for you
+h2: Choose a plan that best suits your business | Frequently asked questions | Never lose a customer again
+jsonld_org: []
+--- TEXT ---
+Warranty Management Software Pricing | Simple, Transparent Plans | Dyrect
+ 
+Home
+|
+Help Center 
+|
+Partners
+Products 
+Solutions 
+Showcase
+Pricing
+Resources 
+Talk to Us
+Book a Meeting
+ 
+ 
+Products 
+Solutions 
+Showcase
+Pricing
+Resources 
+Book a Meeting
+ 
+Products
+Product Registration Software
+Warranty Management Software
+Extended Warranties
+Shopify Warranty App
+Free Tools
+Bulk QR Code Generator
+Serial Number Generator
+Warranty Cost Calculator
+Solutions
+Electronics
+Outdoors & Recreation
+Baby Gear
+Beauty and Personal Care
+Mobile Accessories
+Household Appliances
+T.V, Audio and Video
+Exercise and Fitness
+Furniture
+Smart Home and Network
+Cycling
+Company
+Features
+Pricing
+Contact Us
+Features
+Digitalize Warranty
+Form Builder (No-Code)
+Digitize Product Manual
+Serial Number Validator
+Claims Management
+All Features
+Resources
+FAQs
+Blog
+Integrations
+Brand Warranties
+Our Partners
+Alternatives
+Warranty Management in Zoho VS Dyrect
+Warranty Management in Odoo VS Dyrect
+Warranty Management in SAP VS Dyrect
+Warranty Management in Salesforce VS Dyrect
+The most seamless warranty management software. Registration, claims, and protection plans — unified.
+ 
+Get in touch · US
+655 S Fair Oaks Ave,
+Sunnyvale, CA 94086
+sales@dyrect.co
+Get in touch · India
+Neuroone Solutions Pvt. Ltd.
+A-805, Magnolia Apartment, Baner
+Pashan Link Road, Pune — 411021
++91 9975470169
+© 2026 Dyrect (Neuroone Solutions Pvt. Ltd.). All rights reserved.
+Privacy
+Terms
+ 
+Pricing
+Find a plan that's right for you
+Or simply leverage the expertise of our consultation team.
+ 
+Talk to us >
+Starting from 
+$49/month
+ — pricing is based on registration volume.
+Book a Meeting 
+See how plans compare
+Trusted by 500+ brands globally
+Startup
+For early stage brands that focusses on building a sustainable business.
+1 user included
+All you need to get started
+ 
+Product Registration Experience for Customers
+ 
+Brand Dashboard (User data Management)
+ 
+Product Serialization
+ 
+Feedback Management
+ 
+Onboarding & Support
+↑
+White-label branding available from Scaleup
+Add-ons available for purchase
+Unique QR Codes
+Additional licenses
+Contact Us
+Most popular
+Growth
+For brands who wish to reduce their dependency on third party sales.
+3 users included
+All you need to get started
+ 
+Everything in Startup +
+ 
+Warranty Claims Management
+ 
+Custom Brand theme
+ 
+Multi user Login
+ 
+Onboarding & Support
+↑
+White-label branding available from Scaleup
+Add-ons available for purchase
+Unique QR Codes
+Additional licenses
+Additional Brands
+Contact Us
+Scaleup
+For fast-growth scaleup brands that want to grow profitably.
+5 users included
+All you need to get started
+ 
+Everything in Growth +
+ 
+Repair/Returns Management
+ 
+Label Generation
+ 
+Advanced Reports & Exports
+ 
+Custom Domain
+ 
+API Integrations
+ 
+Dedicated CSM
+ 
+White-label branding (no Dyrect badge)
+ 
+User role management
+ 
+Priority Support
+Add-ons available for purchase
+Unique QR Codes
+Additional licenses
+Additional Brands
+Dealer Portal
+Contact Us
+Enterprise
+Our Enterprise Plan offers tailored solutions, advanced features, and dedicated support to scale your business seamlessly.
+Custom team size
+Tailored for you
+ 
+Everything in Scaleup +
+ 
+Custom integrations
+ 
+Multi-brand management
+ 
+Dedicated account team
+ 
+SLA-backed support
+ 
+Custom contract terms
+Talk to Sales
+See how our plans compare >
+Plan breakdown
+Choose a plan that best suits your business
+Deliver stellar customer experience at every stage of growth.
+Startup
+Growth
+Scaleup
+Enterprise
+Customer Microsite
+Warranty Registration
+ 
+ 
+ 
+ 
+Manage Warranties
+ 
+ 
+ 
+ 
+Claims Management
+ 
+ 
+ 
+ 
+Digital Warranty Card
+Email
+Email / SMS
+Email / SMS / Whatsapp
+ 
+Product Feedback
+ 
+ 
+ 
+ 
+Brand Theme Color (User App)
+ 
+ 
+ 
+ 
+Custom Domain (User App)
+–
+–
+ 
+ 
+"Powered by DYRECT" branding
+ 
+ 
+Removed
+Removed
+Brand Tools
+# Users
+1 user
+3 users
+5 users
+Custom
+Serialization Management
+ 
+ 
+ 
+ 
+Manage Warranties
+ 
+ 
+ 
+ 
+Product Return / Replacement
+ 
+ 
+ 
+ 
+Ticket Management (CRM)
+ 
+ 
+ 
+ 
+Reporting / Analytics
+ 
+ 
+ 
+ 
+User Profile Management
+ 
+ 
+ 
+ 
+Data Export
+ 
+ 
+ 
+ 
+Brand Theme Color (User App)
+ 
+ 
+ 
+ 
+Others
+Business User Logins
+1 user
+3 users included
+5 users included
+Custom
+API Integrations
+–
+–
+ 
+ 
+Support
+Onboarding / Implementation
+Account Executive
+Account Executive
+Dedicated Account Executive
+Dedicated Account Executive
+Post Implementation Support
+Email
+Email
+Email
+Email / Phone
+Ready to get started?
+Contact Us
+Contact Us
+Contact Us
+Talk to Sales
+FAQs
+Frequently asked questions
+Do you offer a free trial?
+ 
+How does Dyrect pricing work?
+ 
+What counts as a registration?
+ 
+Can I switch plans as my business grows?
+ 
+Is the Shopify integration included in all plans?
+ 
+Are QR codes included in the base plan?
+ 
+How many users can I add to my account?
+ 
+What does onboarding look like?
+ 
+Do you offer custom pricing for high volumes?
+ 
+What support do I get after going live?
+ 
+Never lose a customer again
+Trusted by 500+ brands globally. We help brands collect first-party data and provide engaging post-purchase experiences.
+Request a Demo

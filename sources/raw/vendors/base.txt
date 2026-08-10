@@ -1,0 +1,3552 @@
+===== llms.txt :: https://base.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Base.com
+
+> Base.com to zintegrowany system e-commerce do zarządzania sprzedażą wielokanałową (omnichannel), stworzony do automatyzacji i skalowania biznesu e-commerce. Łączymy kluczowe procesy operacyjne w jednym systemie: zarządzanie zamówieniami (OMS), produktami (PIM) i magazynem (WMS), przesyłkami, księgowością (ERP).
+
+Najlepszy system do zarządzania e-commerce i kropka.
+
+# Strona główna
+- https://base.com/pl-PL/home/
+
+# Inne wersje językowe strony głównej
+- https://base.com/en-GB/home/ (język angielski - Wielka Brytania)
+- https://base.com/en-US/home/ (język angielski - USA Stany Zjednoczone)
+- https://base.com/en-IN/home/ (język angielski - Indie)
+- https://base.com/cs-CZ/home/ (język czeski - Czechy)
+- https://base.com/de-DE/home/ (język niemiecki - Niemcy)
+- https://base.com/el-GR/home/ (język grecki - Grecja)
+- https://base.com/es-AR/home/ (język hiszpański - Argentyna)
+- https://base.com/es-MX/home/ (język hiszpański - Meksyk)
+- https://base.com/fr-FR/home/ (język francuski - Francja)
+- https://base.com/pt-BR/home/ (język portugalski - Brazylia)
+- https://base.com/ro-RO/home/ (język rumuński - Rumunia)
+- https://base.com/zh-CN/home/ (język chiński - Chiny)
+
+# Blog
+- https://base.com/pl-PL/blog/: Źródło wiedzy o e-commerce, artykuły ekspertów na temat strategii, logistyki, marketingu i trendów rynkowych.
+
+# Inne wersje językowe bloga
+- https://base.com/en-EN/blog/?mo=US (język angielski - USA Stany Zjednoczone)
+- https://base.com/en-EN/blog/?mo=UK (język angielski - Wielka Brytania)
+- https://base.com/en-EN/blog/?mo=IN (język angielski - Indie)
+- https://base.com/cs-CZ/blog/ (język czeski - Czechy)
+- https://base.com/ro-RO/blog/ (język rumuński - Rumunia)
+- https://base.com/pt-BR/blog/ (język portugalski - Brazylia)
+- https://base.com/de-DE/blog/ (język niemiecki - Niemcy)
+- https://base.com/fr-FR/blog/ (język francuski - Francja)
+
+# Darmowa wersja próbna
+- https://base.com/pl-PL/rejestracja/: Załóż konto i zacznij automatyzować sprzedaż przez 14 dni za darmo. Bez zobowiązań i bez karty kredytowej.
+
+# Kluczowe możliwości systemu:
+- Centralne zarządzanie zamówieniami ze wszystkich kanałów sprzedaży (OMS)
+- Synchronizacja stanów magazynowych w czasie rzeczywistym (WMS)
+- Centralna baza danych o produktach (PIM)
+- Integracje z systemami księgowymi i ERP
+- Masowe zarządzanie ofertami na ponad 300 platformach marketplace
+- Tworzenie zaawansowanych reguł automatyzujących procesy
+- Automatyczne dostosowywanie cen na marketplace (Repricing)
+- Wykorzystanie AI do generowania opisów, tłumaczeń i obsługi klienta
+
+---
+
+# Moduły Systemu
+
+## System zarządzania zamówieniami (OMS)
+Tytuł: System zarządzania zamówieniami (OMS)
+URL: https://base.com/pl-PL/funkcje/zamowienia/
+Podsumowanie: Moduł agreguje zamówienia ze wszystkich kanałów sprzedaży w jednym panelu. Automatyzuje kluczowe procesy, w tym nadawanie paczek, drukowanie etykiet, fakturowanie oraz komunikację z klientem. System minimalizuje też ryzyko pomyłek przy kompletacji dzięki Asystentowi Pakowania.
+Tagi: oms, zarządzanie zamówieniami, zarządzanie sprzedażą internetową, automatyzacja zamówień, manager sprzedaży internetowej
+Najczęstsze zapytania: ["jak zarządzać zamówieniami z allegro i sklepu w jednym miejscu?", "program do automatycznej obsługi zamówień"]
+
+## System zarządzania magazynem (WMS)
+Tytuł: System zarządzania magazynem (WMS)
+URL: https://base.com/pl-PL/funkcje/magazyn/
+Podsumowanie: Moduł synchronizuje stany magazynowe w czasie rzeczywistym we wszystkich kanałach sprzedaży, eliminując ryzyko sprzedaży niedostępnych produktów. System optymalizuje procesy takie jak przyjęcia towaru, kompletacja zamówień i inwentaryzacja, wykorzystując aplikację mobilną i skanery.
+Tagi: wms, system zarządzania magazynem, stany magazynowe, gospodarka magazynowa
+Najczęstsze zapytania: ["jak uniknąć sprzedaży produktu, którego nie ma na stanie", "program do optymalizacji pracy magazynu"]
+
+## System zarządzania informacją o produkcie (PIM)
+Tytuł: System zarządzania informacją o produkcie (PIM)
+URL: https://base.com/pl-PL/funkcje/produkty/
+Podsumowanie: Moduł pozwala na centralne zarządzanie wszystkimi danymi produktowymi – opisami, zdjęciami, atrybutami, kodami EAN – w jednym miejscu. Umożliwia masowe operacje na tysiącach produktów i automatyczną synchronizację na wszystkich kanałach sprzedaży.
+Tagi: pim, zarządzanie produktami, dane produktowe, product information management, centralizacja danych produktowych
+Najczęstsze zapytania: ["jak masowo zarządzać produktami na marketplace", "centralna baza produktów dla e-commerce"]
+
+## Zarządzanie księgowością i rozliczeniami (ERP)
+Tytuł: Zarządzanie księgowością i rozliczeniami (ERP)
+URL: https://base.com/pl-PL/funkcje/ksiegowosc/
+Podsumowanie: Moduł w pełni automatyzuje procesy fakturowania i rozliczeń, eliminując ręczną pracę i ryzyko pomyłek. System masowo generuje wszystkie niezbędne dokumenty sprzedażowe (faktury, e-paragony, korekty), porządkuje je w jednym, przejrzystym rejestrze i zapewnia dwukierunkową synchronizację z popularnymi systemami ERP oraz programami księgowości online.
+Tagi: księgowość e-commerce, integracje erp, fakturowanie, automatyzacja księgowości, rozliczenia
+Najczęstsze zapytania: ["jak zautomatyzować fakturowanie w sklepie internetowym?", "program do automatyzacji księgowości"]
+
+---
+
+# Ekosystem Base.com
+
+- **Super Merchant**: Kompleksowa usługa obsługi sprzedaży produktów klienta na ponad 50 zagranicznych marketplace'ach. URL: https://supermerchant.base.com/
+- **Responso**: Narzędzie do zarządzania komunikacją z klientami z wielu kanałów (m.in. Allegro, Amazon, e-mail) w jednym miejscu. URL: https://responso.com/pl/
+- **Base Analytics**: Narzędzie analityczne dostarczające przejrzyste raporty i statystyki dotyczące sprzedaży, pomagające identyfikować najlepiej sprzedające się produkty. URL: https://base.com/pl-PL/funkcje/base-analytics/
+- **Base Connect**: Platforma B2B umożliwiająca automatyczną wymianę danych (o produktach, zamówieniach, przesyłkach) pomiędzy różnymi użytkownikami systemu. URL: https://base.com/pl-PL/funkcje/base-connect/
+- **Base Store**: Oficjalny sklep z urządzeniami dla e-commerce, takimi jak skanery kodów, drukarki etykiet czy kolektory danych, w pełni kompatybilnymi z systemem. URL: https://base.store/
+- **Base Courier**: Platforma logistyczna do nadawania paczek i palet w kraju i za granicą bez konieczności podpisywania umów z kurierami. URL: https://basecourier.com/
+
+---
+
+# Integracje
+Główna strona z integracjami: https://base.com/pl-PL/integracje/
+## TOP 10 integracji Marketplace dla Polski
+Allegro, Amazon, eBay, Temu, eMAG, InPost Von Halsky, Pigu Hobby Hall Group, AliExpress, Fyndiq, CDON i wiele więcej
+
+## TOP 10 integracji Sklepy internetowe dla Polski
+wooCommerce, PrestaShop, IdoSell, Shopify App, Magento / Adobe Commerce, Shoper, shopGold, SkyShop, RedCart, Comarch e-Sklep i wiele więcej
+
+## TOP 10 integracji Firmy wysyłkowe (Kurierzy) dla Polski
+Base Courier (BLPaczka), Poczta Polska, UPS, Wysyłam z Allegro, DHL, GLS, DPD, eMag AWB, FedEx, ORLEN Paczka i wiele więcej
+
+## TOP 10 integracji Systemy księgowe / ERP dla Polski
+Comarch Optima, Subiekt GT, wFirma.pl, Firmao.pl, Subiekt NEXO PRO, iFirma.pl, inFakt.pl, Comarch Altum, Fakturownia.pl, InvoiceOcean i wiele więcej
+
+## TOP 10 integracji Hurtownie dla Polski
+Incom Group, Asbis Poland, Inter Cars, Auto Partner, AnnaPOL, Biaks, Butosklep.pl, Ecarla, Gimmik, Handlosfera i wiele więcej
+
+## TOP 10 integracji Fulfillment dla Polski
+Amazon FBA Fulfillment, Americanas fulfillment, Cargo-Partner, Cirro Fulfillment, Completio, Cubbo Fulfillment, Dafiti Fulfillment, Dextrum, DHL Fulfillment, DP World i wiele więcej
+
+## TOP 10 integracji Aplikacje SMS dla Polski
+BulkGate, ClickSend.com, GoSMS.eu, MSG91.com, NewsMAN.com, sendSMS.ro, SerwerSMS.pl, sms77.io, SMSAPI, SMSLink.ro i wiele więcej
+
+## TOP 10 integracji Systemy WMS dla Polski
+Anteeo WMS, Asseco Business Solutions WMS, Blue Yonder WMS, Consafe WMS, Epicor WMS, HKK Group WMS, IBCS Poland WMS, IBM WMS, Infor WMS, Logifact WMS i wiele więcej
+
+## TOP 10 integracji Systemy PIM dla Polski
+Akeneo, Ergonode, Inriver, Pimcore, Product Loader
+## TOP 10 integracji Marketplace dla Wielkiej Brytanii
+Amazon, eBay, Etsy, Temu, ManoMano, B&Q, Wish, Allegro, Google Merchant Center, Arena.pl i wiele więcej
+
+## TOP 10 integracji Sklepy internetowe dla Wielkiej Brytanii
+wooCommerce, Magento / Adobe Commerce, Squarespace, OpenCart, Ecwid, Wix.com, eSklep, shopGold, 2ClickShop, bagy i wiele więcej
+
+## TOP 10 integracji Firmy wysyłkowe (Kurierzy) dla Wielkiej Brytanii
+Royal Mail API, Royal Mail Click&Drop, Evri (Hermes UK), ShipStation, UPS, Yodel, ParcelHub, Parcel2Go, APC Overnight, DHL i wiele więcej
+
+## TOP 10 integracji Systemy księgowe / ERP dla Wielkiej Brytanii
+QuickBooks, FreeAgent, Xero, InvoiceOcean, BitFactura.com, Fakturownia.pl, VosFactures.fr, wFirma.pl, Firmao.pl, iFirma.pl i wiele więcej
+
+## TOP 10 integracji Hurtownie dla Wielkiej Brytanii
+AnnaPOL, Butosklep.pl, Ecarla, Holland & Barrett, INNPRO, Nattec, Neneko, Parrish - Odzież dla kobiet, Tayma.pl, VIVA B2B i wiele więcej
+
+## TOP 10 integracji Fulfillment dla Wielkiej Brytanii
+Amazon FBA Fulfillment, Americanas fulfillment, Cargo-Partner, Cirro Fulfillment, Completio, Cubbo Fulfillment, Dafiti Fulfillment, Dextrum, DHL Fulfillment, DP World i wiele więcej
+
+## TOP 10 integracji Aplikacje SMS dla Wielkiej Brytanii
+BulkGate, ClickSend.com, GoSMS.eu, MSG91.com, NewsMAN.com, sendSMS.ro, SerwerSMS.pl, sms77.io, SMSAPI, SMSLink.ro i wiele więcej
+
+## TOP 10 integracji Systemy WMS dla Wielkiej Brytanii
+Anteeo WMS, Asseco Business Solutions WMS, Blue Yonder WMS, Consafe WMS, Epicor WMS, HKK Group WMS, IBCS Poland WMS, IBM WMS, Infor WMS, Logifact WMS i wiele więcej
+
+## TOP 10 integracji Systemy PIM dla Wielkiej Brytanii
+Akeneo, Ergonode, Inriver, Pimcore, Product Loader
+## TOP 10 integracji Marketplace dla Stanów Zjednoczonych
+Amazon, eBay, Etsy, Reverb, Wish, Bonanza, Amazon Vendor, Google Merchant Center, Kroger, Macy's i wiele więcej
+
+## TOP 10 integracji Sklepy internetowe dla Stanów Zjednoczonych
+Wix.com, Squarespace, Ecwid, wooCommerce, Magento / Adobe Commerce, Shoper, shopGold, 2ClickShop, bagy, Best.net Extreme Commerce i wiele więcej
+
+## TOP 10 integracji Firmy wysyłkowe (Kurierzy) dla Stanów Zjednoczonych
+ShipStation, USPS by EasyPost, UPS, Amazon Buy Shipping, Amazon Shipping, DHL, TNT, Royal Mail API, Royal Mail Click&Drop, Spring i wiele więcej
+
+## TOP 10 integracji Systemy księgowe / ERP dla Stanów Zjednoczonych
+QuickBooks, MICROSOFT DYNAMICS NAV, SAGE 50, Xero, Symfonia Handel, FreeAgent, odoo.com, BitFactura.com, InvoiceOcean, VosFactures.fr i wiele więcej
+
+## TOP 10 integracji Hurtownie dla Stanów Zjednoczonych
+AnnaPOL, Butosklep.pl, Ecarla, Holland & Barrett, INNPRO, Nattec, Neneko, Parrish - Odzież dla kobiet, Tayma.pl, VIVA B2B i wiele więcej
+
+## TOP 10 integracji Fulfillment dla Stanów Zjednoczonych
+Amazon FBA Fulfillment, Americanas fulfillment, Cargo-Partner, Cirro Fulfillment, Completio, Cubbo Fulfillment, Dafiti Fulfillment, Dextrum, DHL Fulfillment, DP World i wiele więcej
+
+## TOP 10 integracji Aplikacje SMS dla Stanów Zjednoczonych
+BulkGate, ClickSend.com, GoSMS.eu, MSG91.com, NewsMAN.com, sendSMS.ro, SerwerSMS.pl, sms77.io, SMSAPI, SMSLink.ro i wiele więcej
+
+## TOP 10 integracji Systemy WMS dla Stanów Zjednoczonych
+Anteeo WMS, Asseco Business Solutions WMS, Blue Yonder WMS, Consafe WMS, Epicor WMS, HKK Group WMS, IBCS Poland WMS, IBM WMS, Infor WMS, Logifact WMS i wiele więcej
+
+## TOP 10 integracji Systemy PIM dla Stanów Zjednoczonych
+Akeneo, Ergonode, Inriver, Pimcore, Product Loader
+## TOP 10 integracji Marketplace dla Indii
+Flipkart, Amazon, Amazon Vendor, Myntra, eBay, Etsy, Bonanza, 1-800-Flowers.com, 99 Food, AboutYou i wiele więcej
+
+## TOP 10 integracji Sklepy internetowe dla Indii
+wooCommerce, Wix.com, BigCommerce, PrestaShop, Squarespace, Ecwid, OpenCart, 2ClickShop, bagy, BizBox i wiele więcej
+
+## TOP 10 integracji Firmy wysyłkowe (Kurierzy) dla Indii
+Shiprocket, Amazon Seller Flex, Delhivery, Blue Dart, Shadowfax, Shipyaari, eShipz, Clickpost, ShipGlobal, DTDC i wiele więcej
+
+## TOP 10 integracji Systemy księgowe / ERP dla Indii
+TallyPrime, Microsoft Dynamics 365 Business Central, MICROSOFT DYNAMICS NAV, odoo.com, Xero, QuickBooks, Bling, Eccosys, FreeAgent, FreshBooks i wiele więcej
+
+## TOP 10 integracji Hurtownie dla Indii
+AnnaPOL, Biaks, Butosklep.pl, Ecarla, Gimmik, Handlosfera, Hanipol, Holland & Barrett, Hurtowniamultistore.pl, Ikonka i wiele więcej
+
+## TOP 10 integracji Fulfillment dla Indii
+Amazon FBA Fulfillment, Americanas fulfillment, Cargo-Partner, Cirro Fulfillment, Completio, Cubbo Fulfillment, Dafiti Fulfillment, Dextrum, DHL Fulfillment, DP World i wiele więcej
+
+## TOP 10 integracji Aplikacje SMS dla Indii
+BulkGate, ClickSend.com, GoSMS.eu, MSG91.com, NewsMAN.com, sendSMS.ro, SerwerSMS.pl, sms77.io, SMSAPI, SMSLink.ro i wiele więcej
+
+## TOP 10 integracji Systemy WMS dla Indii
+Anteeo WMS, Asseco Business Solutions WMS, Blue Yonder WMS, Consafe WMS, Epicor WMS, HKK Group WMS, IBCS Poland WMS, IBM WMS, Infor WMS, Logifact WMS i wiele więcej
+
+## TOP 10 integracji Systemy PIM dla Indii
+Akeneo, Ergonode, Inriver, Pimcore, Product Loader
+## TOP 10 integracji Marketplace dla Niemiec
+Amazon, eBay, Kaufland, Otto Market, OBI Marketplace, Shop Apotheke, Temu, Etsy, AboutYou, Leroy Merlin i wiele więcej
+
+## TOP 10 integracji Sklepy internetowe dla Niemiec
+Shopify App, Shopware, wooCommerce, PrestaShop, Squarespace, Wix.com, WebFlow, Magento / Adobe Commerce, OpenCart, osCommerce i wiele więcej
+
+## TOP 10 integracji Firmy wysyłkowe (Kurierzy) dla Niemiec
+Deutsche Post, DHL, GLS, DPD, Hermes DE, Orange Connex, Uber Direct, DB Schenker (new), Dachser, Rhenus Freight i wiele więcej
+
+## TOP 10 integracji Systemy księgowe / ERP dla Niemiec
+QuickBooks, Xero, InvoiceOcean, BitFactur
+
+===== homepage :: https://base.com/en-US/home/
+--- SIGNALS ---
+title: Base.com - Commerce Process Orchestration and Operations Platform
+meta_description: If you are looking for a tool to integrate e-commerce and sales management, try Base.com. Enjoy automatic order processing & bulk listing features and over 2000 integrations: Amazon, eBay, OnBuy, Etsy, BigCommerce, WooCommerce, Shopify, Magento, Royal Mail and many more.
+og_description: If you are looking for a tool to integrate e-commerce and sales management, try Base.com. Enjoy automatic order processing & bulk listing features and over 2000 integrations: Amazon, eBay, OnBuy, Etsy, BigCommerce, WooCommerce, Shopify, Magento, Royal Mail and many more.
+og_site_name: Base.com
+h1: The best tool to manage e-commerce marketplaces orders shipments e-commerce in one place
+h2: One Platform. Endless Benefits. | What can Base.com do for you? | Marketplace | Online shop | Shipping carrier | Others | Order Manager expand collapse | Product Manager expand collapse | Marketplace Manager expand collapse | Shipping management expand collapse | Workflow automation expand collapse | Base Connect expand collapse | Price automation (Repricing) expand collapse | AI for e-commerce expand collapse | Try all features and integrations free for 14 days
+jsonld_org: [{"@type": "Organization", "@id": "https://base.com/en-US/home/#organization", "name": "Base.com", "legalName": "Base.com Inc.", "url": "https://base.com/en-US/home/", "logo": "https://base.com/assets/images/logo.jpg", "location": [{"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "3120 139th Avenue Southeast, Suite 500", "addressLocality": "Bellevue", "postalCode": "98005", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 47.58353, "longitude": -122.15407}}], "sameAs": ["https://www.facebook.com/BaseLinker", "https://www.linkedin.com/company/basecom-global", "https://www.youtube.com/channel/UCfghb0LSyeQi2T3DOSrvh7A"]}]
+--- TEXT ---
+Base.com - Commerce Process Orchestration and Operations Platform 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Base.com
+ 
+ 
+ 
+ 
+ 
+Functions 
+Functions overview
+Order Manager
+Sales from all channels
+Marketplace Manager
+Listing and synchronizing offers
+Product Manager
+Warehouses, suppliers and documents
+Price automation
+Repricing for marketplaces
+WMS
+Warehouse Management System
+ERP
+Sync orders, stock and invoices
+Shipping management
+Sending, printing, tracking
+Workflow automation
+Automatic actions
+Base Connect
+Easy B2B collaboration
+AI for e-commerce
+Artificial Intelligence for stores
+Base Analytics
+Automated analytics & reporting
+Solutions 
+Company size
+For e-commerce startups
+Plan Freemium
+For growing businesses
+Plan Business
+For large e-commerce
+Plan Enterprise
+Industry
+Home & Garden
+Children’s Products
+Electronics
+Automotive Parts
+Supermarket
+Health & Beauty
+Fashion
+Integrations
+Pricing
+More 
+Education
+Help
+Base.com step by step
+Academy
+Authorized courses
+Blog
+more articles
+Services
+Base for Shopify pricing
+System implementations
+Optimize e‑commerce processes for your business
+Account audit
+Optimize your Base account
+Other
+Benefits calculator
+Project sales growth and costs savings
+Partner Program
+Grow Your Ecosystem with Base.com
+Base Partner Directory
+Find an e-commerce expert
+Contact
+ 
+ 
+ 
+ 
+ 
+english (US)
+ 
+ 
+ 
+ 
+ 
+english (US)
+english (GB)
+english (IN)
+čeština
+deutsch
+Ελληνικά
+español (AR)
+español (MX)
+Français
+Italiano
+polski
+português (BR)
+română
+中文
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+Try it for free
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+Try it for free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The best tool to 
+manage 
+ 
+e-commerce
+ 
+marketplaces
+ 
+orders
+ 
+shipments
+ 
+e-commerce
+ 
+ 
+in one place 
+ 
+ 
+For small businesses, startups, 
+and large corporations.
+ 
+ 
+Try it for free
+Calculate impact
+ 
+ 
+No credit card required
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Order
+ 
+75925883
+ 
+75925882
+ 
+75925881
+ 
+75925880
+ 
+75925879
+ 
+75925878
+ 
+75925877
+ 
+75925876
+ 
+75925875
+ 
+ 
+ 
+Buyer
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Status
+ 
+ 
+ 
+ 
+ 
+New
+ 
+ 
+ 
+ 
+To pack
+ 
+Packed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+New
+ 
+ 
+ 
+ 
+To pack
+ 
+Packed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+New
+ 
+ 
+ 
+ 
+To pack
+ 
+Packed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+New
+ 
+ 
+ 
+ 
+To pack
+ 
+Packed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+New
+ 
+ 
+ 
+ 
+To pack
+ 
+Packed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+New
+ 
+ 
+ 
+ 
+To pack
+ 
+Packed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+New
+ 
+ 
+ 
+ 
+To pack
+ 
+Packed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+New
+ 
+ 
+ 
+ 
+To pack
+ 
+Packed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+New
+ 
+ 
+ 
+ 
+To pack
+ 
+Packed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date
+ 
+23.04
+ 
+23.04
+ 
+23.04
+ 
+22.04
+ 
+22.04
+ 
+21.04
+ 
+21.04
+ 
+21.04
+ 
+20.04
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On the way
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Handed over to the courier
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On the way
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On the way
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Handed over to the courier
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On the way
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On the way
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On the way
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On the way
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Choose from over 
+2000 integrations
+:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+One Platform. Endless Benefits.
+ 
+ 
+ 
+ 
+Icon 1
+ 
+Integrations you need
+ 
+Choose from our vast integrations catalog to fit your business needs. One platform connects you to popular marketplaces, stores, carriers and accounting systems.
+ 
+See more
+ 
+ 
+ 
+ 
+ 
+Icon 3
+ 
+Management from one place
+ 
+No more logging in separately to different websites. Manage your orders across all your sales channels in one platform. Issue Invoices, print labels, and send packages all from Base.
+ 
+See more
+ 
+ 
+ 
+ 
+ 
+Icon 1
+ 
+Full stock and price sync
+ 
+Sync your warehouse to your sales channels and automatically update stock quantity and price in real time. Close offers when stock reaches zero, and automatically relist offers when products are restocked.
+ 
+See more
+ 
+ 
+ 
+ 
+ 
+Icon 1
+ 
+Time saving
+ 
+Save time by bulk listing and editing thousands of marketplace offers in minutes! Use the Pick&Pack Assistant to facilitate fast and accurate order processing in your warehouse.
+ 
+See more
+ 
+ 
+ 
+ 
+ 
+Icon 1
+ 
+Process orchestration and automation
+ 
+You can automatically send emails to customers, create packages, print labels, and issue invoices by using Automatic Actions, giving you more time to expand your business.
+ 
+See more
+ 
+ 
+ 
+ 
+ 
+What can Base.com 
+do for you?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See Base.com in action
+ 
+See how Base unifies your entire ecommerce stack into one powerful platform. Get a personalized demo of order management, inventory sync, automation workflows, and 1700+ integrations. No commitment required.
+ 
+Book a demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+Mix and Match popular sales channels and e-commerce tools to expand your business, all from one place!
+ 
+See all
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketplace
+ 
+ 
+ 
+ 
+See all (409)
+ 
+ 
+ 
+Online shop
+ 
+ 
+ 
+ 
+See all (91)
+ 
+ 
+ 
+Shipping carrier
+ 
+ 
+ 
+ 
+See all (381)
+ 
+ 
+ 
+Others
+ 
+ 
+ 
+ 
+See all (1135)
+ 
+ 
+ 
+ 
+ 
+ 
+Use either one or multiple features
+ 
+ 
+ 
+ 
+Order
+Manager
+ 
+Product
+Manager
+ 
+Marketplace
+Manager
+ 
+Shipping
+management
+ 
+Workflow
+automation
+ 
+Base
+Connect
+ 
+Price automation
+(Repricing)
+ 
+AI for
+e-commerce
+ 
+ 
+ 
+ 
+ 
+ 
+ Order Manager 
+ 
+expand
+ 
+collapse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All sales channels in one place
+ 
+ 
+ 
+ 
+ 
+ 
+Fulfill all your orders in one user-friendly panel, whether they be from a marketplace, online shop, over the phone or in person. Managing your sales has never been this easy!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fulfill orders faster than ever
+ 
+ 
+ 
+ 
+ 
+ 
+Base.com can automate your business processes such as sending messages to customers, changing order statuses, issuing invoices, creating shipments and printing necessary documents.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impress the customer
+ 
+ 
+ 
+ 
+ 
+ 
+The Pick&Pack Assistant ensures you pack every parcel correctly, including sending a photo of the package to the customer. When customers call your business, Base Caller will display their orders on your phone screen.
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Manager 
+ 
+expand
+ 
+collapse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A practical product database
+ 
+ 
+ 
+ 
+ 
+ 
+Manage your product selection and store your data in Base. Manage stocks and prices directly from the Base catalog, or catalog offers from outside your online store.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fast & flexible product import
+ 
+ 
+ 
+ 
+ 
+ 
+Add products into the catalog in multiple ways: importing marketplace or online store offers, with a CSV file, or manually.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+List products on marketplaces right from the Base platform
+ 
+ 
+ 
+ 
+ 
+ 
+The listing form automatically assigns offer templates, shipping settings, categories, and auto-fills product data. List hundreds of offers with only a few clicks!
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Marketplace Manager 
+ 
+expand
+ 
+collapse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rapid listing from any warehouse
+ 
+ 
+ 
+ 
+ 
+ 
+Connect a store, wholesaler, ERP system or use the Base.com warehouse. Take a moment to set up the listing rules to accelerate the process.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manage online sales from one panel
+ 
+ 
+ 
+ 
+ 
+ 
+Whichever marketplace (e.g. Amazon or eBay) you sell on, you can control all offers from one system. Check the offer statuses and edit them in bulk.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No more stock and price discrepancies!
+ 
+ 
+ 
+ 
+ 
+ 
+Base.com ensures automatic stock and price synchronization on multiple marketplace platforms at the same time. It can also close offers for you if the stock or price reaches zero.
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shipping management 
+ 
+expand
+ 
+collapse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The shipping process focused in one place
+ 
+ 
+ 
+ 
+ 
+ 
+We have gathered multiple delivery operators in the system so that you can send shipments from one panel instead of logging in to each carrier's account. You can create shipments one by one, in bulk or set the system to create them automatically!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Keep the customer in touch with the shipment
+ 
+ 
+ 
+ 
+ 
+ 
+No longer need to remember about sending notifications - the system will send an automatic message whenever a package status changes. The customer can also check out the status on the order information page.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enjoy the automation
+ 
+ 
+ 
+ 
+ 
+ 
+Base.com will assist you in forwarding the shipping number to the marketplace and store. In addition, it will print out the shipping labels, e.g. when you mark the order as 'packed'.
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Workflow automation 
+ 
+expand
+ 
+collapse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automatic status changes
+ 
+ 
+ 
+ 
+ 
+ 
+Create custom statuses to help you organize your order list. The automatic action module will move orders between them when the specified event occurs.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reduce the order processing time!
+ 
+ 
+ 
+ 
+ 
+ 
+Use the Pick&Pack Assistant and automatic actions, to significantly decrease the processing time for each package. The system applies a barcode scanner to minimize the manual workload.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Let yourself free from repetitive activities
+ 
+ 
+ 
+ 
+ 
+ 
+Instead of sending messages to customers, issuing invoices, creating shipments or printing labels, focus on expanding your business and your product offer, while the system will perform recurring tasks for you.
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Base Connect 
+ 
+expand
+ 
+collapse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B2B partnerships made easy and fast
+ 
+ 
+ 
+ 
+ 
+ 
+Connect with new customers, suppliers, manufacturers, dropshipping wholesalers or fulfillment service providers who also use Base.com.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Improve order processing performance and customer satisfaction
+ 
+ 
+ 
+ 
+ 
+ 
+Accelerate data exchange with contractors - Base Connect allows you to automatically transfer information about orders, products or shipments to your partners, reducing order processing time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Place wholesale orders in minutes
+ 
+ 
+ 
+ 
+ 
+ 
+Select and order products from the catalog visible in Base Connect, reducing the risk of errors. Track progress of your order in real time.
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Price automation (Repricing) 
+ 
+expand
+ 
+collapse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quickly adjust prices to the market situation
+ 
+ 
+ 
+ 
+ 
+ 
+If prices from other vendors go up or down, the repricing function will automatically adjust your prices for each situation - on your terms.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Save time and resources
+ 
+ 
+ 
+ 
+ 
+ 
+Free up your and your team's time. Set rules to change prices and forget about manually updating each listing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Take care of your pricing and margins
+ 
+ 
+ 
+ 
+ 
+ 
+When others' offers become more expensive or run out of stock, the system will automatically raise the prices of your products and protect your margin.
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI for e-commerce 
+ 
+expand
+ 
+collapse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Speed up your work many times over
+ 
+ 
+ 
+ 
+ 
+ 
+Base.com's AI functions make it easy to modify multiple products or offers at the same time. Instead of making changes one at a time, you can perform them in several hundred places at once and save even weeks of work.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expand cross-border sales
+ 
+ 
+ 
+ 
+ 
+ 
+With Base.com's artificial intelligence, you can easily develop business in new markets. Quickly prepare descriptions in multiple languages, list offers on local platforms and provide service to your customers.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automatically list on marketplaces
+ 
+ 
+ 
+ 
+ 
+ 
+We have developed an innovative AI-based auto-listing module that works for you. Set the rules for the module to follow, and the process will run automatically as soon as new products come into inventory.
+ 
+ 
+ 
+ 
+Learn more
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hubert Szumski 
+ 
+ 
+Samsung
+ 
+ 
+ 
+ 
+ 
+Base.com offers a wide variety of automations that has allowed us to optimize our business and operational processes thus improving our overall efficiency in managing Allegro sales channels.
+ 
+Show more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Marcin Półchłopek 
+ 
+ 
+Allegro
+ 
+ 
+ 
+ 
+ 
+Base.com serves several thousand Allegro merchants, from small businesses to enterprise clients. We have been working with the Base.com system for over a decade and are satisfied with the quality of services and features they offer. 
+ 
+Show more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oana Antohe 
+ 
+ 
+eMAG
+ 
+ 
+ 
+ 
+ 
+Base.com brings together tools and services that help sellers automate their processes, as listing products to eMAG, data synchronization, and other bulk operations, regardless of their company size.
+ 
+Show more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dan Lauer 
+ 
+ 
+Just like Jane
+ 
+ 
+ 
+ 
+ 
+At Just Like Jane, we rely on Base.com to integrate our online store and four marketplaces. From creating listings, to updating inventory and pricing, to syncing orders, it's an essential tool to the daily operation of our brand. Support has been timely: our questions get answered and the rare problems get solved!
+ 
+Show more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Marta Nendza 
+ 
+ 
+Noski Noski
+ 
+ 
+ 
+ 
+ 
+Base.com lets us handle few hundred orders a day - it's quick and convenient. Tens of automatic actions, a dozen or so e-mail templates and printouts, an invoicing tool, orders from the store and marketplace in one place - all this and much more saves us the work of at least a few people in our company. 
+ 
+Show more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anna Matkowska 
+ 
+ 
+Marilyn
+ 
+ 
+ 
+ 
+ 
+We use Base.com mainly for listing and managing offers on various sales portals. The number of integrations with e-commerce platforms is really extensive. Listing offers is very easy, and ready-made templates are clear and professional. Base.com is reliable and easy to use!
+ 
+Show more 
+ 
+ 
+ 
+ 
+ 
+ 
+Try it for free
+ 
+ 
+ 
+You are in good company
+ 
+Over 
+30,000 companies
+ have trusted us with streamlining their e-commerce operations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== product :: https://base.com/en-US/functions/product-manager/
+--- SIGNALS ---
+title: Base PIM - Complete control over product information - Base.com
+meta_description: Manage product information from one place. Base PIM automates descriptions, translations, images and SKUs - supporting online sales across multiple channels.
+og_description: Manage product information from one place. Base PIM automates descriptions, translations, images and SKUs - supporting online sales across multiple channels.
+og_site_name: Base.com
+h1: Manage Product Information – Sell Everywhere
+h2: What Do You Gain from Managing Product Information in Base? | Discover the Capabilities of Base PIM | One Source of Truth – Complete Data Consistency | Channel-Specific Content | Efficient Multi-Channel Sales | Product Tags for Smart Organisation | Predefined Parameters to Eliminate Chaos | Bulk Operations – Thousands of Changes with One Click | Relationships: Supporting Cross-Selling and Up-Selling | Automatic SKU and Multi EAN Generation | Automatic Descriptions with Artificial Intelligence | Professional Translations into Multiple Languages at Once | Automatic Background Removal from Product Photos | Try all features and integrations free for 14 days
+jsonld_org: []
+--- TEXT ---
+Base PIM - Complete control over product information - Base.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Base.com
+ 
+ 
+ 
+ 
+ 
+Functions 
+Functions overview
+Order Manager
+Sales from all channels
+Marketplace Manager
+Listing and synchronizing offers
+Product Manager
+Warehouses, suppliers and documents
+Price automation
+Repricing for marketplaces
+WMS
+Warehouse Management System
+ERP
+Sync orders, stock and invoices
+Shipping management
+Sending, printing, tracking
+Workflow automation
+Automatic actions
+Base Connect
+Easy B2B collaboration
+AI for e-commerce
+Artificial Intelligence for stores
+Base Analytics
+Automated analytics & reporting
+Solutions 
+Company size
+For e-commerce startups
+Plan Freemium
+For growing businesses
+Plan Business
+For large e-commerce
+Plan Enterprise
+Industry
+Home & Garden
+Children’s Products
+Electronics
+Automotive Parts
+Supermarket
+Health & Beauty
+Fashion
+Integrations
+Pricing
+More 
+Education
+Help
+Base.com step by step
+Academy
+Authorized courses
+Blog
+more articles
+Services
+Base for Shopify pricing
+System implementations
+Optimize e‑commerce processes for your business
+Account audit
+Optimize your Base account
+Other
+Benefits calculator
+Project sales growth and costs savings
+Partner Program
+Grow Your Ecosystem with Base.com
+Base Partner Directory
+Find an e-commerce expert
+Contact
+ 
+ 
+ 
+ 
+ 
+english (US)
+ 
+ 
+ 
+ 
+ 
+english (US)
+english (GB)
+english (IN)
+čeština
+deutsch
+Ελληνικά
+español (AR)
+español (MX)
+Français
+Italiano
+polski
+português (BR)
+română
+中文
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+Try it for free
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+Try it for free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Homepage
+Functions
+Product Manager
+ 
+ 
+Manage Product Information – Sell Everywhere
+ 
+Create, organise, synchronise, and eliminate chaos in your product data. Base is your centre for product information management—automated, scalable, and ready for multi-channel sales.
+ 
+ 
+Try it for free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What Do You Gain from Managing Product Information in Base?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Consistency Across the Team
+ Say goodbye to errors caused by scattered information. Base PIM is a single, reliable source of product data—accessible to everyone from marketing to logistics. It streamlines work, reduces the risk of mistakes, and builds customer trust.
+ 
+ 
+ 
+ 
+ 
+Automation of Product Information
+ Import products, images, descriptions, prices, and specifications, or leverage AI to create fresh product descriptions. Additionally, streamline category matching, product parameter alignment, and background removal from images.
+ 
+ 
+ 
+ 
+ 
+Greater Visibility on Marketplaces
+ By tailoring content to each sales channel, your products respond better to customer searches and rank higher. That’s more traffic and higher conversions—without increasing your advertising budget.
+ 
+ 
+ 
+ 
+ 
+Ready for International Expansion
+ Integrated translations and Multi EAN support make it easy to adapt your listings to different market requirements. It’s a real opportunity to enter international sales quickly—without language barriers.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Discover the Capabilities of Base PIM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ One Source of Truth – Complete Data Consistency 
+ 
+ Say goodbye to the chaos of scattered information. With Base, all your product data is in one place. The Product Card Information section is the heart of the Base PIM system, serving as the single, reliable source of up-to-date, complete, and verified product information for everyone in your business. This eliminates the data discrepancies often found in e-commerce businesses using multiple systems. Data consistency not only saves time and reduces errors but also builds trust with your customers and business partners. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channel-Specific Content 
+ 
+ Maximise the potential of every platform with tailored content. Base lets you create separate versions of descriptions, titles, images, and attributes for each sales channel. Each marketplace has its own customer preferences and search algorithms—Amazon’s A9 and eBay’s Cassini, for example, reward unique, platform-specific content that aligns with user searches. Create content that meets the SEO requirements of each marketplace and increases your product’s visibility. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Efficient Multi-Channel Sales 
+ 
+ With Base PIM, listing products across multiple online shops and marketplaces becomes incredibly simple. Instead of manually entering the same information into different systems, you only need to update the data in one place—and the system automatically synchronises it with all connected sales channels. This saves time and minimises the risk of errors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Tags for Smart Organisation 
+ 
+ With tags, you gain full control over how you organise, filter, and automate product management. They offer unlimited flexibility—create them as needed for marketing campaigns, specific sales channels, or product statuses. Tags can trigger automatic actions or act as conditions for sales rules. The system can automatically update prices for all products tagged as “Spring Promotion” or generate descriptions for a new collection. Tags also make it easy to filter products precisely and list them on the right platforms. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Predefined Parameters to Eliminate Chaos 
+ 
+ The predefined parameter system puts an end to messy tables, inconsistencies, and errors when listing products. Instead of randomly defined attributes, you get a standardised structure where each parameter has a specific format and group. This means quick filtering, easy editing, and full compliance with marketplace requirements. Your data is consistent, organised, and ready for bulk use. It simplifies managing even the largest catalogues—you can quickly update information, identify gaps and duplicates, or group products. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bulk Operations – Thousands of Changes with One Click 
+ 
+ Bulk operations are the foundation of efficient management for large product catalogues. Base lets you edit, delete, categorise, change prices, translate, or generate descriptions for thousands of SKUs at once. Create your own operation templates and run them automatically—daily, weekly, or when specific conditions are met. Saved templates can be reused as often as needed, ensuring consistency. It’s a reliable support system for your team. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Relationships: Supporting Cross-Selling and Up-Selling 
+ 
+ Build smart connections in your catalogue. The Relationships section lets you link products into bundles, show alternatives, display compatible parts, or highlight items from the same collection. It’s a great tool for increasing basket value and improving the customer shopping experience. By showing related products, you make purchase decisions easier and boost complementary sales. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Automatic SKU and Multi EAN Generation 
+ 
+ Base automatically generates unique SKUs based on your rules—including categories, variants, brands, and other parameters. The Multi EAN feature solves the issue of products with multiple EANs by allowing several codes for a single product. This is essential when the same item has different identifiers depending on the market or packaging. It’s not only a simplification for logistics and warehousing but also ensures correct product identification in sales systems. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Automatic Descriptions with Artificial Intelligence 
+ 
+ With built-in AI, you can create product descriptions, technical specifications, or listing titles in seconds. The system analyses product data and generates professional, engaging content tailored to your industry, brand voice, and product specifics. You can focus on sales strategy while AI delivers high-quality content that attracts customers and drives conversions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Professional Translations into Multiple Languages at Once 
+ 
+ The integrated DeepL translator in Base lets you translate descriptions, attributes, tags, and other product data into dozens of languages with a single click—preserving industry context. It’s a huge time-saver for companies entering new markets and significantly reduces content localisation costs. With this feature, you can easily build a multilingual catalogue, improve SEO, and boost sales across multiple countries simultaneously. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Automatic Background Removal from Product Photos 
+ 
+ Base automatically removes backgrounds from product photos, preparing them to meet the requirements of marketplaces like eBay and Amazon. There’s no need for a graphic designer or specialised tools—everything happens automatically. This feature improves the visual presentation of products and reduces the risk of listings being rejected due to incorrect image formatting. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Base.com is not just Product Manager
+ 
+Base.com offers you complex sales management. In addition to the Product Manager, we also offer you access to a warehouse, where you can create a product database, a panel for bulk offer listing, and the ability to integrate your store with marketplace platforms.
+ 
+Functions overview
+Order Manager
+Marketplace Manager
+Price automation
+WMS
+ERP
+Shipping management
+Workflow automation
+Base Connect
+AI for e-commerce
+Base Analytics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Try all features and integrations free for 14 days
+ 
+Try it for free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Functions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Functions overview
+Order Manager
+Marketplace Manager
+Product Manager
+Price automation
+WMS
+ERP
+Shipping management
+Workflow automation
+Base Connect
+AI for e-commerce
+Base Analytics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amazon
+eBay
+Etsy
+Google Merchant Center
+Shopify App
+wooCommerce
+BigCommerce
+Magento / Adobe Commerce
+UPS
+FedEx
+TNT
+DHL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact
+Help
+FAQ
+Reviews
+System implementations
+Cooperation and partners
+Base Partner Directory
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's new? 
+ 
+ 
+ 
+How to connect Odoo to Base: full integration setup guide
+2026-08-07
+What Is ERP Integration? Types, Benefits and How It Works
+2026-08-06
+AI in Base #3: AI Assistant — get help in the Base panel before raising a ticket
+2026-08-04
+NDR Management for Indian D2C Brands: How to Recover Failed COD Deliveries Before They Become RTOs
+2026-07-22
+Read more – Base Blog
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+english (US)
+english (GB)
+english (IN)
+čeština
+deutsch
+Ελληνικά
+español (AR)
+español (MX)
+Français
+Italiano
+polski
+português (BR)
+română
+中文
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terms of Use
+Security and privacy policy
+ 
+ 
+ 
+ 2026 
+Base.com
+, Integration of e-commerce systems
+
+===== pricing_or_trust :: https://base.com/en-US/pricing/
+--- SIGNALS ---
+title: Pricing - Base.com
+meta_description: Check the Base.com pricing. Subscription always paid in arrears based on the number of active offers and completed orders. Test for 14 days for free!
+og_description: Check the Base.com pricing. Subscription always paid in arrears based on the number of active offers and completed orders. Test for 14 days for free!
+og_site_name: Base.com
+h1: Welcome to the Base.com ecosystem
+h2: Unlimited integrations | Marketplace Manager | Order Manager | Shipping management | Workflow automation | Product warehouse | Online access from any device | Team profiles | Try all features and integrations free for 14 days
+jsonld_org: []
+--- TEXT ---
+Pricing - Base.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Base.com
+ 
+ 
+ 
+ 
+ 
+Functions 
+Functions overview
+Order Manager
+Sales from all channels
+Marketplace Manager
+Listing and synchronizing offers
+Product Manager
+Warehouses, suppliers and documents
+Price automation
+Repricing for marketplaces
+WMS
+Warehouse Management System
+ERP
+Sync orders, stock and invoices
+Shipping management
+Sending, printing, tracking
+Workflow automation
+Automatic actions
+Base Connect
+Easy B2B collaboration
+AI for e-commerce
+Artificial Intelligence for stores
+Base Analytics
+Automated analytics & reporting
+Solutions 
+Company size
+For e-commerce startups
+Plan Freemium
+For growing businesses
+Plan Business
+For large e-commerce
+Plan Enterprise
+Industry
+Home & Garden
+Children’s Products
+Electronics
+Automotive Parts
+Supermarket
+Health & Beauty
+Fashion
+Integrations
+Pricing
+More 
+Education
+Help
+Base.com step by step
+Academy
+Authorized courses
+Blog
+more articles
+Services
+Base for Shopify pricing
+System implementations
+Optimize e‑commerce processes for your business
+Account audit
+Optimize your Base account
+Other
+Benefits calculator
+Project sales growth and costs savings
+Partner Program
+Grow Your Ecosystem with Base.com
+Base Partner Directory
+Find an e-commerce expert
+Contact
+ 
+ 
+ 
+ 
+ 
+english (US)
+ 
+ 
+ 
+ 
+ 
+english (US)
+english (GB)
+english (IN)
+čeština
+deutsch
+Ελληνικά
+español (AR)
+español (MX)
+Français
+Italiano
+polski
+português (BR)
+română
+中文
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+Try it for free
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+Try it for free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Homepage
+Pricing
+ 
+ Welcome to the Base.com ecosystem 
+ 
+ Free 14-day full access trial 
+ 
+ 
+ 
+ 
+Set the slider to your estimated monthly orders to estimate your pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Freemium 
+ 
+ 
+New Businesses & Ecommerce Part‑Timers
+ 
+ 
+ 
+ 
+$
+ 
+0
+ 
+ 
+ 
+/per month
+ 
+ 
+ max 100 orders/per month 
+ 
+ 
+Start free trial
+ 
+ 
+ 
+Plan details
+ 
+ 
+Includes:
+ 
+ 
+Unlimited 
+Integrations
+ 
+Up to 1000 
+products
+ 
+3 team 
+profiles
+ 
+Orders, Stocks & Prices - 1 hour 
+sync
+ 
+Data Retention - 6 
+months
+ 
+AI 
+Functionalities
+ 
+Multichannel 
+Listing
+ 
+Inventory and invoicing management (ERP + WMS + 
+PIM)
+ 
+Purchase 
+Orders
+ 
+Pick&Pack 
+Assistant
+ 
+Base.com apps: Printer & 
+Caller
+ 
+Easy B2B data sharing (Base 
+Connect)
+ 
+Developer 
+API
+ 
+Base.com ecosystem 
+benefits
+ 
+ 
+hide details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business 
+ 
+RECOMENDED
+ 
+ 
+SMEs & Ecommerce Professionals
+ 
+ 
+ 
+ 
+$
+ 
+99
+ 
+ 
+ 
+/per month
+ 
+ 
+ 
+for 
+1000
+ orders/per month
+ 
+$ 
+99
+ 
+ of fixed fee
+ 
++ 
+$ 
+0.49
+ 
+/order
+ 
+ 
+ 
+ 
+Start free trial
+ 
+ 
+ 
+Plan details
+ 
+ 
+Everything in Freemium, plus:
+ 
+ 
+Unlimited number of 
+Products/Offers
+ 
+Unlimited number of team 
+profiles
+ 
+Real time Orders, Stock & Prices 
+sync
+ 
+Data Retention - 24 
+months
+ 
+Extended AI 
+Functionalities
+ 
+Priority Support 
+24/7
+ 
+Access to 
+Boosts
+ 
+Repricer for marketplace 
+platforms
+ 
+B2B data exchange through Base Connect 
+module
+ 
+ 
+hide details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise 
+ 
+ 
+High Volume Sellers, Retailers & Manufacturers
+ 
+ 
+ 
+Individual offer
+ 
+ 
+ 
+ over 5k orders or $300K GMV per month 
+ 
+ 
+Learn more
+ 
+ 
+ 
+Plan details
+ 
+ 
+Everything in Business, plus:
+ 
+ 
+Enterprise 
+Infrastructure
+ 
+Enterprise Uptime 
+SLA
+ 
+Unlimited Max Data 
+Storage
+ 
+Custom Data 
+Retention
+ 
+Dedicated Technical 
+Expert
+ 
+24/7 Support Hotline 
+(Multi-language)
+ 
+API 
+Support
+ 
+Unlimited AI 
+Functionalities
+ 
+All Boosts 
+Included
+ 
+Custom integrations and system 
+adjustments
+ 
+Extended Repricer for marketplace 
+platforms
+ 
+ 
+hide details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The rates shown in the price list are net amounts 
+ 
+ 
+ 
+ 
+ 
+The subscription includes
+ 
+applies to all subscription plans
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unlimited integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+over 2000 e-commerce integrations (including marketplace platforms, online stores, carriers and many more)
+access to all integrations from one panel without having to log in to each account separately
+ability to integrate any number of systems in any configuration
+all integrations available during the free trial period and then at subscription price (does not apply to wholesale integrations outside of Base Connect)
+no restrictions to the number of accounts connected even within the same marketplace or carrier
+See the range of integrations Base.com has to offer
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketplace Manager
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+list products from any warehouse (store, wholesaler, ERP or Base.com warehouse)
+quick listing tools (including parameter auto-fill, offer templates, shipping templates and category links)
+list product variants 
+bulk operations on multiple offers at the same time
+forward orders from marketplace to store and ERP
+automatic stock synchronization between marketplace platforms and product warehouse
+ability to automatically close out of stock offers
+automatic offer price synchronization with prices in the main warehouse
+ability to automatically close zero-price offers
+Explore the other functions of the Marketplace Manager 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Order Manager
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+managing orders from marketplaces, stores, placed by phone or in person
+fast order processing thanks to automatic actions
+automatic forwarding of dropshipping orders (for wholesalers)
+ability to forward orders to the store and ERP
+Pick&Pack Assistant support (packing error warnings, taking photo of the shipment)
+shipping packages (one by one, in bulk, automatically)
+issuing invoices, proforma's, corrections and receipts as well as forwarding to online accounting systems
+automatic email and SMS notifications to customers and a unique order information page
+phone app displaying orders for the calling customer
+Explore the other Order Manager functions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shipping management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+instant access to multiple courier integrations
+shipping packages (one by one, in bulk, automatically)
+ordering a pick-up
+forwarding tracking number to the marketplace and store
+automatic printouts of the shipping labels and shipping manifest
+customer updates on shipping number and package status
+ability to create your own shipment size and weight templates
+ability to monitor shipment statuses, delivery time, and each package's history
+automatic verification of package delivery
+Explore the other benefits of Base.com shipping management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Workflow automation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+unlimited number of automatic actions, e.g. in status changes, issuing invoices, sending parcels, customer correspondence
+Pick&Pack Assistant support - use a barcode scanner for product picking and parcel packing
+fast printing of documents and shipping labels without the need to download files
+trigger system actions with a keyboard shortcut, custom button or by scanning the barcode
+information on the status of customer orders visible on the phone screen as soon as the caller's number is displayed (with Base Caller app)
+Find out how to automate your business
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product warehouse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ability to create custom product database in the Base.com system (designed for retailers without a store)
+ability to add an additional product catalogue from an online storefront (designed for store owners)
+quick product listing to marketplaces directly from Base.com's warehouse
+stock and price synchronization between warehouse and marketplace services
+multiple ways to import products into warehouse: manually, by importing XML, or CSV files, or by creating products directly in the warehouse
+ability to quickly export data using predefined templates or custom templates formats with selected content
+Find out more about the capabilities of Base.com Warehouse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Online access from any device
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Base.com runs in a web browser - you can run the system on any device with Internet access
+seamless access to cloud-based data
+data security - backups created twice a day
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Team profiles
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+employee profiles with separate logins and passwords
+ability to define user privileges and access areas
+verification of actions performed by employees
+ability to create automatic actions with user-specific conditions
+employee efficiency tracking
+ability to set a different panel language version for each employee
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unlock Missed Revenue, Slash Your Costs
+ 
+Running an ecommerce business? See how much profit you're missing out on. Get a custom growth estimate in seconds, just enter a few numbers.
+ 
+Go to calculator
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Is there something you need that we do not currently offer? Let's chat!
+ 
+ 
+ 
+Contact Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Frequently Asked Questions
+ 
+ 
+ 
+ 
+ 
+ 
+Can I try the system before buying it?
+ 
+ 
+ 
+ 
+ 
+ 
+ Before you decide to buy our services, you can test the program without any obligations for 14 days. The system is fully functional during the test period. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Can I change the subscription plan I am using?
+ 
+ 
+ 
+ 
+ 
+ 
+ You can change your plan from Freemium to Business or from Business to Enterprise. Other plan changes are not possible. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Can I choose whether I am on the Business plan or the Enterprise plan?
+ 
+ 
+ 
+ 
+ 
+ 
+Once you qualify for the Enterprise plan you will be contacted by our team, and to continue to use Base.com, you must switch to a dedicated Enterprise plan.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+When do I need to switch to the Enterprise plan?
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Enterprise team will contact you when the scale of your business qualifies you for the Enterprise plan.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Can I use the Enterprise plan when my number of orders and GMV are lower than indicated in the Enterprise plan?
+ 
+ 
+ 
+ 
+ 
+ 
+Yes. To do so, schedule a call with our enterprise team using 
+this link
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If I have multiple Base.com accounts, do the volumes add up to determine if I qualify for the Enterprise plan?
+ 
+ 
+ 
+ 
+ 
+ 
+Yes, in a situation where you manage your business using multiple accounts, we take into account the aggregated volumes from all accounts to qualify for the Enterprise plan.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Do you issue VAT invoices?
+ 
+ 
+ 
+ 
+ 
+ 
+Yes, we issue VAT invoices. Subscription for using the system and payment details are described in the 
+pricing section
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Try all features and integrations free for 14 days
+ 
+Try it for free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Functions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Functions overview
+Order Manager
+Marketplace Manager
+Product Manager
+Price automation
+WMS
+ERP
+Shipping management
+Workflow automation
+Base Connect
+AI for e-commerce
+Base Analytics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Integrations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amazon
+eBay
+Etsy
+Google Merchant Center
+Shopify App
+wooCommerce
+BigCommerce
+Magento / Adobe Commerce
+UPS
+FedEx
+TNT
+DHL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact
+Help
+FAQ
+Reviews
+System implementations
+Cooperation and partners
+Base Partner Directory
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's new? 
+ 
+ 
+ 
+How to connect Odoo to Base: full integration setup guide
+2026-08-07
+What Is ERP Integration? Types, Benefits and How It Works
+2026-08-06
+AI in Base #3: AI Assistant — get help in the Base panel before raising a ticket
+2026-08-04
+NDR Management for Indian D2C Brands: How to Recover Failed COD Deliveries Before They Become RTOs
+2026-07-22
+Read more – Base Blog
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+english (US)
+english (GB)
+english (IN)
+čeština
+deutsch
+Ελληνικά
+español (AR)
+español (MX)
+Français
+Italiano
+polski
+português (BR)
+română
+中文
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terms of Use
+Security and privacy policy
+ 
+ 
+ 
+ 2026 
+Base.com
+, Integration of e-commerce systems

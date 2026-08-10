@@ -1,0 +1,82 @@
+===== llms.txt :: https://rocketnow.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Rocket Now — AI-Era Growth Marketing Agency
+## About
+Rocket Now is an AI-era growth marketing agency that installs and manages growth systems turning brands into signal — so they get discovered, trusted, and chosen by both humans and AI models.
+Founded: 2020
+Headquarters: Kelowna, BC, Canada
+Website: https://www.rocketnow.com
+Founder: Josh James, CEO
+## Core Framework: The PHIAM Protocol
+Rocket Now's proprietary strategic framework for AI-era brand positioning:
+- **Positioning**: Define category ownership and market differentiation
+- **Hooks**: Craft messaging that captures attention and drives action
+- **Infrastructure**: Build technical systems for discoverability and conversion
+- **Authority**: Establish thought leadership and trust signals
+- **Momentum**: Create compounding growth loops that scale over time
+## Growth System: 3-Phase Model
+1. **Seed Your Demand** — Build awareness, establish category presence, optimize for AI discoverability
+2. **Nurture New Logos** — Convert interest into qualified leads through strategic content and automation
+3. **Bloom Every Deal** — Accelerate pipeline velocity and close rates with data-driven optimization
+## Services
+- Growth Marketing Strategy & Execution
+- Generative Engine Optimization (GEO)
+- AI-Era Brand Visibility & Positioning
+- Performance Marketing & Paid Media
+- Content Strategy & Authority Building
+- Marketing Technology & Infrastructure
+- Competitive Intelligence & Category Engineering
+## Key Differentiators
+- Specializes in Generative Engine Optimization (GEO) — optimizing brands for AI recommendation engines
+- Proprietary PHIAM Protocol for systematic brand positioning
+- 3-Phase Growth System (Seed → Nurture → Bloom) for predictable revenue growth
+- Trusted by 300+ brands across 12 industries
+- Featured in Bloomberg, Forbes, Fortune, Reuters, Time, New York Times
+## Free AI-Powered Diagnostic Tools
+Available at https://www.rocketnow.com/tools — no sign-up required:
+- Brand Signal Scanner: Category clarity, messaging strength, AI discoverability analysis
+- AI Visibility Checker: How AI models perceive and recommend your brand
+- Category Clarity Scorecard: PHIAM positioning assessment with priorities
+- Content Signal Analyzer: Signal vs Noise scoring for content
+- Competitor Radar: 5-dimension competitive comparison with radar chart
+- ROI Forecast Calculator: 12-month marketing ROI projections
+- GEO Readiness Audit: Generative Engine Optimization readiness assessment
+- Funnel Gap Analyzer: Conversion stage analysis mapped to growth phases
+- AI Prompt Tester: AI perception simulation across query types
+- Headline A/B Tester: Copy variant scoring for clarity, emotion, and AI-friendliness
+- ICP Builder: Ideal Customer Profile generation with growth phase mapping
+## Important Pages
+- Homepage: https://www.rocketnow.com/
+- About: https://www.rocketnow.com/about
+- Services: https://www.rocketnow.com/services
+- Process: https://www.rocketnow.com/process
+- Case Studies: https://www.rocketnow.com/case-studies
+- Articles: https://www.rocketnow.com/articles
+- Tools: https://www.rocketnow.com/tools
+- Contact: https://www.rocketnow.com/contact
+- Apply: https://www.rocketnow.com/apply
+- FAQ: https://www.rocketnow.com/faq
+## Contact
+Email: info@rocketnow.com
+Phone: +1-778-760-0329
+Address: 1800 – 1631 Dickson Ave, Kelowna, BC V1Y 0B5, Canada
+
+===== homepage :: https://rocketnow.com/
+--- SIGNALS ---
+title: Rocket Now | #1 in Marketing Style Design
+meta_description: Your AI-Era Growth Superpower. Rocket installs and manages the growth system that turns your brand into signal—so you get discovered, trusted, and chosen.
+og_description: Your AI-Era Growth Superpower. Rocket installs and manages the growth system that turns your brand into signal—so you get discovered, trusted, and chosen.
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Rocket Now", "alternateName": "Rocket Now LLC", "url": "https://www.rocketnow.com", "logo": "https://www.rocketnow.com/rocket-icon.png", "description": "Rocket Now is an AI-era growth marketing agency that installs and manages growth systems turning brands into signal—so they get discovered, trusted, and chosen.", "foundingDate": "2020", "address": {"@type": "PostalAddress", "streetAddress": "1800 – 1631 Dickson Ave", "addressLocality": "Kelowna", "addressRegion": "BC", "postalCode": "V1Y 0B5", "addressCountry": "CA"}, "contactPoint": {"@type": "ContactPoint", "telephone": "+1-778-760-0329", "contactType": "sales", "email": "info@rocketnow.com", "availableLanguage": "English"}, "sameAs": ["https://www.linkedin.com/company/rocketnow", "https://twitter.com/RocketNow"], "founder": {"@type": "Person", "name": "Josh James", "jobTitle": "Founder & CEO", "url": "https://www.rocketnow.com/team/josh-james"}, "areaServed": "Worldwide", "knowsAbout": ["Growth Marketing", "AI Marketing", "Generative Engine Optimization", "Brand Strategy", "Performance Marketing", "Content Strategy"]}]
+--- TEXT ---
+Rocket Now | #1 in Marketing Style Design

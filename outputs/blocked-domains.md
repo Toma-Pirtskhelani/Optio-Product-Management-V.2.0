@@ -3,13 +3,15 @@
 Companies this pass could not reach at Rungs 1–2. **No paste was requested during the pass**
 and **no user-agent was spoofed** to get past a refusal.
 
-**26 of 150 attempted (17%).**
+**30 of 170 attempted (18%).**
 
 | Company | Cause | Best HTTP | Candidates tried |
 |---|---|---|---|
 | Adobe | HTTP 301 | 301 | adobe.com, www.adobe.com, adobe.io, adobe.ai, www.adobe.ai, adobe.co, www.adobe. |
 | AfterShip | blocked (403/401/429) | 403 | aftership.com, www.aftership.com, aftership.io, www.aftership.io, aftership.ai,  |
+| Amazing Mail | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | amazingmail.com, amazingmail.io, www.amazingmail.io, amazingmail.ai, www.amazing |
 | AT Internet | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | atinternet.com, atinternet.io, www.atinternet.io, atinternet.ai, www.atinternet. |
+| Beaconsmind | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | beaconsmind.com, beaconsmind.io, www.beaconsmind.io, beaconsmind.ai, www.beacons |
 | Capillary Technologies | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | capillarytechnologies.com, capillarytechnologies.io, www.capillarytechnologies.i |
 | Cisco Systems | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | ciscosystems.com, www.ciscosystems.com, ciscosystems.io, www.ciscosystems.io, ci |
 | ClickDimensions | blocked (403/401/429) | 403 | clickdimensions.com, www.clickdimensions.com, clickdimensions.io, www.clickdimen |
@@ -20,6 +22,7 @@ and **no user-agent was spoofed** to get past a refusal.
 | Fresh Relevance | blocked (403/401/429) | 403 | freshrelevance.com, freshrelevance.io, www.freshrelevance.io, freshrelevance.ai, |
 | Freshworks | blocked (403/401/429) | 403 | freshworks.com, www.freshworks.com, freshworks.io, www.freshworks.io, freshworks |
 | inConcert | blocked (403/401/429) | 403 | inconcert.com, www.inconcert.com, inconcert.io, inconcert.ai, www.inconcert.ai,  |
+| Lob | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | lob.com, lob.io, www.lob.io, lob.ai, lob.co |
 | MessageGears | blocked (403/401/429) | 403 | messagegears.com, www.messagegears.com, messagegears.io, www.messagegears.io, me |
 | Mindmatrix | HTTP 503 | 503 | mindmatrix.com, www.mindmatrix.com, mindmatrix.io, www.mindmatrix.io, mindmatrix |
 | NewZapp | blocked (403/401/429) | 403 | newzapp.com, www.newzapp.com, newzapp.io, www.newzapp.io, newzapp.ai, www.newzap |
@@ -32,12 +35,13 @@ and **no user-agent was spoofed** to get past a refusal.
 | Swrve | blocked (403/401/429) | 403 | swrve.com, www.swrve.com, swrve.io, www.swrve.io, swrve.ai, www.swrve.ai, swrve. |
 | Webmaxy | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | webmaxy.com, webmaxy.io, www.webmaxy.io, webmaxy.ai, www.webmaxy.ai, webmaxy.co |
 | Wigzo | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | wigzo.com, wigzo.io, www.wigzo.io, wigzo.ai, www.wigzo.ai, wigzo.co, www.wigzo.c |
+| xiQ | blocked (403/401/429) | 403 | xiq.com, www.xiq.com, xiq.io, xiq.ai, www.xiq.ai, xiq.co, www.xiq.co |
 | Zeta | blocked (403/401/429) | 401 | zeta.com, www.zeta.com, zeta.io, zeta.ai, zeta.co |
 
 ## Cause breakdown
 
-- **blocked (403/401/429)** — 13
-- **served a page that did not identify the company (parked, for-sale, or a different owner)** — 11
+- **blocked (403/401/429)** — 14
+- **served a page that did not identify the company (parked, for-sale, or a different owner)** — 14
 - **HTTP 301** — 1
 - **HTTP 503** — 1
 

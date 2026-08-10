@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **124 of 237**. Regenerated 2026-08-11.
+Enriched so far: **140 of 237**. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -95,21 +95,21 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Webmaxy | — | — | — | — | — | — | 2 | G | U | 0 |
 | Webmecanik | — | — | — | — | — | — | 2 | G | D | 2 |
 | ZEPIC | — | — | — | — | 5 | 12 | 2 | G | D | 4 |
-| adnymics | — | — | — | — | — | — | 1 | G | N | 0 |
+| adnymics | — | — | — | — | — | — | 1 | G | D | 2 |
 | AEvent | — | — | — | — | — | — | 1 | G | N | 0 |
 | AfterShip | — | — | — | — | — | — | 1 | G | U | 0 |
 | Agillic | — | — | — | on-premise | 1 | — | 1 | G | D | 4 |
 | Aislelabs | — | — | — | — | — | — | 1 | G | N | 0 |
 | Alterian | — | — | — | — | — | — | 1 | G | N | 0 |
-| Amazing Mail | — | — | — | — | — | — | 1 | G | N | 0 |
+| Amazing Mail | — | — | — | — | — | — | 1 | G | U | 0 |
 | Amazon Web Services | — | — | — | — | — | 6 | 1 | G | D | 3 |
 | Appier | — | — | — | — | 1 | 12 | 1 | G | D | 3 |
 | AT Internet | — | — | — | — | — | — | 1 | G | U | 0 |
-| AtomPark Software | — | — | — | — | — | — | 1 | G | N | 0 |
+| AtomPark Software | — | — | — | — | 3 | — | 1 | G | D | 3 |
 | AWeber | — | 1998 | — | — | 3 | — | 1 | G | D | 3 |
-| Barilliance | — | — | — | — | — | — | 1 | G | N | 0 |
-| Base | — | — | — | — | — | — | 1 | G | N | 0 |
-| Beaconsmind | — | — | — | — | — | — | 1 | G | N | 0 |
+| Barilliance | — | — | — | — | 3 | — | 1 | G | D | 4 |
+| Base | — | — | — | — | 1 | — | 1 | G | D | 4 |
+| Beaconsmind | — | — | — | — | — | — | 1 | G | U | 0 |
 | Benchmark Email | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Birdeye | — | — | — | — | — | — | 1 | 2 | D | 2 |
 | BiteSpeed | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -118,7 +118,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Bridgeline Digital | — | — | — | — | — | — | 1 | G | N | 0 |
 | BSI Software | — | — | — | — | — | — | 1 | G | N | 0 |
 | BUSINESSNEXT | — | — | — | — | — | — | 1 | G | D | 3 |
-| CAKE | — | — | — | — | — | — | 1 | G | N | 0 |
+| CAKE | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | Campaigner | — | — | — | — | — | — | 1 | G | N | 0 |
 | CentraHub | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | ChannelMix | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -132,7 +132,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Delivra | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | Digitalbox | — | — | — | — | — | — | 1 | G | D | 2 |
 | Duda | — | — | — | — | — | — | 1 | 2 | D | 2 |
-| Dyrect | — | — | — | — | — | — | 1 | G | N | 0 |
+| Dyrect | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Dyspatch | — | — | — | — | 4 | — | 1 | G | D | 4 |
 | E-goi | — | — | — | — | — | — | 1 | G | D | 2 |
 | Ecomail | — | — | — | — | — | — | 1 | G | U | 0 |
@@ -143,7 +143,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Entirely | CH | — | — | — | — | — | 1 | G | D | 2 |
 | EZ Texting | US | — | — | — | 4 | 12 | 1 | 2 | D | 4 |
 | Flodesk | — | — | — | — | 2 | — | 1 | 2 | D | 4 |
-| FlowUp | — | — | — | — | — | — | 1 | G | N | 0 |
+| FlowUp | — | — | — | — | — | — | 1 | G | D | 2 |
 | FollowAnalytics | — | — | — | — | — | — | 1 | G | U | 0 |
 | Foursquare | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Free Stand Sampling Solutions | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -163,7 +163,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | IBM | — | — | — | — | — | — | 1 | G | N | 0 |
 | iContact | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | InAppStory | — | — | — | — | — | — | 1 | G | N | 0 |
-| Inflection.io | — | — | — | — | — | — | 1 | G | N | 0 |
+| Inflection.io | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Insightly | — | — | — | — | — | — | 1 | G | D | 2 |
 | Inspired Thinking Group | — | — | — | — | — | — | 1 | G | N | 0 |
 | Instantly | — | — | — | — | 1 | — | 1 | 2 | D | 4 |
@@ -177,7 +177,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | LeadsRx | — | — | — | — | — | — | 1 | G | N | 0 |
 | lemlist | — | — | — | — | 4 | — | 1 | 2 | D | 4 |
 | Levitate | — | — | — | — | — | — | 1 | 2 | D | 2 |
-| Lob | — | — | — | — | — | — | 1 | G | N | 0 |
+| Lob | — | — | — | — | — | — | 1 | G | U | 0 |
 | Longtail UX | — | — | — | — | — | — | 1 | G | N | 0 |
 | Mailgun | — | — | — | — | 2 | — | 1 | 2 | D | 4 |
 | Mapp | — | — | — | — | — | — | 1 | G | N | 0 |
@@ -188,8 +188,8 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Medallia | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | Meiro | — | — | — | — | — | — | 1 | G | N | 0 |
 | Mekari | — | 2015 | — | — | 2 | — | 1 | G | D | 3 |
-| Messangi | — | — | — | — | — | — | 1 | G | N | 0 |
-| Metadata | — | — | — | — | — | — | 1 | G | N | 0 |
+| Messangi | — | — | — | — | 6 | — | 1 | G | D | 3 |
+| Metadata | US | 2015 | — | — | 2 | — | 1 | G | D | 3 |
 | MINT | — | — | — | — | — | — | 1 | G | N | 0 |
 | MobiMesh | — | — | — | — | — | — | 1 | G | N | 0 |
 | Mobivity | — | — | — | — | — | — | 1 | G | D | 2 |
@@ -201,9 +201,9 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | PAR | — | — | — | — | — | — | 1 | G | U | 0 |
 | Perion | — | — | — | — | — | — | 1 | G | N | 0 |
 | Pitney Bowes | — | — | — | — | — | — | 1 | G | N | 0 |
-| Piwik PRO | — | — | — | — | — | — | 1 | G | N | 0 |
+| Piwik PRO | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | Podium | — | — | — | — | 1 | — | 1 | 2 | D | 3 |
-| Postal | — | — | — | — | — | — | 1 | G | N | 0 |
+| Postal | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Postalytics | — | — | — | — | — | — | 1 | G | N | 0 |
 | PostcardMania | — | — | — | — | — | — | 1 | G | N | 0 |
 | PostGrid | — | — | — | — | — | — | 1 | G | U | 0 |
@@ -217,7 +217,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Rejoiner | — | — | — | — | — | — | 1 | G | N | 0 |
 | Resulticks | — | — | — | — | — | — | 1 | G | D | 2 |
 | Reteno | — | — | — | — | — | — | 1 | G | N | 0 |
-| Rocket Now | — | — | — | — | — | — | 1 | G | N | 0 |
+| Rocket Now | CA | 2020 | — | — | — | — | 1 | G | D | 2 |
 | SALESmanago | — | — | — | — | — | — | 1 | G | N | 0 |
 | SAS | — | — | legacy | — | — | — | 1 | G | U | 0 |
 | Sendoso | — | — | — | — | 1 | — | 1 | G | D | 3 |
@@ -225,10 +225,10 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Sensors Data | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | Sitecore | US | 2001 | — | — | 1 | — | 1 | G | D | 3 |
 | SlickText | — | 2012 | — | — | 4 | — | 1 | 2 | D | 4 |
-| Soprano | — | — | — | — | — | — | 1 | G | N | 0 |
+| Soprano | — | — | — | — | — | — | 1 | G | D | 2 |
 | Spectrm | — | — | — | — | — | — | 1 | G | N | 0 |
 | SpiceSend | — | — | legacy | — | 1 | — | 1 | G | D | 3 |
-| Splio | — | — | — | — | — | — | 1 | G | N | 0 |
+| Splio | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | Sprinklr | — | — | — | — | — | — | 1 | G | N | 0 |
 | Storyly | — | — | — | — | — | — | 1 | G | N | 0 |
 | Striker Soft Solutions | — | — | — | — | — | — | 1 | G | U | 0 |
@@ -243,7 +243,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Twilio | — | — | — | — | 5 | — | 1 | G | D | 4 |
 | Upaknee | — | — | — | — | — | — | 1 | G | N | 0 |
 | UTM.io | — | — | — | — | — | — | 1 | G | N | 0 |
-| ValueFirst | — | — | — | — | — | — | 1 | G | N | 0 |
+| ValueFirst | — | — | — | — | — | — | 1 | G | D | 2 |
 | Veloxy IO | — | — | — | — | — | — | 1 | G | N | 0 |
 | VeryUtils | — | — | — | — | — | — | 1 | G | N | 0 |
 | Vibes | — | — | — | — | 4 | 12 | 1 | G | D | 4 |
@@ -252,5 +252,5 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | WILY | — | — | — | — | — | — | 1 | G | N | 0 |
 | Woosmap | — | — | — | — | — | — | 1 | G | N | 0 |
 | WorksBuddy | — | — | — | — | — | — | 1 | G | N | 0 |
-| xiQ | — | — | — | — | — | — | 1 | G | N | 0 |
+| xiQ | — | — | — | — | — | — | 1 | G | U | 0 |
 | Yotpo | — | — | — | — | 4 | — | 1 | G | D | 4 |

@@ -1,0 +1,780 @@
+===== homepage :: https://www.postal.com/
+--- SIGNALS ---
+title: Postal  |  The Leading Intelligent Gifting Platform
+meta_description: Postal is the leading intelligent gifting platform that helps thousands of businesses increase their pipeline, retain customers, and reward employees. The platform and its global marketplace enable customers to automate direct mail, manage branded company swag, and send personalized gifts, all while centralizing cost and reducing waste.
+og_description: 
+og_site_name: 
+h1: The everything app, for gifting.
+h2: Equip every team to build strong relationships | Enterprise solutions for go-to-market teams | Connect your favorite apps | Hear from our flyers | From the Postal blog | Get started with Postal | FAQ | What is a gifting platform? | Who can use a gifting platform? | How does a gifting platform work? | What types of gifts can I send through a gifting platform? | Can I personalize the gifts? | Why should my business use a gifting platform? | Can I send gifts to multiple recipients at once? | How does a gifting platform integrate with CRM systems? | How can a gifting platform help with marketing campaigns? | Is there a way to track the success of my gifting campaigns? | How are gifts delivered? | How long does it take for a gift to be delivered? | What are the costs associated with using a gifting platform? | Can I schedule gifts in advance? | What happens if a gift doesn’t arrive or is damaged? | How do I manage my account and recipient information?
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Postal", "url": "https://www.postal.com", "logo": "https://cdn.prod.website-files.com/632420049b718d2828e82c3b/6324240ed4bf1b35fd27d9fb_Logo%20Dark.svg", "sameAs": ["https://www.linkedin.com/company/postal-io/", "https://twitter.com/postalinc", "https://www.instagram.com/postalinc/"]}]
+--- TEXT ---
+Postal | The Leading Intelligent Gifting Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stamped, Sealed, Delivered!
+Postal is now part of the Sendoso family!
+Learn More
+ 
+ 
+ 
+ 
+ 
+14 Corporate Gift Ideas to Break Through the Noise
+ - 
+Read it now
+How it Works
+By Role
+ 
+ 
+Marketing
+Gifting to enhance brand awareness and ABM campaigns
+Sales
+Gifting to book meetings and reach the signature line faster
+Customer Success
+Gifting to celebrate customers and create champions
+People Ops
+Gifting to reward employees and attract talent
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Learn More
+Product
+ 
+ 
+Features
+Marketplace
+Gifts
+Direct Mail
+Experiences
+On-demand Swag
+Swag Store
+Warehousing
+International
+Creative Agency
+Technology
+Reporting & ROI
+Integrations
+Chrome Extension
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Learn More
+Resources
+ 
+ 
+Learn
+Blog
+Customers
+Content & Events
+Taking Flight Podcast
+Help Center
+Company
+About
+Sustainability
+Postal Merch
+Become a Vendor
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Learn More
+Pricing
+Enterprise
+Log in
+Let's Chat
+Try For Free
+Log in
+Let's Chat
+Why now?
+Platform
+ 
+Solutions
+ 
+Postal Engage
+ 
+Postal Brand
+ 
+Postal ABM
+ 
+Paper Plane
+Integrations
+For Vendors
+For Partners
+Features
+Gifting Marketplace
+Swag Store
+Direct Mail
+Virtual Events
+Reporting & ROI
+International
+Warehousing
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Let's talk
+Use Cases
+ 
+Marketing
+Sales
+Customer Success
+People Ops
+Pricing
+Resources
+ 
+Resources Hub
+Customers
+Blog
+Help Center
+See Our Store
+Taking Flight Podcast
+Customers
+Log in
+Let's chat
+The everything app, for gifting.
+The intelligent gifting platform to increase pipeline, retain customers, and reward employees. Personalize, Send, Measure, and Automate your gifting efforts with ease.
+Let's Chat
+ 
+Equip every team to build strong relationships
+ 
+Marketing
+Generate more leads with personalized gifting in ABM, field marketing, and brand strategies.
+Increase conversion rates
+ 
+ 
+Sales
+Increase meetings booked, deal velocity, and close rates with personalized gifts.
+Personalize your outreach
+ 
+ 
+Customer Success
+Build customer loyalty and advocacy by celebrating milestones and big wins.
+Connect at the right time
+ 
+ 
+People Ops
+Engage your employees with custom onboarding kits, branded swag, and employee gifts.
+Build team culture
+ 
+Enterprise solutions for 
+go-to-market teams
+Engage your audience
+Automate and integrate your gifting programs with a curated, global marketplace.
+Postal Engage
+ 
+Build brand value
+Create, host, and manage inventory for your swag store of branded, custom items.
+Postal Brand
+ 
+Execute on your ABM strategy
+Leverage the comprehensive campaign dashboard to help nurture target accounts at scale.
+Postal ABM
+ 
+Engage your audience
+Automate and integrate your offline programs with a curated, global marketplace.
+Postal Engage
+ 
+Build brand value
+Create, host, and manage inventory for your swag store of branded, custom items.
+Postal Brand
+ 
+Execute on your ABM strategy
+Leverage the comprehensive campaign dashboard to help nurture target accounts at scale.
+Postal ABM
+ 
+Connect your favorite apps
+Postal works within your go-to-market tech stack, adding the impact of intelligent gifting without adding extra steps to your existing workflows
+See integrations
+Hear from our flyers
+“We leverage Postal to thank customers for participating in our reference program... our ADRs use it to help source leads... we use it to incentivize customers to complete reviews and surveys... we use it for EVERYTHING.”
+Ray Rhodes
+Co-Founder at UserEvidence
+“Our marketing and sales playbooks include a small gift card or swag sends, one-off swag sends from AMs and AEs, employee appreciation, direct mail campaigns to increase conference attendance both in person and virtually from the Postal marketplace. 40% of leads who receive a Seismic incentive through Postal end up converting to pipeline.”
+Mikaela Karcher
+Field Marketing | Events & Deal Support
+“There are so many ways to use Postal – customer gifting, prospecting, event follow-up, and employee engagement, just to name a few. Everyone can find a way to win with Postal.”
+Alice Stern
+Senior Marketing Manager
+“Postal helps speed up my sales cycle and I love it. Allows me to break the ice with purpose. Gifting should mean something. By using Postal I can curate appreciation easily. Compared to other products, no guesswork.”
+Willie Little
+Account Executive
+From the Postal blog
+Direct Mail Statistics
+Direct Mail
+Corporate Gifting Statistics: Key Trends & Market Insights 
+Gifting
+Low-Cost, High-Impact: How to Create Effortless Campaigns That Actually Work 
+Get started with Postal
+Gift intelligently with one app. Personalize, Send, Measure, and Automate your gifting efforts with ease.
+Let's Chat
+FAQ
+What is a gifting platform?
+ 
+A corporate gifting platform is a versatile solution that simplifies the process of gift selection and delivery within a business context. It provides a centralized hub for businesses to manage and enhance their gifting strategies. These platforms offer a wide range of gift options and packaging choices, allowing for tailored and impactful gifts. By integrating seamlessly with your CRM system, businesses can efficiently automate gift-related tasks, ensuring consistency and saving time.
+Who can use a gifting platform?
+ 
+Gifting platforms are typically used by businesses for corporate gifting, marketing campaigns, and employee appreciation. However, they can also be used by individuals for personal gift-giving occasions during life events, such as birthdays, anniversaries, and holidays.
+How does a gifting platform work?
+ 
+Users can browse and select gifts from a curated online marketplace, personalize the gift if desired, and then schedule or send the gift directly to the recipient. Some platforms offer additional features like bulk gifting, automated reminders, and integration with CRM systems.
+What types of gifts can I send through a gifting platform?
+ 
+Physical products (like gourmet food, branded swag, electronics), digital gifts (like e-gift cards, subscriptions), and experiences (like virtual cooking classes).
+Can I personalize the gifts?
+ 
+Yes, many gifting platforms offer personalization options, such as adding custom messages, logos, or packaging. Some platforms also allow for bespoke gifts tailored to specific recipient preferences.Postal also offers a complimentary, in-house marketing agency Paper Plane who can custom design gifts for your brand.
+Why should my business use a gifting platform?
+ 
+Using a gifting platform can streamline the gift-giving process, enhance customer relationships, boost employee morale, and improve brand visibility. It also allows for automation and tracking of gifting campaigns, saving time and resources.
+Can I send gifts to multiple recipients at once?
+ 
+Yes, using Postal MagicLinks, you can create a link for one single item or a collection of items and include that link in your sending method of choice (email sequences, automated messages, etc.)
+How does a gifting platform integrate with CRM systems?
+ 
+Integrating with popular CRM systems allows you to automate gift-sending based on customer data, such as anniversaries, birthdays, or important milestones.
+How can a gifting platform help with marketing campaigns?
+ 
+Gifting platforms can be used to create targeted marketing campaigns by sending personalized gifts to prospects, customers, or partners. This can improve engagement and conversion rates. Gifts can also be incorporated into follow-ups after brand marketing events.
+Is there a way to track the success of my gifting campaigns?
+ 
+Yes, we provide analytics and reporting tools to track the performance of gifting campaigns, including delivery status, recipient engagement, and ROI.
+How are gifts delivered?
+ 
+Gifts are typically delivered via standard shipping methods for physical items or electronically for digital gifts.
+How long does it take for a gift to be delivered?
+ 
+Delivery times vary depending on the type of gift and the recipient’s location. Physical gifts generally take a few days to a week, while digital gifts can be delivered almost instantly.
+What are the costs associated with using a gifting platform?
+ 
+A gifting platform is a financially responsible method for gifting, as we only charge for gifts that are accepted by the recipient via digital link. Depending on the size of your company and number of users and teams, the price varies. You can expect to budget for an annual platform subscription fee plus the cost of buying the gifts for recipients.
+Can I schedule gifts in advance?
+ 
+Yes, we allow you to schedule gifts to be sent on a specific date, which is useful for planning around holidays or special occasions. Using a CRM integration, you can also trigger the sending of a gift based on a custom event you set in the platform.
+What happens if a gift doesn’t arrive or is damaged?
+ 
+Our customer support teams handle issues like late deliveries or damaged items.
+How do I manage my account and recipient information?
+ 
+Our platform provides an account dashboard where you can manage your personal information, recipient lists, and order history. You can also update or delete data as needed.
+ 
+ 
+ 
+Solutions
+Postal Engage
+Postal Brand
+Postal ABM
+Paper Plane
+Integrations
+For Vendors
+For Distributors
+Features
+Gifting Marketplace
+Swag Store
+Direct Mail
+Virtual Events
+Reporting & ROI
+International
+Warehousing
+Company
+Postal Store
+Pricing
+Why now?
+Customers
+Why Now?
+Careers
+Security & Compliance
+Sustainability
+Resources
+Customers
+Resources Hub
+Blog
+Help Center
+Taking Flight Podcast
+© 2025 Postal.io, Inc. All Rights Reserved.
+Terms
+Privacy
+Acceptable Use Policy
+Sub-Processor
+Platform Usage Terms
+Marketplace Vendor Agreement
+Sitemap
+
+===== product :: https://www.postal.com/platform/reporting
+--- SIGNALS ---
+title: Reporting & ROI | Postal
+meta_description: Learn about the reporting and ROI tracking built into the Postal platform to provide visibility around the performance of your offline campaign.
+og_description: 
+og_site_name: 
+h1: Track real-time ROI of offline campaigns
+h2: See overall campaign performance in one dashboard | Connect your CRM to manage campaigns your way | Stay on top of recent activity and orders | Connect your CRM to manage campaigns your way | Enable every team to connect offline | Enable every team to gift intelligently | Hear from our flyers | Learn more about the Postal ecosystem | FAQ | Get started with Postal
+jsonld_org: []
+--- TEXT ---
+Reporting & ROI | Postal
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 Corporate Gift Ideas to Break Through the Noise
+ - 
+Read it now
+How it Works
+By Role
+ 
+ 
+Marketing
+Gifting to enhance brand awareness and ABM campaigns
+Sales
+Gifting to book meetings and reach the signature line faster
+Customer Success
+Gifting to celebrate customers and create champions
+People Ops
+Gifting to reward employees and attract talent
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Learn More
+Product
+ 
+ 
+Features
+Marketplace
+Gifts
+Direct Mail
+Experiences
+On-demand Swag
+Swag Store
+Warehousing
+International
+Creative Agency
+Technology
+Reporting & ROI
+Integrations
+Chrome Extension
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Learn More
+Resources
+ 
+ 
+Learn
+Blog
+Customers
+Content & Events
+Taking Flight Podcast
+Help Center
+Company
+About
+Sustainability
+Postal Merch
+Become a Vendor
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Learn More
+Pricing
+Enterprise
+Log in
+Let's Chat
+Try For Free
+Log in
+Let's Chat
+Why now?
+Platform
+ 
+Solutions
+ 
+Postal Engage
+ 
+Postal Brand
+ 
+Postal ABM
+ 
+Paper Plane
+Integrations
+For Vendors
+For Partners
+Features
+Gifting Marketplace
+Swag Store
+Direct Mail
+Virtual Events
+Reporting & ROI
+International
+Warehousing
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Let's talk
+Use Cases
+ 
+Marketing
+Sales
+Customer Success
+People Ops
+Pricing
+Resources
+ 
+Resources Hub
+Customers
+Blog
+Help Center
+See Our Store
+Taking Flight Podcast
+Customers
+Log in
+Let's chat
+Track real-time ROI of offline campaigns
+Report on the impact and ROI of direct mail, corporate gifting, and branded swag with Postal’s Reporting Dashboard.
+Let's chat
+See overall campaign performance in one dashboard
+View pipeline, opps, and closed/won revenue influenced by Postal
+Find key metrics like total accepted gifts, recipient engagement, total spend, average item cost, and meetings booked
+Customize data by rep, item, or marketing campaign over any given period of time
+Learn more
+ 
+Connect your CRM to manage campaigns your way
+Map Postal sends to the lead, contact, account, opportunity, or campaign
+Create customer reports to align with your programs
+Connect a pre-built Salesforce managed dashboard
+Learn more
+ 
+Stay on top of recent activity and orders
+See the status of Postal orders, any actions taken by recipients, and delivery notifications
+Sort the activity report by action type, for example “delivered”
+Download Postal orders filtered by status, date created, item, user team, contact or MagicLink
+ 
+Connect your CRM to manage campaigns your way
+Map Postal sends to the lead, contact, account, opportunity, or campaign
+Create customer reports to align with your programs
+Connect a pre-built Salesforce managed dashboard
+Learn more
+ 
+ 
+Enable every team to connect offline
+Marketing
+ 
+Generate more leads leveraging the offline channel in ABM, field marketing, and brand strategies.
+Sales
+ 
+Increase meetings booked, deal velocity, and close rates by personalizing offline touchpoints.
+Customer Success
+ 
+Build customer loyalty and advocacy by celebrating milestones and big wins.
+People Ops
+ 
+Engage your employees with custom onboarding kits, branded swag, and employee gifts.
+Enable every team to gift intelligently
+Marketing
+ 
+Generate more leads with personalized gifting in ABM, field marketing, and brand strategies.
+Sales
+ 
+Increase meetings booked, deal velocity, and close rates with personalized gifts.
+Customer Success
+ 
+Build customer loyalty and advocacy by celebrating milestones and big wins.
+People Ops
+ 
+Engage your employees with custom onboarding kits, branded swag, and employee gifts.
+Hear from our flyers
+“I have used a couple of tools in this space and Postal is truly *unmatched*. Pulling metrics is a huge plus. This helps us keep on track month-to-month and quarter-to-quarter and see where our senders can improve.” 
+Brooke Rhoades
+Customer Marketing Manager
+"Postal gifts move deals forward. The curated gifts and especially the collections are helpful to me as an AM. The marketing team can select pieces of swag, gifts and help me stay within budget each month. The tracking also helps me understand if I have already sent something to a customer."
+Matt McGraw
+Account Manager Mid-Market
+"We're solving the issue sending direct mail at scale and affordably. Our reps now have easy access & reporting in Salesforce with Postal, and we're saving money and time using them over sending items from our office."
+Katie Brunette 
+Senior Director of Global Events & Campaigns
+Learn more about the Postal ecosystem
+Postal integrates with the tools you use in your outreach, operations, and reporting to show the impact of the offline and online channels in one place.
+See integrations
+FAQ
+No items found.
+Get started with Postal
+Gift intelligently with one app. Personalize, Send, Measure, and Automate your gifting efforts with ease.
+Let's Chat
+ 
+ 
+ 
+Solutions
+Postal Engage
+Postal Brand
+Postal ABM
+Paper Plane
+Integrations
+For Vendors
+For Distributors
+Features
+Gifting Marketplace
+Swag Store
+Direct Mail
+Virtual Events
+Reporting & ROI
+International
+Warehousing
+Company
+Postal Store
+Pricing
+Why now?
+Customers
+Why Now?
+Careers
+Security & Compliance
+Sustainability
+Resources
+Customers
+Resources Hub
+Blog
+Help Center
+Taking Flight Podcast
+© 2025 Postal.io, Inc. All Rights Reserved.
+Terms
+Privacy
+Acceptable Use Policy
+Sub-Processor
+Platform Usage Terms
+Marketplace Vendor Agreement
+Sitemap
+
+===== pricing_or_trust :: https://www.postal.com/pricing
+--- SIGNALS ---
+title: Postal Pricing
+meta_description: Customer-centric pricing for everyone—contact us to get started with one of our team subscription plans and gain access to the largest global B2B marketplace.
+og_description: 
+og_site_name: 
+h1: The intelligent gifting solution, for the best price.
+h2: Hear from our flyers | FAQ | Can Postal create my custom swag items? | How do I track my sends? | Can Postal store my custom swag items internationally? | What payment types can I use in my Postal account? | How do I reach contacts that are working from home? | How quickly can I get up and running in the platform? | What is Postal’s privacy and security policies? | What software integrations does Postal support? | Get started with Postal
+jsonld_org: []
+--- TEXT ---
+Postal Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 Corporate Gift Ideas to Break Through the Noise
+ - 
+Read it now
+How it Works
+By Role
+ 
+ 
+Marketing
+Gifting to enhance brand awareness and ABM campaigns
+Sales
+Gifting to book meetings and reach the signature line faster
+Customer Success
+Gifting to celebrate customers and create champions
+People Ops
+Gifting to reward employees and attract talent
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Learn More
+Product
+ 
+ 
+Features
+Marketplace
+Gifts
+Direct Mail
+Experiences
+On-demand Swag
+Swag Store
+Warehousing
+International
+Creative Agency
+Technology
+Reporting & ROI
+Integrations
+Chrome Extension
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Learn More
+Resources
+ 
+ 
+Learn
+Blog
+Customers
+Content & Events
+Taking Flight Podcast
+Help Center
+Company
+About
+Sustainability
+Postal Merch
+Become a Vendor
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Learn More
+Pricing
+Enterprise
+Log in
+Let's Chat
+Try For Free
+Log in
+Let's Chat
+Why now?
+Platform
+ 
+Solutions
+ 
+Postal Engage
+ 
+Postal Brand
+ 
+Postal ABM
+ 
+Paper Plane
+Integrations
+For Vendors
+For Partners
+Features
+Gifting Marketplace
+Swag Store
+Direct Mail
+Virtual Events
+Reporting & ROI
+International
+Warehousing
+Postal for Enterprise
+First-class onboarding, dedicated CSM, and customizable solutions
+Let's talk
+Use Cases
+ 
+Marketing
+Sales
+Customer Success
+People Ops
+Pricing
+Resources
+ 
+Resources Hub
+Customers
+Blog
+Help Center
+See Our Store
+Taking Flight Podcast
+Customers
+Log in
+Let's chat
+The intelligent gifting solution, for the best price.
+One app for everything gifting. We consolidate multiple design, logistics, and tracking solutions - reducing time and spend to implement gifting.
+First Class
+Let's Chat
+Features
+Unlimited sends & virtual events
+Branded Merchandise & Swag Sourcing
+Unlimited integrations
+Trade Show Event Management
+Global Warehousing
+Pick, Pack, & Kitting
+Company-Branded Storefront
+Guided Implementation & Onboarding
+Dedicated Customer Success Manager
+Premium Support
+ABM Campaign Ideation
+ABM Campaign Automation
+Premium Support & Warehouse Queue
+Hear from our flyers
+Our best-in-class support and success teams are dedicated to your business from day one.
+"The Postal team is just rockstars! I've used your support via chat and email and the quality of support is unmatched. Thanks for being such great partners and always answering our questions when we need it."
+Renata Buchko
+Partner Success Manager
+"Gifting through Postal enables us to catch the attention of must-win accounts and, ultimately, start a conversation."
+Casey Patterson
+Manager, Account Based Marketing
+“I have used a couple of corporate gifting tools and Postal is truly *unmatched*. From the ease of sending to the ease of training new senders, the whole experience is enjoyable."
+Brooke Rhoades
+Customer Marketing Manager
+“Very fast response time for support and new product requests - Postal very clearly has a great team that is super committed to the customer experience using their platform.” 
+Colleen Pate
+Head of Customer Marketing
+FAQ
+Can Postal create my custom swag items?
+ 
+Yes, our team at Paper Plane Agency can manage the creation of custom branded swag from start to finish. Alternatively, if you have swag inventory on hand already, the project team can take over the management and sending of those items as well.
+How do I track my sends?
+ 
+All Postal activity is tracked in the platform, by campaign, item, link, or contact. When tracking data is available, you will get email notifications regarding delivery status and can access information in the contact record.
+Can Postal store my custom swag items internationally?
+ 
+Yes. Postal partners with best in class global vendors, logistics companies, and warehouses can store and manage the sending of inventory through the system. The Postal ordering system helps track your inventory in real time in your account.
+What payment types can I use in my Postal account?
+ 
+You can add your credit card directly in the product to fund your Postal Balance, or get pre-approved for invoicing.
+How do I reach contacts that are working from home?
+ 
+Postal is a digital first gifting platform and your recipient gets to enter their preferred shipping address so you can ensure that the gift is sent where they'd like to receive it. Either using a 1:1 personalized email or 1:many MagicLink, we notify the recipient that you’ve sent them a gift, and would like them to enter their information to accept.
+How quickly can I get up and running in the platform?
+ 
+We can tailor onboarding plans to fit your needs. Our typical customer is fully onboarded within 30-60 days.
+What is Postal’s privacy and security policies?
+ 
+Learn more about our privacy and security policies in the legal section of this site’s footer.
+What software integrations does Postal support?
+ 
+We integrate with all your favorite and sales, marketing, and ops platforms including Salesforce, HubSpot, Marketo, Outreach, SalesLoft, Zapier, Calendly, Chili Piper, Microsoft Dynamics, and more.
+Get started with Postal
+Gift intelligently with one app. Personalize, Send, Measure, and Automate your gifting efforts with ease.
+Let's Chat
+ 
+ 
+ 
+Solutions
+Postal Engage
+Postal Brand
+Postal ABM
+Paper Plane
+Integrations
+For Vendors
+For Distributors
+Features
+Gifting Marketplace
+Swag Store
+Direct Mail
+Virtual Events
+Reporting & ROI
+International
+Warehousing
+Company
+Postal Store
+Pricing
+Why now?
+Customers
+Why Now?
+Careers
+Security & Compliance
+Sustainability
+Resources
+Customers
+Resources Hub
+Blog
+Help Center
+Taking Flight Podcast
+© 2025 Postal.io, Inc. All Rights Reserved.
+Terms
+Privacy
+Acceptable Use Policy
+Sub-Processor
+Platform Usage Terms
+Marketplace Vendor Agreement
+Sitemap

@@ -1,0 +1,2815 @@
+===== llms.txt :: https://www.metadata.io/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Metadata
+
+> Metadata is the execution layer for enterprise B2B paid campaigns. Marketing leaders use the prompt-first interface at www.metadata.io to ask for outcomes, and six AI agents build audiences, generate copy, creative, offers, landing pages, lead gen ads, images, and videos, draft campaigns, manage budgets, run experiments, and optimize spend across social, search, LLM, and video channels. Operators review campaign structure, assets, budget controls, and approvals in platform.metadata.io. Developers and agents can connect headlessly through Metadata MCP.
+
+## Public Proof
+- Trusted by 200+ B2B SaaS companies
+- Customer stories include Zoom, Pendo, Instruqt, Writer, Docebo, N-Able, Webex Events, Fingerprint, Cacheflow, Titan, GoodTime, and Nitrogen Wealth
+- G2 profile: 4.6 stars, 299 reviews
+
+## Platform
+- [Platform Overview](https://metadata.io/platform): Enterprise paid media execution layer for audiences, creative, offers, campaigns, budgets, optimization, reporting, and MCP handoff
+- [Audience Targeting (MetaMatch)](https://metadata.io/platform/audience-targeting): B2B audience building with firmographic, technographic, and intent data
+- [Campaign Automation](https://metadata.io/platform/campaign-automation): Multi-channel paid campaign orchestration
+- [Revenue Optimization](https://metadata.io/platform/revenue-optimization): Connect ad spend to pipeline and revenue
+- [Campaign Experimentation](https://metadata.io/platform/campaign-experimentation): A/B and multivariate testing at scale
+- [Integrations](https://metadata.io/platform/integrations): CRM, MAP, and ad channel connectors
+
+## Developer and MCP
+- [Developer Docs](https://developers.metadata.io/): Connect Claude Code, Hermes, OpenClaw, or custom agents to Metadata MCP
+- [Quickstart](https://developers.metadata.io/quickstart.html): Install, authenticate, and make the first Metadata tool call
+- [Authentication](https://developers.metadata.io/authentication.html): API key setup, scopes, and error handling
+- [Tool Catalog](https://developers.metadata.io/tools/): 121 documented MCP tools for audiences, campaigns, creatives, budgets, analytics, experiments, targeting, integrations, and brand kits
+- [Claude Code Setup](https://developers.metadata.io/guides/claude-code.html): Add the Metadata MCP server to Claude Code, Claude Desktop, Hermes, Paperclip, OpenClaw, and custom agents
+- [First Campaign Guide](https://developers.metadata.io/guides/first-campaign.html): Build an audience, generate creatives, assemble campaign drafts, request approval, and launch
+
+## AI Agents
+- [AI Agents Overview](https://metadata.io/agents): Six AI agents - Mei, Zoe, Max, Ann, Tom, and Raj - that collaborate to plan, build, launch, analyze, and operate B2B demand generation
+- [LinkedIn Bid Agent](https://metadata.io/agents/linkedin-bid-agent): AI bid optimization for LinkedIn Ads — 155% more pipeline
+
+## Blog Posts
+- [ABM Examples](https://metadata.io/resources/blog/account-based-marketing-examples): 12 account-based marketing examples that drove real pipeline
+- [B2B Lead Gen Companies](https://metadata.io/resources/blog/top-b2b-lead-generation-companies): Top B2B lead generation companies buyer's guide
+- [Marketing Automation Benefits](https://metadata.io/resources/blog/marketing-automation-benefits): 15 reasons B2B teams automate marketing
+- [Targeted Marketing](https://metadata.io/resources/blog/targeted-marketing): Targeted marketing campaign strategy guide for B2B
+- [PPC Spying](https://metadata.io/resources/blog/ppc-spying): How to analyze competitor PPC ad strategies
+- [B2B Audience Targeting](https://metadata.io/resources/blog/how-to-target-b2b-audience): Complete guide to targeting a B2B audience
+- [Ad Performance](https://metadata.io/resources/blog/ad-performance): How to measure and improve B2B ad performance
+- [Smart Targeting](https://metadata.io/resources/blog/smart-targeting): How AI transforms B2B audience selection
+- [PPC Agency Guide](https://metadata.io/resources/blog/ppc-agency): What PPC agencies do and whether you need one
+- [Performance Marketing Agency](https://metadata.io/resources/blog/performance-marketing-agency): What they do and how to choose
+- [ABX Marketing](https://metadata.io/resources/blog/abx-marketing): Account-based experience marketing guide
+- [PPC Consultant](https://metadata.io/resources/blog/ppc-consultant): PPC consultant guide with cost and alternatives
+
+## Resources
+- [Resources](https://metadata.io/resources): Decision-maker resource hub for comparisons, customer proof, buyer guides, campaign strategy, AI agents, and developer access
+- [Resources Blog Archive](https://metadata.io/resources/blog): Migration-safe archive index for legacy resources blog posts
+- [Podcasts](https://metadata.io/resources/podcasts): Migrated podcast index for B2B Category Creators, Demand Gen U, and standalone episodes
+- [Demand Resources](https://metadata.io/resources/demand): Migrated demand generation videos, events, and campaign resources
+- [Newsroom](https://metadata.io/resources/newsroom): Company news, press mentions, and public recognition archive
+- [Bid Agent](https://metadata.io/agents/bid-agent): Main Bid Agent landing path with links to LinkedIn Bid Agent and free trial
+- [Blog](https://metadata.io/blog): Insights on B2B demand generation, ABM, and AI marketing
+- [Customer Stories](https://metadata.io/customers): 16 case studies from Zoom, Gainsight, Pendo, Instruqt, N-Able, Nitrogen Wealth, GoodTime, Webex Events, and more
+- [Guides](https://metadata.io/guides): In-depth playbooks for demand gen, ABM, LinkedIn optimization
+- [Comparisons](https://metadata.io/comparisons): Metadata versus ABM intelligence platforms, agencies, AI SDR tools, native ad channels, and generic AI tools
+- [Buyer's Guide](https://metadata.io/buyers-guide): Evaluation framework for AI paid media execution platforms
+- [2026 B2B Paid Media Benchmark Report](https://metadata.io/benchmark-report-2026): Interactive benchmarks from $57.6M of 2025 B2B ad spend — CPL, CPC, CTR by channel plus pipeline ROI, CAC and close rates, filterable by company size, industry, channel, ad type and campaign goal; ungated
+- [Benchmark: Tactical Lessons from $58M in Ad Spend](https://metadata.io/benchmark/tactical-lessons-58m-ad-spend): CPL by channel, lead gen forms vs landing pages, ad format playbook, LinkedIn retargeting fix
+- [Benchmark: Strategic Lessons from $58M in Ad Spend](https://metadata.io/benchmark/strategic-lessons-58m-ad-spend): Triggered vs influenced pipeline ROI, CAC by audience and format, why CPL misleads
+
+## Industries (focus verticals)
+- [Industries Overview](https://metadata.io/industries): Metadata focuses on three verticals where paid demand gen is the core pipeline engine
+- [SaaS](https://metadata.io/industries/saas): Demand generation for B2B SaaS companies
+- [MarTech](https://metadata.io/industries/martech): Demand gen for marketing technology vendors
+- [Cybersecurity](https://metadata.io/industries/cybersecurity): B2B marketing for cybersecurity vendors
+
+## Use Cases
+- [Use Cases Overview](https://metadata.io/use-cases): How teams use Metadata
+- [Demand Generation](https://metadata.io/use-cases/demand-gen): Automated B2B demand generation
+- [Account-Based Marketing](https://metadata.io/use-cases/abm): ABM campaign automation
+- [Enterprise Demand Gen](https://metadata.io/use-cases/enterprise): Enterprise-scale demand generation
+- [Product-Led Growth](https://metadata.io/use-cases/plg): PLG marketing automation
+
+## Integrations
+- [All Integrations](https://metadata.io/platform/integrations): 20+ integrations with CRM, MAP, ad channels, intent data, analytics, and more
+- [Salesforce](https://metadata.io/platform/integrations/salesforce): CRM sync, pipeline attribution
+- [HubSpot](https://metadata.io/platform/integrations/hubspot): Contact sync, deal attribution
+- [LinkedIn Ads](https://metadata.io/platform/integrations/linkedin-ads): Campaign automation, bid optimization
+- [Facebook Ads](https://metadata.io/platform/integrations/facebook-ads): Audience targeting, creative testing
+- [Google Ads](https://metadata.io/platform/integrations/google-ads): Search and display campaign management
+- [Bombora](https://metadata.io/platform/integrations/bombora): Intent data for audience targeting
+- [Snowflake](https://metadata.io/platform/integrations/snowflake): Data warehouse integration
+
+## Company
+- [Company](https://metadata.io/company): Metadata company and positioning as the execution layer for B2B paid media
+- [Book a Demo](https://metadata.io/demo): See Metadata in action
+- [Trust & Compliance](https://metadata.io/trust-compliance): Security, governance, permissions, auditability, and approval controls for AI-driven paid media execution
+- [Services](https://metadata.io/services): Human onboarding, campaign architecture, creative strategy, integrations, and MCP rollout support
+- [Careers](https://metadata.io/careers): Careers building AI campaign execution systems
+
+## Tutorials
+- [Tutorials — Learn the Metadata Platform](https://www.metadata.io/resources/tutorials/): 121 video lessons — getting started, audiences, campaigns, reporting, attribution, integrations
+
+===== homepage :: https://www.metadata.io/
+--- SIGNALS ---
+title: Metadata | The Execution Layer for B2B Paid Campaigns
+meta_description: Run every paid channel from one platform. Metadata builds audiences, generates creatives, runs experiments, and optimizes spend across LinkedIn, Google, Meta, and 5 more channels.
+og_description: Run every paid channel from one platform. Build audiences, generate creatives, run experiments, and prove pipeline — whether you run campaigns for your company or your clients.
+og_site_name: 
+h1: Run every paid channel from one platform.
+h2: Connect your AI agent to the same execution engine. | Intelligence without execution is just expensive data. | Seven AI specialists. Human launch control. | Numbers your CFO will love. | One platform. Every channel. | Insights. Know who's on your sitebefore they fill out a form. | Trusted on G2 | What marketing leaders are saying. | See what Metadata saves your team. | Frequently asked questions | Bulletproof from day one.
+jsonld_org: [{"@type": "Organization", "name": "Metadata", "url": "https://www.metadata.io", "logo": "/images/metadataone-icon.jpeg"}, {"@context": "https://schema.org", "@type": "Organization", "name": "Metadata", "legalName": "Metadata, Inc.", "url": "https://www.metadata.io", "logo": "/images/metadataone-icon.jpeg", "description": "AI-powered demand generation platform for B2B SaaS. Autonomous AI agents manage audience targeting, bid optimization, creative testing, and budget allocation across LinkedIn, Meta, Google, Bing, X, Reddit and LLM.", "foundingDate": "2015", "founder": {"@type": "Person", "name": "Gil Allouche"}, "address": {"@type": "PostalAddress", "addressLocality": "San Francisco", "addressRegion": "CA", "addressCountry": "US"}, "sameAs": ["https://www.linkedin.com/company/metadata-io/", "https://twitter.com/metaborhq", "https://www.g2.com/products/metadata-io/reviews", "https://www.crunchbase.com/organization/metadata-io"], "contactPoint": {"@type": "ContactPoint", "contactType": "sales", "url": "https://www.metadata.io/book-a-demo"}}]
+--- TEXT ---
+﻿
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+
+
+Metadata | The Execution Layer for B2B Paid Campaigns
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+Welcome back
+ — jump to 
+Tutorials
+, 
+Support & Docs
+, or 
+What’s New
+.
+
+ 
+Go to Platform
+Not you?
+Log out
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+Metadata
+
+ 
+
+ 
+
+ 
+Platform
+
+ 
+AI Agents
+
+ 
+Customers
+
+ 
+
+ 
+Company
+
+ 
+
+ 
+About Metadata
+
+ 
+Customer Stories
+
+ 
+Trust & Compliance
+
+ 
+Careers
+
+ 
+
+ 
+
+ 
+
+ 
+Resources
+
+ 
+
+ 
+Blog
+
+ 
+Resource Library
+
+ 
+Comparisons
+
+ 
+Buyer's Guide
+
+ 
+Integrations
+
+ 
+Use Cases
+
+ 
+Tutorials
+
+ 
+Events
+
+ 
+Developer Docs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Sign In
+
+ 
+
+ 
+Classic view
+platform.metadata.io
+
+ 
+AI agency
+app.metadataone.com
+
+ 
+
+ 
+
+ 
+Book a Demo
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+Platform
+
+ 
+AI Agents
+
+ 
+Customers
+
+ 
+Developer Docs
+
+ 
+Services
+
+ 
+Company
+
+ 
+Careers
+
+ 
+Blog
+
+ 
+Resources
+
+ 
+Comparisons
+
+ 
+Buyer's Guide
+
+ 
+Integrations
+
+ 
+Use Cases
+
+ 
+Tutorials
+
+ 
+Events
+
+ 
+Sign In — Classic view
+
+ 
+Sign In — AI agency
+
+ 
+Book a Demo
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+Run every paid channel 
+from one platform.
+
+ 
+Ask Metadata to build audiences, campaigns, creative, offers, and launch-ready paid media plans. Your team reviews budget, approvals, channel structure, and pipeline evidence before anything goes live.
+
+ 
+
+ 
+Book a demo
+
+ 
+See it work
+
+ 
+
+ 
+
+ 
+
+ 
+Customer proof
+
+ 
+
+ 
+Metadata has been a gamechanger for us. It has saved countless hours by centralizing our campaigns across multiple platforms and connecting to all our internal systems, tracking influence across leads, pipeline, and revenue.
+
+ 
+
+ 
+
+ 
+Kim Storin
+CMO, Zoom
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Replay ↻
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+Headless control
+
+ 
+Connect your AI agent to the same execution engine.
+
+ 
+Marketing leaders can run campaigns from the prompt-first interface on this site. Technical teams can connect Claude Code, Hermes, OpenClaw, or a custom agent to Metadata MCP and control audiences, campaigns, creative, budgets, experiments, analytics, and approvals without touching the UI.
+
+ 
+
+ 
+Open developer docs
+
+ 
+Browse 141 tools
+
+ 
+
+ 
+
+ 
+
+$ claude mcp add --transport http metadataone https://mcp-server.metadata.io/mcp
+
+> Build a Q3 enterprise SaaS campaign.
+> Use our CRM data, 500M profile graph, LinkedIn, Google, Meta, video, and LLM channels.
+> Keep it in draft until the team approves budgets and brand guidelines.
+
+metadataone.create_firmographic_audience
+metadataone.generate_brand_creative
+metadataone.create_update_offer
+metadataone.create_campaign
+metadataone.deep_funnel_stats
+metadataone.launch_campaign
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+Why Metadata
+
+ 
+Intelligence without execution 
+is just expensive data.
+
+ 
+6sense tells you who to target. Demandbase sells you intent data. ZoomInfo gives you contacts. None of them run your campaigns. Metadata does.
+
+ 
+
+ 
+
+ 
+
+ 
+vs. Intelligence Platforms
+
+ 
+They identify. We execute.
+
+ 
+6sense, Demandbase, and ZoomInfo spend months on implementation and still need your team to run campaigns. Metadata launches in days and AI agents handle execution 24/7.
+
+ 
+
+ 
+
+ 
+vs. Agencies
+
+ 
+Your AI already knows what wins.
+
+ 
+Every customer’s agents carry the experience of $1B+ in managed ad spend — a decade in production, 7 patents, and 263,554 experiments run across accounts. Agencies keep those learnings siloed, so your wins become someone else’s playbook. With Metadata, what works lives in your account and stays yours even if you leave — while bid and budget agents make thousands of optimizations a day, a cadence no human team can match.
+
+ 
+
+ 
+
+ 
+vs. AI SDRs
+
+ 
+Pipeline, not spam.
+
+ 
+AI SDR tools blast outbound emails with 70-80% churn rates. Metadata builds targeted audiences, generates creatives, and optimizes paid campaigns across LinkedIn, Google, Meta, and 5 more channels.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+See detailed comparisons →
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+Your Team
+
+ 
+Seven AI specialists. Human launch control.
+
+ 
+7 AI agents handle the execution layer, audiences, creatives, experiments, bids, budgets, and attribution. 7 senior marketers set strategy and keep your pipeline on track.
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+AI Specialists 
+7
+
+ 
+Human Leadership 
+7
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+Proven Results
+
+ 
+Numbers your CFO will love.
+
+ 
+Real 
+sourced pipeline
+ results from mid-market and enterprise B2B SaaS companies running Metadata.
+
+ 
+
+
+ 
+
+ 
+
+ 
+Enterprise
+
+ 
+Zoom
+
+ 
+141%
+
+ 
+Increase in Opportunity Amount
+
+ 
+ 
+
+ 
+
+ 
+Mid-Market
+
+ 
+N-Able
+
+ 
+524%
+
+ 
+Increase in Opp Amount per Quarter in 1 Year
+
+ 
+ 
+
+ 
+
+ 
+Mid-Market
+
+ 
+Monotype
+
+ 
+83%
+
+ 
+Decrease in 
+Cost per Opportunity
+ in 3 Months
+
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+Proven technology delivers 30 – 80% sustainable gains in 
+sourced pipeline
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+Channels
+
+ 
+One platform. Every channel.
+
+ 
+Launch and optimize campaigns across 8 channels from a single dashboard.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Facebook
+
+ 
+Meta Ads
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Instagram
+
+ 
+Meta Ads
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+LinkedIn
+
+ 
+Sponsored Content
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+X (Twitter)
+
+ 
+Promoted Ads
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Reddit
+
+ 
+Promoted Posts
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Google Ads
+
+ 
+Search & Display
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Microsoft Bing
+
+ 
+Bing Ads
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+LLM
+
+ 
+Conversational Ads
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+INCLUDED WITH METADATA
+
+ 
+Insights. Know who's on your site
+before they fill out a form.
+
+ 
+Visitor identification, account heat scores, sales alerts, and full account journey mapping — all included. No premium tier. No add-on cost.
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Contact-Level Visitor ID
+
+ 
+Identify visitors at the contact level — name, title, company — not just "someone at Acme Corp."
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Real contact profiles
+
+ 
+Name, title, company — before any form fill
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Account Heat Scores
+
+ 
+Engagement scores based on your criteria — ad impressions, site visits, content downloads — synced to Salesforce.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Rising engagement = hot lead
+
+ 
+Scores sync to your CRM in real time
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Real-Time Sales Alerts
+
+ 
+Target accounts hit your site? Sales gets notified immediately — while the buyer is still warm.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Instant Slack + email alerts
+
+ 
+Notify sales the moment a target account visits
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Account Journey Timeline
+
+ 
+Every touchpoint across every channel in one chronological timeline per account.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Full journey, one timeline
+
+ 
+Ads, site visits, downloads, conversions
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Multi-Channel Consolidation
+
+ 
+LinkedIn, Meta, Google, your website, CRM — all engagement data in one view.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+One dashboard, every channel
+
+ 
+No more switching between 5 tools
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Instant Retargeting
+
+ 
+Identify engaged visitors and retarget them across LinkedIn, Facebook, and Google simultaneously.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+One visitor, every channel
+
+ 
+Coordinated retargeting across platforms
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+6sense and Demandbase charge extra for visitor ID and account intelligence.
+
+ 
+ With Metadata, Insights is included.
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+Rated by Real Users
+
+ 
+Trusted on G2
+
+ 
+
+ 
+4.6
+/5 average rating
+ · 
+34
+ G2 badges
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Leader
+
+ 
+Spring 2026
+
+ 
+
+ 
+
+ 
+
+ 
+High Performer
+
+ 
+Enterprise
+
+ 
+
+ 
+
+ 
+
+ 
+Leader
+
+ 
+Enterprise
+
+ 
+
+ 
+
+ 
+
+ 
+Momentum Leader
+
+ 
+Spring 2026
+
+ 
+
+ 
+
+ 
+
+ 
+Best Results
+
+ 
+Mid-Market
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+★★★★★
+
+ 
+4.6/5 on G2
+
+ 
+• G2 Leader, Spring 2026
+
+ 
+
+ 
+What marketing leaders are saying.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+★★★★★
+"It's the most set-it-and-forget-it thing out there. 
+Except the agent doesn't forget.
+"
+Charisse, Digital Marketing Lead • Zoom
+
+ 
+★★★★★
+"My team can build campaigns in minutes. 
+Without Metadata, the same structure would take hours.
+"
+Mackenzie, Director of Digital Marketing • Pendo
+
+ 
+★★★★★
+"The biggest value is not only allowing me to give good reporting on account level data but also 
+making it instantly consumable by salespeople.
+"
+Tagg Bozied, Senior Manager of Paid Social • Docebo
+
+ 
+★★★★★
+"In our first month, 
+CPL
+ dropped 88%. We went from $30K for eight leads to 
+hundreds of thousands in pipeline
+ — best ad performance I've seen."
+Tyler Crumpler, Director of Demand Marketing • Instruqt
+
+ 
+★★★★★
+"They took 
+70% of the manual execution off our plate
+. That gave our teams time back to focus on strategy, performance, and what drives revenue."
+Gainsight Marketing Team • Gainsight
+
+ 
+
+ 
+★★★★★
+"It's the most set-it-and-forget-it thing out there. 
+Except the agent doesn't forget.
+"
+Charisse, Digital Marketing Lead • Zoom
+
+ 
+★★★★★
+"My team can build campaigns in minutes. 
+Without Metadata, the same structure would take hours.
+"
+Mackenzie, Director of Digital Marketing • Pendo
+
+ 
+★★★★★
+"The biggest value is not only allowing me to give good reporting on account level data but also 
+making it instantly consumable by salespeople.
+"
+Tagg Bozied, Senior Manager of Paid Social • Docebo
+
+ 
+★★★★★
+"In our first month, 
+CPL
+ dropped 88%. We went from $30K for eight leads to 
+hundreds of thousands in pipeline
+ — best ad performance I've seen."
+Tyler Crumpler, Director of Demand Marketing • Instruqt
+
+ 
+★★★★★
+"They took 
+70% of the manual execution off our plate
+. That gave our teams time back to focus on strategy, performance, and what drives revenue."
+Gainsight Marketing Team • Gainsight
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+★★★★★
+"I'd be shocked if not everyone has heard of Metadata because 
+I'm constantly singing your praises
+ and passing around reports."
+Kylee Schreck, Senior Digital Marketing Manager • Nitrogen Wealth
+
+ 
+★★★★★
+"I turned into a mad scientist, launching 
+30 net-new campaigns and experiments
+ that should've consumed my whole quarter."
+Cristal Marquez, Paid Media Manager • Webex Events
+
+ 
+★★★★★
+"We just closed our biggest deal yet from a cold-targeting Facebook ad using 
+MetaMatch
+. 
+Our best leads come from our RevOps-based MetaMatch audience.
+"
+Riley Timmins, Director of Marketing • Cacheflow
+
+ 
+★★★★★
+"Spotlight has saved us hours cleaning data and building audiences. In three months, we uncovered 
+millions in opportunities
+ we couldn't visualize before."
+Alexander Goodwin, Senior Demand Gen Manager • Fingerprint
+
+ 
+★★★★★
+"Bigger budgets don't guarantee better quality. 
+Efficient search success comes from the right mix
+ of spend, keywords, bids, and budgets."
+Hannah McCoy, Head of Growth Marketing • GoodTime
+
+ 
+
+ 
+★★★★★
+"I'd be shocked if not everyone has heard of Metadata because 
+I'm constantly singing your praises
+ and passing around reports."
+Kylee Schreck, Senior Digital Marketing Manager • Nitrogen Wealth
+
+ 
+★★★★★
+"I turned into a mad scientist, launching 
+30 net-new campaigns and experiments
+ that should've consumed my whole quarter."
+Cristal Marquez, Paid Media Manager • Webex Events
+
+ 
+★★★★★
+"We just closed our biggest deal yet from a cold-targeting Facebook ad using 
+MetaMatch
+. 
+Our best leads come from our RevOps-based MetaMatch audience.
+"
+Riley Timmins, Director of Marketing • Cacheflow
+
+ 
+★★★★★
+"Spotlight has saved us hours cleaning data and building audiences. In three months, we uncovered 
+millions in opportunities
+ we couldn't visualize before."
+Alexander Goodwin, Senior Demand Gen Manager • Fingerprint
+
+ 
+★★★★★
+"Bigger budgets don't guarantee better quality. 
+Efficient search success comes from the right mix
+ of spend, keywords, bids, and budgets."
+Hannah McCoy, Head of Growth Marketing • GoodTime
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+ROI Calculator
+
+ 
+See what Metadata saves your team.
+
+ 
+Drag the sliders to match your current setup. Watch the savings add up.
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Before Metadata
+
+ 
+
+
+ 
+
+ 
+Monthly Ad Spend
+
+ 
+
+ 
+
+ 
+$2M
+
+ 
+
+ 
+
+
+ 
+
+ 
+Paid Media Team Size
+
+ 
+
+ 
+
+ 
+4 people
+
+ 
+
+ 
+
+
+ 
+
+ 
+Current 
+Cost per Opportunity
+
+ 
+
+ 
+
+ 
+$2,000
+
+ 
+
+ 
+
+
+ 
+
+ 
+Annual team cost
+$600K
+
+ 
+Annual ad spend
+$1.8M
+
+ 
+Total annual cost
+$2.4M
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+After Metadata
+
+ 
+
+
+ 
+
+ 
+
+ 
+Team reduced to
+
+ 
+1 person
+
+ 
+
+ 
+
+ 
+Annual headcount savings
+
+ 
+$450K
+
+ 
+
+ 
+
+ 
+New cost per opportunity
+
+ 
+$680
+
+ 
+
+ 
+
+ 
+Pipeline increase
+
+ 
+3x
+
+ 
+
+ 
+
+
+ 
+
+ 
+$2.1M
+
+ 
+Estimated annual value created
+
+ 
+
+
+ 
+Schedule a Demo
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+Frequently asked questions
+
+ 
+
+ 
+What is Metadata?
+Metadata is an AI agency for enterprise paid media. Seven AI agents build audiences, creative, offers, campaigns, and budgets across every channel, and your team reviews and approves every object before anything goes live.
+
+ 
+How is Metadata different from an agency?
+Every customer gets AI that carries the experience of $1B+ in managed ad spend, a decade in production, and 263,554 experiments run across accounts. Agencies keep those learnings siloed; with Metadata, what works stays in your account, and bid and budget agents optimize 24/7.
+
+ 
+Which channels and systems does Metadata support?
+LinkedIn, Google, Meta, X, Microsoft Advertising, Reddit, and ChatGPT Ads, connected to your CRM, marketing automation, and data warehouse.
+
+ 
+Do the AI agents run campaigns without oversight?
+No. The agents prepare and optimize the work, but your team reviews and approves audiences, creative, budgets, and launches. Humans keep control of strategy and spend.
+
+ 
+
+ 
+
+
+ 
+
+
+
+ 
+
+ 
+Stop paying for data. Start sourcing pipeline.
+
+ 
+Book a Demo
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+ENTERPRISE READY
+
+ 
+Bulletproof from day one.
+
+ 
+Metadata gives you the power to be at the cutting edge of AI-driven marketing while providing enterprise-grade guardrails: budget management, spend caps, pacing controls, bid optimization, verified audie
+
+===== product :: https://www.metadata.io/platform
+--- SIGNALS ---
+title: Platform | Metadata
+meta_description: One execution layer for enterprise B2B paid media: campaigns, audiences, creative, offers, budgets, experiments, optimization, reporting, and 141 MCP tools.
+og_description: One execution layer for enterprise B2B paid media: campaigns, audiences, creative, offers, budgets, experiments, optimization, reporting, and 141 MCP tools.
+og_site_name: 
+h1: Paid media execution without the manual drag.
+h2: See Metadata in action. | Your most scalable source of pipeline — and it keeps getting harder to run. | Seven AI specialists run the work. Your team keeps launch control. | What you get. | See it in the product. | Multi-channel campaign automation. | Experimentation at scale. | Audiences from a 500M+ profile graph. | Audience quality is where paid media starts. | See exactly which accounts are ready to buy. | Fully operable headlessly through the Metadata MCP server. | Why you can't build this yourself. | For over a decade, the best companies have trusted Metadata with $1B+ in ad spend. | Frequently asked questions
+jsonld_org: []
+--- TEXT ---
+﻿
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+
+
+
+Platform | Metadata
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+Welcome back
+ — jump to 
+Tutorials
+, 
+Support & Docs
+, or 
+What’s New
+.
+
+ 
+Go to Platform
+Not you?
+Log out
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+Metadata
+
+ 
+
+ 
+
+ 
+Platform
+
+ 
+AI Agents
+
+ 
+Customers
+
+ 
+
+ 
+Company
+
+ 
+
+ 
+About Metadata
+
+ 
+Customer Stories
+
+ 
+Trust & Compliance
+
+ 
+Careers
+
+ 
+
+ 
+
+ 
+
+ 
+Resources
+
+ 
+
+ 
+Blog
+
+ 
+Resource Library
+
+ 
+Comparisons
+
+ 
+Buyer's Guide
+
+ 
+Integrations
+
+ 
+Use Cases
+
+ 
+Tutorials
+
+ 
+Events
+
+ 
+Developer Docs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Sign In
+
+ 
+
+ 
+Classic view
+platform.metadata.io
+
+ 
+AI agency
+app.metadataone.com
+
+ 
+
+ 
+
+ 
+Book a Demo
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+Platform
+
+ 
+AI Agents
+
+ 
+Customers
+
+ 
+Developer Docs
+
+ 
+Services
+
+ 
+Company
+
+ 
+Careers
+
+ 
+Blog
+
+ 
+Resources
+
+ 
+Comparisons
+
+ 
+Buyer's Guide
+
+ 
+Integrations
+
+ 
+Use Cases
+
+ 
+Tutorials
+
+ 
+Events
+
+ 
+Sign In — Classic view
+
+ 
+Sign In — AI agency
+
+ 
+Book a Demo
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+Paid media execution 
+without the manual drag.
+
+ 
+One execution layer for enterprise B2B paid media. Type the outcome, let the AI agents build campaigns, audiences, creative, and budgets, review every object before launch, then run self-optimizing campaigns across every channel toward pipeline and revenue.
+
+ 
+
+ 
+Book a demo
+
+ 
+Meet the agents
+
+ 
+
+ 
+
+ 
+
+ 
+Customer proof
+
+ 
+
+ 
+My team can build campaigns in minutes. Without Metadata, the same structure would take hours.
+
+ 
+
+ 
+
+ 
+Mackenzie
+Director of Digital Marketing, Pendo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+See Metadata in action.
+
+ 
+A short look at how the platform turns a prompt into reviewed, launch-ready paid media across every channel.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+metadata.io
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+Why paid media
+
+ 
+Your most scalable source of pipeline — and it keeps getting harder to run.
+
+ 
+Paid media is the one lever where you can correlate spend to revenue, and the only one you can turn on today. But CAC keeps climbing, the channel count keeps exploding, and the chain from spend to pipeline is the question every board is asking.
+
+ 
+
+ 
+
+ 
+
+ 
+Problem 01
+
+ 
+Rising CAC.
+
+ 
+The status quo is a 
+slow bleed
+ — every quarter you spend more for the same outcome. Diminishing returns instead of economies of scale.
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+Problem 02
+
+ 
+Ever-increasing complexity.
+
+ 
+Not just complex — 
+accelerating
+. New channels, new ad types, new vendors. ChatGPT ads didn’t exist last year.
+
+ 
+Martech vendors
+2,000 → 
+14,000
+LinkedIn ad types
+2 → 
+8
+Newest channel
+ChatGPT ads
+
+ 
+
+ 
+
+ 
+Problem 03
+
+ 
+Attribution gaps.
+
+ 
+Your board sees spend. Your team sees clicks. Nobody can show the chain in between — and that’s the question every CEO is asking.
+
+ 
+
+ 
+SPEND
+
+ 
+ 
+?
+
+ 
+PIPELINE
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+The agents
+
+ 
+Seven AI specialists run the work. Your team keeps launch control.
+
+ 
+Tell Metadata the outcome you need. Seven AI agents prepare audiences, creative, campaigns, budgets, experiments, and reporting — and your team reviews every object before a dollar moves.
+
+ 
+
+ 
+
+ 
+Mei plans, Max builds audiences, Zoe creates, Eva shapes offers, Ann assembles campaigns, Tom reads performance, and Raj runs operations — each working in your account as a reviewable teammate.
+
+ 
+
+ 
+See how each agent works →
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+What you get.
+
+ 
+Everything we said was broken — reversed.
+
+ 
+
+ 
+
+ 
+
+✗ Rising CAC
+→ CAC that 
+compounds down.
+Audiences refresh, bids arbitrage across channels, the curve bends the other way.
+✗ Ever-increasing complexity
+→ One solution runs 
+every channel.
+New channel launches? It’s in the loop the day we integrate it — not after a re-org.
+✗ Attribution gaps
+→ Every dollar tied to 
+pipeline.
+Spend → channel → campaign → opportunity. The chain your board keeps asking for.
+ 
+
+ 
+
+ 
+Real data · top golden customers
+
+ 
+Every account moves to the optimum zone.
+
+ 
+ 
+Each dot = one customer
+First 90 days
+CAC ↓ · Pipeline ↑
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+See it in the product.
+
+ 
+The agents build in the open. Every audience, ad, campaign, and experiment is a reviewable object in the SaaS surface before and after launch.
+
+ 
+
+
+ 
+
+Recorded live session
+
+Watch a campaign get drafted — and stop at the approval gate.
+
+A real session: one prompt, a full social + search plan (budget split, audiences, offers, assumptions) — created in draft. No spend until you explicitly launch.
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+Campaigns
+
+ 
+Multi-channel campaign automation.
+
+ 
+One campaign structure spans LinkedIn, Google, Meta, Reddit, X, Bing, and more. The agents build the native ad structure for each channel; your team sees status, channels, and budgets in one view.
+
+ 
+
+ 
+Native structures per channel
+
+ 
+Budgets, pacing & exclusions
+
+ 
+Draft until your team approves
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+Experiments
+
+ 
+Experimentation at scale.
+
+ 
+The platform has run 263,554 experiments. It searches audience, creative, offer, bid, and budget permutations, scales the winners, and stops the losers automatically.
+
+ 
+
+ 
+Continuous autonomous testing
+
+ 
+Keyword & experiment controls
+
+ 
+Optimized toward pipeline
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+Audiences
+
+ 
+Audiences from a 500M+ profile graph.
+
+ 
+Firmographic, technographic, Bombora and G2 intent, retargeting, native LinkedIn and Meta criteria, and CSV uploads — plus suppression so spend never lands on the wrong accounts.
+
+ 
+
+ 
+15+ consolidated data sources
+
+ 
+Reach estimates up front
+
+ 
+Exclusions & matched audiences
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+Audiences
+
+ 
+Audience quality is where paid media starts.
+
+ 
+A 500M+ profile targeting graph reaches the right accounts and people wherever they are — B2B buyers on B2C inventory like Instagram, Facebook, and X, technographic and intent signals on LinkedIn, and retargeting on Google — with firmographic, CRM, and suppression context layered on top so spend never lands on the wrong accounts.
+
+ 
+
+ 
+
+ 
+
+ 
+Firmographic fit
+
+ 
+Company size, industry, geography, segment, revenue bands, growth signals, and account list membership.
+
+ 
+
+ 
+
+ 
+Technographic relevance
+
+ 
+Technology stacks, adjacent platforms, competitive installs, and integration context.
+
+ 
+
+ 
+
+ 
+Buyer intent
+
+ 
+Category, competitor, and topic-level research signals from Bombora and G2 that help prioritize in-market accounts.
+
+ 
+
+ 
+
+ 
+CRM and lifecycle context
+
+ 
+Opportunities, stages, customers, open pipeline, closed lost, nurture, and sales-owned accounts.
+
+ 
+
+ 
+
+ 
+Retargeting and engagement
+
+ 
+Website visits, content consumption, demo behavior, video engagement, and page-level context.
+
+ 
+
+ 
+
+ 
+Suppression and controls
+
+ 
+Exclude customers, active opportunities, competitors, disqualified accounts, and compliance-sensitive segments.
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+Insights
+
+ 
+See exactly which accounts are ready to buy.
+
+ 
+Most of your best pipeline is invisible right now. The accounts most likely to buy are visiting your site, seeing your ads, and getting touched by outbound — all without ever filling out a form. Insights deanonymizes website traffic, maps it to LinkedIn engagement and CRM activity, and surfaces the accounts that are actively in-market, so your team acts on real buying signals instead of guesswork.
+
+ 
+
+ 
+
+ 
+
+ 
+Visitor identification
+
+ 
+Deanonymize site traffic and match visitors to the companies in your target ICPs — see which accounts visited and what content they reviewed.
+
+ 
+
+ 
+
+ 
+Dynamic audience enrollment
+
+ 
+Automatically enroll accounts into paid media campaigns based on real-time engagement signals, with no manual list building.
+
+ 
+
+ 
+
+ 
+Revenue attribution
+
+ 
+Connect brand awareness and retargeting spend directly to sourced and influenced pipeline and closed revenue.
+
+ 
+
+ 
+
+ 
+Account journey mapping
+
+ 
+Map every account interaction across paid channels, website, and CRM into one chronological timeline for sales and marketing.
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+Fully operable headlessly through the Metadata MCP server.
+
+ 
+Every capability above is exposed as a tool on the Metadata MCP server, 141 tools in all. Any MCP client, including Claude Code and Hermes, can run paid media end to end: build audiences, generate creative, assemble campaigns, set budgets, launch, optimize, and report, all programmatically. The SaaS interface and the API operate on the same objects, so a human can review in the platform exactly what an agent built over MCP.
+
+ 
+
+ 
+
+ 
+Developer docs
+
+ 
+Explore the MCP server
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+The moat
+
+ 
+Why you can't build this yourself.
+
+ 
+Not with ChatGPT. Not with an agency. Not in-house. Three things take a decade and a billion dollars in spend to build.
+
+ 
+
+ 
+
+ 
+
+ 
+Proprietary audience data
+
+ 
+15+ consolidated sources, personal emails, mobile IDs, B2B-to-B2C bridging, and 10 years of campaign outcomes on a 500M+ profile graph. You can't buy this dataset — it doesn't exist anywhere else.
+
+ 
+
+ 
+
+ 
+AI bid & budget optimization
+
+ 
+Thousands of decisions a day across every campaign, 24/7 — kills the ~90% of experiments that underperform and doubles down on what works. No human team can match the cadence.
+
+ 
+
+ 
+
+ 
+Battle-tested at scale
+
+ 
+A decade in production. $1B+ managed, 7 patents, hardened by the world's best brands. A vibe-coded agent gives you slop, security risk, and no track record.
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+For over a decade, the best companies have trusted Metadata with $1B+ in ad spend.
+
+ 
+
+ 
+
+ 
+263,554
+Experiments run
+
+ 
+84,737
+Campaigns launched
+
+ 
+$1B+
+Ad spend managed
+
+ 
+200+
+B2B SaaS customers
+
+ 
+7
+Patents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+Frequently asked questions
+
+ 
+
+ 
+What is the Metadata platform?
+One execution layer for B2B paid media. Type the outcome you need, the AI agents build campaigns, audiences, creative, and budgets, you review every object before launch, and campaigns then self-optimize across every channel toward pipeline and revenue.
+
+ 
+How many AI agents run the work?
+Seven: Mei, Zoe, Max, Eva, Ann, Tom, and Raj, covering strategy, creative, audiences, offers, campaign management, analytics, and operations.
+
+ 
+What can the agents actually do?
+Across 141 MCP tools they take real actions in your stack: build audiences, generate creative, create offers, assemble and launch campaigns, optimize bids and budgets, and report on pipeline.
+
+ 
+Does my team keep control of budgets and launches?
+Yes. Every audience, creative, budget, and campaign is reviewable and approvable before a dollar moves.
+
+ 
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Metadata
+
+ 
+
+ 
+Plan, build, review, and optimize B2B paid campaigns from one execution layer.
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Product
+
+ 
+Platform
+
+ 
+AI Agents
+
+ 
+Insights
+
+ 
+Integrations
+
+ 
+Use Cases
+
+ 
+Developer Docs
+
+ 
+
+ 
+
+ 
+Company
+
+ 
+About
+
+ 
+Customers
+
+ 
+Services
+
+ 
+Careers
+
+ 
+Trust & Compliance
+
+ 
+
+ 
+
+ 
+Quick links
+
+ 
+Resources
+
+ 
+Blog
+
+ 
+Comparisons
+
+ 
+Buyer's Guide
+
+ 
+Help Center
+
+ 
+
+ 
+
+ 
+
+ 
+© 2026 Metadata. All rights reserved.
+
+ 
+
+ 
+Privacy Policy
+
+ 
+Terms of Use
+
+ 
+Cookie Policy
+
+ 
+Trust & Compliance
