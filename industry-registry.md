@@ -6,8 +6,9 @@ prohibition 1 — a brainstormed list mistaken for the universe — committed at
 point where it would contaminate every downstream table at once.
 
 If you are reading this file looking for the list of industries this study covers, the
-answer today is: **none yet, because no evidence has been gathered.** That is correct, not
-incomplete.
+answer today is: **78 provisional entries, every one of them created from a category name
+read off G2's index rather than from a category definition** — because G2 returns 403 on
+every category page. Not one entry rests on a definition yet. See §8.
 
 ---
 
@@ -152,8 +153,101 @@ names recorded as aliases. The taxonomy moving is itself a finding about the mar
 
 ## 8. Registry
 
-_(empty — no research has been conducted. Entries are appended by evidence, per §2.)_
+### Pass 01 — 78 provisional entries
+
+Appended from the first taxonomy pass. **Every entry is `PROVISIONAL`**: it was created from
+a category *name* read off G2's index, not from a category *definition*, because G2 returns
+403 on every category page. Per §7, a provisional entry may not anchor a finding until
+confirmed by a second capture.
+
+`normalized_name` is currently set to G2's `raw_name` verbatim for each entry, and `alias_count`
+is 1, because **no second taxonomy has yet been read at category-definition level** — there is
+nothing to merge against. Alias lists become real when Gartner's markets index and the
+marketplace listing requirements arrive; that is when normalization stops being a rename and
+starts being a decision.
+
+Shopify and HubSpot categories are deliberately **not** appended yet. Their names
+("Email marketing", "sms") would collide with G2's on the string while denoting different
+objects — a Shopify category is a merchant workflow slot, a HubSpot category is an
+integration bucket. Appending them now is exactly the forced match §2 forbids.
 
 | registry_id | normalized_name | status | alias_count | scope_verdict | first_seen |
 |---|---|---|---|---|---|
-| _(none)_ | | | | | |
+| R-0001 | AI Marketing Agents Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/ai-marketing-agents |
+| R-0002 | Conversational Interface Agents Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/conversational-interface-agents |
+| R-0003 | Bot Platforms | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/bot-platforms |
+| R-0004 | Chatbots Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/chatbots |
+| R-0005 | Enterprise AI Chatbots Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/enterprise-ai-chatbots |
+| R-0006 | AI Chatbots Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/ai-chatbots |
+| R-0007 | CRM Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/crm |
+| R-0008 | Through-Channel Marketing Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/through-channel-marketing |
+| R-0009 | Sales Engagement Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/sales-engagement |
+| R-0010 | Account-Based Marketing Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/account-based-marketing |
+| R-0011 | Account-Based Advertising Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/account-based-advertising |
+| R-0012 | Account-Based Direct Mail Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/account-based-direct-mail |
+| R-0013 | Book Marketing Tools | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/book-marketing-tools |
+| R-0014 | Conversational Marketing Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/conversational-marketing |
+| R-0015 | Customer Data Platforms (CDP) | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/customer-data-platform-cdp |
+| R-0016 | Loyalty Management Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/loyalty-management |
+| R-0017 | Direct Mail Automation Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/direct-mail-automation |
+| R-0018 | Email Marketing Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/email-marketing |
+| R-0019 | Event Marketing Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/event-marketing |
+| R-0020 | Local Marketing Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/local-marketing |
+| R-0021 | Location-Based Marketing Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/location-based-marketing |
+| R-0022 | Marketing Automation Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/marketing-automation |
+| R-0023 | Mobile Marketing Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/mobile-marketing |
+| R-0024 | Multi-Location Marketing Platforms | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/multi-location-marketing-platforms |
+| R-0025 | Other Marketing Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/other-marketing |
+| R-0026 | Personalization Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/personalization |
+| R-0027 | Personalization Engines | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/personalization-engines |
+| R-0028 | Push Notification Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/push-notification |
+| R-0029 | RCS Business Messaging Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/rcs-business-messaging |
+| R-0030 | SMS Marketing Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/sms-marketing |
+| R-0031 | Social Media Marketing Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/social-media-marketing |
+| R-0032 | Transactional Email Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/transactional-email |
+| R-0033 | WhatsApp Marketing Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/whatsapp-marketing |
+| R-0034 | Merchant Marketing Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/merchant-marketing |
+| R-0035 | Conversational Commerce Platforms | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/conversational-commerce-platforms |
+| R-0036 | E-Commerce Personalization Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/e-commerce-personalization |
+| R-0037 | Live Chat Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/live-chat |
+| R-0038 | Appointment Reminder Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/appointment-reminder |
+| R-0039 | Contact Center Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/contact-center |
+| R-0040 | Conversational Support Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/conversational-support |
+| R-0041 | Customer Communications Management Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/customer-communications-management |
+| R-0042 | Customer Service Automation Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/customer-service-automation |
+| R-0043 | Proactive Customer Retention Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/proactive-customer-retention |
+| R-0044 | Proactive Notification Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/proactive-notification |
+| R-0045 | Data Breach Notification Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/data-breach-notification |
+| R-0046 | Communication Platform as a Service (cPaaS) Platforms | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/communication-platform-as-a-service-cpaas |
+| R-0047 | Geofencing Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/geofencing |
+| R-0048 | Notification Infrastructure Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/notification-infrastructure |
+| R-0049 | Cross-Channel Advertising Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/cross-channel-advertising |
+| R-0050 | Display Advertising Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/display-advertising |
+| R-0051 | Mobile Advertising Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/mobile-advertising |
+| R-0052 | Retail Media Advertising Platforms | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/retail-media-advertising-platforms |
+| R-0053 | Social Media Advertising Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/social-media-advertising |
+| R-0054 | Recruitment Marketing Platforms | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/recruitment-marketing |
+| R-0055 | Employee Referral Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/employee-referral |
+| R-0056 | Programmatic Job Advertising Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/programmatic-job-advertising |
+| R-0057 | Recruiting Automation Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/recruiting-automation |
+| R-0058 | Emergency Notification Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/emergency-notification |
+| R-0059 | Alumni Management Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/alumni-management |
+| R-0060 | Automotive Marketing Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/automotive-marketing |
+| R-0061 | Construction CRM Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/construction-crm |
+| R-0062 | Classroom Messaging Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/classroom-messaging |
+| R-0063 | Financial Services CRM Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/financial-services-crm |
+| R-0064 | Mortgage CRM Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/mortgage-crm |
+| R-0065 | AI Patient Engagement & Operations Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/ai-patient-engagement-operations |
+| R-0066 | HIPAA Compliant Messaging Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/hipaa-compliant-messaging |
+| R-0067 | Patient Engagement Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/patient-engagement |
+| R-0068 | Guest Messaging Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/guest-messaging |
+| R-0069 | Restaurant Marketing Tools Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/restaurant-marketing-tools |
+| R-0070 | Insurance CRM Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/insurance-crm |
+| R-0071 | Legal CRM Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/legal-crm |
+| R-0072 | Donor Management Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/donor-management |
+| R-0073 | Fundraising Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/fundraising |
+| R-0074 | Nonprofit CRM Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/nonprofit-crm |
+| R-0075 | Political Campaign Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/political-campaign |
+| R-0076 | Citizen Engagement Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/citizen-engagement |
+| R-0077 | Real Estate CRM Software | PROVISIONAL | 1 | BOUNDARY | 2026-08-10 via g2 https://www.g2.com/categories/real-estate-crm |
+| R-0078 | Real Estate Marketing Software | PROVISIONAL | 1 | IN | 2026-08-10 via g2 https://www.g2.com/categories/real-estate-marketing |

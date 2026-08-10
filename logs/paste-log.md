@@ -43,6 +43,16 @@ Append-only. Governed by `research-protocol.md` §2 and §3.
 
 ## Log
 
+### Pass 01 — requests pre-registered 2026-08-10, pastes not yet received
+
+**Recorded before the content arrives, deliberately.** If the sampling frame is only written
+down after seeing what came back, it is a description of the result rather than of the
+sample. These four requests, and the reasoning for choosing exactly these URLs, are in
+`outputs/source-taxonomies.md` §8.
+
 | paste_id | date_received | url | source | requested_scope | visible_count | total_count | pagination | sort_order | filters_active | source_language | raw_file | notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| _(empty — no research has been conducted)_ | | | | | | | | | | | | |
+| P-0001 | **awaiting** | https://www.gartner.com/reviews/markets | gartner | whole page, every market name incl. (Legacy)/(Retired)/(Transitioning to X) suffixes; **page through to the end** | — | — | expected, unknown depth | — | — | en | — | Highest value in the study: the only denominator Gartner can have, and the only failure-detection mechanism our source set contains |
+| P-0002..P-0013 | **awaiting** | 12 × https://www.g2.com/categories/{marketing-automation, email-marketing, sms-marketing, push-notification, mobile-marketing, customer-communications-management, customer-data-platform-cdp, loyalty-management, proactive-notification, patient-engagement, citizen-engagement, political-campaign} | g2 | definition paragraphs + **entire** "To qualify for inclusion" bullet list + declared product count line. Page 1 only — the product list is not needed | — | — | not required | — | — | en | — | **Sampling frame declared: I chose these twelve.** 6 functional core, 2 named boundary classes, 1 framing test, 3 verticals. The user was asked to pick the next twelve so the frame is not mine alone |
+| P-0014 | **awaiting** | https://www.gartner.com/reviews/market/marketing-automation-platforms | gartner | market definition + mandatory capabilities + declared vendor count + any decline marker | — | — | — | — | — | en | — | Shapes schemas/gartner.md against a real page instead of an assumed one |
+| P-0015 | **awaiting** | Shopify app listing requirements + HubSpot app certification requirements | shopify-app-store, hubspot-ecosystem | requirements list verbatim | — | — | — | — | — | en | — | Bar height for both marketplaces, currently UNKNOWN — which is what makes their counts non-comparable to anything |

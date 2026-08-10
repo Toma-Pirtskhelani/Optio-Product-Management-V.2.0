@@ -56,6 +56,63 @@ requesting it was expensive is still a source this study did not see.
 
 ## Log
 
+### Pass 01 — source taxonomy enumeration, 2026-08-10
+
+Two transports were used and are distinguished because they behave differently:
+**`WebFetch`** (agent tool; converts the page to markdown and answers a prompt against it
+using a small model — **model-mediated, not verbatim**) and **`curl`** (default user-agent,
+no spoofing — **byte-exact**).
+
 | date | url | source | rung | outcome | obtained | raw_file | escalated_to | source_language |
 |---|---|---|---|---|---|---|---|---|
-| _(empty — no research has been conducted)_ | | | | | | | | |
+| 2026-08-10 | https://www.gartner.com/reviews/markets | gartner | 1 | 403 | nothing | — | Rung 2 | en |
+| 2026-08-10 | https://www.gartner.com/reviews/sitemap.xml | gartner | 2 | 403 | nothing | — | Rung 2 | en |
+| 2026-08-10 | https://www.gartner.com/sitemap.xml | gartner | 2 | 403 | nothing | — | Rung 2 | en |
+| 2026-08-10 | https://www.gartner.com/robots.txt | gartner | 2 | 403 | nothing — robots.txt itself is blocked, so even the crawl policy is unreadable | — | Rung 2 | en |
+| 2026-08-10 | https://www.gartner.com/reviews/markets/all | gartner | 2 | 403 | nothing | — | Rung 2 | en |
+| 2026-08-10 | https://www.gartner.com/reviews/market/marketing-automation-platforms | gartner | 2 | 403 | nothing | — | Rung 2 | en |
+| 2026-08-10 | https://gartner.com/reviews/markets (no `www`) | gartner | 2 | 403 | nothing | — | **Rung 3 — all Rung-1/2 paths exhausted; Gartner has no denominator without human transport** | en |
+| 2026-08-10 | https://www.g2.com/categories (WebFetch) | g2 | 1 | partial | 19 top-level branch names; tool reported its own output truncated | — | retried via curl | en |
+| 2026-08-10 | https://www.g2.com/categories (curl) | g2 | 1 | ok | **complete taxonomy: 38 branch tables, 2,235 category rows** | 2026-08-10__g2__categories-index__r1.html | — | en |
+| 2026-08-10 | https://www.g2.com/categories/marketing | g2 | 1 | 403 | nothing | — | Rung 2 | en |
+| 2026-08-10 | https://www.g2.com/categories/{marketing-automation, email-marketing, mobile-marketing, customer-data-platform-cdp, push-notification} (curl ×5) | g2 | 1 | 403 ×5 | nothing — identical 1,704-byte block page each time | — | **Rung 3 — category definitions and inclusion criteria are unobtainable without human transport** | en |
+| 2026-08-10 | https://www.g2.com/robots.txt | g2 | 2 | ok | crawl policy; names `ClaudeBot` explicitly; declares sitemap index + `llms.txt` | — | — | en |
+| 2026-08-10 | https://www.g2.com/sitemaps/sitemap_index.xml.gz | g2 | 2 | 403 | nothing | — | superseded — `/categories` already yielded the full enumeration | en |
+| 2026-08-10 | https://www.g2.com/llms.txt | g2 | 2 | ok | platform self-description; no taxonomy rules | — | — | en |
+| 2026-08-10 | https://documentation.g2.com/docs | g2 | 2 | ok | vendor-onboarding docs; **no** taxonomy governance | — | — | en |
+| 2026-08-10 | https://research.g2.com/methodology | g2 | 2 | ok | index of 6 methodology documents | — | — | en |
+| 2026-08-10 | https://research.g2.com/methodology/categorization | g2 | 2 | ok | **complete taxonomy governance rules, verbatim** | 2026-08-10__g2__methodology-categorization__r2.html | — | en |
+| 2026-08-10 | https://research.g2.com/methodology/standard-definitions | g2 | 2 | ok | definitions of attributes/features; no category-governance rules | — | — | en |
+| 2026-08-10 | https://apps.shopify.com/categories | shopify-app-store | 1 | ok (301 on curl) | curated landing page; does **not** enumerate the taxonomy | — | Rung 2 (sitemap) | en |
+| 2026-08-10 | https://apps.shopify.com/sitemap.xml | shopify-app-store | 2 | ok | sitemap index; per-language category sitemaps for 23 locales | — | — | en |
+| 2026-08-10 | https://apps.shopify.com/sitemap_categories_en.xml | shopify-app-store | 2 | ok | **161 categories — complete enumeration** | 2026-08-10__shopify__sitemap-categories-en__r2.xml | — | en |
+| 2026-08-10 | https://apps.shopify.com/sitemap_categories_tr.xml | shopify-app-store | 2 | ok | 161 categories | 2026-08-10__shopify__sitemap-categories-tr__r2.xml | — | tr |
+| 2026-08-10 | https://apps.shopify.com/sitemap_categories_es.xml | shopify-app-store | 2 | ok | 161 categories | 2026-08-10__shopify__sitemap-categories-es__r2.xml | — | es |
+| 2026-08-10 | https://apps.shopify.com/categories/marketing-and-conversion-marketing-email-marketing | shopify-app-store | 1 | ok | category page; description present, **no app count published** | — | — | en |
+| 2026-08-10 | https://apps.shopify.com/categories/marketing-and-conversion-marketing-sms-marketing | shopify-app-store | 1 | 302 | redirect, not followed | — | Rung 3 (batched) | en |
+| 2026-08-10 | https://ecosystem.hubspot.com/marketplace/apps | hubspot-ecosystem | 1 | partial | landing page; no category enumeration | — | Rung 2 | en |
+| 2026-08-10 | https://ecosystem.hubspot.com/marketplace/apps/marketing | hubspot-ecosystem | 1 | partial | JS-rendered shell; no content | — | Rung 2 | en |
+| 2026-08-10 | https://ecosystem.hubspot.com/marketplace/apps/{marketing-automation, sms} (curl ×2) | hubspot-ecosystem | 1 | partial | **identical 53,230-byte shell for different categories** — content is client-rendered | — | **Rung 3 — per-category detail needs human transport** | en |
+| 2026-08-10 | https://ecosystem.hubspot.com/robots.txt | hubspot-ecosystem | 2 | ok | declares 7 marketplace sitemaps | — | — | en |
+| 2026-08-10 | https://ecosystem.hubspot.com/marketplace-apps-categories.xml | hubspot-ecosystem | 2 | ok | sitemap index; 17 languages | — | — | en |
+| 2026-08-10 | https://ecosystem.hubspot.com/marketplace-en-apps-categories-1.xml | hubspot-ecosystem | 2 | ok | **60 categories — complete enumeration**, plus per-category pagination depth | 2026-08-10__hubspot__sitemap-apps-categories-en__r2.xml | — | en |
+
+### Block rate by language — pass 01
+
+| language | attempts | blocked (403) | block rate |
+|---|---|---|---|
+| `en` | 29 | 13 | 45% |
+| `tr` | 1 | 0 | 0% |
+| `es` | 1 | 0 | 0% |
+| `ru`, `zh`, `pt`, `ka` | 0 | — | **NOT-ATTEMPTED** |
+
+**This measurement is not yet meaningful, and saying so is the point of having it.** The two
+non-English attempts were *locale variants of an Anglophone platform* (Shopify), not
+domestically-owned sources. Nothing here tests the hypothesis the measurement exists to test.
+Four of the six required languages have zero attempts. The number is reported anyway, at
+`n=2`, so that it is visibly inadequate rather than invisibly absent.
+
+**A finding that runs the other way and should be stated plainly:** in this pass the blocking
+fell entirely on English-language enterprise sources — Gartner at 100%, G2's category pages at
+100% — while every non-English attempt succeeded. The expected direction of the bias is not
+the observed direction *yet*. Do not generalize from `n=2`.
