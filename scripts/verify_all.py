@@ -18,7 +18,7 @@ for r in recs:
         if r.get(k)!=v: diffs.append((r["company_id"],k))
 chk("no original G2/Gartner field mutated", not diffs, diffs[:6])
 
-done=[r for r in recs if r["enrichment"]["enrichment_status"] in ("done","unreachable","partially_recovered","paste_only")]
+done=[r for r in recs if r["enrichment"]["enrichment_status"] in ("done","unreachable","partially_recovered","paste_only","third_party_only")]
 chk("every company attempted", len(done)==237, len(done))
 
 over=[(r["company"],r["enrichment"]["fetches_used"]) for r in done if r["enrichment"]["fetches_used"]>4]
@@ -63,7 +63,8 @@ unconf=[r["company"] for r in done
         if not r["enrichment"].get("unreachable")
         and not r["enrichment"].get("domain_confirmed_by")
         and not r["enrichment"].get("recovery_evidence")
-        and not (r["enrichment"].get("paste_source") or {}).get("identity")]
+        and not (r["enrichment"].get("paste_source") or {}).get("identity")
+        and not (r["enrichment"].get("third_party_evidence") or {}).get("identity")]
 chk("every enriched company has a recorded identity chain", not unconf, unconf[:8])
 
 # capture exists for every reachable company
@@ -93,4 +94,8 @@ chk("paste-derived cells all carry extraction_mode: paste-text", not pm, pm[:5])
 pv=[r["company"] for r in done if r["enrichment"]["enrichment_status"]=="paste_only"
     and (r["enrichment"].get("value_proposition") or {}).get("value")]
 chk("paste-only records never carry a value_proposition", not pv, pv[:5])
+tp=[r["company"] for r in done if r["enrichment"]["enrichment_status"]=="third_party_only"
+    and any((r["enrichment"].get(f) or {}).get("value") not in (None,"",[])
+            for f in ("description_own","value_proposition","channels","functionality","solution_type"))]
+chk("third-party-only records carry no vendor-positioning fields", not tp, tp[:5])
 print("\nVERIFICATION", "PASSED" if ok else "FAILED")

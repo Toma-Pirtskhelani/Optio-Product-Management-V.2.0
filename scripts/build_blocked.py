@@ -1,6 +1,6 @@
 import json,re,collections,os
 recs=[json.loads(l) for l in open('outputs/companies.jsonl')]
-done=[r for r in recs if r['enrichment']['enrichment_status'] in ("done","unreachable","partially_recovered","paste_only")]
+done=[r for r in recs if r['enrichment']['enrichment_status'] in ("done","unreachable","partially_recovered","paste_only","third_party_only")]
 un=[r for r in done if r['enrichment'].get('unreachable')]
 rows=["# Blocked and unresolved domains — handoff to a later human-transport pass","",
  "Companies this pass could not reach at Rungs 1–2. **No paste was requested during the pass**",

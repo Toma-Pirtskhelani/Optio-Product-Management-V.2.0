@@ -3,7 +3,7 @@
 Companies this pass could not reach at Rungs 1–2. **No paste was requested during the pass**
 and **no user-agent was spoofed** to get past a refusal.
 
-**2 of 229 attempted (1%).**
+**2 of 237 attempted (1%).**
 
 | Company | Cause | Best HTTP | Candidates tried |
 |---|---|---|---|

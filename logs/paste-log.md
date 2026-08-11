@@ -81,3 +81,51 @@ user's, not mine.
 **unknown** branch total. `total_count` is `PRIMARY` *within* each market — every page
 enumerates fully — and `UNKNOWN` at branch level. The first supports `ABSENT-ENUMERATED`
 inside a market; the second forbids any statement about how many such markets exist.
+
+### Pass 03 — 36 vendor pages, human-transported, received 2026-08-11
+
+**A purposive sample: the user chose which pages to send.** That is a sampling decision and is
+logged as one. Every row records what the paste actually was, because four classes arrived and
+they are not interchangeable.
+
+`Preamble` counts unattributed prose lines above the pasted URL. Those lines were **discarded** —
+they are of unknown authorship, and two acquisition claims found in them were rejected (`C-0009`).
+
+| paste_id | date | company | url supplied | classification | identity | lines | preamble | how it was used |
+|---|---|---|---|---|---|---|---|---|
+| P-101 | 2026-08-11 | Amazing Mail | https://www.amazingmail.com/ | VENDOR_SITE | ✅ | 53 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-102 | 2026-08-11 | AT Internet | https://developers.piano.io/analytics/ | THIRD_PARTY | ❌ | 29 | 0 | **not used** |
+| P-103 | 2026-08-11 | Beaconsmind | https://www.gartner.com/reviews/product/beaconsmind | THIRD_PARTY | ✅ | 247 | 0 | Rung-4 existence evidence only |
+| P-104 | 2026-08-11 | BrandOps | https://brandops.work/ | VENDOR_SITE | ✅ | 172 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-105 | 2026-08-11 | BSI Software | https://www.bsi-software.com/en | VENDOR_SITE | ✅ | 216 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-106 | 2026-08-11 | Capillary Technologies | https://www.capillarytech.com/ | VENDOR_SITE | ✅ | 148 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-107 | 2026-08-11 | Cisco Systems | https://www.cisco.com/c/dam/en/us/products/conferencing/Cisco_WebEx_Marketing_Automation.pdf | VENDOR_SITE | ✅ | 80 | 0 | paste is the only evidence — paste-derived fields |
+| P-108 | 2026-08-11 | ClickDimensions | https://clickdimensions.com/ | VENDOR_SITE | ✅ | 190 | 0 | paste is the only evidence — paste-derived fields |
+| P-109 | 2026-08-11 | Datorama | https://funnel.io/what-is-datorama | THIRD_PARTY | ✅ | 178 | 0 | Rung-4 existence evidence only |
+| P-110 | 2026-08-11 | Ecomail | https://ecomail.app/ | VENDOR_SITE | ✅ | 146 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-111 | 2026-08-11 | Emailidea | *none supplied* | VENDOR_PAGE_NO_URL | ✅ | 205 | 0 | paste is the only evidence — paste-derived fields |
+| P-112 | 2026-08-11 | FollowAnalytics | https://mmaglobal.com/sponsors/followanalytics | THIRD_PARTY | ✅ | 62 | 0 | Rung-4 existence evidence only |
+| P-113 | 2026-08-11 | Free Stand Sampling Solutions | https://freestand.in/ | VENDOR_SITE | ✅ | 149 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-114 | 2026-08-11 | Fresh Relevance | https://dotdigital.com/personalization/ | THIRD_PARTY | ✅ | 198 | 1 | Rung-4 existence evidence only |
+| P-115 | 2026-08-11 | Hewlett Packard Enterprise | https://www.hpe.com/emea_europe/en/home.html | VENDOR_SITE | ✅ | 130 | 0 | paste is the only evidence — paste-derived fields |
+| P-116 | 2026-08-11 | IBM | https://www.ibm.com/products/watsonx | VENDOR_SITE | ✅ | 234 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-117 | 2026-08-11 | inConcert | https://www.inconcertcx.com/en | VENDOR_SITE | ✅ | 170 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-118 | 2026-08-11 | Intense Technologies | https://www.in10stech.com/ | VENDOR_SITE | ✅ | 175 | 0 | paste is the only evidence — paste-derived fields |
+| P-119 | 2026-08-11 | Lob | https://www.lob.com/ | VENDOR_SITE | ✅ | 129 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-120 | 2026-08-11 | Longtail UX | https://au.linkedin.com/company/longtail-ux | THIRD_PARTY | ✅ | 86 | 0 | Rung-4 existence evidence only |
+| P-121 | 2026-08-11 | Mindmatrix | https://www.mindmatrix.net/ | VENDOR_SITE | ✅ | 289 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-122 | 2026-08-11 | NewZapp | *none supplied* | VENDOR_PAGE_NO_URL | ✅ | 169 | 0 | paste is the only evidence — paste-derived fields |
+| P-123 | 2026-08-11 | PAR | https://www.salesforce.com/marketing/b2b-automation/ | THIRD_PARTY | ❌ | 159 | 1 | **not used** |
+| P-124 | 2026-08-11 | Reachdesk | https://www.reachdesk.com/ | VENDOR_SITE | ✅ | 122 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-125 | 2026-08-11 | SAP | https://www.sap.com/products/crm/engagement-cloud.html | VENDOR_SITE | ✅ | 182 | 0 | paste is the only evidence — paste-derived fields |
+| P-126 | 2026-08-11 | SAS | https://support.sas.com/en/software/marketing-automation-support.html | VENDOR_SITE | ✅ | 87 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-127 | 2026-08-11 | Spectrm | https://www.linkedin.com/company/spectrm | THIRD_PARTY | ✅ | 100 | 1 | Rung-4 existence evidence only |
+| P-128 | 2026-08-11 | Striker Soft Solutions | https://se.linkedin.com/company/strikersoft | THIRD_PARTY | ✅ | 208 | 1 | Rung-4 existence evidence only |
+| P-129 | 2026-08-11 | SwiftERM Hyper-Personalisation | https://swifterm.com/ | VENDOR_SITE | ✅ | 151 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-130 | 2026-08-11 | Treasure AI | https://www.treasure.ai/ | VENDOR_SITE | ✅ | 164 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-131 | 2026-08-11 | Veloxy IO | https://veloxy.io/ | VENDOR_SITE | ✅ | 204 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-132 | 2026-08-11 | Webmaxy | https://www.webmaxy.co/ | VENDOR_SITE | ✅ | 158 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-133 | 2026-08-11 | Wigzo | https://www.crunchbase.com/organization/wigzo-technologies | THIRD_PARTY | ✅ | 274 | 0 | Rung-4 existence evidence only |
+| P-134 | 2026-08-11 | WILY | https://wilyglobal.com/ | VENDOR_SITE | ✅ | 69 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-135 | 2026-08-11 | xiQ | https://xiqinc.com/ | VENDOR_SITE | ✅ | 176 | 0 | re-fetched from this URL — record is HTML-derived |
+| P-136 | 2026-08-11 | Zeta | https://www.zeta.tech/us/ | VENDOR_SITE | ✅ | 478 | 0 | re-fetched from this URL — record is HTML-derived |
