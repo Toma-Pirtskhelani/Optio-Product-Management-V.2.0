@@ -3,6 +3,13 @@
 Written after all 237 companies were processed. Part 1 records what happened, part 2 judges
 how well the method spent its effort, part 3 is the plan that follows from part 2.
 
+> **Status note.** Figures below describe the state **at the end of the main pass**, when 45
+> companies were unreachable. Phases A–C have since run: unreachable is now **36**, with 9
+> companies partially recovered (domain confirmed, marketing site still blocked). The numbers
+> are left as written because they are what the plan was reasoned from — updating them would
+> hide the evidence the decisions rested on. Current state is in `RESEARCH-LOG.md`.
+> **Phase D (Shopify expansion) was dropped by decision, not attempted and abandoned.**
+
 ---
 
 ## 1. What happened
@@ -122,7 +129,7 @@ already fetched, `founded_year` and country gain a **second, differently-biased 
 Wikidata is third-party curated: its error modes are not the vendor's error modes. That is the
 first genuine corroboration available to this study, and it is free.
 
-### Phase D — new companies from an unblocked source
+### Phase D — new companies from an unblocked source *(NOT RUN — dropped by decision)*
 The company set is capped by what we hold: Gartner is complete at 352, but **G2 gave only 65 of
 1,810 listings (3.6%)**. The Shopify App Store is open at Rungs 1–2, and its
 `email-marketing`, `sms-marketing`, `web-push` and `abandoned-cart` categories are IN under our

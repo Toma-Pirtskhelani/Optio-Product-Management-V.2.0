@@ -177,14 +177,34 @@ Two defects caught by verification rather than by luck: a relaxed identity rule 
 identity by carrying the company name in their title. Both fixed, the bad record purged with its
 capture, and every earlier resolution re-audited.
 
+**18 · 2026-08-11 · Phases A–C: recovery, and the first corroboration in the study**
+Retrospective first: the main pass spent **34% of all 1,344 requests guessing domains from
+listing names**, and every one of those 458 requests belongs to a company it then failed to
+reach. Two new sources were feasibility-tested before planning and both changed the plan —
+**Wikidata covers only ~5% of this population and disambiguates badly** ("Bloomreach" returns an
+open-source CMS), and **DNS/MX liveness was rejected outright** because `datorama.com` and
+`followanalytics.com` still resolve with live mail records years after being absorbed.
+**A:** Wikidata used only to *propose* a domain, never to supply values — it found
+`capillarytech.com` for Capillary Technologies, the case a name-derived ladder could never reach.
+**B:** Rung-2 alternates (`docs.`, `developers.`, `help.`, `/llms.txt`, `/sitemap.xml`) recovered
+**9 companies**, all via documentation subdomains. Their marketing fields stay `UNKNOWN` and a
+verification check enforces it: a docs page proves the company is live, not how it positions
+itself. Unreachable **45 → 36**; the 403 bucket **16 → 8**.
+**C:** Joined on **domain, never name**. 2 `founded_year` cells are now **CORROBORATED** — the
+first non-self-declared agreement anywhere in this study — and 5 more gained a value their own
+site never published. The gate rejected Brevo and Thryv, whose Wikidata entities still carry
+pre-rename domains (`sendinblue.com`, `dexmedia.com`); logged as `C-0008` rather than accepted.
+**Phase D (Shopify expansion) dropped by decision.**
+
 ---
 
 ## Where it stands
 
 All 10 IN classifications accepted and exported. Canonical store is **`outputs/companies.jsonl`**
 (237 companies, one per line) with `outputs/companies-index.md` (16 KB) as the context anchor.
-**All 237 enriched from vendor sites: 192 reachable, 45 unreachable and listed in
-`outputs/blocked-domains.md` for a later human-transport pass.**
+**All 237 processed: 192 enriched, 9 partially recovered (domain confirmed, marketing site
+blocked), 36 unreachable — all listed in `outputs/blocked-domains.md` for a later
+human-transport pass.** 201 have a confirmed website. 2 cells are `CORROBORATED`.
 
 **The binding constraint is G2 coverage: 65 of 1,810 listings (3.6%).** The Gartner half is
 complete at 352 of 352. Closing the G2 half needs ~111 paginated pastes; nothing else in the

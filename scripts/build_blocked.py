@@ -1,6 +1,6 @@
 import json,re,collections,os
 recs=[json.loads(l) for l in open('outputs/companies.jsonl')]
-done=[r for r in recs if r['enrichment']['enrichment_status'] in ('done','unreachable')]
+done=[r for r in recs if r['enrichment']['enrichment_status'] in ('done','unreachable','partially_recovered')]
 un=[r for r in done if r['enrichment'].get('unreachable')]
 rows=["# Blocked and unresolved domains — handoff to a later human-transport pass","",
  "Companies this pass could not reach at Rungs 1–2. **No paste was requested during the pass**",
@@ -15,6 +15,16 @@ for r in sorted(un,key=lambda x:x['company'].lower()):
           "served a page that did not identify the company (parked, for-sale, or a different owner)" if best==200 else f"HTTP {best}")
     k[kind]+=1
     rows.append(f"| {r['company']} | {kind} | {best or '—'} | {', '.join(dict.fromkeys(re.sub('^https://','',x['url']) for x in a))[:80]} |")
+rec=[r for r in recs if r['enrichment']['enrichment_status']=='partially_recovered']
+rows+=["","## Partially recovered — domain confirmed, marketing site still blocked","",
+ f"**{len(rec)} companies** were reached only through a documentation, developer or support",
+ "subdomain after their marketing site refused automated access. That confirms the company is",
+ "live and the domain is correct. It establishes nothing about positioning, channels, pricing",
+ "or deployment, so those fields remain `UNKNOWN` — filling them from a docs page would mix two",
+ "different kinds of evidence under one field name.","",
+ "| Company | Reached via |","|---|---|"]
+for r in sorted(rec,key=lambda x:x['company'].lower()):
+    rows.append(f"| {r['company']} | {r['enrichment']['recovery_evidence']['url']} |")
 rows+=["","## Cause breakdown",""]+[f"- **{a}** — {b}" for a,b in k.most_common()]
 rows+=["","Each remains a full record in `companies.jsonl` with `unreachable: true` and its reason.",
 "None was dropped; none was filled from memory.","",

@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-Enriched so far: **192 of 237**. Regenerated 2026-08-11.
+**192 enriched · 9 partially recovered · 36 unreachable** of 237. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -11,13 +11,13 @@ jq -c 'select(.category_count>=5) | {company, channels:.enrichment.channels.valu
 ```
 
 `Src` — **B** both sources · **G** Gartner only · **2** G2 only.  
-`St` — enrichment state: **N** not started · **D** done · **U** unreachable.  
+`St` — **D** done · **P** partially recovered (domain confirmed, marketing site blocked) · **U** unreachable.  
 `Ch` / `Ind` — count of channels / industries served.  
 A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a finding, not a gap in effort.
 
 | Company | HQ | Founded | Status | Deployment | Ch | Ind | Cats | Src | St | F |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Salesforce | US | — | — | — | — | — | 7 | B | D | 4 |
+| Salesforce | US | 1999 | — | — | — | — | 7 | B | D | 4 |
 | Braze | — | — | — | — | 6 | 8 | 6 | B | D | 4 |
 | Dotdigital | — | — | — | — | 2 | — | 6 | B | D | 3 |
 | Adobe | — | — | — | — | — | — | 5 | B | P | 0 |
@@ -25,10 +25,10 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Customer.io | US | 2012 | — | — | 6 | 6 | 5 | B | D | 4 |
 | Iterable | — | — | — | — | 4 | — | 5 | B | D | 3 |
 | Klaviyo | US | 2012 | — | — | 6 | — | 5 | B | D | 4 |
-| MoEngage | — | — | — | — | 7 | — | 5 | B | D | 3 |
+| MoEngage | — | 2014 | — | — | 7 | — | 5 | B | D | 3 |
 | Netmera | — | — | — | — | 6 | 12 | 5 | B | D | 3 |
 | Acoustic | US | 2019 | — | — | 3 | 12 | 4 | G | D | 4 |
-| ActiveCampaign | — | — | — | — | 3 | — | 4 | B | D | 4 |
+| ActiveCampaign | — | 2003 | — | — | 3 | — | 4 | B | D | 4 |
 | Attentive | US | 2016 | — | — | 4 | — | 4 | B | D | 4 |
 | CleverTap | IN | — | — | — | 6 | — | 4 | G | D | 4 |
 | Insider One | — | — | — | — | 6 | 8 | 4 | B | D | 4 |
@@ -102,7 +102,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Aislelabs | — | — | — | — | 2 | 12 | 1 | G | D | 4 |
 | Alterian | — | — | — | — | — | — | 1 | G | D | 4 |
 | Amazing Mail | — | — | — | — | — | — | 1 | G | U | 0 |
-| Amazon Web Services | — | — | — | — | — | 6 | 1 | G | D | 3 |
+| Amazon Web Services | — | 2006 | — | — | — | 6 | 1 | G | D | 3 |
 | Appier | — | — | — | — | 1 | 12 | 1 | G | D | 3 |
 | AT Internet | — | — | — | — | — | — | 1 | G | U | 0 |
 | AtomPark Software | — | — | — | — | 3 | — | 1 | G | D | 3 |
@@ -207,7 +207,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Postalytics | — | — | — | — | 2 | 12 | 1 | G | D | 3 |
 | PostcardMania | — | — | — | — | — | — | 1 | G | P | 0 |
 | PostGrid | — | — | — | — | — | — | 1 | G | P | 0 |
-| Precisely | — | — | legacy | — | 3 | 12 | 1 | G | D | 3 |
+| Precisely | — | 1968 | legacy | — | 3 | 12 | 1 | G | D | 3 |
 | Printfection | — | — | — | — | — | — | 1 | G | D | 4 |
 | Pyze | — | — | — | private-cloud | — | 12 | 1 | G | D | 4 |
 | Qujam | US | 2023 | — | — | — | — | 1 | G | D | 4 |

@@ -328,6 +328,7 @@ evidence does not.
 
 ```
 RESEARCH-LOG.md            chronological record of every step — read this first
+LEARNINGS.md               method rules earned from specific incidents — read before designing a pass
 CLAUDE.md                  operating rules (this file)
 research-protocol.md       the standing method: ladder, grades, failure sampling, paste discipline
 industry-registry.md       the merge key — starts empty, built only by evidence
@@ -370,6 +371,7 @@ what it changed, what it cost. It is the first thing a new reader — or a new s
 ## 11. Session start checklist
 
 1. Read `RESEARCH-LOG.md` first — it says where the study actually is.
+   Read `LEARNINGS.md` before designing any new pass — it is where the expensive mistakes are.
 2. Read this file, `research-protocol.md`, and `industry-registry.md`.
 3. Confirm the blinding still holds — no client fact has entered any file.
 4. Check `logs/fetch-log.md` for open Rung-3 requests awaiting a paste.

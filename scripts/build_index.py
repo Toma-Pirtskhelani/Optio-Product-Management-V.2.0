@@ -18,10 +18,13 @@ for r in recs:
         st=e["enrichment_status"][0].upper(), fu=e["fetches_used"]))
 rows.sort(key=lambda x:(-x["cats"], x["company"].lower()))
 done=sum(1 for r in recs if r["enrichment"]["enrichment_status"]=="done")
+part=sum(1 for r in recs if r["enrichment"]["enrichment_status"]=="partially_recovered")
+unre=sum(1 for r in recs if r["enrichment"]["enrichment_status"]=="unreachable")
 L=[ "# Companies index",
     "",
     f"**{len(recs)} companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.",
-    f"Enriched so far: **{done} of {len(recs)}**. Regenerated {datetime.date.today().isoformat()}.",
+    f"**{done} enriched · {part} partially recovered · {unre} unreachable** of {len(recs)}. "
+    f"Regenerated {datetime.date.today().isoformat()}.",
     "",
     "Pull a full record by id:",
     "",
@@ -31,7 +34,7 @@ L=[ "# Companies index",
     "```",
     "",
     "`Src` — **B** both sources · **G** Gartner only · **2** G2 only.  ",
-    "`St` — enrichment state: **N** not started · **D** done · **U** unreachable.  ",
+    "`St` — **D** done · **P** partially recovered (domain confirmed, marketing site blocked) · **U** unreachable.  ",
     "`Ch` / `Ind` — count of channels / industries served.  ",
     "A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a finding, not a gap in effort.",
     "",

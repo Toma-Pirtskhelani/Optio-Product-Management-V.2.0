@@ -3,7 +3,7 @@
 Companies this pass could not reach at Rungs 1–2. **No paste was requested during the pass**
 and **no user-agent was spoofed** to get past a refusal.
 
-**36 of 228 attempted (16%).**
+**36 of 237 attempted (15%).**
 
 | Company | Cause | Best HTTP | Candidates tried |
 |---|---|---|---|
@@ -43,6 +43,26 @@ and **no user-agent was spoofed** to get past a refusal.
 | WILY | served a page that did not identify the company (parked, for-sale, or a different owner) | 200 | wily.com, www.wily.com, wily.io, www.wily.io, wily.ai, www.wily.ai, wily.co, www |
 | xiQ | blocked (403/401/429) | 403 | xiq.com, www.xiq.com, xiq.io, xiq.ai, www.xiq.ai, xiq.co, www.xiq.co |
 | Zeta | blocked (403/401/429) | 401 | zeta.com, www.zeta.com, zeta.io, zeta.ai, zeta.co |
+
+## Partially recovered — domain confirmed, marketing site still blocked
+
+**9 companies** were reached only through a documentation, developer or support
+subdomain after their marketing site refused automated access. That confirms the company is
+live and the domain is correct. It establishes nothing about positioning, channels, pricing
+or deployment, so those fields remain `UNKNOWN` — filling them from a docs page would mix two
+different kinds of evidence under one field name.
+
+| Company | Reached via |
+|---|---|
+| Adobe | https://experienceleague.adobe.com/en/docs |
+| AfterShip | https://support.aftership.com/en |
+| Constant Contact | https://knowledgebase.constantcontact.com/ |
+| Freshworks | https://developers.freshworks.com/ |
+| Mastercard | https://developer.mastercard.com/ |
+| MessageGears | https://docs.messagegears.com/ |
+| PostcardMania | https://help.postcardmania.com/ |
+| PostGrid | https://docs.postgrid.com/ |
+| Swrve | https://docs.swrve.com/ |
 
 ## Cause breakdown
 
