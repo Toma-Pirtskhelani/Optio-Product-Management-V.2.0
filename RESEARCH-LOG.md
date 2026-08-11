@@ -196,15 +196,38 @@ site never published. The gate rejected Brevo and Thryv, whose Wikidata entities
 pre-rename domains (`sendinblue.com`, `dexmedia.com`); logged as `C-0008` rather than accepted.
 **Phase D (Shopify expansion) dropped by decision.**
 
+**19 · 2026-08-11 · 36 human-transported pages close the unreachable gap to 2**
+Four kinds of thing arrived under one name, and treating them alike would have been the whole
+mistake: **24 vendor sites, 10 third-party pages, 2 vendor pages with no URL, 2 rejected**.
+Classification took five attempts — furniture-matching called prose a page; a short-line test
+called LinkedIn profiles pages, which they are; four files turned out to be **unattributed prose
+followed by a real paste**, so the preamble is discarded and the URL anchors what counts.
+**The identity gate now guards pastes too and earned itself at once:** PAR's paste is
+Salesforce's *Pardot* page — "par" passed a naive substring test only because it sits inside
+"Pardot" — and AT Internet's paste is Piano documentation that never names AT Internet.
+**The pastes' real value was the address.** 19 companies were re-fetched from paste-supplied
+domains, so their records are HTML-derived and comparable in kind with the rest — including
+`capillarytech.com`, `inconcertcx.com`, `zeta.tech`, `in10stech.com`, `xiqinc.com`, which no
+name-derived ladder reaches. Ten failed the gate on names shorter than four characters
+(`IBM`, `Lob`, `SAS`, `xiQ`); the rule is now **split by provenance** — strict when a domain is
+guessed, host-root sufficient when a human supplied it and the paste already named the company.
+**7 paste-only records** where the site still refuses everything. `value_proposition` is *not*
+extracted there: plain text has no `<h1>` and positional guessing returned "Partner Login" and
+"Slide 2 of 6." A check enforces its absence. **8 third-party records** establish existence only.
+Two acquisition claims were rejected because they sat in the discarded preamble; **Wigzo →
+Shiprocket** and **Datorama → Salesforce** survive because the page itself says so (`C-0009`).
+**Unreachable 45 → 2.** `description_own` +26, `channels` +17, `website` +19. `solution_type`
+unchanged at 13 — even human transport does not make vendors publish deployment models.
+
 ---
 
 ## Where it stands
 
 All 10 IN classifications accepted and exported. Canonical store is **`outputs/companies.jsonl`**
 (237 companies, one per line) with `outputs/companies-index.md` (16 KB) as the context anchor.
-**All 237 processed: 192 enriched, 9 partially recovered (domain confirmed, marketing site
-blocked), 36 unreachable — all listed in `outputs/blocked-domains.md` for a later
-human-transport pass.** 201 have a confirmed website. 2 cells are `CORROBORATED`.
+**All 237 processed: 211 enriched, 9 partially recovered, 7 paste-only, 8 third-party-only,
+2 unreachable.** 220 have a confirmed website. 2 cells are `CORROBORATED`. 15 verification
+checks pass, including four that police the boundaries between evidence types.
 
 **The binding constraint is G2 coverage: 65 of 1,810 listings (3.6%).** The Gartner half is
 complete at 352 of 352. Closing the G2 half needs ~111 paginated pastes; nothing else in the

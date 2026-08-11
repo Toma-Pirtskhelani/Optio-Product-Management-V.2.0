@@ -149,6 +149,40 @@ disclosure, not a failed field.
 The same applies to the study's largest known gap: **G2 gave 65 of 1,810 listings (3.6%)**, and
 that stays recorded rather than quietly closed.
 
+## 15. Human transport arrives as several different things at once
+
+**Rule.** Never treat "the user sent pages" as one input. Classify every item before using any
+of it.
+
+**Incident.** 36 pastes contained vendor sites, third-party profiles, pages with no URL, prose
+of unknown authorship, and one zero-byte file. Four items were an unattributed preamble followed
+by a real page. Two named a different company entirely — PAR's paste was Salesforce's *Pardot*
+page. Ingesting them as one class would have put unattributable text into records that are
+otherwise traceable to a fetched page.
+
+**Corollary.** The most valuable thing in a paste is often not its content but **the URL**.
+Nineteen companies were re-fetched from paste-supplied domains, which kept their records
+HTML-derived and comparable, instead of parsing the paste into a hand-made exception class.
+
+## 16. A gate's strictness should follow the provenance of what it is checking
+
+**Rule.** The same claim deserves different scrutiny depending on how it arrived.
+
+**Incident.** The identity gate rejected `ibm.com`, `lob.com` and `xiqinc.com` on a
+four-character minimum that exists to stop short strings matching by accident **when a domain is
+a guess**. When a human supplies the URL and the paste itself names the company, the chain is
+already stronger, and a host-root match is enough. Splitting the rule by provenance recovered
+ten companies without weakening the guessing path.
+
+## 17. Adding a state breaks every filter that predates it
+
+**Incident.** Introducing `partially_recovered` silently dropped records from the verifier and
+both view-builders. Adding `paste_only` and `third_party_only` did it **again** — reporting
+"229 of 237 attempted" and a wrong blocked denominator.
+
+**Rule.** When a new status appears, grep for every filter that enumerates statuses. And prefer
+checks that assert a total rather than filtering to a known set.
+
 ---
 
 ## Costs worth budgeting next time
