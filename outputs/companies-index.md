@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-**211 enriched · 9 partially recovered · 10 unreachable** of 237. Regenerated 2026-08-11.
+**211 enriched · 9 partially recovered · 2 unreachable** of 237. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -48,7 +48,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Smart Communications | — | — | — | — | — | 11 | 3 | G | D | 3 |
 | Tech Mahindra | IN | — | — | — | 1 | 12 | 3 | G | D | 3 |
 | Upland | — | — | legacy | — | — | — | 3 | G | D | 2 |
-| Wigzo | — | — | — | — | — | — | 3 | G | U | 0 |
+| Wigzo | — | — | — | — | — | — | 3 | G | T | 0 |
 | Xtremepush | IE | 2015 | — | — | — | — | 3 | G | D | 3 |
 | Zeta | — | — | — | — | 1 | — | 3 | G | D | 3 |
 | Acquia | US | 2007 | — | api-platform | — | — | 2 | G | D | 4 |
@@ -109,7 +109,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | AWeber | — | 1998 | — | — | 3 | — | 1 | G | D | 3 |
 | Barilliance | — | — | — | — | 3 | — | 1 | G | D | 4 |
 | Base | — | — | — | — | 1 | — | 1 | G | D | 4 |
-| Beaconsmind | — | — | — | — | — | — | 1 | G | U | 0 |
+| Beaconsmind | — | — | — | — | — | — | 1 | G | T | 0 |
 | Benchmark Email | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Birdeye | — | — | — | — | — | — | 1 | 2 | D | 2 |
 | BiteSpeed | — | — | — | — | 4 | — | 1 | G | D | 2 |
@@ -128,7 +128,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Critical Impact | — | — | — | — | 1 | — | 1 | G | D | 2 |
 | CustomerInsights.ai | — | — | — | — | — | — | 1 | G | D | 3 |
 | DANAconnect | — | — | — | — | 5 | — | 1 | G | D | 3 |
-| Datorama | — | — | — | — | — | — | 1 | G | U | 0 |
+| Datorama | — | — | — | — | — | — | 1 | G | T | 0 |
 | Delivra | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | Digitalbox | — | — | — | — | — | — | 1 | G | D | 2 |
 | Duda | — | — | — | — | — | — | 1 | 2 | D | 2 |
@@ -144,10 +144,10 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | EZ Texting | US | — | — | — | 4 | 12 | 1 | 2 | D | 4 |
 | Flodesk | — | — | — | — | 2 | — | 1 | 2 | D | 4 |
 | FlowUp | — | — | — | — | — | — | 1 | G | D | 2 |
-| FollowAnalytics | — | — | — | — | — | — | 1 | G | U | 0 |
+| FollowAnalytics | — | — | — | — | — | — | 1 | G | T | 0 |
 | Foursquare | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Free Stand Sampling Solutions | — | — | — | — | — | — | 1 | G | D | 3 |
-| Fresh Relevance | — | — | — | — | — | — | 1 | G | U | 0 |
+| Fresh Relevance | — | — | — | — | — | — | 1 | G | T | 0 |
 | Freshworks | — | — | — | — | — | — | 1 | G | P | 0 |
 | Frizbit | — | — | — | — | 5 | — | 1 | G | D | 4 |
 | GetResponse | PL | 1998 | — | — | 6 | — | 1 | 2 | D | 4 |
@@ -178,7 +178,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | lemlist | — | — | — | — | 4 | — | 1 | 2 | D | 4 |
 | Levitate | — | — | — | — | — | — | 1 | 2 | D | 2 |
 | Lob | US | — | — | — | 1 | 12 | 1 | G | D | 4 |
-| Longtail UX | — | — | — | — | — | — | 1 | G | U | 0 |
+| Longtail UX | — | — | — | — | — | — | 1 | G | T | 0 |
 | Mailgun | — | — | — | — | 2 | — | 1 | 2 | D | 4 |
 | Mapp | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | Marigold | — | — | — | — | — | — | 1 | G | D | 2 |
@@ -226,12 +226,12 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Sitecore | US | 2001 | — | — | 1 | — | 1 | G | D | 3 |
 | SlickText | — | 2012 | — | — | 4 | — | 1 | 2 | D | 4 |
 | Soprano | — | — | — | — | — | — | 1 | G | D | 2 |
-| Spectrm | — | — | — | — | — | — | 1 | G | U | 0 |
+| Spectrm | — | — | — | — | — | — | 1 | G | T | 0 |
 | SpiceSend | — | — | legacy | — | 1 | — | 1 | G | D | 3 |
 | Splio | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | Sprinklr | United States | — | — | — | 5 | 12 | 1 | G | D | 4 |
 | Storyly | US | 2020 | — | — | — | — | 1 | G | D | 3 |
-| Striker Soft Solutions | — | — | — | — | — | — | 1 | G | U | 0 |
+| Striker Soft Solutions | — | — | — | — | — | — | 1 | G | T | 0 |
 | SugarAI | — | — | — | — | — | 2 | 1 | G | D | 4 |
 | SwiftERM Hyper-Personalisation | United Kingdom | — | — | — | 3 | — | 1 | G | D | 3 |
 | Swrve | — | — | — | — | — | — | 1 | G | P | 0 |
