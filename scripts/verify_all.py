@@ -18,7 +18,7 @@ for r in recs:
         if r.get(k)!=v: diffs.append((r["company_id"],k))
 chk("no original G2/Gartner field mutated", not diffs, diffs[:6])
 
-done=[r for r in recs if r["enrichment"]["enrichment_status"] in ("done","unreachable","partially_recovered")]
+done=[r for r in recs if r["enrichment"]["enrichment_status"] in ("done","unreachable","partially_recovered","paste_only")]
 chk("every company attempted", len(done)==237, len(done))
 
 over=[(r["company"],r["enrichment"]["fetches_used"]) for r in done if r["enrichment"]["fetches_used"]>4]
@@ -57,11 +57,14 @@ for r in done:
 chk("every quoted value appears verbatim in its own capture", not viol, viol[:8])
 
 # no enrichment without a confirmed domain
+# Three legitimate identity chains: a confirmed fetch, a Rung-2 recovery, or a paste that
+# passed the paste identity gate. Anything else means a record was filled from an unverified source.
 unconf=[r["company"] for r in done
         if not r["enrichment"].get("unreachable")
         and not r["enrichment"].get("domain_confirmed_by")
-        and not r["enrichment"].get("recovery_evidence")]
-chk("no company enriched from an unconfirmed domain", not unconf, unconf[:8])
+        and not r["enrichment"].get("recovery_evidence")
+        and not (r["enrichment"].get("paste_source") or {}).get("identity")]
+chk("every enriched company has a recorded identity chain", not unconf, unconf[:8])
 
 # capture exists for every reachable company
 nocap=[r["company"] for r in done if not r["enrichment"].get("unreachable")
@@ -83,4 +86,11 @@ bad=[r["company"] for r in done
      if (r["enrichment"].get("solution_type") or {}).get("value")
      and (r["enrichment"]["solution_type"].get("grade")!="INFERRED")]
 chk("solution_type only ever INFERRED, never defaulted", not bad, bad[:8])
+pm=[r["company"] for r in done if r["enrichment"]["enrichment_status"]=="paste_only"
+    and any((r["enrichment"].get(f) or {}).get("value") and (r["enrichment"][f].get("extraction_mode")!="paste-text")
+            for f in ("description_own","channels"))]
+chk("paste-derived cells all carry extraction_mode: paste-text", not pm, pm[:5])
+pv=[r["company"] for r in done if r["enrichment"]["enrichment_status"]=="paste_only"
+    and (r["enrichment"].get("value_proposition") or {}).get("value")]
+chk("paste-only records never carry a value_proposition", not pv, pv[:5])
 print("\nVERIFICATION", "PASSED" if ok else "FAILED")

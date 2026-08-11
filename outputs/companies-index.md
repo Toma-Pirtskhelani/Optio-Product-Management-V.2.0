@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-**211 enriched · 9 partially recovered · 17 unreachable** of 237. Regenerated 2026-08-11.
+**211 enriched · 9 partially recovered · 10 unreachable** of 237. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -34,7 +34,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Insider One | — | — | — | — | 6 | 8 | 4 | B | D | 4 |
 | Intuit | US | 1983 | — | — | 1 | — | 4 | B | D | 4 |
 | Oracle | — | — | legacy | — | 2 | — | 4 | G | D | 3 |
-| SAP | — | — | legacy | — | — | — | 4 | G | U | 0 |
+| SAP | — | — | legacy | — | 3 | — | 4 | G | P | 0 |
 | WebEngage | — | — | — | — | 7 | — | 4 | B | D | 4 |
 | Zoho | — | — | — | — | 1 | — | 4 | B | D | 3 |
 | Constant Contact | — | — | — | — | — | — | 3 | B | P | 0 |
@@ -58,7 +58,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Bloomreach | — | — | — | — | 5 | 12 | 2 | B | D | 4 |
 | Bluecore | — | — | — | — | 3 | — | 2 | G | D | 4 |
 | Capillary Technologies | — | — | — | — | — | 7 | 2 | G | D | 3 |
-| Cisco Systems | — | — | — | — | — | — | 2 | G | U | 0 |
+| Cisco Systems | — | — | — | — | 1 | — | 2 | G | P | 0 |
 | Clear C2 | — | — | — | — | — | — | 2 | G | D | 2 |
 | ContactPigeon | — | — | — | — | — | — | 2 | G | D | 2 |
 | Corefactors | US | — | — | — | — | — | 2 | G | D | 4 |
@@ -76,7 +76,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | MessageGears | — | — | — | — | — | — | 2 | G | P | 0 |
 | Microsoft | — | — | legacy | — | — | — | 2 | G | D | 4 |
 | Mindmatrix | US | 1998 | — | — | — | — | 2 | G | D | 3 |
-| NewZapp | — | — | — | — | — | — | 2 | G | U | 0 |
+| NewZapp | — | — | — | — | 1 | — | 2 | G | P | 0 |
 | Nvecta | — | — | — | — | 7 | 12 | 2 | G | D | 3 |
 | OneSignal | — | — | — | — | 6 | 12 | 2 | G | D | 4 |
 | OptiKPI | — | — | — | — | 4 | 12 | 2 | G | D | 4 |
@@ -122,7 +122,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Campaigner | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | CentraHub | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | ChannelMix | — | — | — | — | — | — | 1 | G | D | 2 |
-| ClickDimensions | — | — | — | — | — | — | 1 | G | U | 0 |
+| ClickDimensions | — | — | — | — | 2 | — | 1 | G | P | 0 |
 | Close | — | 2013 | — | — | — | — | 1 | 2 | D | 4 |
 | Creatio | — | — | — | — | — | 12 | 1 | G | D | 4 |
 | Critical Impact | — | — | — | — | 1 | — | 1 | G | D | 2 |
@@ -137,7 +137,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | E-goi | — | — | — | — | — | — | 1 | G | D | 2 |
 | Ecomail | CZ | — | — | — | 2 | — | 1 | G | D | 4 |
 | EcoSend | — | — | — | — | 2 | — | 1 | G | D | 4 |
-| Emailidea | — | — | — | — | — | — | 1 | G | U | 0 |
+| Emailidea | — | — | — | — | 3 | — | 1 | G | P | 0 |
 | Emma | — | — | — | — | — | — | 1 | 2 | D | 3 |
 | EngageBay Inc | — | 2017 | — | — | 5 | — | 1 | 2 | D | 3 |
 | Entirely | CH | — | — | — | — | — | 1 | G | D | 2 |
@@ -156,7 +156,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Grey Box | — | — | — | — | — | — | 1 | G | D | 2 |
 | HCLTech | — | — | — | on-premise, managed-service | 1 | 12 | 1 | G | D | 3 |
 | Health Chain | — | — | — | — | 1 | — | 1 | G | D | 3 |
-| Hewlett Packard Enterprise | — | — | — | — | — | — | 1 | G | U | 0 |
+| Hewlett Packard Enterprise | — | — | — | — | 2 | — | 1 | G | P | 0 |
 | Hey Sid | — | — | — | — | — | — | 1 | G | D | 2 |
 | HOLLYFY | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | Hostinger | — | 2004 | — | — | 1 | — | 1 | G | D | 4 |
@@ -167,7 +167,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Insightly | — | — | — | — | — | — | 1 | G | D | 2 |
 | Inspired Thinking Group | — | — | — | — | — | — | 1 | G | D | 3 |
 | Instantly | — | — | — | — | 1 | — | 1 | 2 | D | 4 |
-| Intense Technologies | — | — | — | — | — | — | 1 | G | U | 0 |
+| Intense Technologies | — | — | — | — | 2 | — | 1 | G | P | 0 |
 | Iorta TechNxt | Malaysia | 2023 | — | — | — | — | 1 | G | D | 2 |
 | IQVIA | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | Kenyt.AI | — | — | — | — | — | — | 1 | G | D | 3 |
