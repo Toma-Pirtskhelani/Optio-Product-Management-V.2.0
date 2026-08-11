@@ -1,0 +1,662 @@
+===== homepage :: https://www.lob.com/
+--- SIGNALS ---
+title: Direct Mail Automation Platform & Print Network | Lob
+meta_description: Automate and personalize direct mail at scale while our nationwide print network speeds delivery, controls postage costs, and keeps every send compliant.
+og_description: 
+og_site_name: Lob
+h1: Want to send at the speed of digital? It takes more than software.
+h2: Trusted by 12,000+ companies for all things direct mail – from building to routing to fulfillment. | For teams managing complex direct mail at scale
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "name": "Lob", "url": "https://www.lob.com", "logo": {"@type": "ImageObject", "url": "https://cdn.prod.website-files.com/5e1e5c62fa3d4447af417098/66987feae572745c9116caf3_lob-logo.svg"}, "description": "Direct mail automation platform with nationwide print delivery network for personalized, compliant direct mail at scale", "slogan": "The Direct Mail Delivery Engine", "sameAs": ["https://www.linkedin.com/company/lob", "https://www.youtube.com/channel/UCIAlGcbmWlL2aF5NcjqVHBA"], "address": {"@type": "PostalAddress", "addressCountry": "US"}, "contactPoint": [{"@type": "ContactPoint", "contactType": "sales", "url": "https://www.lob.com/sales"}], "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Lob Products and Services", "itemListElement": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Create + Personalize", "description": "Build and personalize direct mail campaigns", "url": "https://www.lob.com/product/create-and-personalize"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Postal IQ", "description": "Optimize efficiency with intelligent USPS routing", "url": "https://www.lob.com/product/postal-iq"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Production Tracking", "description": "Speed delivery and track results with Print Delivery Network", "url": "https://www.lob.com/product/production-tracking"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "
+--- TEXT ---
+Direct Mail Automation Platform & Print Network | Lob
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+🗓️ 9/15 @ 10 AM PT | State of Direct Mail: Consumer Insights 2026 Webinar
+Register
+Product
+Build
+Create + personalize your mail
+Route
+Optimize efficiency with Postal IQ
+Fulfill
+Speed delivery and track the results
+Take a product tour 
+Get a sneak peek of our 
+intuitive platform
+API's & Integrations
+Address Verification
+Security
+Solutions
+Financial Services
+Healthcare
+Insurance
+Retail + Ecommerce
+SaaS
+INDUSTRIES
+USE CASES
+Marketing
+In-House Marketing
+Agencies and Consultants
+Operations
+In-House Operations
+Operations Service Providers
+Resources
+State of Direct Mail
+Ebooks + Guides
+Case Studies
+Blog
+Direct Mail Template Gallery
+Newsroom
+All Resources
+Help Center
+State of Direct Mail 2026: Business Insights Edition
+See how marketers are gaining visibility into their programs this year in the full State of Direct Mail 2026 report.
+Read it now
+Pricing
+Contact
+Login
+Get started for free
+Book a demo
+Book a demo
+Want to send at the speed of digital? 
+It takes more than software.
+Lob is the only direct mail platform with 
+Postal IQ
+ advanced routing, printing and delivery infrastructure, bringing predictability to postage costs and getting your mail to its destination faster and more securely.
+Book a demo
+Get started for free 
+2026 Delivery Platform of the Year
+SupplyTech Breakthrough Awards
+2026 Marketing Automation Platform of the Year
+MarTech Breakthrough Awards
+Trusted by 12,000+ companies for all things direct mail – from building to routing to fulfillment.
+For teams managing complex direct mail at scale
+Lob combines advanced campaign tools, award-winning APIs, Postal IQ routing, and our nationwide Print Delivery Network. Together, they speed up delivery while giving you the features and visibility you need – from campaign to mailbox.
+Take a tour
+Direct Mail Delivery Engine
+Build
+Dashboards & API's
+Route
+Postal IQ
+FulFill
+Print Delivery Network
+Postal Iq
+Deliver fast – and hit your goals
+Lob’s Postal IQ routing intelligence chooses the most efficient USPS entry point for every mailpiece, helping your mail reach mailboxes quickly and cost-effectively by working in step with USPS operations.
+Discover Postal IQ
+We can have a mail piece printed and in the mail stream within two or three days – that’s a massive differentiator. That speed is critical for helping our customers meet compliance.
+– Abby Warner, Chief Experience Officer
+Read the case study
+PRINT DELIVERY NETWORK
+Scale campaigns with local production
+Our nationwide Print Delivery Network produces mail near its final destination. This reduces transit time, stabilizes costs for high-volume campaigns, and ensures consistent, high-quality output at scale.
+Discover Print + Delivery
+DATA-DRIVEN MAIL
+Personalize, target, and track every send
+We make your direct mail fully data-driven, letting you segment and personalize campaigns in your dashboard or from your favorite outreach tools – and track every send from production to delivery.
+Discover Create + Personalize
+How Branch improved 
+retention 25% with 
+automated direct mail
+Read the case study
+One partner – from campaign to mailbox
+Lob is the only platform that unites campaign tools, easy APIs, and full operational support 
+– managing everything from building and routing to printing and delivery.
+Discover our award-winning APIs
+Industry-leading direct mail compliance
+Meet regulatory requirements for your industry and avoid costly violations with security practices that support HIPAA, GDPR, CCPA/CPRA, and more.
+Learn more about Security at Lob
+What's new at Lob
+In The News
+Direct mail finds its place in healthcare marketing
+Read more
+Press Release
+Lob Report Shows Direct Mail Breaks Through Digital Noise 
+Read more
+Blog
+Direct mail API solutions: how healthcare and finance companies scale securely
+Read more
+ 
+ 
+ 
+ 
+Mail that's high volume and high quality? 
+Absolutely.
+Get Started Now
+Product
+Address Verification
+Print Delivery Network
+Product Tour
+Create + Personalize
+Postal IQ
+Production Tracking
+Sustainable Mail
+Product Updates
+Security
+Pricing
+Solutions
+Financial Services
+Healthcare
+Insurance
+Retail + Ecommerce
+SaaS
+In-House Operations
+Agencies and Consultants
+In-House Marketing
+Operations Service Providers
+Resources
+Guides + Ebooks
+Case Studies
+Blog
+Events & Webinars
+Template Gallery
+Direct Mail Fundamentals
+Newsroom
+State of Direct Mail
+Direct Mail FAQs
+Developers
+Quickstart Guides
+API Documentation
+SDK and Tools
+Support
+Help Center
+Premium Support
+Contact Us
+API Status
+Privacy
+Terms of Service
+Company
+About Us
+Careers
+Partner With Us
+Become a Partner
+The Direct Mail Delivery Engine
+© 2026 Lob   |  
+ Terms and Conditions  |  
+Request Metrics  |  
+ Privacy Policy  |  
+Modern Slavery Act Statement  |  
+Do Not Sell or Share My Personal Information
+
+===== product :: https://www.lob.com/product-tour
+--- SIGNALS ---
+title: Product Tour
+meta_description: Learn how Lob can help you meet (and surpass) your direct mail goals. Tell us what you need, and we’ll get your hands-on product tour started.
+og_description: 
+og_site_name: Lob
+h1: How does Lob work?
+h2: Send lightning-fast campaigns that drive results with Lob
+jsonld_org: []
+--- TEXT ---
+Product Tour
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+🗓️ 9/15 @ 10 AM PT | State of Direct Mail: Consumer Insights 2026 Webinar
+Register
+Product
+Build
+Create + personalize your mail
+Route
+Optimize efficiency with Postal IQ
+Fulfill
+Speed delivery and track the results
+Take a product tour 
+Get a sneak peek of our 
+intuitive platform
+API's & Integrations
+Address Verification
+Security
+Solutions
+Financial Services
+Healthcare
+Insurance
+Retail + Ecommerce
+SaaS
+INDUSTRIES
+USE CASES
+Marketing
+In-House Marketing
+Agencies and Consultants
+Operations
+In-House Operations
+Operations Service Providers
+Resources
+State of Direct Mail
+Ebooks + Guides
+Case Studies
+Blog
+Direct Mail Template Gallery
+Newsroom
+All Resources
+Help Center
+State of Direct Mail 2026: Business Insights Edition
+See how marketers are gaining visibility into their programs this year in the full State of Direct Mail 2026 report.
+Read it now
+Pricing
+Contact
+Login
+Get started for free
+Book a demo
+Book a demo
+Product Tour
+How does Lob work?
+!-->
+ 
+ 
+ 
+ 
+ 
+ 
+Send lightning-fast campaigns that drive results with Lob
+Send targeted, lightning-fast campaigns at scale. Take our intuitive platform for a spin.
+ 
+For more information about how this data is handled, please view our 
+Privacy Policy
+ 
+ 
+ 
+ 
+Product
+Address Verification
+Print Delivery Network
+Product Tour
+Create + Personalize
+Postal IQ
+Production Tracking
+Sustainable Mail
+Product Updates
+Security
+Pricing
+Solutions
+Financial Services
+Healthcare
+Insurance
+Retail + Ecommerce
+SaaS
+In-House Operations
+Agencies and Consultants
+In-House Marketing
+Operations Service Providers
+Resources
+Guides + Ebooks
+Case Studies
+Blog
+Events & Webinars
+Template Gallery
+Direct Mail Fundamentals
+Newsroom
+State of Direct Mail
+Direct Mail FAQs
+Developers
+Quickstart Guides
+API Documentation
+SDK and Tools
+Support
+Help Center
+Premium Support
+Contact Us
+API Status
+Privacy
+Terms of Service
+Company
+About Us
+Careers
+Partner With Us
+Become a Partner
+The Direct Mail Delivery Engine
+© 2026 Lob   |  
+ Terms and Conditions  |  
+Request Metrics  |  
+ Privacy Policy  |  
+Modern Slavery Act Statement  |  
+Do Not Sell or Share My Personal Information
+
+===== pricing_or_trust :: https://www.lob.com/pricing
+--- SIGNALS ---
+title: Direct Mail Pricing | Certified Mail Cost & Price Package - Lob
+meta_description: Explore certified direct mail cost & automated pricing packages for businesses of all sizes. Find plans for products, print & postage, services, & add-ons.
+og_description: 
+og_site_name: Lob
+h1: Automate your mail with fewer vendors and fees | Compare plans and features
+h2: 
+jsonld_org: []
+--- TEXT ---
+Direct Mail Pricing | Certified Mail Cost & Price Package - Lob
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+🗓️ 9/15 @ 10 AM PT | State of Direct Mail: Consumer Insights 2026 Webinar
+Register
+Product
+Build
+Create + personalize your mail
+Route
+Optimize efficiency with Postal IQ
+Fulfill
+Speed delivery and track the results
+Take a product tour 
+Get a sneak peek of our 
+intuitive platform
+API's & Integrations
+Address Verification
+Security
+Solutions
+Financial Services
+Healthcare
+Insurance
+Retail + Ecommerce
+SaaS
+INDUSTRIES
+USE CASES
+Marketing
+In-House Marketing
+Agencies and Consultants
+Operations
+In-House Operations
+Operations Service Providers
+Resources
+State of Direct Mail
+Ebooks + Guides
+Case Studies
+Blog
+Direct Mail Template Gallery
+Newsroom
+All Resources
+Help Center
+State of Direct Mail 2026: Business Insights Edition
+See how marketers are gaining visibility into their programs this year in the full State of Direct Mail 2026 report.
+Read it now
+Pricing
+Contact
+Login
+Get started for free
+Book a demo
+Book a demo
+Automate your mail
+ with fewer vendors and fees
+Advanced campaign and tracking tools combined with industry-leading logistics, so you pay for one solution instead of five – even when sending at scale.
+Book a demo
+Get started for free
+Developer Plan
+Access core features and start sending fast
+Up to 6,000 mailings
+1 user
+Standard print & mail rates
+Starting at $0 / month
+Get started
+Startup Plan
+Flexibility to help you scale your program
+Up to 75,000 mailings
+3 users
+Low print & mail rates
+Starting at $260 / month
+Get started
+Growth Plan
+Turn mail into a repeatable growth channel
+Up to 150,000 mailings
+5 users
+Lower print & mail rates
+Starting at $550 / month
+Get started
+Enterprise Plan
+High-volume mail, no logistical headaches
+150,000+ mailings/year
+20+ users
+Advanced support
+Specialty mail formats
+Our best print & mail rates
+Custom Pricing
+Talk to sales
+Compare plans and features
+Features
+Developer Plan
+Startup Plan
+Growth Plan
+Enterprise Plan
+Webhooks
+1
+3
+5
+10+
+In-transit Mail Tracking
+Print Delivery Network
+Analytics Dashboard
+API Integrations
+No-Code Integrations
+—
+User Roles & Permissions
+—
+—
+Custom Envelopes
+—
+—
+—
+Specialty Mailers
+—
+—
+—
+Support for HIPAA Compliant Mailings
+—
+—
+—
+Print & Postage Costs
+Starting at
+$0.905/postcard 
+$0.828/letter 
+$1.190/check
+Starting at
+$0.645/postcard 
+$0.658/letter 
+$1.040/check
+Starting at
+$0.615/postcard 
+$0.628/letter 
+$1.040/check
+Custom Pricing
+Support
+Standard Support
+Standard Support
+Standard Support
+Standard support,
+Accounts management,
+Integration assistance
+US Address Verifications
+$0.05/additional
+$0.025/additional
+(1,000 included for $25/mo)
+$0.009/additional
+(50,000 included for $450/mo)
+Contact us for details
+International Address Verifications
+$0.07/additional
+$0.06/additional
+(500 included for $30/mo)
+$0.055/additional
+(10,000 included for $550/mo)
+Contact us for details
+Click here
+ for a more detailed breakdown of rates
+Developer Plan
+Webhooks
+1
+In-transit Mail Tracking
+Print Delivery Network
+Analytics Dashboard
+API Integrations
+No-Code Integrations
+—
+User Roles & Permissions
+—
+Custom Envelopes
+—
+Speciality Mailers
+—
+Support for HIPAA Compliant Mailings
+—
+Print & Postage Costs
+Starting at
+$0.905/postcard 
+$0.828/letter 
+$1.190/check
+Support
+Standard Support
+US Address Verifications
+$0.05/additional
+International Address Verifications
+$0.07/additional
+Startup Plan
+Webhooks
+3
+In-transit Mail Tracking
+Print Delivery Network
+Analytics Dashboard
+API Integrations
+No-Code Integrations
+User Roles & Permissions
+—
+Custom Envelopes
+—
+Specialty Mailers
+—
+HIPAA Compliant Mailings
+—
+Print & Postage Costs
+Starting at
+$0.645/postcard 
+$0.658/letter 
+$1.040/check
+Support
+Standard Support
+US Address Verifications
+$0.025/additional
+(1,000 included for $25/mo)
+International Address Verifications
+$0.06/additional
+(500 included for $30/mo)
+Growth Plan
+Webhooks
+5
+In-transit Mail Tracking
+Print Delivery Network
+Analytics Dashboard
+API Integrations
+No-Code Integrations
+User Roles & Permissions
+Custom Envelopes
+—
+Speciality Mailers
+—
+HIPAA Compliant Mailings
+—
+Print & Postage Costs
+Starting at
+$0.615/postcard 
+$0.628/letter 
+$1.040/check
+Support
+Standard Support
+US Address Verifications
+$0.009/additional
+(50,000 included for $450/mo)
+International Address Verifications
+$0.055/additional
+(10,000 included for $550/mo)
+Enterprise Plan
+Webhooks
+10+
+In-transit Mail Tracking
+Print Delivery Network
+Analytics Dashboard
+API Integrations
+No-Code Integrations
+User Roles & Permissions
+Custom Envelopes
+Speciality Mailers
+HIPAA Compliant Mailings
+Print & Postage Costs
+Custom Pricing
+Support
+Standard Support,
+Accounts Management,
+Integration Assistance
+US Address Verifications
+Contact us for details
+International Address Verifications
+Contact us for details
+Experience 
+industry-leading 
+print and delivery infrastructure
+Book a demo
+Get started for free 
+Product
+Address Verification
+Print Delivery Network
+Product Tour
+Create + Personalize
+Postal IQ
+Production Tracking
+Sustainable Mail
+Product Updates
+Security
+Pricing
+Solutions
+Financial Services
+Healthcare
+Insurance
+Retail + Ecommerce
+SaaS
+In-House Operations
+Agencies and Consultants
+In-House Marketing
+Operations Service Providers
+Resources
+Guides + Ebooks
+Case Studies
+Blog
+Events & Webinars
+Template Gallery
+Direct Mail Fundamentals
+Newsroom
+State of Direct Mail
+Direct Mail FAQs
+Developers
+Quickstart Guides
+API Documentation
+SDK and Tools
+Support
+Help Center
+Premium Support
+Contact Us
+API Status
+Privacy
+Terms of Service
+Company
+About Us
+Careers
+Partner With Us
+Become a Partner
+The Direct Mail Delivery Engine
+© 2026 Lob   |  
+ Terms and Conditions  |  
+Request Metrics  |  
+ Privacy Policy  |  
+Modern Slavery Act Statement  |  
+Do Not Sell or Share My Personal Information

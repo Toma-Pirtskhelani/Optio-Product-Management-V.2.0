@@ -1,0 +1,1153 @@
+===== llms.txt :: https://ecomail.app/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Ecomail
+> Email marketing platform for newsletters, automations and SMS campaigns.
+## Pages
+- [Ecomail.app | Email and omni-channel marketing platform](https://ecomail.app/): Platform for Emailing, SMS, Facebook & Instagram campaigns. Advanced automation, free start, unlimited emails, easy migration. Try now!
+- [About Ecomail](https://ecomail.app/about-ecomail/): Get to know our story, our team and the values we build on. At Ecomail, we help create better email marketing - simply, efficiently and with a personal touch.
+- [Become a certified partner](https://ecomail.app/certification/): Marketing agencies and specialists can become an Ecomail partner. Get your email marketing certificate and reach new clients.
+- [Ecomail.app | Email and omni-channel marketing platform](https://ecomail.app/changelog/): Platform for Emailing, SMS, Facebook & Instagram campaigns. Advanced automation, free start, unlimited emails, easy migration. Try now!
+- [Contact us](https://ecomail.app/contact/): Professional customer support is available via online chat or email support@ecomail.cz | Reach out, we will be happy to hear from you.
+- [Maximize sales with email marketing](https://ecomail.app/email-marketing-for-ecommerce/): Advanced email marketing for e-shops. Easy integration with Ecomail, automated emailing, artificial intelligence and other features to increase sales.
+- [All features for email marketing](https://ecomail.app/features/): Drag & drop editor, free templates, Facebook campaigns, automation, pop-ups, A/B testing, and advanced stats. Everything you need to grow your audience!
+- [Try the FREE tool for your e-mailing](https://ecomail.app/free/): Test what Ecomail can do. Drag & drop editor for newsletter creation, pop-up forms, automation, segmentation, A/B testing and many more features.
+- [Boost E-commerce Success: Free Insights](https://ecomail.app/insights/): Gain an unfair advantage in the competitive e-commerce arena with our free newsletter full of exclusive and data-driven insights.
+- [Pricing and plans - Start for Free](https://ecomail.app/pricing/): Activate a 14-day trial! Free plans for up to 40,000 contacts, unlimited emails, all features included. No fees. Easy migration & onboarding. Try now!
+- [Create and send newsletters easily](https://ecomail.app/sending-newsletter/): Design and send a successful newsletter with Ecomail. Fast, simple, and affordable—even for beginners! Tailor it to your needs effortlessly.
+## Product
+- [Api Campaigns Pagination](https://ecomail.app/changelog/api-campaigns-pagination/)
+- [Api Endpoints Clv Automations](https://ecomail.app/changelog/api-endpoints-clv-automations/)
+- [Api Subscribe Webhooks Automations](https://ecomail.app/changelog/api-subscribe-webhooks-automations/)
+- [Attribution Model Https Cdp Webhook](https://ecomail.app/changelog/attribution-model-https-cdp-webhook/)
+- [Automation Unsubscribes Activities Trigger Fixes](https://ecomail.app/changelog/automation-unsubscribes-activities-trigger-fixes/)
+- [Cdp Clv Groups Churn](https://ecomail.app/changelog/cdp-clv-groups-churn/)
+- [Cdp Editor Fixes](https://ecomail.app/changelog/cdp-editor-fixes/)
+- [Clv Report Segmentation Rfm](https://ecomail.app/changelog/clv-report-segmentation-rfm/)
+- [Contact Update Trigger Modes Editor Alignment](https://ecomail.app/changelog/contact-update-trigger-modes-editor-alignment/)
+- [Contact Update Trigger](https://ecomail.app/changelog/contact-update-trigger/)
+- [Ema Ecomail Marketing Agent](https://ecomail.app/changelog/ema-ecomail-marketing-agent/)
+- [Fixes Domains Rss Notifications](https://ecomail.app/changelog/fixes-domains-rss-notifications/)
+- [Fixes Forms Api Campaigns Clicks Chart](https://ecomail.app/changelog/fixes-forms-api-campaigns-clicks-chart/)
+- [Fixes Product Feed Coupons Export Api](https://ecomail.app/changelog/fixes-product-feed-coupons-export-api/)
+- [Fixes Shoper Api Segmentation](https://ecomail.app/changelog/fixes-shoper-api-segmentation/)
+- [Fixes Time Zones Eshop Rychle Segment Pagination](https://ecomail.app/changelog/fixes-time-zones-eshop-rychle-segment-pagination/)
+- [Mcp Cdp Segmentation Api](https://ecomail.app/changelog/mcp-cdp-segmentation-api/)
+- [Saved Filters Cdp Fixes Automations Forms Integrations](https://ecomail.app/changelog/saved-filters-cdp-fixes-automations-forms-integrations/)
+- [Segmentation Approximation Rfm](https://ecomail.app/changelog/segmentation-approximation-rfm/)
+- [Shopify Behaviour Tracking Data Sync](https://ecomail.app/changelog/shopify-behaviour-tracking-data-sync/)
+- [Unassigned Templates Filter Notifications Api](https://ecomail.app/changelog/unassigned-templates-filter-notifications-api/)
+## Integrations
+- [Integration: Connect tools quickly and easily](https://ecomail.app/features/integrations/): Discover how Ecomail integrates with different applications and tools. Save time and simplify your marketing automation. See the full list of integrations.
+## Case studies
+- [Boost Sales by 325%: Ecomail + PrestaShop](https://ecomail.app/case-studies/jbsport/): Download the free case study to learn how to use your PrestaShop data effectively in email marketing and increase your sales.
+## Ebooks
+- [Ebook: Emailing Mistakes](https://ecomail.app/ebook-emailing-mistakes/): Download the Ebook on common emailing mistakes and learn how to avoid them. Improve your email marketing strategy with expert tips from Ecomail.app.
+- [EBOOK: 15 email campaigns to boost your sales | Ecomail.app](https://ecomail.app/ebook-lifecycle/): Transform your sales with this ebook! Explore 15 email campaigns to boost your business. Enhance acquisition, retention, and maximize sales with expert strategies.
+- [6 Steps to Build an Active Email List](https://ecomail.app/manual/): Download the free manual with 6 steps to build a sustainable contact database. Improve deliverability, boost campaign results, and increase purchases from email.
+## Blog
+- [Blog](https://ecomail.app/blog/)
+- [10 steps to boost your mailing](https://ecomail.app/blog/en/10-steps-to-boost-your-mailing/): [object Object]
+- [10 tips to prepare for the next season during the summer](https://ecomail.app/blog/en/10-tips-to-prepare-for-the-next-season-during-the-summer/): [object Object]
+- [15 email campaigns that sell](https://ecomail.app/blog/en/15-email-campaigns-that-sell/): [object Object]
+- [5 tips to improve contact collection on the web](https://ecomail.app/blog/en/5-tips-to-improve-contact-collection-on-the-web/): [object Object]
+- [6 steps to build and maintain an active email database](https://ecomail.app/blog/en/6steps-to-build-and-maintain-an-active-email-database/): [object Object]
+- [9 Essential Tips to Maximize Email Marketing for Black Friday](https://ecomail.app/blog/en/9-essential-tips-to-maximize-email-marketing-for-black-friday/): [object Object]
+- [Automation as an essential part of email marketing](https://ecomail.app/blog/en/automation-as-an-essential-part-of-email-marketing/): [object Object]
+- [Contest for the win](https://ecomail.app/blog/en/contest-for-the-win/): [object Object]
+- [Create a lead magnet and attract new customers](https://ecomail.app/blog/en/create-a-lead-magnet-and-attract-new-customers/): [object Object]
+- [High deliverability as a must have](https://ecomail.app/blog/en/high-deliverability-as-a-must-have/): [object Object]
+- [How to improve your open rate? 3 key aspects for better results.](https://ecomail.app/blog/en/how-to-improve-your-open-rate-3-key-aspects-for-better-results-/): [object Object]
+- [Sales growth of 280% thanks to email marketing](https://ecomail.app/blog/en/sales-growth-of-280-thanks-to-email-marketing/): [object Object]
+- [Sell more products with SMS for e-commerce](https://ecomail.app/blog/en/sell-more-products-with-sms-for-e-commerce/): [object Object]
+- [Spring news 2024](https://ecomail.app/blog/en/spring-news-2024/): [object Object]
+- [Step-by-Step Guide to Setting Up a Facebook Engagement Campaign for Contests](https://ecomail.app/blog/en/step-by-step-guide-to-setting-up-a-facebook-engagement-campaign-for-contests/): [object Object]
+- [The big Christmas e-mailing checklist - download for FREE](https://ecomail.app/blog/en/the-big-christmas-e-mailing-checklist-download-for-free/): [object Object]
+
+===== homepage :: https://ecomail.app/
+--- SIGNALS ---
+title: Ecomail.app | Email and omni-channel marketing platform
+meta_description: Platform for Emailing, SMS, Facebook & Instagram campaigns. Advanced automation, free start, unlimited emails, easy migration. Try now!
+og_description: Platform for Emailing, SMS, Facebook & Instagram campaigns. Advanced automation, free start, unlimited emails, easy migration. Try now!
+og_site_name: Ecomail.app
+h1: Grow your business with email marketing
+h2: Quickly create and send professional newsletters | E‑mailing for continuous growth of your e‑commerce | All the features you need for effective e‑mail marketing | Integrate in a few clicks | More than 14 000 customers consider Ecomail the number one
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://www.ecomail.app", "name": "Ecomail.app", "alternateName": ["Ecomail"], "url": "https://www.ecomail.app", "logo": "https://ecomail.app/svg/logo/ecomail-int.svg", "sameAs": ["https://www.facebook.com/Ecomailapp/", "https://www.instagram.com/ecomail.app/", "https://www.linkedin.com/company/ecomail-app/", "https://www.youtube.com/channel/UCV3UqkIleV-8-eFFgMPLhag", "https://twitter.com/ecomailapp"], "description": "Platform for your Emailing, SMS, Facebook, and Instagram campaigns. Advanced automation. Start for Free now and enjoy all features and unlimited emails! Easy migration.", "address": {"@type": "PostalAddress", "streetAddress": "Na Příkopě 388/1", "addressLocality": "Prague", "postalCode": "110 00", "addressCountry": "CZ"}}]
+--- TEXT ---
+Ecomail.app | Email and omni-channel marketing platform
+ 
+ 
+ 
+ 
+Start free trial
+Click here to get it!
+ 
+ menu 
+ 
+Features
+Features
+ 
+Pricing
+Pricing
+Blog
+Blog
+About us
+About us
+Contact
+Contact
+ 
+Knowledge base
+Knowledge base
+Login
+Start free trial
+ 
+back
+Template editor
+Contact collection
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Detailed statistics
+E‑commerce integrations
+ 
+back
+First steps with Ecomail
+Tips and tricks for a quick start
+ 
+back
+Contact
+About Ecomail
+Features
+Features
+ 
+Pricing
+Pricing
+Blog
+Blog
+About us
+About us
+Contact
+Contact
+ 
+Knowledge base
+Knowledge base
+Login
+Login
+Start free trial
+Template editor
+Create impressive email templates exactly the way you want them
+Contact collection
+Grow your contact database with sign‑up forms
+Automation
+Send automatic campaigns in just a few clicks
+Segmentation
+Create groups of contacts by activity and characteristics
+Personalization
+Prepare emails tailored 
+ to each customer
+A/B testing
+Test different email versions 
+ and send the best ones
+Deliverability
+Security, speed and 99.97% 
+ deliverability rate
+Detailed statistics
+Track and evaluate the long-term 
+ success of emailing
+E‑commerce integrations
+Connect emailing with e-commerce, 
+ CRM or API
+First steps with Ecomail
+Tips and tricks for a quick start
+Contact
+All important contact 
+ info in one place
+About Ecomail
+Get to know Ecomail 
+ and the team behind it
+Grow your business 
+ 
+ with email marketing
+With us, you'll reach your audience with 
+the right content at the right time.
+ Newsletters, automation, personalization, Drag&Drop editor, AI and much more.
+ 
+Try for FREE
+Quickly create and send 
+ professional newsletters
+150+ professional templates
+Intuitive interface
+Individual personalization
+Detailed statistics
+Online chat for everyone
+ 
+Key features
+E‑mailing for continuous 
+ growth of your e‑commerce
+Simple integration with ecommerce
+Sign-up forms to collect contacts
+14 pre-built automations
+Content personalization
+97 % positive reviews out of 5000
+ 
+Advanced features
+our clients
+All the features you need 
+ 
+for effective e‑mail marketing
+Great template editor
+You can easily create a designer email template that looks good on desktop and mobile, even in dark mode.
+Collect new contacts
+Don't let site visitors just walk away. Collect their contacts on your website.
+Database segmentation
+Don't send everything to everyone. Communicate with your subscribers based on the information you have about them.
+Campaign automation
+Set up an automated flow in a few clicks. They react to customer behaviour, send them personalized emails, and SMS.
+Content personalization
+Tailor the content of your emails to each subscriber. Address them by name or offer a product they've recently viewed.
+Detailed statistics
+Tracking results and comparing campaigns will allow you to continuously improve your emailing performance.
+All Ecomail features
+Integrate 
+ in a few clicks
+For even better targeting of your campaigns, use data from your e‑commerce store, CRM or other tool by integrating with our plugins or via API.
+All integrations
++37 more
+All integrations
+More than 14 000 customers 
+ 
+consider Ecomail the number one
+“With Ecomail, we excel at email marketing in all of our 31 markets. 
+ Even the juniors in our team are 
+ able to work with advanced 
+ automations and segmentation. 
+ We are very satisfied with this tool 
+ and highly recommend it!”
+“We switched to Ecomail from Mailchimp and the move quickly proved to be successful. More user‑friendly environment, simply great editor, detailed reporting and better deliverability.”
+“With an intuitive interface, we can handle everything we need on our own. And if we don't know how to do something, we can usually find the answer in the extensive Help Center.”
+“We tried many different tools and Ecomail proved to be by far the best.”
+“With Ecomail, we excel at email marketing in all of our 31 markets. 
+ Even the juniors in our team are 
+ able to work with advanced 
+ automations and segmentation. 
+ We are very satisfied with this tool 
+ and highly recommend it!”
+ 
+“We switched to Ecomail from Mailchimp and the move quickly proved to be successful. More user‑friendly environment, simply great editor, detailed reporting and better deliverability.”
+ 
+“With an intuitive interface, we can handle everything we need on our own. And if we don't know how to do something, we can usually find the answer in the extensive Help Center.”
+ 
+“We tried many different tools and Ecomail proved to be by far the best.”
+ 
+Try Ecomail for FREE
+Latest news always 
+ in your inbox
+Invitations to our events and webinars, 
+ news from the world of email marketing and Ecomail.
+Sign me up!
+Privacy Policy
+Features overview
+Introduction to Ecomail
+Template editor
+Signup forms
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Integrations
+Integration options
+E‑commerce plugins
+Prestashop
+Woocommerce
+Zapier
+Shopify
+nopCommerce
+Ecomail Certification
+For developers
+API docs
+PHP API Wrapper
+Nette API Wrapper
+Changelog
+Ecomail.app
+Contact us
+Blog
+About Ecomail
+Pricing
+Features overview
+Introduction to Ecomail
+Template editor
+Signup forms
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Integrations
+Integration options
+E‑commerce plugins
+Prestashop
+Woocommerce
+Zapier
+Shopify
+nopCommerce
+Ecomail Certification
+For developers
+API docs
+PHP API Wrapper
+Nette API Wrapper
+Changelog
+Ecomail.app
+Contact us
+Blog
+About Ecomail
+Pricing
+Features overview
+Introduction to Ecomail
+Template editor
+Signup forms
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Integrations
+Integration options
+E‑commerce plugins
+Prestashop
+Woocommerce
+Zapier
+Shopify
+nopCommerce
+Ecomail Certification
+For developers
+API docs
+PHP API Wrapper
+Nette API Wrapper
+Changelog
+Ecomail.app
+Contact us
+Blog
+About Ecomail
+Pricing
+ 
+Čeština
+Slovenčina
+Polski
+English
+English
+ 
+Čeština
+Slovenčina
+Polski
+Terms and conditions
+Ecomail Code of Conduct
+Privacy policy
+Cookie settings
+Cookies associated with the use of Ecomail.app
+Accessibility Statement
+ 
+English
+Čeština
+Slovenčina
+Polski
+App:
+App:
+
+===== product :: https://ecomail.app/features/
+--- SIGNALS ---
+title: All features for email marketing | Ecomail.app
+meta_description: Drag & drop editor, free templates, Facebook campaigns, automation, pop-ups, A/B testing, and advanced stats. Everything you need to grow your audience!
+og_description: Drag & drop editor, free templates, Facebook campaigns, automation, pop-ups, A/B testing, and advanced stats. Everything you need to grow your audience!
+og_site_name: Ecomail.app
+h1: Smart features for even better results
+h2: Powerful campaigns | Smarter databases | Easier data management | Send successful campaigns with ease | Send successful campaigns with ease
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://www.ecomail.app", "name": "Ecomail.app", "alternateName": ["Ecomail"], "url": "https://www.ecomail.app", "logo": "https://ecomail.app/svg/logo/ecomail-int.svg", "sameAs": ["https://www.facebook.com/Ecomailapp/", "https://www.instagram.com/ecomail.app/", "https://www.linkedin.com/company/ecomail-app/", "https://www.youtube.com/channel/UCV3UqkIleV-8-eFFgMPLhag", "https://twitter.com/ecomailapp"], "description": "Platform for your Emailing, SMS, Facebook, and Instagram campaigns. Advanced automation. Start for Free now and enjoy all features and unlimited emails! Easy migration.", "address": {"@type": "PostalAddress", "streetAddress": "Na Příkopě 388/1", "addressLocality": "Prague", "postalCode": "110 00", "addressCountry": "CZ"}}]
+--- TEXT ---
+All features for email marketing | Ecomail.app
+ 
+ 
+ 
+ 
+Start free trial
+Click here to get it!
+ 
+ menu 
+ 
+Features
+Features
+ 
+Pricing
+Pricing
+Blog
+Blog
+About us
+About us
+Contact
+Contact
+ 
+Knowledge base
+Knowledge base
+Login
+Start free trial
+ 
+back
+Template editor
+Contact collection
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Detailed statistics
+E‑commerce integrations
+ 
+back
+First steps with Ecomail
+Tips and tricks for a quick start
+ 
+back
+Contact
+About Ecomail
+Features
+Features
+ 
+Pricing
+Pricing
+Blog
+Blog
+About us
+About us
+Contact
+Contact
+ 
+Knowledge base
+Knowledge base
+Login
+Login
+Start free trial
+Template editor
+Create impressive email templates exactly the way you want them
+Contact collection
+Grow your contact database with sign‑up forms
+Automation
+Send automatic campaigns in just a few clicks
+Segmentation
+Create groups of contacts by activity and characteristics
+Personalization
+Prepare emails tailored 
+ to each customer
+A/B testing
+Test different email versions 
+ and send the best ones
+Deliverability
+Security, speed and 99.97% 
+ deliverability rate
+Detailed statistics
+Track and evaluate the long-term 
+ success of emailing
+E‑commerce integrations
+Connect emailing with e-commerce, 
+ CRM or API
+First steps with Ecomail
+Tips and tricks for a quick start
+Contact
+All important contact 
+ info in one place
+About Ecomail
+Get to know Ecomail 
+ and the team behind it
+Smart features 
+ 
+for even better results
+ 
+The easy path to successful campaigns leads through Ecomail. Discover a range of email features that you can master in no time
+Try for FREE
+Explore features
+ 
+Powerful campaigns
+The first step to success. Create and send newsletters that 
+ have value and bring results.
+Email campaigns
+ 
+Create a designed newsletter in our editor exactly to your liking. 
+ 
+No coding required
+, just space for your creativity.
+ 
+More about campaigns
+Automation
+ 
+Design scenarios with emails that react to customer behavior in real‑time. Thanks to a simple builder and ready‑made templates, it's a breeze.
+ 
+More about automation
+AI features
+ 
+Chat with artificial intelligence directly in the template editor and create campaigns that truly grab attention. AI will help you come up with a catchy subject line, fine‑tune the text in your newsletter, or write descriptions for products in your e‑shop.
+Personalization
+ 
+Customize the content of your email for each subscriber and increase your chances of success. Add a greeting, a nearby pickup location, or recommend suitable products based on shopping behavior.
+Smarter databases
+Perfectly targeted. Collect 
+ new contacts and reach out to them 
+ with what they are interested in.
+Collecting contacts
+ 
+Pop‑up windows, static forms, or slide‑out 
+ bars. Place elements on your website that will attract visitors and turn them into customers.
+ 
+More about collecting contacts
+Segmentation
+ 
+Reach relevant audiences with your campaigns. Adapt content and frequency to individual segments. The key audiences will be right at your fingertips — the app will automatically divide your database according to who is most active or who to focus on.
+Easier data management
+No more guessing. Get to know your customers and fine‑tune your emailing 
+ according to their preferences.
+Campaign reports
+ 
+Track the results of sent campaigns with detailed statistics. In addition to open rate, click rate, and conversions, you can 
+ find out whether your recipients are opening emails on a desktop or a mobile device. Compare yourself with your competitors using benchmarks.
+Integrations & API
+ 
+Transfer your customer data from e‑shop platforms, CRM, or other tools to Ecomail and make the most of it. We have more than 40 integrations and an open API for custom connections.
+ 
+More about integrations
+A/B testing
+ 
+Hesitating about which campaign variant is better? Test it directly on your audience. Compare two email subject lines, sender names, or newsletter templates.
+Deliverability proven by clients
+Deliverability proven by clients
+You don't have to worry about your reputation. We have the experience and cutting‑edge technology used for sending 40% of commercial emails worldwide. We deliver emails to 
+160 countries with a 99.97% deliverability rate
+.
+ 
+We switched to Ecomail from Mailchimp and the move quickly proved to be successful.
+More user-friendly environment, excellent editor, detailed reporting and better deliverability.
+Iva Ulčáková
+Senior Online Marketing Specialist
+Send successful campaigns 
+with ease
+Send successful campaigns 
+with ease
+Simply. Effectively. With results after the very first send.
+Start for free
+ 
+ 
+Latest news always 
+ in your inbox
+Invitations to our events and webinars, 
+ news from the world of email marketing and Ecomail.
+Sign me up!
+Privacy Policy
+Features overview
+Introduction to Ecomail
+Template editor
+Signup forms
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Integrations
+Integration options
+E‑commerce plugins
+Prestashop
+Woocommerce
+Zapier
+Shopify
+nopCommerce
+Ecomail Certification
+For developers
+API docs
+PHP API Wrapper
+Nette API Wrapper
+Changelog
+Ecomail.app
+Contact us
+Blog
+About Ecomail
+Pricing
+Features overview
+Introduction to Ecomail
+Template editor
+Signup forms
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Integrations
+Integration options
+E‑commerce plugins
+Prestashop
+Woocommerce
+Zapier
+Shopify
+nopCommerce
+Ecomail Certification
+For developers
+API docs
+PHP API Wrapper
+Nette API Wrapper
+Changelog
+Ecomail.app
+Contact us
+Blog
+About Ecomail
+Pricing
+Features overview
+Introduction to Ecomail
+Template editor
+Signup forms
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Integrations
+Integration options
+E‑commerce plugins
+Prestashop
+Woocommerce
+Zapier
+Shopify
+nopCommerce
+Ecomail Certification
+For developers
+API docs
+PHP API Wrapper
+Nette API Wrapper
+Changelog
+Ecomail.app
+Contact us
+Blog
+About Ecomail
+Pricing
+ 
+Čeština
+Slovenčina
+Polski
+English
+English
+ 
+Čeština
+Slovenčina
+Polski
+Terms and conditions
+Ecomail Code of Conduct
+Privacy policy
+Cookie settings
+Cookies associated with the use of Ecomail.app
+Accessibility Statement
+ 
+English
+Čeština
+Slovenčina
+Polski
+App:
+App:
+
+===== pricing_or_trust :: https://ecomail.app/pricing/
+--- SIGNALS ---
+title: Pricing and plans - Start for Free | Ecomail.app
+meta_description: Activate a 14-day trial! Free plans for up to 40,000 contacts, unlimited emails, all features included. No fees. Easy migration & onboarding. Try now!
+og_description: Activate a 14-day trial! Free plans for up to 40,000 contacts, unlimited emails, all features included. No fees. Easy migration & onboarding. Try now!
+og_site_name: Ecomail.app
+h1: Pricing
+h2: Profi | Marketer+ | Profi | Marketer+ | Do you manage a large contact database? | Plan and feature comparison | Agency Account | 50% discount for non-profits
+jsonld_org: [{"@context": "https://schema.org", "@type": "Organization", "@id": "https://www.ecomail.app", "name": "Ecomail.app", "alternateName": ["Ecomail"], "url": "https://www.ecomail.app", "logo": "https://ecomail.app/svg/logo/ecomail-int.svg", "sameAs": ["https://www.facebook.com/Ecomailapp/", "https://www.instagram.com/ecomail.app/", "https://www.linkedin.com/company/ecomail-app/", "https://www.youtube.com/channel/UCV3UqkIleV-8-eFFgMPLhag", "https://twitter.com/ecomailapp"], "description": "Platform for your Emailing, SMS, Facebook, and Instagram campaigns. Advanced automation. Start for Free now and enjoy all features and unlimited emails! Easy migration.", "address": {"@type": "PostalAddress", "streetAddress": "Na Příkopě 388/1", "addressLocality": "Prague", "postalCode": "110 00", "addressCountry": "CZ"}}]
+--- TEXT ---
+Pricing and plans - Start for Free | Ecomail.app
+ 
+ 
+ 
+ 
+Start free trial
+Click here to get it!
+ 
+ menu 
+ 
+Features
+Features
+ 
+Pricing
+Pricing
+Blog
+Blog
+About us
+About us
+Contact
+Contact
+ 
+Knowledge base
+Knowledge base
+Login
+Start free trial
+ 
+back
+Template editor
+Contact collection
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Detailed statistics
+E‑commerce integrations
+ 
+back
+First steps with Ecomail
+Tips and tricks for a quick start
+ 
+back
+Contact
+About Ecomail
+Features
+Features
+ 
+Pricing
+Pricing
+Blog
+Blog
+About us
+About us
+Contact
+Contact
+ 
+Knowledge base
+Knowledge base
+Login
+Login
+Start free trial
+Template editor
+Create impressive email templates exactly the way you want them
+Contact collection
+Grow your contact database with sign‑up forms
+Automation
+Send automatic campaigns in just a few clicks
+Segmentation
+Create groups of contacts by activity and characteristics
+Personalization
+Prepare emails tailored 
+ to each customer
+A/B testing
+Test different email versions 
+ and send the best ones
+Deliverability
+Security, speed and 99.97% 
+ deliverability rate
+Detailed statistics
+Track and evaluate the long-term 
+ success of emailing
+E‑commerce integrations
+Connect emailing with e-commerce, 
+ CRM or API
+First steps with Ecomail
+Tips and tricks for a quick start
+Contact
+All important contact 
+ info in one place
+About Ecomail
+Get to know Ecomail 
+ and the team behind it
+ 
+# Pricing
+## Plans (regular sending)
+Prices depend on the number of active contacts in your database. The default (lowest) prices are shown below.
+---
+### Profi
+**Core features** for smart emailing. Easy newsletter creation and sending.
+| Payment | Price |
+|---|---|
+| Yearly (billed monthly) | $16.67 |
+| Monthly | $20 |
+**Savings with yearly payment:** 17 %
+**Includes:**
+- **Unlimited emails**
+- Drag & drop template editor
+- 170+ design templates
+- AI subject generation and text editing
+**Does not include:** E-commerce integration, Discount coupons, Customer behavior automation
+---
+### Marketer+
+**Advanced features** especially suitable for e-commerce. Data-driven emailing.
+| Payment | Price |
+|---|---|
+| Yearly (billed monthly) | $25 |
+| Monthly | $30 |
+**Savings with yearly payment:** 17 %
+**Includes everything from Profi +:**
+- **Unlimited emails**
+- Drag & drop template editor
+- 170+ design templates
+- AI subject generation and text editing
+- E-commerce integration
+- Discount coupons
+- Customer behavior automation
+---
+### Ecomail free
+**Essential features** for smart emailing. Fully functional for testing or smaller campaigns.
+**Includes:**
+- **Up to 200 emails sent monthly**
+- Drag & drop template editor
+- 170+ design templates
+- AI subject generation and text editing
+- E-commerce integration
+- Discount coupons
+- Customer behavior automation
+---
+## Plan and feature comparison
+Explore all features and choose the plan that fits your business perfectly.
+| | Profi | Marketer+ | Free |
+| --- | --- | --- | --- |
+| Unlimited emails | ✓ | ✓ | Up to 200 contacts |
+| Minimum duration of a paid account | 3 months | 3 months | Unlimited |
+| Campaign creation |
+| Drag & Drop template builder | ✓ | ✓ | ✓ |
+| Ready-made email templates | ✓ | ✓ | ✓ |
+| Generating subject lines and preview text using AI | ✓ | ✓ | ✓ |
+| Working with text in templates using AI | ✓ | ✓ | ✓ |
+| Chat AI in the template editor | ✗ | ✓ | ✗ |
+| Custom template blocks saving | ✓ | ✓ | ✓ |
+| Custom HTML template import | ✓ | ✓ | ✓ |
+| Product XML feed import | ✗ | ✓ | ✓ |
+| RSS feed import | ✗ | ✓ | ✓ |
+| Campaign preview | ✓ | ✓ | ✓ |
+| Spam testing | ✓ | ✓ | ✓ |
+| Campaign scheduling | ✓ | ✓ | ✓ |
+| A/B testing | ✓ | ✓ | ✓ |
+| Campaign reports and Google Analytics integration | ✓ | ✓ | ✓ |
+| Email conversion tracking | ✗ | ✓ | ✓ |
+| Database management |
+| Contacts import | ✓ | ✓ | ✓ |
+| Preference based contact groups | ✓ | ✓ | ✓ |
+| Tagging | ✓ | ✓ | ✓ |
+| Segmentation | ✓ | ✓ | ✓ |
+| Advanced behavioral segmentation | ✗ | ✓ | ✓ |
+| Ready-made segments | ✓ | ✓ | ✓ |
+| Slide forms | ✓ | ✓ | ✓ |
+| Pop-up forms | ✓ | ✓ | ✓ |
+| Facebook Lead Ads | ✗ | ✓ | ✓ |
+| Automations |
+| Pre-built automations | ✓ | ✓ | ✓ |
+| Basic automations | ✓ | ✓ | ✓ |
+| Campaign behavior automations | ✓ | ✓ | ✓ |
+| Web tracking behavior automations | ✗ | ✓ | ✓ |
+| Behavior automations based on purchase | ✗ | ✓ | ✓ |
+| Abandoned cart automation with dynamic content | ✗ | ✓ | ✓ |
+| API triggers | ✗ | ✓ | ✓ |
+| Custom event automations | ✗ | ✓ | ✓ |
+| Conversion tracking in automations | ✗ | ✓ | ✓ |
+| Detailed reporting of automations | ✓ | ✓ | ✓ |
+| Personalization |
+| Content personalization using merge tags | ✓ | ✓ | ✓ |
+| Data feeds import | ✗ | ✓ | ✓ |
+| Coupons and promo codes | ✗ | ✓ | ✓ |
+| Integrations |
+| Web tracking | ✗ | ✓ | ✓ |
+| Abandoned cart tracking | ✗ | ✓ | ✓ |
+| Custom events tracking | ✗ | ✓ | ✓ |
+| Ecommerce platforms integration | ✗ | ✓ | ✓ |
+| 3rd party apps integration | ✓ | ✓ | ✓ |
+| Transactional emails | ✗ | ✓ | ✗ |
+| Webhooks | ✗ | ✓ | ✓ |
+| Ecomail API | ✓ | ✓ | ✓ |
+| Integrations with other platforms |
+| SMS marketing | According to custom price list | According to custom price list | ✗ |
+| Facebook Custom Audiences | ✗ | ✓ | ✓ |
+| Facebook campaigns | ✗ | ✓ | ✓ |
+| Letters and postcards | On request | On request | On request |
+| Customer support |
+| Email support | ✓ | ✓ | ✓ |
+| Chat | ✓ | ✓ | ✓ |
+---
+## Terms
+- **Minimum duration of a paid plan:** 3 months
+- **Pausing a plan:** once a year, for up to 6 months
+- **Free:** **Up to 200 emails sent monthly**
+- **Payment:** USD
+---
+## Contact and sign-up
+- Web: https://ecomail.app
+- Pricing: https://ecomail.app/pricing/
+- Sign up: https://ecomail.app/register/
+- For large databases (50,000+ contacts): custom offer at https://ecomail.app/pricing/
+ 
+Pricing
+How many contacts do you have in your database?
+ 
+Free
+500
+2 000
+5 000
+10 000
+15 000
+20 000
+30 000
+40 000
+More
+Monthly payment
+Yearly payment
+Profi
+Marketer+
+Profi
+Core features
+ for smart emailing. Easy newsletter creation and sending.
+Save 17%
+$16.67
+/ month
+or $20 with 
+monthly payment
+Start 14-day free trial
+ 
+Unlimited emails
+ 
+Drag & drop template editor
+ 
+170+ design templates
+ 
+AI subject generation and text editing
+ 
+E‑commerce integration
+ 
+Discount coupons
+ 
+Customer behavior automation
+Recommended
+Marketer+
+Advanced features
+ especially suitable for e-commerce. Data-driven emailing.
+Save 17%
+$25
+/ month
+or $30 with 
+monthly payment
+ 
+Start 14-day free trial
+ 
+Unlimited emails
+ 
+Drag & drop template editor
+ 
+170+ design templates
+ 
+AI subject generation and text editing
+ 
+E‑commerce integration
+ 
+Discount coupons
+ 
+Customer behavior automation
+Do you manage a large contact database?
+We prepare individual service offers for customers with extensive contact databases.
+Your full name
+*
+Email
+*
+Phone number
+Your company website
+*
+Number of contacts in your database
+*
+up to 50,000 contacts
+up to 60,000 contacts
+up to 100,000 contacts
+up to 200,000 contacts
+up to 300,000 contacts
+up to 500,000 contacts
+up to 1,000,000 contacts
+more than 1,000,000 contacts
+ Add note
+Send it to Ecomail
+You can read all about how we manage your data in our
+Privacy Policy
+ 
+Contact sales team
+ No credit card required.
+Plan and feature comparison
+Explore all features and choose the plan that fits your business perfectly.
+Profi
+Marketer+
+Free
+Unlimited emails
+ 
+ 
+Up to 200 contacts
+Up to 200 contacts
+Minimum duration of a paid account
+3 months
+3 months
+3 months
+3 months
+∞
+Unlimited
+Campaign creation
+Drag & Drop template builder
+ 
+ 
+ 
+Ready‑made email templates
+ 
+ 
+ 
+Generating subject lines and preview text using AI
+ 
+ 
+ 
+Working with text in templates using AI
+ 
+ 
+ 
+Chat AI in the template editor
+ 
+ 
+ 
+ 
+Custom template blocks saving
+ 
+ 
+ 
+Custom HTML template import
+ 
+ 
+ 
+ 
+Show all features
+ 
+We switched to Ecomail from Mailchimp and the move quickly proved to be successful.
+More user-friendly environment, excellent editor, detailed reporting and better deliverability.
+Iva Ulčáková
+Senior Online Marketing Specialist
+ 
+Agency Account
+Do you manage emailing for multiple clients? 
+With us, you can have several sub-accounts under one agency account.
+ Plus, you'll earn a commission for each new customer in your agency account.
+ Contact us 
+ 
+50% discount for non-profits
+We offer a 50% discount on the annual plan for the non-profit sector. 
+Contact us,
+ we'd be happy to discuss cooperation possibilities.
+Latest news always 
+ in your inbox
+Invitations to our events and webinars, 
+ news from the world of email marketing and Ecomail.
+Sign me up!
+Privacy Policy
+Features overview
+Introduction to Ecomail
+Template editor
+Signup forms
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Integrations
+Integration options
+E‑commerce plugins
+Prestashop
+Woocommerce
+Zapier
+Shopify
+nopCommerce
+Ecomail Certification
+For developers
+API docs
+PHP API Wrapper
+Nette API Wrapper
+Changelog
+Ecomail.app
+Contact us
+Blog
+About Ecomail
+Pricing
+Features overview
+Introduction to Ecomail
+Template editor
+Signup forms
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Integrations
+Integration options
+E‑commerce plugins
+Prestashop
+Woocommerce
+Zapier
+Shopify
+nopCommerce
+Ecomail Certification
+For developers
+API docs
+PHP API Wrapper
+Nette API Wrapper
+Changelog
+Ecomail.app
+Contact us
+Blog
+About Ecomail
+Pricing
+Features overview
+Introduction to Ecomail
+Template editor
+Signup forms
+Automation
+Segmentation
+Personalization
+A/B testing
+Deliverability
+Integrations
+Integration options
+E‑commerce plugins
+Prestashop
+Woocommerce
+Zapier
+Shopify
+nopCommerce
+Ecomail Certification
+For developers
+API docs
+PHP API Wrapper
+Nette API Wrapper
+Changelog
+Ecomail.app
+Contact us
+Blog
+About Ecomail
+Pricing
+ 
+Čeština
+Slovenčina
+Polski
+English
+English
+ 
+Čeština
+Slovenčina
+Polski
+Terms and conditions
+Ecomail Code of Conduct
+Privacy policy
+Cookie settings
+Cookies associated with the use of Ecomail.app
+Accessibility Statement
+ 
+English
+Čeština
+Slovenčina
+Polski
+App:
+App:

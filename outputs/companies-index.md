@@ -1,7 +1,7 @@
 # Companies index
 
 **237 companies.** A generated **view** over `companies.jsonl` — never edit it, regenerate it.
-**192 enriched · 9 partially recovered · 36 unreachable** of 237. Regenerated 2026-08-11.
+**211 enriched · 9 partially recovered · 17 unreachable** of 237. Regenerated 2026-08-11.
 
 Pull a full record by id:
 
@@ -50,14 +50,14 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Upland | — | — | legacy | — | — | — | 3 | G | D | 2 |
 | Wigzo | — | — | — | — | — | — | 3 | G | U | 0 |
 | Xtremepush | IE | 2015 | — | — | — | — | 3 | G | D | 3 |
-| Zeta | — | — | — | — | — | — | 3 | G | U | 0 |
+| Zeta | — | — | — | — | 1 | — | 3 | G | D | 3 |
 | Acquia | US | 2007 | — | api-platform | — | — | 2 | G | D | 4 |
 | Act-On | — | — | — | — | 1 | 12 | 2 | G | D | 4 |
 | Airship | — | 2019 | — | — | 4 | 12 | 2 | G | D | 4 |
 | Bird | — | — | — | — | 6 | — | 2 | G | D | 4 |
 | Bloomreach | — | — | — | — | 5 | 12 | 2 | B | D | 4 |
 | Bluecore | — | — | — | — | 3 | — | 2 | G | D | 4 |
-| Capillary Technologies | — | — | — | — | — | — | 2 | G | U | 0 |
+| Capillary Technologies | — | — | — | — | — | 7 | 2 | G | D | 3 |
 | Cisco Systems | — | — | — | — | — | — | 2 | G | U | 0 |
 | Clear C2 | — | — | — | — | — | — | 2 | G | D | 2 |
 | ContactPigeon | — | — | — | — | — | — | 2 | G | D | 2 |
@@ -66,7 +66,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Diennea | — | — | — | — | — | — | 2 | G | D | 2 |
 | EVAM | — | — | — | — | 4 | 12 | 2 | B | D | 3 |
 | HighLevel | — | — | — | — | 2 | — | 2 | 2 | D | 3 |
-| inConcert | — | — | — | — | — | — | 2 | G | U | 0 |
+| inConcert | — | — | — | — | 1 | — | 2 | G | D | 3 |
 | indigitall | — | — | — | — | 7 | 12 | 2 | G | D | 3 |
 | iPresso | — | — | — | — | 5 | 12 | 2 | G | D | 4 |
 | Listrak | — | — | — | — | 4 | — | 2 | G | D | 3 |
@@ -75,7 +75,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Maropost | — | — | — | — | 3 | — | 2 | G | D | 4 |
 | MessageGears | — | — | — | — | — | — | 2 | G | P | 0 |
 | Microsoft | — | — | legacy | — | — | — | 2 | G | D | 4 |
-| Mindmatrix | — | — | — | — | — | — | 2 | G | U | 0 |
+| Mindmatrix | US | 1998 | — | — | — | — | 2 | G | D | 3 |
 | NewZapp | — | — | — | — | — | — | 2 | G | U | 0 |
 | Nvecta | — | — | — | — | 7 | 12 | 2 | G | D | 3 |
 | OneSignal | — | — | — | — | 6 | 12 | 2 | G | D | 4 |
@@ -92,7 +92,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Touchdown | — | — | — | — | — | — | 2 | G | D | 2 |
 | Trueblue | — | — | — | — | — | — | 2 | G | D | 2 |
 | Voyado | — | — | — | — | 3 | — | 2 | G | D | 4 |
-| Webmaxy | — | — | — | — | — | — | 2 | G | U | 0 |
+| Webmaxy | — | — | — | — | 5 | 3 | 2 | G | D | 4 |
 | Webmecanik | — | — | — | — | — | — | 2 | G | D | 2 |
 | ZEPIC | — | — | — | — | 5 | 12 | 2 | G | D | 4 |
 | adnymics | — | — | — | — | — | — | 1 | G | D | 2 |
@@ -101,7 +101,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Agillic | — | — | — | on-premise | 1 | — | 1 | G | D | 4 |
 | Aislelabs | — | — | — | — | 2 | 12 | 1 | G | D | 4 |
 | Alterian | — | — | — | — | — | — | 1 | G | D | 4 |
-| Amazing Mail | — | — | — | — | — | — | 1 | G | U | 0 |
+| Amazing Mail | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Amazon Web Services | — | 2006 | — | — | — | 6 | 1 | G | D | 3 |
 | Appier | — | — | — | — | 1 | 12 | 1 | G | D | 3 |
 | AT Internet | — | — | — | — | — | — | 1 | G | U | 0 |
@@ -114,9 +114,9 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Birdeye | — | — | — | — | — | — | 1 | 2 | D | 2 |
 | BiteSpeed | — | — | — | — | 4 | — | 1 | G | D | 2 |
 | Blueshift | — | — | — | private-cloud | 5 | 12 | 1 | G | D | 4 |
-| BrandOps | — | — | — | — | — | — | 1 | G | U | 0 |
+| BrandOps | — | — | — | — | — | — | 1 | G | D | 2 |
 | Bridgeline Digital | — | — | — | — | — | — | 1 | G | D | 3 |
-| BSI Software | — | — | — | — | — | — | 1 | G | U | 0 |
+| BSI Software | — | — | — | — | — | 7 | 1 | G | D | 3 |
 | BUSINESSNEXT | — | — | — | — | — | — | 1 | G | D | 3 |
 | CAKE | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | Campaigner | — | — | — | — | 2 | — | 1 | G | D | 4 |
@@ -135,7 +135,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Dyrect | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Dyspatch | — | — | — | — | 4 | — | 1 | G | D | 4 |
 | E-goi | — | — | — | — | — | — | 1 | G | D | 2 |
-| Ecomail | — | — | — | — | — | — | 1 | G | U | 0 |
+| Ecomail | CZ | — | — | — | 2 | — | 1 | G | D | 4 |
 | EcoSend | — | — | — | — | 2 | — | 1 | G | D | 4 |
 | Emailidea | — | — | — | — | — | — | 1 | G | U | 0 |
 | Emma | — | — | — | — | — | — | 1 | 2 | D | 3 |
@@ -146,7 +146,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | FlowUp | — | — | — | — | — | — | 1 | G | D | 2 |
 | FollowAnalytics | — | — | — | — | — | — | 1 | G | U | 0 |
 | Foursquare | — | — | — | — | 1 | — | 1 | G | D | 4 |
-| Free Stand Sampling Solutions | — | — | — | — | — | — | 1 | G | U | 0 |
+| Free Stand Sampling Solutions | — | — | — | — | — | — | 1 | G | D | 3 |
 | Fresh Relevance | — | — | — | — | — | — | 1 | G | U | 0 |
 | Freshworks | — | — | — | — | — | — | 1 | G | P | 0 |
 | Frizbit | — | — | — | — | 5 | — | 1 | G | D | 4 |
@@ -160,7 +160,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Hey Sid | — | — | — | — | — | — | 1 | G | D | 2 |
 | HOLLYFY | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | Hostinger | — | 2004 | — | — | 1 | — | 1 | G | D | 4 |
-| IBM | — | — | — | — | — | — | 1 | G | U | 0 |
+| IBM | — | — | — | — | — | — | 1 | G | D | 3 |
 | iContact | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | InAppStory | PT | — | — | on-premise | 2 | — | 1 | G | D | 4 |
 | Inflection.io | — | — | — | — | 1 | — | 1 | G | D | 4 |
@@ -177,7 +177,7 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | LeadsRx | — | — | — | — | — | — | 1 | G | D | 4 |
 | lemlist | — | — | — | — | 4 | — | 1 | 2 | D | 4 |
 | Levitate | — | — | — | — | — | — | 1 | 2 | D | 2 |
-| Lob | — | — | — | — | — | — | 1 | G | U | 0 |
+| Lob | US | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | Longtail UX | — | — | — | — | — | — | 1 | G | U | 0 |
 | Mailgun | — | — | — | — | 2 | — | 1 | 2 | D | 4 |
 | Mapp | — | — | — | — | 2 | — | 1 | G | D | 4 |
@@ -212,14 +212,14 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Pyze | — | — | — | private-cloud | — | 12 | 1 | G | D | 4 |
 | Qujam | US | 2023 | — | — | — | — | 1 | G | D | 4 |
 | Radar | USA | 2016 | — | — | — | 6 | 1 | G | D | 4 |
-| Reachdesk | — | — | — | — | — | — | 1 | G | U | 0 |
+| Reachdesk | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Redpoint | — | — | — | — | — | — | 1 | G | D | 3 |
 | Rejoiner | — | — | — | — | 3 | — | 1 | G | D | 4 |
 | Resulticks | — | — | — | — | — | — | 1 | G | D | 2 |
 | Reteno | PL | — | — | — | 4 | — | 1 | G | D | 4 |
 | Rocket Now | CA | 2020 | — | — | — | — | 1 | G | D | 2 |
 | SALESmanago | PL | — | — | — | — | — | 1 | G | D | 4 |
-| SAS | — | — | legacy | — | — | — | 1 | G | U | 0 |
+| SAS | — | — | legacy | — | — | 12 | 1 | G | D | 3 |
 | Sendoso | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | SendPulse | — | 2015 | — | — | 7 | — | 1 | G | D | 4 |
 | Sensors Data | — | — | — | — | 1 | — | 1 | G | D | 3 |
@@ -233,24 +233,24 @@ A dash means `UNKNOWN`: not found within the fixed four-fetch budget, which is a
 | Storyly | US | 2020 | — | — | — | — | 1 | G | D | 3 |
 | Striker Soft Solutions | — | — | — | — | — | — | 1 | G | U | 0 |
 | SugarAI | — | — | — | — | — | 2 | 1 | G | D | 4 |
-| SwiftERM Hyper-Personalisation | — | — | — | — | — | — | 1 | G | U | 0 |
+| SwiftERM Hyper-Personalisation | United Kingdom | — | — | — | 3 | — | 1 | G | D | 3 |
 | Swrve | — | — | — | — | — | — | 1 | G | P | 0 |
 | Text | US | 2023 | — | — | 5 | 2 | 1 | G | D | 4 |
 | Textedly | — | — | — | — | 5 | 12 | 1 | 2 | D | 4 |
 | Thryv | US | 2013 | — | — | 2 | 12 | 1 | G | D | 4 |
-| Treasure AI | — | — | — | — | — | — | 1 | G | U | 0 |
+| Treasure AI | US | 2011 | — | — | 2 | 12 | 1 | G | D | 4 |
 | Trendemon | — | — | — | — | 3 | — | 1 | G | D | 4 |
 | Twilio | — | — | — | — | 5 | — | 1 | G | D | 4 |
 | Upaknee | — | — | — | managed-service | 1 | — | 1 | G | D | 3 |
 | UTM.io | — | — | — | — | — | — | 1 | G | D | 4 |
 | ValueFirst | — | — | — | — | — | — | 1 | G | D | 2 |
-| Veloxy IO | — | — | — | — | — | — | 1 | G | U | 0 |
+| Veloxy IO | — | — | — | — | — | — | 1 | G | D | 4 |
 | VeryUtils | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | Vibes | — | — | — | — | 4 | 12 | 1 | G | D | 4 |
 | Warmy | — | — | — | — | 1 | — | 1 | G | D | 4 |
 | Webflow | US | 2013 | — | — | — | — | 1 | 2 | D | 4 |
-| WILY | — | — | — | — | — | — | 1 | G | U | 0 |
+| WILY | — | — | — | — | — | — | 1 | G | D | 2 |
 | Woosmap | — | — | — | — | 1 | 12 | 1 | G | D | 4 |
 | WorksBuddy | — | 2024 | — | — | 2 | 9 | 1 | G | D | 4 |
-| xiQ | — | — | — | — | — | — | 1 | G | U | 0 |
+| xiQ | — | — | — | — | 1 | — | 1 | G | D | 3 |
 | Yotpo | — | — | — | — | 4 | — | 1 | G | D | 4 |

@@ -1,0 +1,3468 @@
+===== homepage :: https://support.sas.com/en/support-home.html
+--- SIGNALS ---
+title: SAS Customer Support Site | SAS Support
+meta_description: Looking for SAS software support? Visit SAS Support Home to find self-help resources including documentation, training, technical support and to access the community forum.
+og_description: Looking for SAS software support? Visit SAS Support Home to find self-help resources including documentation, training, technical support and to access the community forum.
+og_site_name: 
+h1: Customer Support | SAS Support Home
+h2: Support by Product | Find Resources Specific to Your Role | Webinars for Learning SAS | Follow Us | What is...
+jsonld_org: []
+--- TEXT ---
+SAS Customer Support Site | SAS Support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+Skip to main content
+
+ 
+
+ 
+ 
+
+ 
+
+All SAS
+ 
+ 
+ 
+Software
+Software
+SAS Viya
+Industries
+Solutions
+Products
+Learn
+Learn
+Training
+Certification
+Academics
+Books
+Video Tutorials
+Support
+Support
+Communities
+Documentation
+Developers
+Support & Services
+User Groups
+About Us
+About Us
+Why SAS?
+Company
+Careers
+Newsroom
+Events
+Contact Us
+Explore
+Explore
+Try & Buy
+Why SAS?
+Customer Stories
+Partners
+Consulting
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+Software
+ 
+ 
+SAS Viya
+ 
+ 
+Industries
+ 
+ 
+Solutions
+ 
+ 
+Products
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+Learn
+ 
+ 
+Training
+ 
+ 
+Certification
+ 
+ 
+Academics
+ 
+ 
+Books
+ 
+ 
+Video Tutorials
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+Support
+ 
+ 
+Communities
+ 
+ 
+Documentation
+ 
+ 
+Developers
+ 
+ 
+Support & Services
+ 
+ 
+User Groups
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+About Us
+ 
+ 
+Why SAS?
+ 
+ 
+Company
+ 
+ 
+Careers
+ 
+ 
+Newsroom
+ 
+ 
+Events
+ 
+ 
+Contact Us
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+Explore
+ 
+ 
+Try & Buy
+ 
+ 
+Why SAS?
+ 
+ 
+Customer Stories
+ 
+ 
+Partners
+ 
+ 
+Consulting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sas.com
+ 
+ 
+ 
+sas.com
+ 
+ 
+support.sas.com
+ 
+ 
+documentation.sas.com
+ 
+ 
+blogs.sas.com
+ 
+ 
+communities.sas.com
+ 
+ 
+developer.sas.com
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+Search
+
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Select Your Region
+
+ 
+
+ 
+ 
+ 
+
+ 
+Visit the Cary, NC, US corporate headquarters site
+
+ 
+
+ 
+
+ 
+
+ 
+
+Americas
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+Europe
+
+ 
+
+ 
+
+ 
+
+Middle East & Africa
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+Asia Pacific
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+View our worldwide contacts list for help finding your region
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Americas
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+Brasil
+ 
+ 
+Canada (English)
+ 
+ 
+ 
+ 
+Canada (Français)
+ 
+ 
+Colombia
+ 
+ 
+ 
+ 
+México 
+ 
+ 
+United States
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Europe
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+Belgium
+ 
+ 
+Česká Republika
+ 
+ 
+Danmark
+ 
+ 
+Deutschland
+ 
+ 
+España
+ 
+ 
+France
+ 
+ 
+ 
+ 
+Iceland
+ 
+ 
+Ireland
+ 
+ 
+Italia
+ 
+ 
+Nederland
+ 
+ 
+Norge
+ 
+ 
+Österreich
+ 
+ 
+ 
+ 
+Polska
+ 
+ 
+Portugal
+ 
+ 
+România
+ 
+ 
+Россия
+ 
+ 
+Schweiz (Deutsch)
+ 
+ 
+Suisse (Français)
+ 
+ 
+ 
+ 
+Suomi
+ 
+ 
+Sverige
+ 
+ 
+Türkiye
+ 
+ 
+Україна
+ 
+ 
+United Kingdom
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Middle East & Africa
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+Middle East
+ 
+ 
+ 
+ 
+Saudi Arabia
+ 
+ 
+ 
+ 
+South Africa
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Asia Pacific
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+Australia
+ 
+ 
+Hong Kong
+ 
+ 
+India
+ 
+ 
+日本
+ 
+ 
+ 
+ 
+대한민국
+ 
+ 
+Malaysia
+ 
+ 
+New Zealand
+ 
+ 
+Philippines
+ 
+ 
+ 
+ 
+Singapore
+ 
+ 
+台灣 (繁體中文)
+ 
+ 
+Thailand (English)
+ 
+ 
+ประเทศไทย (ภาษาไทย)
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+Search
+Worldwide Sites
+Contact Us
+SAS Sites
+ 
+ 
+ 
+Sign In
+ 
+ 
+ 
+Sign Out
+ 
+ 
+ 
+
+ 
+
+
+ 
+Sign In
+
+ 
+
+ 
+
+ 
+Create Profile
+ 
+My SAS
+ 
+Get access to My SAS, trials, communities and more.
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+Sign Out
+
+ 
+
+ 
+
+ 
+Edit Profile
+ 
+My SAS
+ 
+Get access to My SAS, trials, communities and more.
+ 
+ 
+ 
+SAS Sites
+
+ 
+
+ 
+ 
+
+ 
+sas.com
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Support
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Blogs
+
+ 
+
+
+ 
+
+ 
+
+ 
+Communities
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Developer
+
+ 
+
+
+ 
+
+ 
+
+ 
+Curiosity
+
+
+
+
+
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Videos
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Documentation
+
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Learn
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Brand
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+PartnerNet
+
+
+
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Merchandise
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+SAS Support Home
+ 
+ 
+ 
+
+ 
+
+ 
+Search
+
+ 
+
+
+ 
+ 
+ 
+
+For the latest Support knowledge, search using the Customer Support Center 
+Knowledge portal
+.
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Documentation
+Find technical documentation for SAS software
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Communities
+Ask questions and connect with other SAS users
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Technical Support
+Get technical support through the SAS Customer Service Portal
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Training
+Learn a new skill by taking an online or classroom course
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+How-To Videos
+Browse hundreds of free videos created by SAS experts
+ 
+ 
+ 
+ 
+ 
+ 
+Support by Product
+
+
+ 
+ 
+ 
+ 
+SAS Viya platform
+ 
+ 
+Base SAS
+ 
+ 
+SAS Enterprise Guide
+ 
+ 
+SAS for Microsoft 365
+ 
+ 
+SAS Data and AI Studio
+ 
+ 
+SAS Visual Analytics
+ 
+ 
+SAS Viya Workbench
+ 
+ 
+ 
+
+ 
+Browse all products
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+Find Resources Specific to Your Role
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Administrators
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Programmers
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Developers
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Data Scientists
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Executives & Decision Makers
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Students & Educators
+
+ 
+
+ 
+
+ 
+
+ 
+x
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+As a SAS administrator, staying current with technology updates is crucial for effective program and installation management. Helpful resources include:
+SAS Administrators Support page
+SAS Administration Community
+SAS Administrators Blog
+Training courses for administrators
+
+ 
+ 
+ 
+ 
+ 
+Let SAS experts help you expand your programming skills with the following resources:
+SAS Programming Community
+SAS Programming Blog
+SAS Programming documentation
+Training courses for programmers
+Programming video library
+Sample code repository
+ 
+SAS Programming for R Users
+Base SAS Support page
+SAS Technical Papers
+
+ 
+ 
+ 
+ 
+ 
+SAS has a strong developer community that can answer your questions and help you solve problems. Start with these resources:
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+SAS Developer Portal
+SAS Developers Community
+SAS Developers Blog
+
+ 
+ 
+ 
+ 
+ 
+Data science is a popular topic at SAS, so you'll find plenty of information to help you build a career as a data scientist or support your current role. Visit these resources to learn more:
+SAS Data Science Blog
+SAS Data Science Community
+Training courses for data science, AI and machine learning
+
+ 
+ 
+ 
+ 
+ 
+Executives, managers and other business decision makers must stay competitive, hire the right people and effectively train their teams. Explore these helpful resources:
+SAS Insights articles
+Corporate Training
+Talent Development resources
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting Started with SAS OnDemand for Academics
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Getting Started with SAS OnDemand for Academics
+
+
+Advancing your analytical skills can launch countless career opportunities. This is why SAS supports academic initiatives for both students and educators. Dive in to these resources:
+
+ 
+Access SAS OnDemand for Academics
+
+ 
+
+ 
+
+ 
+Get Started
+SAS Academic Programs
+SAS Academic Software
+Self-Help
+SAS Software for Learning Community
+SAS Students & Educators Blog
+How To Tutorial Videos
+Documentation
+SAS OnDemand for Academics
+ 
+ 
+ 
+
+ 
+Technical Papers recommended by SAS Experts
+
+
+ 
+Preparing Students to Take the SAS
+®
+ Base Certification Exam, Training Students to Think Like SAS
+®
+.
+Using SAS OnDemand for Academics: Ten Tips for Success.
+ 
+Bridging the Skills Gap between Post-Secondary Education Outcomes and Employment Opportunities.
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+Webinars for Learning SAS
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supercharging SAS Model Manager From Standard Workflows to Advanced Performance
+Join this webinar and see firsthand the way open-source scoring enhances SAS Model Manager.
+ 
+August 11, 2026
+ 
+ 
+ 
+ 
+ 
+How is SAS Customer Intelligence 360 Marketing AI Redefining Marketing?
+Join this webinar to learn how SAS Customer Intelligence 360 Marketing AI empowers marketers to create analytically driven customer experiences.
+ 
+August 20, 2026
+ 
+ 
+ 
+ 
+ 
+Transforming Real-World Data to OMOP Faster with Trusted, Governed AI
+Transform real-world data faster while strengthening trust, governance and research outcomes.
+ 
+August 25, 2026
+ 
+ 
+ 
+ 
+ 
+SAS Viya Copilot in Visual Analytics
+In this webinar, we explore how SAS Viya Copilot can boost your work in SAS Visual Analytics, helping you build reports faster, generate smarter insights, and simplify complex tasks.
+ 
+August 25, 2026
+ 
+ 
+ 
+
+ 
+View all webinars
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Support
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Customer Support Site
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Support
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Customer Support Site
+ 
+ 
+ 
+ 
+SAS data and AI solutions provide our global customers with knowledge they can trust in the moments that matter, inspiring bold new innovations across industries.
+
+ 
+Contact Us
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+Follow Us
+
+ 
+
+ 
+Facebook
+
+ 
+Twitter
+
+ 
+LinkedIn
+
+ 
+YouTube
+
+ 
+RSS
+
+ 
+
+ 
+
+ 
+Explore
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+Accessibility
+ 
+ 
+Careers
+ 
+ 
+Certification
+ 
+ 
+Communities
+ 
+ 
+Company
+ 
+ 
+Data Management
+ 
+ 
+Developers
+ 
+ 
+Documentation
+ 
+ 
+ 
+ 
+For Educators
+ 
+ 
+Events
+ 
+ 
+Industries
+ 
+ 
+My SAS
+ 
+ 
+Newsroom
+ 
+ 
+Products
+ 
+ 
+SAS Viya
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+Students
+ 
+ 
+Support & Services
+ 
+ 
+Training
+ 
+ 
+Try/Buy
+ 
+ 
+Video Tutorials
+ 
+ 
+Why SAS?
+ 
+ 
+ 
+
+
+
+ 
+What is...
+
+
+ 
+
+
+What is...
+ 
+ 
+ 
+ 
+Analytics
+ 
+ 
+Artificial Intelligence
+ 
+ 
+Data Management
+ 
+ 
+Data Science
+ 
+ 
+Generative AI
+ 
+ 
+Responsible Innovation
+ 
+ 
+ 
+
+
+Privacy Statement
+Terms of Use
+Trust Center
+©2026 SAS Institute Inc. All Rights Reserved.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Us
+Share
+Subscribe
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Share this
+Share this page with friends or colleagues. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Back to Top
+
+===== product :: https://support.sas.com/en/software/sas-viya-platform.html
+--- SIGNALS ---
+title: SAS Viya platform | SAS Support
+meta_description: Find documentation, support and training information for SAS® Viya® technology.
+og_description: Find documentation, support and training information for SAS® Viya® technology.
+og_site_name: 
+h1: SAS® Viya® Platform
+h2: Quickly transform raw data into operational insights that support every kind of decision your organization makes. The SAS Viya platform is an AI, analytic and data management platform that runs on a modern, scalable architecture. | Videos | Find More Videos | Documentation | Previous Versions | Hot Fixes | SAS Viya 3.5 | SAS Viya 3.4 | SAS Viya 3.3 | SAS Viya 3.2 | SAS Viya 3.1 | SAS Programming Blogs & Communities | Get Help | Follow Us | What is...
+jsonld_org: []
+--- TEXT ---
+SAS Viya platform | SAS Support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+Skip to main content
+
+ 
+
+ 
+ 
+
+ 
+
+All SAS
+ 
+ 
+ 
+Software
+Software
+SAS Viya
+Industries
+Solutions
+Products
+Learn
+Learn
+Training
+Certification
+Academics
+Books
+Video Tutorials
+Support
+Support
+Communities
+Documentation
+Developers
+Support & Services
+User Groups
+About Us
+About Us
+Why SAS?
+Company
+Careers
+Newsroom
+Events
+Contact Us
+Explore
+Explore
+Try & Buy
+Why SAS?
+Customer Stories
+Partners
+Consulting
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+Software
+ 
+ 
+SAS Viya
+ 
+ 
+Industries
+ 
+ 
+Solutions
+ 
+ 
+Products
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+Learn
+ 
+ 
+Training
+ 
+ 
+Certification
+ 
+ 
+Academics
+ 
+ 
+Books
+ 
+ 
+Video Tutorials
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+Support
+ 
+ 
+Communities
+ 
+ 
+Documentation
+ 
+ 
+Developers
+ 
+ 
+Support & Services
+ 
+ 
+User Groups
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+About Us
+ 
+ 
+Why SAS?
+ 
+ 
+Company
+ 
+ 
+Careers
+ 
+ 
+Newsroom
+ 
+ 
+Events
+ 
+ 
+Contact Us
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+Explore
+ 
+ 
+Try & Buy
+ 
+ 
+Why SAS?
+ 
+ 
+Customer Stories
+ 
+ 
+Partners
+ 
+ 
+Consulting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sas.com
+ 
+ 
+ 
+sas.com
+ 
+ 
+support.sas.com
+ 
+ 
+documentation.sas.com
+ 
+ 
+blogs.sas.com
+ 
+ 
+communities.sas.com
+ 
+ 
+developer.sas.com
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+Search
+
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Select Your Region
+
+ 
+
+ 
+ 
+ 
+
+ 
+Visit the Cary, NC, US corporate headquarters site
+
+ 
+
+ 
+
+ 
+
+ 
+
+Americas
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+Europe
+
+ 
+
+ 
+
+ 
+
+Middle East & Africa
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+Asia Pacific
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+View our worldwide contacts list for help finding your region
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Americas
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+Brasil
+ 
+ 
+Canada (English)
+ 
+ 
+ 
+ 
+Canada (Français)
+ 
+ 
+Colombia
+ 
+ 
+ 
+ 
+México 
+ 
+ 
+United States
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Europe
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+Belgium
+ 
+ 
+Česká Republika
+ 
+ 
+Danmark
+ 
+ 
+Deutschland
+ 
+ 
+España
+ 
+ 
+France
+ 
+ 
+ 
+ 
+Iceland
+ 
+ 
+Ireland
+ 
+ 
+Italia
+ 
+ 
+Nederland
+ 
+ 
+Norge
+ 
+ 
+Österreich
+ 
+ 
+ 
+ 
+Polska
+ 
+ 
+Portugal
+ 
+ 
+România
+ 
+ 
+Россия
+ 
+ 
+Schweiz (Deutsch)
+ 
+ 
+Suisse (Français)
+ 
+ 
+ 
+ 
+Suomi
+ 
+ 
+Sverige
+ 
+ 
+Türkiye
+ 
+ 
+Україна
+ 
+ 
+United Kingdom
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Middle East & Africa
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+Middle East
+ 
+ 
+ 
+ 
+Saudi Arabia
+ 
+ 
+ 
+ 
+South Africa
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Asia Pacific
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+Australia
+ 
+ 
+Hong Kong
+ 
+ 
+India
+ 
+ 
+日本
+ 
+ 
+ 
+ 
+대한민국
+ 
+ 
+Malaysia
+ 
+ 
+New Zealand
+ 
+ 
+Philippines
+ 
+ 
+ 
+ 
+Singapore
+ 
+ 
+台灣 (繁體中文)
+ 
+ 
+Thailand (English)
+ 
+ 
+ประเทศไทย (ภาษาไทย)
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+Search
+Worldwide Sites
+Contact Us
+SAS Sites
+ 
+ 
+ 
+Sign In
+ 
+ 
+ 
+Sign Out
+ 
+ 
+ 
+
+ 
+
+
+ 
+Sign In
+
+ 
+
+ 
+
+ 
+Create Profile
+ 
+My SAS
+ 
+Get access to My SAS, trials, communities and more.
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+Sign Out
+
+ 
+
+ 
+
+ 
+Edit Profile
+ 
+My SAS
+ 
+Get access to My SAS, trials, communities and more.
+ 
+ 
+ 
+SAS Sites
+
+ 
+
+ 
+ 
+
+ 
+sas.com
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Support
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Blogs
+
+ 
+
+
+ 
+
+ 
+
+ 
+Communities
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Developer
+
+ 
+
+
+ 
+
+ 
+
+ 
+Curiosity
+
+
+
+
+
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Videos
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Documentation
+
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Learn
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Brand
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+PartnerNet
+
+
+
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+Merchandise
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+SAS
+®
+ Viya
+®
+ Platform
+ 
+ 
+ 
+Overview
+Learn & Support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAS
+®
+ Viya
+® 
+ Platform
+Quickly transform raw data into operational insights that support every kind of decision your organization makes. The SAS Viya platform is an AI, analytic and data management platform that runs on a modern, scalable architecture.
+ 
+ 
+ 
+Learn
+ 
+ 
+ 
+Training
+ 
+ 
+Books
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+Documentation
+ 
+ 
+ 
+Documentation
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+Support
+ 
+ 
+ 
+Downloads
+ 
+ 
+Hot Fixes
+ 
+ 
+Blogs & Communities
+ 
+ 
+Get Help
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+What's New in the SAS Viya Platform
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Videos
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Enterprise Guide: Tips, Tricks and Considerations for Programmers
+In this webinar, SAS programmers can discover tips, tricks and little-known functionalities in SAS Enterprise Guide.
+ 
+ 
+ 
+ 
+ 
+ 
+A Deeper Dive into SAS Enterprise Guide Reporting
+This session assumes that you already have some proficiency with SAS Enterprise Guide, but want to learn more about the tasks that conduct reporting.
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Visual Forecasting on SAS Viya: Getting Started
+Join us for this webinar and learn how SAS Visual Forecasting on SAS Viya supports high-performance automated forecasting and how to start using it.
+ 
+ 
+ 
+ 
+ 
+ 
+Cluster Analysis: Introduction to Best Practices
+Join a SAS expert to learn some of the best practices to consider when doing cluster analysis, particularly when applied to customer relationship management.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Find More Videos
+
+ 
+View Ask the Expert webinars
+
+ 
+
+ 
+
+ 
+
+ 
+View how-to tutorials
+
+ 
+
+ 
+
+ 
+
+ 
+View the SAS Viya Platform release updates
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Training Courses
+Learn SAS technology quickly and efficiently by taking a course from the analytics experts.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SAS
+ 
+Viya Overview
+ 
+ 
+ 
+ 
+
+ 
+
+Providing an introduction to the applications in SAS Viya, this course discusses how each is used in the phases of the SAS Analytics Life Cycle: Data, Discovery, Deployment, and Orchestration.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SAS
+ 
+Viya Administration: Getting Started 
+(Free E-Learning)
+ 
+ 
+ 
+ 
+
+ 
+
+Designed for platform administrators, this course provides an overview of how to best administer SAS Viya.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Programming for SAS
+ 
+Viya
+ 
+ 
+ 
+ 
+
+ 
+
+Created for users who need to modify existing Base SAS programs to execute in SAS Viya, this course leverages the power of SAS Cloud Analytic Services (CAS) to access, manage, and manipulate in-memory tables. This course is not intended for beginning SAS software users.
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Books
+For more in-depth information, read books written by SAS experts.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Discovering SAS Viya: 
+ Special Collection
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exploring SAS
+®
+ Viya:
+®
+ Data Mining and Machine Learning
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exploring SAS
+®
+ Viya:
+®
+ Programming and Data Management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exploring SAS
+®
+ Viya
+®
+Visual Analytics, Statistics and Investigations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Machine Learning with SAS
+®
+ Viya
+®
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Cloud Analytic Services: Fundamentals
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Viya:
+The Python Perspective
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Viya:
+ The R Perspective
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Smart Data Discovery Using SAS Viya
+®
+: Powerful Techniques for Deeper Insights
+
+ 
+View more SAS books
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Documentation
+Find user's guides and other technical documentation for SAS Viya.
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction to SAS Viya Platform
+ 
+SAS Viya Platform Install Center
+ 
+SAS Viya Platform Administration
+ 
+SAS Viya Platform Programming
+
+ 
+
+ 
+ 
+ 
+For a list of SAS Viya platform offerings, see the 
+SAS Product Support A to Z
+ page and look for the 
+ icon.
+ 
+Previous Versions
+ 
+ 
+ 
+
+ 
+SAS Viya 3.5
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Programming Documentation
+SAS Viya 3.5
+
+ 
+
+Deployment & Administration
+Deployment Guide (Linux)
+Deployment Guide (Windows)
+Administration  
+HTML
+ | 
+PDF
+ 
+ 
+ 
+ 
+Install Center
+SAS Viya Administration
+SAS Viya Deployment Guides
+SAS Viya System Requirements
+Search SAS Viya installation documentation
+
+ 
+
+Third-Party Software Requirements
+SAS Viya
+Product Compatibility Matrix
+  
+All Third-Party Software Requirements
+ 
+ 
+ 
+
+SAS Viya 3.4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What's New in SAS Viya 3.4
+SAS Viya 3.4 Programming Documentation
+Third-Party Software Requirements for Use with SAS Viya 3.4
+
+ 
+
+Deployment & Administration
+Deployment Guide (Linux)
+Deployment Guide (Windows)
+Administration  
+HTML
+ | 
+PDF
+ 
+ 
+ 
+ 
+
+ 
+
+Install Center
+SAS Viya Deployment Guides - Archives
+SAS Viya System Requirements - Archives
+Search SAS Viya installation documentation
+Solutions & Offerings
+SAS/ACCESS
+SAS Data Agent
+SAS Data Preparation
+SAS Data Quality
+SAS Decision Manager
+SAS Econometrics
+SAS Event Stream Processing
+SAS Intelligence and Investigation Management
+SAS Intelligent Decisioning
+SAS Intelligent Planning
+SAS Model Manager
+SAS Optimization
+SAS Visual Analytics
+SAS Visual Data Mining and Machine Learning
+SAS Visual Forecasting
+SAS Visual Investigator
+SAS Visual Statistics
+SAS Visual Text Analytics
+ 
+ 
+ 
+
+SAS Viya 3.3
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What's New in SAS Viya 3.3
+SAS Viya 3.3 Programming Documentation
+Third-Party Software Requirements for Use with SAS Viya 3.3
+
+ 
+
+Deployment & Administration
+Deployment Guide (Linux)
+Administration  
+HTML
+ | 
+PDF
+ 
+ 
+ 
+ 
+Install Center
+SAS Viya Deployment Guides - Archives
+SAS Viya System Requirements - Archives
+Search SAS Viya installation documentation
+
+ 
+
+Solutions & Offerings
+SAS/ACCESS
+SAS Data Preparation
+SAS Data Quality
+SAS Decision Manager
+SAS Econometrics
+SAS Event Stream Processing
+SAS Intelligence and Investigation Management
+SAS Model Manager
+SAS Optimization
+SAS Visual Analytics
+SAS Visual Data Mining and Machine Learning
+SAS Visual Forecasting
+SAS Visual Investigator
+SAS Visual Statistics
+ 
+ 
+ 
+
+SAS Viya 3.2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What's New in SAS Viya 3.2
+Video: Bridging SAS 9 and SAS Viya
+ (5.27)
+ 
+
+ 
+
+Deployment & Administration
+Deployment Guide (Linux)
+Deployment Guide (Cloud Foundry)
+Administration
+ 
+ 
+ 
+Install Center
+SAS Viya Deployment Guides - Archives
+SAS Viya System Requirements - Archives
+Search SAS Viya installation documentation
+
+ 
+
+Solutions & Offerings
+SAS Econometrics
+SAS Event Stream Processing
+SAS Optimization
+SAS Visual Analytics
+SAS Visual Data Mining and Machine Learning
+SAS Visual Forecasting
+SAS Visual Investigator
+SAS Visual Statistics
+ 
+ 
+ 
+
+SAS Viya 3.1
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Deployment & Administration
+Deployment Guide
+Administration
+Solutions & Offerings
+SAS Event Stream Processing
+SAS Visual Data Mining and Machine Learning
+SAS Visual Investigator
+ 
+ 
+ 
+Install Center
+SAS Viya Deployment Guides - Archives
+SAS Viya System Requirements - Archives
+Search SAS Viya installation documentation
+
+ 
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Software Downloads
+The downloads application contains updates for SAS products and solutions.
+
+ 
+SAS Viya Platform Downloads
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Hot Fixes
+Find quick solutions to problems or conduct routine system maintenance. SAS hot fixes have been tested and are fully supported.
+Expand All
+
+ 
+Collapse All
+
+
+ 
+SAS Viya 3.5
+
+
+ 
+ 
+ 
+ 
+SAS Viya 3.5 for Windows
+Initial Release
+ 
+ 
+ 
+SAS Viya 3.5 for Linux
+Initial Release
+ 
+ 
+ 
+SAS Event Stream Manager 6.2 
+SAS Event Stream Processing 6.2
+SAS Intelligence and Investigation Management 8.2
+SAS Intelligence and Investigation Management 8.1
+SAS Visual Investigator 10.7
+SAS Visual Investigator 10.6
+
+ SAS Viya 3.4
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Viya 3.4 for Windows
+August 2019 Release
+May 2019 Release
+Initial Release
+ 
+ 
+ 
+SAS Viya 3.4 for Linux
+August 2019 Release
+ 
+May 2019 Release
+Initial Release
+ 
+ 
+ 
+SAS Event Stream Manager 6.1 
+SAS Event Stream Processing 6.1
+SAS Event Stream Processing 5.2
+SAS Intelligence and Investigation Management 1.3 
+SAS Visual Investigator 10.5.1 
+ SAS Visual Investigator 10.5 
+SAS Visual Investigator 10.4
+
+SAS Viya 3.3
+
+
+ 
+ 
+ 
+ 
+SAS Viya 3.3
+SAS Event Stream Processing 5.1
+SAS Visual Investigator 10.3.
+1
+
+SAS Viya 3.2
+
+
+ 
+SAS Viya 3.2
+SAS Event Stream Processing 4.3
+
+SAS Viya 3.1
+
+
+ 
+SAS Viya 3.1
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+SAS Programming Blogs & Communities
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Read the blog
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Explore your community 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Connect with other SAS users by joining a 
+users group
+ or attending an 
+upcoming event
+.
+ 
+ 
+ 
+Get Help
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Search Knowledge Base
+Start here to find answers quickly, without having to open a support track.
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Ask SAS Community
+Interact with other SAS users to ask questions and get answers.
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Contact Technical Support
+Get  technical support for your SAS software via our support track system.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products & Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Viya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Products & Solutions
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Viya
+ 
+ 
+ 
+ 
+SAS data and AI solutions provide our global customers with knowledge they can trust in the moments that matter, inspiring bold new innovations across industries.
+
+ 
+Contact Us
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+Follow Us
+
+ 
+
+ 
+Facebook
+
+ 
+Twitter
+
+ 
+LinkedIn
+
+ 
+YouTube
+
+ 
+RSS
+
+ 
+
+ 
+
+ 
+Explore
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+Accessibility
+ 
+ 
+Careers
+ 
+ 
+Certification
+ 
+ 
+Communities
+ 
+ 
+Company
+ 
+ 
+Data Management
+ 
+ 
+Developers
+ 
+ 
+Documentation
+ 
+ 
+ 
+ 
+For Educators
+ 
+ 
+Events
+ 
+ 
+Industries
+ 
+ 
+My SAS
+ 
+ 
+Newsroom
+ 
+ 
+Products
+ 
+ 
+SAS Viya
+ 
+ 
+Solutions
+ 
+ 
+ 
+ 
+Students
+ 
+ 
+Support & Services
+ 
+ 
+Training
+ 
+ 
+Try/Buy
+ 
+ 
+Video Tutorials
+ 
+ 
+Why SAS?
+ 
+ 
+ 
+
+
+
+ 
+What is...
+
+
+ 
+
+
+What is...
+ 
+ 
+ 
+ 
+Analytics
+ 
+ 
+Artificial Intelligence
+ 
+ 
+Data Management
+ 
+ 
+Data Science
+ 
+ 
+Generative AI
+ 
+ 
+Responsible Innovation
+ 
+ 
+ 
+
+
+Privacy Statement
+Terms of Use
+Trust Center
+©2026 SAS Institute Inc. All Rights Reserved.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Us
+Share
+Subscribe
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Share this
+Share this page with friends or colleagues. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Back to Top

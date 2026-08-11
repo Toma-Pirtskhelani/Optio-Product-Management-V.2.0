@@ -1,0 +1,976 @@
+===== llms.txt :: https://www.reachdesk.com/llms.txt
+--- SIGNALS ---
+title: 
+meta_description: 
+og_description: 
+og_site_name: 
+h1: 
+h2: 
+jsonld_org: []
+--- TEXT ---
+# Reachdesk
+> Reachdesk is a global B2B gifting and swag platform that lets companies send personalized gifts and direct mail to prospects, customers, and employees to build relationships and drive measurable results.
+## Platform
+- [Platform overview](https://www.reachdesk.com/overview): Full tour of the Reachdesk gifting and swag platform.
+- [Personalized gifting](https://www.reachdesk.com/personalized-gifting): Scaling personalized B2B gifting with AI.
+- [Integrations](https://www.reachdesk.com/integrations): Connecting Reachdesk to your CRM, marketing, and sales stack.
+- [Global warehousing](https://www.reachdesk.com/global-warehousing): Worldwide warehousing and fulfillment for swag and gifts.
+- [Swag management](https://www.reachdesk.com/swag-management): Managing and distributing branded swag globally.
+- [Reporting](https://www.reachdesk.com/reporting): Tracking ROI and gifting campaign performance.
+- [Budgeting](https://www.reachdesk.com/budgeting): Controlling and managing corporate gifting budgets.
+- [Creative services](https://www.reachdesk.com/creative-services): Creative strategy and design for gifting campaigns.
+- [Events fulfillment](https://www.reachdesk.com/events-fulfillment): Gifting and fulfillment for events.
+## Solutions by team
+- [Marketing](https://www.reachdesk.com/marketing): Gifting for ABM, demand gen, and field marketing teams.
+- [Sales](https://www.reachdesk.com/sales): Booking more meetings with gift automation.
+- [Customer success](https://www.reachdesk.com/customer-success): Gifting to retain and grow accounts.
+- [HR & people](https://www.reachdesk.com/people): Gifting for HR and people teams.
+- [Employee engagement](https://www.reachdesk.com/employee-engagement): Boosting employee engagement with gifts.
+## Pricing & customers
+- [Pricing](https://www.reachdesk.com/pricing): Reachdesk pricing and plans.
+- [Customer stories](https://www.reachdesk.com/customers/salesloft): How Salesloft drove 60x ROI with personalized gifting.
+## Resources
+- [Resources](https://www.reachdesk.com/resources): Guides, articles, and content library.
+- [Ebooks](https://www.reachdesk.com/ebooks): Downloadable ebooks on B2B gifting.
+## Optional
+- [Field & event marketing](https://www.reachdesk.com/marketing/field-event-marketing)
+- [Marketing operations](https://www.reachdesk.com/marketing/marketing-operations)
+- [Account-based marketing](https://www.reachdesk.com/marketing/account-based-marketing)
+- [Demand generation](https://www.reachdesk.com/marketing/demand-generation)
+- [Gifting for SDRs](https://www.reachdesk.com/sales/sales-development-representitive)
+- [Gifting for AEs & AMs](https://www.reachdesk.com/sales/account-executives-and-account-managers)
+
+===== homepage :: https://www.reachdesk.com/
+--- SIGNALS ---
+title: Global B2B Gifting & Swag Platform
+meta_description: Send personalized gifts and branded swag globally with Reachdesk. Drive ROI, build relationships, and boost pipeline with one powerful platform.
+og_description: 
+og_site_name: 
+h1: Your one-stop solution forGlobal Gifting & Swag
+h2: The #1 gifting & swag solution for B2B enterprise | Corporate gifting: A key to long-term success | The complete solution for global gifting and swag | Corporate gifting and swag solutions that grow with you | Integrate with your stack | How to use Reachdesk | Build lasting connections with a gifting solution for every team | Hear from our customers | Ready to deliver moments that matter?
+jsonld_org: []
+--- TEXT ---
+Global B2B Gifting & Swag Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What we do
+ 
+How it Works?
+One powerful platform for ROI-driven corporate gifting, swag, and engagement at scale.
+Learn more
+ 
+Solutions
+ 
+Personalized Gifting
+Send impactful gifts they’ll remember
+ 
+Events Fulfillment
+Deliver swag to and from any event
+ 
+Global Warehousing
+Store & ship gifts worldwide with ease
+ 
+Swag Management
+Create, track, and send custom swag
+ 
+Creative Services
+Expert gift campaign design, made easy
+ 
+Employee Engagement
+Celebrate your team with motivating gifts
+Features
+ 
+Reporting
+Track ROI and performance with ease
+ 
+Budgeting
+Control and manage spend across teams
+ 
+Integrations
+Connect with your favorite tools
+Who we help
+ 
+Who we Help
+ 
+Marketing teams
+Boost campaigns with ROI-driven gifting
+ABM
+Field & Event Marketing
+Demand Gen
+Marketing Ops
+ 
+Sales teams
+Gifts that open doors and close deals faster
+SDRs
+AEs & AMs
+ 
+Customer success teams
+Engage, reward, and retain top talent with gifts
+ 
+People teams
+Celebrate wins and drive loyalty with swag
+How Salesloft’s personalized gifting strategy achieved 60X ROI
+Learn more
+ 
+Pricing
+Resources
+ 
+Resources
+ 
+Resources Hub
+All gifting resources and inspiration in one place
+ 
+eBooks
+Dive deep into gifting strategies and swag insights
+ 
+Customer Stories
+See how top teams win with impactful gifts
+ 
+Webinars & Podcasts
+Listen to gifting expert talks, tips, and trends
+The Pattern Break
+Gift Masters
+ 
+Blog
+Gifting & swag insights, ideas, and inspiration
+ 
+ROI calculator
+Measure your gifting impact fast
+ 
+Gifting Cadence Library
+Proven sending strategies to spark action
+The Pattern Break - Episode 04
+Experience-led ABM: Creating engagement that moves enterprise deals
+Register now
+ 
+Who we are
+ 
+Who we are
+ 
+About us
+Get to know Reachdesk better
+ 
+Brand Guarantees
+Guaranteed results from start to finish
+ 
+Careers
+Help shape the future of gifting & swag
+ 
+Become a partner
+Collaborate and grow with us
+ 
+Become a vendor
+Join our curated gift marketplace
+ 
+Sign in
+Book a demo
+ 
+What we do
+ 
+How it Works?
+One powerful platform for ROI-driven corporate gifting, swag, and engagement at scale.
+Learn more
+ 
+Solutions
+ 
+Personalized Gifting
+Send impactful gifts they’ll remember
+ 
+Events Fulfillment
+Deliver swag to and from any event
+ 
+Global Warehousing
+Store & ship gifts worldwide with ease
+ 
+Swag Management
+Create, track, and send custom swag
+ 
+Creative Services
+Expert gift campaign design, made easy
+ 
+Employee Engagement
+Celebrate your team with motivating gifts
+Features
+ 
+Reporting
+Track ROI and performance with ease
+ 
+Budgeting
+Control and manage spend across teams
+ 
+Integrations
+Connect with your favorite tools
+Who we help
+ 
+Who we Help
+ 
+Marketing teams
+Boost campaigns with ROI-driven gifting
+ABM
+Field & Event Marketing
+Demand Gen
+Marketing Ops
+ 
+Sales teams
+Gifts that open doors and close deals faster
+SDRs
+AEs & AMs
+ 
+Customer success teams
+Engage, reward, and retain top talent with gifts
+ 
+People teams
+Celebrate wins and drive loyalty with swag
+How Salesloft’s personalized gifting strategy achieved 60X ROI
+Learn more
+ 
+Pricing
+Resources
+ 
+Resources
+ 
+Resources Hub
+All gifting resources and inspiration in one place
+ 
+eBooks
+Dive deep into gifting strategies and swag insights
+ 
+Customer Stories
+See how top teams win with impactful gifts
+ 
+Webinars & Podcasts
+Listen to gifting expert talks, tips, and trends
+The Pattern Break
+Gift Masters
+ 
+Blog
+Gifting & swag insights, ideas, and inspiration
+ 
+ROI calculator
+Measure your gifting impact fast
+ 
+Gifting Cadence Library
+Proven sending strategies to spark action
+The Pattern Break - Episode 04
+Experience-led ABM: Creating engagement that moves enterprise deals
+Register now
+ 
+Who we are
+ 
+Who we are
+ 
+About us
+Get to know Reachdesk better
+ 
+Brand Guarantees
+Guaranteed results from start to finish
+ 
+Careers
+Help shape the future of gifting & swag
+ 
+Become a partner
+Collaborate and grow with us
+ 
+Become a vendor
+Join our curated gift marketplace
+ 
+Sign in
+Book a demo
+Your one-stop solution for
+Global Gifting & Swag
+Reach anyone, anywhere to build quality pipeline and brand advocates. Take the hassle out of events with swag sourcing, storage and shipping. Drive ROI and measure the impact of every gift.
+Book a demo
+Join top GTM leaders that use Reachdesk
+The #1 gifting & swag solution for B2B enterprise
+See all reviews
+Corporate gifting: A key to long-term success
+38.7
+x
+Boost in ROI
+Read the story
+ 
+$
+1.4
+M
+of MRR through meaningful connections with customer
+Read the story
+ 
+60
+x
+ROI generated
+Read the story
+ 
+The complete solution for global gifting and swag
+ 
+Reach anyone, anywhere
+Seamlessly connect with prospects, customers and employees across 180+ countries, with the ability to personalize and automate gifting at scale.
+ 
+Scale with confidence
+Reachdesk connects with leading CRMs and marketing platforms, ensuring every gift aligns with your strategy. Track success and maximize impact of your multi-channel strategy.
+ 
+Measurable ROI
+Track the success of every send, optimize your strategy in real time, and guarantee a return on your gifting investment.
+Corporate gifting and swag solutions that grow with you
+Personalized gifting, simplified and scalable
+Deliver hyper-personalized gifts and quality swag at scale with AI, automation, and a global Marketplace that wows at every touchpoint.
+Explore Personalized Gifting Solutions
+Swag sourcing, without the headache
+Top-quality swag at the best price—sourced, stored, and shipped for you. No middlemen, no hidden fees, just great merch at scale.
+Explore Swag Sourcing
+Global warehousing, local speed
+Store anywhere, ship everywhere. Secure, global fulfillment that keeps your campaigns moving fast to 180+ countries.
+Discover Global Warehousing
+Stress-free events fulfillment
+We handle event storage, shipping, and on-site fulfillment so your swag and gear arrive on time, on brand, and stress-free.
+Explore Events Fulfillment
+A creative campaign partner you can count on
+Corporate gifting campaigns built for your goals. Our experts become part of your team to deliver strategic, results-driven gifting experiences.
+Explore Creative Services
+Employee engagement gifts that motivate
+Celebrate, motivate, and retain top talent with personalized swag and gifts for every stage of your employees’ journey.
+Explore Employee Engagement
+Integrate with your stack
+Track success and maximize impact of your multi-channel strategy within your techstack.
+See our integrations
+How to use Reachdesk
+Our gifting & swag management platform helps you identify and deliver moments that matter by sending personalized gifts that drive measurable results across all stages of the buyer journey—from inbound and outbound, to new business, expansion, and renewals.
+Target
+ 
+SDR
+outreach
+ 
+Events
+ 
+ABM
+ 
+Seasonal
+campaigns
+ 
+Demand Gen Campaigns
+Engage
+ 
+Demo requests
+ 
+Proposal
+ 
+Discovery
+ 
+Deal acceleration
+ 
+Nurture
+Grow
+ 
+Onboarding
+ 
+Renewal
+ 
+Cross-sell
+ 
+Health score
+ 
+Upsell
+ 
+ 
+ 
+Target
+SDR outreach
+Challenge: Low response rates and ghosting
+Goal:
+ Re-engage and revive pipeline
+Integrations:
+How Reachdesk customers do it:
++14%
+meeting attendance rate
+"Gifting has helped me to be creative with my outreach and the personalization a gift adds has taken my sales messages to the next level."
+Lars Roschmann
+, Senior BDR, 
+Screenloop
+Read the story
+ 
+ 
+Target
+ABM
+Challenge: Get the attention of decision makers
+Goal:
+ Increase close rates
+Integrations:
+How Reachdesk customers do it:
++25%
+close rate
+"Reachdesk has been an invaluable tool in helping us accelerate our ABM program. It’s a must-have for any marketers wishing to cut through the noise an engage their prospects in a far more compelling and effective way."
+Matthew Robinson,
+ Marketing Director EMEA & APAC, 
+Contentsquare
+Read the story
+ 
+ 
+Target
+Demand generation campaigns
+Challenge: Low conversion from digital channels
+Goal:
+ Boost conversion rates from paid social
+Campaign idea:
+ Give your LinkedIn sponsored posts for helpful content a boost by sending a coffee voucher to enjoy with their ebook or research paper.
+Gift type:
+ eGift
+Integrations:
+How Reachdesk customers do it:
++25%
+MQL to SQL conversion rate
+"Reachdesk has opened our eyes to just how many opportunities there are to connect with prospects and build relationships."
+Luke Fagg
+, UK Team Lead, Field Marketing, 
+CoachHub
+Read the story
+ 
+ 
+Target
+Seasonal campaigns
+Challenge: Time-consuming gifting campaigns
+Goal:
+ Save time and resources
+Campaign idea:
+ Don’t waste time juggling vendors, packing, posting and tracking everything manually. Streamline your one-off and seasonal gifting campaigns with Reachdesk.
+Integrations:
+How Reachdesk customers do it:
+"What used to take hours can now be done in
+minutes using Reachdesk."
+Charlie Oldham
+, Marketing Director, 
+Agillic
+Read the story
+ 
+ 
+Target
+Events
+Challenge: Low event attendance and engagement
+Goal:
+ Drive attendance and conversion
+Campaign idea:
+ Send a voucher for a free lunch or refreshing drink with your email reminder a day before a webinar or virtual event. Having a treat to look forward to can work miracles in getting people even more excited about the event.
+Integrations:
+How Reachdesk customers do it:
++75%
+webinar attendance
+"People can get event or webinar fatigue. Direct mail provides a different type of interaction. Whether you’re a recipient or a sender, you get a different type of satisfaction from a successful direct mail drop."
+Vasileios Kospano
+, Senior Field Marketing Manager, 
+Lacework
+Read the story
+ 
+ 
+Engage
+Demo requests
+Challenge: Meeting no shows
+Goal:
+ Accelerate pipeline
+Campaign idea:
+ Give your demo conversations a caffeine kick by sending prospects a luxury coffee gift set, including a personalized mug and gourmet beans to enjoy before their demo.
+Gift type:
+ Marketplace gift
+Integrations:
+How Reachdesk customers do it:
+"When we first started using Reachdesk, we saw a 15% increase in meeting show rates. More shows equals more deals so that directly impacts our bottom line."
+Kiera Griffis
+, Marketing Campaign Manager, 
+BILL Spend & Expense
+Read the story
+ 
+ 
+Engage
+Discovery
+Challenge: Meeting no shows
+Goal:
+ Engage decision-makers in discovery calls
+Campaign idea:
+ Make sure an upcoming discovery call is firmly on your prospect’s radar. Treat them to a coffee or lunch voucher either before the discovery call or as a thank-you after the meeting.
+Gift type:
+ eGift
+Integrations:
+How Reachdesk customers do it:
+"Using Reachdesk in my sales process has directly impacted $250K worth of closed-won revenue resulting in a 100X ROI. I couldn’t live without it. It helps me build stronger champions and close bigger deals, faster!"
+Jack Neicho
+, Account Executive EMEA,
+ Salesloft
+Read the story
+ 
+ 
+Engage
+Nurture
+Challenge: Bad timing
+Goal:
+ Stay top of mind
+Campaign idea:
+ Add an eGift to your nurture email cadences to stand out in your prospects’ crowded inboxes. A coffee voucher to go with a good piece of content is always a nice touch.
+Gift type:
+ eGift
+Integrations:
+How Reachdesk customers do it:
+"Sending prospects a coffee before a meeting has been super
+valuable for us. It’s not a flashy gift, but it’s been part of
+every campaign we’ve run and it’s always well received."
+Luke Fagg
+, UK Team Lead, Field Marketing, 
+CoachHub
+Read the story
+ 
+ 
+Engage
+Deal acceleration
+Challenge: Deals get stuck
+Goal:
+ Revive stalled deals
+Campaign idea:
+ Re-engage champions by sending a personalized gift based on their likes and interests. If they’re a Star Wars fan, send them some memorabilia from the show. Or use our Amazon Rainmaker tool to find them something special and send over the recommendation along with an Amazon voucher to spend.
+Integrations:
+How Reachdesk customers do it:
+"We now have Reachdesk as part of our forecast meetings. If a deal gets stuck, we ask, ‘Have you Reachdesked them?’"
+Anton Boner
+, Co-Founder and Commercial Director, 
+Screenloop
+Read the story
+ 
+ 
+Engage
+Proposal
+Challenge: Deals get stuck
+Goal:
+ Get execs up to speed
+Campaign idea:
+ Help execs catch up by sending them a short summary of the calls they’ve missed so far along with a sweet treat they can enjoy while they get up to speed.
+Gift type:
+ Physical gift
+How Reachdesk customers do it:
+"Once we introduced the gifting playbook across the entire customer lifecycle, we saw it really impacted our sales velocity and deals in which we used gifting are 3X more likely to close.’"
+Nasri EL-Sayegh
+, VP Revenue,
+ Hokodo
+Read the story
+ 
+ 
+Grow
+Onboarding
+Challenge: Slow adoption
+Goal:
+ Boost customer adoption
+Campaign idea:
+ Gamify the user experience by setting milestones to reach when using your product or service and reward your customers every time they achieve one. This will create excitement from the very beginning and help users feel rewarded and appreciated.
+Gift type:
+ Physical gift/ eGift
+Integrations:
+How Reachdesk customers do it:
+"It’s been great to create a personalized touch to thank customers and to encourage them to continue to use our product.’"
+Dani Mortimer
+, UK Team Lead, Field Marketing, 
+CoachHub
+Read the story
+ 
+ 
+Grow
+Cross-sell
+Challenge: Hard to reach stakeholders/new teams
+Goal:
+ Engage stakeholders
+Campaign idea:
+ Research your key stakeholders and send them a thoughtful, personalized gift to introduce yourself. This will go a long way when it comes to cross-sell conversations.
+Gift type:
+ Physical gift/ eGift
+Integrations:
+ 
+ 
+Grow
+Upsell
+Challenge: Hard to reach stakeholders/new teams
+Goal:
+ Engage stakeholders
+Campaign idea:
+ Send your stakeholder content that touches on the product and problems you’ve already discussed, but also highlights additional pain points that an “upsold” product could solve. Sweeten the deal by sending them a snack they can enjoy while reading your content.
+Gift type:
+ Physical gift/ eGift
+Integrations:
+ 
+ 
+Grow
+Health Score
+Challenge: Low adoption/ Ghosting
+Goal:
+ Improve customer experience
+Campaign idea:
+ If you’re struggling to re-engage a customer, take advantage of b
+
+===== pricing_or_trust :: https://www.reachdesk.com/pricing
+--- SIGNALS ---
+title: Corporate Gifting Platform Pricing
+meta_description: Explore flexible pricing plans designed to maximize B2B gifting ROI for your GTM, customer success, and HR teams.
+og_description: 
+og_site_name: 
+h1: Pricing that pays for itself with a 5x ROI guarantee*
+h2: Pricing plans tailored to your needs | Hear from our customers | Frequently asked questions | Ready to accelerate your pipeline and boost marketing ROI by 5X?
+jsonld_org: []
+--- TEXT ---
+Corporate Gifting Platform Pricing
+ 
+ 
+ 
+ 
+What we do
+ 
+How it Works?
+One powerful platform for ROI-driven corporate gifting, swag, and engagement at scale.
+Learn more
+ 
+Solutions
+ 
+Personalized Gifting
+Send impactful gifts they’ll remember
+ 
+Events Fulfillment
+Deliver swag to and from any event
+ 
+Global Warehousing
+Store & ship gifts worldwide with ease
+ 
+Swag Management
+Create, track, and send custom swag
+ 
+Creative Services
+Expert gift campaign design, made easy
+ 
+Employee Engagement
+Celebrate your team with motivating gifts
+Features
+ 
+Reporting
+Track ROI and performance with ease
+ 
+Budgeting
+Control and manage spend across teams
+ 
+Integrations
+Connect with your favorite tools
+Who we help
+ 
+Who we Help
+ 
+Marketing teams
+Boost campaigns with ROI-driven gifting
+ABM
+Field & Event Marketing
+Demand Gen
+Marketing Ops
+ 
+Sales teams
+Gifts that open doors and close deals faster
+SDRs
+AEs & AMs
+ 
+Customer success teams
+Engage, reward, and retain top talent with gifts
+ 
+People teams
+Celebrate wins and drive loyalty with swag
+How Salesloft’s personalized gifting strategy achieved 60X ROI
+Learn more
+ 
+Pricing
+Resources
+ 
+Resources
+ 
+Resources Hub
+All gifting resources and inspiration in one place
+ 
+eBooks
+Dive deep into gifting strategies and swag insights
+ 
+Customer Stories
+See how top teams win with impactful gifts
+ 
+Webinars & Podcasts
+Listen to gifting expert talks, tips, and trends
+The Pattern Break
+Gift Masters
+ 
+Blog
+Gifting & swag insights, ideas, and inspiration
+ 
+ROI calculator
+Measure your gifting impact fast
+ 
+Gifting Cadence Library
+Proven sending strategies to spark action
+The Pattern Break - Episode 04
+Experience-led ABM: Creating engagement that moves enterprise deals
+Register now
+ 
+Who we are
+ 
+Who we are
+ 
+About us
+Get to know Reachdesk better
+ 
+Brand Guarantees
+Guaranteed results from start to finish
+ 
+Careers
+Help shape the future of gifting & swag
+ 
+Become a partner
+Collaborate and grow with us
+ 
+Become a vendor
+Join our curated gift marketplace
+ 
+Sign in
+Book a demo
+ 
+ 
+ 
+What we do
+ 
+How it Works?
+One powerful platform for ROI-driven corporate gifting, swag, and engagement at scale.
+Learn more
+ 
+Solutions
+ 
+Personalized Gifting
+Send impactful gifts they’ll remember
+ 
+Events Fulfillment
+Deliver swag to and from any event
+ 
+Global Warehousing
+Store & ship gifts worldwide with ease
+ 
+Swag Management
+Create, track, and send custom swag
+ 
+Creative Services
+Expert gift campaign design, made easy
+ 
+Employee Engagement
+Celebrate your team with motivating gifts
+Features
+ 
+Reporting
+Track ROI and performance with ease
+ 
+Budgeting
+Control and manage spend across teams
+ 
+Integrations
+Connect with your favorite tools
+Who we help
+ 
+Who we Help
+ 
+Marketing teams
+Boost campaigns with ROI-driven gifting
+ABM
+Field & Event Marketing
+Demand Gen
+Marketing Ops
+ 
+Sales teams
+Gifts that open doors and close deals faster
+SDRs
+AEs & AMs
+ 
+Customer success teams
+Engage, reward, and retain top talent with gifts
+ 
+People teams
+Celebrate wins and drive loyalty with swag
+How Salesloft’s personalized gifting strategy achieved 60X ROI
+Learn more
+ 
+Pricing
+Resources
+ 
+Resources
+ 
+Resources Hub
+All gifting resources and inspiration in one place
+ 
+eBooks
+Dive deep into gifting strategies and swag insights
+ 
+Customer Stories
+See how top teams win with impactful gifts
+ 
+Webinars & Podcasts
+Listen to gifting expert talks, tips, and trends
+The Pattern Break
+Gift Masters
+ 
+Blog
+Gifting & swag insights, ideas, and inspiration
+ 
+ROI calculator
+Measure your gifting impact fast
+ 
+Gifting Cadence Library
+Proven sending strategies to spark action
+The Pattern Break - Episode 04
+Experience-led ABM: Creating engagement that moves enterprise deals
+Register now
+ 
+Who we are
+ 
+Who we are
+ 
+About us
+Get to know Reachdesk better
+ 
+Brand Guarantees
+Guaranteed results from start to finish
+ 
+Careers
+Help shape the future of gifting & swag
+ 
+Become a partner
+Collaborate and grow with us
+ 
+Become a vendor
+Join our curated gift marketplace
+ 
+Sign in
+Book a demo
+Pricing that pays for itself with a 5x ROI guarantee*
+Plans start at $20,000/year. Request a custom quote tailored to your team size, needs, and gifting strategy.
+Drive predictable revenue through personalized, data-driven gifting
+Deliver moments that matter, globally
+Increase close rates by 25% with impactful gifts and swag
+Save 20+ hours of manual work with plug-and-play integrations and automated workflows
+* Terms & Conditions Apply
+Book a demo
+ 
+ 
+ROI guarantee
+We guarantee 5x ROI on pipeline generated in the first year with Reachdesk or your money back.
+Trusted by global brands for stress-free gifting and swag delivery
+Pricing plans tailored to your needs
+Whether you're looking for extra storage, driving pipeline with corporate gifts for regional or international campaigns, or sourcing swag for events, Reachdesk has a plan built for you.
+GTM Platform
+Swag Sourcing
+Core
+Get started with gifting and store everything you need in one place
+Plus
+Elevate your gifting with curated campaigns across multiple regions
+Premium
+Gift globally and remove the hassle of managing event logistics
+This package is for you if:
+You want to send ~50 gifts per month, need 5 users and have 1 team gifting
+You want to send ~100 gifts per month, need up to 10 users and have 2 teams gifting
+You want to send +100 gifts per month, need 15 users and have multiple teams gifting
+Warehouse Access
+ 
+(America, Canada, UK, Europe, Australia)
+1 warehouse
+2 warehouses
+3+ warehouses
+Users included
+5
+10
+15
+eGift and Marketplace access 
+(America, EMEA, APAC)
+1 Region
+2 Regions
+International
+Unlimited GTM integrations
+Dedicated CSM
+Dedicated onboarding
+In-app landing pages
+Swag management
+Solution architect
+Event fulfillment
+Creative services
+Need help sourcing high-quality swag at the best prices? Talk to our team.
+With Reachdesk Swag Sourcing, you’ll work directly with experts who help you find and deliver premium branded swag, quickly, easily, and cost-effectively.
+Minimum order: $2,500.
+Book a call
+Learn more
+Hear from our customers
+10x
+ROI
+"We’ve seen an ROI of almost 10x what we spent on Reachdesk this year alone which has made a real difference for us."
+Hayley Strang, Senior Marketing Manager at Mapp
+Read the story
+160%
+increase in response rate every quarter
+“The data Reachdesk provides is phenomenal. Using Reachdesk Insights alongside data from tools like ZoomInfo means we can gift to our most engaged prospects and be really strategic with our direct mail.”
+Sara Boen, Senior Field Marketing Manager at Paycor
+Read the story
+120%
+increase in post-event meetings
+"Reachdesk has opened a whole world of prospecting. What used to take weeks can now be done in a few hours."
+Charlie Oldham, Marketing Director at Agillic
+Read the story
+"We were more than satisfied. Everything went smoothly, and it's even better handling swag sourcing through one platform instead of juggling multiple vendors."
+Alexis Petrichos, VP, Strategic Partnerships Marketing at Chili Piper
+Read the story
+ 
+ 
+Frequently asked questions
+What is a region?
+ 
+A region refers to a major geographical area where Reachdesk provides fulfillment services. Pricing may vary depending on where you're shipping to or from, such as North America, EMEA, or APAC, based on warehousing, logistics, and local compliance standards.
+Can I add additional regions or warehouses to my package?
+ 
+Yes, our packages can be customized to your needs. If you’d like more regions, warehouses, or services, simply speak to your sales representative. If you’re already a customer, your Customer Success Manager can help make the necessary arrangements and provide details on any additional costs.
+Where are Reachdesk’s warehouses located?
+ 
+Reachdesk has a global network of state-of-the-art warehouses in the USA, Canada, the UK, Europe, and Australia. This ensures fast, reliable, and secure storage and shipping to over 180 countries. Whether you're sending corporate gifts, swag, or event materials, our streamlined fulfillment process keeps your items customs-compliant, free from hidden fees, and delivered on time.
+What’s the difference between Creative Services and Swag Sourcing?
+ 
+Swag Sourcing is ideal for bulk orders of standard items like apparel, tech gadgets, stationery, and other branded merchandise with basic customization options such as logos or colors. We offer this service with or without the Reachdesk platform. The minimum order is $2,500, and we manage vendor relationships for you so you don't have to.
+Creative Services is a full-service solution where our team of gifting experts support you from start to finish. From campaign planning and messaging to gift creation and shipping, we work as an extension of your team to help you build impactful gifting experiences and bundles that align with your brand and campaign goals.
+What is Event Fulfillment?
+ 
+Event Fulfillment is our end-to-end solution for sourcing, shipping, and managing swag, materials, and small equipment for events. We ensure fast, reliable delivery to your venue or chosen location with a five-day domestic shipping window, even on tight deadlines. With over 1.1 million square feet of warehouse space across the US, UK, EU, Canada, and Australia, we provide secure storage and quick fulfillment.
+Do you offer Event returns?
+ 
+After your event in the US, UK, or EU, you can request a return label in Reachdesk’s app, pack up any leftovers, and send them back to your preferred location or one of our warehouses. We’ll handle the counting and storage to keep the process simple and stress-free.
+Ready to accelerate your pipeline and boost marketing ROI by 5X?
+Stop blending in. Start standing out. See how Reachdesk can help your team drive more revenue through smart, data-driven gifting.
+Book a demo
+Solutions
+Personalized gifting
+Swag sourcing
+Employee engagement
+Creative services
+Global warehousing
+Events fulfillment
+Who We Help
+Marketing teams
+Sales teams
+Customer Success teams
+People teams
+Company
+About us
+Brand Guarantees
+Careers
+Become a vendor
+Contact us
+Reviews
+Resources
+Resources
+Customer stories
+Blog
+Playbooks
+Webinars
+Subscribe to our newsletter
+ 
+ 
+©2026 Reachdesk
+Terms of Service
+Privacy Policy
+Cookies Policy
