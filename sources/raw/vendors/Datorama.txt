@@ -1,0 +1,251 @@
+https://funnel.io/what-is-datorama
+
+Notification
+Finally, the definitive guide to marketing measurement is here.
+
+Get the guide.
+
+Funnel logotype
+Product 
+ 
+Solutions 
+ 
+Pricing
+ 
+Case studies
+ 
+Partners 
+ 
+Resources 
+Message bubble iconGet in touch
+User iconLog in
+Get a demo
+What is Datorama?
+A guide to the Salesforce platform, plus the top Datorama alternatives to consider.
+pexels-stasknop-1228497
+If you're not in the Salesforce ecosystem, you might not have heard of Datorama.
+
+Maybe you’re looking for a data analysis tool, and searched Google: “what is Datorama?” or “Datorama alternatives”, but didn’t find any helpful answers. And it's made even more confusing now since it's renamed to "Marketing Cloud Intelligence". But even without name changes, researching tools for data management can be a learning curve in itself. Luckily, you found this page, where you can learn about alternatives that support multiple data connections and data visualization tools without forcing users to adopt huge platforms like Salesforce.
+
+Let’s take a look at Datorama and explore a few marketing cloud alternatives, to help you make sure you're choosing the best tool for your marketing data and business intelligence needs.
+
+Table of contents:
+
+What is Datorama?
+
+Top Datorama alternatives
+
+Other alternative solutions
+
+Make it easier to work with marketing data
+
+ 
+
+In short:
+
+Datorama was a data analytics tool, acquired by Salesforce in 2018. It’s built with digital marketers and marketing agencies in mind. It is now called Marketing Cloud Intelligence. Some of the top alternatives are Funnel and Improvado. 
+
+ 
+
+What is Datorama?
+datorama-salesforce-logo (1)
+
+Datorama is a marketing data analytics tool accessed through Salesforce. Today, you will see it called Salesforce Marketing Cloud Intelligence. New name, new tool? Not so much. There aren't many differences between the old Datorama and the newer Salesforce Marketing Cloud Intelligence tool. The new name simply brought Datorama in line with Salesforce's own branding.
+
+So, when did Salesforce buy Datorama? Salesforce says it acquired Datorama in mid-July 2018. The companies didn't disclose the purchase price, but reporters at the time said Salesforce spent $800 million acquiring the Israeli company.
+
+More recently, Salesforce has integrated Datorama into its Marketing Cloud Intelligence tool.
+
+What is marketing intelligence?
+Marketing intelligence is the process of gathering, analyzing, and interpreting information about a company's markets, competitors, customers, and industry trends. This information is used to make informed decisions about marketing strategies, product development, and business operations. 
+
+In essence, marketing intelligence allows businesses to get a competitive edge through informed data-driven decisions. 
+
+Marketing Cloud Intelligence (AKA Datorama) is not the same as the discipline "marketing intelligence", they've just borrowed the name for their rebrand. 
+
+Datorama features and capabilities
+Datorama has several marketing analytics features that make it a powerful option for marketers.
+
+Some notable Datorama features include:
+Options to pull data from multiple data sources (essential for multichannel marketing analytics)
+Data visualization tool for customizable dashboards and reports
+Multi-user access for your marketing team
+Spend management that helps optimize marketing asset allocation
+Datorama's data analysis capabilities can even help you dive deeper into:
+Customer insights:
+Why do some people respond to one channel while others respond to a different strategy?
+ROI tracking:
+Are you getting the right marketing performance for the amount of money you spend on a channel?
+Marketing campaign stickiness:
+Do people actually remember your campaigns?
+All of this sounds great since everyone wants data management platforms that pull from multiple data sources and provide deep insights into what the data means.
+
+So, given these benefits, why do some people choose to avoid Datorama and its Salesforce Marketing Intelligence tool?
+
+Datorama has some disadvantages to consider
+Datorama does a great job pulling marketing data from diverse sources and giving most teams the marketing analytics they need to gain deeper insights into their performance metrics and make data-driven decisions. But there are some issues that make marketers and data analysts want to look elsewhere.
+
+Top concerns include:
+Costly:
+The high price tag puts it out of reach for many small and medium-sized businesses.
+Complex:
+A steep learning curve and the need for specialized training make it difficult to use effectively, especially for teams seeking a plug-and-play solution.
+Data integration challenges:
+Some users face difficulties connecting to third-party data sources, hindering a seamless workflow.
+Given those concerns, let's look at some alternative marketing cloud intelligence platforms to consider.
+
+Screenshot 2024-09-17 at 15.02.59
+
+Image: Salesforce
+
+The top Datorama alternatives 
+Maybe you want software similar to Datorama, but you don't want to invest in the Salesforce ecosystem. That's fine! We've found several marketing intelligence platforms that make excellent alternatives. You might even find one with better features that digital agencies can use to improve data integration, data granularity and other features you'd expect from a top marketing cloud intelligence platform.
+
+If you're looking for another marketing analytics platform, one of these will likely do the job:
+
+Blog images (1)
+
+1. Funnel
+Obviously, we're partial to Funnel. We don't recommend the platform just because we made it, though. We recommend Funnel because we used decades of combined marketing experience to decide what features an effective data tool needs.
+
+Marketing seems to get more complicated by the day. You never know when new marketing channels will become critical to your strategy. Funnel's powerful platform excels at collecting and transforming data so you can use unified marketing measurements (UMM).
+
+We're also excited to offer features that:
+
+Combine sales and marketing data for a 360-degree view of your campaign performance.
+Assist with currency conversions so you can target global audiences.
+Help you track your budgets
+Automate data sharing and send data to your preferred destination on a schedule you choose.
+Funnel pros
+Effortless data aggregation: Access consolidated data without coding expertise.
+Advanced measurements: Benefit from triangulation for deeper understanding.
+Adaptable platform: Our growing library of data connectors ensures you're always prepared.
+Unified marketing view: Establish a single, reliable source of truth for your marketing efforts for easier data analysis.
+Funnel cons
+Best for advertising: While Funnel excels at advertising data, it may not be the ideal choice if your focus is solely on organic social data.
+Funnel pricing
+Funnel uses flexible pricing that largely depends on the number of connectors, accounts and destinations you use. Use the pricing calculator to get an estimate or talk to a representative for more advanced enterprise use cases. Depending on your needs, they can also set you up with a free trial.
+
+A dashboard showing the results from an MMM project.
+
+ 
+
+2. Improvado
+Improvado is a platform designed to collect data from numerous sources, load them to a single warehouse and send them to your preferred destinations. Recently, the company has embraced AI-powered insights intended to help marketers understand which aspects of their campaigns work and which fall short.
+
+Improvado pros
+Dedicated support contact
+Impressive list of API data connectors
+Straightforward interface makes analytics easy for practically anyone
+Improvado cons
+Data visualization is a bit lackluster, so don't expect many customization options
+Your dedicated support contact can take a frustrating amount of time to answer questions
+Improvado pricing
+You'll have to contact a sales rep for pricing.
+
+Other alternative solutions
+Maybe your business only needs to address very simple use cases. Not everyone needs enterprise ready marketing analytics with hundreds of data integrations.
+
+If your small company only needs the basics, check out these options:
+
+Supermetrics
+Supermetrics is known for its ability to connect to many popular marketing data sources and send data to commonly used destinations for business intelligence. It's particularly well-suited for small and simple use cases due to its origins as a plugin for Google Sheets and Looker Studio.
+
+What sets Supermetrics apart is its use of plugins to quickly transfer data from marketing platforms to tools like Google Sheets and Looker Studio. This makes it a convenient solution for businesses with straightforward data needs, though costs can rise significantly as those needs expand.
+
+Supermetrics pros:
+Easy to use: Good for basic needs, Supermetrics offers a straightforward interface for quick results in low-complexity data analysis.
+Self-sufficient: Get up and running without sales or support intervention.
+Supermetrics Cons:
+Limited scalability: While great for smaller tasks, Supermetrics can become costly as your data needs grow.
+Dependency on Google tools: Relying on Google Sheets and Looker Studio can restrict flexibility and performance for larger or more complex datasets.
+Feature limitations: Supermetrics lacks advanced features like native dashboards, data transformation, and marketing mix modeling.
+Supermetrics pricing
+Pricing is based on the connections you choose. Typically, users can expect to pay around $29 per month for each source and destination, but costs can escalate quickly with additional sources or team members.
+
+Power My Analytics
+Power My Analytics is a bit more robust than Supermetrics but it still manages to offer a straightforward approach to marketing analytics. The platform also provides report templates so you can share insights easily.
+
+Power My Analytics' target audience becomes obvious when you look at its pricing tiers. The lowest tier only lets you pull data from a single source. Taking a step up lets you collect data from five sources.
+
+While this isn't enough information for reliable data modeling, it can work well enough for small businesses that rely on popular sources like Google Analytics.
+
+Power My Analytics pros
+Budget-friendly: Attractive pricing for small businesses.
+User-friendly: Easy-to-navigate interface for beginners.
+Seamless integration: Connects effortlessly with Looker Studio for powerful visualizations.
+Power My Analytics cons
+Limited connector selection: May lack some essential connectors for certain marketing data integration.
+Connector issues: Some users have reported occasional connector malfunctions.
+Power My Analytics pricing
+Plans start at $14.95 per month, but on this plan, you can only connect to one source.
+
+Make it easier to work with marketing data
+Marketing data makes it possible for individuals and teams to finetune their efforts and improve results. Of course, different platforms can take unique approaches to embracing data discovery and analytics.
+
+With Funnel, you can use Data Explorer and Custom Metrics to generate in-depth reports within minutes. You get to set the KPIs that matter to you and track ongoing performance.
+
+Funnel also gives you a Data Hub that breaks down silos so you can see every data point that matters. Data Hub also takes advantage of built-in field mapping, data models developed specifically for marketers and data type normalization for easy use.
+
+Really, you shouldn't need to spend a lot of time figuring out your data platform. As a marketer, you want to devote your brain power to developing innovative campaigns. Let a platform like Funnel simplify everything related to data.
+
+data connectors (2)
+
+Understand your marketing performance
+Our AI model pulls insights from multi-touch attribution, marketing mix modeling and incrementality testing to give you the benefits of advanced triangulation. With triangulation, you get the benefits of marketing performance models while diminishing any downsides that could interfere with your decision-making process.
+
+Now you can understand your marketing performance at a glance.
+
+If you're still looking for an alternative to Datorama, give Funnel a try!
+
+ 
+
+funnel-logo-white
+PRODUCT
+
+Overview
+Data Hub
+Connectors
+Destinations
+Integrate
+Measure
+Report
+Funnel MCP
+SOLUTIONS
+
+Digital marketing
+Data teams
+IT / Engineering
+Agencies
+Connections
+Partner program
+Find a partner
+PLANS & PRICING
+
+All plans & pricing
+RESOURCES
+
+Blog
+Knowledge base
+Case studies
+Customers
+Product updates
+Webinars
+UTM tag generator
+COMPANY
+
+About us
+Contact us
+Careers
+Privacy & security
+Corporate
+Compliance
+Press
+icon-youtube-dark
+icon-linkedin-dark
+Privacy and Cookie Notice
+Video Surveillance Notice
+General Terms and Conditions
+Information Security Overview
+© Funnel.io
+

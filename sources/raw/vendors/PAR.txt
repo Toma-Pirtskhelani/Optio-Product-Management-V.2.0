@@ -1,0 +1,222 @@
+It looks like you might mean Pardot (now known as Salesforce Marketing Cloud Account Engagement), a major B2B marketing automation platform, or you are referring to general marketing automation principles.Marketing automation uses software to automate repetitive online marketing tasks, helping businesses nurture leads and track customer behavior efficiently.Core FeaturesLead Management: Score, grade, and qualify prospects automatically.Email Nurturing: Send targeted drip campaigns based on user actions and triggers.CRM Integration: Sync marketing data directly with sales platforms like Salesforce.Analytics & ROI: Track campaign performance and measure bottom-line impact.Key BenefitsSave Time: Cut out repetitive manual tasks.Align Teams: Pass high-quality leads to sales at the right time.Personalize Content: Scale tailored messages based on customer behavior.If you meant Salesforce Pardot or want to explore general marketing automation strategies, tell me:Are you looking for a specific software comparison (like HubSpot vs. Marketo vs. Pardot)?Do you need help setting up a lead nurturing workflow?
+
+https://www.salesforce.com/marketing/b2b-automation/
+
+Skip to content
+Salesforce Home
+Contact Us
+Marketing
+CNX News: The AI agents that will multiply your marketers.
+
+Click to learn more
+Customer using Marketing Cloud Next agentic marketing software, with Piper the number 1 AI SDR agent scheduling inbound meetings
+
+B2B Marketing Automation
+The Only B2B Marketing Platform That Powers Always-On Pipeline.
+Deploy an agency of agents across marketing and sales to act as one unified revenue team. From capturing and qualifying leads and accounts to nurturing buyers and accelerating deals with real-time insights, agents help your B2B teams drive more quality pipeline and ensure no lead is left behind.
+
+
+The world's leading B2B marketing teams build pipeline with Agentforce Marketing.
+Indeed Customer Logo
+Piedmont Healthcare logo
+Grammarly Logo
+Nextgen Healthcare logo
+
+Qualified image
+Meet Piper, the #1 AI SDR Agent
+For decades, marketers have juggled clunky systems and limited SDR bandwidth to convert inbound buyers — leaving too much pipeline on the table. Now, in the era of agentic marketing, you have an AI SDR agent who can engage and convert all your inbound buyers across both the website and email inbox, 24/7.
+
+What can you do with an agentic B2B marketing platform?
+Agentic B2B marketing automation identifies, engages, and converts buyers across the entire funnel, automating segmentation, multi-channel outreach, lead scoring, and sales hand-off. With Agentforce Marketing, AI agents go beyond rules and triggers. They unify account and buyer signals, act as brand ambassadors in two-way conversations, personalize every interaction, and run multi-step nurtures on their own.
+
+How does Agentforce Marketing support B2B marketing teams?
+Power agents and insights with unified data
+Unify behavior and intent across the buyer journey. Agents surface high-value leads, prioritize accounts, and tie campaigns to pipeline.
+
+Turn one-way channels into two-way conversations
+Replace one-way outreach with two-way conversations. Agents nurture leads, qualify accounts, and convert inbound demand around the clock.
+
+Shift from finite personalization to infinite scale
+Go beyond segments. Agents create, adapt, and optimize content for every buyer, account, and channel, at scale.
+
+Replace capacity constraints with an agency of agents
+Extend your team's capacity. Agents build campaigns, optimize spend, and hand off to sales with marketing in the loop.
+
+See how Agentforce Marketing powers B2B marketing transformation.
+Understand buyer & marketing performance
+Shift from data actioned by humans, to data powering autonomous agents.
+
+
+Identify and activate new buyers with agents
+Use agentic segmentation to identify high-value accounts as buyer behavior and intent evolve, and activate across owned and paid channels from a single platform. 
+
+
+Unify cross-channel performance and attribution
+Quadstar customer profile with an activity timeline and calculated insights like engagement score and propensity to churn.
+Orchestrate seamless experiences
+Shift from one-way outreach to two-way conversations across the buying journey.
+
+
+Convert leads automatically with Piper the #1 AI SDR
+Convert high-intent website visitors, prospects in discovery, and event leads in real time. Piper engages, qualifies, and books meetings — so no inbound buying signal goes unanswered.
+Learn more about Piper, the #1 AI SDR Agent
+
+
+Enhance account-based and opportunity-based marketing
+Piper the AI SDR agent chatting with a prospect about ABM solutions and booking a demo through an inline scheduler.
+Increase campaign effectiveness
+Shift from finite personalization to infinite scale with agentic content & decisioning.
+
+
+Automate campaigns and nurture programs
+Build multi-step nurture programs using natural language prompts. Agentforce drafts the segment, sequence, and content — eliminating manual setup so marketers move from idea to in-market in hours, not weeks.
+
+
+Equip sales teams with Distributed Marketing and Alerts
+Marketing overview dashboard with leasing metrics and an Agentforce assistant offering to create a campaign or SMS.
+Maximize marketing impact
+Shift from capacity constraints to an agency of agents empowering marketers.
+
+
+Support sellers with a unified view of account and buyer engagement
+Give every rep a complete view of marketing engagement at the account and contact level — so sales conversations pick up exactly where the buyer left off, with full context on what was opened, clicked, downloaded, and discussed.
+
+
+Improve collaboration and sales alignment with Slack
+Unified account view for contact Emma Peters with buying groups and charts of engagement by campaign and content.
+Dive deeper into how Agentforce Marketing can support your business.
+
+Marketing Cloud Next
+A complete agentic marketing solution designed to help you personalize the right moments and have two-way conversations across the entire customer relationship.
+
+Piper, the #1 SDR Agent
+Engage and convert every inbound buyer across your website and email inbox, 24/7, with an AI SDR that never clocks out.
+
+Customer Data Platform (CDP)
+Power better marketing and advertising with Data 360 — the #1 CDP that unifies every customer signal, connects humans and AI agents, and eliminates messy data pipelines.
+
+Agentic Demand Generation
+Drive 24/7 pipeline with AI agents that prospect target accounts, qualify inbound demand, and nurture buyers into sales-ready conversations.
+
+Personalization at Scale
+Personalize experiences, content and conversations for every customer to drive ROI and CLV.
+
+Marketing Analytics
+Connect marketing performance and attribution across channels, find what’s working, and continuously improve results with a unified intelligence layer. 
+
+Digital Advertising
+Make every ad dollar work harder with unified data and AI agents that activate audiences across paid channels.
+
+
+Discover what's new in Marketing.
+On Demand Video
+Product Demos
+Reports and Guides
+Graphic image illustrating dreamforce keynote title slide.
+Keynote
+Agentforce Marketing Keynote
+Marketing is transforming once again, and this time it’s thanks to agentic AI. In this year’s Agentforce Marketing keynote, we explored how AI agents can help you spark conversations with your customers, acting on every message and interaction in real time.
+
+Graphic image of partner logos partaking in the webinar.
+Webinar
+What's Next for Agentforce Marketing?
+Join our Agentforce Marketing champions as they explore the latest platform capabilities that help marketers work smarter, not harder, to drive measurable business results.
+
+Images of webinar speakers on a graphic title slide
+Webinar
+The High-Performer’s Secret: Inside the 10th Annual State of Marketing Report
+In this webinar, discover what sets top-performing marketing teams apart. Based on insights from 4,500+ global leaders, industry Trailblazers unpack the trends shaping growth and how to apply them.
+
+Learn new skills with free, guided learning on Trailhead.
+Marketing Cloud Next Basics
+Module
+Marketing Cloud Next Basics
+Grow customer relationships with actionable data, connected workflows, and AI agents.
+Start learning
+AI in Marketing Cloud Next
+Module
+AI in Marketing Cloud Next
+Use Marketing Cloud Next to create, revise, and analyze campaigns.
+Start learning
+Ready to take the next step?
+
+Talk to an expert.
+Tell us a bit more so the right person can reach out faster.
+
+Stay up to date.
+Get the latest research, industry insights, and product news delivered straight to your inbox.
+
+B2B Marketing Automation FAQ
+
+What is B2B marketing automation — and how is Agentforce Marketing different?
+B2B marketing automation helps teams identify, engage, and convert buyers across the lifecycle. Traditional automation relied on rules and triggers. Agentforce Marketing goes further: AI agents understand buyer intent in real time, engage in two-way conversations, adapt content to every individual, and operate across accounts and buying committees 24/7 — so your pipeline never stops generating.
+
+
+What is Piper, the AI SDR Agent, and how does it work?
+
+How is Piper different from the Agentforce SDR Agent?
+
+Do we need to replace our existing marketing automation tool (HubSpot, Marketo) to use Agentforce Marketing?
+
+What are the benefits of B2B marketing automation platforms?
+
+How can B2B marketing automation software help my business?
+
+How can I choose the right B2B marketing automation platform?
+
+How does B2B marketing on Salesforce connect marketing and sales into one revenue team?
+
+What is Marketing Cloud Next?
+
+What is Marketing Cloud Account Engagement?
+
+What is the difference between Marketing Cloud Next and Marketing Cloud Engagement and which should I use?
+
+What is Pardot?
+
+Is Salesforce Account Engagement the same as Pardot?
+Salesforce Home
+Call us at 1-800-664-9073
+
+See all ways to contact us
+New to Salesforce?
+What is CRM?
+Agentic Enterprise
+Digital Marketing
+Customer Service Software
+Email Marketing
+Ecommerce
+Artificial Intelligence
+AI Agents
+SaaS
+About Salesforce
+What is Salesforce?
+Newsroom
+Customer Success
+Blog
+Careers
+Trust
+Sustainability
+Investors
+Popular Links
+Salesforce Login
+New Release Features
+Find or Become a Partner
+Dreamforce
+Salesforce+
+CRM Software
+All Cloud Products
+Product Pricing
+Newsletter Sign-Up
+LegalTerms of ServicePrivacy InformationResponsible DisclosureTrustContactCookie PreferencesYour Privacy Choices
+© Copyright 2026 Salesforce, Inc. All rights reserved. Various trademarks held by their respective owners. Salesforce, Inc. Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States
+
+
+
+Need help? Ask Agentforce.
+Ask me about products, features, and pricing, or connect to a sales rep.
+Ask me about products, features, and pricing, or connect to a sales rep.
+
+Connect me with a sales rep
+Show me an Agentforce demo
+How can Salesforce help my business

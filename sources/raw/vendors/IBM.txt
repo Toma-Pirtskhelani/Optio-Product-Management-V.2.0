@@ -1,0 +1,303 @@
+https://www.ibm.com/products/watsonx
+
+Skip to content
+
+Home
+Products
+watsonx
+IBM watsonx
+Faster, smarter decision-making through AI-powered conversational insights with governed, trusted data for consistent, business-ready outcomes
+
+Start free trial
+Book live demo
+
+Overview
+Case studies
+Resources
+
+Start free trial
+Overview
+Meet watsonx
+
+IBM watsonx™ accelerates data-driven decisions by delivering AI-powered insights with trusted, governed data, enabling faster, smarter business outcomes that integrate seamlessly with existing tools and infrastructure.
+
+Generative AI
+UI mockup of a dark relationship map with connected nodes and panels labeled “Risk” and “Open Prompt Lab.
+IBM® watsonx.ai™
+
+Step into your AI studio
+
+Develop custom AI applications faster and easier with an integrated, collaborative, end-to-end developer studio that features an AI developer toolkit and full AI lifecycle management.
+
+Explore watsonx.ai 
+Data and analytics
+
+IBM® watsonx.data™
+Trust your data, trust your decisions
+
+Manage, prepare and integrate trusted data from anywhere, in any format so you can unlock AI insights faster and improve the relevance and precision of your AI applications.
+
+Explore watsonx.data 
+Dark UI panels showing Add component, Data Manager, and Infrastructure Manager with connected workflow blocks and an “Ingest data” button.
+
+IBM® watsonx.data® integration
+
+
+
+IBM® watsonx.data® intelligence
+
+
+
+IBM® watsonx® BI
+
+
+AI assistants and agents
+IBM® watsonx Orchestrate™
+Increase productivity by easily creating, deploying and managing AI assistants and agents to automate and simplify business and customer-facing processes.
+IBM® Bob™
+Accelerate across your SDLC with an AI partner that understands your codebase through deep context awareness and helps you accomplish end-to-end development tasks.
+IBM watsonx Code Assistant Ansible Lightspeed
+IBM watsonx Code Assistant accelerates IT automation with AI-powered playbook generation, code explanations, and personalized recommendations.
+IBM® watsonx Code Assistant® for Z
+Supports developers in every phase of lifecycle—from application discovery and analysis to automated refactoring, code explanation, generation, optimization and transformation to newer languages and testing.
+Governance
+Dark dashboard cards displaying charts and metrics, including bar charts, donut charts, progress bars, and numeric indicators
+IBM® watsonx.governance™
+
+Mitigate the risks. Meet the regulations.
+
+Automate governance to proactively manage AI risks, simplify regulatory compliance and create responsible, explainable AI workflows.
+
+ 
+
+Stay ahead of risk 
+Case studies
+watsonx in the real world
+
+US Open logo
+Vodafone logo
+Dun & Bradstreet logo 
+IBM logo
+The US Open
+
+For three weeks at the end of summer, more than one million people make the journey to Flushing, New York, to watch the best tennis players in the world compete in the US Open Tennis Championships.
+
+7M
+IBM captures and analyzes more than 7 million data points throughout the tournament
+14M
+World-class digital experiences for more than 14 million fans around the globe
+Find out how 
+Illustration of a tennis ball in motion
+Resources
+Get started
+
+Carousel
+Models
+Foundation model library
+Choose from a range of models hosted on watsonx
+
+Models
+Granite models
+Open, performant and trusted AI models from IBM
+
+For developers
+Developer hub
+Support your next project with some of our most commonly used capabilities
+
+For developers
+REST API
+Using IBM watsonx.ai as a Service APIs, you can run text inference, prompt tuning and more on Large Language Models (LLM)
+
+
+
+
+
+1 / 2
+
+Slide 1 of 2. Showing 4 items.
+Spotlight
+Carousel
+report
+Abstract illustration of paper forms lined up
+Top Strategic Technology Trends for 2026: Multiagent Systems
+Read the Gartner report to learn how AI and business leaders can leverage MAS to improve performance, reduce risk and gain competitive advantage.
+report
+Abstract illustration of paper forms lined up
+IDC study: Evolving Regulations and Emergence of Agentic AI Fuel AI Governance Imperative
+Discover why AI governance is both imperative and a catalyst for sustainable business growth.
+Slide 1 of 1. Showing 2 items.
+Take the next step
+See watsonx in action to learn how you can integrate AI into your enterprise workflows to accelerate impact and drive productivity.
+
+Start free trial
+Book live demo
+Explore more
+AI academy
+Blog
+Client stories
+Community
+Documentation
+*Accelerating software development with gen AI case study
+
+Discover
+Products
+Consulting services
+Industries
+Case studies
+Financing
+Research
+ 
+Follow
+LinkedIn
+X
+Instagram
+YouTube
+Podcasts
+ 
+Connect
+Business partners
+Documentation
+Events
+Newsletters
+Support
+TechXchange community
+ 
+About
+Overview
+Careers
+Investor relations
+Leadership
+Newsroom
+Security, privacy and trust
+Contact IBM
+Privacy
+Terms of use
+Accessibility
+Cookie Preferences
+
+close icon
+About cookies on this site
+Our websites require some cookies to function properly (required). In addition, other cookies may be used with your consent to analyze site usage, improve the user experience and for advertising.
+For more information, please review yourcookie preferences options. By visiting our website, you agree to our processing of information as described in IBM’sprivacy statement. 
+To provide a smooth navigation, your cookie preferences will be shared across the IBM web domains listed here.
+Accept all
+More options
+
+The chat window has been closed
+
+https://www.ibm.com/products/planning-analytics/marketing-planning
+
+Skip to content
+
+Home
+Products
+Planning Analytics
+Marketing Planning
+Marketing planning and analytics
+Make smarter, quicker marketing plans and decisions, with input from AI.
+
+Book a live demo
+Try it free
+IBM Planning Analytics UI dashboards in workflow 
+Don’t meet market needs. Outsmart them
+IDC MarketScape 2026: IBM Recognized as a Leader in Enterprise Planning 
+IBM is a Market Leader in BARC Score 2026 Integrated Planning & Analytics (IP&A) 
+The key to outperforming your last best campaign is hidden in the data—past, present and future. IBM Planning Analytics is a flexible marketing planning platform that helps you model scenarios, forecast outcomes and adjust strategy in real time. With the help of AI insights, you and your team can understand market needs earlier to create more relevant, personalized customer experiences that make a noticeable impact.
+
+
+Integrated Business Planning and Analytics
+Integrated Business Planning and Analytics (5:01 min)
+Benefits
+Competitive advantage
+Empower your team to identify growth opportunities and discover new target audiences while optimizing costs with a marketing planning software that prioritizes transparency and collaboration across departments.
+
+Maximized marketing ROI
+Don’t wait until a campaign wraps to autopsy its success. Continuously adapt marketing plans and evaluate KPIs to help ensure that your business goals are realistic—and attainable.
+
+Enhanced customer engagement
+Understand what drives your customer base, perform market research and refine your campaigns. With accessible AI-infused predictive capabilities, you can test different types of marketing plan templates based on multiple buyer personas and messaging.
+
+What you can do
+
+Integrate your campaign planning
+Increase marketing ROI by integrating strategic plans with external market factors in a unified marketing planning tool. With AI-powered forecasting and scenario analysis, your team can better test and analyze campaign strategies, assess potential outcomes and make informed decisions about new products or marketing mix.
+
+Screenshot of Marketing Planning dashboard in IBM Planning Analytics
+
+Understand what drives results
+
+
+Allocate resources precisely
+
+Top view of employees wearing latex gloves and gauze caps working in a packaging department
+Violeta Nedelcu
+
+Supply Chain Director, Novolex
+
+“
+Instead of getting a system where you need to adapt the business around it, you get a system that is adapted to your business needs—one that makes sense for the users. ”
+Read more 
+Cross-industry use cases
+Explore more Planning Analytics client stories 
+Finance
+Transcend the limits of manual planning with simplified, integrated financial planning and analysis. Achieve consensus between income statements, balance sheets and cash flow.
+Supply chain
+Blend advanced analytics hierarchy and an unlimited sandbox of “what-if” scenario analysis into your supply chain processes. With the foresight to pivot quickly, you can turn disruptions into opportunities.
+Sales
+Track and analyze sales representative performance and sales capacity data in real-time. Use the power of AI to optimize effective sales processes, enhance productivity and reach revenue targets. Automate resource allocation and territory planning to get a competitive advantage and increase market share.
+HR
+Create accurate AI-guided workforce plans and gap analyses based on changes in employee development, location, return to work, remuneration, retention, churn rates and strategic objectives.
+Take the next step
+See IBM Planning Analytics in action. Discover how you can take your marketing planning and analytics to the next level.
+
+Book a live demo
+Try it free
+More ways to explore
+Documentation
+Partners
+Resources
+Community
+Book a meeting
+Discover
+Products
+Consulting services
+Industries
+Case studies
+Financing
+Research
+ 
+Follow
+LinkedIn
+X
+Instagram
+YouTube
+Podcasts
+ 
+Connect
+Business partners
+Documentation
+Events
+Newsletters
+Support
+TechXchange community
+ 
+About
+Overview
+Careers
+Investor relations
+Leadership
+Newsroom
+Security, privacy and trust
+Contact IBM
+Privacy
+Terms of use
+Accessibility
+Cookie Preferences
+
+close icon
+About cookies on this site
+Our websites require some cookies to function properly (required). In addition, other cookies may be used with your consent to analyze site usage, improve the user experience and for advertising.
+For more information, please review yourcookie preferences options. By visiting our website, you agree to our processing of information as described in IBM’sprivacy statement. 
+To provide a smooth navigation, your cookie preferences will be shared across the IBM web domains listed here.
+Accept all
+More options

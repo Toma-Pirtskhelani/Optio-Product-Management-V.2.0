@@ -1,0 +1,252 @@
+https://www.sap.com/products/crm/engagement-cloud.html
+
+Products
+
+Industries
+
+Transform and Support
+
+Learning
+
+Community
+
+Partners
+
+About
+
+Explore SAP
+
+
+Country flag United States
+Ask Joule
+
+Contact us
+
+/
+All products
+/
+CRM and customer experience
+SAP Engagement Cloud
+Overview
+Features
+Technical information
+Pricing
+Get started
+Product Tour
+
+FORMERLY SAP EMARSYS
+SAP Engagement Cloud
+Deliver personalized, AI-driven engagement across every channel and touchpoint–driving loyalty, deeper relationships, and growth.
+Request a demo
+Take the product tour
+SAP Engagement Cloud Solution Video
+
+
+Be the first to hear about the latest AI innovations in Autonomous CX and connect with peers across every line of business — October 5–7, 2026.
+
+Get your early-bird discount today
+
+What is SAP Engagement Cloud?
+SAP Engagement Cloud is a solution that connects enterprise data and AI to securely orchestrate real-time, personalized interactions across the entire business.
+
+SAP Engagement Cloud Solution Video
+
+Power enterprise-wide performance with:
+Trusted SAP data that fuels AI segments, triggers, and journeys.
+
+AI Assistants that drive richer personalization, efficiency, and business growth.  
+
+Activated operational data (such as inventory or order status) to drive engagement.  
+
+API-first architecture and built-in security, governance, and brand knowledge. 
+
+SAP Emarsys is now SAP Engagement Cloud
+Learn how SAP is making engagement a core enterprise-wide capability and connecting customer interactions more deeply to how businesses run. 
+
+Read the announcement
+Key benefits
+Activate data for real-time engagement
+Turn operational and customer data into confident, real-time interactions that directly influence demand, revenue, and retention.
+
+Personalize every interaction with AI
+Equip marketers with agentic AI that executes personalized messages and relevant actions—so they can improve conversion, efficiency, and experiences.
+
+Connect experiences across the business
+Orchestrate marketing, sales, service, and commerce interactions using shared context and embedded AI capabilities, so every experience is relevant and connected.
+
+Scale operations with enterprise flexibility
+Accelerate AI adoption across brands, regions, and business areas with a secure, cloud-native, and API-first foundation without compromising compliance or brand consistency.
+
+Key features
+Several screenshots showing SAP Engagement Cloud
+
+Show more
+Comprehensive omnichannel engagement
+Scale personalization with a centralized decision engine and reusable tokens.
+
+Orchestrate campaigns across web, email, SMS, mobile apps, ads, and more. 
+
+Enable rapid content activation with low- and no-code tools governed by enterprise controls.
+
+AI-powered engagements and insights
+Joule’s agentic AI surfaces insights, completes tasks, and connects processes.
+
+Advanced business context fuels smarter targeting, timing, and personalization.  
+
+AI-powered content generation and reporting accelerates content creation and performance analysis.
+
+Seamless engagement across SAP Business Suite
+Integrate natively with SAP S/4HANA, SAP Analytics Cloud, SAP Business Technology Platform, and SAP Customer Data Platform. 
+
+Apply turnkey integrations and use cases across SAP Sales Cloud, SAP Service Cloud, and SAP Commerce Cloud solutions. 
+
+Unify data models via SAP Business Data Cloud for consistency, governance, and scale.
+
+Extensible, enterprise-grade engagement
+Support complex global operations across brands, regions, and subsidiaries.
+
+API-first architecture aligns to SAP’s open data model for streamlined integration.
+
+Support both B2B and B2C data models and use cases.
+
+5 hidden ERP signals of B2C engagement
+Signals that can reveal customer intent are already in your systems. Hear how B2C brands can use them to connect customer intent to experiences and act in real time.
+
+Watch on demand
+See how customers are succeeding with SAP
+Logo of Grupo Axo, an SAP customer.
+Simplifying a multibrand, multisegment, omnichannel ecosystem by putting data and customers at its core
+Representing more than 50 global retail brands in Latin America, Grupo Axo SAPI de CV had multiple ERP and e-commerce systems to contend with. Using SAP Customer Experience solutions, the company sought to streamline the IT landscape and strengthen the omnichannel customer experience by becoming more data driven and customer centric.
+
+Read the story 
+Logo of FC Bayern, an SAP customer. 
+Explore the FC Bayern journey with SAP
+FC Bayern, renowned worldwide for its success and excellence in football, extends its winning strategy beyond the field through a robust digital transformation powered by SAP Business Suite. Supported by millions of passionate fans around the globe, the club relies on SAP to bring out its best on and off the pitch. Together, FC Bayern and SAP innovate to boost the club’s success, drive business transformation, and inspire and engage fans worldwide.
+
+Read the story 
+Logo of Versuni, an SAP customer. 
+Transforming from a product-centric to consumer-centric organization
+Learn how domestic appliances company Versuni is delivering personalized experiences for its customers through a digit-first, insight-driven strategy using SAP Customer Experience solutions.
+
+Read the story 
+Logo of San Jose Sharks, an SAP customer
+SAP CX drives 30% revenue growth for the San Jose Sharks
+The NHL's San Jose Sharks is part of a a multi-property sports and entertainment organization. See how they have built personalized relationships with customers and highly effective campaigns using SAP Emarsys. Hear how the combined power of SAP Customer Data Platform and SAP Datasphere help determine what kind of outreach is most appropriate for each customer.
+
+Watch the video 
+View all customer stories
+Build a business case
+Preview of report The state of marketing + engagement: Q3 2026 with raspberry background
+The state of marketing + engagement: Q3 2026
+Understand the trends and data shaping marketing and engagement in Q3 2026 - and how they can help you finish H2 strong.
+
+Read the report 
+Preview of white paper "Deck the carts: AI-driven strategies to engage holiday shoppers" with blue border
+Deck the carts: AI-driven strategies to engage holiday shoppers
+As customers turn to agentic AI to make peak-season shopping faster and more convenient, brands need to do the same. This guide offers calendars and AI-driven strategies for engaging customers during the most impactful stages of their purchasing journey.
+
+Read the white paper 
+Preview of 2026 Global Engagement Index Report: How Signals, Micro Moments, and AI Transform Enterprise Engagement
+2026 Global Engagement Index Report
+Learn how companies can bridge the Engagement Divide by integrating systems, teams, and real-time data to deliver personalized experiences.
+
+Read the report 
+Cover image of B2B Buyer Loyalty Index 2025
+B2B Buyer Loyalty Index 2025
+Learn how companies can build trust and drive loyalty-led growth by connecting data, personalizing interactions, and aligning customer experience with core operations.
+
+Read the report 
+Cover image of the report "2025 Global Customer Loyalty Index"
+2025 Global Customer Loyalty Index
+For the fifth year, SAP Engagement Cloud has explored what drives customer loyalty. We surveyed 12,041 general respondents in the US, UK, Germany, Australia, and UAE.
+
+Read the report 
+View all resources
+SAP Engagement Cloud is recognized with peer-review awards
+G2 positioned SAP Engagement Cloud as an industry leader across numerous digital marketing categories.
+
+G2 Milestone - Users Love Us badge
+G2 Winter 2026 Easiest Admin badge
+G2 Winter 2026 Highest User Adoption badge
+G2 badge for Leader Enterprise Winter 2026
+G2 Users Most Likely to Recommend badge Winter 2026
+Technical and security resources
+
+Resources and support
+
+
+Security
+
+SAP Help Portal
+Visit SAP Help Portal to find detailed documentation, guides, and articles to help you implement, configure, and optimize SAP products.
+
+See what analysts are saying about SAP Engagement Cloud
+Logo of Gartner, an analyst firm
+SAP is a Leader in the 2026 Gartner® Magic Quadrant™ for Personalization Engines
+For a seventh consecutive time, we’re recognized in the Leaders Quadrant.*
+
+Get the report
+Frequently asked questions
+
+What is SAP Engagement Cloud?
+
+Does SAP provide B2C marketing solutions?
+
+Does SAP provide B2B marketing solutions?
+1 Gartner, Magic Quadrant for Personalization Engines, by Penny Gillespie, Jason Daigler, Michael Ro, Ross Cosner, 2 February 2026
+This graphic was published by Gartner, Inc. as part of a larger research document and should be evaluated in the context of the entire document. The Gartner document is available upon request from SAP.
+Gartner does not endorse any vendor, product or service depicted in its research publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s Research & Advisory organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+Gartner Peer Insights content consists of the opinions of individual end users based on their own experiences, and should not be construed as statements of fact, nor do they represent the views of Gartner or its affiliates. Gartner does not endorse any vendor, product or service depicted in this content nor makes any warranties, expressed or implied, with respect to this content, about its accuracy or completeness, including any warranties of merchantability or fitness for a particular purpose.
+Gartner, Magic Quadrant, Peer Insights are trademarks of Gartner, Inc. and/or its affiliates.
+
+SAP
+Ask Joule
+
+United States
+
++1-800-872-1727
+
+Or see our complete list of local country numbers
+
+
+Contact us
+
+Quick links
+Speak Out at SAP
+SAP Trust Center
+SAP Store
+Technology platform
+Industries
+Find a partner
+Trials and demos
+Find services
+Trending
+SAP Connect
+SAP TechEd
+AI platform
+Artificial Intelligence
+RISE with SAP
+Midsize business solutions
+Sustainability
+Partner ecosystem
+About SAP
+Company information
+Worldwide directory
+Investor Relations
+Careers
+News and press
+Blogs and resources
+Events
+Customer stories
+Newsletter
+Site information
+Privacy
+Terms of use
+Legal disclosure
+Copyright
+Trademark
+Cookie statement
+Cookie preferences
+© 2026 SAP SE or an SAP affiliate company. All rights reserved.
+
+

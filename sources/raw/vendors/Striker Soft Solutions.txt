@@ -1,0 +1,295 @@
+Striker Soft Solutions Pvt Ltd is an Indian technology and enterprise communication company founded in 2012 and based in Hyderabad, Telangana. It specializes in bulk SMS, voice solutions, and office automation software, including their flagship Office24by7 CRM and marketing automation platform.Core Services and ProductsEnterprise Communication: Bulk promotional and transactional SMS, IVR services, and smart telephony.Office Automation: Office24by7 CRM software for sales, marketing, and communication workflows.Business Tools: Smart tracking, OTP verification systems, and app-based support.Company DetailsLocation: Hyderabad, Telangana, IndiaTeam Size: Approximately 51 to 200 employeesOfficial Website: Striker Soft SolutionsIf you're looking for specific information, let me know if you need:Pricing or product features for Office24by7Contact details or customer support linksAPI integration info for bulk messaging
+
+https://se.linkedin.com/company/strikersoft
+
+Skip to main content
+LinkedIn
+Top Content
+People
+Learning
+Jobs
+Games
+Sign in
+Join now
+Strikersoft’s cover photo
+Strikersoft
+Strikersoft
+IT Services and IT Consulting
+We help businesses transform their industries by providing excellence in digitalisation.
+Follow
+  
+Discover all 58 employees
+
+
+About us
+WHO WE ARE Strikersoft is an IT company that helps people and organizations to realize their ideas into sound technical and business solutions. We are tech savvy as well as business driven. The founders are born entrepreneurs and bring rapid decisions, quick response times, and a notion that nothing is impossible to your business. WHAT WE DO Strikersoft develops complete system solutions with a focus on eHealth, Telecom/IT and Safety. Mobility and user-intuitive interfaces are cornerstones in our development process which also includes Strikersoft’s Business Value Model. The model applies a holistic 360-degree business view to each assignment, and looks at how the solution can enable the client to work in a smarter way, serving its customers better and creating new business. TECHNOLOGY Version for the tech savvy: Strikersoft uses e.g. .NET, Java, Python and PHP for servers and builds both dedicated servers and cloud based solutions. We make native applications for iOS and Android as well as hybrid applications using HTML5. We use Scrum with Sprints for agile project development. Version for the more result oriented: We keep abreast of the latest technology trends, and evaluate the usefulness of employing them, so you don’t have to worry about it. If you need to convince your IT department, let us delight them.
+
+Website
+http://www.strikersoft.com 
+Industry
+IT Services and IT Consulting
+Company size
+51-200 employees
+Headquarters
+Kista
+Type
+Privately Held
+Founded
+2006
+Specialties
+Digitalizing processes, Tailor-made system solutions, Mobile applications, Web development, UX/UI, and Support & Hosting
+Locations
+Primary
+Isafjordsgatan 39B
+
+Kista, 164 40, SE
+
+Get directions 
+Get directions 
+Employees at Strikersoft
+Click here to view Fredrik Wångberg’s profile
+Fredrik Wångberg
+Click here to view Fredrik Eriksson’s profile
+Fredrik Eriksson
+Click here to view Roman Chubaruk’s profile
+Roman Chubaruk
+Click here to view Alexander Kravchuk’s profile
+Alexander Kravchuk
+See all employees
+Updates
+View organization page for Strikersoft
+Strikersoft
+2,656 followers
+
+3d
+
+"AI is a tool. You don't blame the hammer." — Bogdan Shelest, Strikersoft's CEO
+We didn't want to just believe AI was helping our developers. We wanted proof.
+
+Here's what measuring it actually looks like in practice: https://lnkd.in/dfe9NBtW
+
+No alternative text description for this image
+
+4
+Like
+Comment
+Share
+View organization page for Strikersoft
+Strikersoft
+2,656 followers
+
+6d
+
+Ask a team if their new AI coding habit is helping. Most say yes. Ask how they know, and you usually get a feeling, not a number.
+
+Ihor Segodin, our Java Team Lead, started Strikersoft's shared library of AI coding "skills" and wanted proof, not just a feeling, that they worked. That's what led Andrii Vasyliev, one of our Java engineers, to build a harness that runs the same coding task with and without a given skill, then scores the result. One run: 100% pass with the skill loaded, 78% without.
+That's the engineering side of the answer. But the same logic scales up to how we govern AI use as a whole.
+
+Why measure instead of just writing the rule and moving on?
+
+Michael Purnyn put it well: ISO-compliant AI governance isn't a checkbox, it's a routine. Test models repeatedly, track the results, and you catch a model underperforming before it hits real users.
+
+Skill evolution: don't just write down what worked, keep proving it still does.
+
+No alternative text description for this image
+
+12
+1 Comment
+Like
+Comment
+Share
+View organization page for Strikersoft
+Strikersoft
+2,656 followers
+
+1w
+
+Every minute counts when someone is trapped under rubble. Smoke fills the air, structures collapse into darkness, and the signals rescue teams normally rely on stop working. Detecting a heartbeat in those conditions takes different technology than detecting one in daylight.
+
+That's what we work on in Cynergy4MIE and NeAIxt Project: human detection and vital signs monitoring in visually impaired environments, using sensors mounted on unmanned ground and air vehicles. Cynergy4MIE uses mmWave sensors. NeAIxt adds infrared sensors from IRnova.
+
+Here's where our role comes in: we're almost two-thirds into Cynergy4MIE, and part of that work overlaps with NeAIxt, fusing our mmWave radar with newly added infrared sensors. Together with IRnova and KTH Royal Institute of Technology, we integrate the AI pipelines and validate that detection holds up under real-world conditions, not just in a lab.
+
+This work runs deeper than one project. It's part of what led us to set up Sindri Logic AB, a company built to take dual-use sensing further.
+
+If your team is working on similar sensing or detection challenges, we'd be glad to compare notes.
+
+#AI #Semiconductors #EdgeAI #Strikersoft
+
+
+
+14
+2 Comments
+Like
+Comment
+Share
+View organization page for Strikersoft
+Strikersoft
+2,656 followers
+
+2w
+
+We're #hiring a new Embedded Engineer (DSP) in Kyiv, Kyiv City. Apply today or share this post with your network.
+
+Strikersoft
+Embedded Engineer (DSP)
+Strikersoft, Kyiv, Kyiv City, Ukraine
+
+8
+Like
+Comment
+Share
+View organization page for Strikersoft
+Strikersoft
+2,656 followers
+
+2w
+
+"How do you know AI is actually helping? Measure it." is live, and it's about the boring stuff: estimates, defects, retros, the same discipline we've used for twenty years, just pointed at AI now.
+
+We even started treating our AI setup as code, versioned in git, so it's not just stuck in someone's head anymore.
+
+The metrics were the easy part, honestly. The hard part was getting people okay with their work style being visible, not private.
+➡️ Read the full piece here: https://lnkd.in/dfe9NBtW
+
+No alternative text description for this image
+
+5
+Like
+Comment
+Share
+Strikersoft reposted this
+
+View organization page for Strikersoft
+Strikersoft
+2,656 followers
+
+1mo
+
+We're #hiring a new Account Manager in Greater Stockholm Metropolitan Area. Apply today or share this post with your network.
+
+Strikersoft
+Account Manager
+Strikersoft, Greater Stockholm Metropolitan Area
+
+4
+Like
+Comment
+Share
+View organization page for Strikersoft
+Strikersoft
+2,656 followers
+
+1mo
+
+Everyone asks whether #AI makes developers faster, but almost nobody asks how they actually know.
+
+We measure it the boring way. Estimates before every task, time tracked in #Jira, defects per version, and retros whenever something doesn't add up. No magic framework, just the same discipline we've used for twenty years pointed at a new variable.
+
+The hard part turned out not to be the metrics at all, but the adjustment: learning to treat your way of working with AI as something shared and visible, not personal and private.
+
+We're putting together a full #article on how we measure and what we've learned so far. Coming soon. 
+
+#AIadoption #SoftwareDevelopment #EngineeringMetrics
+
+No alternative text description for this image
+
+8
+2 Comments
+Like
+Comment
+Share
+View organization page for Strikersoft
+Strikersoft
+2,656 followers
+
+1mo
+
+We're #hiring a new Account Manager in Greater Stockholm Metropolitan Area. Apply today or share this post with your network.
+
+Strikersoft
+Account Manager
+Strikersoft, Greater Stockholm Metropolitan Area
+
+4
+Like
+Comment
+Share
+View organization page for Strikersoft
+Strikersoft
+2,656 followers
+
+1mo
+
+
+Play Video
+
+7
+Like
+Comment
+Share
+View organization page for Strikersoft
+Strikersoft
+2,656 followers
+
+1mo
+
+Efter 20 år i branschen finns det några saker som gång på gång visar sig avgöra om ett projekt blir framgångsrikt.
+
+Vilken av våra lärdomar känner du igen mest?
+
+Om du vill fördjupa dig rekommenderar vi den här artikeln 
+
+https://lnkd.in/dWKqw2RR
+
+…more
+
+Play Video
+
+4
+Like
+Comment
+Share
+Similar pages
+
+AD/01
+Technology, Information and Internet
+
+
+Agaton
+Software Development
+
+Stockholm, Stockholm County
+
+
+Collabrian Design & Technology
+Software Development
+
+Dallas, Texas
+
+
+ELSYS
+Appliances, Electrical, and Electronics Manufacturing
+
+Umeå, Västerbottens län
+
+Show more similar pages 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Agree & Join LinkedIn
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+
+
+
+
+

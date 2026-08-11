@@ -1,0 +1,283 @@
+Fresh Relevance is a cross-channel personalization and marketing platform—now part of Dotdigital—that helps ecommerce and retail businesses customize customer experiences across websites, mobile apps, emails, and SMS in real time without needing complex coding.Key FeaturesProduct Recommendations: Show shoppers items they want based on live browsing behavior and past purchases.Triggered Messaging: Send automated emails or texts for cart and browse abandonment, price drops, or back-in-stock alerts.Social Proof: Add live data badges like popularity, scarcity, and real-time countdown timers to boost urgency.Onsite Personalization: Change website banners, pop-ups, and content blocks dynamically for new versus returning visitors.Platform BenefitsNo-Code Interface: Marketers can build and launch campaigns easily through a drag-and-drop toolset.Tech Stack Integration: Connects smoothly with existing customer data platforms, email service providers, and ecommerce backends.Cross-Device Tracking: Recognizes a customer across multiple devices to rebuild abandoned shopping carts and deliver cohesive messaging.If you'd like, let me know:Are you looking to integrate Fresh Relevance with a specific ecommerce platform (like Shopify or Adobe Commerce)?Do you need help with a particular feature like cart abandonment or product recommendations?
+
+https://dotdigital.com/personalization/
+
+Company
+Partner
+
+Login
+
+
+Platform
+Marketing automation
+Your customer data, channels and campaigns in one place
+
+Personalization
+Updates
+Wow your customers with cross-channel experiences
+
+Loyalty & retention
+New
+The loyalty platform that lives where your marketing does
+
+200+ integrations
+
+
+
+
+
+
+Channels
+
+Email
+Web personalization
+Mobile app push
+SMS/MMS
+WhatsApp
+Ads & retargeting
+Featured Capabilities
+
+AI agents
+New
+Customer data
+Updates
+Reporting & analytics
+
+What's new
+
+Dotdigital loyalty
+
+Read more
+People
+Industries
+Ecommerce
+Finance
+Sports
+Hospitality
+Entertainment
+Travel
+Education
+B2B commerce
+Memberships
+Non-profit
+Media & publishing
+Government
+Enterprise
+Resources
+Marketing Insights
+
+Marketing blog
+Reports & Guides
+Events & Webinars
+Videos
+Customer success
+
+Case studies
+Academy
+Help centre
+Developer hub
+
+Report
+
+Customer trend index
+
+Read more
+Why Dotdigital?
+Get started
+Turn customer data into customer connection
+Wow your customers with cross-channel experiences that make them feel like a person, not a segment.
+
+Get started
+
+Meet the brands getting it right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marketing channels should be friends, not silos
+Customers don't think in channels. They expect seamless experiences across every touchpoint, built on the data they’ve already shared and content they actually want to see.
+
+With Dotdigital personalization, you can:
+
+Manage email, website, and mobile content in one platform, with shared audience segments and content blocks
+Automate relevant, timely messages based on website behavior - like abandoned cart reminders, pricing updates, and back in stock alerts
+Edit your website as easily as you edit an email - no coding skills needed
+
+From relevance to results
+Customers are more likely to engage when experiences feel relevant. Dotdigital uses real-time data to tailor content, recommendations, and messaging across every interaction.
+
+So you can:
+
+Automatically show the most relevant product and content recommendations
+Use social proof, scarcity, and popularity messaging to encourage action
+Make every email engaging, with dynamic content that stays up-to-date
+
+Spend time on strategy, not spreadsheets
+Dotdigital is built by marketers, for marketers! Our platform takes care of the complexity behind the scenes, while you set the strategy, define the goals, and let the technology do the hard work.
+
+Here’s what you can expect:
+
+Our AI continuously tests and optimizes content and automatically serves the best-performing experiences
+We connect to your ecommerce store, CRM, and tech stack to keep every interaction up-to-date with your customer data
+You can use your existing Dotdigital marketing segments instantly, with no additional imports, exports, or manual syncing
+Popular personalization tactics
+Discover some of the most effective ways brands use personalization to increase engagement, improve customer experiences, and drive more conversions.
+
+Get started
+Show customers what they love
+Help customers find their next favorite product with personalized recommendations based on their interests, behavior, and purchase history.
+
+Drive action with urgency
+Add a countdown timer to encourage faster action by showing time ticking away on offers, events, and delivery cut-offs.
+
+Personalize by location
+Use real-world location data to create geotargeted content, offers and messaging, relevant to where your customers are.
+
+Don’t forget the visuals
+Serve dynamic banners and imagery that adapt to customer interests and behavior, keeping all interactions engaging.
+
+All-weather personalization
+Trigger content and recommendations based on real-time weather conditions so every message stays current.
+
+Don’t just say it, prove it
+Use social-proof points like reviews, ratings, and popularity signals to reduce uncertainty and help customers feel confident taking action.
+
+Personalize every channel
+Turn browsing behavior into personalized emails, SMS, web experiences, and product recommendations, all in one platform.
+
+Get Started
+
+Frequently asked questions
+Why is ecommerce personalization important?
+Personalization is important as it means you connect with your customers on a deeper level. When you provide a tailored experience, shoppers feel recognized and appreciated, which builds trust and loyalty. Customized shopping journeys not only reduce friction in your customer’s journey but also boost repeat purchases and enhance customer lifetime value.
+
+Who benefits most from personalization?
+Ecommerce brands of all sizes can benefit from personalization, but it’s especially useful for:
+
+Online retailers looking to increase conversions and average order value
+Cross-channel marketing teams wanting to deliver consistent experiences across web, email, SMS, and mobile
+Growth-focused businesses aiming to retain customers and drive repeat purchases
+Which parts of the ecommerce journey can be personalized?
+Personalization can be applied across the entire customer journey, including:
+
+Browsing: Display relevant products and content based on what a shopper views
+Checkout: Offer personalized product recommendations and incentives to increase conversions
+Post-purchase: Send follow-up emails or SMS with product suggestions, loyalty rewards, or replenishment reminders
+Retention: Encourage repeat purchases with behavior-driven campaigns and tailored promotions
+What are the benefits of ecommerce personalization and what results can I expect?
+A strong ecommerce personalization strategy helps you connect with shoppers on a deeper level and drives measurable business results. By tailoring content, offers, and recommendations to each customer, you can:
+
+Increase engagement: Personalized content captures attention and keeps customers interacting with your site, email, and mobile channels
+Boost conversions: Recommendations, personalized promotions, and incentives encourage shoppers to complete purchases
+Drive higher average order value (AOV): Suggesting complementary products or upsells encourages larger orders
+Improve retention and loyalty: Customers are more likely to return when experiences feel relevant and meaningful
+Enhance customer satisfaction: Personalized journeys make shoppers feel recognized and appreciated, creating trust
+Maximize ROI: By improving engagement, conversion, and retention, you get a higher return on your marketing efforts
+How do dynamic product recommendations work?
+Dynamic product recommendations use real-time data, such as browsing activity and purchase history, to suggest products that align with each customer’s preferences and behavior.
+
+For example, customers may see items similar to those they’ve previously viewed or complementary products based on their shopping cart. This level of personalization enhances relevance and drives sales by presenting items that customers are more likely to purchase.
+
+How does Dotdigital help my personalization strategy?
+Dotdigital offers a range of tools and features to power your ecommerce personalization, including:
+
+AI-driven recommendations: Algorithms analyze customer data to present the most relevant products or offers
+Behavioral targeting: Tracks customer behaviour to trigger personalized responses, such as abandoned cart emails or tailored promotions
+Countdown timers: Creates urgency by showing time-limited offers, encouraging shoppers to take action quickly
+Customizable banners: Adapts messaging to reflect customer preferences, improving engagement across different touchpoints
+Can I personalize across web, email, SMS, and mobile?
+Yes. Dotdigital allows you to deliver personalized experiences across all major channels, ensuring your message is consistent wherever your customers engage. This includes:
+
+Personalized website banners and product recommendations
+Targeted emails and automated follow-ups
+SMS campaigns tailored to customer behavior
+Mobile push notifications based on browsing and purchase activity
+Marketing
+made human.
+Products
+Marketing
+Personalization
+Loyalty
+Communications API
+Why Dotdigital?
+What's New?
+Channels
+Email
+SMS & MMS
+Ads & Retargeting
+WhatsApp
+Mobile app push
+Web Personalization
+Featured capabilities
+AI agents
+Reporting & analytics
+Customer data
+Industries
+B2B commerce
+Ecommerce
+Education
+Enterprise
+Entertainment
+Finance
+Government
+Hospitality
+Media
+Memberships
+Non-profit
+Sports
+Travel
+Integrations
+Adobe Commerce
+BigCommerce
+Microsoft Dynamics
+Oracle
+Salesforce
+Shopify
+Shopware
+Trustpilot
+Resources
+Blog
+Reports & guides
+Case studies
+Events
+Videos
+Company
+Contact us
+Careers
+Trust Center
+Legal hub
+Partners
+Become a partner
+Partners portal
+Privacy Policy / Terms of Use / Cookie Use Policy / Modern Slavery Act Transparency Statement
+
+Dotdigital is a trading name of dotdigital EMEA Limited (company number: 03762341) whose registered office is at No. 1 London Bridge, London, SE1 9BG.
+
+

@@ -1,0 +1,39 @@
+https://developers.piano.io/analytics/
+
+Skip to main content
+Piano Analytics logo
+Piano Analytics Developers
+Collect data
+Extract data
+Access management
+For AI agents
+Changelog
+Support
+GitHub
+Piano Analytics
+
+Developers Documentation
+Everything you need to know to master your data
+
+Collect data
+Collect data
+Everything you need to know to fuel your powerful Piano Analytics analysis.
+
+Extract data
+Extract data
+Learn how to retrieve your fully processed data from Piano Analytics.
+
+Manage your access rights
+Manage your access rights
+Eveything you need to manage the rights of yours teams and users.
+
+What is Piano Analytics?
+Piano Analytics is a robust, enterprise-grade digital analytics platform designed to deliver actionable insights into user behavior across digital properties. It combines powerful data collection, processing, and analysis capabilities to help businesses understand how their audiences interact with websites, mobile apps, and other digital touchpoints. By integrating advanced tracking features, comprehensive reporting, and seamless data visualization, Piano Analytics enables data-driven decision-making for optimizing digital performance.
+
+At its core, Piano Analytics works by collecting granular data from various sources, including websites and mobile applications. Using an intuitive tagging system, the platform tracks user events—like clicks, page views, and conversions—offering a real-time view of user interactions. This data is then processed through our advanced analytics models to provide insights into customer journeys, audience segments, and overall digital performance. Developers can easily integrate the platform through APIs, customize tracking, and ensure compliance with privacy regulations, while marketers and data analysts leverage its dashboards and reports to drive strategic business outcomes.
+
+Whether you're looking to enhance customer experiences, optimize marketing efforts, or streamline reporting, Piano Analytics provides the tools and flexibility needed to turn raw data into meaningful, actionable insights.
+
+Piano Analytics Data model
+
+Copyright © 2026 Piano Analytics.

@@ -1,0 +1,120 @@
+https://support.sas.com/en/software/marketing-automation-support.html
+
+
+Skip to main content
+SUPPORT
+All SAS
+Search
+Worldwide Sites
+Contact Us
+SAS Sites
+ 
+Sign In
+   
+SAS® Marketing Automation
+SAS® Marketing Automation
+Plan, test and execute marketing campaigns with marketing automation software. SAS Marketing Automation helps you analyze customer profitability, improve data quality and create customized, repeatable processes.
+
+Learn
+Documentation
+Support
+white marble texture
+The most recent release is SAS Marketing Automation 6.7 on SAS 9.4M9.
+
+SAS Marketing Automation 6.7 does not contain any new features or capabilities. Consider SAS Customer Intelligence 360 for your business needs instead. 
+
+Note: SAS Marketing Automation is not available in SAS 9.4M8. 
+
+white marble texture
+Training Courses
+Learn SAS technology quickly and efficiently by taking a course from the analytics experts.
+
+SAS Customer Intelligence Learning Subscription
+Documentation
+Find user's guides and other technical documentation for SAS Marketing Automation.
+
+SAS Marketing Automation 6.7
+
+The documentation for SAS Marketing Automation is provided on a secure site that requires an access key. Licensed customers can request the access key from SAS Technical Support. Expedite your request by including "SAS Customer Intelligence" in the subject field of the form.
+
+SAS Marketing Automation 6.7: Help Center
+System Requirements--SAS Marketing Automation 6.7
+Related Documentation
+
+SAS Customer Intelligence 6.7 Common Data Model: Data Dictionary
+SAS Customer Intelligence 6.7 Integration Utilities: User’s Guide 
+SAS Customer Intelligence 
+SAS Customer Intelligence 360
+ 
+
+Previous Versions
+
+Expand All Collapse All
+6.6
+
+
+
+
+
+6.5
+
+
+
+
+
+white marble texture
+Hot Fixes
+Find quick solutions to problems or conduct routine system maintenance. SAS hot fixes have been tested and are fully supported.
+
+Expand All Collapse All
+6.X
+
+5.X
+Get Help
+Search Knowledge Base
+
+Start here to find answers quickly, without having to open a support track.
+Ask SAS Community
+
+Interact with other SAS users to ask questions and get answers.
+Contact Technical Support
+
+Get  technical support for your SAS software via our support track system.
+SAS logo
+SAS Support Products & Solutions SAS Marketing Automation
+SAS data and AI solutions provide our global customers with knowledge they can trust in the moments that matter, inspiring bold new innovations across industries.
+
+Contact Us
+Follow Us
+Facebook Twitter LinkedIn YouTube RSS
+Accessibility
+Careers
+Certification
+Communities
+Company
+Data Management
+Developers
+Documentation
+For Educators
+Events
+Industries
+My SAS
+Newsroom
+Products
+SAS Viya
+Solutions
+Students
+Support & Services
+Training
+Try/Buy
+Video Tutorials
+Why SAS?
+What is...
+Analytics
+Artificial Intelligence
+Data Management
+Data Science
+Generative AI
+Responsible Innovation
+Cookie PreferencesPrivacy StatementTerms of UseTrust Center©2026 SAS Institute Inc. All Rights Reserved.
+ 
