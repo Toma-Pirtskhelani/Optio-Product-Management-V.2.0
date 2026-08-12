@@ -219,6 +219,21 @@ Shiprocket** and **Datorama → Salesforce** survive because the page itself say
 **Unreachable 45 → 2.** `description_own` +26, `channels` +17, `website` +19. `solution_type`
 unchanged at 13 — even human transport does not make vendors publish deployment models.
 
+**20 · 2026-08-12 · The industry list, and the extractor defect it exposed**
+Derived the unique industry list and per-industry analytics from `industries_served`
+(`scripts/industries.py` → `outputs/industries.md`, `outputs/industries.json`). Store untouched;
+15 checks still pass. **81 industries, 358 vendor×industry claims, from 53 of 237 companies
+(22.4%)** — 158 have the field `UNKNOWN`, 26 never had it. **The base is Gartner-shaped**: of the
+53, 44 are Gartner-only, 7 in both, 2 G2-only — the 3.6% G2 coverage limit propagates straight
+through. **39 of 81 industries rest on one vendor's site; the top 10 hold 50% of
+claims.** Head: Financial Services 31, Retail 25, Healthcare 21, Ecommerce 18, Travel 17.
+**The field is contaminated and the grade could not show it.** Of 369 distinct raw strings,
+**182 are not industry claims** — nav, CTAs, product names, client names, a language switcher,
+six Material-icon ligatures — all carrying `PRIMARY / rung 1`, correctly, because the *fetch*
+was primary. SAS's whole list is a nav bar. Every string is published with its ruling and reason
+in §4 rather than dropped. `vertical_focus`, computed from the raw list length, is contaminated
+the same way and should not be used. `LEARNINGS.md` 18–19.
+
 ---
 
 ## Where it stands

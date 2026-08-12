@@ -183,6 +183,36 @@ both view-builders. Adding `paste_only` and `third_party_only` did it **again** 
 **Rule.** When a new status appears, grep for every filter that enumerates statuses. And prefer
 checks that assert a total rather than filtering to a known set.
 
+## 18. A grade describes the fetch, not the extraction
+
+**Incident.** `industries_served` was filled by taking the lines after an `Industries` /
+`Verticals` heading. Across 53 companies it produced **369 distinct strings, of which 182 are
+not industry claims at all** — `Blog`, `Schedule a Demo`, `Log In`, product names
+(`Journey Designer`), client names (`Vodafone Fiji`, `Tourism Fiji`), a language switcher
+(`German / Deutsch`) and six **Material-icon ligatures** (`shopping_cart`, `account_balance`).
+SAS's entire list is a nav bar. Every one of them carries `grade: PRIMARY, rung: 1` — correctly,
+because the *fetch* was primary. The grade never claimed the *parse* was right, and nothing
+downstream could tell the two apart.
+
+**Rule.** Where a field is filled by position rather than by meaning, the record needs a second
+field saying **how the value was identified**, and any consumer must re-rule the strings before
+counting them. `vertical_focus`, computed from the raw length of this list, is contaminated by
+exactly this and should not be used: SAS reads `horizontal` off twelve navigation links.
+
+**Corollary.** Rule the whole string before splitting it. Splitting first turned Aislelabs'
+use-case label `Energy and HVAC Optimization` into the **Energy industry** — a vendor placed in
+a vertical it never claimed.
+
+## 19. Normalising a vocabulary is a judgment; publish the judgment with the answer
+
+**Rule.** A derived list must show its disposition for **every** input string, with a reason
+code — not just the rows that survived. `outputs/industries.md` §4 prints all 369.
+
+**Why.** The interesting disagreements live in the rejects. `Agencies`, `In-house marketing` and
+`Operations Service Providers` appear as *target segments of software vendors* — competitor
+classes 2 and 3 showing up as buyers. Silently dropping them as "not industries" would have
+deleted the only place in this study where those classes appear at all.
+
 ---
 
 ## Costs worth budgeting next time

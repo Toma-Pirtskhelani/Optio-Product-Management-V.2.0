@@ -1,0 +1,8630 @@
+{
+ "generated": "2026-08-12",
+ "source": "outputs/companies.jsonl :: enrichment.industries_served",
+ "denominators": {
+  "companies_in_store": 237,
+  "companies_with_declared_industries": 53,
+  "companies_with_field_UNKNOWN": 158,
+  "companies_without_the_field": 26,
+  "pct_of_store_declaring": 22.4
+ },
+ "raw_strings_seen": 369,
+ "industries": [
+  {
+   "key": "financial-services",
+   "label": "Financial Services",
+   "vendor_count": 31,
+   "vendors": [
+    "Acoustic",
+    "Act-On",
+    "Airship",
+    "Appier",
+    "Blueshift",
+    "Braze",
+    "Epsilon",
+    "EVAM",
+    "HCLTech",
+    "Insider One",
+    "iPresso",
+    "LeadSquared",
+    "Medallia",
+    "Meiro",
+    "Netmera",
+    "OneSignal",
+    "Optimove",
+    "Pitney Bowes",
+    "Piwik PRO",
+    "Postalytics",
+    "Precisely",
+    "Pyze",
+    "Radar",
+    "Sprinklr",
+    "Tech Mahindra",
+    "Thryv",
+    "Tidio",
+    "Treasure AI",
+    "Vibes",
+    "Woosmap",
+    "WorksBuddy"
+   ],
+   "surface_forms": {
+    "financial services": 22,
+    "finance": 9,
+    "financial": 1
+   },
+   "in_both_sources": 5,
+   "g2": 5,
+   "gartner": 31,
+   "median_reviews": 37.5,
+   "median_categories": 1,
+   "median_industries_declared": 8,
+   "channels_declared": {
+    "email": 26,
+    "sms": 14,
+    "push": 11,
+    "whatsapp": 10,
+    "rcs": 6,
+    "ads": 4,
+    "web-push": 4,
+    "voice": 4,
+    "chat": 4,
+    "in-app": 3,
+    "direct-mail": 1
+   },
+   "vendors_declaring_any_channel": 29,
+   "hq_countries_published": {
+    "US": 5,
+    "IN": 1
+   },
+   "pricing_published_yes": 7,
+   "pricing_published_known": 14,
+   "vendors_with_free_tier": 6,
+   "co_occurring": [
+    [
+     "Retail",
+     18
+    ],
+    [
+     "Healthcare",
+     16
+    ],
+    [
+     "Travel",
+     15
+    ]
+   ],
+   "source_urls": [
+    "https://act-on.com/solutions/",
+    "https://blueshift.com/agentic-customer-ai/",
+    "https://braze.com/llms.txt",
+    "https://evam.com/product-demo-hub",
+    "https://insiderone.com/platform/",
+    "https://meiro.io/product/email/",
+    "https://netmera.com/customer-data-platform/",
+    "https://onesignal.com/features",
+    "https://piwik.pro/",
+    "https://pyze.com/platform",
+    "https://radar.com/llms.txt",
+    "https://worksbuddy.ai/llms.txt",
+    "https://www.acoustic.com/product-tour-library",
+    "https://www.airship.com/platform/collect-customer-data/",
+    "https://www.appier.com/en/products/aibid",
+    "https://www.epsilon.com/us/products-and-services",
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.ipresso.com/features",
+    "https://www.leadsquared.com/learn/sales/crm-platform/",
+    "https://www.medallia.com/platform/",
+    "https://www.optimove.com/platform/engage",
+    "https://www.pitneybowes.com:443/us/your-product-update-hub.html",
+    "https://www.postalytics.com/features/",
+    "https://www.precisely.com/solutions/",
+    "https://www.sprinklr.com/products/",
+    "https://www.techmahindra.com/products-and-platforms/",
+    "https://www.thryv.com/features/",
+    "https://www.tidio.com/features/",
+    "https://www.treasure.ai/product",
+    "https://www.vibes.com/platform",
+    "https://www.woosmap.com/products/map"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "retail",
+   "label": "Retail",
+   "vendor_count": 25,
+   "vendors": [
+    "Acoustic",
+    "Airship",
+    "Appier",
+    "Blueshift",
+    "BSI Software",
+    "Capillary Technologies",
+    "Creatio",
+    "Epsilon",
+    "EZ Texting",
+    "indigitall",
+    "Insider One",
+    "Medallia",
+    "Meiro",
+    "Netmera",
+    "Optimove",
+    "Pitney Bowes",
+    "Postalytics",
+    "Precisely",
+    "Radar",
+    "Rapidops",
+    "Sprinklr",
+    "Textedly",
+    "Treasure AI",
+    "Vibes",
+    "Woosmap"
+   ],
+   "surface_forms": {
+    "retail": 25,
+    "retail stores": 2
+   },
+   "in_both_sources": 3,
+   "g2": 5,
+   "gartner": 23,
+   "median_reviews": 47.0,
+   "median_categories": 1,
+   "median_industries_declared": 8,
+   "channels_declared": {
+    "email": 18,
+    "sms": 13,
+    "push": 9,
+    "whatsapp": 8,
+    "rcs": 6,
+    "voice": 6,
+    "chat": 4,
+    "ads": 2,
+    "in-app": 2,
+    "web-push": 2,
+    "direct-mail": 1
+   },
+   "vendors_declaring_any_channel": 21,
+   "hq_countries_published": {
+    "US": 5
+   },
+   "pricing_published_yes": 4,
+   "pricing_published_known": 11,
+   "vendors_with_free_tier": 3,
+   "co_occurring": [
+    [
+     "Financial Services",
+     18
+    ],
+    [
+     "Hospitality",
+     13
+    ],
+    [
+     "Ecommerce",
+     12
+    ]
+   ],
+   "source_urls": [
+    "https://blueshift.com/agentic-customer-ai/",
+    "https://indigitall.com/en/product-overview/",
+    "https://insiderone.com/platform/",
+    "https://meiro.io/product/email/",
+    "https://netmera.com/customer-data-platform/",
+    "https://radar.com/llms.txt",
+    "https://www.acoustic.com/product-tour-library",
+    "https://www.airship.com/platform/collect-customer-data/",
+    "https://www.appier.com/en/products/aibid",
+    "https://www.bsi-software.com/en/customer-world/bsi-customer-platform",
+    "https://www.capillarytech.com/products/",
+    "https://www.creatio.com/products/pricing",
+    "https://www.epsilon.com/us/products-and-services",
+    "https://www.eztexting.com/features",
+    "https://www.medallia.com/platform/",
+    "https://www.optimove.com/platform/engage",
+    "https://www.pitneybowes.com:443/us/your-product-update-hub.html",
+    "https://www.postalytics.com/features/",
+    "https://www.precisely.com/solutions/",
+    "https://www.rapidops.com/services/product-development/",
+    "https://www.sprinklr.com/products/",
+    "https://www.textedly.com/features",
+    "https://www.treasure.ai/product",
+    "https://www.vibes.com/platform",
+    "https://www.woosmap.com/products/map"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "healthcare",
+   "label": "Healthcare",
+   "vendor_count": 21,
+   "vendors": [
+    "Act-On",
+    "Blueshift",
+    "BSI Software",
+    "Customer.io",
+    "Epsilon",
+    "EZ Texting",
+    "HCLTech",
+    "indigitall",
+    "L-Soft",
+    "LeadSquared",
+    "Medallia",
+    "Meiro",
+    "Pitney Bowes",
+    "Piwik PRO",
+    "Precisely",
+    "Pyze",
+    "Tech Mahindra",
+    "Thryv",
+    "Treasure AI",
+    "Woosmap",
+    "WorksBuddy"
+   ],
+   "surface_forms": {
+    "healthcare": 17,
+    "health": 4
+   },
+   "in_both_sources": 2,
+   "g2": 3,
+   "gartner": 20,
+   "median_reviews": 10,
+   "median_categories": 1,
+   "median_industries_declared": 9,
+   "channels_declared": {
+    "email": 17,
+    "sms": 6,
+    "voice": 5,
+    "push": 4,
+    "whatsapp": 4,
+    "chat": 3,
+    "in-app": 2,
+    "rcs": 2,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 19,
+   "hq_countries_published": {
+    "US": 4,
+    "IN": 1
+   },
+   "pricing_published_yes": 6,
+   "pricing_published_known": 9,
+   "vendors_with_free_tier": 4,
+   "co_occurring": [
+    [
+     "Financial Services",
+     16
+    ],
+    [
+     "Retail",
+     11
+    ],
+    [
+     "Banking",
+     10
+    ]
+   ],
+   "source_urls": [
+    "https://act-on.com/solutions/",
+    "https://blueshift.com/agentic-customer-ai/",
+    "https://customer.io/llms.txt",
+    "https://indigitall.com/en/product-overview/",
+    "https://lsoft.com/go/features.asp",
+    "https://meiro.io/product/email/",
+    "https://piwik.pro/",
+    "https://pyze.com/platform",
+    "https://worksbuddy.ai/llms.txt",
+    "https://www.bsi-software.com/en/customer-world/bsi-customer-platform",
+    "https://www.epsilon.com/us/products-and-services",
+    "https://www.eztexting.com/features",
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.leadsquared.com/learn/sales/crm-platform/",
+    "https://www.medallia.com/platform/",
+    "https://www.pitneybowes.com:443/us/your-product-update-hub.html",
+    "https://www.precisely.com/solutions/",
+    "https://www.techmahindra.com/products-and-platforms/",
+    "https://www.thryv.com/features/",
+    "https://www.treasure.ai/product",
+    "https://www.woosmap.com/products/map"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "ecommerce",
+   "label": "Ecommerce",
+   "vendor_count": 18,
+   "vendors": [
+    "Acoustic",
+    "Appier",
+    "Blueshift",
+    "EZ Texting",
+    "indigitall",
+    "Insider One",
+    "iPresso",
+    "Meiro",
+    "Netmera",
+    "Nvecta",
+    "OneSignal",
+    "Optimove",
+    "Pitney Bowes",
+    "Piwik PRO",
+    "Postalytics",
+    "Tidio",
+    "Woosmap",
+    "ZEPIC"
+   ],
+   "surface_forms": {
+    "e-commerce": 7,
+    "ecommerce": 12
+   },
+   "in_both_sources": 2,
+   "g2": 3,
+   "gartner": 17,
+   "median_reviews": 9,
+   "median_categories": 2.0,
+   "median_industries_declared": 8.0,
+   "channels_declared": {
+    "email": 17,
+    "whatsapp": 11,
+    "sms": 10,
+    "push": 10,
+    "rcs": 5,
+    "voice": 5,
+    "chat": 4,
+    "ads": 3,
+    "in-app": 3,
+    "web-push": 3,
+    "direct-mail": 1
+   },
+   "vendors_declaring_any_channel": 18,
+   "hq_countries_published": {
+    "US": 2
+   },
+   "pricing_published_yes": 4,
+   "pricing_published_known": 7,
+   "vendors_with_free_tier": 5,
+   "co_occurring": [
+    [
+     "Financial Services",
+     14
+    ],
+    [
+     "Retail",
+     12
+    ],
+    [
+     "Travel",
+     9
+    ]
+   ],
+   "source_urls": [
+    "https://blueshift.com/agentic-customer-ai/",
+    "https://indigitall.com/en/product-overview/",
+    "https://insiderone.com/platform/",
+    "https://meiro.io/product/email/",
+    "https://netmera.com/customer-data-platform/",
+    "https://onesignal.com/features",
+    "https://piwik.pro/",
+    "https://www.acoustic.com/product-tour-library",
+    "https://www.appier.com/en/products/aibid",
+    "https://www.eztexting.com/features",
+    "https://www.ipresso.com/features",
+    "https://www.nvecta.com:443/",
+    "https://www.optimove.com/platform/engage",
+    "https://www.pitneybowes.com:443/us/your-product-update-hub.html",
+    "https://www.postalytics.com/features/",
+    "https://www.tidio.com/features/",
+    "https://www.woosmap.com/products/map",
+    "https://zepic.com/product/zenie-ai"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "travel",
+   "label": "Travel",
+   "vendor_count": 17,
+   "vendors": [
+    "Acoustic",
+    "Airship",
+    "Braze",
+    "Epsilon",
+    "indigitall",
+    "Insider One",
+    "iPresso",
+    "LeadSquared",
+    "Medallia",
+    "Netmera",
+    "Optimove",
+    "Radar",
+    "Sprinklr",
+    "Tidio",
+    "Treasure AI",
+    "Woosmap",
+    "ZEPIC"
+   ],
+   "surface_forms": {
+    "travel": 19,
+    "tourism": 1
+   },
+   "in_both_sources": 4,
+   "g2": 4,
+   "gartner": 17,
+   "median_reviews": 35,
+   "median_categories": 2,
+   "median_industries_declared": 9,
+   "channels_declared": {
+    "email": 15,
+    "sms": 10,
+    "whatsapp": 10,
+    "push": 8,
+    "rcs": 5,
+    "voice": 5,
+    "chat": 4,
+    "ads": 2,
+    "web-push": 2,
+    "in-app": 1
+   },
+   "vendors_declaring_any_channel": 16,
+   "hq_countries_published": {
+    "US": 4
+   },
+   "pricing_published_yes": 2,
+   "pricing_published_known": 9,
+   "vendors_with_free_tier": 4,
+   "co_occurring": [
+    [
+     "Financial Services",
+     15
+    ],
+    [
+     "Hospitality",
+     13
+    ],
+    [
+     "Retail",
+     12
+    ]
+   ],
+   "source_urls": [
+    "https://braze.com/llms.txt",
+    "https://indigitall.com/en/product-overview/",
+    "https://insiderone.com/platform/",
+    "https://netmera.com/customer-data-platform/",
+    "https://radar.com/llms.txt",
+    "https://www.acoustic.com/product-tour-library",
+    "https://www.airship.com/platform/collect-customer-data/",
+    "https://www.epsilon.com/us/products-and-services",
+    "https://www.ipresso.com/features",
+    "https://www.leadsquared.com/learn/sales/crm-platform/",
+    "https://www.medallia.com/platform/",
+    "https://www.optimove.com/platform/engage",
+    "https://www.sprinklr.com/products/",
+    "https://www.tidio.com/features/",
+    "https://www.treasure.ai/product",
+    "https://www.woosmap.com/products/map",
+    "https://zepic.com/product/zenie-ai"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "hospitality",
+   "label": "Hospitality",
+   "vendor_count": 16,
+   "vendors": [
+    "Acoustic",
+    "Airship",
+    "Braze",
+    "Capillary Technologies",
+    "EZ Texting",
+    "indigitall",
+    "Insider One",
+    "LeadSquared",
+    "Medallia",
+    "Netmera",
+    "Optimove",
+    "Sprinklr",
+    "Treasure AI",
+    "Vibes",
+    "Woosmap",
+    "ZEPIC"
+   ],
+   "surface_forms": {
+    "hospitality": 17
+   },
+   "in_both_sources": 3,
+   "g2": 4,
+   "gartner": 15,
+   "median_reviews": 56.0,
+   "median_categories": 2.0,
+   "median_industries_declared": 9.0,
+   "channels_declared": {
+    "email": 14,
+    "sms": 11,
+    "whatsapp": 8,
+    "push": 8,
+    "rcs": 7,
+    "voice": 6,
+    "chat": 3,
+    "web-push": 2,
+    "ads": 1,
+    "in-app": 1
+   },
+   "vendors_declaring_any_channel": 15,
+   "hq_countries_published": {
+    "US": 4
+   },
+   "pricing_published_yes": 3,
+   "pricing_published_known": 9,
+   "vendors_with_free_tier": 4,
+   "co_occurring": [
+    [
+     "Travel",
+     13
+    ],
+    [
+     "Retail",
+     13
+    ],
+    [
+     "Financial Services",
+     12
+    ]
+   ],
+   "source_urls": [
+    "https://braze.com/llms.txt",
+    "https://indigitall.com/en/product-overview/",
+    "https://insiderone.com/platform/",
+    "https://netmera.com/customer-data-platform/",
+    "https://www.acoustic.com/product-tour-library",
+    "https://www.airship.com/platform/collect-customer-data/",
+    "https://www.capillarytech.com/products/",
+    "https://www.eztexting.com/features",
+    "https://www.leadsquared.com/learn/sales/crm-platform/",
+    "https://www.medallia.com/platform/",
+    "https://www.optimove.com/platform/engage",
+    "https://www.sprinklr.com/products/",
+    "https://www.treasure.ai/product",
+    "https://www.vibes.com/platform",
+    "https://www.woosmap.com/products/map",
+    "https://zepic.com/product/zenie-ai"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "insurance",
+   "label": "Insurance",
+   "vendor_count": 14,
+   "vendors": [
+    "Act-On",
+    "Airship",
+    "Appier",
+    "BSI Software",
+    "Creatio",
+    "EZ Texting",
+    "HCLTech",
+    "indigitall",
+    "Medallia",
+    "Nvecta",
+    "Precisely",
+    "Pyze",
+    "Tech Mahindra",
+    "Woosmap"
+   ],
+   "surface_forms": {
+    "insurance": 14
+   },
+   "in_both_sources": 0,
+   "g2": 1,
+   "gartner": 13,
+   "median_reviews": 42.0,
+   "median_categories": 1.0,
+   "median_industries_declared": 11.0,
+   "channels_declared": {
+    "email": 8,
+    "sms": 5,
+    "voice": 4,
+    "chat": 4,
+    "push": 3,
+    "rcs": 3,
+    "ads": 2,
+    "whatsapp": 2
+   },
+   "vendors_declaring_any_channel": 11,
+   "hq_countries_published": {
+    "US": 1,
+    "IN": 1
+   },
+   "pricing_published_yes": 3,
+   "pricing_published_known": 6,
+   "vendors_with_free_tier": 2,
+   "co_occurring": [
+    [
+     "Healthcare",
+     10
+    ],
+    [
+     "Financial Services",
+     9
+    ],
+    [
+     "Retail",
+     9
+    ]
+   ],
+   "source_urls": [
+    "https://act-on.com/solutions/",
+    "https://indigitall.com/en/product-overview/",
+    "https://pyze.com/platform",
+    "https://www.airship.com/platform/collect-customer-data/",
+    "https://www.appier.com/en/products/aibid",
+    "https://www.bsi-software.com/en/customer-world/bsi-customer-platform",
+    "https://www.creatio.com/products/pricing",
+    "https://www.eztexting.com/features",
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.medallia.com/platform/",
+    "https://www.nvecta.com:443/",
+    "https://www.precisely.com/solutions/",
+    "https://www.techmahindra.com/products-and-platforms/",
+    "https://www.woosmap.com/products/map"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "media",
+   "label": "Media",
+   "vendor_count": 13,
+   "vendors": [
+    "Acoustic",
+    "Airship",
+    "Blueshift",
+    "Braze",
+    "Epsilon",
+    "indigitall",
+    "iPresso",
+    "Medallia",
+    "Meiro",
+    "Netmera",
+    "OneSignal",
+    "Tech Mahindra",
+    "Treasure AI"
+   ],
+   "surface_forms": {
+    "media": 14,
+    "news": 1,
+    "publishing": 1,
+    "publishers": 1
+   },
+   "in_both_sources": 3,
+   "g2": 3,
+   "gartner": 13,
+   "median_reviews": 36,
+   "median_categories": 2,
+   "median_industries_declared": 9,
+   "channels_declared": {
+    "email": 11,
+    "sms": 9,
+    "push": 8,
+    "whatsapp": 7,
+    "rcs": 4,
+    "in-app": 3,
+    "ads": 2,
+    "voice": 2,
+    "chat": 2,
+    "web-push": 2
+   },
+   "vendors_declaring_any_channel": 13,
+   "hq_countries_published": {
+    "US": 2,
+    "IN": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 7,
+   "vendors_with_free_tier": 2,
+   "co_occurring": [
+    [
+     "Financial Services",
+     12
+    ],
+    [
+     "Travel",
+     9
+    ],
+    [
+     "Retail",
+     9
+    ]
+   ],
+   "source_urls": [
+    "https://blueshift.com/agentic-customer-ai/",
+    "https://braze.com/llms.txt",
+    "https://indigitall.com/en/product-overview/",
+    "https://meiro.io/product/email/",
+    "https://netmera.com/customer-data-platform/",
+    "https://onesignal.com/features",
+    "https://www.acoustic.com/product-tour-library",
+    "https://www.airship.com/platform/collect-customer-data/",
+    "https://www.epsilon.com/us/products-and-services",
+    "https://www.ipresso.com/features",
+    "https://www.medallia.com/platform/",
+    "https://www.techmahindra.com/products-and-platforms/",
+    "https://www.treasure.ai/product"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "banking",
+   "label": "Banking",
+   "vendor_count": 12,
+   "vendors": [
+    "Act-On",
+    "Blueshift",
+    "BSI Software",
+    "Creatio",
+    "HCLTech",
+    "indigitall",
+    "Meiro",
+    "Netmera",
+    "Piwik PRO",
+    "Precisely",
+    "Pyze",
+    "Tech Mahindra"
+   ],
+   "surface_forms": {
+    "banking": 10,
+    "bank": 1,
+    "banks": 1
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 12,
+   "median_reviews": 37.5,
+   "median_categories": 1.0,
+   "median_industries_declared": 9.5,
+   "channels_declared": {
+    "email": 8,
+    "sms": 4,
+    "push": 4,
+    "whatsapp": 4,
+    "chat": 3,
+    "in-app": 2,
+    "rcs": 1,
+    "voice": 1,
+    "web-push": 1
+   },
+   "vendors_declaring_any_channel": 9,
+   "hq_countries_published": {
+    "IN": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 3,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Healthcare",
+     10
+    ],
+    [
+     "Financial Services",
+     9
+    ],
+    [
+     "Insurance",
+     8
+    ]
+   ],
+   "source_urls": [
+    "https://act-on.com/solutions/",
+    "https://blueshift.com/agentic-customer-ai/",
+    "https://indigitall.com/en/product-overview/",
+    "https://meiro.io/product/email/",
+    "https://netmera.com/customer-data-platform/",
+    "https://piwik.pro/",
+    "https://pyze.com/platform",
+    "https://www.bsi-software.com/en/customer-world/bsi-customer-platform",
+    "https://www.creatio.com/products/pricing",
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.precisely.com/solutions/",
+    "https://www.techmahindra.com/products-and-platforms/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "telecommunications",
+   "label": "Telecommunication",
+   "vendor_count": 12,
+   "vendors": [
+    "Airship",
+    "Creatio",
+    "Epsilon",
+    "EVAM",
+    "indigitall",
+    "Insider One",
+    "Medallia",
+    "Netmera",
+    "Precisely",
+    "Pyze",
+    "Sprinklr",
+    "Tech Mahindra"
+   ],
+   "surface_forms": {
+    "telecommunication": 4,
+    "telecommunications": 3,
+    "telecom": 3,
+    "communications": 1,
+    "telco": 2
+   },
+   "in_both_sources": 4,
+   "g2": 4,
+   "gartner": 12,
+   "median_reviews": 49,
+   "median_categories": 2.0,
+   "median_industries_declared": 10.0,
+   "channels_declared": {
+    "email": 8,
+    "sms": 7,
+    "push": 5,
+    "whatsapp": 4,
+    "chat": 4,
+    "rcs": 3,
+    "web-push": 3,
+    "voice": 3,
+    "in-app": 1
+   },
+   "vendors_declaring_any_channel": 10,
+   "hq_countries_published": {
+    "US": 1,
+    "IN": 1
+   },
+   "pricing_published_yes": 0,
+   "pricing_published_known": 3,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Financial Services",
+     10
+    ],
+    [
+     "Retail",
+     9
+    ],
+    [
+     "Travel",
+     7
+    ]
+   ],
+   "source_urls": [
+    "https://evam.com/product-demo-hub",
+    "https://indigitall.com/en/product-overview/",
+    "https://insiderone.com/platform/",
+    "https://netmera.com/customer-data-platform/",
+    "https://pyze.com/platform",
+    "https://www.airship.com/platform/collect-customer-data/",
+    "https://www.creatio.com/products/pricing",
+    "https://www.epsilon.com/us/products-and-services",
+    "https://www.medallia.com/platform/",
+    "https://www.precisely.com/solutions/",
+    "https://www.sprinklr.com/products/",
+    "https://www.techmahindra.com/products-and-platforms/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "automotive",
+   "label": "Automotive",
+   "vendor_count": 9,
+   "vendors": [
+    "Appier",
+    "HCLTech",
+    "Insider One",
+    "LeadSquared",
+    "Medallia",
+    "Treasure AI",
+    "Vibes",
+    "Woosmap",
+    "WorksBuddy"
+   ],
+   "surface_forms": {
+    "automotive": 7,
+    "automobile": 2
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 9,
+   "median_reviews": 45,
+   "median_categories": 1,
+   "median_industries_declared": 9,
+   "channels_declared": {
+    "email": 7,
+    "sms": 3,
+    "push": 2,
+    "rcs": 2,
+    "voice": 2,
+    "ads": 1,
+    "web-push": 1,
+    "whatsapp": 1
+   },
+   "vendors_declaring_any_channel": 9,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 3,
+   "pricing_published_known": 5,
+   "vendors_with_free_tier": 2,
+   "co_occurring": [
+    [
+     "Financial Services",
+     9
+    ],
+    [
+     "Retail",
+     6
+    ],
+    [
+     "Healthcare",
+     6
+    ]
+   ],
+   "source_urls": [
+    "https://insiderone.com/platform/",
+    "https://worksbuddy.ai/llms.txt",
+    "https://www.appier.com/en/products/aibid",
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.leadsquared.com/learn/sales/crm-platform/",
+    "https://www.medallia.com/platform/",
+    "https://www.treasure.ai/product",
+    "https://www.vibes.com/platform",
+    "https://www.woosmap.com/products/map"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "entertainment",
+   "label": "Entertainment",
+   "vendor_count": 9,
+   "vendors": [
+    "Acoustic",
+    "Airship",
+    "Braze",
+    "Epsilon",
+    "iPresso",
+    "Netmera",
+    "Tech Mahindra",
+    "Treasure AI",
+    "Vibes"
+   ],
+   "surface_forms": {
+    "entertainment": 10
+   },
+   "in_both_sources": 3,
+   "g2": 3,
+   "gartner": 9,
+   "median_reviews": 75.0,
+   "median_categories": 3,
+   "median_industries_declared": 9,
+   "channels_declared": {
+    "email": 8,
+    "sms": 7,
+    "push": 5,
+    "whatsapp": 4,
+    "rcs": 3,
+    "ads": 2,
+    "web-push": 1,
+    "in-app": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 9,
+   "hq_countries_published": {
+    "US": 2,
+    "IN": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 5,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Financial Services",
+     9
+    ],
+    [
+     "Media",
+     8
+    ],
+    [
+     "Travel",
+     7
+    ]
+   ],
+   "source_urls": [
+    "https://braze.com/llms.txt",
+    "https://netmera.com/customer-data-platform/",
+    "https://www.acoustic.com/product-tour-library",
+    "https://www.airship.com/platform/collect-customer-data/",
+    "https://www.epsilon.com/us/products-and-services",
+    "https://www.ipresso.com/features",
+    "https://www.techmahindra.com/products-and-platforms/",
+    "https://www.treasure.ai/product",
+    "https://www.vibes.com/platform"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "manufacturing",
+   "label": "Manufacturing",
+   "vendor_count": 9,
+   "vendors": [
+    "Act-On",
+    "Creatio",
+    "HCLTech",
+    "LeadSquared",
+    "Medallia",
+    "Pyze",
+    "Rapidops",
+    "SugarAI",
+    "Tech Mahindra"
+   ],
+   "surface_forms": {
+    "manufacturing": 9
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 9,
+   "median_reviews": 39,
+   "median_categories": 1,
+   "median_industries_declared": 10,
+   "channels_declared": {
+    "email": 3,
+    "chat": 2,
+    "voice": 1
+   },
+   "vendors_declaring_any_channel": 6,
+   "hq_countries_published": {
+    "IN": 1
+   },
+   "pricing_published_yes": 2,
+   "pricing_published_known": 4,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Financial Services",
+     6
+    ],
+    [
+     "Healthcare",
+     6
+    ],
+    [
+     "Insurance",
+     6
+    ]
+   ],
+   "source_urls": [
+    "https://act-on.com/solutions/",
+    "https://pyze.com/platform",
+    "https://sugarai.com/llms.txt",
+    "https://www.creatio.com/products/pricing",
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.leadsquared.com/learn/sales/crm-platform/",
+    "https://www.medallia.com/platform/",
+    "https://www.rapidops.com/services/product-development/",
+    "https://www.techmahindra.com/products-and-platforms/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "education",
+   "label": "Education",
+   "vendor_count": 8,
+   "vendors": [
+    "indigitall",
+    "iPresso",
+    "L-Soft",
+    "LeadSquared",
+    "Tech Mahindra",
+    "Tidio",
+    "Webmaxy",
+    "WorksBuddy"
+   ],
+   "surface_forms": {
+    "education": 8
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 8,
+   "median_reviews": 7.0,
+   "median_categories": 2.0,
+   "median_industries_declared": 8.0,
+   "channels_declared": {
+    "email": 7,
+    "whatsapp": 4,
+    "chat": 4,
+    "sms": 3,
+    "push": 2,
+    "voice": 2,
+    "ads": 2,
+    "rcs": 1
+   },
+   "vendors_declaring_any_channel": 8,
+   "hq_countries_published": {
+    "IN": 1
+   },
+   "pricing_published_yes": 3,
+   "pricing_published_known": 3,
+   "vendors_with_free_tier": 2,
+   "co_occurring": [
+    [
+     "Healthcare",
+     5
+    ],
+    [
+     "Financial Services",
+     5
+    ],
+    [
+     "Travel",
+     4
+    ]
+   ],
+   "source_urls": [
+    "https://indigitall.com/en/product-overview/",
+    "https://lsoft.com/go/features.asp",
+    "https://webmaxy.co/llms.txt",
+    "https://worksbuddy.ai/llms.txt",
+    "https://www.ipresso.com/features",
+    "https://www.leadsquared.com/learn/sales/crm-platform/",
+    "https://www.techmahindra.com/products-and-platforms/",
+    "https://www.tidio.com/features/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "government",
+   "label": "Government",
+   "vendor_count": 8,
+   "vendors": [
+    "L-Soft",
+    "Medallia",
+    "Pitney Bowes",
+    "Piwik PRO",
+    "Precisely",
+    "Pyze",
+    "Sprinklr",
+    "Woosmap"
+   ],
+   "surface_forms": {
+    "public sector": 3,
+    "government": 5,
+    "public services": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 8,
+   "median_reviews": 5,
+   "median_categories": 1.0,
+   "median_industries_declared": 9.0,
+   "channels_declared": {
+    "email": 6,
+    "voice": 2,
+    "sms": 2,
+    "chat": 2,
+    "whatsapp": 1
+   },
+   "vendors_declaring_any_channel": 7,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 2,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Healthcare",
+     7
+    ],
+    [
+     "Financial Services",
+     7
+    ],
+    [
+     "Retail",
+     5
+    ]
+   ],
+   "source_urls": [
+    "https://lsoft.com/go/features.asp",
+    "https://piwik.pro/",
+    "https://pyze.com/platform",
+    "https://www.medallia.com/platform/",
+    "https://www.pitneybowes.com:443/us/your-product-update-hub.html",
+    "https://www.precisely.com/solutions/",
+    "https://www.sprinklr.com/products/",
+    "https://www.woosmap.com/products/map"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "restaurants",
+   "label": "Restaurants",
+   "vendor_count": 8,
+   "vendors": [
+    "Braze",
+    "Epsilon",
+    "EZ Texting",
+    "Medallia",
+    "Radar",
+    "Textedly",
+    "Vibes",
+    "Webmaxy"
+   ],
+   "surface_forms": {
+    "restaurants": 8,
+    "restaurant": 1
+   },
+   "in_both_sources": 2,
+   "g2": 4,
+   "gartner": 6,
+   "median_reviews": 146,
+   "median_categories": 1.0,
+   "median_industries_declared": 8.0,
+   "channels_declared": {
+    "email": 6,
+    "sms": 5,
+    "push": 3,
+    "rcs": 3,
+    "ads": 3,
+    "voice": 3,
+    "whatsapp": 2,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 7,
+   "hq_countries_published": {
+    "US": 2
+   },
+   "pricing_published_yes": 4,
+   "pricing_published_known": 7,
+   "vendors_with_free_tier": 3,
+   "co_occurring": [
+    [
+     "Retail",
+     6
+    ],
+    [
+     "Financial Services",
+     5
+    ],
+    [
+     "Travel",
+     4
+    ]
+   ],
+   "source_urls": [
+    "https://braze.com/llms.txt",
+    "https://radar.com/llms.txt",
+    "https://webmaxy.co/llms.txt",
+    "https://www.epsilon.com/us/products-and-services",
+    "https://www.eztexting.com/features",
+    "https://www.medallia.com/platform/",
+    "https://www.textedly.com/features",
+    "https://www.vibes.com/platform"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "cpg",
+   "label": "CPG",
+   "vendor_count": 7,
+   "vendors": [
+    "Capillary Technologies",
+    "Creatio",
+    "Epsilon",
+    "HCLTech",
+    "iPresso",
+    "Sprinklr",
+    "Treasure AI"
+   ],
+   "surface_forms": {
+    "consumer packaged goods": 1,
+    "cpg": 4,
+    "fmcg": 2,
+    "consumer goods": 1
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 7,
+   "median_reviews": 60,
+   "median_categories": 1,
+   "median_industries_declared": 10,
+   "channels_declared": {
+    "email": 5,
+    "sms": 3,
+    "whatsapp": 2,
+    "push": 1,
+    "ads": 1,
+    "voice": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 5,
+   "hq_countries_published": {
+    "US": 2
+   },
+   "pricing_published_yes": 0,
+   "pricing_published_known": 2,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Retail",
+     5
+    ],
+    [
+     "Financial Services",
+     5
+    ],
+    [
+     "Travel",
+     4
+    ]
+   ],
+   "source_urls": [
+    "https://www.capillarytech.com/products/",
+    "https://www.creatio.com/products/pricing",
+    "https://www.epsilon.com/us/products-and-services",
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.ipresso.com/features",
+    "https://www.sprinklr.com/products/",
+    "https://www.treasure.ai/product"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "gaming",
+   "label": "Gaming",
+   "vendor_count": 6,
+   "vendors": [
+    "Appier",
+    "Braze",
+    "OneSignal",
+    "OptiKPI",
+    "Optimove",
+    "Radar"
+   ],
+   "surface_forms": {
+    "gaming": 4,
+    "social games": 1,
+    "social gaming": 1
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 6,
+   "median_reviews": 45,
+   "median_categories": 2.0,
+   "median_industries_declared": 6.0,
+   "channels_declared": {
+    "email": 4,
+    "sms": 4,
+    "push": 4,
+    "whatsapp": 3,
+    "rcs": 3,
+    "ads": 2,
+    "web-push": 1,
+    "in-app": 1,
+    "voice": 1
+   },
+   "vendors_declaring_any_channel": 5,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 2,
+   "pricing_published_known": 4,
+   "vendors_with_free_tier": 2,
+   "co_occurring": [
+    [
+     "Financial Services",
+     5
+    ],
+    [
+     "Ecommerce",
+     3
+    ],
+    [
+     "Retail",
+     3
+    ]
+   ],
+   "source_urls": [
+    "https://braze.com/llms.txt",
+    "https://onesignal.com/features",
+    "https://radar.com/llms.txt",
+    "https://www.appier.com/en/products/aibid",
+    "https://www.optikpi.com/platform/",
+    "https://www.optimove.com/platform/engage"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "technology",
+   "label": "Technology",
+   "vendor_count": 6,
+   "vendors": [
+    "Creatio",
+    "Medallia",
+    "Postalytics",
+    "Sprinklr",
+    "Tech Mahindra",
+    "Treasure AI"
+   ],
+   "surface_forms": {
+    "hi tech": 1,
+    "high tech": 1,
+    "technology": 3,
+    "tech": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 6,
+   "median_reviews": 9,
+   "median_categories": 1.0,
+   "median_industries_declared": 11.0,
+   "channels_declared": {
+    "email": 3,
+    "voice": 2,
+    "sms": 2,
+    "chat": 2,
+    "direct-mail": 1,
+    "whatsapp": 1
+   },
+   "vendors_declaring_any_channel": 5,
+   "hq_countries_published": {
+    "US": 2,
+    "IN": 1
+   },
+   "pricing_published_yes": 0,
+   "pricing_published_known": 3,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Retail",
+     5
+    ],
+    [
+     "Financial Services",
+     5
+    ],
+    [
+     "Telecommunication",
+     4
+    ]
+   ],
+   "source_urls": [
+    "https://www.creatio.com/products/pricing",
+    "https://www.medallia.com/platform/",
+    "https://www.postalytics.com/features/",
+    "https://www.sprinklr.com/products/",
+    "https://www.techmahindra.com/products-and-platforms/",
+    "https://www.treasure.ai/product"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "utilities",
+   "label": "Utilities",
+   "vendor_count": 6,
+   "vendors": [
+    "BSI Software",
+    "HCLTech",
+    "Piwik PRO",
+    "Precisely",
+    "Pyze",
+    "Tech Mahindra"
+   ],
+   "surface_forms": {
+    "utilities": 6
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 6,
+   "median_reviews": 9,
+   "median_categories": 1.0,
+   "median_industries_declared": 10.0,
+   "channels_declared": {
+    "email": 3,
+    "chat": 2,
+    "sms": 1
+   },
+   "vendors_declaring_any_channel": 4,
+   "hq_countries_published": {
+    "IN": 1
+   },
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Healthcare",
+     6
+    ],
+    [
+     "Banking",
+     6
+    ],
+    [
+     "Energy",
+     5
+    ]
+   ],
+   "source_urls": [
+    "https://piwik.pro/",
+    "https://pyze.com/platform",
+    "https://www.bsi-software.com/en/customer-world/bsi-customer-platform",
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.precisely.com/solutions/",
+    "https://www.techmahindra.com/products-and-platforms/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "energy",
+   "label": "Energy",
+   "vendor_count": 5,
+   "vendors": [
+    "BSI Software",
+    "HCLTech",
+    "Piwik PRO",
+    "Pyze",
+    "Tech Mahindra"
+   ],
+   "surface_forms": {
+    "energy": 5
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 5,
+   "median_reviews": 24.0,
+   "median_categories": 1,
+   "median_industries_declared": 10,
+   "channels_declared": {
+    "email": 2,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 3,
+   "hq_countries_published": {
+    "IN": 1
+   },
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Healthcare",
+     5
+    ],
+    [
+     "Banking",
+     5
+    ],
+    [
+     "Utilities",
+     5
+    ]
+   ],
+   "source_urls": [
+    "https://piwik.pro/",
+    "https://pyze.com/platform",
+    "https://www.bsi-software.com/en/customer-world/bsi-customer-platform",
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.techmahindra.com/products-and-platforms/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "nonprofits",
+   "label": "Nonprofits",
+   "vendor_count": 5,
+   "vendors": [
+    "Epsilon",
+    "EZ Texting",
+    "L-Soft",
+    "Postalytics",
+    "Textedly"
+   ],
+   "surface_forms": {
+    "nonprofits": 4,
+    "ngos": 1,
+    "non-profit": 1
+   },
+   "in_both_sources": 1,
+   "g2": 3,
+   "gartner": 3,
+   "median_reviews": 445.0,
+   "median_categories": 1,
+   "median_industries_declared": 10,
+   "channels_declared": {
+    "email": 5,
+    "sms": 2,
+    "voice": 2,
+    "rcs": 1,
+    "direct-mail": 1,
+    "push": 1,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 5,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 2,
+   "pricing_published_known": 2,
+   "vendors_with_free_tier": 2,
+   "co_occurring": [
+    [
+     "Retail",
+     4
+    ],
+    [
+     "Healthcare",
+     3
+    ],
+    [
+     "Restaurants",
+     3
+    ]
+   ],
+   "source_urls": [
+    "https://lsoft.com/go/features.asp",
+    "https://www.epsilon.com/us/products-and-services",
+    "https://www.eztexting.com/features",
+    "https://www.postalytics.com/features/",
+    "https://www.textedly.com/features"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "fintech",
+   "label": "Fintech",
+   "vendor_count": 4,
+   "vendors": [
+    "Customer.io",
+    "HCLTech",
+    "OneSignal",
+    "OptiKPI"
+   ],
+   "surface_forms": {
+    "fintech": 4
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 4,
+   "median_reviews": 119,
+   "median_categories": 2.0,
+   "median_industries_declared": 4.5,
+   "channels_declared": {
+    "email": 4,
+    "sms": 3,
+    "push": 3,
+    "in-app": 2,
+    "whatsapp": 2,
+    "voice": 1,
+    "web-push": 1,
+    "rcs": 1
+   },
+   "vendors_declaring_any_channel": 4,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 3,
+   "pricing_published_known": 3,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Healthcare",
+     2
+    ],
+    [
+     "Financial Services",
+     2
+    ],
+    [
+     "Gaming",
+     2
+    ]
+   ],
+   "source_urls": [
+    "https://customer.io/llms.txt",
+    "https://onesignal.com/features",
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.optikpi.com/platform/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "igaming",
+   "label": "iGaming",
+   "vendor_count": 4,
+   "vendors": [
+    "Meiro",
+    "OptiKPI",
+    "Optimove",
+    "Text"
+   ],
+   "surface_forms": {
+    "igaming": 4
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 4,
+   "median_reviews": 128,
+   "median_categories": 1.5,
+   "median_industries_declared": 5.5,
+   "channels_declared": {
+    "email": 4,
+    "whatsapp": 4,
+    "push": 3,
+    "sms": 3,
+    "voice": 2,
+    "rcs": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 4,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 2,
+   "pricing_published_known": 3,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Financial Services",
+     2
+    ],
+    [
+     "Ecommerce",
+     2
+    ],
+    [
+     "Retail",
+     2
+    ]
+   ],
+   "source_urls": [
+    "https://meiro.io/product/email/",
+    "https://www.optikpi.com/platform/",
+    "https://www.optimove.com/platform/engage",
+    "https://www.text.com/llms.txt"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "life-sciences",
+   "label": "Life Sciences",
+   "vendor_count": 4,
+   "vendors": [
+    "HCLTech",
+    "Medallia",
+    "Pyze",
+    "Tech Mahindra"
+   ],
+   "surface_forms": {
+    "life sciences": 4
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 4,
+   "median_reviews": 24.0,
+   "median_categories": 1.0,
+   "median_industries_declared": 14.0,
+   "channels_declared": {
+    "email": 1,
+    "voice": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 3,
+   "hq_countries_published": {
+    "IN": 1
+   },
+   "pricing_published_yes": 0,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Financial Services",
+     4
+    ],
+    [
+     "Manufacturing",
+     4
+    ],
+    [
+     "Healthcare",
+     4
+    ]
+   ],
+   "source_urls": [
+    "https://pyze.com/platform",
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.medallia.com/platform/",
+    "https://www.techmahindra.com/products-and-platforms/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "logistics",
+   "label": "Logistics",
+   "vendor_count": 4,
+   "vendors": [
+    "indigitall",
+    "Radar",
+    "Woosmap",
+    "WorksBuddy"
+   ],
+   "surface_forms": {
+    "logistics": 4
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 4,
+   "median_reviews": 1,
+   "median_categories": 1.0,
+   "median_industries_declared": 10.5,
+   "channels_declared": {
+    "email": 3,
+    "voice": 2,
+    "sms": 1,
+    "push": 1,
+    "whatsapp": 1,
+    "rcs": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 3,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 2,
+   "pricing_published_known": 3,
+   "vendors_with_free_tier": 2,
+   "co_occurring": [
+    [
+     "Travel",
+     3
+    ],
+    [
+     "Healthcare",
+     3
+    ],
+    [
+     "Retail",
+     3
+    ]
+   ],
+   "source_urls": [
+    "https://indigitall.com/en/product-overview/",
+    "https://radar.com/llms.txt",
+    "https://worksbuddy.ai/llms.txt",
+    "https://www.woosmap.com/products/map"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "real-estate",
+   "label": "Real Estate",
+   "vendor_count": 4,
+   "vendors": [
+    "LeadSquared",
+    "Postalytics",
+    "Webmaxy",
+    "WorksBuddy"
+   ],
+   "surface_forms": {
+    "real estate": 4
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 4,
+   "median_reviews": 35,
+   "median_categories": 1.0,
+   "median_industries_declared": 9.0,
+   "channels_declared": {
+    "email": 4,
+    "direct-mail": 1,
+    "sms": 1,
+    "whatsapp": 1,
+    "ads": 1,
+    "chat": 1,
+    "voice": 1
+   },
+   "vendors_declaring_any_channel": 4,
+   "hq_countries_published": {},
+   "pricing_published_yes": 2,
+   "pricing_published_known": 2,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Education",
+     3
+    ],
+    [
+     "Financial Services",
+     3
+    ],
+    [
+     "Automotive",
+     2
+    ]
+   ],
+   "source_urls": [
+    "https://webmaxy.co/llms.txt",
+    "https://worksbuddy.ai/llms.txt",
+    "https://www.leadsquared.com/learn/sales/crm-platform/",
+    "https://www.postalytics.com/features/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "beauty",
+   "label": "Beauty",
+   "vendor_count": 3,
+   "vendors": [
+    "Insider One",
+    "Meiro",
+    "Thryv"
+   ],
+   "surface_forms": {
+    "beauty": 3,
+    "cosmetics": 1
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 3,
+   "median_reviews": 712.5,
+   "median_categories": 1,
+   "median_industries_declared": 8,
+   "channels_declared": {
+    "email": 3,
+    "push": 2,
+    "whatsapp": 2,
+    "sms": 1,
+    "web-push": 1,
+    "rcs": 1,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 3,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 2,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Financial Services",
+     3
+    ],
+    [
+     "Ecommerce",
+     2
+    ],
+    [
+     "Retail",
+     2
+    ]
+   ],
+   "source_urls": [
+    "https://insiderone.com/platform/",
+    "https://meiro.io/product/email/",
+    "https://www.thryv.com/features/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "credit-unions",
+   "label": "Credit Unions",
+   "vendor_count": 3,
+   "vendors": [
+    "Act-On",
+    "Blueshift",
+    "Creatio"
+   ],
+   "surface_forms": {
+    "credit unions": 2,
+    "credit union": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 3,
+   "median_reviews": 60,
+   "median_categories": 1,
+   "median_industries_declared": 8,
+   "channels_declared": {
+    "email": 2,
+    "sms": 1,
+    "push": 1,
+    "in-app": 1,
+    "whatsapp": 1
+   },
+   "vendors_declaring_any_channel": 2,
+   "hq_countries_published": {},
+   "pricing_published_yes": 1,
+   "pricing_published_known": 2,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Banking",
+     3
+    ],
+    [
+     "Financial Services",
+     2
+    ],
+    [
+     "Manufacturing",
+     2
+    ]
+   ],
+   "source_urls": [
+    "https://act-on.com/solutions/",
+    "https://blueshift.com/agentic-customer-ai/",
+    "https://www.creatio.com/products/pricing"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "legal",
+   "label": "Legal",
+   "vendor_count": 3,
+   "vendors": [
+    "EZ Texting",
+    "Pitney Bowes",
+    "Thryv"
+   ],
+   "surface_forms": {
+    "legal": 3
+   },
+   "in_both_sources": 0,
+   "g2": 1,
+   "gartner": 2,
+   "median_reviews": 10,
+   "median_categories": 1,
+   "median_industries_declared": 8,
+   "channels_declared": {
+    "email": 3,
+    "sms": 1,
+    "rcs": 1,
+    "voice": 1,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 3,
+   "hq_countries_published": {
+    "US": 2
+   },
+   "pricing_published_yes": 2,
+   "pricing_published_known": 2,
+   "vendors_with_free_tier": 2,
+   "co_occurring": [
+    [
+     "Healthcare",
+     3
+    ],
+    [
+     "Higher Education",
+     2
+    ],
+    [
+     "Ecommerce",
+     2
+    ]
+   ],
+   "source_urls": [
+    "https://www.eztexting.com/features",
+    "https://www.pitneybowes.com:443/us/your-product-update-hub.html",
+    "https://www.thryv.com/features/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "saas",
+   "label": "SaaS",
+   "vendor_count": 3,
+   "vendors": [
+    "Customer.io",
+    "Tidio",
+    "WorksBuddy"
+   ],
+   "surface_forms": {
+    "saas": 3
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 3,
+   "median_reviews": 449.0,
+   "median_categories": 2,
+   "median_industries_declared": 5,
+   "channels_declared": {
+    "email": 3,
+    "whatsapp": 2,
+    "voice": 2,
+    "sms": 1,
+    "push": 1,
+    "in-app": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 3,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 3,
+   "pricing_published_known": 3,
+   "vendors_with_free_tier": 2,
+   "co_occurring": [
+    [
+     "Healthcare",
+     2
+    ],
+    [
+     "Financial Services",
+     2
+    ],
+    [
+     "Education",
+     2
+    ]
+   ],
+   "source_urls": [
+    "https://customer.io/llms.txt",
+    "https://worksbuddy.ai/llms.txt",
+    "https://www.tidio.com/features/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "aerospace",
+   "label": "Aerospace",
+   "vendor_count": 2,
+   "vendors": [
+    "Amazon Web Services",
+    "HCLTech"
+   ],
+   "surface_forms": {
+    "aerospace": 2
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 2,
+   "median_reviews": 63.5,
+   "median_categories": 1.0,
+   "median_industries_declared": 8.5,
+   "channels_declared": {
+    "email": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Advertising and Marketing",
+     1
+    ],
+    [
+     "Satellite",
+     1
+    ],
+    [
+     "Automotive",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://aws.amazon.com:443/products/?nc2=h_prod",
+    "https://www.hcltech.com/platform-based-services"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "airlines",
+   "label": "Airline",
+   "vendor_count": 2,
+   "vendors": [
+    "Capillary Technologies",
+    "EVAM"
+   ],
+   "surface_forms": {
+    "airline": 2
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 2,
+   "median_reviews": 125.5,
+   "median_categories": 2.0,
+   "median_industries_declared": 4.5,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "push": 1,
+    "web-push": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Hospitality",
+     1
+    ],
+    [
+     "Retail",
+     1
+    ],
+    [
+     "Fuel Retail",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://evam.com/product-demo-hub",
+    "https://www.capillarytech.com/products/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "capital-markets",
+   "label": "Capital Markets",
+   "vendor_count": 2,
+   "vendors": [
+    "HCLTech",
+    "Text"
+   ],
+   "surface_forms": {
+    "capital markets": 2
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 2,
+   "median_reviews": 119,
+   "median_categories": 1.0,
+   "median_industries_declared": 8.0,
+   "channels_declared": {
+    "email": 2,
+    "sms": 1,
+    "whatsapp": 1,
+    "voice": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 2,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Automotive",
+     1
+    ],
+    [
+     "Life Sciences",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.hcltech.com/platform-based-services",
+    "https://www.text.com/llms.txt"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "edtech",
+   "label": "EdTech",
+   "vendor_count": 2,
+   "vendors": [
+    "Blueshift",
+    "Customer.io"
+   ],
+   "surface_forms": {
+    "edtech": 2
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 2,
+   "median_reviews": 465.0,
+   "median_categories": 3.0,
+   "median_industries_declared": 6.0,
+   "channels_declared": {
+    "email": 2,
+    "sms": 2,
+    "push": 2,
+    "in-app": 2,
+    "whatsapp": 2,
+    "voice": 1
+   },
+   "vendors_declaring_any_channel": 2,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Healthcare",
+     2
+    ],
+    [
+     "Credit Unions",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://blueshift.com/agentic-customer-ai/",
+    "https://customer.io/llms.txt"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "food-beverage",
+   "label": "Food & Beverage",
+   "vendor_count": 2,
+   "vendors": [
+    "indigitall",
+    "WorksBuddy"
+   ],
+   "surface_forms": {
+    "food & beverage": 1,
+    "food and beverage": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 2,
+   "median_reviews": 5,
+   "median_categories": 1.5,
+   "median_industries_declared": 10.5,
+   "channels_declared": {
+    "email": 2,
+    "voice": 2,
+    "sms": 1,
+    "push": 1,
+    "whatsapp": 1,
+    "rcs": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 2,
+   "hq_countries_published": {},
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Education",
+     2
+    ],
+    [
+     "Logistics",
+     2
+    ],
+    [
+     "Healthcare",
+     2
+    ]
+   ],
+   "source_urls": [
+    "https://indigitall.com/en/product-overview/",
+    "https://worksbuddy.ai/llms.txt"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "higher-education",
+   "label": "Higher Education",
+   "vendor_count": 2,
+   "vendors": [
+    "EZ Texting",
+    "Pitney Bowes"
+   ],
+   "surface_forms": {
+    "higher education": 2
+   },
+   "in_both_sources": 0,
+   "g2": 1,
+   "gartner": 1,
+   "median_reviews": 372.5,
+   "median_categories": 1.0,
+   "median_industries_declared": 10.0,
+   "channels_declared": {
+    "email": 2,
+    "sms": 1,
+    "rcs": 1,
+    "voice": 1
+   },
+   "vendors_declaring_any_channel": 2,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Ecommerce",
+     2
+    ],
+    [
+     "Healthcare",
+     2
+    ],
+    [
+     "Retail",
+     2
+    ]
+   ],
+   "source_urls": [
+    "https://www.eztexting.com/features",
+    "https://www.pitneybowes.com:443/us/your-product-update-hub.html"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "home-services",
+   "label": "Home Services",
+   "vendor_count": 2,
+   "vendors": [
+    "Postalytics",
+    "Thryv"
+   ],
+   "surface_forms": {
+    "home services": 2
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 2,
+   "median_reviews": 10,
+   "median_categories": 1.0,
+   "median_industries_declared": 9.0,
+   "channels_declared": {
+    "email": 2,
+    "direct-mail": 1,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 2,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Financial Services",
+     2
+    ],
+    [
+     "IT",
+     1
+    ],
+    [
+     "Nonprofits",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.postalytics.com/features/",
+    "https://www.thryv.com/features/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "hotels",
+   "label": "Hotels",
+   "vendor_count": 2,
+   "vendors": [
+    "Aislelabs",
+    "Textedly"
+   ],
+   "surface_forms": {
+    "hotels": 3
+   },
+   "in_both_sources": 0,
+   "g2": 1,
+   "gartner": 1,
+   "median_reviews": 1398,
+   "median_categories": 1.0,
+   "median_industries_declared": 6.0,
+   "channels_declared": {
+    "email": 2,
+    "sms": 2,
+    "push": 1,
+    "voice": 1,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 2,
+   "hq_countries_published": {},
+   "pricing_published_yes": 1,
+   "pricing_published_known": 2,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Airports",
+     1
+    ],
+    [
+     "Coffee Shops",
+     1
+    ],
+    [
+     "Mixed-Use",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.aislelabs.com/solutions/",
+    "https://www.textedly.com/features"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "it-services",
+   "label": "IT",
+   "vendor_count": 2,
+   "vendors": [
+    "Postalytics",
+    "WorksBuddy"
+   ],
+   "surface_forms": {
+    "it": 1,
+    "it services": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 2,
+   "median_reviews": null,
+   "median_categories": 1.0,
+   "median_industries_declared": 9.5,
+   "channels_declared": {
+    "email": 2,
+    "direct-mail": 1,
+    "voice": 1
+   },
+   "vendors_declaring_any_channel": 2,
+   "hq_countries_published": {},
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Financial Services",
+     2
+    ],
+    [
+     "Real Estate",
+     2
+    ],
+    [
+     "Home Services",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://worksbuddy.ai/llms.txt",
+    "https://www.postalytics.com/features/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "sports",
+   "label": "Sports",
+   "vendor_count": 2,
+   "vendors": [
+    "Airship",
+    "Braze"
+   ],
+   "surface_forms": {
+    "sports": 2
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 2,
+   "median_reviews": 887.5,
+   "median_categories": 4.0,
+   "median_industries_declared": 9.0,
+   "channels_declared": {
+    "email": 2,
+    "sms": 2,
+    "push": 2,
+    "rcs": 2,
+    "whatsapp": 1,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 2,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 2,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Entertainment",
+     2
+    ],
+    [
+     "Financial Services",
+     2
+    ],
+    [
+     "Travel",
+     2
+    ]
+   ],
+   "source_urls": [
+    "https://braze.com/llms.txt",
+    "https://www.airship.com/platform/collect-customer-data/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "wellness",
+   "label": "Wellness",
+   "vendor_count": 2,
+   "vendors": [
+    "Thryv",
+    "Woosmap"
+   ],
+   "surface_forms": {
+    "wellness": 2
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 2,
+   "median_reviews": 5.5,
+   "median_categories": 1.0,
+   "median_industries_declared": 10.0,
+   "channels_declared": {
+    "email": 2,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 2,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 2,
+   "pricing_published_known": 2,
+   "vendors_with_free_tier": 2,
+   "co_occurring": [
+    [
+     "Financial Services",
+     2
+    ],
+    [
+     "Healthcare",
+     2
+    ],
+    [
+     "Home Services",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.thryv.com/features/",
+    "https://www.woosmap.com/products/map"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "advertising",
+   "label": "Advertising and Marketing",
+   "vendor_count": 1,
+   "vendors": [
+    "Amazon Web Services"
+   ],
+   "surface_forms": {
+    "advertising and marketing": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 8,
+   "median_categories": 1,
+   "median_industries_declared": 3,
+   "channels_declared": {},
+   "vendors_declaring_any_channel": 0,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Aerospace",
+     1
+    ],
+    [
+     "Satellite",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://aws.amazon.com:443/products/?nc2=h_prod"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "agriculture",
+   "label": "Agriculture",
+   "vendor_count": 1,
+   "vendors": [
+    "LeadSquared"
+   ],
+   "surface_forms": {
+    "agriculture": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 35,
+   "median_categories": 1,
+   "median_industries_declared": 9,
+   "channels_declared": {
+    "email": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Automotive",
+     1
+    ],
+    [
+     "Education",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.leadsquared.com/learn/sales/crm-platform/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "airports",
+   "label": "Airports",
+   "vendor_count": 1,
+   "vendors": [
+    "Aislelabs"
+   ],
+   "surface_forms": {
+    "airports": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": null,
+   "median_categories": 1,
+   "median_industries_declared": 6,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Hotels",
+     1
+    ],
+    [
+     "Coffee Shops",
+     1
+    ],
+    [
+     "Mixed-Use",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.aislelabs.com/solutions/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "auto-services",
+   "label": "Auto Services",
+   "vendor_count": 1,
+   "vendors": [
+    "Thryv"
+   ],
+   "surface_forms": {
+    "auto services": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 10,
+   "median_categories": 1,
+   "median_industries_declared": 8,
+   "channels_declared": {
+    "email": 1,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Home Services",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ],
+    [
+     "Beauty",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.thryv.com/features/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "aviation",
+   "label": "Aviation",
+   "vendor_count": 1,
+   "vendors": [
+    "EVAM"
+   ],
+   "surface_forms": {
+    "aviation": 1
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 1,
+   "median_reviews": 227,
+   "median_categories": 2,
+   "median_industries_declared": 4,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "push": 1,
+    "web-push": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Financial Services",
+     1
+    ],
+    [
+     "Telecommunication",
+     1
+    ],
+    [
+     "Airline",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://evam.com/product-demo-hub"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "broadband",
+   "label": "Fiber",
+   "vendor_count": 1,
+   "vendors": [
+    "Postalytics"
+   ],
+   "surface_forms": {
+    "fiber": 1,
+    "broadband": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": null,
+   "median_categories": 1,
+   "median_industries_declared": 10,
+   "channels_declared": {
+    "email": 1,
+    "direct-mail": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Home Services",
+     1
+    ],
+    [
+     "IT",
+     1
+    ],
+    [
+     "Nonprofits",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.postalytics.com/features/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "business-services",
+   "label": "Business Services",
+   "vendor_count": 1,
+   "vendors": [
+    "Creatio"
+   ],
+   "surface_forms": {
+    "business services": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 60,
+   "median_categories": 1,
+   "median_industries_declared": 12,
+   "channels_declared": {},
+   "vendors_declaring_any_channel": 0,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Pharma",
+     1
+    ],
+    [
+     "Credit Unions",
+     1
+    ],
+    [
+     "Technology",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.creatio.com/products/pricing"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "car-dealerships",
+   "label": "Car Dealerships",
+   "vendor_count": 1,
+   "vendors": [
+    "EZ Texting"
+   ],
+   "surface_forms": {
+    "car dealerships": 1
+   },
+   "in_both_sources": 0,
+   "g2": 1,
+   "gartner": 0,
+   "median_reviews": 744,
+   "median_categories": 1,
+   "median_industries_declared": 12,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "rcs": 1,
+    "voice": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Nonprofits",
+     1
+    ],
+    [
+     "Higher Education",
+     1
+    ],
+    [
+     "Churches",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.eztexting.com/features"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "churches",
+   "label": "Churches",
+   "vendor_count": 1,
+   "vendors": [
+    "EZ Texting"
+   ],
+   "surface_forms": {
+    "churches": 1
+   },
+   "in_both_sources": 0,
+   "g2": 1,
+   "gartner": 0,
+   "median_reviews": 744,
+   "median_categories": 1,
+   "median_industries_declared": 12,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "rcs": 1,
+    "voice": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Nonprofits",
+     1
+    ],
+    [
+     "Higher Education",
+     1
+    ],
+    [
+     "Ecommerce",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.eztexting.com/features"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "coffee-shops",
+   "label": "Coffee Shops",
+   "vendor_count": 1,
+   "vendors": [
+    "Aislelabs"
+   ],
+   "surface_forms": {
+    "coffee shops": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": null,
+   "median_categories": 1,
+   "median_industries_declared": 6,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Airports",
+     1
+    ],
+    [
+     "Hotels",
+     1
+    ],
+    [
+     "Mixed-Use",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.aislelabs.com/solutions/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "d2c",
+   "label": "D2C",
+   "vendor_count": 1,
+   "vendors": [
+    "Nvecta"
+   ],
+   "surface_forms": {
+    "d2c": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": null,
+   "median_categories": 2,
+   "median_industries_declared": 5,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "push": 1,
+    "whatsapp": 1,
+    "voice": 1,
+    "ads": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Ecommerce",
+     1
+    ],
+    [
+     "Insurance",
+     1
+    ],
+    [
+     "Mutual Funds",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.nvecta.com:443/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "defense",
+   "label": "Defense",
+   "vendor_count": 1,
+   "vendors": [
+    "HCLTech"
+   ],
+   "surface_forms": {
+    "defense": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 119,
+   "median_categories": 1,
+   "median_industries_declared": 14,
+   "channels_declared": {
+    "email": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Automotive",
+     1
+    ],
+    [
+     "Life Sciences",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.hcltech.com/platform-based-services"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "distribution",
+   "label": "Distribution",
+   "vendor_count": 1,
+   "vendors": [
+    "Rapidops"
+   ],
+   "surface_forms": {
+    "distribution": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 2,
+   "median_categories": 2,
+   "median_industries_declared": 3,
+   "channels_declared": {
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Retail",
+     1
+    ],
+    [
+     "Manufacturing",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.rapidops.com/services/product-development/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "financial-advisors",
+   "label": "Financial Advisors",
+   "vendor_count": 1,
+   "vendors": [
+    "Act-On"
+   ],
+   "surface_forms": {
+    "financial advisors": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 100,
+   "median_categories": 2,
+   "median_industries_declared": 7,
+   "channels_declared": {
+    "email": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Credit Unions",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ],
+    [
+     "Manufacturing",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://act-on.com/solutions/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "fuel-retail",
+   "label": "Fuel Retail",
+   "vendor_count": 1,
+   "vendors": [
+    "Capillary Technologies"
+   ],
+   "surface_forms": {
+    "fuel retail": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 24,
+   "median_categories": 2,
+   "median_industries_declared": 5,
+   "channels_declared": {},
+   "vendors_declaring_any_channel": 0,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Hospitality",
+     1
+    ],
+    [
+     "CPG",
+     1
+    ],
+    [
+     "Retail",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.capillarytech.com/products/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "k12-education",
+   "label": "Education (K-12)",
+   "vendor_count": 1,
+   "vendors": [
+    "EZ Texting"
+   ],
+   "surface_forms": {
+    "education (k-12)": 1
+   },
+   "in_both_sources": 0,
+   "g2": 1,
+   "gartner": 0,
+   "median_reviews": 744,
+   "median_categories": 1,
+   "median_industries_declared": 12,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "rcs": 1,
+    "voice": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Nonprofits",
+     1
+    ],
+    [
+     "Higher Education",
+     1
+    ],
+    [
+     "Churches",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.eztexting.com/features"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "last-mile-delivery",
+   "label": "Last-Mile Delivery",
+   "vendor_count": 1,
+   "vendors": [
+    "Woosmap"
+   ],
+   "surface_forms": {
+    "last-mile delivery": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 1,
+   "median_categories": 1,
+   "median_industries_declared": 12,
+   "channels_declared": {
+    "email": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Automotive",
+     1
+    ],
+    [
+     "Government",
+     1
+    ],
+    [
+     "Logistics",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.woosmap.com/products/map"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "lending",
+   "label": "Lending",
+   "vendor_count": 1,
+   "vendors": [
+    "Nvecta"
+   ],
+   "surface_forms": {
+    "lending": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": null,
+   "median_categories": 2,
+   "median_industries_declared": 5,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "push": 1,
+    "whatsapp": 1,
+    "voice": 1,
+    "ads": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "D2C",
+     1
+    ],
+    [
+     "Insurance",
+     1
+    ],
+    [
+     "Mutual Funds",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.nvecta.com:443/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "luxury",
+   "label": "Luxury",
+   "vendor_count": 1,
+   "vendors": [
+    "Braze"
+   ],
+   "surface_forms": {
+    "luxury": 1
+   },
+   "in_both_sources": 1,
+   "g2": 1,
+   "gartner": 1,
+   "median_reviews": 1688,
+   "median_categories": 6,
+   "median_industries_declared": 9,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "push": 1,
+    "whatsapp": 1,
+    "rcs": 1,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Gaming",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ],
+    [
+     "Travel",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://braze.com/llms.txt"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "mixed-use",
+   "label": "Mixed-Use",
+   "vendor_count": 1,
+   "vendors": [
+    "Aislelabs"
+   ],
+   "surface_forms": {
+    "mixed-use": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": null,
+   "median_categories": 1,
+   "median_industries_declared": 6,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Airports",
+     1
+    ],
+    [
+     "Coffee Shops",
+     1
+    ],
+    [
+     "Hotels",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.aislelabs.com/solutions/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "mortgage",
+   "label": "Mortgage",
+   "vendor_count": 1,
+   "vendors": [
+    "Creatio"
+   ],
+   "surface_forms": {
+    "mortgage": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 60,
+   "median_categories": 1,
+   "median_industries_declared": 12,
+   "channels_declared": {},
+   "vendors_declaring_any_channel": 0,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Pharma",
+     1
+    ],
+    [
+     "Credit Unions",
+     1
+    ],
+    [
+     "Technology",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.creatio.com/products/pricing"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "mutual-funds",
+   "label": "Mutual Funds",
+   "vendor_count": 1,
+   "vendors": [
+    "Nvecta"
+   ],
+   "surface_forms": {
+    "mutual funds": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": null,
+   "median_categories": 2,
+   "median_industries_declared": 5,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "push": 1,
+    "whatsapp": 1,
+    "voice": 1,
+    "ads": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "D2C",
+     1
+    ],
+    [
+     "Insurance",
+     1
+    ],
+    [
+     "Ecommerce",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.nvecta.com:443/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "oil-gas",
+   "label": "Oil & Gas",
+   "vendor_count": 1,
+   "vendors": [
+    "Tech Mahindra"
+   ],
+   "surface_forms": {
+    "oil & gas": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 9,
+   "median_categories": 3,
+   "median_industries_declared": 15,
+   "channels_declared": {
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {
+    "IN": 1
+   },
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Media",
+     1
+    ],
+    [
+     "Education",
+     1
+    ],
+    [
+     "Life Sciences",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.techmahindra.com/products-and-platforms/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "online-trading",
+   "label": "Online Trading",
+   "vendor_count": 1,
+   "vendors": [
+    "Optimove"
+   ],
+   "surface_forms": {
+    "online trading": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 128,
+   "median_categories": 2,
+   "median_industries_declared": 9,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "push": 1,
+    "whatsapp": 1,
+    "rcs": 1,
+    "voice": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Gaming",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ],
+    [
+     "Ecommerce",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.optimove.com/platform/engage"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "pet-services",
+   "label": "Pet Services",
+   "vendor_count": 1,
+   "vendors": [
+    "Thryv"
+   ],
+   "surface_forms": {
+    "pet services": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 10,
+   "median_categories": 1,
+   "median_industries_declared": 8,
+   "channels_declared": {
+    "email": 1,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {
+    "US": 1
+   },
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Home Services",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ],
+    [
+     "Beauty",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.thryv.com/features/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "pharma",
+   "label": "Pharma",
+   "vendor_count": 1,
+   "vendors": [
+    "Creatio"
+   ],
+   "surface_forms": {
+    "pharma": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 60,
+   "median_categories": 1,
+   "median_industries_declared": 12,
+   "channels_declared": {},
+   "vendors_declaring_any_channel": 0,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Credit Unions",
+     1
+    ],
+    [
+     "Technology",
+     1
+    ],
+    [
+     "Manufacturing",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.creatio.com/products/pricing"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "pharmacy",
+   "label": "Pharmacy",
+   "vendor_count": 1,
+   "vendors": [
+    "Pitney Bowes"
+   ],
+   "surface_forms": {
+    "pharmacy": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 1,
+   "median_categories": 1,
+   "median_industries_declared": 8,
+   "channels_declared": {
+    "email": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Higher Education",
+     1
+    ],
+    [
+     "Government",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.pitneybowes.com:443/us/your-product-update-hub.html"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "prediction-markets",
+   "label": "Prediction Markets",
+   "vendor_count": 1,
+   "vendors": [
+    "Optimove"
+   ],
+   "surface_forms": {
+    "prediction markets": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 128,
+   "median_categories": 2,
+   "median_industries_declared": 9,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "push": 1,
+    "whatsapp": 1,
+    "rcs": 1,
+    "voice": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Gaming",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ],
+    [
+     "Ecommerce",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.optimove.com/platform/engage"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "private-equity",
+   "label": "Private Equity",
+   "vendor_count": 1,
+   "vendors": [
+    "Tech Mahindra"
+   ],
+   "surface_forms": {
+    "private equity": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 9,
+   "median_categories": 3,
+   "median_industries_declared": 15,
+   "channels_declared": {
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {
+    "IN": 1
+   },
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Media",
+     1
+    ],
+    [
+     "Education",
+     1
+    ],
+    [
+     "Life Sciences",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.techmahindra.com/products-and-platforms/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "proptech",
+   "label": "PropTech",
+   "vendor_count": 1,
+   "vendors": [
+    "Precisely"
+   ],
+   "surface_forms": {
+    "proptech": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 9,
+   "median_categories": 1,
+   "median_industries_declared": 10,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Government",
+     1
+    ],
+    [
+     "Supply Chain",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.precisely.com/solutions/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "salons",
+   "label": "Salons",
+   "vendor_count": 1,
+   "vendors": [
+    "Textedly"
+   ],
+   "surface_forms": {
+    "salons": 2
+   },
+   "in_both_sources": 0,
+   "g2": 1,
+   "gartner": 0,
+   "median_reviews": 1398,
+   "median_categories": 1,
+   "median_industries_declared": 6,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "push": 1,
+    "voice": 1,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Hotels",
+     1
+    ],
+    [
+     "Nonprofits",
+     1
+    ],
+    [
+     "Spas",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.textedly.com/features"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "satellite",
+   "label": "Satellite",
+   "vendor_count": 1,
+   "vendors": [
+    "Amazon Web Services"
+   ],
+   "surface_forms": {
+    "satellite": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 8,
+   "median_categories": 1,
+   "median_industries_declared": 3,
+   "channels_declared": {},
+   "vendors_declaring_any_channel": 0,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Advertising and Marketing",
+     1
+    ],
+    [
+     "Aerospace",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://aws.amazon.com:443/products/?nc2=h_prod"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "shopping-centres",
+   "label": "Shopping Centers",
+   "vendor_count": 1,
+   "vendors": [
+    "Aislelabs"
+   ],
+   "surface_forms": {
+    "shopping centers": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": null,
+   "median_categories": 1,
+   "median_industries_declared": 6,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Airports",
+     1
+    ],
+    [
+     "Coffee Shops",
+     1
+    ],
+    [
+     "Hotels",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.aislelabs.com/solutions/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "smart-cities",
+   "label": "Smart Cities",
+   "vendor_count": 1,
+   "vendors": [
+    "Aislelabs"
+   ],
+   "surface_forms": {
+    "smart cities": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": null,
+   "median_categories": 1,
+   "median_industries_declared": 6,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Airports",
+     1
+    ],
+    [
+     "Coffee Shops",
+     1
+    ],
+    [
+     "Hotels",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.aislelabs.com/solutions/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "software",
+   "label": "Software",
+   "vendor_count": 1,
+   "vendors": [
+    "Postalytics"
+   ],
+   "surface_forms": {
+    "software": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": null,
+   "median_categories": 1,
+   "median_industries_declared": 10,
+   "channels_declared": {
+    "email": 1,
+    "direct-mail": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Home Services",
+     1
+    ],
+    [
+     "IT",
+     1
+    ],
+    [
+     "Nonprofits",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.postalytics.com/features/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "spas",
+   "label": "Spas",
+   "vendor_count": 1,
+   "vendors": [
+    "Textedly"
+   ],
+   "surface_forms": {
+    "spas": 2
+   },
+   "in_both_sources": 0,
+   "g2": 1,
+   "gartner": 0,
+   "median_reviews": 1398,
+   "median_categories": 1,
+   "median_industries_declared": 6,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "push": 1,
+    "voice": 1,
+    "ads": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 1,
+   "co_occurring": [
+    [
+     "Hotels",
+     1
+    ],
+    [
+     "Nonprofits",
+     1
+    ],
+    [
+     "Salons",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.textedly.com/features"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "supply-chain",
+   "label": "Supply Chain",
+   "vendor_count": 1,
+   "vendors": [
+    "Precisely"
+   ],
+   "surface_forms": {
+    "supply chain": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 9,
+   "median_categories": 1,
+   "median_industries_declared": 10,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "chat": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 0,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Government",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ],
+    [
+     "PropTech",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.precisely.com/solutions/"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "ticketing",
+   "label": "Ticketing",
+   "vendor_count": 1,
+   "vendors": [
+    "Vibes"
+   ],
+   "surface_forms": {
+    "ticketing": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 63,
+   "median_categories": 1,
+   "median_industries_declared": 7,
+   "channels_declared": {
+    "email": 1,
+    "sms": 1,
+    "push": 1,
+    "rcs": 1
+   },
+   "vendors_declaring_any_channel": 1,
+   "hq_countries_published": {},
+   "pricing_published_yes": 1,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Automotive",
+     1
+    ],
+    [
+     "Financial Services",
+     1
+    ],
+    [
+     "Hospitality",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.vibes.com/platform"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  },
+  {
+   "key": "transportation",
+   "label": "Transportation",
+   "vendor_count": 1,
+   "vendors": [
+    "Creatio"
+   ],
+   "surface_forms": {
+    "transportation": 1
+   },
+   "in_both_sources": 0,
+   "g2": 0,
+   "gartner": 1,
+   "median_reviews": 60,
+   "median_categories": 1,
+   "median_industries_declared": 12,
+   "channels_declared": {},
+   "vendors_declaring_any_channel": 0,
+   "hq_countries_published": {},
+   "pricing_published_yes": 0,
+   "pricing_published_known": 1,
+   "vendors_with_free_tier": 0,
+   "co_occurring": [
+    [
+     "Pharma",
+     1
+    ],
+    [
+     "Credit Unions",
+     1
+    ],
+    [
+     "Technology",
+     1
+    ]
+   ],
+   "source_urls": [
+    "https://www.creatio.com/products/pricing"
+   ],
+   "grade": "PRIMARY",
+   "rung": 1,
+   "source_class": "SELF-DECLARED"
+  }
+ ],
+ "segments_not_industries": {
+  "enterprise": 2,
+  "agencies": 2,
+  "on-demand": 1,
+  "marketplace": 1,
+  "mgmt. consulting": 1,
+  "conglomerates": 1,
+  "mobile apps": 1,
+  "marketers": 1,
+  "startups": 1,
+  "franchises": 1,
+  "franchisees": 1,
+  "operators": 1,
+  "b2b": 1,
+  "digital native businesses": 1,
+  "business": 1,
+  "in-house marketing": 1,
+  "in-house operations": 1,
+  "consultants": 1,
+  "operations": 1,
+  "operations service providers": 1,
+  "small business": 1,
+  "marketplaces": 1,
+  "startups & scaleups": 1,
+  "technical": 1,
+  "cx teams": 1,
+  "customer service": 1
+ },
+ "disposition": {
+  "About": [
+   {
+    "atom": "about",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "about",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "about",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "About Us": [
+   {
+    "atom": "about us",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Academics": [
+   {
+    "atom": "academics",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Advertising and Marketing": [
+   {
+    "atom": "advertising and marketing",
+    "bucket": "INDUSTRY",
+    "ruling": "advertising"
+   }
+  ],
+  "Aerospace and Defense": [
+   {
+    "atom": "aerospace",
+    "bucket": "INDUSTRY",
+    "ruling": "aerospace"
+   },
+   {
+    "atom": "defense",
+    "bucket": "INDUSTRY",
+    "ruling": "defense"
+   }
+  ],
+  "Aerospace and Satellite": [
+   {
+    "atom": "aerospace",
+    "bucket": "INDUSTRY",
+    "ruling": "aerospace"
+   },
+   {
+    "atom": "satellite",
+    "bucket": "INDUSTRY",
+    "ruling": "satellite"
+   }
+  ],
+  "Agencies": [
+   {
+    "atom": "agencies",
+    "bucket": "SEGMENT",
+    "ruling": "competitor class 3 - services firms"
+   }
+  ],
+  "Agencies and Consultants": [
+   {
+    "atom": "agencies",
+    "bucket": "SEGMENT",
+    "ruling": "competitor class 3 - services firms"
+   },
+   {
+    "atom": "consultants",
+    "bucket": "SEGMENT",
+    "ruling": "competitor class 3 - services firms"
+   }
+  ],
+  "Agriculture": [
+   {
+    "atom": "agriculture",
+    "bucket": "INDUSTRY",
+    "ruling": "agriculture"
+   }
+  ],
+  "Airline": [
+   {
+    "atom": "airline",
+    "bucket": "INDUSTRY",
+    "ruling": "airlines"
+   }
+  ],
+  "Airline & Aviation": [
+   {
+    "atom": "airline",
+    "bucket": "INDUSTRY",
+    "ruling": "airlines"
+   },
+   {
+    "atom": "aviation",
+    "bucket": "INDUSTRY",
+    "ruling": "aviation"
+   }
+  ],
+  "Airship guarantees results": [
+   {
+    "atom": "airship guarantees results",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "All Capabilities": [
+   {
+    "atom": "all capabilities",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "All Industries": [
+   {
+    "atom": "all industries",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "all industries",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "all industries",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "All industries": [
+   {
+    "atom": "all industries",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Already a customer? Log in here.": [
+   {
+    "atom": "already a customer? log in here.",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Audience monetization and retention": [
+   {
+    "atom": "audience monetization and retention",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Auto Services": [
+   {
+    "atom": "auto services",
+    "bucket": "INDUSTRY",
+    "ruling": "auto-services"
+   }
+  ],
+  "Automobile": [
+   {
+    "atom": "automobile",
+    "bucket": "INDUSTRY",
+    "ruling": "automotive"
+   }
+  ],
+  "Automotive": [
+   {
+    "atom": "automotive",
+    "bucket": "INDUSTRY",
+    "ruling": "automotive"
+   },
+   {
+    "atom": "automotive",
+    "bucket": "INDUSTRY",
+    "ruling": "automotive"
+   },
+   {
+    "atom": "automotive",
+    "bucket": "INDUSTRY",
+    "ruling": "automotive"
+   },
+   {
+    "atom": "automotive",
+    "bucket": "INDUSTRY",
+    "ruling": "automotive"
+   },
+   {
+    "atom": "automotive",
+    "bucket": "INDUSTRY",
+    "ruling": "automotive"
+   },
+   {
+    "atom": "automotive",
+    "bucket": "INDUSTRY",
+    "ruling": "automotive"
+   },
+   {
+    "atom": "automotive",
+    "bucket": "INDUSTRY",
+    "ruling": "automotive"
+   }
+  ],
+  "Awards": [
+   {
+    "atom": "awards",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "B2B": [
+   {
+    "atom": "b2b",
+    "bucket": "SEGMENT",
+    "ruling": "go-to-market"
+   }
+  ],
+  "Back": [
+   {
+    "atom": "back",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Bank & Insurance": [
+   {
+    "atom": "bank",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   }
+  ],
+  "Banking": [
+   {
+    "atom": "banking",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   },
+   {
+    "atom": "banking",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   },
+   {
+    "atom": "banking",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   }
+  ],
+  "Banking & Finance": [
+   {
+    "atom": "banking",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   },
+   {
+    "atom": "finance",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   }
+  ],
+  "Banking & Financial Services": [
+   {
+    "atom": "banking",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "banking",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   }
+  ],
+  "Banking & financial services": [
+   {
+    "atom": "banking",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   }
+  ],
+  "Banking and Credit Unions": [
+   {
+    "atom": "banking",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   },
+   {
+    "atom": "credit unions",
+    "bucket": "INDUSTRY",
+    "ruling": "credit-unions"
+   }
+  ],
+  "Banking and Finance": [
+   {
+    "atom": "banking",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   },
+   {
+    "atom": "finance",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   }
+  ],
+  "Banks & Credit Union": [
+   {
+    "atom": "banks",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   },
+   {
+    "atom": "credit union",
+    "bucket": "INDUSTRY",
+    "ruling": "credit-unions"
+   }
+  ],
+  "Beauty & Cosmetics": [
+   {
+    "atom": "beauty",
+    "bucket": "INDUSTRY",
+    "ruling": "beauty"
+   },
+   {
+    "atom": "cosmetics",
+    "bucket": "INDUSTRY",
+    "ruling": "beauty"
+   }
+  ],
+  "Beauty & Wellness": [
+   {
+    "atom": "beauty",
+    "bucket": "INDUSTRY",
+    "ruling": "beauty"
+   },
+   {
+    "atom": "wellness",
+    "bucket": "INDUSTRY",
+    "ruling": "wellness"
+   }
+  ],
+  "Blog": [
+   {
+    "atom": "blog",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "blog",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "blog",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "blog",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "blog",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "blog",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "blog",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "blog",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Blogs": [
+   {
+    "atom": "blogs",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Books": [
+   {
+    "atom": "books",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Books and reports": [
+   {
+    "atom": "books and reports",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Boost prof": [
+   {
+    "atom": "boost prof",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Business": [
+   {
+    "atom": "business",
+    "bucket": "SEGMENT",
+    "ruling": "too generic"
+   }
+  ],
+  "Business Services": [
+   {
+    "atom": "business services",
+    "bucket": "INDUSTRY",
+    "ruling": "business-services"
+   }
+  ],
+  "By Team": [
+   {
+    "atom": "by team",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "By Use Case": [
+   {
+    "atom": "by use case",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "By organization type": [
+   {
+    "atom": "by organization type",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "By use case": [
+   {
+    "atom": "by use case",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "CPG": [
+   {
+    "atom": "cpg",
+    "bucket": "INDUSTRY",
+    "ruling": "cpg"
+   },
+   {
+    "atom": "cpg",
+    "bucket": "INDUSTRY",
+    "ruling": "cpg"
+   },
+   {
+    "atom": "cpg",
+    "bucket": "INDUSTRY",
+    "ruling": "cpg"
+   }
+  ],
+  "CPG/ FMCG": [
+   {
+    "atom": "cpg",
+    "bucket": "INDUSTRY",
+    "ruling": "cpg"
+   },
+   {
+    "atom": "fmcg",
+    "bucket": "INDUSTRY",
+    "ruling": "cpg"
+   }
+  ],
+  "CX Teams": [
+   {
+    "atom": "cx teams",
+    "bucket": "SEGMENT",
+    "ruling": "buyer role"
+   }
+  ],
+  "Capabilities": [
+   {
+    "atom": "capabilities",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Capital Markets": [
+   {
+    "atom": "capital markets",
+    "bucket": "INDUSTRY",
+    "ruling": "capital-markets"
+   }
+  ],
+  "Car Dealerships": [
+   {
+    "atom": "car dealerships",
+    "bucket": "INDUSTRY",
+    "ruling": "car-dealerships"
+   }
+  ],
+  "Careers": [
+   {
+    "atom": "careers",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Case Studies": [
+   {
+    "atom": "case studies",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "case studies",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "case studies",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Case studies": [
+   {
+    "atom": "case studies",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Certification": [
+   {
+    "atom": "certification",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Channels": [
+   {
+    "atom": "channels",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "channels",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Churches": [
+   {
+    "atom": "churches",
+    "bucket": "INDUSTRY",
+    "ruling": "churches"
+   }
+  ],
+  "Click for Demo": [
+   {
+    "atom": "click for demo",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "click for demo",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "click for demo",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Clients": [
+   {
+    "atom": "clients",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Clinics, dental, chiro": [
+   {
+    "atom": "clinics, dental, chiro",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Close Resources": [
+   {
+    "atom": "close resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Communications": [
+   {
+    "atom": "communications",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   }
+  ],
+  "Communities": [
+   {
+    "atom": "communities",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Company": [
+   {
+    "atom": "company",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "company",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "company",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "company",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Compare": [
+   {
+    "atom": "compare",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Compliant CDP for regulated sectors": [
+   {
+    "atom": "compliant cdp for regulated sectors",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Conglomerates": [
+   {
+    "atom": "conglomerates",
+    "bucket": "SEGMENT",
+    "ruling": "org type"
+   }
+  ],
+  "Consumer Goods": [
+   {
+    "atom": "consumer goods",
+    "bucket": "INDUSTRY",
+    "ruling": "cpg"
+   }
+  ],
+  "Consumer packaged goods": [
+   {
+    "atom": "consumer packaged goods",
+    "bucket": "INDUSTRY",
+    "ruling": "cpg"
+   }
+  ],
+  "Contact": [
+   {
+    "atom": "contact",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Contact Us": [
+   {
+    "atom": "contact us",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "contact us",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "contact us",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Contact us – Netmera": [
+   {
+    "atom": "contact us – netmera",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Content library": [
+   {
+    "atom": "content library",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Convert More Customers": [
+   {
+    "atom": "convert more customers",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Credit Unions": [
+   {
+    "atom": "credit unions",
+    "bucket": "INDUSTRY",
+    "ruling": "credit-unions"
+   }
+  ],
+  "Customer Service": [
+   {
+    "atom": "customer service",
+    "bucket": "SEGMENT",
+    "ruling": "buyer role"
+   }
+  ],
+  "Customer Stories": [
+   {
+    "atom": "customer stories",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Customer case studies": [
+   {
+    "atom": "customer case studies",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Customer stories": [
+   {
+    "atom": "customer stories",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Customers": [
+   {
+    "atom": "customers",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Cybele": [
+   {
+    "atom": "cybele",
+    "bucket": "REJECTED",
+    "ruling": "named client or vendor, not an industry"
+   }
+  ],
+  "Developer Hub": [
+   {
+    "atom": "developer hub",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Digital Native Businesses": [
+   {
+    "atom": "digital native businesses",
+    "bucket": "SEGMENT",
+    "ruling": "business model"
+   }
+  ],
+  "Digital certified mail": [
+   {
+    "atom": "digital certified mail",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Direct Mail API": [
+   {
+    "atom": "direct mail api",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Direct Mail Editor": [
+   {
+    "atom": "direct mail editor",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Direct Mail Mailing Lists": [
+   {
+    "atom": "direct mail mailing lists",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Display": [
+   {
+    "atom": "display",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Distribution": [
+   {
+    "atom": "distribution",
+    "bucket": "INDUSTRY",
+    "ruling": "distribution"
+   }
+  ],
+  "Download": [
+   {
+    "atom": "download",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Drive Engagement": [
+   {
+    "atom": "drive engagement",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "E-Commerce": [
+   {
+    "atom": "e-commerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   }
+  ],
+  "E-commerce": [
+   {
+    "atom": "e-commerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   },
+   {
+    "atom": "e-commerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   }
+  ],
+  "Earthy Orgins": [
+   {
+    "atom": "earthy orgins",
+    "bucket": "REJECTED",
+    "ruling": "named client or vendor, not an industry"
+   }
+  ],
+  "Ebooks + Guides": [
+   {
+    "atom": "ebooks + guides",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Ecommerce": [
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   },
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   }
+  ],
+  "EdTech": [
+   {
+    "atom": "edtech",
+    "bucket": "INDUSTRY",
+    "ruling": "edtech"
+   },
+   {
+    "atom": "edtech",
+    "bucket": "INDUSTRY",
+    "ruling": "edtech"
+   }
+  ],
+  "Education": [
+   {
+    "atom": "education",
+    "bucket": "INDUSTRY",
+    "ruling": "education"
+   },
+   {
+    "atom": "education",
+    "bucket": "INDUSTRY",
+    "ruling": "education"
+   },
+   {
+    "atom": "education",
+    "bucket": "INDUSTRY",
+    "ruling": "education"
+   },
+   {
+    "atom": "education",
+    "bucket": "INDUSTRY",
+    "ruling": "education"
+   },
+   {
+    "atom": "education",
+    "bucket": "INDUSTRY",
+    "ruling": "education"
+   },
+   {
+    "atom": "education",
+    "bucket": "INDUSTRY",
+    "ruling": "education"
+   }
+  ],
+  "Education (K-12)": [
+   {
+    "atom": "education (k-12)",
+    "bucket": "INDUSTRY",
+    "ruling": "k12-education"
+   }
+  ],
+  "Education Industry Solutions": [
+   {
+    "atom": "education",
+    "bucket": "INDUSTRY",
+    "ruling": "education"
+   }
+  ],
+  "Email": [
+   {
+    "atom": "email",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Email Marketing": [
+   {
+    "atom": "email marketing",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Energy & Utilities": [
+   {
+    "atom": "energy",
+    "bucket": "INDUSTRY",
+    "ruling": "energy"
+   },
+   {
+    "atom": "utilities",
+    "bucket": "INDUSTRY",
+    "ruling": "utilities"
+   },
+   {
+    "atom": "energy",
+    "bucket": "INDUSTRY",
+    "ruling": "energy"
+   },
+   {
+    "atom": "utilities",
+    "bucket": "INDUSTRY",
+    "ruling": "utilities"
+   },
+   {
+    "atom": "energy",
+    "bucket": "INDUSTRY",
+    "ruling": "energy"
+   },
+   {
+    "atom": "utilities",
+    "bucket": "INDUSTRY",
+    "ruling": "utilities"
+   }
+  ],
+  "Energy & utilities": [
+   {
+    "atom": "energy",
+    "bucket": "INDUSTRY",
+    "ruling": "energy"
+   },
+   {
+    "atom": "utilities",
+    "bucket": "INDUSTRY",
+    "ruling": "utilities"
+   }
+  ],
+  "Energy and HVAC Optimization": [
+   {
+    "atom": "energy and hvac optimization",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Energy and Utilities": [
+   {
+    "atom": "energy",
+    "bucket": "INDUSTRY",
+    "ruling": "energy"
+   },
+   {
+    "atom": "utilities",
+    "bucket": "INDUSTRY",
+    "ruling": "utilities"
+   }
+  ],
+  "English": [
+   {
+    "atom": "english",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Enterprise": [
+   {
+    "atom": "enterprise",
+    "bucket": "SEGMENT",
+    "ruling": "company size"
+   },
+   {
+    "atom": "enterprise",
+    "bucket": "SEGMENT",
+    "ruling": "company size"
+   }
+  ],
+  "Entertainment & Media": [
+   {
+    "atom": "entertainment",
+    "bucket": "INDUSTRY",
+    "ruling": "entertainment"
+   },
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   }
+  ],
+  "Entertainment & Ticketing": [
+   {
+    "atom": "entertainment",
+    "bucket": "INDUSTRY",
+    "ruling": "entertainment"
+   },
+   {
+    "atom": "ticketing",
+    "bucket": "INDUSTRY",
+    "ruling": "ticketing"
+   }
+  ],
+  "Enthusiast Hotels": [
+   {
+    "atom": "enthusiast hotels",
+    "bucket": "REJECTED",
+    "ruling": "named client or vendor, not an industry"
+   }
+  ],
+  "Event": [
+   {
+    "atom": "event",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Expand menu": [
+   {
+    "atom": "expand menu",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "expand menu",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Explore More": [
+   {
+    "atom": "explore more",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Explore industries": [
+   {
+    "atom": "explore industries",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Explore our Solution Suite": [
+   {
+    "atom": "explore our solution suite",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "FEATURED": [
+   {
+    "atom": "featured",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "FMCG": [
+   {
+    "atom": "fmcg",
+    "bucket": "INDUSTRY",
+    "ruling": "cpg"
+   }
+  ],
+  "Features": [
+   {
+    "atom": "features",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Fiber/Broadband": [
+   {
+    "atom": "fiber",
+    "bucket": "INDUSTRY",
+    "ruling": "broadband"
+   },
+   {
+    "atom": "broadband",
+    "bucket": "INDUSTRY",
+    "ruling": "broadband"
+   }
+  ],
+  "Finance": [
+   {
+    "atom": "finance",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "finance",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "finance",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   }
+  ],
+  "Finance & Insurance": [
+   {
+    "atom": "finance",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   }
+  ],
+  "Finance & insurance": [
+   {
+    "atom": "finance",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   }
+  ],
+  "Financial Advisors": [
+   {
+    "atom": "financial advisors",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-advisors"
+   }
+  ],
+  "Financial Services": [
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   }
+  ],
+  "Financial Services and Banking": [
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "banking",
+    "bucket": "INDUSTRY",
+    "ruling": "banking"
+   }
+  ],
+  "Financial services": [
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   },
+   {
+    "atom": "financial services",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   }
+  ],
+  "Fintech": [
+   {
+    "atom": "fintech",
+    "bucket": "INDUSTRY",
+    "ruling": "fintech"
+   },
+   {
+    "atom": "fintech",
+    "bucket": "INDUSTRY",
+    "ruling": "fintech"
+   },
+   {
+    "atom": "fintech",
+    "bucket": "INDUSTRY",
+    "ruling": "fintech"
+   }
+  ],
+  "Fintech/Financial": [
+   {
+    "atom": "fintech",
+    "bucket": "INDUSTRY",
+    "ruling": "fintech"
+   },
+   {
+    "atom": "financial",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   }
+  ],
+  "Food & Beverage": [
+   {
+    "atom": "food & beverage",
+    "bucket": "INDUSTRY",
+    "ruling": "food-beverage"
+   }
+  ],
+  "For Airports": [
+   {
+    "atom": "airports",
+    "bucket": "INDUSTRY",
+    "ruling": "airports"
+   }
+  ],
+  "For Coffee Shops": [
+   {
+    "atom": "coffee shops",
+    "bucket": "INDUSTRY",
+    "ruling": "coffee-shops"
+   }
+  ],
+  "For Hotels": [
+   {
+    "atom": "hotels",
+    "bucket": "INDUSTRY",
+    "ruling": "hotels"
+   }
+  ],
+  "For Mixed-Use": [
+   {
+    "atom": "mixed-use",
+    "bucket": "INDUSTRY",
+    "ruling": "mixed-use"
+   }
+  ],
+  "For Shopping Centers": [
+   {
+    "atom": "shopping centers",
+    "bucket": "INDUSTRY",
+    "ruling": "shopping-centres"
+   }
+  ],
+  "For Smart Cities": [
+   {
+    "atom": "smart cities",
+    "bucket": "INDUSTRY",
+    "ruling": "smart-cities"
+   }
+  ],
+  "Franchisees & Operators": [
+   {
+    "atom": "franchisees",
+    "bucket": "SEGMENT",
+    "ruling": "ownership model"
+   },
+   {
+    "atom": "operators",
+    "bucket": "SEGMENT",
+    "ruling": "ownership model"
+   }
+  ],
+  "Franchises": [
+   {
+    "atom": "franchises",
+    "bucket": "SEGMENT",
+    "ruling": "ownership model"
+   },
+   {
+    "atom": "franchises",
+    "bucket": "SEGMENT",
+    "ruling": "ownership model"
+   }
+  ],
+  "Fuel Retail": [
+   {
+    "atom": "fuel retail",
+    "bucket": "INDUSTRY",
+    "ruling": "fuel-retail"
+   }
+  ],
+  "Gaming": [
+   {
+    "atom": "gaming",
+    "bucket": "INDUSTRY",
+    "ruling": "gaming"
+   },
+   {
+    "atom": "gaming",
+    "bucket": "INDUSTRY",
+    "ruling": "gaming"
+   },
+   {
+    "atom": "gaming",
+    "bucket": "INDUSTRY",
+    "ruling": "gaming"
+   },
+   {
+    "atom": "gaming",
+    "bucket": "INDUSTRY",
+    "ruling": "gaming"
+   }
+  ],
+  "German / Deutsch": [
+   {
+    "atom": "german / deutsch",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Glossary": [
+   {
+    "atom": "glossary",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Go to industry hub": [
+   {
+    "atom": "go to industry hub",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Government": [
+   {
+    "atom": "government",
+    "bucket": "INDUSTRY",
+    "ruling": "government"
+   },
+   {
+    "atom": "government",
+    "bucket": "INDUSTRY",
+    "ruling": "government"
+   },
+   {
+    "atom": "government",
+    "bucket": "INDUSTRY",
+    "ruling": "government"
+   },
+   {
+    "atom": "government",
+    "bucket": "INDUSTRY",
+    "ruling": "government"
+   }
+  ],
+  "Government & public sector": [
+   {
+    "atom": "government",
+    "bucket": "INDUSTRY",
+    "ruling": "government"
+   },
+   {
+    "atom": "public sector",
+    "bucket": "INDUSTRY",
+    "ruling": "government"
+   }
+  ],
+  "Grooming, boarding, vets": [
+   {
+    "atom": "grooming, boarding, vets",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "HCLTech": [
+   {
+    "atom": "hcltech",
+    "bucket": "REJECTED",
+    "ruling": "named client or vendor, not an industry"
+   }
+  ],
+  "Health": [
+   {
+    "atom": "health",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   }
+  ],
+  "Health & Beauty": [
+   {
+    "atom": "health",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "beauty",
+    "bucket": "INDUSTRY",
+    "ruling": "beauty"
+   }
+  ],
+  "Health & Wellness": [
+   {
+    "atom": "health",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "wellness",
+    "bucket": "INDUSTRY",
+    "ruling": "wellness"
+   }
+  ],
+  "Healthcare": [
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   }
+  ],
+  "Healthcare & HIPAA": [
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "hipaa",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Healthcare & Life Sciences": [
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "life sciences",
+    "bucket": "INDUSTRY",
+    "ruling": "life-sciences"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   },
+   {
+    "atom": "life sciences",
+    "bucket": "INDUSTRY",
+    "ruling": "life-sciences"
+   }
+  ],
+  "Help Portal": [
+   {
+    "atom": "help portal",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Hi Tech": [
+   {
+    "atom": "hi tech",
+    "bucket": "INDUSTRY",
+    "ruling": "technology"
+   }
+  ],
+  "High Tech": [
+   {
+    "atom": "high tech",
+    "bucket": "INDUSTRY",
+    "ruling": "technology"
+   }
+  ],
+  "Higher Education": [
+   {
+    "atom": "higher education",
+    "bucket": "INDUSTRY",
+    "ruling": "higher-education"
+   }
+  ],
+  "Higher education": [
+   {
+    "atom": "higher education",
+    "bucket": "INDUSTRY",
+    "ruling": "higher-education"
+   }
+  ],
+  "Home": [
+   {
+    "atom": "home",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Home Page Dropdown Resource": [
+   {
+    "atom": "home page dropdown resource",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Home Services": [
+   {
+    "atom": "home services",
+    "bucket": "INDUSTRY",
+    "ruling": "home-services"
+   }
+  ],
+  "Hospitality": [
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   }
+  ],
+  "Hotels": [
+   {
+    "atom": "hotels",
+    "bucket": "INDUSTRY",
+    "ruling": "hotels"
+   },
+   {
+    "atom": "hotels",
+    "bucket": "INDUSTRY",
+    "ruling": "hotels"
+   }
+  ],
+  "In-House Marketing": [
+   {
+    "atom": "in-house marketing",
+    "bucket": "SEGMENT",
+    "ruling": "competitor class 2 - in-house build"
+   }
+  ],
+  "In-House Operations": [
+   {
+    "atom": "in-house operations",
+    "bucket": "SEGMENT",
+    "ruling": "competitor class 2 - in-house build"
+   }
+  ],
+  "Increase engagement": [
+   {
+    "atom": "increase engagement",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Industries": [
+   {
+    "atom": "industries",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "industries",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "industries",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "industries",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Industry solutions on AWS": [
+   {
+    "atom": "industry solutions on aws",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Insurance": [
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   },
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   }
+  ],
+  "Insurance & Health": [
+   {
+    "atom": "insurance",
+    "bucket": "INDUSTRY",
+    "ruling": "insurance"
+   },
+   {
+    "atom": "health",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   }
+  ],
+  "Integration Partners": [
+   {
+    "atom": "integration partners",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Journey Designer": [
+   {
+    "atom": "journey designer",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "LEARN": [
+   {
+    "atom": "learn",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "LET’S TALK RESULTS": [
+   {
+    "atom": "let's talk results",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "LISTSERV 101": [
+   {
+    "atom": "listserv 101",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Language": [
+   {
+    "atom": "language",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Last-Mile Delivery": [
+   {
+    "atom": "last-mile delivery",
+    "bucket": "INDUSTRY",
+    "ruling": "last-mile-delivery"
+   }
+  ],
+  "Law, accounting": [
+   {
+    "atom": "law, accounting",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Learn": [
+   {
+    "atom": "learn",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "learn",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Learn about OptiKPI heritage and story": [
+   {
+    "atom": "learn about optikpi heritage and story",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Learn more": [
+   {
+    "atom": "learn more",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Learn with Airship": [
+   {
+    "atom": "learn with airship",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Legal": [
+   {
+    "atom": "legal",
+    "bucket": "INDUSTRY",
+    "ruling": "legal"
+   },
+   {
+    "atom": "legal",
+    "bucket": "INDUSTRY",
+    "ruling": "legal"
+   }
+  ],
+  "Legal & Finance": [
+   {
+    "atom": "legal",
+    "bucket": "INDUSTRY",
+    "ruling": "legal"
+   },
+   {
+    "atom": "finance",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   }
+  ],
+  "Lending": [
+   {
+    "atom": "lending",
+    "bucket": "INDUSTRY",
+    "ruling": "lending"
+   }
+  ],
+  "Life Sciences": [
+   {
+    "atom": "life sciences",
+    "bucket": "INDUSTRY",
+    "ruling": "life-sciences"
+   }
+  ],
+  "Life Sciences and Healthcare": [
+   {
+    "atom": "life sciences",
+    "bucket": "INDUSTRY",
+    "ruling": "life-sciences"
+   },
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   }
+  ],
+  "Local/Home Services": [
+   {
+    "atom": "local",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "home services",
+    "bucket": "INDUSTRY",
+    "ruling": "home-services"
+   }
+  ],
+  "Locations": [
+   {
+    "atom": "locations",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Log In": [
+   {
+    "atom": "log in",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "log in",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Logistics": [
+   {
+    "atom": "logistics",
+    "bucket": "INDUSTRY",
+    "ruling": "logistics"
+   },
+   {
+    "atom": "logistics",
+    "bucket": "INDUSTRY",
+    "ruling": "logistics"
+   },
+   {
+    "atom": "logistics",
+    "bucket": "INDUSTRY",
+    "ruling": "logistics"
+   }
+  ],
+  "Loyalty and lifecycle marketing": [
+   {
+    "atom": "loyalty and lifecycle marketing",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Luxury": [
+   {
+    "atom": "luxury",
+    "bucket": "INDUSTRY",
+    "ruling": "luxury"
+   }
+  ],
+  "Maestro 101": [
+   {
+    "atom": "maestro 101",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Manage customer lifecycle": [
+   {
+    "atom": "manage customer lifecycle",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Manufacturing": [
+   {
+    "atom": "manufacturing",
+    "bucket": "INDUSTRY",
+    "ruling": "manufacturing"
+   },
+   {
+    "atom": "manufacturing",
+    "bucket": "INDUSTRY",
+    "ruling": "manufacturing"
+   },
+   {
+    "atom": "manufacturing",
+    "bucket": "INDUSTRY",
+    "ruling": "manufacturing"
+   },
+   {
+    "atom": "manufacturing",
+    "bucket": "INDUSTRY",
+    "ruling": "manufacturing"
+   },
+   {
+    "atom": "manufacturing",
+    "bucket": "INDUSTRY",
+    "ruling": "manufacturing"
+   },
+   {
+    "atom": "manufacturing",
+    "bucket": "INDUSTRY",
+    "ruling": "manufacturing"
+   },
+   {
+    "atom": "manufacturing",
+    "bucket": "INDUSTRY",
+    "ruling": "manufacturing"
+   },
+   {
+    "atom": "manufacturing",
+    "bucket": "INDUSTRY",
+    "ruling": "manufacturing"
+   },
+   {
+    "atom": "manufacturing",
+    "bucket": "INDUSTRY",
+    "ruling": "manufacturing"
+   }
+  ],
+  "Marketers": [
+   {
+    "atom": "marketers",
+    "bucket": "SEGMENT",
+    "ruling": "buyer role"
+   }
+  ],
+  "Marketing": [
+   {
+    "atom": "marketing",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "marketing",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Marketplace": [
+   {
+    "atom": "marketplace",
+    "bucket": "SEGMENT",
+    "ruling": "business model"
+   }
+  ],
+  "Marketplaces": [
+   {
+    "atom": "marketplaces",
+    "bucket": "SEGMENT",
+    "ruling": "business model"
+   }
+  ],
+  "Media & Entertainment": [
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "entertainment",
+    "bucket": "INDUSTRY",
+    "ruling": "entertainment"
+   },
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "entertainment",
+    "bucket": "INDUSTRY",
+    "ruling": "entertainment"
+   }
+  ],
+  "Media & Publishers": [
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "publishers",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   }
+  ],
+  "Media & Publishing": [
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "publishing",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   }
+  ],
+  "Media & entertainment": [
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "entertainment",
+    "bucket": "INDUSTRY",
+    "ruling": "entertainment"
+   }
+  ],
+  "Media and Entertainment": [
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "entertainment",
+    "bucket": "INDUSTRY",
+    "ruling": "entertainment"
+   },
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "entertainment",
+    "bucket": "INDUSTRY",
+    "ruling": "entertainment"
+   }
+  ],
+  "Media and entertainment": [
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "entertainment",
+    "bucket": "INDUSTRY",
+    "ruling": "entertainment"
+   }
+  ],
+  "Media&Entertainment": [
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "entertainment",
+    "bucket": "INDUSTRY",
+    "ruling": "entertainment"
+   }
+  ],
+  "Mgmt. Consulting": [
+   {
+    "atom": "mgmt. consulting",
+    "bucket": "SEGMENT",
+    "ruling": "competitor class 3 - services firms"
+   }
+  ],
+  "Mobile": [
+   {
+    "atom": "mobile",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Mobile App Marketing": [
+   {
+    "atom": "mobile app marketing",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Mobile apps": [
+   {
+    "atom": "mobile apps",
+    "bucket": "SEGMENT",
+    "ruling": "product type"
+   }
+  ],
+  "Mortgage": [
+   {
+    "atom": "mortgage",
+    "bucket": "INDUSTRY",
+    "ruling": "mortgage"
+   }
+  ],
+  "Mutual Funds": [
+   {
+    "atom": "mutual funds",
+    "bucket": "INDUSTRY",
+    "ruling": "mutual-funds"
+   }
+  ],
+  "NGOs": [
+   {
+    "atom": "ngos",
+    "bucket": "INDUSTRY",
+    "ruling": "nonprofits"
+   }
+  ],
+  "New": [
+   {
+    "atom": "new",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "News": [
+   {
+    "atom": "news",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "News/Media": [
+   {
+    "atom": "news",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   }
+  ],
+  "Non-profit": [
+   {
+    "atom": "non-profit",
+    "bucket": "INDUSTRY",
+    "ruling": "nonprofits"
+   }
+  ],
+  "Nonprofits": [
+   {
+    "atom": "nonprofits",
+    "bucket": "INDUSTRY",
+    "ruling": "nonprofits"
+   },
+   {
+    "atom": "nonprofits",
+    "bucket": "INDUSTRY",
+    "ruling": "nonprofits"
+   },
+   {
+    "atom": "nonprofits",
+    "bucket": "INDUSTRY",
+    "ruling": "nonprofits"
+   },
+   {
+    "atom": "nonprofits",
+    "bucket": "INDUSTRY",
+    "ruling": "nonprofits"
+   }
+  ],
+  "Nurture Leads": [
+   {
+    "atom": "nurture leads",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "OPTIKPI FOR...": [
+   {
+    "atom": "optikpi for...",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Oil & Gas": [
+   {
+    "atom": "oil & gas",
+    "bucket": "INDUSTRY",
+    "ruling": "oil-gas"
+   }
+  ],
+  "Omnichannel Engagement": [
+   {
+    "atom": "omnichannel engagement",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "On-Demand": [
+   {
+    "atom": "on-demand",
+    "bucket": "SEGMENT",
+    "ruling": "business model"
+   }
+  ],
+  "One pagers": [
+   {
+    "atom": "one pagers",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Online Trading": [
+   {
+    "atom": "online trading",
+    "bucket": "INDUSTRY",
+    "ruling": "online-trading"
+   }
+  ],
+  "Open Resources": [
+   {
+    "atom": "open resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Operations": [
+   {
+    "atom": "operations",
+    "bucket": "SEGMENT",
+    "ruling": "buyer role"
+   }
+  ],
+  "Operations Service Providers": [
+   {
+    "atom": "operations service providers",
+    "bucket": "SEGMENT",
+    "ruling": "competitor class 3 - services firms"
+   }
+  ],
+  "Orchestrate Journeys": [
+   {
+    "atom": "orchestrate journeys",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Others": [
+   {
+    "atom": "others",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "others",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Our Solutions": [
+   {
+    "atom": "our solutions",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Our Story": [
+   {
+    "atom": "our story",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "PRODUCT FEATURES": [
+   {
+    "atom": "product features",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Partners": [
+   {
+    "atom": "partners",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "partners",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Personalization": [
+   {
+    "atom": "personalization",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Personalization at purchase scale": [
+   {
+    "atom": "personalization at purchase scale",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Pet Services": [
+   {
+    "atom": "pet services",
+    "bucket": "INDUSTRY",
+    "ruling": "pet-services"
+   }
+  ],
+  "Pharma": [
+   {
+    "atom": "pharma",
+    "bucket": "INDUSTRY",
+    "ruling": "pharma"
+   }
+  ],
+  "Pharmacy": [
+   {
+    "atom": "pharmacy",
+    "bucket": "INDUSTRY",
+    "ruling": "pharmacy"
+   }
+  ],
+  "Plans": [
+   {
+    "atom": "plans",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Prediction Markets": [
+   {
+    "atom": "prediction markets",
+    "bucket": "INDUSTRY",
+    "ruling": "prediction-markets"
+   }
+  ],
+  "Pricing": [
+   {
+    "atom": "pricing",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Private Equity": [
+   {
+    "atom": "private equity",
+    "bucket": "INDUSTRY",
+    "ruling": "private-equity"
+   }
+  ],
+  "Process Mining": [
+   {
+    "atom": "process mining",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Product Tours": [
+   {
+    "atom": "product tours",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Products": [
+   {
+    "atom": "products",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "PropTech": [
+   {
+    "atom": "proptech",
+    "bucket": "INDUSTRY",
+    "ruling": "proptech"
+   }
+  ],
+  "Public Sector": [
+   {
+    "atom": "public sector",
+    "bucket": "INDUSTRY",
+    "ruling": "government"
+   },
+   {
+    "atom": "public sector",
+    "bucket": "INDUSTRY",
+    "ruling": "government"
+   }
+  ],
+  "Public Services": [
+   {
+    "atom": "public services",
+    "bucket": "INDUSTRY",
+    "ruling": "government"
+   }
+  ],
+  "Pulse: iGaming’s Benchmark Tool": [
+   {
+    "atom": "pulse: igaming's benchmark tool",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "RFP/RFI": [
+   {
+    "atom": "rfp/rfi",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "ROI Calcu": [
+   {
+    "atom": "roi calcu",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Read the report": [
+   {
+    "atom": "read the report",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Real Estate": [
+   {
+    "atom": "real estate",
+    "bucket": "INDUSTRY",
+    "ruling": "real-estate"
+   },
+   {
+    "atom": "real estate",
+    "bucket": "INDUSTRY",
+    "ruling": "real-estate"
+   }
+  ],
+  "Real Estate Industry Solutions": [
+   {
+    "atom": "real estate",
+    "bucket": "INDUSTRY",
+    "ruling": "real-estate"
+   }
+  ],
+  "Real-time player context and activation": [
+   {
+    "atom": "real-time player context and activation",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Reduce churn, boost loyal": [
+   {
+    "atom": "reduce churn, boost loyal",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Repair shops & detailing": [
+   {
+    "atom": "repair shops & detailing",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Request a Demo": [
+   {
+    "atom": "request a demo",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Resource Center": [
+   {
+    "atom": "resource center",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Resource Library -->": [
+   {
+    "atom": "resource library -->",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Resource hub": [
+   {
+    "atom": "resource hub",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Resources": [
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "resources",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Resources and Events": [
+   {
+    "atom": "resources and events",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Restaurant Industry Solutions": [
+   {
+    "atom": "restaurant",
+    "bucket": "INDUSTRY",
+    "ruling": "restaurants"
+   }
+  ],
+  "Restaurants": [
+   {
+    "atom": "restaurants",
+    "bucket": "INDUSTRY",
+    "ruling": "restaurants"
+   },
+   {
+    "atom": "restaurants",
+    "bucket": "INDUSTRY",
+    "ruling": "restaurants"
+   },
+   {
+    "atom": "restaurants",
+    "bucket": "INDUSTRY",
+    "ruling": "restaurants"
+   },
+   {
+    "atom": "restaurants",
+    "bucket": "INDUSTRY",
+    "ruling": "restaurants"
+   },
+   {
+    "atom": "restaurants",
+    "bucket": "INDUSTRY",
+    "ruling": "restaurants"
+   },
+   {
+    "atom": "restaurants",
+    "bucket": "INDUSTRY",
+    "ruling": "restaurants"
+   },
+   {
+    "atom": "restaurants",
+    "bucket": "INDUSTRY",
+    "ruling": "restaurants"
+   },
+   {
+    "atom": "restaurants",
+    "bucket": "INDUSTRY",
+    "ruling": "restaurants"
+   }
+  ],
+  "Retail": [
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   }
+  ],
+  "Retail & E-Commerce": [
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "e-commerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   }
+  ],
+  "Retail & E-commerce": [
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "e-commerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   }
+  ],
+  "Retail & Ecommerce": [
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   }
+  ],
+  "Retail & eCommerce": [
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   }
+  ],
+  "Retail & ecommerce": [
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   }
+  ],
+  "Retail Leasing Metrics": [
+   {
+    "atom": "retail leasing metrics",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Retail Stores": [
+   {
+    "atom": "retail stores",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "retail stores",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   }
+  ],
+  "Retail and E-commerce": [
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "e-commerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   },
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "e-commerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   }
+  ],
+  "Retail and ecommerce": [
+   {
+    "atom": "retail",
+    "bucket": "INDUSTRY",
+    "ruling": "retail"
+   },
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   }
+  ],
+  "SMS Marketing": [
+   {
+    "atom": "sms marketing",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "SaaS": [
+   {
+    "atom": "saas",
+    "bucket": "INDUSTRY",
+    "ruling": "saas"
+   },
+   {
+    "atom": "saas",
+    "bucket": "INDUSTRY",
+    "ruling": "saas"
+   }
+  ],
+  "Salons, spas, fitness": [
+   {
+    "atom": "salons, spas, fitness",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Schedule a Demo": [
+   {
+    "atom": "schedule a demo",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Schedule a demo": [
+   {
+    "atom": "schedule a demo",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Security and Compliance": [
+   {
+    "atom": "security and compliance",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "See All Industries": [
+   {
+    "atom": "see all industries",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "See product tour": [
+   {
+    "atom": "see product tour",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Service": [
+   {
+    "atom": "service",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Services": [
+   {
+    "atom": "services",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Sign Up Now": [
+   {
+    "atom": "sign up now",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "sign up now",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Small business": [
+   {
+    "atom": "small business",
+    "bucket": "SEGMENT",
+    "ruling": "company size"
+   }
+  ],
+  "Social Games & Apps": [
+   {
+    "atom": "social games",
+    "bucket": "INDUSTRY",
+    "ruling": "gaming"
+   },
+   {
+    "atom": "apps",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Social Gaming": [
+   {
+    "atom": "social gaming",
+    "bucket": "INDUSTRY",
+    "ruling": "gaming"
+   }
+  ],
+  "Social Media": [
+   {
+    "atom": "social media",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Solutions": [
+   {
+    "atom": "solutions",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "solutions",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "solutions",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Solutions Library": [
+   {
+    "atom": "solutions library",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Solutions that drive business results": [
+   {
+    "atom": "solutions that drive business results",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Space Optimization": [
+   {
+    "atom": "space optimization",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Spas & Salons": [
+   {
+    "atom": "spas",
+    "bucket": "INDUSTRY",
+    "ruling": "spas"
+   },
+   {
+    "atom": "salons",
+    "bucket": "INDUSTRY",
+    "ruling": "salons"
+   },
+   {
+    "atom": "spas",
+    "bucket": "INDUSTRY",
+    "ruling": "spas"
+   },
+   {
+    "atom": "salons",
+    "bucket": "INDUSTRY",
+    "ruling": "salons"
+   }
+  ],
+  "Sports": [
+   {
+    "atom": "sports",
+    "bucket": "INDUSTRY",
+    "ruling": "sports"
+   },
+   {
+    "atom": "sports",
+    "bucket": "INDUSTRY",
+    "ruling": "sports"
+   }
+  ],
+  "Startups": [
+   {
+    "atom": "startups",
+    "bucket": "SEGMENT",
+    "ruling": "company stage"
+   }
+  ],
+  "Startups & Scaleups": [
+   {
+    "atom": "startups & scaleups",
+    "bucket": "SEGMENT",
+    "ruling": "company stage"
+   }
+  ],
+  "State of Direct Mail": [
+   {
+    "atom": "state of direct mail",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Success Story": [
+   {
+    "atom": "success story",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Supply Chain": [
+   {
+    "atom": "supply chain",
+    "bucket": "INDUSTRY",
+    "ruling": "supply-chain"
+   }
+  ],
+  "Support": [
+   {
+    "atom": "support",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "support",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "support",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "support",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Switch from GA4": [
+   {
+    "atom": "switch from ga4",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Switch from Matomo": [
+   {
+    "atom": "switch from matomo",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Teams": [
+   {
+    "atom": "teams",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Tech/Software/IT": [
+   {
+    "atom": "tech",
+    "bucket": "INDUSTRY",
+    "ruling": "technology"
+   },
+   {
+    "atom": "software",
+    "bucket": "INDUSTRY",
+    "ruling": "software"
+   },
+   {
+    "atom": "it",
+    "bucket": "INDUSTRY",
+    "ruling": "it-services"
+   }
+  ],
+  "Technical": [
+   {
+    "atom": "technical",
+    "bucket": "SEGMENT",
+    "ruling": "buyer role"
+   }
+  ],
+  "Technology": [
+   {
+    "atom": "technology",
+    "bucket": "INDUSTRY",
+    "ruling": "technology"
+   },
+   {
+    "atom": "technology",
+    "bucket": "INDUSTRY",
+    "ruling": "technology"
+   }
+  ],
+  "Technology & Services": [
+   {
+    "atom": "technology",
+    "bucket": "INDUSTRY",
+    "ruling": "technology"
+   },
+   {
+    "atom": "services",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Telco & Media": [
+   {
+    "atom": "telco",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   },
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "telco",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   },
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   }
+  ],
+  "Telecom": [
+   {
+    "atom": "telecom",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   },
+   {
+    "atom": "telecom",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   }
+  ],
+  "Telecom, media & entertainment": [
+   {
+    "atom": "telecom",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   },
+   {
+    "atom": "media",
+    "bucket": "INDUSTRY",
+    "ruling": "media"
+   },
+   {
+    "atom": "entertainment",
+    "bucket": "INDUSTRY",
+    "ruling": "entertainment"
+   }
+  ],
+  "Telecommunication": [
+   {
+    "atom": "telecommunication",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   },
+   {
+    "atom": "telecommunication",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   },
+   {
+    "atom": "telecommunication",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   },
+   {
+    "atom": "telecommunication",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   }
+  ],
+  "Telecommunications": [
+   {
+    "atom": "telecommunications",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   },
+   {
+    "atom": "telecommunications",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   },
+   {
+    "atom": "telecommunications",
+    "bucket": "INDUSTRY",
+    "ruling": "telecommunications"
+   }
+  ],
+  "Testimonials": [
+   {
+    "atom": "testimonials",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Text - Customer service solution for capital markets": [
+   {
+    "atom": "capital markets",
+    "bucket": "INDUSTRY",
+    "ruling": "capital-markets"
+   }
+  ],
+  "Text - Customer service solution for iGaming": [
+   {
+    "atom": "igaming",
+    "bucket": "INDUSTRY",
+    "ruling": "igaming"
+   }
+  ],
+  "Toggle Menu": [
+   {
+    "atom": "toggle menu",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Tourism": [
+   {
+    "atom": "tourism",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   }
+  ],
+  "Tourism Fiji": [
+   {
+    "atom": "tourism fiji",
+    "bucket": "REJECTED",
+    "ruling": "named client or vendor, not an industry"
+   }
+  ],
+  "Trades & field work": [
+   {
+    "atom": "trades & field work",
+    "bucket": "REJECTED",
+    "ruling": "sub-label describing the row above, not an industry heading"
+   }
+  ],
+  "Training": [
+   {
+    "atom": "training",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Transportation": [
+   {
+    "atom": "transportation",
+    "bucket": "INDUSTRY",
+    "ruling": "transportation"
+   }
+  ],
+  "Travel": [
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   }
+  ],
+  "Travel & Hospitality": [
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   }
+  ],
+  "Travel & hospitality": [
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   }
+  ],
+  "Travel And Hospitality": [
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   }
+  ],
+  "Travel and Hospitality": [
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   },
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   }
+  ],
+  "Travel and hospitality": [
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   },
+   {
+    "atom": "hospitality",
+    "bucket": "INDUSTRY",
+    "ruling": "hospitality"
+   }
+  ],
+  "Turn": [
+   {
+    "atom": "turn",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "USE CASES": [
+   {
+    "atom": "use cases",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Use Cases": [
+   {
+    "atom": "use cases",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Utilities": [
+   {
+    "atom": "utilities",
+    "bucket": "INDUSTRY",
+    "ruling": "utilities"
+   }
+  ],
+  "Video Tutorials": [
+   {
+    "atom": "video tutorials",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "View Blog": [
+   {
+    "atom": "view blog",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "View Now": [
+   {
+    "atom": "view now",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "view now",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   },
+   {
+    "atom": "view now",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Vodafone Fiji": [
+   {
+    "atom": "vodafone fiji",
+    "bucket": "REJECTED",
+    "ruling": "named client or vendor, not an industry"
+   }
+  ],
+  "WHAT’S NEW?": [
+   {
+    "atom": "what's new",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Webinar": [
+   {
+    "atom": "webinar",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Webinars": [
+   {
+    "atom": "webinars",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Webinars and events": [
+   {
+    "atom": "webinars and events",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Website": [
+   {
+    "atom": "website",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "White Papers & Guides": [
+   {
+    "atom": "white papers & guides",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Why Pyze": [
+   {
+    "atom": "why pyze",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Why SmartCOMM": [
+   {
+    "atom": "why smartcomm",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "Why iPresso?": [
+   {
+    "atom": "why ipresso",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "WorksBuddy for Automobile": [
+   {
+    "atom": "automobile",
+    "bucket": "INDUSTRY",
+    "ruling": "automotive"
+   }
+  ],
+  "WorksBuddy for Education": [
+   {
+    "atom": "education",
+    "bucket": "INDUSTRY",
+    "ruling": "education"
+   }
+  ],
+  "WorksBuddy for Finance": [
+   {
+    "atom": "finance",
+    "bucket": "INDUSTRY",
+    "ruling": "financial-services"
+   }
+  ],
+  "WorksBuddy for Food and Beverage": [
+   {
+    "atom": "food and beverage",
+    "bucket": "INDUSTRY",
+    "ruling": "food-beverage"
+   }
+  ],
+  "WorksBuddy for Healthcare": [
+   {
+    "atom": "healthcare",
+    "bucket": "INDUSTRY",
+    "ruling": "healthcare"
+   }
+  ],
+  "WorksBuddy for IT Services": [
+   {
+    "atom": "it services",
+    "bucket": "INDUSTRY",
+    "ruling": "it-services"
+   }
+  ],
+  "WorksBuddy for Logistics": [
+   {
+    "atom": "logistics",
+    "bucket": "INDUSTRY",
+    "ruling": "logistics"
+   }
+  ],
+  "WorksBuddy for Real Estate": [
+   {
+    "atom": "real estate",
+    "bucket": "INDUSTRY",
+    "ruling": "real-estate"
+   }
+  ],
+  "WorksBuddy for SaaS": [
+   {
+    "atom": "saas",
+    "bucket": "INDUSTRY",
+    "ruling": "saas"
+   }
+  ],
+  "account_balance": [
+   {
+    "atom": "account_balance",
+    "bucket": "REJECTED",
+    "ruling": "Material-icon ligature scraped from markup"
+   }
+  ],
+  "approval_delegation": [
+   {
+    "atom": "approval_delegation",
+    "bucket": "REJECTED",
+    "ruling": "Material-icon ligature scraped from markup"
+   }
+  ],
+  "auto_stories": [
+   {
+    "atom": "auto_stories",
+    "bucket": "REJECTED",
+    "ruling": "Material-icon ligature scraped from markup"
+   }
+  ],
+  "computer": [
+   {
+    "atom": "computer",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "eBooks": [
+   {
+    "atom": "ebooks",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "eCommerce": [
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   },
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   }
+  ],
+  "eCommerce & D2C": [
+   {
+    "atom": "ecommerce",
+    "bucket": "INDUSTRY",
+    "ruling": "ecommerce"
+   },
+   {
+    "atom": "d2c",
+    "bucket": "INDUSTRY",
+    "ruling": "d2c"
+   }
+  ],
+  "get started": [
+   {
+    "atom": "get started",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "iGaming": [
+   {
+    "atom": "igaming",
+    "bucket": "INDUSTRY",
+    "ruling": "igaming"
+   },
+   {
+    "atom": "igaming",
+    "bucket": "INDUSTRY",
+    "ruling": "igaming"
+   },
+   {
+    "atom": "igaming",
+    "bucket": "INDUSTRY",
+    "ruling": "igaming"
+   }
+  ],
+  "industry versions": [
+   {
+    "atom": "industry versions",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ],
+  "shopping_cart": [
+   {
+    "atom": "shopping_cart",
+    "bucket": "REJECTED",
+    "ruling": "Material-icon ligature scraped from markup"
+   }
+  ],
+  "travel": [
+   {
+    "atom": "travel",
+    "bucket": "INDUSTRY",
+    "ruling": "travel"
+   }
+  ],
+  "what we can do for you": [
+   {
+    "atom": "what we can do for you",
+    "bucket": "REJECTED",
+    "ruling": "site navigation, CTA, product or content label"
+   }
+  ]
+ }
+}
