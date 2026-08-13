@@ -141,3 +141,30 @@ English block rate by supplying content no automated rung could reach; it change
 the four untested languages. **And per `outputs/gartner-marketing-extraction.md` §6.1, three of
 those four are excluded from Gartner by published policy — so for `ru`, `tr` and `ka` the
 constraint is not our access, it is that the content does not exist.**
+
+### Pass 03 — browser-transport probe, 2026-08-13
+
+Two probes, run through the user's own Chrome via the browser-automation MCP, to test whether a
+real browser reaches what `WebFetch` and `curl` cannot. **It does.** Both pages rendered in full.
+
+| date | url | source | rung | outcome | obtained | raw_file | escalated_to | source_language |
+|---|---|---|---|---|---|---|---|---|
+| 2026-08-13 | https://www.g2.com/products/insider-one/reviews (WebFetch) | g2 | 1 | 403 | nothing — no body returned | — | Rung 1-B | en |
+| 2026-08-13 | https://insiderone.com/ (WebFetch) | g2 | 1 | ok | title, h1, positioning text — matches the 2026-08-11 stored record verbatim, so that record is still current | — | — | en |
+| 2026-08-13 | https://www.g2.com/products/insider-one/reviews (browser) | g2 | **1-B** | ok | full product page: 4.8/5 (1,415), breadcrumb `Mobile Marketing Software`, full review bodies | — | — | en |
+| 2026-08-13 | https://www.g2.com/categories/marketing-automation (browser) | g2 | **1-B** | ok | **"510 Listings"**, 16 vendor rows with `By <vendor>` attribution, ratings, review counts, `Sponsored` flag, **the category's verbatim inclusion criteria**, pagination `1…34`, and a Language filter | — | — | en |
+
+**What this overturns.** Row 78 above recorded the inclusion criteria as *"unobtainable without
+human transport."* That is now false: a browser reaches them directly. The Rung-3 paste request
+for G2 category pages is superseded, not satisfied — no paste was needed.
+
+**Rung 1-B is a new designation and is deliberately not called Rung 1.** Same origin, same page,
+no intermediary summarising it — evidentially it is a direct read. But the transport differs: it
+renders JavaScript in the user's authenticated-capable browser, so what it returns can depend on
+session state and on client-side rendering in a way `curl` output cannot. Recording it as plain
+Rung 1 would erase that difference. `research-protocol.md` needs an amendment before any pass
+relies on it.
+
+**Drift noted, not a conflict.** The store carries `declared_total: 511` for Marketing
+Automation (captured 2026-08-10); the page said **510** on 2026-08-13. Same source, three days
+apart — category membership moves. Any G2 recount must re-read the denominator, never reuse it.
