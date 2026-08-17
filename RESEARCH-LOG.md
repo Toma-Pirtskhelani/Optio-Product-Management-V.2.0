@@ -234,6 +234,20 @@ was primary. SAS's whole list is a nav bar. Every string is published with its r
 in §4 rather than dropped. `vertical_focus`, computed from the raw list length, is contaminated
 the same way and should not be used. `LEARNINGS.md` 18–19.
 
+**21 · 2026-08-17 · An innovation ranking was requested; the base could not carry one**
+Asked for the 5 most innovative vendors. **Not published, and the reason is measurable.** Scoring
+AI/agentic language across 216 companies ranks **Salesforce 2nd, Oracle 11th and Precisely 17th
+— the latter two carrying Gartner `(Legacy)` markers — while the two vendors named as ahead of
+the curve rank 99th and 108th.** The metric measures how recently a homepage was rewritten.
+Pilot on the right signal — dated release notes — separates Braze (monthly, latest 2026-07-23)
+from Klaviyo's API changelog (latest 2025-06-17, 14 months stale), in the opposite direction.
+**A user remark exposed 7 wrong-company records** (`I-0002`): `Zeta` was enriched from
+`zeta.tech`, a card-issuing bank-tech firm, while its own Gartner products — Selligent, Cheetah
+Digital — identify **Zeta Global** (*Athena by Zeta™*). Also MINT, Trueblue, CAKE, Insightly,
+Marigold, Levitate. All 7 passed the identity gate, because the gate tests that a name matches,
+and all 7 passed 15 checks, because those assert a chain is *recorded*, not *true*.
+Method, verification design and the costed pass: `outputs/innovation-method.md`.
+
 ---
 
 ## Where it stands
@@ -247,6 +261,11 @@ checks pass, including four that police the boundaries between evidence types.
 **The binding constraint is G2 coverage: 65 of 1,810 listings (3.6%).** The Gartner half is
 complete at 352 of 352. Closing the G2 half needs ~111 paginated pastes; nothing else in the
 pipeline is blocked.
+
+**Blocking any vendor-level ranking:** 7 records describe the wrong company (`I-0002`) and are
+not yet re-enriched. `outputs/industries.md` inherits them and must be recomputed after the fix,
+not before. The sweep detects only wrong companies in an obviously *different* business — a wrong
+company in the same business would pass every check we have.
 
 **Also open:** G2 Mobile Marketing Software (the only G2 counterpart to Gartner's Mobile
 Marketing Platforms), Conversational Marketing Solutions still BOUNDARY, and Account Data

@@ -168,3 +168,16 @@ relies on it.
 **Drift noted, not a conflict.** The store carries `declared_total: 511` for Marketing
 Automation (captured 2026-08-10); the page said **510** on 2026-08-13. Same source, three days
 apart — category membership moves. Any G2 recount must re-read the denominator, never reuse it.
+
+### Pass 04 — innovation-signal feasibility pilot, 2026-08-17
+
+| date | url | source | rung | outcome | obtained | raw_file | escalated_to | source_language |
+|---|---|---|---|---|---|---|---|---|
+| 2026-08-17 | https://zetaglobal.com/ | vendor | 1 | ok | **Zeta Global — "Athena by Zeta™", Zeta Marketing Platform.** Confirms the store's `Zeta` record was enriched from the wrong company (`zeta.tech`) — see `logs/incidents.md` I-0002 | — | — | en |
+| 2026-08-17 | https://www.braze.com/docs/help/release_notes/ | vendor | 1 | ok | monthly cadence, latest **2026-07-23**, 5 dated releases in 4 months | — | — | en |
+| 2026-08-17 | https://developers.klaviyo.com/en/docs/changelog | vendor | 1 | ok | latest **2025-06-17** — 14 months stale. Caveat: API changelog ≠ product changelog | — | — | en |
+| 2026-08-17 | https://docs.customer.io/journeys/release-notes/ | vendor | 1 | 404 | nothing — path was guessed | — | discovery required (`/llms.txt`, sitemap), not guessing | en |
+
+**Finding.** Shipping cadence is obtainable, dated, machine-readable, and discriminates in the
+**opposite direction** to marketing-language density. Guessed doc paths fail the same way guessed
+domains did in the enrichment pass. Method written up in `outputs/innovation-method.md`.
