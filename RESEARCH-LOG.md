@@ -259,8 +259,8 @@ All 10 IN classifications accepted and exported. Canonical store is **`outputs/c
 checks pass, including four that police the boundaries between evidence types.
 
 **The binding constraint is G2 coverage: 65 of 1,810 listings (3.6%).** The Gartner half is
-complete at 352 of 352. Closing the G2 half needs ~111 paginated pastes; nothing else in the
-pipeline is blocked.
+complete at 352 of 352. Closing the G2 half needs ~120 paginated page reads — **no longer pastes:
+pass 03 showed browser transport (Rung 1-B) reaches G2 directly**, awaiting a go-ahead.
 
 **Blocking any vendor-level ranking:** 7 records describe the wrong company (`I-0002`) and are
 not yet re-enriched. `outputs/industries.md` inherits them and must be recomputed after the fix,
